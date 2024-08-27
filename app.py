@@ -94,7 +94,7 @@ if __name__ == "__main__":
     urls = ["https://www.indiatoday.in/business", "https://www.indiatoday.in/entertainment", 
             "https://www.indiatoday.in/", "https://www.indiatoday.in/sports", 
             "https://www.indiatoday.in/education"]
-    urls = []
+    # urls = []
     data_frame = {"headlines": [], "link": [], "content": [], "category": []}
 
     for url in urls:
