@@ -137,7 +137,7 @@ if __name__ == "__main__":
     # final_df.to_csv("news_data.csv", index=False)
     # Step 1: Load the dataset
     # data = pd.read_csv('updated_news.csv')
-    data = final_df
+    data = df
     # Step 2: Combine headlines and content into one column
     data['text'] = data["headlines"] + " " + data["content"]
 
