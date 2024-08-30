@@ -3,32 +3,40 @@ document.addEventListener('DOMContentLoaded', function() {
     fetch('news_data.json')
         .then(response => response.json())
         .then(data => {
-            // Get the sports news data
             const sportsNews = data.sports;
 
-            // Select the sections for positive and negative news
-            const positiveCard = document.querySelector('.positive-news ul');
-            const negativeCard = document.querySelector('.negative-news ul');
+            const newsCardsContainer = document.getElementById('news-cards');
 
-            // Function to populate news cards
-            function populateNewsCard(cardElement, newsArray) {
-                newsArray.forEach(news => {
-                    const listItem = document.createElement('li');
-                    const link = document.createElement('a');
-                    link.href = news.url;
-                    link.target = '_blank';
-                    link.textContent = news.headline;
-                    listItem.appendChild(link);
-                    cardElement.appendChild(listItem);
-                });
-            }
+            sportsNews.forEach(news => {
+                const card = document.createElement('div');
+                card.classList.add('card');
 
-            // Filter and populate the news based on sentiment
-            const positiveNews = sportsNews.filter(news => news.sentiment === 'positive');
-            const negativeNews = sportsNews.filter(news => news.sentiment === 'negative');
+                // Apply sentiment-specific classes
+                if (news.sentiment === 'positive') {
+                    card.classList.add('positive-news');
+                } else if (news.sentiment === 'negative') {
+                    card.classList.add('negative-news');
+                } else {
+                    card.classList.add('neutral-news');
+                }
 
-            populateNewsCard(positiveCard, positiveNews);
-            populateNewsCard(negativeCard, negativeNews);
+                const headline = document.createElement('h2');
+                headline.textContent = news.sentiment.charAt(0).toUpperCase() + news.sentiment.slice(1) + " News";
+
+                const listItem = document.createElement('li');
+                const link = document.createElement('a');
+                link.href = news.url;
+                link.target = '_blank';
+                link.textContent = news.headline;
+                listItem.appendChild(link);
+
+                card.appendChild(headline);
+                const ul = document.createElement('ul');
+                ul.appendChild(listItem);
+                card.appendChild(ul);
+
+                newsCardsContainer.appendChild(card);
+            });
         })
         .catch(error => console.error('Error fetching news:', error));
 });
