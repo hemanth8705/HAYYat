@@ -18,13 +18,7 @@ body, html {
     z-index: 100;
 }
 
-.navbar .logo img {
-    height: 30px;
-    margin-right: 50px;
-}
-
 /* Top Photo Section */
-/* Container for video and text */
 .top-photo-container {
     position: relative;
     width: 100%;
@@ -32,7 +26,6 @@ body, html {
     overflow: hidden;
 }
 
-/* Style for the video */
 .top-video {
     width: 100%;
     height: 100%;
@@ -43,7 +36,6 @@ body, html {
     z-index: 1; /* Ensure the video stays behind the text */
 }
 
-/* Style for the heading text */
 .top-heading {
     position: absolute;
     top: 20px; /* Adjust this value to move the text down */
@@ -108,33 +100,6 @@ body, html {
     text-decoration: underline;
 }
 
-/* Footer Section */
-footer {
-    padding: 20px;
-    background-color: black;
-    color: white;
-    text-align: center;
-}
-.news-card {
-    padding: 20px;
-    border-radius: 8px;
-    margin: 20px;
-}
-
-.news-card ul {
-    list-style-type: disc; /* Adds bullet points */
-    padding-left: 20px; /* Adds space for bullets */
-}
-
-.news-card a {
-    text-decoration: none; /* Removes underline from links */
-    color: inherit; /* Inherits color from parent */
-}
-
-.news-card li {
-    margin-bottom: 10px; /* Adds space between list items */
-}
-
 /* Positive News Card */
 .positive-news {
     border: 2px solid green; /* Green border for positive news */
@@ -148,4 +113,12 @@ footer {
 /* Neutral News Card */
 .neutral-news {
     border: 2px solid gray; /* Gray border for neutral news */
+}
+
+/* Footer Section */
+footer {
+    padding: 20px;
+    background-color: black;
+    color: white;
+    text-align: center;
 }
