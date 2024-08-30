@@ -111,25 +111,25 @@ if __name__ == "__main__":
 
     print("India Today scraping time:", time.time() - start)
 
-    # Google News scraping
-    categories = {
-        'General News': 'latest news',
-        'Education': 'education news',
-        'Entertainment': 'entertainment news',
-        'Sports': 'sports news',
-        'Business': 'business news'
-    }
+    # # Google News scraping
+    # categories = {
+    #     'General News': 'latest news',
+    #     'Education': 'education news',
+    #     'Entertainment': 'entertainment news',
+    #     'Sports': 'sports news',
+    #     'Business': 'business news'
+    # }
 
-    all_stories = []
-    for category, search_term in categories.items():
-        stories = get_titles(search_term, category)
-        all_stories.extend(stories)
+    # all_stories = []
+    # for category, search_term in categories.items():
+    #     stories = get_titles(search_term, category)
+    #     all_stories.extend(stories)
 
-    df2 = pd.DataFrame(all_stories)
-    df2["source"] = "Google news"
+    # df2 = pd.DataFrame(all_stories)
+    # df2["source"] = "Google news"
 
-    # Combine both dataframes
-    final_df = pd.concat([df, df2], ignore_index=True)
+    # # Combine both dataframes
+    # final_df = pd.concat([df, df2], ignore_index=True)
 
     print("Total execution time:", time.time() - start)
 
