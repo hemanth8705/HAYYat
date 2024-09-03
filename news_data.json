@@ -2,6 +2,11 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/goldman-sachs-bullish-on-gold-investments-top-choice-china-us-rate-cut-2592789-2024-09-03",
+      "headline": "Goldman Sachs sees gold as top investment choice. Here's whyGoldman Sachs has adjusted its gold price target to $2,700, expecting it to reach this level by early 2025 instead of the end of 2024."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/matrimony-share-price-surge-today-buyback-proposal-explained-2592772-2024-09-03",
       "headline": "Explained: Why Matrimony.com shares hit 52-week high in early tradeMatrimony.com shares were up 11.26% to Rs 828.95 on the Bombay Stock Exchange at 1:44 pm.\u00a0"
     },
@@ -94,11 +99,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/government-approves-rs-3300-crore-semiconductor-unit-kaynes-semicon-pvt-ltd-gujarat-sanand-2592324-2024-09-02",
       "headline": "Government approves Rs 3,300 crore semiconductor unit in Gujarat's SanandThis unit represents India's fifth semiconductor facility and is part of the India Semiconductor Mission (ISM) to build a robust semiconductor ecosystem."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/union-cabinet-meeting-approves-rs-13966-crore-boost-for-agriculture-food-security-pm-modi-2592262-2024-09-02",
-      "headline": "Union Cabinet approves Rs 13,966 crore boost for agriculture, food securityThe decision was made during a meeting chaired by Prime Minister Narendra Modi, with the goal of supporting farming activities and improving the lives of farmers."
     }
   ],
   "entertainment": [
@@ -132,17 +132,27 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/west-bengal-anti-rape-bill-aparajita-woman-and-child-bill-introduced-mamata-banerjee-bjp-2592722-2024-09-03",
-      "headline": "Bengal anti-rape bill tabled, chaos as Mamata Banerjee lists rapes in BJP statesTitled the 'Aparajita Woman and Child Bill (West Bengal Criminal Laws and Amendment) 2024,' the legislation aims to strengthen protection for women and children by revising and introducing new provisions related to rape and sexual offences."
+      "headline": "Bengal anti-rape bill passed amid 'Mamata Banerjee vs BJP' fireworks in assemblyAfter a brief discussion, the West Bengal Assembly passed the anti-rape 'Aparajita' bill which provides for the death penalty for rape and sexual offences for persons convicted of rape if their actions result in the victim's death or leave her in a vegetative state."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/bengal-anti-rape-bill-assembly-mamata-banerjee-suvendu-adhikari-governor-president-2592786-2024-09-03",
+      "headline": "Anti-rape bill: Trinamool, BJP put ball in each other's court for President nodSince criminal law comes under the Concurrent List, the legislation will require assent from the Bengal Governor and then the President."
     },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/chhattisgarh-dantewada-naxalites-killed-encounter-injured-2592754-2024-09-03",
-      "headline": "9 Naxals killed in encounter with security forces in ChhattisgarhNine naxalites killed in encounter with security personnel in Chhattisgarh"
+      "headline": "9 Naxals killed in encounter with security forces in ChhattisgarhThe operation is still on and occasional firing is going on in the area. No security personnel have been injured in the encounter so far."
     },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/netflix-assures-future-content-will-be-sensitive-to-nation-sentiments-ic-814-kandahar-hijack-web-series-controversy-2592703-2024-09-03",
       "headline": "Centre questions Netflix on 'IC 814' portrayal: Hijackers firm, negotiators weakThe series 'IC-814: The Kandahar Hijack' has triggered a row over the use of 'Bhola' and 'Shankar' as code names for two of the hijackers."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/lifestyle/what-s-hot/story/why-indians-of-all-ages-are-logging-out-of-the-rat-race-to-take-up-slow-living-2592349-2024-09-03",
+      "headline": "Why Indians of all ages are logging out of the rat race to take up slow livingThe subtle art of doing nothing is gaining more attention, even in India, as people try to escape their fast-paced lives."
     },
     {
       "sentiment": "negative",
@@ -151,28 +161,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/ic-814-kandahar-hijack-jaswant-singh-foreign-minister-mystery-black-briefcase-two-red-bags-taliban-afghanistan-2592663-2024-09-03",
-      "headline": "In IC 814 Kandahar hijack, the mystery of black briefcase and two red bagsThough much has been written about the hijacking of Indian Airlines flight IC 814, there are several aspects of the 1999 Kandahar hijack that remain shrouded in mystery, especially the two red bags and a black briefcase that played a crucial role in the incident. What were in the briefcase and the bags? "
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/science/story/mysterious-sound-coming-from-sunita-williamss-starliner-nasa-reveals-source-2592692-2024-09-03",
-      "headline": "Nasa reveals source of sound coming from Sunita Williams's StarlinerThe pulsing noises, which emanated from a speaker in Boeing's Starliner spacecraft, had sparked widespread speculation and concern over the weekend. "
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/education-today/news/story/iit-bombay-sees-minimum-salary-drop-to-rs-4-lakh-placement-rate-declines-2592718-2024-09-03",
       "headline": "25% IIT-Bombay graduates fail to secure placement, minimum pay drops to Rs 4 LPAThe 2024 placement season at IIT-Bombay concluded with an average annual package of Rs 23.5 lakh. Only 75 percent of students who actively participated in the campus drive secured jobs, with 1,475 job offers accepted. This marks a decline from last year's 82 percent placement rate."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/world-bank-india-gdp-growth-forecast-fy25-7-percent-positive-2592717-2024-09-03",
-      "headline": "World Bank upgrades India's FY25 GDP forecast to 7%Looking ahead, the World Bank expects India's medium-term outlook to remain positive, with strong growth projected for FY26 and FY27."
+      "url": "https://www.indiatoday.in/elections/assembly/story/aap-mp-sanjay-singh-welcomes-rahul-gandhis-suggestion-aap-congress-alliance-haryana-assembly-election-2592769-2024-09-03",
+      "headline": "Priority is to defeat BJP: Sanjay Singh on AAP-Congress poll pact buzz in HaryanaCongress MP Rahul Gandhi is keen on having an alliance between his party and the Aam Aadmi Party (AAP) for the upcoming Haryana Assembly polls, sources told India Today TV on Monday."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/manipur-crisis-ethinic-conflict-n-biren-singh-interview-peace-talks-drone-attack-rpg-break-calm-meitei-kuku-zo-bjp-2592691-2024-09-03",
-      "headline": "Did Biren Singh speak too soon and invite Manipur storm?There's a fresh storm in Manipur after a period of lull. This comes within days of Chief Minister N Biren Singh pointing out that ethnic clashes were on the wane and permanent peace could be achieved in six months. Is it something specific that Singh said which infuriated the Kukis, or is there a \"larger interest\" at play?"
+      "url": "https://www.indiatoday.in/india/story/ic-814-kandahar-hijack-jaswant-singh-foreign-minister-mystery-black-briefcase-two-red-bags-taliban-afghanistan-2592663-2024-09-03",
+      "headline": "In IC 814 Kandahar hijack, the mystery of black briefcase and two red bagsThough much has been written about the hijacking of Indian Airlines flight IC 814, there are several aspects of the 1999 Kandahar hijack that remain shrouded in mystery, especially the two red bags and a black briefcase that played a crucial role in the incident. What were in the briefcase and the bags? "
     },
     {
       "sentiment": "positive",
@@ -181,13 +181,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/iim-professor-defends-navya-nanda-iim-ahmedabad-admission-blended-learning-2592658-2024-09-03",
-      "headline": "IIM professor defends Navya Nanda's admission, calls it purely merit-basedNavya Nanda's admission to IIM Ahmedabad has sparked online criticism, but an IIM professor has defended her merit. "
+      "url": "https://www.indiatoday.in/india/story/manipur-crisis-ethinic-conflict-n-biren-singh-interview-peace-talks-drone-attack-rpg-break-calm-meitei-kuku-zo-bjp-2592691-2024-09-03",
+      "headline": "Did Biren Singh speak too soon and invite Manipur storm?There's a fresh storm in Manipur after a period of lull. This comes within days of Chief Minister N Biren Singh pointing out that ethnic clashes were on the wane and permanent peace could be achieved in six months. Is it something specific that Singh said which infuriated the Kukis, or is there a \"larger interest\" at play?"
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/family-of-indian-tourist-holds-last-rites-at-malaysia-kuala-lumpur-sinkhole-where-she-vanished-2592741-2024-09-03",
-      "headline": "Indian woman's family performs last rites at Malaysia sinkhole she fell intoVijaya Lakshmi Gali from Andhra Pradesh, visiting Malaysia on holiday, fell into a 26-feet-deep sinkhole in Kuala Lumpur on August 23 and has remained missing since."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/trinamool-mla-lovely-maitra-kolkata-doctors-protest-rape-murder-case-butchers-2592787-2024-09-03",
+      "headline": "Trinamool Congress rebukes MLA over 'butcher' remark for protesting doctorsThe Trinamool Congress has told Lovely Maitra, who had called the protesting doctors \"butchers\", to refrain from making such statements."
     },
     {
       "sentiment": "positive",
@@ -196,13 +196,33 @@
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/indian-coast-guard-members-missing-helicopter-emergency-landing-arabian-sea-gujarat-porbandar-rescue-mission-2592650-2024-09-03",
-      "headline": "3 Coast Guard crew missing after chopper makes emergency landing in Arabian SeaAn Indian Coast Guard helicopter with four crew members on board was reportedly forced to make an emergency landing in the Arabian Sea off the coast of Porbandar on Monday night. "
+      "url": "https://www.indiatoday.in/science/story/mysterious-sound-coming-from-sunita-williamss-starliner-nasa-reveals-source-2592692-2024-09-03",
+      "headline": "Nasa reveals source of sound coming from Sunita Williams's StarlinerThe pulsing noises, which emanated from a speaker in Boeing's Starliner spacecraft, had sparked widespread speculation and concern over the weekend. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/television/web-series/story/ic-814-controversy-update-5-burning-questions-about-anubhav-sinha-vijay-varma-netflix-series-answered-2592697-2024-09-03",
-      "headline": "'IC 814': 5 burning questions about the Netflix series answeredThe Netflix series 'IC 814: The Kandahar Hijack' has raised many eyebrows for reasons both negative and positive. We try to answer all your pressing questions about the show and everything else that surrounds it. "
+      "url": "https://www.indiatoday.in/education-today/news/story/iim-professor-defends-navya-nanda-iim-ahmedabad-admission-blended-learning-2592658-2024-09-03",
+      "headline": "IIM professor defends Navya Nanda's admission, calls it purely merit-basedNavya Nanda's admission to IIM Ahmedabad has sparked online criticism, but an IIM professor has defended her merit. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/pm-narendra-modi-visit-brunei-singapore-strengthen-ties-discuss-defence-trade-2592576-2024-09-03",
+      "headline": "PM on historic first visit to Brunei today, then to Singapore to boost tiesPM Modi's visit to Brunei will be the first ever by an Indian head of state, despite 40 years of diplomatic ties between the two nations."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/emergency-postponed-kangana-ranaut-hopeful-of-release-in-10-days-sources-2592782-2024-09-03",
+      "headline": "'Emergency' postponed, Kangana Ranaut hopeful for release in 10 days: SourcesKangana Ranaut's 'Emergency' has been postponed after struggling with censor issues following several petitions against the film's content by members of the Sikh community. "
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/family-of-indian-tourist-holds-last-rites-at-malaysia-kuala-lumpur-sinkhole-where-she-vanished-2592741-2024-09-03",
+      "headline": "Indian woman's family performs last rites at Malaysia sinkhole she fell intoVijaya Lakshmi Gali from Andhra Pradesh, visiting Malaysia on holiday, fell into a 26-feet-deep sinkhole in Kuala Lumpur on August 23 and has remained missing since."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/indian-coast-guard-members-missing-helicopter-emergency-landing-arabian-sea-gujarat-porbandar-rescue-mission-2592650-2024-09-03",
+      "headline": "3 Coast Guard crew missing after chopper makes emergency landing in Arabian SeaAn Indian Coast Guard helicopter with four crew members on board was reportedly forced to make an emergency landing in the Arabian Sea off the coast of Porbandar on Monday night. "
     },
     {
       "sentiment": "positive",
@@ -211,8 +231,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/featurephilia/story/iim-ahmedabad-blended-mba-unique-navya-naveli-education-2592716-2024-09-03",
-      "headline": "What makes IIM Ahmedabad's blended MBA unique? Tracing Navya Naveli's journeyNavya Naveli Nanda's entry into IIM Ahmedabad's blended postgraduate programme spotlights a new way of learning for working professionals with more explained opportunities. Skipping the traditional entrance exams, her journey shows a growing trend to embrace diverse professional experiences."
+      "url": "https://www.indiatoday.in/world/story/italy-audi-executive-fabrizio-longo-dead-mountain-climbing-italy-switzerland-cima-payer-2592677-2024-09-03",
+      "headline": "Audi boss falls 10,000 feet while climbing mountain in Italy, diesFabrizio Longo, 62, was an avid mountain climber and had been the Director of Audi Italy since 2013, according to reports."
     },
     {
       "sentiment": "positive",
@@ -221,8 +241,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/italy-audi-executive-fabrizio-longo-dead-mountain-climbing-italy-switzerland-cima-payer-2592677-2024-09-03",
-      "headline": "Audi boss falls 10,000 feet while climbing mountain in Italy, diesFabrizio Longo, 62, was an avid mountain climber and had been the Director of Audi Italy since 2013, according to reports."
+      "url": "https://www.indiatoday.in/sports/paralympics/story/paralympics-day-six-live-updates-avani-lekhara-mona-agarwal-bhagyashree-paris-2592711-2024-09-03",
+      "headline": "Paralympics, Day 6 Live: Avani in shooting action, Bhagyashree in shot-put finalParalympics 2024, Day 6, Live Updates: India's already coveted gold medallist shooter Avani Lekhara and bronze medallist Mona Agarwal are in action at the 50m Air-Rifle qualifiers, where they aim to stretch their glory. Bhagyashree M Jadhav is also in action in the Women's shot-put final. "
     },
     {
       "sentiment": "negative",
@@ -230,44 +250,24 @@
       "headline": "Undertrial man behind bars for 8 years, Supreme Court rebukes Madhya PradeshThe Supreme Court came down heavily on the Madhya Pradesh government for keeping an undertrial accused behind bars for eight years in connection with a chit-fund fraud case."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/can-reko-diq-gold-end-pakistan-economic-crisis-saudi-arabia-makes-bid-stake-2592664-2024-09-03",
-      "headline": "Can Reko Diq's gold mine end Pakistan's economic crisis? Reko Diq is one of the world's largest undeveloped copper and gold reserves, with the potential to produce 200,000 tons of copper and 250,000 ounces of gold annually for over half a century."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/the-buckingham-murders-trailer-kareena-kapoor-hunts-a-childs-killer-in-thrilling-mystery-2592803-2024-09-03",
+      "headline": "'The Buckingham Murders' trailer: 'Boss' Kareena probes murder amid communal\u00a0tensionThe trailer for 'The Buckingham Murders', starring Kareena Kapoor Khan, has been released. Directed by Hansal Mehta, the film is set to hit theatres on September 13."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/paralympics/story/paralympics-day-six-live-updates-avani-lekhara-mona-agarwal-bhagyashree-paris-2592711-2024-09-03",
-      "headline": "Paralympics, Day 6 Live: Avani Lekhara, Mona in action at ParisParalympics 2024, Day 6, Live Updates: India's already coveted gold medallist shooter Avani Lekhara and bronze medallist Mona Agarwal are in action at the 50m Air-Rifle qualifiers, where they aim to stretch their glory. Bhagyashree M Jadhav will also compete in the Women's shot-put final later in the day. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/story/noida-several-children-in-supertech-ecovillage-2-fall-ill-residents-blame-contaminated-water-2592690-2024-09-03",
-      "headline": "Several children in Noida society fall ill, residents blame contaminated waterA local doctor in Noida's Supertech Ecovillage 2 confirmed infections among several children of society and pointed out that water is the common factor in all the affected households."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/youtuber-social-media-influencer-rajat-dalal-surrenders-police-after-viral-video-of-reckless-driving-volkswagen-faridabad-sarai-khawaja-2592631-2024-09-03",
-      "headline": "YouTuber Rajat Dalal surrenders before police in reckless driving incidentYouTuber Rajat Dalal was booked by the\u00a0Sarai Khawaja police for rash driving on Mathura\u00a0road in Faridabad, a video of which went viral on social media on August 30."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/korean-actor-yoo-ah-in-sentenced-to-one-year-in-prison-for-drug-use-2592755-2024-09-03",
-      "headline": "Korean actor Yoo Ah-in sentenced to one year in prison for drug useKorean actor Yoo Ah-in has been sentenced to one year in prison for drug use after his first trial in Seoul, South Korea. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/television/web-series/story/patralekhaa-behind-the-scenes-pics-ic-814-sets-rajkummar-rao-says-so-proud-2592756-2024-09-03",
-      "headline": "Actor Patralekhaa shares  behind-the-scenes pics from 'IC 814' setsActor Patralekhaa shared behind-the-scenes photos from the sets of the Netflix series, 'IC 814: The Kandahar Hijack'. She received immense praise from her husband, Rajkummar Rao."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/boman-irani-the-mehta-boys-premiere-chicago-south-asian-film-festival-celebs-react-2592743-2024-09-03",
-      "headline": "Boman Irani's 'The Mehta Boys' to premiere in Chicago. KJo, Abhishek Bachchan reactBoman Irani's directorial debut 'The Mehta Boys' will be premiered at the 15th Chicago South Asian Film Festival. Ahead of that, celebrities such as Karan Johar, Abhishek Bachchan and Farah Khan, among others, congratulated the team. "
+      "url": "https://www.indiatoday.in/movies/celebrities/video/kareena-kapoor-arrives-for-the-buckingham-murders-trailer-launch-2592781-2024-09-03",
+      "headline": "Kareena Kapoor arrives for 'The Buckingham Murders' trailer launchKareena Kapoor and Hansal Mehta attended the trailer launch of their film The Buckingham Murders in Mumbai. The film is set to release in theatres on September 13. "
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/television/international-shows/story/han-so-hee-mother-arrested-for-running-illegal-gambling-establishments-2592720-2024-09-03",
-      "headline": "K-drama star Han So Hee's mother arrested for illegal gamblingHan So Hee's mother has been apprehended for running illegal gambling dens. The actor clarified her stance, expressing disappointment and denying involvement."
+      "url": "https://www.indiatoday.in/movies/bollywood/story/emergency-postponed-kangana-ranaut-hopeful-of-release-in-10-days-sources-2592782-2024-09-03",
+      "headline": "'Emergency' postponed, Kangana Ranaut hopeful for release in 10 days: SourcesKangana Ranaut's 'Emergency' has been postponed after struggling with censor issues following several petitions against the film's content by members of the Sikh community. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/salman-khan-kamal-haasan-begin-shoot-for-atlee-next-in-2025-report-2592765-2024-09-03",
+      "headline": "Salman Khan, Kamal Haasan to begin shoot for Atlee's next in 2025: ReportSuperstars Salman Khan and Kamal Haasan have reportedly joined forces for director Atlee's next film. It is now being reported that they will begin filming the highly anticipated project in 2025."
     }
   ],
   "sports": [
