@@ -1,5 +1,5 @@
 <p align="center">
-    <h1 align="center">HAYYAT</h1>
+    <h1 align="center">HAYYat</h1>
 </p>
 <p align="center">
     <em><code>❯ REPLACE-ME</code></em>
