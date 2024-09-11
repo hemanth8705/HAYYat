@@ -1,7 +1,4 @@
 <p align="center">
-  <img src="HAYYat.png" width="60%" alt="HAYYAT-logo">
-</p>
-<p align="center">
     <h1 align="center">HAYYAT</h1>
 </p>
 <p align="center">
