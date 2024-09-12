@@ -1,6 +1,11 @@
 {
   "business": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/story/petrol-diesel-prices-could-see-a-cut-if-crude-rates-stay-lower-for-longer-report-2598472-2024-09-12",
+      "headline": "Petrol, diesel prices may fall if crude oil rates remain low: ReportCrude oil prices have recently dropped to their lowest point in nearly three years, bringing some hope for lower fuel prices. "
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/ayushman-bharat-health-insurance-senior-citizens-aged-70-and-above-to-get-these-benefits-2598441-2024-09-12",
       "headline": "Ayushman Bharat: Senior citizens aged 70 and above to get these benefitsAyushman Bharat: The expansion aims to ease the financial burden of healthcare for the elderly, who often face high medical expenses."
@@ -94,11 +99,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/hindenburg-research-questions-madhabi-puri-buchs-silence-on-congress-allegations-2597756-2024-09-11",
       "headline": "Hindenburg questions Sebi chief Madhabi Buch's silence on Congress's new chargeHindenburg Research's statement comes after the Congress party raised fresh allegations\u00a0about Buch's links to listed companies regulated by Sebi.\u00a0The short-seller also said that Madhabi Puri Buch has remained silent on the accusations for weeks."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/suzlon-energy-share-price-upper-circuit-5-percent-up-more-gains-left-2597705-2024-09-11",
-      "headline": "Suzlon Energy hits 5% upper circuit for 2nd straight day. More upside left?Suzlon Energy has seen its stock value more than triple in the last year, gaining 223% over the past 12 months and 102% in 2024 alone.\r\n\r\n"
     }
   ],
   "entertainment": [
@@ -132,12 +132,17 @@
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/pm-modi-chief-justice-chandrachud-ganpati-puja-celebration-controversy-2598371-2024-09-12",
-      "headline": "PM Modi at Chief Justice's home for Ganpati Puja sparks rowThe BJP said PM Modi's visit to the residence of the Chief Justice of India was restricted to Ganpati Puja celebrations, and it was a 'part of our culture'."
+      "headline": "PM Modi at Chief Justice's home for Ganpati Puja sparks rowTop government sources told India Today that the CJI had sent invites to several dignitaries, including the Prime Minister, for the Ganpati Puja."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/bengal-chief-secretary-protesting-doctors-kolkata-rg-kar-hospital-demands-meeting-mamata-banerjee-2598500-2024-09-12",
+      "headline": "15-member delegation, no live telecast: Bengal government invites protesting doctors for meet at 5 pm today15-member delegation, no live telecast: Bengal government invites protesting doctors for meet at 5 pm today"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/assembly/story/farooq-abdullah-jammu-kashmir-assembly-election-ic-814-hijack-article-370-2598421-2024-09-12",
-      "headline": "They come and go like prisoners: Farooq Abdullah on BJP's J&K tourism boom claimFarooq Abdullah cited the massive security deployment during Amarnath Yatra to hit out at the Centre's claim that normalcy had returned to Jammu and Kashmir."
+      "url": "https://www.indiatoday.in/india/story/jammu-and-kashmir-former-cm-farooq-abdullah-jabs-bjp-ic-814-hijack-terrorists-release-2598462-2024-09-12",
+      "headline": "Farooq Abdullah jabs BJP on IC 814 hijack: Told them not to release terroristsFarooq Abdullah was Chief Minister of Jammu and Kashmir when the Delhi-bound IC 814 was hijacked in\u00a0December 1999. As per the demands of the hijackers, the Centre released terrorists Maulana Masood Azhar, Ahmed Omar Saeed Sheikh, and Mushtaq Ahmed Zargar."
     },
     {
       "sentiment": "negative",
@@ -145,14 +150,14 @@
       "headline": "Army officers thrashed, woman friend gang-raped in Madhya PradeshThe incident happened when the two Major rank officers, who were undergoing training at Army War College in Madhya Pradesh's Mhow, were out on a picnic with their two female friends on September 11."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-election-2024/story/us-elections-donald-trump-kamala-harris-endorsement-taylor-swift-cat-lady-instagram-not-a-fan-elon-musk-x-2598390-2024-09-12",
-      "headline": "Why cat-saviour Trump can't stand cat-lady TaylorThe 2024 US presidential election has turned into a catfight of sorts. While Donald Trump spoke of a cat-eating population in the US, Taylor Swift called herself a \"cat-lady\" in her endorsement note for Kamala Harris. But here's why \"cat-saviour\" Trump is not a fan of the \"cat-lady\" pop singer."
-    },
-    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/science/story/astronaut-captured-haunting-image-of-new-york-from-space-after-911-attack-2598411-2024-09-12",
       "headline": "What American astronaut saw from space moments after the 9/11 attacksHis initial reaction was not just one of shock, but a profound sense of witnessing history from a place very few could imagine. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/us-election-2024/story/us-elections-donald-trump-kamala-harris-endorsement-taylor-swift-cat-lady-instagram-not-a-fan-elon-musk-x-2598390-2024-09-12",
+      "headline": "Why cat-saviour Trump can't stand cat-lady TaylorThe 2024 US presidential election has turned into a catfight of sorts. While Donald Trump spoke of a cat-eating population in the US, Taylor Swift called herself a \"cat-lady\" in her endorsement note for Kamala Harris. But here's why \"cat-saviour\" Trump is not a fan of the \"cat-lady\" pop singer."
     },
     {
       "sentiment": "positive",
@@ -166,13 +171,28 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/trending-news/story/narayana-murthy-faces-heat-parents-cant-watch-movies-expect-kids-to-study-2598409-2024-09-12",
+      "headline": "Internet roasts Narayana Murthy again for his 'insights' on good parentingNarayana Murthy said that parents are responsible for creating a disciplined environment at home for children to study. His statement has triggered the internet. "
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/health/story/company-challenges-suspension-of-presvu-eye-drops-claiming-to-replace-reading-glasses-2598339-2024-09-12",
       "headline": "Company challenges suspension of eye drops claiming to replace reading glassesEntod Pharmaceuticals denies making false claims about their new PresVu eye drops and plans to challenge the suspension by the Drugs Controller General of India of its manufacturing and sales permission in court."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/trending-news/story/narayana-murthy-faces-heat-parents-cant-watch-movies-expect-kids-to-study-2598409-2024-09-12",
-      "headline": "Internet roasts Narayana Murthy again for his 'insights' on good parentingNarayana Murthy said that parents are responsible for creating a disciplined environment at home for children to study. His statement has triggered the internet. "
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/elections/assembly/story/farooq-abdullah-jammu-kashmir-assembly-election-ic-814-hijack-article-370-2598421-2024-09-12",
+      "headline": "They come and go like prisoners: Farooq Abdullah on BJP's J&K tourism boom claimFarooq Abdullah cited the massive security deployment during Amarnath Yatra to hit out at the Centre's claim that normalcy had returned to Jammu and Kashmir."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/trending-news/story/golden-retriever-hilarious-reaction-donald-trump-dog-was-eaten-remark-viral-video-2598478-2024-09-12",
+      "headline": "Viral video: Golden Retriever's hilarious reaction to Trump's 'dog was eaten' remarkA Golden Retriever's reaction to Donald Trump's claim, that dogs are being eaten by immigrants in Springfield, Ohio, has gone viral on social media. \r\n\r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/bihar-rjd-green-gamcha-muretha-bihari-identity-tejashwi-yadav-lalu-prasad-yadav-vidhan-sabha-election-2025-2598058-2024-09-12",
+      "headline": "Gamcha is Bihari's pride, but here's why RJD dropped its green towelThe RJD has dropped the green gamcha and moved on to green caps and badges ahead of Tejashwi Yadav's yatra to rejuvenate the party. The green towel has been used by party workers for decades now. Why has the RJD ditched it, and what does the gamcha mean for Bihari identity?"
     },
     {
       "sentiment": "positive",
@@ -186,48 +206,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/bihar-rjd-green-gamcha-muretha-bihari-identity-tejashwi-yadav-lalu-prasad-yadav-vidhan-sabha-election-2025-2598058-2024-09-12",
-      "headline": "Gamcha is Bihari's pride, but here's why RJD dropped its green towelThe RJD has dropped the green gamcha and moved on to green caps and badges ahead of Tejashwi Yadav's yatra to rejuvenate the party. The green towel has been used by party workers for decades now. Why has the RJD ditched it, and what does the gamcha mean for Bihari identity?"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/music/story/singer-jon-bon-jovi-talks-off-woman-from-jumping-off-a-bridge-2598287-2024-09-12",
-      "headline": "Singer Jon Bon Jovi stops woman from jumping off a bridge Singer Jon Bon Jovi and a video assistant saved a woman on a Nashville bridge. During a music video shoot, they persuaded her to return to safety and comforted her."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/law/story/supreme-court-arvind-kejriwal-plea-bail-verdict-cbi-delhi-liquor-policy-case-tomorrow-2598387-2024-09-12",
-      "headline": "Supreme Court's verdict on Arvind Kejriwal's bail in CBI case tomorrowThe Aam Aadmi Party (AAP) chief was first arrested by the Enforcement Directorate on March 21 in a money laundering case connected to the liquor policy scam. The CBI arrested him later on June 26 in a corruption case."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/ayushman-bharat-health-insurance-to-cover-senior-citizens-above-70-all-you-need-to-know-details-2598354-2024-09-12",
       "headline": "Ayushman Bharat to cover senior citizens above 70: All you need to knowThe expansion of the Ayushman Bharat scheme aims to address the healthcare needs of the elderly, who often face higher medical expenses as they age."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/delhi/story/delhi-ncr-monsoon-rain-heavy-rain-alert-imd-forecasts-noida-ghaziabad-gurugram-2598337-2024-09-12",
-      "headline": "Rain batters Delhi, more showers likely till weekend; UP, Uttarakhand on alertA depression that is currently lying over central India is expected to bring significant rainfall across Delhi, Haryana, parts of Uttar Pradesh, Uttarakhand and parts of Madhya Pradesh (MP) between September 11 to 15."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/auto/cars/story/maruti-suzuki-swift-cng-launched-in-india-at-rs-819-lakh-2598383-2024-09-12",
-      "headline": "Maruti Suzuki Swift CNG launched in India at Rs 8.19 lakhMaruti Suzuki Swift CNG mileage is claimed to be 32.85 km/kg, which is 6% better than its predecessor."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/bajaj-housing-finance-ipo-allotment-check-application-status-latest-gmp-bse-website-kfin-technologies-2598400-2024-09-12",
-      "headline": "Bajaj Housing Finance IPO allotment: Check application status and latest GMPIf you've applied for the Bajaj Housing Finance IPO, you can check your allotment status online in a few simple steps through the websites if the BSE and KFin Technologies."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/karnataka/story/mandya-communal-clashes-ganesh-procession-stone-pelting-several-arrested-2598303-2024-09-12",
-      "headline": "52 detained after communal clashes in Mandya during Ganpati processionThe Karnataka Police detained 52 people for questioning in connection with the communal clashes that broke out in the state's Mandya district during a Ganpati procession."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/elections/video/what-pdp-leader-iltija-mufti-be-if-not-politician-2598372-2024-09-12",
-      "headline": "What would Iltija Mufti be if not a politicianIltija Mufti, who is contesting as the People's Democratic Party's (PDP) candidate from Bijbehara in the upcoming Jammu and Kashmir Assembly election, said that she would have been a teacher if not a politician."
     },
     {
       "sentiment": "negative",
@@ -236,18 +216,48 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/polaris-dawn-mission-worlds-first-private-spacewalk-live-updates-spacex-elon-musk-jared-isaacman-2598430-2024-09-12",
+      "headline": "LIVE: Polaris Dawn astronauts to exit Dragon for record spacewalkPolaris Dawn Mission LIVE: The Polaris Dawn crew, consisting of four civilian astronauts led by billionaire Jared Isaacman, is set to create history as they conduct the world's first private spacewalk. "
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/cities/delhi/story/delhi-ncr-monsoon-rain-heavy-rain-alert-imd-forecasts-noida-ghaziabad-gurugram-2598337-2024-09-12",
+      "headline": "Rain batters Delhi, more showers likely till weekend; UP, Uttarakhand on alertA depression that is currently lying over central India is expected to bring significant rainfall across Delhi, Haryana, parts of Uttar Pradesh, Uttarakhand and parts of Madhya Pradesh (MP) between September 11 to 15."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/bajaj-housing-finance-ipo-allotment-check-application-status-latest-gmp-bse-website-kfin-technologies-2598400-2024-09-12",
+      "headline": "Bajaj Housing Finance IPO allotment: Check application status and latest GMPIf you've applied for the Bajaj Housing Finance IPO, you can check your allotment status online in a few simple steps through the websites if the BSE and KFin Technologies."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/music/story/diljit-dosanjh-dil-luminati-india-tour-tickets-sell-out-1-minute-again-2598434-2024-09-12",
+      "headline": "Diljit Dosanjh's Dil-Luminati India Tour tickets sell out in a minute againSinger Diljit Dosanjh's Dil-Luminati India Tour tickets were open for the public today, September 12. Much to the surprise of the fans, the tickets sold out within a minute. "
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/karnataka/story/mandya-communal-clashes-ganesh-procession-stone-pelting-several-arrested-2598303-2024-09-12",
+      "headline": "52 detained after communal clashes in Mandya during Ganpati processionThe Karnataka Police detained 52 people for questioning in connection with the communal clashes that broke out in the state's Mandya district during a Ganpati procession."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/technology/features/story/iphone-16-pro-is-rs-15000-cheaper-this-year-but-here-is-a-reason-why-you-should-still-buy-the-iphone-15-pro-2598425-2024-09-12",
       "headline": "iPhone 16 Pro cheaper this year: Here's why you should still buy iPhone 15 ProApple's new iPhone 16 Pro has been making quite the news in India as it is priced Rs 15,000 lower than the iPhone 15 Pro. While the 16 Pro is a fantastic phone, here are some reasons why you may still want to buy the iPhone 15 Pro."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/polaris-dawn-mission-worlds-first-private-spacewalk-live-updates-spacex-elon-musk-jared-isaacman-2598430-2024-09-12",
-      "headline": "LIVE: Two Polaris Dawn astronauts to conduct world's first private spacewalkPolaris Dawn Mission LIVE: The Polaris Dawn crew, consisting of four civilian astronauts led by billionaire Jared Isaacman, is set to create history as they conduct the world's first private spacewalk. "
+      "url": "https://www.indiatoday.in/auto/cars/story/maruti-suzuki-swift-cng-launched-in-india-at-rs-819-lakh-2598383-2024-09-12",
+      "headline": "Maruti Suzuki Swift CNG launched in India at Rs 8.19 lakhMaruti Suzuki Swift CNG mileage is claimed to be 32.85 km/kg, which is 6% better than its predecessor."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/health/story/selena-gomez-cant-carry-her-own-children-health-conditions-affect-pregnancy-2598391-2024-09-12",
-      "headline": "Health conditions that increase pregnancy complicationsSelena Gomez has disclosed that she cannot carry her own children due to various medical conditions. Doctors open up about what health conditions can complicate pregnancy."
+      "url": "https://www.indiatoday.in/movies/bollywood/story/vicky-vidya-ka-woh-wala-video-trailer-rajkummar-rao-triptii-dimri-2598344-2024-09-12",
+      "headline": "Vicky Vidya Ka Woh Wala Video trailer: A hilarious mix of chaos and confusionThe trailer of Rajkummar Rao and Triptii Dimri's upcoming film, Vicky Vidya Ka Woh Wala Video, was released today, September 12. The film is touted to be a family entertainer. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/vicky-kaushal-seeks-blessings-at-lalbaugcha-raja-esha-deol-2598448-2024-09-12",
+      "headline": "Watch: Vicky Kaushal seeks blessings at Lalbaugcha RajaActor Vicky Kaushal recently offered prayers at Lalbaugcha Raja. A video of the actor walking up barefoot to the 'pandaal' for 'darshan' has emerged online. "
     },
     {
       "sentiment": "positive",
@@ -258,19 +268,29 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/story/james-hollcroft-found-dead-days-after-going-missing-in-mexico-2598415-2024-09-12",
       "headline": "Actor James Hollcroft, 26, found dead days after going missing in MexicoMexican actor James Hollcroft was found dead days after he had been reported as missing in Mexico City. His sister, Jane, shared a social media post, remembering the late actor. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/television/celebrity/story/rajiv-thakur-says-except-sunil-grover-kapil-sharma-shows-team-praised-his-ic-814-performance-2598418-2024-09-12",
-      "headline": "Rajiv Thakur says team of Kapil Sharma show praised his IC 814 role, 'except Sunil Grover'Actor Rajiv Thakur shared that The Great Indian Kapil Show team praised his performance in IC 814: The Kandahar Hijack, except Sunil Grover. Kapil Sharma, Archana Puran Singh, and others applauded him."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/television/international-shows/story/shogun-gets-25-primetime-emmy-nominations-decoding-this-stunning-masterpiece-featuring-hiroyuki-sanada-2598021-2024-09-12",
-      "headline": "Shogun gets 25 Emmy nominations: Decoding this stunning masterpieceIn an era of formulaic TV shows, Shogun stands out as a mini-series that commands full attention. With 14 Creative Emmy wins and 25 Primetime Emmy nominations, it blends brutal realism, nuanced storytelling, and stunning visuals. "
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/county-championship-tom-banton-nathan-lyon-twisted-ankle-surrey-somerset-2598473-2024-09-12",
+      "headline": "Despite twisting ankle, Tom Banton limps out to bat in heroic effortSomerset batter Tom Banton came out to bat with a twisted ankle as his team was looking to fight against Surrey in the Championship Division One match in Taunton. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/england-vs-australia-matthew-short-david-warner-role-jake-fraser-mcurk-competition-2598465-2024-09-12",
+      "headline": "Competing with McGurk, Matt Short keen on taking David Warner's spot in T20I sideEngland vs Australia: Seasoned opener Matthew Short said he is looking forward to making the most of the opportunities at the opening spot. Short, who hit 41 off just 26 balls in a whirlwind 86-run stand with Travis Head on Wednesday, is competing with young sensation Jake Fraser-McGurk for the opening role. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/how-can-india-reach-world-test-championship-2025-final-in-lords-explained-2598467-2024-09-12",
+      "headline": "How can India reach World Test Championship 2025 final at Lord's: ExplainedIndia will kick off their crucial home Test season on September 19, aiming to solidify their position in the World Test Championship standings. With 10 Test matches ahead, the Rohit Sharma-led side currently tops the points table. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/cristiano-ronaldo-erik-ten-hag-manchester-united-rebuild-winning-mentality-criticism-2598446-2024-09-12",
+      "headline": "Ronaldo's fresh jibe at Erik ten Hag: Guys in office can't bring gloryCristiano Ronaldo reignited tensions with Manchester United by criticizing Erik ten Hag's management, suggesting the coach lacks the winning mentality needed for the club's success, while urging a deeper connection with United's heritage and expectations."
+    },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/cricket/story/ruturaj-gaikwad-retires-hurt-after-twisting-his-ankle-in-duleep-trophy-match-india-c-vs-india-b-2598433-2024-09-12",
@@ -280,6 +300,31 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/other-sports/story/chess-olympiad-budapest-india-opening-round-win-morocco-jamaica-2598410-2024-09-12",
       "headline": "Chess Olympiad: Praggnanandhaa, Vaishali star as Indian teams start strongChess Olympiad 2024: D Gukesh and Harika sat out of the opening round, but India men's and women's teams did not have any trouble winning their opening round ties in Budapest. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/cristiano-ronaldo-manchester-united-erik-ten-hag-advice-rudd-van-nistelrooy-rebuild-2598389-2024-09-12",
+      "headline": "Ronaldo's advice to Ten Hag for United rebuild: Talk to Van NistelrooyCristiano Ronaldo reignites tension with Erik ten Hag, advising the Manchester United coach to seek guidance from Ruud van Nistelrooy while questioning his readiness to compete at the top level, despite expressing love for the club."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/afghanistan-vs-new-zealand-one-off-test-greater-nodia-day-4-rain-abandoned-test-2598382-2024-09-12",
+      "headline": "Greater Noida Test set to join rare list after rain washes out 4th day Afghanistan (AFG) vs New Zealand (NZ), one-off Test: Rain washed out the fourth successive day of the Test match in Greater Noida. The one-off match is heading towards a rare abandonment without a ball bowled. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/bangladesh-announce-najmul-shanto-led-16-member-squad-for-test-series-vs-india-2598386-2024-09-12",
+      "headline": "Bangladesh announce squad for India Tests, show faith in Pakistan-beating unitThe Bangladesh Cricket Board announced a 16-member squad for the 2-match Test series against India, starting September 19. The BCB showcased faith in the Pakistan-beating unit for the Test series against India. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/kohlis-captaincy-played-big-role-in-indian-crickets-turnaround-ricky-ponting-2598367-2024-09-12",
+      "headline": "Kohli's captaincy played big role in Indian cricket's turnaround: Ricky PontingRicky Ponting praised Virat Kohli for revolutionizing Indian Test cricket, emphasizing his crucial role in transforming the team's mindset and leadership. Kohli's tenure as captain from 2014 to 2022 led India to notable overseas victories, including a historic series win in Australia. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/18-year-old-caity-becomes-youngest-womens-world-champ-beats-paris-olympic-winner-2598348-2024-09-12",
+      "headline": "18-year-old Caity becomes youngest women's world champ in surfingCaity Simmers, just 18 years old, made history as the youngest women's world surfing champion after defeating Olympic gold medallist Caroline Marks at the 2024 World Surf League Finals. "
     },
     {
       "sentiment": "positive",
@@ -328,28 +373,23 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/18-year-old-caity-becomes-youngest-womens-world-champ-beats-paris-olympic-winner-2598348-2024-09-12",
-      "headline": "18-year-old Caity becomes youngest women's world champ in surfingCaity Simmers, just 18 years old, made history as the youngest women's world surfing champion after defeating Olympic gold medallist Caroline Marks at the 2024 World Surf League Finals. "
+      "url": "https://www.indiatoday.in/sports/cricket/story/r-ashwin-begins-hunt-of-glenn-mcgrath-nathan-lyons-records-in-bangladesh-tests-2598306-2024-09-12",
+      "headline": "R Ashwin begins hunt of Glenn McGrath, Nathan Lyon's records in Bangladesh TestsLegendary India spinner R Ashwin will resume his international season with the Test series against Bangladesh. Ashwin, who has 516 wickets to his name has been the standout bowler at home in recent years.\r\n"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/jannik-sinner-unstoppable-carlos-alcaraz-rivalry-toni-nadal-comparisons-us-open-2598332-2024-09-12",
-      "headline": "Unstoppable Sinner will make things difficult for Alcaraz: Toni NadalToni Nadal praised World No. 1 Jannik Sinner as \"practically unstoppable\" after his US Open win but warned that Carlos Alcaraz might struggle to match Sinner's rising dominance, particularly on the mental front."
+      "url": "https://www.indiatoday.in/sports/tennis/story/carlos-alcaraz-david-ferrer-gold-on-tennis-court-watch-davis-cup-warm-up-session-2598304-2024-09-12",
+      "headline": "Watch: Carlos Alcaraz tries his hand at golf on tennis court with David FerrerCarlos Alcaraz and David Ferrer brought laughter to the Davis Cup warm-up, turning a tennis court into a golf course. Despite recent setbacks, Alcaraz's playful moment hints at a hopeful return to form in 2024."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/watch-shubman-gill-training-hard-in-gym-ahead-of-ind-vs-ban-test-series-2598322-2024-09-12",
-      "headline": "Watch: Shubman Gill training hard in gym ahead of IND vs BAN Test seriesShubman Gill was gearing up for the upcoming home Test season as he sweated it out in the gym. He will feature in India's squad for the 2-match Test series vs Bangladesh. "
+      "url": "https://www.indiatoday.in/sports/cricket/story/davis-cup-2024-final-carlos-alcaraz-helps-spain-secure-their-opening-match-win-2598301-2024-09-12",
+      "headline": "Davis Cup 2024 final: Carlos Alcaraz helps Spain secure their opening match winAlcaraz's return to Davis Cup action ended unexpectedly, as his opponent Machac retired due to cramps. The Spaniard showed his class with a strong second-set comeback and a heart-warming display of sportsmanship, helping Spain secure a 3-0 win over the Czech Republic in their Group B clash."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-bangladesh-test-recalling-debut-dhaka-naimur-rahman-durjoy-sourav-ganguly-2598316-2024-09-12",
-      "headline": "Bangladesh makes Test debut vs India: Dhaka witnesses historyIND vs BAN: Bangladesh made their Test debut back in 2000 under Naimur Rahman Durjoy and lost to India by nine wickets at the Bangabandhu Stadium in Dhaka."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/vinicius-jr-brazil-vs-paraguay-defeat-apology-fans-real-madrid-comparisons-2598311-2024-09-12",
-      "headline": "Vinicus apologises for Brazil defeat, addresses Real Madrid comparisons Vinicius Junior apologized to fans after Brazil's defeat to Paraguay, acknowledging their poor form in the World Cup Qualifiers. He promised to improve, facing pressure to lead Brazil back to success in upcoming matches."
+      "url": "https://www.indiatoday.in/sports/cricket/story/ricky-ponting-jak-fraser-mcgurk-rough-diamond-australia-all-format-player-2598290-2024-09-12",
+      "headline": "Ponting praises 'rough diamond' Fraser McGurk: Can be an all-format playerRicky Ponting has hailed young Jake Fraser-McGurk as a future all-format star for Australia but cautioned that the 22-year-old must refine his aggressive style to fulfill his potential as a key player for Australia."
     },
     {
       "sentiment": "positive",
@@ -390,46 +430,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/england-vs-australia-1st-t20i-score-travis-head-matthew-short-bowlers-win-southampton-2598237-2024-09-12",
       "headline": "ENG v AUS, 1st T20I: Travis Head, bowlers fire Australia to big win, 1-0 lead England vs Australia, 1st T20I: Travis Head's blazing fifty and a disciplined bowling effort helped Australia win the series opener in Southampton by 28 runs. Liam Livingstone's all-round effort went in vain for the hosts on a chilly evening on Wednesday, September 11. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/carlos-alcaraz-late-season-slump-2024-sports-psychologist-us-open-2596293-2024-09-12",
-      "headline": "Is Carlos Alcaraz's second-half slump in 2024 a cause for concern?Carlos Alcaraz won two Grand Slam titles in 2024, taking his tally to four. The 21-year-old, however, suffered shock exits in the US Open and Cincinnati Masters. Is the Spaniard's late-season slump a cause for concern?"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/england-vs-australia-t20i-travis-head-batting-mantra-wack-it-everytime-half-century-2598278-2024-09-12",
-      "headline": "Travis Head reveals batting mantra after brisk England knock: Wack it everytimeTravis Head's explosive 59 off 23 balls set the tone for Australia's win in the first T20I against England, showcasing his aggressive mindset and securing a crucial victory with strong support from the bowlers."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-test-series-ricky-ponting-ipl-fearless-batters-revolution-2598272-2024-09-12",
-      "headline": "IPL has made India batters fearless: Ponting ahead of BGTFormer Australia captain Ricky Ponting feels fearless batters are the main reason behind India doing well in away Test series. Ponting has credited IPL for this revolution."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/england-vs-australia-1st-t20i-score-travis-head-matthew-short-bowlers-win-southampton-2598237-2024-09-12",
-      "headline": "ENG v AUS, 1st T20I: Travis Head, bowlers fire Australia to big win, 1-0 lead England vs Australia, 1st T20I: Travis Head's blazing fifty and a disciplined bowling effort helped Australia win the series opener in Southampton by 28 runs. Liam Livingstone's all-round effort went in vain for the hosts on a chilly evening on Wednesday, September 11. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/england-vs-australia-1st-t20i-travis-head-19-ball-fifty-2598214-2024-09-11",
-      "headline": "Travis Head blasts 30 runs off Sam Curran, races to 19-ball fiftyEngland vs Australia, 1st T20I: Australian opener Travis Head smashed 30 runs off a single over from Sam Curran on his way to a 19-ball fifty against England in the series opener."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/england-vs-australia-phil-salt-2598206-2024-09-11",
-      "headline": "ENG vs AUS: Phil Salt honoured with England T20I captaincyENG vs AUS: England stand-in captain Phil Salt said that he was honoured to receive the leadership position for the T20I side. Salt is filling in for injured Jos Buttler."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/pakistan-board-franchise-owners-yet-to-reach-consensus-on-scheduling-of-psl-2025-2598204-2024-09-11",
-      "headline": "PCB, franchise owners yet to reach consensus on scheduling of PSL 2025The Pakistan Cricket Board (PCB) and franchise owners in the Pakistan Super League (PSL) are yet to decide the scheduling of next year's T20 tournament. The proposed April-May window for PSL 2025 will clash with the Indian Premier League (IPL)."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/srihari-natraj-wins-tamil-nadu-quartet-breaks-mixed-4x100m-medley-record-2598185-2024-09-11",
-      "headline": "Srihari Natraj wins, Tamil Nadu quartet breaks mixed 4x100m medley recordKarnataka's Srihari Natraj clinched the men's 100m freestyle, while Tamil Nadu's quartet set a new record in the mixed 4x100m medley. Other notable performances include Vritti Agarwal's lead in the women's 1500m freestyle and multiple close finishes."
     }
   ],
   "education": [
