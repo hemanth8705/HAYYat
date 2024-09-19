@@ -130,6 +130,11 @@
   ],
   "general news": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/israel-strikes-lebanon-hezbollah-chief-speech-on-pager-walkie-talkie-blasts-2602950-2024-09-19",
+      "headline": "Israel launches strikes across Lebanon during Hezbollah chief's speech Live UpdatesIsrael Defense Forces (IDF) said that it is currently striking Hezbollah targets in Lebanon to degrade the terror group's capabilities and infrastructure. "
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/andhra-pradesh/story/tirupati-laddoos-contain-animal-fat-fish-oil-confirms-lab-report-ysrcp-tdp-2602893-2024-09-19",
       "headline": "Tirupati laddoos contain beef fat, fish oil, confirms lab reportA report by a private laboratory has revealed that the samples of the ghee used in making Tirupati laddoos contained foreign fat, including palm oil, fish oil, beef tallow and lard (obtained by rendering the fatty tissue of a pig)."
@@ -137,22 +142,22 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/speculative-and-misleading-india-on-report-claiming-diversion-of-indian-ammunition-entering-ukraine-2602935-2024-09-19",
-      "headline": "Speculative, misleading: India on report of diversion of ammunition to UkraineSpeculative and misleading: India on report claiming diversion of Indian ammunition entering Ukraine"
+      "headline": "Speculative, misleading: India on report of diversion of ammunition to UkraineThe Ministry of External Affairs (MEA) has rejected the claims made by news agency Reuters that artillery shells sold by Indian arms makers were diverted by European customers to Ukraine. "
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/india-us-court-summons-government-plot-murder-khalistani-terroirst-gurpatwant-pannun-2602747-2024-09-19",
-      "headline": "India reacts after US court summons government in plot to murder Gurpatwant PannunThe US District Court for Southern District of New York named the Government of India, National Security Advisor Ajit Doval, former R&AW chief Samant Goel, in the summons. "
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/centre-probing-ernst-and-young-pune-woman-death-mother-work-pressure-2602594-2024-09-19",
-      "headline": "Government probing EY India employee's death due to 'excessive workload'The incident has led to a massive outrage on social media after a letter written by the Pune woman's mother to the head of Ernst & Young India went viral."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/ey-india-employee-anna-perayil-death-chairman-rajiv-memani-denies-work-pressure-claim-2602925-2024-09-19",
+      "headline": "EY India Chairman denies work pressure as reason for employee's death: ReportThe death of a 26-year-old Ernst & Young employee, Anna Sebastian Perayil, has sparked outrage after her mother's emotional letter went viral, raising concerns over work pressure within the company."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/lifestyle/what-s-hot/story/emily-in-paris-netflix-lily-collins-2602829-2024-09-19",
       "headline": "I hate you (like I love you), Emily in ParisEmily Cooper's French visa is not expiring anytime soon. She is going to be on Netflix, and in our lives, for a long time."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/india-us-court-summons-government-plot-murder-khalistani-terroirst-gurpatwant-pannun-2602747-2024-09-19",
+      "headline": "India reacts after US court summons government in plot to murder Gurpatwant PannunThe US District Court for Southern District of New York named the Government of India, National Security Advisor Ajit Doval, former R&AW chief Samant Goel, in the summons. "
     },
     {
       "sentiment": "positive",
@@ -166,18 +171,28 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-bangladesh-chennai-test-day-1-r-ashwin-ravindra-jadeja-score-2602801-2024-09-19",
-      "headline": "On a strange Chennai day, Ashwin and Jadeja lead a familiar rescue actIndia vs Bangladesh, 1st Test: R Ashwin and Ravindra Jadeja led a familiar rescue act for India, stitching an unbeaten 195-run partnership on Thursday. Bangladesh dominated the first half of a strangely overcast day in Chennai, but Inida fought back to take control. "
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/delhi-cm-designate-atishi-singh-aam-aadmi-party-news-aap-arvind-kejriwal-future-assembly-election-2025-party-unity-2602595-2024-09-19",
       "headline": "Can Kejriwal take AAP unity for granted?Politics is what takes place between what's said and what's left unsaid. Most AAP leaders said that Kejriwal would return after the election, and that's exactly why they have agreed to Atishi as the CM. What's unsaid is that Atishi is a stop-gap solution. But will AAP unity stand the test if Atishi continues as the CM? Will personal ambitions create a fissure within the ranks?"
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-bangladesh-chennai-test-day-1-r-ashwin-ravindra-jadeja-score-2602801-2024-09-19",
+      "headline": "On a strange Chennai day, Ashwin and Jadeja lead a familiar rescue actIndia vs Bangladesh, 1st Test: R Ashwin and Ravindra Jadeja led a familiar rescue act for India, stitching an unbeaten 195-run partnership on Thursday. Bangladesh dominated the first half of a strangely overcast day in Chennai, but Inida fought back to take control. "
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/elections/assembly/story/pm-modi-jammu-kashmir-election-pakistan-happy-congress-national-conference-support-2602762-2024-09-19",
       "headline": "Pakistan going 'balle-balle' over Congress-National Conference manifesto: PMPM Modi said while nobody is giving the Congress and National Conference any importance in Jammu and Kashmir, \"Pakistan main inki balle balle ho rahi hai\" (they are being celebrated in Pakistan."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/cities/delhi/story/delhi-water-supply-cut-civil-lines-hindu-rao-hospital-kamla-nagar-shakti-nagar-karol-bagh-maintenance-work-delhi-jal-board-2602941-2024-09-19",
+      "headline": "Delhi water supply to be hit tomorrow, check list of affected areasWater supply will be affected in Civil Lines, Hindu Rao Hospital, Kamla Nagar, Shakti Nagar, Karol Bagh, Pahar Ganj, Inderpuri and several other parts of Delhi. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/when-priest-protested-against-amitabh-bachchan-jaya-bachchan-inter-caste-marriage-2602891-2024-09-19",
+      "headline": "When priest protested against Amitabh-Jaya Bachchan's inter-caste marriageAmitabh Bachchan and Jaya Bachchan got married on June 3, 1973. Jaya's father Taroon Coomar Bhadhuri shared the details of their wedding in a 1989 article. "
     },
     {
       "sentiment": "positive",
@@ -191,13 +206,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/when-priest-protested-against-amitabh-bachchan-jaya-bachchan-inter-caste-marriage-2602891-2024-09-19",
-      "headline": "When priest protested against Amitabh-Jaya Bachchan's inter-caste marriageAmitabh Bachchan and Jaya Bachchan got married on June 3, 1973. Jaya's father Taroon Coomar Bhadhuri shared the details of their wedding in a 1989 article. "
+      "url": "https://www.indiatoday.in/elections/assembly/story/nafrat-ka-saaman-mohabbat-ki-dukaan-pm-modi-targets-rahul-gandhi-jammu-rally-2602748-2024-09-19",
+      "headline": "Congress heir went to US, said our 'devi-devta' are not God: PM jabs Rahul GandhiAddressing an election rally in Jammu, PM Modi said that Rahul Gandhi and the Congress can put faith and culture at stake for a few votes anytime. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/assembly/story/nafrat-ka-saaman-mohabbat-ki-dukaan-pm-modi-targets-rahul-gandhi-jammu-rally-2602748-2024-09-19",
-      "headline": "Congress heir went to US, said our 'devi-devta' are not God: PM jabs Rahul GandhiAddressing an election rally in Jammu, PM Modi said that Rahul Gandhi and the Congress can put faith and culture at stake for a few votes anytime. "
+      "url": "https://www.indiatoday.in/trending-news/story/bengaluru-cobbler-ramayya-uncle-stray-animals-internet-helps-emotional-video-2602873-2024-09-19",
+      "headline": "Bengaluru cobbler who pets stray animals gets help from Internet. Emotional videoRamayya Uncle, who has a tiny shop in Bengaluru's Whitefield, not only repairs shoes within that space but also provides a home to four dogs and a kitten. "
     },
     {
       "sentiment": "positive",
@@ -211,13 +226,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/bengaluru-cobbler-ramayya-uncle-stray-animals-internet-helps-emotional-video-2602873-2024-09-19",
-      "headline": "Bengaluru cobbler who pets stray animals gets help from Internet. Emotional videoRamayya Uncle, who has a tiny shop in Bengaluru's Whitefield, not only repairs shoes within that space but also provides a home to four dogs and a kitten. "
+      "url": "https://www.indiatoday.in/india/story/delhi-mumbai-expressway-pothole-kcc-buildcon-nhai-terminate-employee-2602521-2024-09-19",
+      "headline": "Employee blames rats for hole in Delhi-Mumbai highway, company fires himThe firm stated that the comment was made by a junior employee who had no technical understanding regarding the project and confirmed that he had been terminated from the company."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/delhi-mumbai-expressway-pothole-kcc-buildcon-nhai-terminate-employee-2602521-2024-09-19",
-      "headline": "Employee blames rats for hole in Delhi-Mumbai highway, company fires himThe firm stated that the comment was made by a junior employee who had no technical understanding regarding the project and confirmed that he had been terminated from the company."
+      "url": "https://www.indiatoday.in/movies/bollywood/story/stree-2-has-surpassed-jawan-at-box-office-but-its-not-what-you-think-check-detailed-box-office-report-2602866-2024-09-19",
+      "headline": "Stree 2 has surpassed Jawan at box office but it's not what you\u00a0think!\u00a0Stree 2 is scripting history at the box office. But, there's one part of the story that's yet to be written: surpassing the lifetime collection of Jawan at the domestic ticket window. "
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/centre-probing-ernst-and-young-pune-woman-death-mother-work-pressure-2602594-2024-09-19",
+      "headline": "Government probing EY India employee's death due to 'excessive workload'The incident has led to a massive outrage on social media after a letter written by the Pune woman's mother to the head of Ernst & Young India went viral."
     },
     {
       "sentiment": "positive",
@@ -231,46 +251,41 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/stree-2-has-surpassed-jawan-at-box-office-but-its-not-what-you-think-check-detailed-box-office-report-2602866-2024-09-19",
-      "headline": "Stree 2 has surpassed Jawan at box office but it's not what you\u00a0think!\u00a0Stree 2 is scripting history at the box office. But, there's one part of the story that's yet to be written: surpassing the lifetime collection of Jawan at the domestic ticket window. "
+      "url": "https://www.indiatoday.in/television/celebrity/story/sunil-grover-on-reuniting-with-kapil-sharma-after-fallout-mazaa-aa-raha-hai-2602976-2024-09-19",
+      "headline": "Sunil Grover on reuniting with Kapil Sharma after fallout: Mazaa aa raha haiActor-comedian Sunil Grover talks about reuniting with Kapil Sharma on the Netflix show The Great Indian Kapil Show. Kapil and Sunil had a fallout, allegedly on a flight while returning to India from a tour in Australia in 2017."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/health/story/over-3600-chemicals-from-food-packaging-found-in-human-bodies-2602670-2024-09-19",
-      "headline": "Over 3,600 chemicals from food packaging found in human bodiesAround 100 of these chemicals are considered to be of \"high concern\" to human health, said lead study author Birgit Geueke from the Food Packaging Forum Foundation, a Zurich-based NGO."
+      "url": "https://www.indiatoday.in/movies/bollywood/photo/5-salman-khan-movies-you-must-watch-2602977-2024-09-19",
+      "headline": "6 Salman Khan movies you must watchSalman Khan, in his career spanning over 35 years, has delivered several hits. Have a look at his top 6 films that you just should not miss."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/law/story/supreme-court-contempt-petition-jharkhand-government-attorney-general-cji-chandrachud-2602716-2024-09-19",
-      "headline": "Contempt petition by Jharkhand catches Attorney General off guard in Supreme CourtThe petition accused the government of delaying the appointment of the Jharkhand High Court's Chief Justice. The Attorney General, in response, claimed to be unaware of the matter.\u00a0"
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/elections/assembly/story/bjp-congress-women-centric-schemes-woo-female-voters-implementation-delay-2602708-2024-09-19",
-      "headline": "As parties go big on women-centric schemes to woo voters, here is a status checkIn its poll manifestos for Haryana, Congress has promised to give a monthly allowance of Rs 2,000 to every woman aged between 18 and 60 years and the BJP has vowed to provide Rs 2,100 per month to women under the Lado Lakshmi Yojana."
+      "url": "https://www.indiatoday.in/movies/celebrities/story/saiyami-kher-becomes-1st-indian-female-actor-to-finish-ironman-triathlon-in-germany-2602569-2024-09-19",
+      "headline": "Saiyami Kher becomes 1st Indian female actor to finish Ironman Triathlon in GermanyBollywood actor Saiyami Kher set a new benchmark by becoming the first Indian female actor to complete the Ironman 70.3 triathlon in Germany. The event comprised of a 1.9 km swim, 90 km cycling, and a 21.1 km run."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/music/story/blackpink-jennie-agency-shares-statement-after-her-dating-rumours-with-bambam-2602930-2024-09-19",
-      "headline": "Blackpink's Jennie's agency shares statement after her dating rumours with BamBamBlackpink member and K-pop star Jennie recently stepped out for dinner with GOT7 member BamBam. The pair was clicked together in Los Angeles. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/stree-2-has-surpassed-jawan-at-box-office-but-its-not-what-you-think-check-detailed-box-office-report-2602866-2024-09-19",
-      "headline": "Stree 2 has surpassed Jawan at box office but it's not what you\u00a0think!\u00a0Stree 2 is scripting history at the box office. But, there's one part of the story that's yet to be written: surpassing the lifetime collection of Jawan at the domestic ticket window. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/throwback-thursday-lucky-ali-left-bollywood-disrespect-2602920-2024-09-19",
-      "headline": "When Lucky Ali left Bollywood because of 'badtameezi'Lucky Ali, the melodious voice behind numerous hits, bid adieu to Bollywood after Safarnama, citing the industry's lack of respect and inspiring content. He made a comeback this year with a song from Do Aur Do Pyaar."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/pyaar-ka-punchnama-3-in-works-will-kartik-aaryan-be-a-part-of-it-exclusive-2602919-2024-09-19",
-      "headline": "Pyaar Ka Punchnama 3 in works: Will Kartik Aaryan be a part of it? ExclusivePyaar Ka Punchnama 3 is in the works, but it may not include Kartik Aaryan. The new instalment aims to feature a fresh cast while retaining the essence of modern relationships and their struggles."
+      "url": "https://www.indiatoday.in/movies/bollywood/story/cannes-winner-all-we-imagine-as-light-to-release-in-limited-screens-in-kerala-september-21-payal-kapadia-2602964-2024-09-19",
+      "headline": "Cannes winner All We Imagine As Light to release in limited screens in KeralaAll We Imagine As Light, a Grand Prix winner at the 77th Cannes Film Festival, will make its limited screen debut in Kerala on Saturday, September 21. Spirit Media has secured exclusive distribution rights for this Indo-French co-production."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/pakistan-champions-cup-babar-azam-sarfaraz-ahmed-stallions-troll-century-2602960-2024-09-19",
+      "headline": "Sarfaraz Ahmed trolls Babar Azam. Star batter responds with hundredPakistan Champions Cup: Babar Azam raced his way to scoring 104 off 100 balls against the Dolphins on Thursday, September 19 at the Iqbal Stadium in Faisalabad. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-bangladesh-1st-test-chennai-yashasvi-jaiswal-press-conference-2602944-2024-09-19",
+      "headline": "Hungry Yashasvi Jaiswal has no complaints about pace-friendly Chennai conditionsIndia vs Bangladesh: Opener Yashasvi Jaiswal was willing to look ugly and put his attacking instincts on the back seat as he survived a tough first session on Day 1 of the Chennai Test. Yashasvi hit a fifty when the rest of the top-order failed in tricky conditions. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-banladesh-test-r-ashwin-ravindra-jadeja-all-round-heroics-sachin-tendulkar-chennai-2602940-2024-09-19",
+      "headline": "Invaluable all-round brilliance: Tendulkar on Ashwin-Jadeja Chennai heroicsR Ashwin and Ravindra Jadeja's game-changing 195-run partnership rescued India after a top-order collapse against Bangladesh. Their unbeaten knocks drew praise from cricket legends, including Sachin Tendulkar, for turning the tide on Day 1 in Chennai."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/r-ashwin-sachin-tendulkar-rahul-dravid-ms-dhoni-records-stats-chepauk-test-2602926-2024-09-19",
@@ -313,13 +328,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-bangladesh-first-test-day-one-r-ashwin-hundred-chennai-chepauk-2602786-2024-09-19",
-      "headline": "IND vs BAN: R Ashwin haunts Bangladesh again with 6th Test hundred in ChennaiR Ashwin has come to haunt Bangladesh once again as he scored his 6th Test hundred on Thursday, September 19. "
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-bangladesh-test-r-ashwin-century-memes-social-media-watch-chennai-2602895-2024-09-19",
+      "headline": "R Ashwin's Chennai Test century ignites meme-fest on social mediaRavichandran Ashwin's century in India's first Test against Bangladesh not only turned the game in India's favor but also sparked a meme-fest on social media, with fans humorously celebrating his evolution into a dependable middle-order batsman."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/laver-cup-2024-live-streaming-squads-schedule-carlos-alcaraz-bjorn-borg-2602775-2024-09-19",
-      "headline": "Laver Cup 2024: Squads, schedule and when and all you need to knowLaver Cup 2024: Casper Ruud, Carlos Alcaraz, Taylor Fritz and several other stars will light up the tournament which is scheduled to take place across three days. \r\n"
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-bangladesh-r-ashwin-century-rishabh-pant-mindset-aggressive-batting-2602868-2024-09-19",
+      "headline": "Go hard like Rishabh: R Ashwin reveals mantra behind Chennai Test hundredRavichandran Ashwin revealed that he adopted Rishabh Pant's aggressive batting style to score a crucial century, partnering with Ravindra Jadeja to rescue India after a top-order collapse on Day 1 of the Chennai Test against Bangladesh, taking India to 339/6."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/r-ashwin-sachin-tendulkar-chepauk-record-ind-vs-ban-2602822-2024-09-19",
+      "headline": "R Ashwin emulates Tendulkar with back-to-back hundreds at ChepaukIND vs BAN: R Ashwin racked up his second Test hundred at the Chepauk and continued his love affair with the iconic venue in Chennai. "
     },
     {
       "sentiment": "positive",
@@ -368,18 +388,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ravichandran-ashwin-ravindra-jadeja-ind-vs-ban-chennai-test-2602742-2024-09-19",
-      "headline": "Watch: R Ashwin leaves fans stunned with effortless six against Shakib al HasanStar India all-rounder Ravichandran Ashwin left the fans stunned with his effortless shot against Shakib al Hasan on Day 1 of the first Test against Bangladesh in Chennai."
+      "url": "https://www.indiatoday.in/sports/football/story/la-liga-fc-barcelona-fermin-lopez-injury-hansi-flick-guilty-spain-national-team-2602759-2024-09-19",
+      "headline": "'Feel a bit guilty for Fermin Lopez's injury': FC Barcelona coach Hansi FlickFC Barcelona coach Hansi Flick expressed regret over Fermin Lopez's injury, acknowledging it could have been prevented with better management. As Barcelona prepares for their Champions League clash against AS Monaco, they face increasing challenges due to key injuries."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/shreyas-iyer-fails-again-out-for-his-second-duck-in-duleep-trophy-2602744-2024-09-19",
-      "headline": "Shreyas Iyer fails again, out for his second duck in Duleep Trophy Duleep Trophy 2024: Shreyas Iyer's form woes continued in the ongoing season as he registered his second duck of the tournament during India D's third-round clash against India B."
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-bangladesh-chennai-r-ashwin-ravindra-jadeja-partnership-record-kapil-dev-kirmani-2602757-2024-09-19",
+      "headline": "R Ashwin-Ravindra Jadeja join Kapil Dev-Kirmani in elite Test partnership listIndia vs Bangladesh, Chennai Test: R Ashwin and Ravindra Jadeja became only the second Indian batting pair at No. 7 or below to score at least 500 runs in Tests at home. The spin twins steered India out of trouble on Day 1 of the first Test in Chennai. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/sumit-nagal-issues-clarification-after-aita-slams-star-for-not-playing-davis-cup-2602726-2024-09-19",
-      "headline": "Sumit Nagal issues clarification after AITA slams star for not playing Davis CupSumit Nagal has offered clarification as to why he decided to skip the Davis Cup after getting backlash from the All India Tennis Association (AITA) recently. Nagal reiterated his desire to play for the country in his lengthy statement. "
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-bangladesh-first-test-ravindra-jadeja-sword-celebration-half-century-ma-chidambaram-2602755-2024-09-19",
+      "headline": "Jadeja hits iconic sword celebration after Chennai rescue actRavindra Jadeja's iconic sword celebration followed his crucial half-century, reviving India's innings alongside R Ashwin after an early collapse on Day 1 of the first Test against Bangladesh in Chennai, bringing fresh hope to the home side."
     },
     {
       "sentiment": "positive",
@@ -405,21 +425,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ben-stokes-set-to-have-scan-on-hamstring-injury-ahead-of-pakistan-tour-2602696-2024-09-19",
       "headline": "Ben Stokes set to have scan on hamstring injury ahead of Pakistan tourEngland captain Ben Stokes is scheduled for a hamstring scan next week as the team evaluates his fitness for the upcoming Test series against Pakistan. The 33-year-old all-rounder has been sidelined since August due to the injury but remains active in training."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-bangladesh-chennai-test-kl-rahul-failure-fans-question-selection-2602686-2024-09-19",
-      "headline": "IND v BAN: KL Rahul's place in Test team questioned after Chennai failureIndia vs Bangladesh, Chennai Test: KL Rahul squandered a good opportunity to play the crisis man's role for India on Day 1 of the first Test. Rahul was not proactive during his 52-ball stay in the middle. He was dismissed for 16 by off-spinner Mehidy Hasan Miraz. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-bangladesh-first-test-day-one-kuldeep-yadav-dropped-sanjay-manjrekar-chennai-2602666-2024-09-19",
-      "headline": "Find it amazing how easily India drops a Kuldeep Yadav: Sanjay ManjrekarSanjay Manjrekar said that he was left baffled by India's decision to drop Kuldeep Yadav for the Chennai Test against Bangladesh on Thursday, September 19. India went 3 pacers for the match in Chennai. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/badminton/story/china-open-badminton-malavika-bansod-quarter-final-kirsty-gilmour-gregoria-mariska-2602656-2024-09-19",
-      "headline": "Malavika Bansod continues dream run, storms into quarter-finalsChina Open 2024: After stunning Paris Olympics bronze medalist, Gregoria Mariska Tunjung in the opening round, India's Malavika Bansod defeated two-time Commonwealth Games medallist Kirsty Gilmour of Scotland to progress to the women's singles quarter-final on Thursday. "
     }
   ],
   "education": [
