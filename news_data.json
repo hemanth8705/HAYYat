@@ -1,6 +1,11 @@
 {
   "business": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/story/fuel-price-cut-unlikely-as-middle-east-tensions-drive-crude-oil-surge-report-2611414-2024-10-04",
+      "headline": "Fuel price cut unlikely as Middle East tensions drive crude oil surge: ReportThe conflict in the Middle East has pushed oil prices higher, with Brent crude oil prices increasing significantly, affecting global supply."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/us-job-data-labour-department-bureau-of-labour-statistics-nonfarm-payrolls-september-2611391-2024-10-04",
       "headline": " US adds more jobs in September; unemployment falls to 4.1%Average hourly earnings grew by 0.4% in September, slightly lower than the 0.5% increase seen in August."
@@ -94,11 +99,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/stock-market-opening-bell-sensex-nifty-middle-east-conflict-iran-israel-war-2610988-2024-10-04",
       "headline": "Sensex falls 200 points, Nifty dips on Middle East conflict concernsThe S&P BSE Sensex was down 183.91 points at 82,306.09 at 9:46 am, while the NSE Nifty50 fell 52.25 points to 25,188.05."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/kpmg-survey-9-in-10-indian-ceos-want-employee-rewards-incentives-raise-promotion-link-to-office-attendance-2610761-2024-10-03",
-      "headline": "KPMG survey: 90% of Indian CEOs wish to link rewards to office attendanceThe survey also mentioned that 78% of Indian CEOs expect a full return to office-based work in the next three years, slightly below the global figure of 83%."
     }
   ],
   "entertainment": [
@@ -140,19 +140,39 @@
       "headline": "Rifle in his hand, Iran's Supreme Leader warns Israel 'will not last long' Ayatollah Ali Khamenei, 85, was seen holding a Russian-made Dragunov rifle while addressing thousands of Iranians as he insisted that Iran would not back down in the face of Israeli aggression."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/south/story/sanatana-dharma-udhayanidhi-stalin-pawan-kalyan-tiruptai-laddus-row-dmk-janasena-tamil-nadu-andhra-2611241-2024-10-04",
-      "headline": "Udhayanidhi Stalin's 'let's wait' retort to Pawan Kalyan's Sanatana Dharma warningA war of words erupted between Tamil Nadu Deputy Chief Minister Udhayanidhi Stalin and his Andhra Pradesh counterpart Pawan Kalyan. While Kalyan is advocating for protective laws for Sanatana Dharma, Stalin has previously called for eradication of Sanatana."
-    },
-    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/us-election-2024/story/us-election-joe-biden-frustrated-with-lack-involvement-kamala-harris-campaign-2611314-2024-10-04",
       "headline": "Biden feeling left out, upset at being sidelined in Harris's campaign: ReportPresident Biden is upset that he is no longer part of the national conversation, despite spending decades in American politics. Six people familiar with the matter anonymously told NBC News that Biden has grown frustrated with the lack of his presence in the political discourse."
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/cities/pune/story/pune-gangrape-woman-friend-tied-police-release-sketches-accused-arrest-2611400-2024-10-04",
+      "headline": "Pune woman raped after friend tied to tree, police release sketches of accusedA 21-year-old woman was allegedly raped by three unidentified men, who also tied her male friend to a tree and assaulted him at an isolated place in Pune. "
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/iran-supreme-leader-khamenei-importance-of-imam-khomeini-grand-mosque-2611301-2024-10-04",
       "headline": "Why Iran's Supreme Leader chose this iconic mosque for his rare sermonThe optics of Iran's Supreme Leader Ayatollah Ali Khamenei addressing thousands of Iranians from a place that played a key role in the 1979 Islamic Revolution was not lost on anyone."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/chhattisgarh-14-naxals-gunned-down-in-bastar-171-ultras-eliminated-so-far-in-2024-2611405-2024-10-04",
+      "headline": "28 Naxals gunned down in Chhattisgarh, 185 ultras eliminated so far in 2024Bodies of Naxalites along with a cache of weapons, including an AK-47 rifle and one SLR (self-loading rifle), have been recovered from the encounter spot. "
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/uk-news/story/bugging-device-found-bathroom-benjamin-netanyahu-boris-johnson-israel-uk-britain-2611259-2024-10-04",
+      "headline": "Bugging device found in bathroom after Netanyahu used it, claims British ex-PMIn his book, Unleashed, Boris Johnson writes that after Netanyahu visited his department in 2017, his security team found listening devices in the bathroom after the Israeli Prime Minister had used it."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/south/story/sanatana-dharma-udhayanidhi-stalin-pawan-kalyan-tiruptai-laddus-row-dmk-janasena-tamil-nadu-andhra-2611241-2024-10-04",
+      "headline": "Udhayanidhi Stalin's 'let's wait' retort to Pawan Kalyan's Sanatana Dharma warningA war of words erupted between Tamil Nadu Deputy Chief Minister Udhayanidhi Stalin and his Andhra Pradesh counterpart Pawan Kalyan. While Kalyan is advocating for protective laws for Sanatana Dharma, Stalin has previously called for eradication of Sanatana."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/history-of-it/story/israel-iran-middle-east-war-palestine-zionist-lehi-killed-folke-bernadotte-freed-jews-world-war-2-nazi-adolf-hitler-2611104-2024-10-04",
+      "headline": "Royal who saved thousands of Jews from Nazis was killed by Zionists. Here's whyCount Folke Bernadotte, a Swedish royal and diplomat, saved thousands, including Jews, from Nazi concentration camps. He even brokered a ceasefire between Israel and Arab nations in the 1948 war. He was, however, shot dead by Zionists in Jerusalem in 1948. Jerusalem, was, in fact, one of the reasons why Zionists killed Bernadotte."
     },
     {
       "sentiment": "negative",
@@ -165,34 +185,19 @@
       "headline": "Nasrallah: A secretive life ends in secrecyHassan Nasrallah, who steered Hezbollah in his image for 32 years, has temporarily been buried in a secret place. He was a vegetable vendor's son who rose as a charismatic orator. A friend of Iran's Khamenei and bitter enemy to Israel, Nasrallah's end was as secretive as his life."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/chhattisgarh-14-naxals-gunned-down-in-bastar-171-ultras-eliminated-so-far-in-2024-2611405-2024-10-04",
-      "headline": "14 Naxals gunned down in Chhattisgarh, 171 ultras eliminated so far in 2024Bodies of 14 Naxalites along with a cache of weapons, including an AK-47 rifle and one SLR (self-loading rifle), have been recovered from the encounter spot. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/history-of-it/story/israel-iran-middle-east-war-palestine-zionist-lehi-killed-folke-bernadotte-freed-jews-world-war-2-nazi-adolf-hitler-2611104-2024-10-04",
-      "headline": "Royal who saved thousands of Jews from Nazis was killed by Zionists. Here's whyCount Folke Bernadotte, a Swedish royal and diplomat, saved thousands, including Jews, from Nazi concentration camps. He even brokered a ceasefire between Israel and Arab nations in the 1948 war. He was, however, shot dead by Zionists in Jerusalem in 1948. Jerusalem, was, in fact, one of the reasons why Zionists killed Bernadotte."
-    },
-    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/amethi-murder-case-accused-arrested-dalit-family-shot-dead-uttar-pradesh-2611370-2024-10-04",
       "headline": "Key accused arrested in Amethi murder case in which four of family were shot deadThe accused, Chandan Verma, had posted a WhatsApp message stating that \"five people will die, I will show you soon,\" indicating a plan to kill all four family members and then commit suicide, according to sources."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/israel-india-map-wrongly-depicting-jammu-kashmir-pakistan-website-2611145-2024-10-04",
-      "headline": "Israel removes India map wrongly depicting J&K from website after backlashIsraeli ambassador to India, Reuven Azar, wrote that the incorrect map depicting Jammu and Kashmir was the website editor's mistake."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/uk-news/story/bugging-device-found-bathroom-benjamin-netanyahu-boris-johnson-israel-uk-britain-2611259-2024-10-04",
-      "headline": "Bugging device found in bathroom after Netanyahu used it, claims British ex-PMIn his book, Unleashed, Boris Johnson writes that after Netanyahu visited his department in 2017, his security team found listening devices in the bathroom after the Israeli Prime Minister had used it."
-    },
-    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/govinda-says-he-was-shocked-when-bullet-hit-his-leg-saw-a-fountain-of-blood-2611230-2024-10-04",
       "headline": "Govinda says he was 'shocked' when bullet hit his leg: Saw a fountain of bloodBollywood actor Govinda addressed the media after being discharged from the hospital following an accidental shooting incident. He thanked the medical staff and explained his reason for owning a gun."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/israel-india-map-wrongly-depicting-jammu-kashmir-pakistan-website-2611145-2024-10-04",
+      "headline": "Israel removes India map wrongly depicting J&K from website after backlashIsraeli ambassador to India, Reuven Azar, wrote that the incorrect map depicting Jammu and Kashmir was the website editor's mistake."
     },
     {
       "sentiment": "negative",
@@ -206,13 +211,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/october-7-anniversary-symbolism-war-jitters-israel-hamas-gaza-iran-lebanon-conflict-yom-kippur-middle-east-2611089-2024-10-04",
-      "headline": "Why people are fearing big-bang attack close to October 7In a culture that lays emphasis on symbols, October 7 has gained special significance. There is a reason why Israel was attacked on October 7, and why people fear there could be a big bang on the first anniversary of the Hamas attack this year."
+      "url": "https://www.indiatoday.in/education-today/gk-current-affairs/story/the-story-of-napoleon-bonaparte-who-wanted-to-conquer-india-2611207-2024-10-04",
+      "headline": "The story of Napoleon Bonaparte who wanted to conquer IndiaFrom his invasion of Egypt and his declaration to the Directoire that, once he became the master of the land, he would join hands with Indian princes to expel the British, this is the story of a French commander-turned-Emperor who found inspiration for conquering the East in Alexander the Great"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/gk-current-affairs/story/the-story-of-napoleon-bonaparte-who-wanted-to-conquer-india-2611207-2024-10-04",
-      "headline": "The story of Napoleon Bonaparte who wanted to conquer IndiaFrom his invasion of Egypt and his declaration to the Directoire that, once he became the master of the land, he would join hands with Indian princes to expel the British, this is the story of a French commander-turned-Emperor who found inspiration for conquering the East in Alexander the Great"
+      "url": "https://www.indiatoday.in/world/story/october-7-anniversary-symbolism-war-jitters-israel-hamas-gaza-iran-lebanon-conflict-yom-kippur-middle-east-2611089-2024-10-04",
+      "headline": "Why people are fearing big-bang attack close to October 7In a culture that lays emphasis on symbols, October 7 has gained special significance. There is a reason why Israel was attacked on October 7, and why people fear there could be a big bang on the first anniversary of the Hamas attack this year."
     },
     {
       "sentiment": "positive",
@@ -226,13 +231,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/iraj-elahi-india-today-exclusive-iran-envoy-israel-strikes-middle-east-stability-conflict-2611067-2024-10-04",
-      "headline": "Not the Iran of 1981 when Saddam Hussein invaded: Envoy warns Israel of reprisalIranian Ambassador to India Iraj Elahi said Iran's missile attack had damaged Israel's military facilities and slammed Benjamin Netanyahu for ignoring human principles while bombarding Gaza."
+      "url": "https://www.indiatoday.in/science/story/sun-solar-flare-earth-satellite-power-grid-2611087-2024-10-04",
+      "headline": "Strongest flare from Sun to hit Earth: Satellite, power grids brace for impactThis event will coincide with an earlier coronal mass ejection (CME) anticipated to arrive between October 4 and 5, heightening the likelihood of geomagnetic storms and auroras this weekend."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/sun-solar-flare-earth-satellite-power-grid-2611087-2024-10-04",
-      "headline": "Strongest flare from Sun to hit Earth: Satellite, power grids brace for impactThis event will coincide with an earlier coronal mass ejection (CME) anticipated to arrive between October 4 and 5, heightening the likelihood of geomagnetic storms and auroras this weekend."
+      "url": "https://www.indiatoday.in/world/story/iraj-elahi-india-today-exclusive-iran-envoy-israel-strikes-middle-east-stability-conflict-2611067-2024-10-04",
+      "headline": "Not the Iran of 1981 when Saddam Hussein invaded: Envoy warns Israel of reprisalIranian Ambassador to India Iraj Elahi said Iran's missile attack had damaged Israel's military facilities and slammed Benjamin Netanyahu for ignoring human principles while bombarding Gaza."
     },
     {
       "sentiment": "positive",
@@ -246,31 +251,36 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/himachal-pradesh-toilet-tax-sewage-connection-fee-clarification-sukhvinder-singh-sukhu-congress-2611130-2024-10-04",
-      "headline": "Himachal government denies BJP's 'toilet tax' charges: No such order issuedReports claimed that the Sukhvinder Singh Sukhu-led Congress government in Himachal Pradesh had ordered citizens to pay sewage connection fees per toilet seat in their homes. The government refuted these claims, saying no such order was issued. "
+      "url": "https://www.indiatoday.in/television/web-series/story/freedom-at-midnight-second-teaser-nikkhil-advani-2611440-2024-10-04",
+      "headline": "Freedom at Midnight: 2nd teaser throws light on partitionFreedom at Midnight's second teaser reveals Jinnah's motivations for seeking a separate nation, offering a glimpse into the historical drama surrounding India's independence."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/television/celebrity/story/khushi-mali-replaces-palak-sindhwani-taarak-mehta-ka-ooltah-chashmah-2611332-2024-10-04",
-      "headline": "Khushi Mali replaces Palak Sindhwani on Taarak Mehta. See anouncementAfter Palak Sindhwani quit Taarak Mehta Ka Ooltah Chashmah, makers roped in Khushi Mali Sonu. Producer Asit Kumarr Modi expressed his happiness for the same.  "
+      "url": "https://www.indiatoday.in/television/international-shows/story/moon-ga-young-in-talks-to-star-alongside-lee-jong-suk-in-upcoming-legal-sho-2611425-2024-10-04",
+      "headline": "Moon Ga-young in talks to star alongside Lee Jong-suk in upcoming legal showReports indicate that Moon Ga-young may join the cast of the upcoming legal drama Seochodong. The drama, which will be directed by Park Seung-woo, is expected to air in 2025 and might feature Lee Jong-suk as well."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/television/celebrity/story/shehnaaz-gill-was-possessive-for-siddharth-shukla-2611380-2024-10-04",
-      "headline": "Shehnaaz Gill was possessive for Siddharth ShuklaShehnaaz Gill recently reflected on her relationship with late actor Sidharth Shukla. Acknowledging her jealous tendencies, she admitted that she was possessive of him due to his good looks."
+      "url": "https://www.indiatoday.in/television/celebrity/story/hina-khan-shares-birthday-video-thanks-fans-for-boosting-her-confidence-2611417-2024-10-04",
+      "headline": "Hina Khan shares birthday video, thanks fans for 'boosting' her confidenceTelevision star Hina Khan recently shared her birthday video and thanked her fans for extending her some support. The actor was recently in the news after sharing that she had been diagnosed with breast cancer."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/photo/katrina-kaif-rashmika-mandanna-saif-ali-khan-naga-chaitanya-malaika-arora-kalyanaraman-family-navratri-puja-2611384-2024-10-04",
-      "headline": "Rashmika Mandanna, Malaika Arora, Naga Chaitanya and others at Kalyanaraman family's Navratri PujaLike every year, the Kalyanaraman family's Navratri celebrations in Thrissur, Kerala, was a star-studded affair. Numerous celebrities, including Rashmika Mandanna, Malaika Arora, Saif Ali Khan, Naga Chaitanya, and more, attended the festivities."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/vivek-agnihotri-the-delhi-files-bengal-chapter-exclusive-2611335-2024-10-04",
-      "headline": "Director Vivek Agnihotri on Delhi Files: Could've called it Bengal Files but...Director Vivek Agnihotri, in an earlier exclusive, had shared details about the Delhi Files and why it was not called The Bengal Files. The director will be releasing the first part of Delhi Files, titled Bengal Chapter, on Independence Day 2025."
+      "url": "https://www.indiatoday.in/movies/bollywood/story/kiran-rao-laapata-ladies-japan-oscars-parsh-shrivastava-nitanshi-goel-2611420-2024-10-04",
+      "headline": "Kiran Rao's Laapata Ladies releases in Japan todayDirector Kiran Rao's Laaptaa Ladies released in Japan today. The film stars Nitanshi Goel, Pratibha Ranta and Sparsh Shrivastava in key roles. "
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/lassana-diarra-case-court-says-fifa-rules-on-player-transfers-break-eu-law-2611426-2024-10-04",
+      "headline": "Top court says FIFA rules on player transfers break European Union lawLassana Diarra Case: The European Union's top court said Friday that some of FIFA's rules on player transfers do not comply with European Union laws."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/shahid-afridi-fastest-odi-hundred-vs-sri-lanka-1996-nairobi-2611421-2024-10-04",
+      "headline": "OTD: Shahid Afridi announces his arrival with fastest ODI hundredPakistan all-rounder Shahid Afridi announced his arrival in international cricket in style as he scored the fastest hundred in his maiden innings of just 37 balls against Sri Lanka in 1996."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/bangladesh-will-look-to-win-t20i-series-vs-india-captain-najmul-shanto-2611409-2024-10-04",
@@ -299,7 +309,32 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/womens-t20-world-cup-india-vs-new-zealand-live-updates-harmanpreet-kaur-sophie-devine-2611346-2024-10-04",
-      "headline": "IND vs NZ Live Updates: Plimmer-Bates get New Zealand off to a flierWomen's T20 World Cup, IND vs NZ Live Updates: The Indian women's team will be looking to better their runners-up finish from last time and go one better and bring home the cup. Their campaign begins with a tricky fixture against New Zealand in Dubai on October 4, Friday. "
+      "headline": "IND vs NZ Live Updates: India remove both openers to peg back New ZealandWomen's T20 World Cup, IND vs NZ Live Updates: After a massive 67 run partnership by New Zealand openers, India have struck back by dismissing both openers to leave New Zealand on 68/2 after nine overs."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/pakistan-cricket-fatima-sana-pcb-feature-2611331-2024-10-04",
+      "headline": "Pakistan's Fatima Sana needs to be nurtured with utmost careWomen's T20 World Cup 2024: Pakistan skipper Fatima Sana led from the front and helped her team beat Sri Lanka by 31 runs on Thursday at the Sharjah Cricket Stadium. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/nandre-burger-back-injury-ire-vs-sa-ban-vs-ire-2611324-2024-10-04",
+      "headline": "Nandre Burger ruled out of remaining ODIs vs Ireland and Bangladesh Test tourSouth Africa fast bowler Nandre Burger has been ruled out of the remaining two ODIs against Ireland and the upcoming Test tour of Bangladesh."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/hockey/story/womens-hockey-india-league-launch-hi-asunta-lakra-exclusive-2611326-2024-10-04",
+      "headline": "Women's Hockey India League all about the platform, not money: Asunta LakraSpeaking to India Today Digital in an exclusive interaction, former India women's team captain Asunta Lakra feels that the new Women's Hockey India League will be all about the platform for the players and not the money. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/south-africa-beat-west-indies-10-wickets-report-dubai-laura-wolvaardt-2611357-2024-10-04",
+      "headline": "Rampant South Africa hammer hapless West Indies in DubaiWomen's T20 World Cup 2024: South Africa beat West Indies by 10 wickets in Dubai and made the best possible start to their campaign in the multi-nation event. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/womens-t20-world-cup-india-vs-new-zealand-live-updates-harmanpreet-kaur-sophie-devine-2611346-2024-10-04",
+      "headline": "IND vs NZ Live Updates: India remove both openers to peg back New ZealandWomen's T20 World Cup, IND vs NZ Live Updates: After a massive 67 run partnership by New Zealand openers, India have struck back by dismissing both openers to leave New Zealand on 68/2 after nine overs."
     },
     {
       "sentiment": "positive",
@@ -324,32 +359,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/hockey/story/hockey-india-league-pr-sreejesh-appointed-as-director-mentor-of-delhi-franchise-2611298-2024-10-04",
-      "headline": "Hockey India League: PR Sreejesh appointed as director, mentor of Delhi franchiseFormer India goalkeeper PR Sreejesh has been appointed as the director and mentor of the Delhi Franchise, SG Pipers, for the upcoming edition of Hockey India League on Octover 4, Friday. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/pakistan-cricket-fatima-sana-pcb-feature-2611331-2024-10-04",
-      "headline": "Pakistan's Fatima Sana needs to be nurtured with utmost careWomen's T20 World Cup 2024: Pakistan skipper Fatima Sana led from the front and helped her team beat Sri Lanka by 31 runs on Thursday at the Sharjah Cricket Stadium. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/nandre-burger-back-injury-ire-vs-sa-ban-vs-ire-2611324-2024-10-04",
-      "headline": "Nandre Burger ruled out of remaining ODIs vs Ireland and Bangladesh Test tourSouth Africa fast bowler Nandre Burger has been ruled out of the remaining two ODIs against Ireland and the upcoming Test tour of Bangladesh."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/hockey/story/womens-hockey-india-league-launch-hi-asunta-lakra-exclusive-2611326-2024-10-04",
-      "headline": "Women's Hockey India League all about the platform, not money: Asunta LakraSpeaking to India Today Digital in an exclusive interaction, former India women's team captain Asunta Lakra feels that the new Women's Hockey India League will be all about the platform for the players and not the money. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/retired-ips-sharad-kumar-appointed-new-head-of-bccis-anti-corruption-unit-2611300-2024-10-04",
-      "headline": "Retired IPS Sharad Kumar appointed new head of BCCI's Anti-Corruption UnitRetired IPS officer Sharad Kumar has been named the new head of the BCCI's Anti-Corruption Unit, succeeding KK Mishra. With a background in handling high-profile investigations, Kumar is set to address corruption issues in cricket."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/hockey/story/hockey-india-league-pr-sreejesh-appointed-as-director-mentor-of-delhi-franchise-2611298-2024-10-04",
-      "headline": "Hockey India League: PR Sreejesh appointed as director, mentor of Delhi franchiseFormer India goalkeeper PR Sreejesh has been appointed as the director and mentor of the Delhi Franchise, SG Pipers, for the upcoming edition of Hockey India League on Octover 4, Friday. "
+      "headline": "Hockey India League: PR Sreejesh appointed as director, mentor of Delhi franchiseFormer India goalkeeper PR Sreejesh has been appointed as the director and mentor of the Delhi Franchise, SG Pipers, for the upcoming edition of Hockey India League. Sreejesh said he decided against playing in the HIL, starting December 28, 2024."
     },
     {
       "sentiment": "positive",
@@ -378,13 +388,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/nations-league-kevin-de-bruyne-ruled-out-of-belgium-squad-request-rest-2611234-2024-10-04",
-      "headline": "Kevin de Bruyne ruled out of Belgium squad after requesting restBelgium's Kevin De Bruyne will miss upcoming Nations League matches against Italy and France due to injury. Coach Domenico Tedesco confirms the midfielder's extended break from international duty."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/pakistan-vs-england-zak-crawley-test-series-2611213-2024-10-04",
-      "headline": "England won't underestimate Pakistan batting line-up: Zak Crawley PAK vs ENG: Zak Crawley said that England are aware of Pakistan's batting strength despite their failure in the recent Test series against Bangladesh. "
+      "url": "https://www.indiatoday.in/sports/cricket/story/south-africa-west-indies-special-jerseys-family-2611251-2024-10-04",
+      "headline": "South Africa pay tribute to family and friends with special jerseyWomen's T20 World Cup: Laura Wolvaardt's South Africa donned a special jersey in their match against the West Indies on Friday at the Dubai International Cricket Stadium. "
     },
     {
       "sentiment": "negative",
@@ -415,16 +420,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/manchester-united-vs-porto-erik-ten-hag-marcus-rashford-substitution-squad-rotation-2611192-2024-10-04",
       "headline": "Europa League: Ten Hag cites 'squad rotation' again for Rashford substitutionErik ten Hag clarified that Marcus Rashford's early substitution in the Europa League clash against Porto was purely for rotation, dismissing any rumors of a fallout amidst Manchester United's ongoing struggles this season."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/shafali-verma-captain-harmanpreet-kaur-world-cup-dream-uae-2611164-2024-10-04",
-      "headline": "Team India geared up to make Harmanpreet Kaur's World Cup dream come true: Shafali Young opener Shafali Verma said India are determined to give their best and win the T20 World Cup in the UAE. Shafali praised captain Harmanpreet Kaur, who will be leading the team for the first time in a T20 World Cup campaign. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/smriti-mandhana-shafali-verma-facial-expressions-2611168-2024-10-04",
-      "headline": "Mandhana and I can read each other's facial expressions: Shafali Verma Women's T20 World Cup 2024: Shafali Verma and Smriti Mandhana have scored 2635 runs as a pair in T20Is since they started batting together in 2019. It was in 2019 when Shafali made her international debut. "
     }
   ],
   "education": [
