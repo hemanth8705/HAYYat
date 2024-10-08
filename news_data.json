@@ -1,6 +1,16 @@
 {
   "business": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/why-spicejet-shares-rise-9-percent-today-10-new-aircraft-by-end-of-november-expansion-fleet-2613259-2024-10-08",
+      "headline": "Explained: Why SpiceJet shares jumped 9% todaySpiceJet recently raised Rs 3,000 crore through a qualified institutional placement (QIP). The airline is also set to receive an additional Rs 736 crore from a previous funding round, which will help support its growth plans."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/story/cognizant-discrimination-favoured-h-1b-holders-over-non-indian-workers-says-us-jury-report-2613225-2024-10-08",
+      "headline": "Cognizant favoured H-1B holders over non-Indian workers, says US juryThis case dates back to 2017 when a class-action lawsuit was filed against the IT giant, accusing it of bias in its employment practices."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/story/crude-oil-prices-seen-to-stabilise-as-all-out-war-fears-recede-middle-east-iran-israel-conflict-2613194-2024-10-08",
       "headline": "Crude oil prices seem to stabilise as all-out war fears recedeTensions between Israel and Iran led to a 13 per cent spurt in Brent crude prices in the past seven days. "
@@ -89,16 +99,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/pearl-kapur-self-proclaimed-india-youngest-billionaire-zyber-365-unicorn-fact-fiction-2611734-2024-10-05",
       "headline": "Curious case of Pearl Kapur: The self-proclaimed billionaire behind Zyber 365On his Instagram profile, Pearl Kapur brands himself as \"India's youngest billionaire,\" a title he embraces while carefully sidestepping questions about the legitimacy of his company's meteoric rise."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/story/fuel-price-cut-unlikely-as-middle-east-tensions-drive-crude-oil-surge-report-2611414-2024-10-04",
-      "headline": "Fuel price cut unlikely as Middle East tensions drive crude oil surge: ReportThe conflict in the Middle East has pushed oil prices higher, with Brent crude oil prices increasing significantly, affecting global supply."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/us-job-data-labour-department-bureau-of-labour-statistics-nonfarm-payrolls-september-2611391-2024-10-04",
-      "headline": " US adds more jobs in September; unemployment falls to 4.1%Average hourly earnings grew by 0.4% in September, slightly lower than the 0.5% increase seen in August."
     }
   ],
   "entertainment": [
@@ -131,18 +131,38 @@
   "general news": [
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/assembly/story/iltija-mufti-srigufwara-bijbehara-people-democratic-party-candidate-concede-accepts-defeat-2613193-2024-10-08",
-      "headline": "PDP's Iltija Mufti concedes defeat: I accept people's\u00a0verdictIltija Mufti, PDP candidate and daughter of former J&K Chief Minister Mehbooba Mufti, conceded defeat in the Srigufwara-Bijbehara constituency, accepting the people's verdict and expressing gratitude to her party workers."
+      "url": "https://www.indiatoday.in/elections/assembly/story/vinesh-phogat-wins-maiden-election-julana-seat-haryana-assembly-elections-defeats-bjp-yogesh-kumar-2613278-2024-10-08",
+      "headline": "Vinesh Phogat wins Haryana's Julana, defeats BJP's Yogesh KumarVinesh Phogat wins maiden election from Julana in Haryana, defeats BJP's Yogesh Kumar by over 6,000 votes"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/assembly/story/omar-abdullah-jammu-and-kashmir-national-conference-congress-alliance-election-results-2613243-2024-10-08",
-      "headline": "Told you: Omar Abdullah mocks exit polls as NC-Congress set for J&K winOmar Abdullah made the remarks days after expressing scepticism about the reliability of exit polls while pointing to their failures during the recent Lok Sabha elections."
+      "url": "https://www.indiatoday.in/elections/assembly/story/haryana-assembly-election-2024-bjp-chief-minister-nayab-singh-saini-leadership-defied-factors-narendra-modi-obc-jat-issue-2613214-2024-10-08",
+      "headline": "CM for just 200 days, Saini is Nayab for BJP in HaryanaNayab Singh Saini was brought in as Haryana Chief Minister around 200 days ahead of the Assembly election in the state. Saini, with his schemes won people's confidence, and helped the BJP create history in Haryana, beating 10 years of anti-incumbency."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/elections/assembly/video/is-nc-congresss-big-jk-show-referendum-on-article-370-what-bjp-said-2613250-2024-10-08",
+      "headline": "Is NC-Congress's big J&K show referendum on Article 370? What BJP saidBJP IT cell chief Amit Malviya\u00a0said that the NC-Congress performance in J&K is not a referendum on Article 370. "
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/jaishankar-pakistan-visit-bilateral-talks-shanghai-cooperation-organisation-2613119-2024-10-08",
       "headline": "S Jaishankar's remarks self-explanatory: Pak on bilateral talks with IndiaS Jaishankar, who will lead a delegation to Islamabad next week, had also toed a similar line and maintained that his visit was meant for a multilateral event."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/trending-news/story/omar-abdullah-7-kilometre-run-on-jammu-and-kashmir-counting-day-says-it-didnt-end-well-last-time-2613271-2024-10-08",
+      "headline": "Omar Abdullah's 7k run on counting day: Didn't end well for me last timeOmar Abdullah started the election results day with a 7-kilometre as he reflected on his past experiences and expressed cautious optimism as early trends showed him leading in key seats."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/elections/assembly/story/haryana-election-results-ahirwal-region-gurugram-rewari-bjp-congress-2613137-2024-10-08",
+      "headline": "Why Ahirwal belt is key for BJP in Haryana election matrixHaryana poll results: The Ahirwal region, spanning Gurgaon, Rewari and Mahendergarh, has largely remained loyal to the BJP since 2014."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/elections/assembly/story/haryana-assembly-election-counting-result-bjp-ahead-congress-trails-in-vote-share-2613240-2024-10-08",
+      "headline": "Haryana election: BJP ahead of Congress but trails in vote shareThe BJP was leading in 49 seats in Haryana compared to Congress's 35, but Congress holds a higher vote share of 40.25% against the BJP's 39.29% at 12.30 pm, according to the Election Commission."
     },
     {
       "sentiment": "negative",
@@ -156,13 +176,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/zakir-naik-pakistan-international-airlines-extra-baggage-complaint-trolled-social-media-2613085-2024-10-08",
-      "headline": "Pakistanis troll state guest Zakir Naik who wanted extra baggage fee waivedZakir Naik has been living in Malaysia since 2016 after the National Investigation Agency registered a case against him in the wake of the Dhaka terror attack, where one of the attackers admitted that he was influenced by the controversial preacher's speeches. India has requested his extradition, but Malaysia has not complied so far."
+      "url": "https://www.indiatoday.in/elections/assembly/story/haryana-assembly-election-results-2024-live-updates-vote-counting-congress-bjp-jjp-aap-bhupinder-hooda-nayab-saini-dushyant-chautala-2612972-2024-10-07",
+      "headline": "BJP consolidates lead in Haryana in huge turnaround, trends showHaryana Election: The BJP consolidated its lead in Haryana, wiping off Congress's initial gains in a huge turnaround as the party looked set to score a hat-trick in the northern state and form the government. Counting began at 8 am with the BJP taking a very early lead before the Congress cruised ahead. But the BJP caught up with the Congress and zoomed past the grand old party, touching the majority mark. The counting of votes for all 90 Assembly constituencies began at 8 am today. Most exit polls, including India Today CVoter exit poll, had predicted a huge win for the Congress. Follow indiatoday.in for live updates of the 2024 Haryana Assembly polls."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/assembly/story/engineer-rashid-omar-abdullah-jammu-and-kashmir-assembly-elections-results-nc-congress-pdp-bjp-2613115-2024-10-08",
-      "headline": "If government formation is delayed for 10 days...: Engineer Rashid jabs Omar AbdullahEngineer Rashid, accused National Conference (NC) leader Omar Abdullah of changing his stance while citing his earlier statement that he would not contest elections in Jammu and Kashmir unless statehood was restored."
+      "url": "https://www.indiatoday.in/elections/assembly/story/jammu-kashmir-assembly-election-results-2024-live-updates-vote-counting-congress-nc-bjp-pdp-india-bloc-2612774-2024-10-07",
+      "headline": "NC-Congress alliance ahead in J&K, Omar Abdullah to become Chief MinisterJ&K Election Results 2024 Live: The counting of votes for the high-stakes election to choose 90 members of the Jammu and Kashmir Assembly began at 8 am. The crucial polls were held after a decade and the first since the abrogation of Article 370. The union territory witnessed a fierce contest between regional heavyweights like Farooq Abdullah's National Conference and Mehbooba Mufti's PDP, along with national parties such as the Congress and BJP, and other players. According to the CVoter exit poll shown on India Today, the Congress-National Conference alliance is projected to have an edge, while the BJP struggles to make inroads in the Kashmir Valley, though they are expected to perform better in the Jammu region. Will Jammu and Kashmir witness a hung assembly, or will the BJP, PDP, or independents emerge as kingmakers? \u00a0The picture will become clearer as the counting progresses. Stay tuned to IndiaToday.in as we bring the latest election results from Jammu and Kashmir."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/zakir-naik-pakistan-international-airlines-extra-baggage-complaint-trolled-social-media-2613085-2024-10-08",
+      "headline": "Pakistanis troll state guest Zakir Naik who wanted extra baggage fee waivedZakir Naik has been living in Malaysia since 2016 after the National Investigation Agency registered a case against him in the wake of the Dhaka terror attack, where one of the attackers admitted that he was influenced by the controversial preacher's speeches. India has requested his extradition, but Malaysia has not complied so far."
     },
     {
       "sentiment": "negative",
@@ -171,18 +196,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/tourist-slaps-performer-dressed-as-winnie-the-pooh-in-a-video-from-shanghai-disneyland-2613206-2024-10-08",
-      "headline": "Video: Tourist slaps Winnie the Pooh mascot at Shanghai Disneyland, internet furiousA video of a tourist assaulting a Winnie the Pooh mascot during a parade at Shanghai Disneyland has gone viral on social media. "
+      "url": "https://www.indiatoday.in/elections/assembly/story/iltija-mufti-srigufwara-bijbehara-people-democratic-party-candidate-concede-accepts-defeat-2613193-2024-10-08",
+      "headline": "PDP's Iltija Mufti concedes defeat: I accept people's\u00a0verdictIltija Mufti, PDP candidate and daughter of former J&K Chief Minister Mehbooba Mufti, conceded defeat in the Srigufwara-Bijbehara constituency, accepting the people's verdict and expressing gratitude to her party workers."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/assembly/story/haryana-assembly-election-results-2024-live-updates-vote-counting-congress-bjp-jjp-aap-bhupinder-hooda-nayab-saini-dushyant-chautala-2612972-2024-10-07",
-      "headline": "BJP consolidates lead in Haryana in huge turnaround, trends showHaryana Election result: The BJP took a significant lead and eroded Congress's initial gains in a huge turnaround in Haryana as counting for the Assembly polls was on. The counting began with the BJP taking a very early lead before the Congress overshot the party. But an hour later, the BJP made a huge turnaround, entering into a neck-to-neck contest with the Congress before taking a slender lead, with the party touching the majority mark. The counting of votes for all 90 Assembly constituencies began at 8 am today. The BJP has been ruling Haryana since 2014 and is eyeing a hat-trick. However, it faces a formidable challenge from the Congress, which is seeking to make a comeback to the northern state after a decade. Most exit polls, including India Today CVoter exit poll, predicted a huge win for the Congress, suggesting that the party is likely to get 50-58 seats while the BJP may get 20-28 seats. Follow indiatoday.in for live updates of 2024 Haryana Assembly polls."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/assembly/story/jammu-kashmir-assembly-election-results-2024-live-updates-vote-counting-congress-nc-bjp-pdp-india-bloc-2612774-2024-10-07",
-      "headline": "NC-Congress alliance ahead in Jammu and Kashmir as counting progressesJ&K Election Results 2024 Live: The counting of votes for the high-stakes election to choose 90 members of the Jammu and Kashmir Assembly began at 8 am. The crucial polls were held after a decade and the first since the abrogation of Article 370. The union territory witnessed a fierce contest between regional heavyweights like Farooq Abdullah's National Conference and Mehbooba Mufti's PDP, along with national parties such as the Congress and BJP, and other players. According to the CVoter exit poll shown on India Today, the Congress-National Conference alliance is projected to have an edge, while the BJP struggles to make inroads in the Kashmir Valley, though they are expected to perform better in the Jammu region. Will Jammu and Kashmir witness a hung assembly, or will the BJP, PDP, or independents emerge as kingmakers? \u00a0The picture will become clearer as the counting progresses. Stay tuned to IndiaToday.in as we bring the latest election results from Jammu and Kashmir."
+      "url": "https://www.indiatoday.in/technology/news/story/after-mira-murati-another-openai-executive-leaves-company-2613235-2024-10-08",
+      "headline": "After Mira Murati, another OpenAI executive\u00a0leaves company \u00a0Tim Brooks, a pivotal figure at OpenAI, is departing to join Google DeepMind, marking another high-profile exit from the company."
     },
     {
       "sentiment": "positive",
@@ -191,8 +211,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/after-mira-murati-another-openai-executive-leaves-company-2613235-2024-10-08",
-      "headline": "After Mira Murati, another OpenAI executive\u00a0leaves company \u00a0Tim Brooks, a pivotal figure at OpenAI, is departing to join Google DeepMind, marking another high-profile exit from the company."
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-bangladesh-sunil-gavaskar-gohit-gautam-gambhir-footlicking-icc-2612698-2024-10-07",
+      "headline": "Crediting Gambhir for Kanpur Test win is foot-licking of highest quality: GavaskarIndia vs Bangladesh: In a strongly-worded column, legendary Sunil Gavaskar said it was disappointing to see Gautam Gambhir getting credit for India's Kanpur Test victory. Gavaskar said India have been playing fearless and aggressive cricket under Rohit Sharma's captaincy. "
     },
     {
       "sentiment": "negative",
@@ -206,13 +226,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/ola-electric-shares-fall-6-percent-after-ccpa-show-cause-notice-drops-46-percent-from-all-time-high-2613167-2024-10-08",
-      "headline": "Ola Electric shares fall 6% after show cause notice; drops 46% from peakOla Electric has been given 15 days to respond to the notice and will provide the required documents within that time frame."
+      "url": "https://www.indiatoday.in/elections/assembly/story/engineer-rashid-omar-abdullah-jammu-and-kashmir-assembly-elections-results-nc-congress-pdp-bjp-2613115-2024-10-08",
+      "headline": "If government formation is delayed for 10 days...: Engineer Rashid jabs Omar AbdullahEngineer Rashid, accused National Conference (NC) leader Omar Abdullah of changing his stance while citing his earlier statement that he would not contest elections in Jammu and Kashmir unless statehood was restored."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-bangladesh-sunil-gavaskar-gohit-gautam-gambhir-footlicking-icc-2612698-2024-10-07",
-      "headline": "Crediting Gambhir for Kanpur Test win is foot-licking of highest quality: GavaskarIndia vs Bangladesh: In a strongly-worded column, legendary Sunil Gavaskar said it was disappointing to see Gautam Gambhir getting credit for India's Kanpur Test victory. Gavaskar said India have been playing fearless and aggressive cricket under Rohit Sharma's captaincy. "
+      "url": "https://www.indiatoday.in/television/reality-tv/story/watch-viral-video-the-tribe-star-alanna-panday-gets-scolded-by-father-for-wearing-bralette-2613199-2024-10-08",
+      "headline": "Watch: The Tribe star Alanna Panday gets scolded by father for wearing braletteAlanna Panday, who is one of the five content creators on the Prime Video series The Tribe, was taken aback when her father, Chikki Pandey, jokingly asked her to cover her bralette with a shirt during a family conversation at their Mumbai home. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/ola-electric-shares-fall-6-percent-after-ccpa-show-cause-notice-drops-46-percent-from-all-time-high-2613167-2024-10-08",
+      "headline": "Ola Electric shares fall 6% after show cause notice; drops 46% from peakOla Electric has been given 15 days to respond to the notice and will provide the required documents within that time frame."
     },
     {
       "sentiment": "negative",
@@ -222,50 +247,45 @@
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/elections/assembly/story/uchana-kalan-assembly-election-results-2024-live-updates-vote-counting-congress-bjp-dushyant-chautala-brijendra-singh-2613028-2024-10-07",
-      "headline": "Live: JJP's Dushyant Chautala trails behind Congress's Brijendra Singh by 23,000 votes in Uchana KalanUchana Kalan Assembly Election Result 2024 Live: The Uchana Kalan Assembly constituency has emerged as one of the most closely watched seats in the Haryana election, with former Deputy Chief Minister and Jannayak Janta Party (JJP) leader Dushyant Chautala seeking a second consecutive term. Dushyant, the great-grandson of former Deputy Prime Minister Devi Lal, is contesting after the JJP ended its alliance with the BJP months before the polls. In a fierce contest, the Congress has fielded former bureaucrat Brijendra Singh, while the Aam Aadmi Party (AAP) has nominated Pawan Fauji. The BJP, on the other hand, has put forward Devender Attri as its candidate."
+      "headline": "Live: JJP's Dushyant Chautala trails behind Congress's Brijendra Singh by 29,000 votes in Uchana KalanUchana Kalan Assembly Election Result 2024 Live: The Uchana Kalan Assembly constituency has emerged as one of the most closely watched seats in the Haryana election, with former Deputy Chief Minister and Jannayak Janta Party (JJP) leader Dushyant Chautala seeking a second consecutive term. Dushyant, the great-grandson of former Deputy Prime Minister Devi Lal, is contesting after the JJP ended its alliance with the BJP months before the polls. In a fierce contest, the Congress has fielded former bureaucrat Brijendra Singh, while the Aam Aadmi Party (AAP) has nominated Pawan Fauji. The BJP, on the other hand, has put forward Devender Attri as its candidate."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/mithun-chakraborty-on-dadasaheb-phalke-award-recognition-is-important-exclusive-2613274-2024-10-08",
+      "headline": "Mithun Chakraborty reflects on Dadasaheb Phalke honour: Recognition is importantActor Mithun Chakraborty, the Dadasaheb Phalke Award recipient, reflects on his journey, the importance of awards, his evolving approach to films, and his desire for re-releases of past hits."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/devara-director-koratala-siva-janhvi-kapoor-belongs-to-the-south-2613265-2024-10-08",
+      "headline": "Devara director Koratala Siva: Janhvi belongs to the SouthDevara director Koratala Siva recently opened up about casting Janhvi Kapoor in the film, her chemistry with Jr NTR and more in an exclusive interaction with India Today. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/story/national-film-awards-ceremony-2024-live-rishab-shetty-nithya-menen-droupadi-murmu-brahmastra-arijit-singh-2613263-2024-10-08",
+      "headline": "National Film Awards Ceremony 2024 Live: President to honour winners today70th National Awards Ceremony 2024 Live Update: The prestigious National Film Awards will take place on October 8 in New Delhi. The ceremony will honour the artists for their exceptional work in Indian cinema. "
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/tamil-nadu/story/tamil-nadu-thanjavur-sub-inspector-caught-on-cctv-slapping-shopkeeper-viral-video-sparks-investigation-outrage-2613180-2024-10-08",
-      "headline": "Cop slaps elderly shop owner during raid, video sparks outrageThe sub-inspector was dispatched to the shop to investigate the alleged sale of illegal tobacco products after the police received a tip-off."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/television/reality-tv/story/watch-viral-video-the-tribe-star-alanna-panday-gets-scolded-by-father-for-wearing-bralette-2613199-2024-10-08",
-      "headline": "Watch: The Tribe star Alanna Panday gets scolded by father for wearing braletteAlanna Panday, who is one of the five content creators on the Prime Video series The Tribe, was taken aback when her father, Chikki Pandey, jokingly asked her to cover her bralette with a shirt during a family conversation at their Mumbai home. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/israel-palestine-conflict-hamas-leader-khaled-meshaal-gaza-war-middle-east-crisis-2613210-2024-10-08",
-      "headline": "Hamas leader in-exile says they will rise like a phoenix from the ashesHamas leader-in-exile Khaled Meshaal said the Palestinian group would rise from the ashes despite heavy losses during a year of war with Israel. He said Palestinian history is made of cycles. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/assembly/story/hisar-assembly-election-results-2024-live-updates-vote-counting-congress-bjp-kamal-gupta-ram-niwas-rara-savitri-jindal-candidates-2613043-2024-10-08",
-      "headline": "Live: Savitri Jindal leads in Hisar by 7,897 votes after 2nd roundHisar Assembly Election Result 2024 Live: Counting of votes in Hisar Assembly in Haryana began at 8 am today. It is one of the 90 seats in the Haryana Legislative Assembly which went to polls on October 5. Stay tuned for the latest updates."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/sanjay-leela-bhansali-cry-watching-ranbir-kapoor-perform-saawariya-climax-great-actor-2613244-2024-10-08",
-      "headline": "Sanjay Bhansali would cry watching Ranbir Kapoor perform: He is a great actorRanbir Kapoor debuted in Saawariya in 2007, impressing Sanjay Leela Bhansali with his climax performance. Bhansali is set to direct him again in Love and War, co-starring Alia Bhatt."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/sanjay-leela-bhansali-love-and-war-remake-of-sangam-alia-bhatt-ranbir-kapoor-vicky-kaushal-2613239-2024-10-08",
-      "headline": "Sanjay Leela Bhansali's Love and War, a remake of Sangam? Filmmaker clarifies Director Sanjay Leela Bhansali recently dismissed rumours of his next Love and War being a remake of Sangam. He shared that one should not remake films. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/video/karan-johar-attend-national-film-awards-ceremony-in-delhi-2613228-2024-10-08",
-      "headline": "Video: Karan Johar jets off to attend National Film Awards ceremony in DelhiKaran Johar was clicked at the Mumbai airport. He is headed to Delhi to attend the National Film Awards ceremony. He is there to collect the award for Ranbir Kapoor and Alia Bhatt-starrer Brahmastra Part One: Shiva."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/television/reality-tv/story/vivian-dsena-bigg-boss-18-salman-khan-exclusive-2613236-2024-10-08",
-      "headline": "Vivian Dsena on dealing with fights in Bigg Boss 18: Can't predict how I'll reactVivian Dsena shared that he stepped into the Bigg Boss 18 house because of his wife and friends. They encouraged him to embrace the challenge and grow beyond his comfort zone."
+      "url": "https://www.indiatoday.in/television/reality-tv/story/amitabh-bachchan-recalls-shooting-for-stunts-jump-from-20-30-feet-without-harness-2613245-2024-10-08",
+      "headline": "Big B recalls shooting for stunts: Had to jump from 20-30 ft without harnessSuperstar Amitabh Bachchan recently recalled shooting for stunts back in the day and said that they used to do it without proper safety measures in place. "
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/chris-silverwood-sharjah-warriorz-bowling-coach-ilt20-season-three-england-sri-lanka-2613261-2024-10-08",
+      "headline": "Former England and Sri Lanka coach Silverwood joins Sharjah WarriorzSharjah Warriorz appointed Chris Silverwood as their new bowling coach for ILT20. The former England and Sri Lanka head coach will team up with JP Duminy to bolster the coaching setup ahead of the upcoming season."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/pro-kabaddi-league-season-11-bengaluru-bulls-swot-analysis-pardeep-narwal-2613264-2024-10-08",
+      "headline": "Season 11: Pardeep Narwal-powered Bengaluru Bulls eye playoffsBengaluru Bulls will be aiming to get back into the mix for the playoffs during season 11 of the Pro Kabaddi League and they will look to the returning Pardeep Narwal to lead their charge. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-bangladesh-first-t20i-abhishek-sharma-run-out-yuvraj-singh-reaction-gwalior-2613247-2024-10-08",
+      "headline": "IND vs BAN: Mentor Yuvraj Singh critical of Abhishek Sharma's Gwalior dismissalMentor Yuvraj Singh expressed his displeasure at the way Abhishek Sharma was run-out during the Gwalior T20I between India and Bangladesh on Sunday, October 6. Abhishek was dismissed at the non-striker's end after a miscommunication with Sanju Samson. "
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/pakistan-vs-england-sam-curran-ben-stokes-injury-replacement-gutted-test-squad-2613226-2024-10-08",
@@ -303,18 +323,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-travis-head-opener-bumrah-ashwin-siraj-chappell-2613147-2024-10-08",
-      "headline": "Don't use Travis Head as opener in Tests against India: Ian ChappellFormer Australia cricketer Ian Chappell has warned the team against using Travis Head as an opener against India. Australia are facing a crisis at the openers' spot since the retirement of David Warner."
+      "url": "https://www.indiatoday.in/sports/cricket/story/sarfaraz-khan-to-miss-mumbais-ranji-trophy-opener-set-for-ind-vs-nz-series-2613201-2024-10-08",
+      "headline": "Sarfaraz Khan to miss Mumbai's Ranji Trophy opener, set for IND vs NZ seriesSarfaraz Khan is all set to be retained in the India squad for the New Zealand series and miss Mumbai opening match of the Ranji Trophy against Baroda, according to the latest reports. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/serie-a-como-offer-napoli-fans-free-beer-to-reward-warm-reception-at-maradona-2613146-2024-10-08",
-      "headline": "Como offer Napoli fans free beer to reward warm reception at MaradonaComo has announced that they will be offering Napoli fans free beer in February when they welcome Antonio Conte's side for the return match. The Como team and fans got a warm reception at the Maradona recently. "
+      "url": "https://www.indiatoday.in/sports/football/story/lionel-messi-andres-iniesta-special-retirement-message-a-phenomenon-fc-barcelona-2613187-2024-10-08",
+      "headline": "Lionel Messi pens special message to Andres Iniesta on retirementLionel Messi shared a touching tribute to his former Barcelona teammate Andr\u00e9s Iniesta, as the Spanish legend announced his retirement, celebrating their iconic partnership and Iniesta's incredible footballing legacy."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-all-rounder-axar-patel-set-to-welcome-first-child-with-wife-meha-2613132-2024-10-08",
-      "headline": "India all-rounder Axar Patel set to welcome first child with wife MehaIndia all-rounder Axar Patel has announced that he and his wife Meha are expecting the arrival of their first child on Monday, September 7. "
+      "url": "https://www.indiatoday.in/sports/cricket/story/sri-lanka-cricket-team-sanath-jayasuriya-full-time-coach-reaction-2613181-2024-10-08",
+      "headline": "Confidence, trust, bit of luck: Sanath Jayasuriya's recipe for Sri Lanka revivalSanath Jayasuriya has said that confidence, trust and a bit of luck has been the reasons behind his success as the coach of the Sri Lankan team. Jayasuriya was given the permanent job on October 7, Monday. "
     },
     {
       "sentiment": "positive",
@@ -363,18 +383,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/watch-shan-masood-gifted-special-jersey-on-completing-2000-runs-during-pak-vs-eng-2613058-2024-10-07",
-      "headline": "Watch: Shan Masood gifted special jersey on completing 2000 runs during PAK vs ENGPakistan captain Shan Masood was presented with a special jersey by the PCB on completing 2000 Test runs. Masood scored a scintillating hundred on Day 1 of 1st Test vs England."
+      "url": "https://www.indiatoday.in/sports/cricket/story/womens-t20-world-cup-aus-vs-nz-live-streaming-when-and-where-to-watch-live-2612985-2024-10-08",
+      "headline": "Women's T20 World Cup, AUS vs NZ Live streaming: When and where to watch liveNew Zealand and Australia will face each other in a trans-Tasman rivalry at the Women's T20 World Cup 2024. Find out all the live streaming details of the exciting contest here. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/video/suzie-bates-new-zealand-india-hammering-australia-press-conference-2613057-2024-10-07",
-      "headline": "Suzie Bates backs New Zealand to replicate India hammering vs Australia Women's T20 World Cup 2024: Suzie Bates said that if New Zealand can perform the way they did against India, they have every chance of beating Alyssa Healy's Australia on Tuesday in Sharjah. "
+      "url": "https://www.indiatoday.in/sports/cricket/story/sarfaraz-khan-brother-musheer-accident-2613108-2024-10-08",
+      "headline": "Sarfaraz Khan celebrates Irani Trophy win with father, injured brotherInda and Mumbai batter Sarfaraz Khan celebrated the Irani Trophy win with his father and injured brother. Sarfaraz's brother Musheer was ruled out of the Irani Trophy due to a road accident.\r\n"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/watch-coach-jp-duminy-rewinds-clock-while-fielding-as-substitute-for-south-africa-2613048-2024-10-07",
-      "headline": "Watch: Coach JP Duminy rewinds clock while fielding as substitute for South AfricaJP Duminy turned back the clock by stepping onto the field for South Africa in Abu Dhabi as a substitute fielder. Battling injuries and fatigue, the Proteas struggled against Ireland, who are now eyeing their first-ever ODI win over them."
+      "url": "https://www.indiatoday.in/sports/football/story/uefa-champions-league-new-schedule-conflict-rodri-dani-cravajal-kevin-de-bruyne-injury-2612720-2024-10-08",
+      "headline": "Rodri, Carvajal, De Bruyne: Injury haunts players against new scheduleDani Carvajal's ACL tear highlights mounting player concerns over the congested football calendar, as elite athletes like Kevin De Bruyne and Rodri suffer significant injuries in the wake of gruelling schedules imposed by expanded club competitions."
     },
     {
       "sentiment": "positive",
@@ -400,21 +420,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/england-vs-south-africa-sharjah-report-nat-sciver-brunt-laura-wolvaardt-2613037-2024-10-07",
       "headline": "Clinical England go top of table with 7-wicket win vs South AfricaWomen's T20 World Cup 2024: Heather Knight's England continued their unbeaten run after beating Laura Wolvaardt's South Africa by seven wickets on Monday at the Sharjah Cricket Stadium."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/nat-sciver-brunt-sune-luus-south-africa-vs-england-run-out-sharjah-2613007-2024-10-07",
-      "headline": "Watch: England's Nat Sciver-Brunt shows footy skills in bizarre run out Women's T20 World Cup 2024: Nat Sciver-Brunt affected a bizarre run out to dismiss Sune Luus when England and South Africa faced each other in Sharjah on Monday. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/netherlands-football-great-johan-neeskens-dies-aged-73-2613002-2024-10-07",
-      "headline": "Netherlands football great Johan Neeskens dies aged 73Dutch football legend Johan Neeskens, renowned for his role in the Netherlands' famed \"Clockwork Orange\" teams of the 1970s, has passed away at the age of 73. The Dutch soccer association (KNVB) announced his death, which occurred in Algeria during a coaching project. No cause of death has been disclosed."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/sophie-molineux-australia-vs-new-zealand-sharjah-press-conference-2612984-2024-10-07",
-      "headline": "Sophie Molineux wants Australia to fight fire with fire vs New Zealand  Women's T20 World Cup 2024: Sophie Molineux said that Australia will be going out with intensity against an in-form New Zealand, who beat India by 58 runs in Dubai earlier. "
     }
   ],
   "education": [
