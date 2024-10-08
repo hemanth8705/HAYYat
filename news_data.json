@@ -1,6 +1,16 @@
 {
   "business": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/ola-electric-shares-fall-6-percent-after-ccpa-show-cause-notice-drops-46-percent-from-all-time-high-2613167-2024-10-08",
+      "headline": "Ola Electric shares fall 6% after show cause notice; drops 46% from peakOla Electric has been given 15 days to respond to the notice and will provide the required documents within that time frame."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/market-opening-bell-sensex-nifty-open-flat-as-global-uncertainty-fuels-cautious-sentiment-2613156-2024-10-08",
+      "headline": "Sensex, Nifty open flat as global uncertainty fuels cautious sentimentThe S&P BSE Sensex gained 321.03 points to 81,371.03, while the Nifty50 added 73.45 points to\u00a024,869.20."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/story/ola-electric-central-consumer-protection-authority-ev-consumer-complaints-2612988-2024-10-07",
       "headline": "Central panel's notice to Ola after surge in complaints against EVs: SourcesThe Central Consumer Protection Authority (CCPA) has taken cognisance of thousands of complaints and issued a show-cause notice to Ola Electric, sources said."
@@ -89,16 +99,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/hadiram-stake-sale-valuation-usd-11-billion-singapore-state-investment-temasek-report-2611316-2024-10-04",
       "headline": "Temasek eyes a bite of Haldiram's at valuation of $11 billion: ReportThe discussions with Temasek come at a time when Haldiram's is exploring its growth potential and could pave the way for an initial public offering (IPO). "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/hyundai-ipo-valuation-19-billion-dollars-india-biggest-public-offering-2611233-2024-10-04",
-      "headline": "Hyundai seeks $19 billion valuation for its mega India IPO, says reportHyundai is expected to file updated documents with India's market regulator, the Securities and Exchange Board of India (Sebi), possibly as soon as Monday."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/story/market-closing-bell-sensex-nifty-end-lower-middle-east-tensions-oil-price-worries-spook-markets-2611232-2024-10-04",
-      "headline": "Sensex, Nifty tank as Middle East tensions, oil price worries spook marketsThe S&P BSE Sensex lost 808.65 points to close at 81,688.45, while the NSE Nifty50 was down 200.25 points to end at\u00a025,049.85."
     }
   ],
   "entertainment": [
@@ -135,14 +135,14 @@
       "headline": "S Jaishankar's remarks self-explanatory: Pak on bilateral talks with IndiaS Jaishankar, who will lead a delegation to Islamabad next week, had also toed a similar line and maintained that his visit was meant for a multilateral event."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/israel-hezbollah-conflict-lebanon-hassan-nasrallah-assassination-of-top-commanders-dr-ali-hamie-2613003-2024-10-07",
-      "headline": "What Hezbollah's strategy analyst said on top commanders' killingAs Hezbollah is facing the heat from the Israeli military, India Today spoke to Dr Ali Hamie, a Hezbollah strategy analyst. "
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/suhail-hussein-husseini-commander-of-hezbollah-headquarters-killed-in-beirut-strikes-israeli-military-2613171-2024-10-08",
+      "headline": "Commander of Hezbollah headquarters killed in Beirut strikes: Israeli militaryIn a social media post, the IDF claimed that a strike on a compound in Beirut killed Hezbollah's logistics unit head Suhail Hussein Husseini. There was no immediate comment from Hezbollah."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/elections/assembly/story/bijbehara-srigufwara-assembly-election-results-2024-live-updates-vote-counting-congress-bjp-iltija-mufti-bashir-ahmad-shah-sofi-yusuf-2612970-2024-10-07",
-      "headline": "Live: PDP's ltija Mufti trailing in Srigufwara-Bijbehara in early leadsBijbehara- Srigufwara Assembly Election Result 2024 Live: One of the most high-profile constituencies in south Kashmir, Bijbehara- Srigufwara is a stronghold of Mehbooba Mufti's Peoples Democratic Party (PDP). Mufti's daughter Iltija Mufti is up against the National Conference's Bashir Ahmad Shah (Veeri) and BJP's Sofi Yusuf in her maiden political battle. The assembly seat, which witnessed intense campaigning before the polls, has been with the PDP since 1999. Mehbooba Mufti had made her electoral debut from the Bijbehara- Srigufwara seat in 1999. Iltija Mufti is banking on her family line."
+      "headline": "Live: PDP's ltija Mufti trailing in Srigufwara-Bijbehara in early leadsSrigufwara-Bijbehara Election Results 2024 Live: One of the most high-profile constituencies in south Kashmir, Srigufwara-Bijbehara is a stronghold of Mehbooba Mufti's Peoples Democratic Party (PDP). Mufti's daughter Iltija Mufti is up against the National Conference's Bashir Ahmad Shah (Veeri) and BJP's Sofi Yusuf in her maiden political battle. The assembly seat, which witnessed intense campaigning before the polls, has been with the PDP since 1999. Mehbooba Mufti made her electoral debut from the Srigufwara-Bijbehara seat in 1999. Iltija Mufti is banking on her family line."
     },
     {
       "sentiment": "negative",
@@ -155,19 +155,39 @@
       "headline": "Why chasing the Yummy Mummy ideal image is just toxicAlong with caring for their babies, new moms should focus on their own health. But this doesn't mean they have to obsess over fitness to fit the 'yummy mummy' image seen on social media."
     },
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/elections/assembly/story/julana-assembly-election-results-2024-live-updates-vote-counting-congress-wrestler-vinesh-phogat-bjp-aap-lady-khali-yogesh-bairagi-2613015-2024-10-07",
+      "headline": "Live: Congress's Vinesh Phogat trailing by 2,000 votes after 3rd round in JulanaJulana Assembly Election Result 2024 Live: The Julana constituency has emerged as a key battleground in the Haryana Assembly elections, largely due to Vinesh Phogat, who is making her political debut here as a Congress candidate. The seat, located in Jind district, has gained significant attention after the Congress fielded Phogat, an Olympian wrestler turned politician. Phogat faces tough competition from the BJP's Captain Yogesh Bairagi, a former commercial pilot. The Aam Aadmi Party (AAP) has put forward former WWE wrestler Kavita Dalal, while the Jannayak Janta Party (JJP) is backing its incumbent MLA, Amarjeet Singh Dhanda."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/zakir-naik-pakistan-international-airlines-extra-baggage-complaint-trolled-social-media-2613085-2024-10-08",
       "headline": "Zakir Naik slams Pak airlines for not waiving extra baggage charge, gets trolledZakir Naik has been living in Malaysia since 2016 after the National Investigation Agency registered a case against him in the wake of the Dhaka terror attack, where one of the attackers admitted that he was influenced by the controversial preacher's speeches. India has requested his extradition, but Malaysia has not complied so far."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/assembly/story/julana-assembly-election-results-2024-live-updates-vote-counting-congress-wrestler-vinesh-phogat-bjp-aap-lady-khali-yogesh-bairagi-2613015-2024-10-07",
-      "headline": "Live: Congress' Vinesh Phogat leading in Julana by 200 votes after 1st roundJulana Assembly Election Result 2024 Live: The Julana constituency has emerged as a key battleground in the Haryana Assembly elections, largely due to Vinesh Phogat, who is making her political debut here as a Congress candidate. The seat, located in Jind district, has gained significant attention after the Congress fielded Phogat, an Olympian wrestler turned politician. Phogat faces tough competition from the BJP's Captain Yogesh Bairagi, a former commercial pilot. The Aam Aadmi Party (AAP) has put forward former WWE wrestler Kavita Dalal, while the Jannayak Janta Party (JJP) is backing its incumbent MLA, Amarjeet Singh Dhanda."
+      "url": "https://www.indiatoday.in/world/story/israel-hezbollah-conflict-lebanon-hassan-nasrallah-assassination-of-top-commanders-dr-ali-hamie-2613003-2024-10-07",
+      "headline": "What Hezbollah's strategy analyst said on top commanders' killingAs Hezbollah is facing the heat from the Israeli military, India Today spoke to Dr Ali Hamie, a Hezbollah strategy analyst. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/assembly/story/jammu-and-kashmir-assembly-election-result-bjp-seats-ravinder-raina-majority-2613104-2024-10-08",
-      "headline": "Will win 30-35 seats: J&K BJP chief as counting of votes beginsJammu and Kashmir BJP chief Ravinder Raina and former Deputy Chief Minister Kavinder Gupta expressed confidence in the party's victory. They said work done for people will ensure victory for the party. "
+      "url": "https://www.indiatoday.in/trending-news/story/us-youtuber-jack-doherty-slammed-for-crashing-his-rs-17-crore-mclaren-supercar-during-livestream-2613158-2024-10-08",
+      "headline": "YouTuber crashes after checking phone while driving during livestream, slammed A US YouTuber's livestream ended in disaster after he crashed his high-end sports car worth Rs 1.7 crore on a rain-soaked highway in Miami.   "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/elections/assembly/story/haryana-assembly-election-results-2024-live-updates-vote-counting-congress-bjp-jjp-aap-bhupinder-hooda-nayab-saini-dushyant-chautala-2612972-2024-10-07",
+      "headline": "Live: BJP ahead of Congress in Haryana in big turnaround in early trendsHaryana Election Results 2024 Live: Haryana Election Results 2024 Live: The BJP took a significant lead and eroded Congress's initial gains in a huge turnaround in Haryana as counting for the Assembly polls was on. The counting began with the BJP taking a very early lead before the Congress overshot the party. But an hour later, the BJP made a huge turnaround, entering into a neck-to-neck contest with the Congress before taking a slender lead, with the party nearing the majority mark. The counting of votes for all 90 Assembly constituencies began at 8 am today. The BJP has been ruling Haryana since 2014 and is eyeing a hat-trick. However, it faces a formidable challenge from the Congress, which is seeking to make a comeback to the northern state after a decade. Most exit polls, including India Today CVoter exit poll, predicted a huge win for the Congress, suggesting that the party is likely to get 50-58 seats while the BJP may get 20-28 seats. Follow indiatoday.in for live updates of 2024 Haryana Assembly polls."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/elections/assembly/story/jammu-kashmir-assembly-election-results-2024-live-updates-vote-counting-congress-nc-bjp-pdp-india-bloc-2612774-2024-10-07",
+      "headline": "NC-Congress crosses alliance ahead in Jammu and Kashmir in early trendsJ&K Election Results 2024 Live: The counting of votes for the high-stakes election to choose 90 members of the Jammu and Kashmir Assembly began at 8 am. The crucial polls were held after a decade and the first since the abrogation of Article 370. The union territory witnessed a fierce contest between regional heavyweights like Farooq Abdullah's National Conference and Mehbooba Mufti's PDP, along with national parties such as the Congress and BJP, and other players. According to the CVoter exit poll shown on India Today, the Congress-National Conference alliance is projected to have an edge, while the BJP struggles to make inroads in the Kashmir Valley, though they are expected to perform better in the Jammu region. Will Jammu and Kashmir witness a hung assembly, or will the BJP, PDP, or independents emerge as kingmakers? \u00a0The picture will become clearer as the counting progresses. Stay tuned to IndiaToday.in as we bring the latest election results from Jammu and Kashmir."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/bangladesh-hindus-minorities-rights-protect-united-states-urge-muhammad-yunus-durga-puja-celebrations-2613163-2024-10-08",
+      "headline": "US urges Bangladesh to protect rights of Hindus as Durga Puja celebrations beginThe statement from the US comes in the wake of increasing attacks on the minority Hindu community in Bangladesh following the resignation of then Prime Minister Sheikh Hasina and her escape to India in August."
     },
     {
       "sentiment": "positive",
@@ -176,13 +196,28 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/assembly/story/haryana-assembly-election-results-2024-live-updates-vote-counting-congress-bjp-jjp-aap-bhupinder-hooda-nayab-saini-dushyant-chautala-2612972-2024-10-07",
-      "headline": "BJP just ahead of Congress in Haryana in big turnaround in early trendsHaryana Election Results 2024 Live: After a months-long riveting campaign by political parties, the fate of 1,031 candidates, including Haryana Chief Minister Nayab Singh Saini, senior Congress leaders Bhupinder Singh Hooda and Kumari Selja, and JJP leader and former Deputy Chief Minister Dushyant Chautala, will be sealed after results of Haryana Assembly elections come out. The counting of votes for all 90 Assembly constituencies began at 8 am today. The BJP has been ruling Haryana since 2014 and is eyeing a hat-trick. However, it faces a formidable challenge from the Congress, which is seeking to make a comeback to the northern state after a decade. Most exit polls, including India Today CVoter exit poll, predicted a huge win for the Congress, suggesting that the party is likely to get 50-58 seats while the BJP may get 20-28 seats. The voter turnout recorded this time was 67.90 per cent, a tad lower than 68.31 per cent recorded in the 2019 election, but higher than 64.8 per cent seen in the 2024 Lok Sabha polls. Follow indiatoday.in for live updates of 2024 Haryana Assembly polls."
+      "url": "https://www.indiatoday.in/business/story/ola-electric-shares-fall-6-percent-after-ccpa-show-cause-notice-drops-46-percent-from-all-time-high-2613167-2024-10-08",
+      "headline": "Ola Electric shares fall 6% after show cause notice; drops 46% from peakOla Electric has been given 15 days to respond to the notice and will provide the required documents within that time frame."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/assembly/story/jammu-kashmir-assembly-election-results-2024-live-updates-vote-counting-congress-nc-bjp-pdp-india-bloc-2612774-2024-10-07",
-      "headline": "NC-Congress crosses majority mark in Jammu and Kashmir in early leadsJ&K Election Results 2024 Live: The counting of votes for the high-stakes election to choose 90 members of the Jammu and Kashmir Assembly began at 8 am. The crucial polls were held after a decade and the first since the abrogation of Article 370. The union territory witnessed a fierce contest between regional heavyweights like Farooq Abdullah's National Conference and Mehbooba Mufti's PDP, along with national parties such as the Congress and BJP, and other players. According to the CVoter exit poll shown on India Today, the Congress-National Conference alliance is projected to have an edge, while the BJP struggles to make inroads in the Kashmir Valley, though they are expected to perform better in the Jammu region. Will Jammu and Kashmir witness a hung assembly, or will the BJP, PDP, or independents emerge as kingmakers? \u00a0The picture will become clearer as the counting progresses. Stay tuned to IndiaToday.in as we bring the latest election results from Jammu and Kashmir."
+      "url": "https://www.indiatoday.in/elections/assembly/story/garhi-sampla-kiloi-assembly-election-results-2024-live-updates-vote-counting-congress-bjp-inld-jjp-aap-2613046-2024-10-08",
+      "headline": "Live: Congress's Bhupinder Hooda leads in Garhi by over 22,000 votesGarhi Sampla-Kiloi Assembly Election Result 2024 Live: Counting of votes in Garhi Sampla-Kiloi Assembly in Haryana began at 8 am today. It is one of the 90 seats in the Haryana Legislative Assembly which went to polls on October 5. Stay tuned for the latest updates."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/elections/assembly/story/jammu-and-kashmir-assembly-election-result-bjp-seats-ravinder-raina-majority-2613104-2024-10-08",
+      "headline": "Will win 30-35 seats: J&K BJP chief as counting of votes beginsJammu and Kashmir BJP chief Ravinder Raina and former Deputy Chief Minister Kavinder Gupta expressed confidence in the party's victory. They said work done for people will ensure victory for the party. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/alia-bhatt-locked-herself-in-room-after-inshallah-got-shelved-sanjay-leela-bhansali-2613165-2024-10-08",
+      "headline": "Alia Bhatt locked herself in room after Inshallah got shelved: Sanjay Leela BhansaliSanjay Leela Bhansali shared that Alia Bhatt broke down and locked herself in a room after Inshallah, her film with Salman Khan, was shelved, but she later excelled in Gangubai Kathiawadi."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/market-opening-bell-sensex-nifty-open-flat-as-global-uncertainty-fuels-cautious-sentiment-2613156-2024-10-08",
+      "headline": "Sensex, Nifty open flat as global uncertainty fuels cautious sentimentThe S&P BSE Sensex gained 321.03 points to 81,371.03, while the Nifty50 added 73.45 points to\u00a024,869.20."
     },
     {
       "sentiment": "positive",
@@ -191,86 +226,51 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/ranveer-singh-rescues-crying-girl-crowd-calms-singham-again-trailer-launch-deepika-padukone-rohit-shetty-2613135-2024-10-08",
-      "headline": "Watch: Ranveer Singh rescues crying girl from crowd, calms herActor Ranveer Singh helped a little crying girl at the Singham Again trailer launch. A video of Ranveer's sweet gesture has gone viral. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/assembly/story/garhi-sampla-kiloi-assembly-election-results-2024-live-updates-vote-counting-congress-bjp-inld-jjp-aap-2613046-2024-10-08",
-      "headline": "Congress's Bhupinder Hooda ahead in early trends from Garhi Sampla-KiloiGarhi Sampla-Kiloi Assembly Election Result 2024 Live: Counting of votes in Garhi Sampla-Kiloi Assembly in Haryana began at 8 am today. It is one of the 90 seats in the Haryana Legislative Assembly which went to polls on October 5. Stay tuned for the latest updates."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-new-zealand-india-semi-final-qualification-2612762-2024-10-08",
       "headline": "India will be cheering New Zealand to beat Australia. Here's why Women's T20 World Cup 2024: Harmanpreet Kaur's India will hope for New Zealand to beat Australia in their upcoming clash on Tuesday at the Sharjah Cricket Stadium. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/assembly/story/hisar-assembly-election-results-2024-live-updates-vote-counting-congress-bjp-kamal-gupta-ram-niwas-rara-savitri-jindal-candidates-2613043-2024-10-08",
-      "headline": "Live: Congress's Ram Niwas ahead in Hisar in early leads, Savitri Jindal trailsHisar Assembly Election Result 2024 Live: Counting of votes in Hisar Assembly in Haryana began at 8 am today. It is one of the 90 seats in the Haryana Legislative Assembly which went to polls on October 5. Stay tuned for the latest updates."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/emraan-hashmi-neck-injury-goodachari-2-hyderabad-adivi-sesh-2613114-2024-10-08",
-      "headline": "Emraan Hashmi sustains neck injury at Goodachari 2 shoot in HyderabadActor Emraan Hashmi injured his neck while shooting his next film Goodachari 2 in Hyderabad. The upcoming film stars Adivi Sesh in the lead role. "
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/hamas-chief-yahya-sinwar-israeli-strike-gaza-school-alive-the-jersulame-post-2613053-2024-10-08",
-      "headline": "Hamas chief Yahya Sinwar, presumed killed in Israeli strike, is alive: ReportFor the last 15 days, Israel had been investigating the possibility that Sinwar was killed in a rocket strike on September 21 that hit a school sheltering displaced Palestinians in Gaza City."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-all-rounder-axar-patel-set-to-welcome-first-child-with-wife-meha-2613132-2024-10-08",
-      "headline": "India all-rounder Axar Patel set to welcome first child with wife MehaIndia all-rounder Axar Patel has announced that he and his wife Meha are expecting the arrival of their first child on Monday, September 7. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/missile-attack-israel-iran-earthquake-sparks-debate-nuclear-bomb-test-uranium-enrichment-semnan-nuke-facility-natanz-middle-east-2612788-2024-10-07",
-      "headline": "Is Iran close to a nuclear bomb? An earthquake sparks questionAn earthquake in an Iranian desert on October 5 sparked speculation that Iran had tested a nuclear bomb. Though there was no official word on the chatter, experts believe Iran is closer than ever to acquiring a nuclear weapon, amid tensions with Israel. This is the time, experts think, Iran might need to get nuclear weapons."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/rajinikanth-vettaiyan-release-october-10-tj-gnanavel-film-2612609-2024-10-08",
-      "headline": "What to expect from Rajnikanth's VettaiyanAs the release of Rajinikanth's Vettaiyan approaches, excitement is building amongst fans. Here are three reasons why you should watch the commercial entertainer with a social message in theatres. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/jairam-ramesh-ed-summons-manipur-congress-chief-k-meghachandra-singh-political-vendetta-2613141-2024-10-08",
-      "headline": "Political vendetta: Jairam Ramesh on ED summons to Manipur Congress chiefSenior Congress leader Jairam Ramesh called the ED summons to Manipur Congress chief K Meghachandra Singh a \"political vendetta\"."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/chatgpt-canvas-announced-know-what-it-is-and-how-it-will-work-2613145-2024-10-08",
-      "headline": "ChatGPT Canvas announced: Know what it is and how it will work\u00a0ChatGPT Canvas introduces a new interactive interface for enhanced collaboration on writing and coding projects, offering tools for detailed editing and feedback."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/shalini-wishes-ajith-kumar-formula-racing-driver-2613101-2024-10-08",
-      "headline": "Actor Shalini's shout-out to Ajith Kumar: Great to see you back as racing driverFormer actor Shalini gave a shout-out to her actor-husband Ajith Kumar as he got back to racing. She wished him a safe racing career ahead."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/rajinikanth-vettaiyan-release-october-10-tj-gnanavel-film-2612609-2024-10-08",
-      "headline": "What to expect from Rajnikanth's VettaiyanAs the release of Rajinikanth's Vettaiyan approaches, excitement is building amongst fans. Here are three reasons why you should watch the commercial entertainer with a social message in theatres. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/story/70-national-film-awards-when-where-to-watch-ceremony-live-president-droupadi-murmu-rishab-shetty-nithya-menen-brahmastra-mithun-chakraborty-2613142-2024-10-08",
-      "headline": "70th National Film Awards: When and where to watch the ceremony liveThe National Film Awards will take place on October 8 in New Delhi. The awardees will be honoured by President Droupadi Murmu. "
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/ranveer-singh-rescues-crying-girl-crowd-calms-singham-again-trailer-launch-deepika-padukone-rohit-shetty-2613135-2024-10-08",
       "headline": "Watch: Ranveer Singh rescues crying girl from crowd, calms herActor Ranveer Singh helped a little crying girl at the Singham Again trailer launch. A video of Ranveer's sweet gesture has gone viral. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/television/reality-tv/story/bigg-boss-tamil-8-maharaja-sachana-namidass-eliminated-24-hours-2613122-2024-10-08",
-      "headline": "Bigg Boss Tamil 8: Maharaja actor Sachana gets eliminated after 24 hoursMaharaja actor Sachana Namidass became the first contestant to be eliminated from Bigg Boss Tamil 8. The elimination happened 24 hours after the show began."
+      "url": "https://www.indiatoday.in/elections/assembly/story/hisar-assembly-election-results-2024-live-updates-vote-counting-congress-bjp-kamal-gupta-ram-niwas-rara-savitri-jindal-candidates-2613043-2024-10-08",
+      "headline": "Live: Savitri Jindal leads in Hisar by 3,836 votes after 1st roundHisar Assembly Election Result 2024 Live: Counting of votes in Hisar Assembly in Haryana began at 8 am today. It is one of the 90 seats in the Haryana Legislative Assembly which went to polls on October 5. Stay tuned for the latest updates."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/pakistan-girl-boyfriend-marry-upset-kills-13-family-members-poison-rotis-2613152-2024-10-08",
+      "headline": "Upset at not being allowed to marry boyfriend, Pak girl poisons 13 family membersThe incident happened on August 19, and the girl confessed to the police to mixing poison in the wheat with the help of her boyfriend."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/music/story/alan-walker-says-sharing-the-stage-with-alia-bhatt-was-incredible-exclusive-2613175-2024-10-08",
+      "headline": "Alan Walker says sharing the stage with Alia Bhatt was incredible | ExclusiveAlan Walker began his India tour in Kolkata on September 27. Speaking to India Today Digital, he talked about his connection to fans, his collaboration with Alia Bhatt, and his upcoming album Walkerworld. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/television/reality-tv/story/bigg-boss-18-chum-darang-angry-shehzada-dhami-questions-her-indian-roots-2613164-2024-10-08",
+      "headline": "BB 18 Day 1: Chum Darang gets angry as Shehzada Dhami questions her Indian rootsIn the first episode of Bigg Boss 18, Chum Darang and Shehzada Dhami engaged in a heated argument after the Yeh Rishta Kya Kehlata Hai actor questioned Chum's Indian roots.\r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/alia-bhatt-locked-herself-in-room-after-inshallah-got-shelved-sanjay-leela-bhansali-2613165-2024-10-08",
+      "headline": "Alia Bhatt locked herself in room after Inshallah got shelved: Sanjay Leela BhansaliSanjay Leela Bhansali shared that Alia Bhatt broke down and locked herself in a room after Inshallah, her film with Salman Khan, was shelved, but she later excelled in Gangubai Kathiawadi."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/rajinikanth-vettaiyan-release-october-10-tj-gnanavel-film-2612609-2024-10-08",
+      "headline": "What to expect from Rajnikanth's VettaiyanAs the release of Rajinikanth's Vettaiyan approaches, excitement is building amongst fans. Here are three reasons why you should watch the commercial entertainer with a social message in theatres. "
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-bangladesh-2nd-t20i-indian-cricket-team-punjabi-welcome-suryakumar-yadav-delhi-2613157-2024-10-08",
+      "headline": "India ki shaan Suryakumar: Hosts get traditional punjabi welcome in DelhiThe Indian team got a traditional punjabi welcome as they arrived in Delhi ahead of the second T20I against Bangladesh on Monday, October 7. India will aim to clinch the series with a win at the Arun Jaitley stadium on Wednesday. "
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-travis-head-opener-bumrah-ashwin-siraj-chappell-2613147-2024-10-08",
@@ -318,8 +318,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/video/suzie-bates-new-zealand-india-hammering-australia-press-conference-2613057-2024-10-07",
-      "headline": "Suzie Bates backs New Zealand to replicate India hammering vs Australia Women's T20 World Cup 2024: Suzie Bates said that if New Zealand can perform the way they did against India, they have every chance of beating Alyssa Healy's Australia on Tuesday in Sharjah. "
+      "url": "https://www.indiatoday.in/sports/cricket/story/womens-t20-world-cup-aus-vs-nz-live-streaming-when-and-where-to-watch-live-2612985-2024-10-08",
+      "headline": "Women's T20 World Cup, AUS vs NZ Live streaming: When and where to watch liveNew Zealand and Australia will face each other in a trans-Tasman rivalry at the Women's T20 World Cup 2024. Find out all the live streaming details of the exciting contest here. "
     },
     {
       "sentiment": "positive",
@@ -383,8 +383,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/premier-league-manchester-city-ruling-sponsorship-deals-2612805-2024-10-07",
-      "headline": "Manchester City, Premier League welcome panel ruling on sponsorship dealsFour-time defending champion City legally challenged the league's Associated Party Transaction (APT) Rules, which are intended to safeguard the \"competitive balance\" of the world's most popular football league"
+      "url": "https://www.indiatoday.in/sports/cricket/story/netherlands-football-great-johan-neeskens-dies-aged-73-2613002-2024-10-07",
+      "headline": "Netherlands football great Johan Neeskens dies aged 73Dutch football legend Johan Neeskens, renowned for his role in the Netherlands' famed \"Clockwork Orange\" teams of the 1970s, has passed away at the age of 73. The Dutch soccer association (KNVB) announced his death, which occurred in Algeria during a coaching project. No cause of death has been disclosed."
     },
     {
       "sentiment": "positive",
