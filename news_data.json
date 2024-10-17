@@ -1,6 +1,16 @@
 {
   "business": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/story/bajaj-auto-shares-fall-10-percent-q2-results-explained-weak-sales-outlook-2618253-2024-10-17",
+      "headline": "Explained: Why Bajaj Auto shares crashed 10% todayBajaj Auto shares dropped over 10% in early trade, following the company's Q2FY25 financial results."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/stock-market-opening-sensex-nifty-early-trade-infosys-tcs-bajaj-auto-eicher-motors-rvnl-2618237-2024-10-17",
+      "headline": "Sensex, Nifty decline in early trade; Infosys gains, Bajaj Auto sinks 9%The S&P BSE Sensex was down 315.93 points to 81,185.43 at 9:52 am, while the NSE Nifty50 fell 143.15 points to trade at 24,828.15."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/hyundai-ipo-day-2-check-latest-subscription-gmp-expected-listing-gains-2617934-2024-10-16",
       "headline": "Hyundai IPO Day 2: Check latest subscription, GMPHyundai Motors India IPO: The bidding for the public issue will close on Thursday, with the allotment expected to be finalised by October 18. "
@@ -89,16 +99,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/government-favours-administrative-allocation-spectrum-amid-elon-musk-ambani-showdown-2617515-2024-10-16",
       "headline": "No spectrum auction: Government after Elon Musk objects to Mukesh Ambani's pitchTelecom Minister Jyotiraditya Scindia has announced that India will follow the global trend of administrative spectrum allocation.\u00a0The decision came after Starlink CEO Elon Musk objected to Ambani's Reliance Jio lobbying for the auction route."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/da-hike-53-percent-update-central-government-employees-can-expect-big-diwali-gift-2617350-2024-10-15",
-      "headline": "DA hike update: Central government employees can expect big Diwali giftThe expected hike in DA would mean that over 1 crore central government employees and pensioners will receive their October salaries with the new DA rate, along with three months' worth of arrears."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/lic-mutual-fund-reduces-daily-minimum-sip-limit-to-rs-100-investment-tips-2617301-2024-10-15",
-      "headline": "LIC Mutual Fund reduces daily minimum SIP limit to Rs 100Investors can now begin a SIP with just Rs 100 and in multiples of Re 1 thereafter for select schemes of LIC Mutual Fund (LIC MF)."
     }
   ],
   "entertainment": [
@@ -132,27 +132,12 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/india-canada-row-justin-trudeau-ministry-of-external-affairs-mea-hardeep-singh-nijjar-murder-probe-2618149-2024-10-17",
-      "headline": "India condemns Trudeau's cavalier attitude after his 'no proof over Nijjar' admissionThe Ministry of External Affairs slammed Trudeau's handling of the situation, stating that Canada had failed to provide any evidence to support its allegations against India."
+      "headline": "India calls out Trudeau's cavalier behaviour after he admits to no proof on NijjarThe Ministry of External Affairs slammed Trudeau's handling of the situation, stating that Canada had failed to provide any evidence to support its allegations against India."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/india-canada-china-foreign-interference-commission-justin-trudeau-hardeep-nijjar-khalistan-2618013-2024-10-16",
-      "headline": "Trudeau admits Canada had 'intel, not hard proof' against India in Nijjar killingJustin Trudeau, who testified before the country's foreign interference inquiry, said\u00a0Canada only provided intelligence and no proof before publicly accusing India of killing Khalistani terrorist Hardeep Singh Nijjar."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/opinion/story/india-canada-diplomatic-row-justin-trudeau-hardeep-singh-nijjar-killing-rcmp-probe-2618128-2024-10-17",
-      "headline": "Gall of Justin Trudeau: Took Canada to 'war' on back of a crowdsourced probe!Prime Minister Justin Trudeau's latest move \u2014 calling for public help in a diplomatic crisis \u2014 is nothing short of embarrassing for Canada."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/music/story/former-one-direction-member-liam-payne-dies-by-falling-from-buenos-aires-argentina-hotel-2618131-2024-10-17",
-      "headline": "Former One Direction member Liam Payne dies at 31 in Argentina hotel fallLiam Payne, renowned for his time with One Direction, dies in Buenos Aires after a fall from a hotel. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/wellness/story/how-many-calories-do-indians-need-in-a-day-2617747-2024-10-17",
-      "headline": "How many calories do Indians need in a day?Social media has always preached that if we eat less and move more, we will lose weight. But how many calories do Indians actually need in a day? Let experts guide you."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/india-canada-row-old-letter-by-gurpatwant-singh-pannun-sikhs-for-justice-justin-trudeau-expulsion-india-envoy-2618245-2024-10-17",
+      "headline": "In letter to Trudeau, terrorist Pannun had asked for Indian envoy's sackingSikhs for Justice called Khalistani terrorist Hardeep Singh Nijjar a \"peace-loving\" and a \"law-abiding Canadian citizen\" in the letter to Prime Minister Justin Trudeau. "
     },
     {
       "sentiment": "negative",
@@ -161,13 +146,28 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/canada-news/story/chandra-arya-khalistani-extremism-hindu-canadians-threat-canada-india-diplomatic-row-justin-trudeau-2618219-2024-10-17",
-      "headline": "Khalistani extremism in Canada rooted in political patronage: Hindu Canadian MPIndian-origin MP Chandra Arya expressed concern over the Khalistani threat faced by Hindu Canadians and called on the Trudeau government to address the issue."
+      "url": "https://www.indiatoday.in/music/story/former-one-direction-member-liam-payne-dies-by-falling-from-buenos-aires-argentina-hotel-balcony-2618131-2024-10-17",
+      "headline": "Ex-One Direction member Liam Payne dies at 31 after falling from hotel balconyArgentine newspapers reported, quoting officials, that police were called to the scene following an emergency report of \"an aggressive man possibly under the influence of drugs and alcohol\". Later, emergency\u00a0medical workers confirmed Payne's death."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/opinion/story/2024-us-presidential-election-vice-president-kamala-harris-america-ready-woman-commnander-in-chief-2618177-2024-10-17",
       "headline": "Is America ready for a woman Commander in Chief?The US has elected 46 Presidents since 1789, all white men barring one. For a nation that calls itself the world's oldest democracy, the fact that it has never elected a woman President speaks to the deep-rooted misogyny that persists in American society."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/canada-news/story/chandra-arya-khalistani-extremism-hindu-canadians-threat-canada-india-diplomatic-row-justin-trudeau-2618219-2024-10-17",
+      "headline": "What about Hindu Canadians? Lawmaker's swipe at Trudeau on Khalistan threatIndian-origin MP Chandra Arya expressed concern over the Khalistani threat faced by Hindu Canadians and called on the Trudeau government to address the issue."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/opinion/story/india-canada-diplomatic-row-justin-trudeau-hardeep-singh-nijjar-killing-rcmp-probe-2618128-2024-10-17",
+      "headline": "Audacity of Justin Trudeau: Took Canada to 'war' on back of a crowdsourced probe!Prime Minister Justin Trudeau's latest move \u2014 calling for public help in a diplomatic crisis \u2014 is nothing short of embarrassing for Canada."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/shah-rukh-khan-making-very-big-films-so-his-parents-can-watch-from-heaven-2618230-2024-10-17",
+      "headline": "Shah Rukh Khan making 'very big films' so his parents can watch from heavenShah Rukh Khan shared that he pursued Devdas for his late mother. He said he wanted to create big films for his parents to see from heaven."
     },
     {
       "sentiment": "positive",
@@ -181,8 +181,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/chief-justice-of-india-dy-chandrachud-proposes-justice-sanjiv-khanna-as-his-successor-2618187-2024-10-17",
-      "headline": "Chief Justice proposes Justice Sanjiv Khanna as his successor Upon approval by the government, Justice Sanjiv Khanna will become the 51st Chief Justice of India."
+      "url": "https://www.indiatoday.in/world/us-news/story/us-state-department-matthew-miller-khalistani-terrorist-gurpatwant-singh-pannun-murder-plot-accused-individual-2618204-2024-10-17",
+      "headline": "Individual accused of Pannun murder plot no longer employed by India: USIn November 2023, US prosecutors charged Indian national Nikhil Gupta for his involvement in the conspiracy, alongside an Indian government official, to target Khalistani terrorist Gurpatwant Singh Pannun in New York. "
     },
     {
       "sentiment": "positive",
@@ -192,12 +192,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/nayab-singh-saini-haryana-chief-minister-oath-council-of-ministers-swearing-in-ceremony-pm-modi-bjp-2618155-2024-10-17",
-      "headline": "Nayab Saini's oath as Haryana Chief Minister today, PM, BJP brass to attendNayab Singh Saini will take oath as Haryana Chief Minister for the second time today. The swearing in ceremony wil be attended by Prime Minister Narendra Modi, Union Home Minister Amit Shah, and other top BJP leaders."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/india-canada-diplomatic-row-justin-trudeau-face-panel-probe-china-foreign-interference-canadian-election-2617967-2024-10-16",
-      "headline": "Is Trudeau making India the fall guy to shield China?The panel probing foreign interference in Canada's elections of 2019 and 2021 found China to be the biggest threat. Canadian Prime Minister Justin Trudeau is deposing before it today. Is Trudeau using the Nijjar killing case to project India as the fall guy and save China?"
+      "headline": "Nayab Saini's oath as Haryana Chief Minister today, PM, BJP brass to attend Live UpdatesNayab Singh Saini will take oath as Haryana Chief Minister for the second time today. The swearing in ceremony wil be attended by Prime Minister Narendra Modi, Union Home Minister Amit Shah, and other top BJP leaders."
     },
     {
       "sentiment": "positive",
@@ -206,28 +201,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/radhika-apte-pregnant-flaunts-baby-bump-bfi-london-film-festival-2618171-2024-10-17",
-      "headline": "Actor Radhika Apte is pregnant, flaunts baby bump at BFI London Film FestivalActor Radhika Apte attended the BFI London Film Festival 2024 recently. She flaunted her baby bump for the first time in the UK premiere of her upcoming film, Sister Midnight."
+      "url": "https://www.indiatoday.in/india/story/chief-justice-of-india-dy-chandrachud-proposes-justice-sanjiv-khanna-as-his-successor-2618187-2024-10-17",
+      "headline": "Chief Justice proposes Justice Sanjiv Khanna as his successor Upon approval by the government, Justice Sanjiv Khanna will become the 51st Chief Justice of India."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/lifestyle/wellness/story/how-many-calories-do-indians-need-in-a-day-2617747-2024-10-17",
+      "headline": "How many calories do Indians need in a day?Social media has always preached that if we eat less and move more, we will lose weight. But how many calories do Indians actually need in a day? Let experts guide you."
     },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/india-canada-diplomatic-standoff-opposition-jairam-ramesh-congress-government-justin-trudeau-2618065-2024-10-16",
       "headline": "Take Opposition into confidence: Congress to government amid India-Canada rowIn a post on X (formerly Twitter), Congress leader Jairam Ramesh said that the Union government should come clean in view of the allegations levelled by Justin Trudeau amid the ongoing diplomatic standoff between the two countries."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/terrorist-gurpatwant-singh-pannun-sikhs-for-justice-cbc-news-canada-pmo-khalistan-india-2617903-2024-10-16",
-      "headline": "Terrorist Pannun says banned group SFJ has been communicating with Canada PMOGurpatwant Singh Pannun appeared on Canadian broadcaster CBC News and said his organisation Sikhs For Justice detailed the Canadian PMO about the \"Indian spy network\" and terrorist Hardeep Singh Nijjar's killing."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/chhattisgarh-boy-detained-issuing-hoax-bomb-threats-flights-airlines-2617968-2024-10-16",
-      "headline": "Chhattisgarh boy detained over bomb hoax on 3 flightsInitial investigation revealed that there was a dispute between the boy and his friend over money. Due to this, the boy allegedly made threatening posts on social media using the photo of his friend."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/trending-news/story/internet-mocks-bengaluru-infra-amid-heavy-rain-says-manyata-tech-park-waterfalls-2617893-2024-10-16",
-      "headline": "Internet mocks Bengaluru infra amid heavy rain: 'Manyata Tech Park waterfalls'Among the most affected areas of Bengaluru was Manyata Tech Park, one of India's largest office hubs, which was flooded after hours of heavy rain. "
     },
     {
       "sentiment": "negative",
@@ -236,13 +221,33 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/india-canada-diplomatic-row-justin-trudeau-face-panel-probe-china-foreign-interference-canadian-election-2617967-2024-10-16",
+      "headline": "Is Trudeau making India the fall guy to shield China?The panel probing foreign interference in Canada's elections of 2019 and 2021 found China to be the biggest threat. Canadian Prime Minister Justin Trudeau is deposing before it today. Is Trudeau using the Nijjar killing case to project India as the fall guy and save China?"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/radhika-apte-pregnant-flaunts-baby-bump-bfi-london-film-festival-2618171-2024-10-17",
+      "headline": "Actor Radhika Apte is pregnant, flaunts baby bump at BFI London Film FestivalActor Radhika Apte attended the BFI London Film Festival 2024 recently. She flaunted her baby bump for the first time in the UK premiere of her upcoming film, Sister Midnight."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/law-news/video/watch-lady-justice-statue-stands-tall-at-supreme-court-with-blindfold-taken-off-2618116-2024-10-17",
       "headline": "Watch: Lady Justice Statue stands tall at Supreme Court with blindfold taken offA video of the Lady Justice Statue at the Supreme Court has gone viral as it has undergone a landmark change with its blindfold removed and a copy of the Constitution replacing the sword it traditionally held in one of her hands, in a departure from the familiar sight people had about the statue.\u00a0"
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/chhattisgarh-boy-detained-issuing-hoax-bomb-threats-flights-airlines-2617968-2024-10-16",
+      "headline": "Chhattisgarh boy detained over bomb hoax on 3 flightsInitial investigation revealed that there was a dispute between the boy and his friend over money. Due to this, the boy allegedly made threatening posts on social media using the photo of his friend."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/serie-a-paul-pogba-ban-reduction-juventus-return-france-world-cup-2026-2618175-2024-10-17",
       "headline": "Paul Pogba keeps World Cup 2026 dream alive after doping ban reductionPaul Pogba has claimed that he still keeps the World Cup 2026 dream alive and is eager to make a return to the playing field with Juventus. Pogba last played a match almost a year ago. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/music/story/bts-member-j-hope-gets-discharged-from-military-jin-welcomes-him-watch-2618254-2024-10-17",
+      "headline": "Watch: BTS member J-hope gets discharged from military, Jin welcomes himJ-Hope of BTS has been discharged from military service, and welcomed by Jin. He expressed gratitude to fans and shared insights from his military life. Jin's solo album is set for November 15, 2024."
     },
     {
       "sentiment": "positive",
@@ -258,14 +263,14 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/vettaiyan-box-office-day-7-rajinikanth-film-ends-week-1-with-rs-11880-crore-in-india-2618194-2024-10-17",
       "headline": "Vettaiyan box office Day 7: Rajinikanth's film ends Week 1 with Rs 118.80 croreSuperstar Rajinikanth's Vettaiyan ended Week 1 with Rs 118.80 crore nett at the domestic box office. The film remained steady on Wednesday, October 16."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/radhika-apte-pregnant-flaunts-baby-bump-bfi-london-film-festival-2618171-2024-10-17",
-      "headline": "Actor Radhika Apte is pregnant, flaunts baby bump at BFI London Film FestivalActor Radhika Apte attended the BFI London Film Festival 2024 recently. She flaunted her baby bump for the first time in the UK premiere of her upcoming film, Sister Midnight."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-new-zealand-first-test-virat-kohli-duck-number-three-bengaluru-2618242-2024-10-17",
+      "headline": "IND vs NZ: Virat Kohli out for 0 after batting at No. 3 after 8 yearsVirat Kohli's return to the number three spot ended in disaster as the star batter was dismissed for a 9-ball duck against New Zealand in the Bengaluru Test. "
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/diana-edulji-welcomes-neetu-david-in-icc-hall-of-fame-cant-think-of-anyone-more-deserving-2618229-2024-10-17",
@@ -299,7 +304,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-new-zealand-first-test-day-two-bengaluru-weather-live-updates-chinnaswamy-stadium-2618154-2024-10-17",
-      "headline": "1st Test Day 2 Weather updates: Rain gives way to action on Day 2 morningIND vs NZ, 1st Test Day 2 Weather updates: India won the toss and opt to bat first. Sarfaraz Khan and Kuldeep Yadav make it to playing XI. "
+      "headline": "1st Test Day 2 Weather updates: Rain returns to halt 1st sessionIND vs NZ, 1st Test Day 2 Weather updates: The rain has returned to the Chinnaswamy stadium as India were left reeling at 13 for 3. The covers have come back firmly in Bengaluru as both teams have returned back to the dressing room. "
     },
     {
       "sentiment": "positive",
@@ -312,11 +317,6 @@
       "headline": "Retain MS Dhoni as capped player: R Ashwin gives IPL retention mantra for CSKIPL 2025: Ravichandran Ashwin has offered a unique perspective on Chennai Super Kings' (CSK) retention strategy ahead of the mega auction, suggesting that MS Dhoni should be retained as a capped player rather than as an uncapped player. "
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/cricket/video/grace-harris-opening-australia-grateful-selectors-faith-2618104-2024-10-16",
-      "headline": "Grace Harris on opening for Australia: Grateful to selectors for showing faith in me Women's T20 World Cup 2024: Grace Harris thanked the national selectors for trusting her to open the batting. Harris played as an opener in Alyssa Healy's absence and scored 40 runs off 41 balls against India at the Sharjah Cricket Stadium. "
-    },
-    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/serie-a-paul-pogba-ban-reduction-juventus-return-france-world-cup-2026-2618175-2024-10-17",
       "headline": "Paul Pogba keeps World Cup 2026 dream alive after doping ban reductionPaul Pogba has claimed that he still keeps the World Cup 2026 dream alive and is eager to make a return to the playing field with Juventus. Pogba last played a match almost a year ago. "
@@ -324,7 +324,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-new-zealand-first-test-day-two-bengaluru-weather-live-updates-chinnaswamy-stadium-2618154-2024-10-17",
-      "headline": "1st Test Day 2 Weather updates: Rain gives way to action on Day 2 morningIND vs NZ, 1st Test Day 2 Weather updates: India won the toss and opt to bat first. Sarfaraz Khan and Kuldeep Yadav make it to playing XI. "
+      "headline": "1st Test Day 2 Weather updates: Rain returns to halt 1st sessionIND vs NZ, 1st Test Day 2 Weather updates: The rain has returned to the Chinnaswamy stadium as India were left reeling at 13 for 3. The covers have come back firmly in Bengaluru as both teams have returned back to the dressing room. "
     },
     {
       "sentiment": "positive",
@@ -378,8 +378,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/pakistan-vs-england-ben-duckett-success-subcontinent-ben-stokes-multan-pitch-2617987-2024-10-16",
-      "headline": "Fearless Ben Duckett reveals secret to Test success: 'No punishment if I get out'Pakistan vs England, 2nd Test: Opener Ben Duckett, who continued his love affair with Pakistan, credited the backing from coach Brendon McCullum and captain Ben Stokes for playing without fear. Duckett hit a rapid hundred on Day 2 of the Multan Test. "
+      "url": "https://www.indiatoday.in/sports/cricket/story/pakistan-vs-england-sajid-khan-harry-brook-multan-test-2618031-2024-10-16",
+      "headline": "Sajid Khan reveals how he plotted Harry Brook's dismissal in MultanPAK vs ENG: Sajid Khan talked about the tactics that Pakistan employed to dismiss Harry Brook, who was fresh from scoring a triple hundred in the opening Test. "
     },
     {
       "sentiment": "positive",
@@ -415,11 +415,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/pakistan-vs-england-2nd-test-score-sajid-khan-noman-ali-collapse-2617936-2024-10-16",
       "headline": "2nd Test: Sajid Khan triggers England collapse and hopes of Pakistan fightback Pakistan (PAK) vs England (ENG), 2nd Test: Off-spinner Sajid Khan picked four wickets to trigger an England collapse late on Day 2. Ben Duckett hit a hundred, but England conceded advantage on Wednesday afternoon in Multan. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-knocked-out-harmanpreet-kaur-smriti-mandhana-analysis-2617879-2024-10-16",
-      "headline": "India's T20 World Cup disaster: Indecision, lack of intent, too many flawsWomen's T20 World Cup 2024: Harmanpreet Kaur's India were subjected to criticism after they could not advance to the semi-finals of the mega event in the UAE. India beat Sri Lanka and Pakistan, but lost to New Zealand and the defending champions Australia. "
     }
   ],
   "education": [
