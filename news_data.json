@@ -1,6 +1,26 @@
 {
   "business": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/story/titan-share-price-down-3-percent-q2fy25-net-profit-falls-buy-or-sell-stock-analyst-views-2628906-2024-11-06",
+      "headline": "Titan share price falls 3% after disappointing Q2 results. Buy or sell?At 11:15 am, shares of Titan were down 2.80% at Rs 3,142.50 on the Bombay Stock Exchange (BSE)."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/gail-share-price-surges-6-percent-strong-q2-results-bullish-brokerage-views-target-price-2628894-2024-11-06",
+      "headline": "GAIL share price surges 6% after Q2 results. Will stock climb further?At 11 am, GAIL's share price was up 6.24% at Rs 208.65 on the Bombay Stock Exchange (BSE). This is a positive sign for the stock after it declined significantly over the past month."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/hindustan-zinc-share-price-today-dips-8-percent-government-stake-sale-ofs-2628880-2024-11-06",
+      "headline": "Explained: Why Hindustan Zinc share price plunged 8% todayAt 10:45 am, Hindustan Zinc shares were down 7.71% to Rs 516.30 on the Bombay Stock Exchange (BSE).\u00a0"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/stock-market-today-sensex-nifty-it-stocks-us-elections-titan-stock-price-tumbles-2628868-2024-11-06",
+      "headline": "Sensex, Nifty gain as IT stocks gain amid US elections; Titan tumbles 3%The BSE Sensex was up 251.87 points to 79,728.50 points at 10:31 am, while the NSE Nifty rose 74,20 points to trade at 24,287.50."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/bitcoin-price-today-record-high-75000-dollars-for-first-time-us-elections-donald-trump-win-2628860-2024-11-06",
       "headline": "Bitcoin price hits record $75,000 for the first time. Here's whyFor much of the year, Bitcoin had been trading within a narrowband below $70,000, but election-day developments have driven fresh interest in the asset."
@@ -79,26 +99,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/stock-market-crash-sensex-nifty-volatility-us-elections-experts-2627851-2024-11-04",
       "headline": "Sensex, Nifty tumble ahead of US elections; Hero MotoCorp falls 4%The NSE Nifty 50 dropped by 321.20 points to settle at 23,983.15, while the BSE Sensex fell 941.88 points to 78,782.24. Most of the broader market indices also declined sharply during the session."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/reliance-jio-ipo-set-for-2025-launch-retail-arm-debut-later-key-details-mukesh-ambani-2627838-2024-11-04",
-      "headline": "Reliance Jio IPO likely in 2025, retail arm to debut much later: Report Reliance Jio IPO: The company is targeting a 2025 listing for Jio, although the retail unit's IPO is expected to follow later due to internal operational priorities."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/us-elections-impact-on-indian-stock-market-explained-donald-trump-kamala-harris-possible-outcomes-sectors-2627826-2024-11-04",
-      "headline": "Donald Trump vs Kamala Harris: How US elections may impact Indian stock marketWith the US election just a day away, Indian markets prepare for shifts across sectors from tech to oil. What could this high-stakes race mean for investors on Dalal Street?"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/stock-market-crash-sensex-nifty-today-check-reliance-adani-ports-bajaj-auto-ongc-top-losers-2627734-2024-11-04",
-      "headline": "Stock market crash: Adani Ports, Reliance, Bajaj Auto among top losers Market crash: The bloodbath on Dalal Street can be attributed to a combination of factors, including a disappointing Q2 earnings season, heightened caution ahead of the upcoming US presidential elections, and persistent selling by foreign institutional investors (FIIs)."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/video/us-elections-and-market-turbulence-2627718-2024-11-04",
-      "headline": "US presidential elections cause market turbulence as investors grow waryThe US elections are affecting the share market, with significant impacts on bond yields and investor caution."
     }
   ],
   "entertainment": [
@@ -132,17 +132,37 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/us-election-2024/story/us-presidential-election-results-donald-trump-kamala-harris-polling-counting-votes-republican-democrat-swing-states-2628784-2024-11-06",
-      "headline": "Trump scoops North Carolina in battle for swing states, Harris under pressureUS Election Result 2024: Republican Donald Trump takes a strong lead with projected wins in 24 states, securing 230 electoral votes. Vice President Kamala Harris is hot on his heels with 210 electoral votes as the results roll in."
+      "headline": "Donald Trump smells win, takes 2 swing states, Kamala Harris skips speechUS Election Result 2024: Republican Donald Trump takes a strong lead with projected wins in 25 states, securing 246 electoral votes. Vice President Kamala Harris is hot on his heels with 210 electoral votes as the results roll in."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/us-election-2024/story/us-election-2024-voting-result-live-updates-donald-trump-kamala-harris-tim-walz-jd-vance-white-house-2628341-2024-11-05",
-      "headline": "Live: Trump smells win in Georgia; leads Harris 230-210 electoral votesUS Presidential Election Result Live Updates: Kamala Harris and Donald Trump, the two contenders for the 2024 US presidential election, wrapped up their electoral campaigns on Monday night, paving the way for Americans to cast their ballots in one of the most anticipated polls in the country. While Trump, the Republican contender, is attempting to win a second stint at the White House, Harris -- the incumbent Vice President and Democratic nominee -- is vying to create history by becoming first female President of the US. The 7 battleground states of Arizona, Nevada, Georgia, North Carolina, Wisconsin, Michigan and Pennsylvania will play a key role in deciding the fate of Harris and Trump. The two will need at least 270 electoral votes to win the presidency. Voting began at 4.30 pm (IST) on Tuesday and will continue until around 6.30 am (IST) on Wednesday morning. Follow indiatoday.in for live updates on the presidential election."
+      "headline": "Live: Trump wins Pennsylvania, projects Fox News, 3 electoral votes away presidencyUS Presidential Election Result Live Updates: Kamala Harris and Donald Trump, the two contenders for the 2024 US presidential election, wrapped up their electoral campaigns on Monday night, paving the way for Americans to cast their ballots in one of the most anticipated polls in the country. While Trump, the Republican contender, is attempting to win a second stint at the White House, Harris -- the incumbent Vice President and Democratic nominee -- is vying to create history by becoming first female President of the US. The 7 battleground states of Arizona, Nevada, Georgia, North Carolina, Wisconsin, Michigan and Pennsylvania will play a key role in deciding the fate of Harris and Trump. The two will need at least 270 electoral votes to win the presidency. Voting began at 4.30 pm (IST) on Tuesday and will continue until around 6.30 am (IST) on Wednesday morning. Follow indiatoday.in for live updates on the presidential election."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-election-2024/story/us-elections-donald-trump-kamala-harris-7-swing-states-pennsylvania-michigan-nevada-wisconsin-arizona-north-carolina-georgia-2628824-2024-11-06",
-      "headline": "Harris vs Trump: Who is leading in swing states as battle intensifies?Kamala Harris was leading in the swing state of Pennsylvania since the results started coming out. However, she lost the lead to Trump, who is now ahead by roughly two percentage points. "
+      "url": "https://www.indiatoday.in/world/us-election-2024/story/us-election-results-trump-address-supporters-kamala-harris-howard-university-2628903-2024-11-06",
+      "headline": "'You won't hear from Vice President tonight': Harris skips speech as hopes dimUS election results 2024: With projections showing Kamala Harris trailing, the mood among students, faculty and alumni at Howard University became sombre."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/us-election-2024/story/elon-musk-sink-white-house-donald-trump-us-president-election-2628918-2024-11-06",
+      "headline": "Let that sink in: Elon Musk recalls Twitter takeover moment with White House twistLet that sink in: Trump fan Elon Musk as Republican takes big lead"
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/us-election-2024/story/us-election-results-2024-donald-trump-similarities-with-indian-election-narratives-illegal-immigration-threat-to-democracy-evm-malfunction-2628914-2024-11-06",
+      "headline": "Not India but Indiana. Why US polls are sounding like an Indian electionFrom democracy khatre me to doubts over EVMs to fears over illegal immigrants and citizenship, the 2024 US presidential election is sounding very similar to a general election in India. There are uncanny similarities as the third rock from Sun shrinks in global issues."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/us-election-2024/story/us-presidential-election-republicans-flip-one-senate-seat-deadlock-chamber-voting-ends-polls-2628820-2024-11-06",
+      "headline": "Republicans seize control of US Senate for first time in four yearsThe unexpected battleground of Nebraska pushed Republicans over the top. Incumbent Republican Senator Deb Fischer brushed back a surprisingly strong challenge from independent newcomer Dan Osborn."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/us-election-2024/story/us-election-results-donald-trump-kamala-harris-leads-swing-states-2628872-2024-11-06",
+      "headline": "All over for Harris? '300 paar' for Trump if he holds on to leads in these statesUS election results: In the US presidential election, 270 electoral college votes are required to win the White House race. As per Associated Press trends, Trump is leading in five swing states."
     },
     {
       "sentiment": "positive",
@@ -151,28 +171,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/food/story/shalini-passi-secret-diet-skin-hair-teeth-fabulous-lives-vs-bollywood-wives-2626377-2024-11-06",
-      "headline": "Shalini Passi's secret diet for that skin, hair, teeth: A shot of ghee and goat curdFrom numerous juices and soups to goat curd, Shalini Passi's diet is as bold and vibrant as her larger-than-life personality. The Fabulous Lives vs Bollywood Wives star tells all in an exclusive interview with India Today Digital."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-election-2024/story/us-election-results-donald-trump-kamala-harris-leads-swing-states-2628872-2024-11-06",
-      "headline": "All over for Harris? Trump set to win if he holds on to leads in these statesUS election results: In the US presidential election, 270 electoral college votes are required to win the White House race. As per Associated Press trends, Trump is leading in five swing states."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-election-2024/story/kamala-harris-wins-california-which-has-most-number-of-electoral-college-votes-report-us-networks-2628838-2024-11-06",
-      "headline": "Kamala Harris wins Golden State California that has maximum electoral college votesDonald Trump is currently ahead in the US Presidential polls. He is leading with 230 electoral votes, as per early projections, while Kamala Harris has 179 electoral votes to her name. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/us-florida-voters-reject-ballot-overturn-abortion-ban-republican-democratic-2628810-2024-11-06",
-      "headline": "Ballot measure to overturn abortion ban rejected in Florida, passed in 3 statesThe Florida measure failed to clear the required 60% voter approval threshold to pass constitutional amendments in Florida. Most states require a simple majority."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-election-2024/story/us-election-results-2024-date-time-donald-trump-kamala-harris-2628511-2024-11-05",
-      "headline": "When will we know who has won?US election results 2024: While November 5 may be Election Day, a final picture could take days or weeks to emerge due to the neck-and-neck contest between Kamala Harris and Donald Trump. Here is a complete guide."
+      "url": "https://www.indiatoday.in/world/us-election-2024/story/us-presidential-elections-elon-musk-shows-confidence-of-donald-trump-victory-over-kamala-harris-race-to-white-house-2628892-2024-11-06",
+      "headline": "Game set, match: Elon Musk as Trump leads Harris in White House raceTesla CEO and US billionaire Elon Musk has exuded confidence of Donald Trump's win in the US Presidential polls, as the early projections showed him ahead of Kamala Harris."
     },
     {
       "sentiment": "positive",
@@ -181,13 +181,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/benjamin-netanyahu-israel-war-defence-minister-yaov-gallant-2628744-2024-11-05",
-      "headline": "Netanyahu fires Israel Defence Minister Yoav Gallant over 'crisis of trust'Israel's Prime Minister Benjamin Netanyahu has dismissed Defence Minister Yoav Gallant over a \"crisis of trust\" and appointed Foreign Minister Israel Katz to succeed him as the new Defence Minister."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/music/story/sharda-sinha-son-anshuman-mourns-death-funeral-patna-pm-modi-2628812-2024-11-06",
-      "headline": "Singer Sharda Sinha's death: Son grieves, informs funeral to take place in PatnaSinger Sharda Sinha died on November 5 at Delhi's AIIMS Hospital. Her son, Anshuman, shared that her funeral will be held in Patna.\r\n"
+      "url": "https://www.indiatoday.in/world/us-election-2024/story/us-elections-donald-trump-kamala-harris-7-swing-states-pennsylvania-michigan-nevada-wisconsin-arizona-north-carolina-georgia-2628824-2024-11-06",
+      "headline": "Harris vs Trump: Who is leading in swing states as battle intensifies?Kamala Harris was leading in the swing state of Pennsylvania since the results started coming out. However, she lost the lead to Trump, who is now ahead by roughly two percentage points. "
     },
     {
       "sentiment": "positive",
@@ -196,13 +191,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-election-2024/story/us-presidential-election-live-updates-north-carolina-swing-state-kamala-harris-donald-trump-sun-belt-2628765-2024-11-06",
-      "headline": "Donald Trump wins North Carolina, first of seven swing statesNorth Carolina Election Result 2024 Live Updates: The 2024 presidential election in North Carolina has been a highly anticipated contest between Republican presidential candidate Donald Trump and Democratic nominee Kamala Harris. As a pivotal battleground state with 16 electoral votes, North Carolina's outcome is crucial in influencing the overall election results. Trump's campaign has centred on the economy, immigration, and crime, while Harris has emphasised strengthening the care economy, protecting abortion rights, and defending democratic values. Stay tuned for more updates on IndiaToday.in."
+      "url": "https://www.indiatoday.in/lifestyle/food/story/shalini-passi-secret-diet-skin-hair-teeth-fabulous-lives-vs-bollywood-wives-2626377-2024-11-06",
+      "headline": "Shalini Passi's secret diet for that skin, hair, teeth: A shot of ghee and goat curdFrom numerous juices and soups to goat curd, Shalini Passi's diet is as bold and vibrant as her larger-than-life personality. The Fabulous Lives vs Bollywood Wives star tells all in an exclusive interview with India Today Digital."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/us-election-2024/story/kamala-harris-wins-california-which-has-most-number-of-electoral-college-votes-report-us-networks-2628838-2024-11-06",
+      "headline": "Kamala Harris wins Golden State California that has maximum electoral college votesDonald Trump is currently ahead in the US Presidential polls. He is leading with 230 electoral votes, as per early projections, while Kamala Harris has 179 electoral votes to her name. "
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/us-election-2024/story/pennsylvania-election-result-live-update-us-presidential-election-donald-trump-kamala-harris-2628768-2024-11-06",
-      "headline": "Pennsylvania Result Live: Donald Trump pulls ahead of Kamala Harris in key swing statePennsylvania Election Results 2024: After trailing Kamala Harris in early trends in Pennsylvania, Republican Donald Trump pulled ahead of her, maintaining his narrow lead over the Democratic candidate with most of the ballots counted. With 19 electoral votes,\u00a0Pennsylvania becomes the critical battleground for Trump and Harris. This Rust Belt seat is\u00a0the largest and most hotly contested of the swing states, pivotal for both candidates' paths to the White House. Trump's return campaign has focused on revitalising his 2016 strategies that secured wins in key states, while Harris has aimed to solidify the Democratic stronghold established by President Joe Biden in 2020. As the nation watches closely for the outcome, stay tuned to IndiaToday.in as we bring all the latest from\u00a0Pennsylvania.\u00a0"
+      "headline": "Pennsylvania Result Live: Donald Trump projected to win key swing statePennsylvania Election Results 2024: After trailing Kamala Harris in early trends in Pennsylvania, Republican Donald Trump pulled ahead of her, maintaining his narrow lead over the Democratic candidate with most of the ballots counted. With 19 electoral votes,\u00a0Pennsylvania becomes the critical battleground for Trump and Harris. This Rust Belt seat is\u00a0the largest and most hotly contested of the swing states, pivotal for both candidates' paths to the White House. Trump's return campaign has focused on revitalising his 2016 strategies that secured wins in key states, while Harris has aimed to solidify the Democratic stronghold established by President Joe Biden in 2020. As the nation watches closely for the outcome, stay tuned to IndiaToday.in as we bring all the latest from\u00a0Pennsylvania.\u00a0"
     },
     {
       "sentiment": "positive",
@@ -216,61 +216,76 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/us-election-2024/story/us-election-result-2024-donald-trump-vs-kamala-harris-who-has-won-which-state-2628869-2024-11-06",
+      "headline": "Donald Trump vs Kamala Harris: Who has won which state?\u00a0Republican Donald Trump is looking to become only the second President to win a non-consecutive term in the Oval Office, Harris is eyeing history by becoming the first woman President of the US."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/us-news/story/us-florida-voters-reject-ballot-overturn-abortion-ban-republican-democratic-2628810-2024-11-06",
+      "headline": "Ballot measure to overturn abortion ban rejected in Florida, passed in 3 statesThe Florida measure failed to clear the required 60% voter approval threshold to pass constitutional amendments in Florida. Most states require a simple majority."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/technology/news/story/amazon-mandates-5-days-of-work-from-office-tells-unhappy-employees-to-seek-other-jobs-2628827-2024-11-06",
       "headline": "Amazon mandates 5 days of work from office, tells unhappy employees to seek other jobsAmazon mandates a five-day office workweek starting January, urging employees valuing remote work to seek other opportunities."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/bitcoin-price-today-record-high-75000-dollars-for-first-time-us-elections-donald-trump-win-2628860-2024-11-06",
-      "headline": "Bitcoin price hits record $75,000 for the first time. Here's whyFor much of the year, Bitcoin had been trading within a narrowband below $70,000, but election-day developments have driven fresh interest in the asset."
+      "url": "https://www.indiatoday.in/movies/bollywood/story/ranbir-kapoor-sai-pallavi-ramayana-officially-announced-release-in-2-parts-2628896-2024-11-06",
+      "headline": "Ranbir Kapoor-Sai Pallavi's Ramayana officially announced, to release in 2 partsThe epic drama Ramayana, directed by Nitesh Tiwari, will be released in two parts in 2026 and 2027. Ranbir Kapoor will play Lord Ram, Sai Pallavi will portray Sita, and Yash will essay the role of Ravana."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/p-chidambaram-air-india-delhi-chennai-flight-delay-passengers-wait-aircraft-door-2628699-2024-11-05",
-      "headline": "Air India lacks competent managers: P Chidambaram slams airline over flight delayFormer Finance Minister P Chidambaram criticised Air India over the Delhi-Chennai flight delay where passengers were forced to wait for 15 minutes on the aero bridge at the aircraft door after boarding."
+      "url": "https://www.indiatoday.in/world/us-election-2024/story/us-presidential-election-live-updates-north-carolina-swing-state-kamala-harris-donald-trump-sun-belt-2628765-2024-11-06",
+      "headline": "Donald Trump wins North Carolina, first of seven swing statesNorth Carolina Election Result 2024 Live Updates: The 2024 presidential election in North Carolina has been a highly anticipated contest between Republican presidential candidate Donald Trump and Democratic nominee Kamala Harris. As a pivotal battleground state with 16 electoral votes, North Carolina's outcome is crucial in influencing the overall election results. Trump's campaign has centred on the economy, immigration, and crime, while Harris has emphasised strengthening the care economy, protecting abortion rights, and defending democratic values. Stay tuned for more updates on IndiaToday.in."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/suriya-kneels-down-thanks-fans-kanguva-in-kochi-2628813-2024-11-06",
-      "headline": "Video: Suriya kneels down before his fans as he promotes Kanguva in KochiActor Suriya knelt down on stage expressing his love for his fans. He promoted his film, Kanguva, in Kochi's Lulu Mall on November 5."
+      "url": "https://www.indiatoday.in/world/us-election-2024/story/us-election-results-2024-president-donald-trump-america-second-civil-war-kamala-harris-democrats-republicans-capitol-hill-2628898-2024-11-06",
+      "headline": "Amid US election, Americans were readying for second Civil WarMany Americans feared a second Civil War if Donald Trump, the Republican candidate, lost the 2024 US presidential election. Thousands were preparing for it and created 'survivalist retreats'. Indicating the chance of violence, pro-Trump far-right groups said they were \"prepared to do what it takes\". "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-new-zealand-test-series-gary-stead-mantra-whitewash-2628846-2024-11-06",
-      "headline": "Fire a shot, get on front foot: Gary Stead on how New Zealand whitewashed IndiaNew Zealand coach Gary Stead revealed his side's mantra and how they were able to whitewash India in the recently-concluded Test series. New Zealand secured a historic series win in India with a commanding performance in all 3 matches. "
+      "url": "https://www.indiatoday.in/world/story/benjamin-netanyahu-israel-war-defence-minister-yaov-gallant-2628744-2024-11-05",
+      "headline": "Netanyahu fires Israel Defence Minister Yoav Gallant over 'crisis of trust'Israel's Prime Minister Benjamin Netanyahu has dismissed Defence Minister Yoav Gallant over a \"crisis of trust\" and appointed Foreign Minister Israel Katz to succeed him as the new Defence Minister."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-mega-auction-venue-jeddah-date-last-minute-venue-change-2628636-2024-11-05",
-      "headline": "Jeddah to host IPL 2025 auction on November 24 and 25 after late venue changeAfter a last-minute venue change, the Saudi Arabian city Jeddah has been chosen to host the Indian Premier League 2025 mega auction. The much-anticipated auction will be held on November 24 and 25. "
+      "url": "https://www.indiatoday.in/movies/bollywood/story/baby-john-poster-rajinikanth-vettaiyan-poster-copied-2628916-2024-11-06",
+      "headline": "Is Baby John's poster copied from Rajinikanth's Vettaiyan? Internet think soVarun Dhawan, Keerthy Suresh and Jackie Shroff are gearing up for the release of Baby John. Internet has found out that Baby John's poster is a copy of Vettaiyan's poster."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-election-2024/story/us-election-police-capitol-man-arrested-donald-trump-kamala-harris-2628770-2024-11-06",
-      "headline": "Man with torch, flare gun arrested at US Capitol: 'Smelled like fuel'The Capitol Police said that the arrested man smelled like fuel and had a torch and a flare gun. The incident occurred as the country votes in high-stakes presidential election."
+      "url": "https://www.indiatoday.in/movies/hollywood/story/lady-gaga-mark-ruffalo-jennifer-aniston-votes-us-presidential-polls-kamala-harris-donald-trump-2628907-2024-11-06",
+      "headline": "Lady Gaga to Jennifer Aniston: Celebs who voted in US presidential pollsA large number of Hollywood stars came forward to cast their votes in the US presidential elections. They shared pictures on social media posts to inspire others to do the same."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/ranbir-kapoor-sai-pallavi-ramayana-officially-announced-release-in-2-parts-2628896-2024-11-06",
+      "headline": "Ranbir Kapoor-Sai Pallavi's Ramayana officially announced, to release in 2 partsThe epic drama Ramayana, directed by Nitesh Tiwari, will be released in two parts in 2026 and 2027. Ranbir Kapoor will play Lord Ram, Sai Pallavi will portray Sita, and Yash will essay the role of Ravana."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/television/reality-tv/story/bigg-boss-18-sara-khan-vivan-dsena-past-marriage-ex-wife-vahbiz-dorabjee-salman-khan-2628873-2024-11-06",
       "headline": "BB 18 Day 29: Sara Khan comments on Vivan's past, says 'his ex-wife warned me'In the latest episode of Bigg Boss 18, Sara Khan commented on actor Vivian Dsena's marriage. She shared how his ex-wife Vahbiz Dorabjee had earlier warned her about his behaviour. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/bobby-deol-wants-dillagi-to-re-release-great-music-great-story-2628852-2024-11-06",
-      "headline": "Bobby Deol wants his 'favourite' Dillagi to re-release: Great music, great storyActor Bobby Deol expressed a wish to see his 1999 film Dillagi and other cult classics like Soldier and Kareeb re-released in theatres. He is currently promoting Kanguva, which releases on November 14."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/govinda-was-shy-to-notice-girls-akshay-kumar-had-many-girlfriends-guddi-maruti-2628829-2024-11-06",
-      "headline": "Govinda was shy to notice girls, Akshay Kumar had many girlfriends: Guddi MarutiActor Guddi Maruti recalled working with Akshay Kumar and Govinda. She said Govinda was shy around women and Akshay was flirtatious. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/amaran-box-office-day-6-sivakarthikeyan-film-crosses-rs-100-crore-in-india-2628826-2024-11-06",
-      "headline": "Amaran box office Day 6: Sivakarthikeyan's film crosses Rs 100 crore in IndiaSivakarthikeyan's Amaran crossed Rs 100 crore nett at the domestic box office in India. The film, directed by Rajkumar Periasamy, is based on the life of Major Mukund Varadarajan."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/nathan-mcsweeney-australia-a-vs-india-a-border-gavaskar-trophy-2024-25-2628913-2024-11-06",
+      "headline": "Nathan McSweeney to audition for India Test series by opening for Australia ANathan McSweeney will be opening for Australia A in the second unofficial Test vs India A at the Melbourne Cricket Ground."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/uefa-champions-league-real-madrid-vs-ac-milan-carlo-ancelotti-reaction-2628911-2024-11-06",
+      "headline": "Carlo Ancelotti concerned over Real Madrid's poor form: Team is not playing wellReal Madrid manager Carlo Ancelotti has voiced his concerns following the team's rare consecutive defeats, including a recent loss to AC Milan. The team faces defensive issues and is struggling to maintain a top-eight spot in the Champions League."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/thomas-draca-italian-player-registers-for-ipl-2025-mega-auction-2628883-2024-11-06",
+      "headline": "Thomas Draca becomes first player from Italy to register for IPL 2025 auctionItalian cricketer Thomas Draca has become the first player from Italy to register himself for the upcoming IPL 2025 mega auction. "
+    },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-auction-rishabh-shreyas-among-23-indians-with-rs-2-crore-base-price-2628870-2024-11-06",
@@ -313,18 +328,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/icc-successfully-trials-ai-tool-to-curb-abuse-in-womens-cricket-2628742-2024-11-05",
-      "headline": "ICC successfully trials AI tool to curb abuse in women's cricket The ICC has completed a ground-breaking AI-powered social media moderation trial to eliminate abuse in the women's game. The trial was conducted during the T20 Women's World Cup in the UAE. "
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-new-zealand-test-series-gary-stead-mantra-whitewash-2628846-2024-11-06",
+      "headline": "Fire a shot, get on front foot: Gary Stead on how New Zealand whitewashed IndiaNew Zealand coach Gary Stead revealed his side's mantra and how they were able to whitewash India in the recently-concluded Test series. New Zealand secured a historic series win in India with a commanding performance in all 3 matches. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/all-round-team-effort-helps-u-mumba-seal-win-over-dabang-delhi-kc-2628737-2024-11-05",
-      "headline": "All-round team effort helps U Mumba seal win over Dabang Delhi K.C.U Mumba clinched a thrilling win over Dabang Delhi K.C., with standout performances from Amirmohammad Zafardanesh, Manjeet, and Rohit Raghav sealing a 32-26 victory, despite a fierce comeback attempt from Yogesh and Ashu Malik in the final moments."
+      "url": "https://www.indiatoday.in/sports/cricket/story/david-warner-named-new-sydney-thunder-skipper-days-after-captaincy-ban-lifted-2628822-2024-11-06",
+      "headline": "David Warner named new Sydney Thunder skipper days after captaincy ban liftedDavid Warner has been appointed as the captain of Sydney Thunder for the upcoming Big Bash League season. This decision follows Cricket Australia's recent lifting of Warner's captaincy ban, imposed after the 2018 Sandpaper-gate scandal."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/michael-vaughan-reveals-what-india-requires-to-win-test-series-vs-australia-2628733-2024-11-05",
-      "headline": "Michael Vaughan reveals what India requires to win Test series vs AustraliaMichael Vaughan felt that for India to win the Test series against Australia, Virat Kohli and Rohit Sharma's form would be the key. "
+      "url": "https://www.indiatoday.in/sports/football/story/uefa-champions-league-manchester-united-new-boss-ruben-amorim-manchester-city-thrashing-sporing-cp-2628814-2024-11-06",
+      "headline": "Manchester United cannot play the way Sporting CP does: New boss Ruben AmorimRuben Amorim has claimed that he cannot transport one reality to another and said that Manchester United cannot play the way Sporting CP does. Sporting thrashed Manchester City 4-1 in the Champions League on November 5, Tuesday. "
     },
     {
       "sentiment": "positive",
@@ -378,18 +393,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-auction-jeddah-players-register-south-africa-2628641-2024-11-05",
-      "headline": "1574 players register for IPL 2025 mega auction: ExplainedA total of 1574 players have registered for the Indian Premier League (IPL) 2025 auction to be held in Jeddah, Saudi Arabia on November 24 and 25. South Africa and Australia are on top of the list with 91 and 76 players respectively. "
+      "url": "https://www.indiatoday.in/sports/cricket/story/south-africa-series-arshdeep-singh-record-t20is-2628701-2024-11-05",
+      "headline": "Arshdeep Singh eyes Bhuvneshwar Kumar's all-time India record in T20IsSA vs IND: Arshdeep Singh, the fourth-highest wicket-taker for India in Men's T20Is, is on the cusp of a couple of records in the upcoming four-match series against South Africa. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-mega-auction-venue-jeddah-date-last-minute-venue-change-2628636-2024-11-05",
-      "headline": "Jeddah to host IPL 2025 auction on November 24 and 25 after late venue changeAfter a last-minute venue change, the Saudi Arabian city Jeddah has been chosen to host the Indian Premier League 2025 mega auction. The much-anticipated auction will be held on November 24 and 25. "
+      "url": "https://www.indiatoday.in/sports/cricket/story/rinku-singh-buys-lavish-bungalow-in-aligarh-after-being-retained-by-kkr-for-rs-13-cr-2628676-2024-11-05",
+      "headline": "Rinku Singh buys bungalow in Aligarh after being retained by KKR for Rs 13 crRinku Singh bought a lavish bungalow in Aligarh after he was retained by Kolkata Knight Riders for Rs 13 crore. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/imane-khelif-man-leaked-medical-report-martina-navratilova-reaction-2628628-2024-11-05",
-      "headline": "Imane Khelif gender row reignited. Navratilova reacts to 'leaked medical report'Media reports alleged that Algerian boxer Imane Khelif, a Paris Olympics champion, is biologically male based on leaked medical findings. The reports claim Khelif possesses XY chromosomes and male anatomical characteristics, sparking renewed debate about her eligibility to compete in women's boxing. "
+      "url": "https://www.indiatoday.in/sports/cricket/story/afghanistan-vs-bangladesh-odi-series-squads-live-streaming-shanto-rashid-khan-2628637-2024-11-05",
+      "headline": "Afghanistan vs Bangladesh ODI series Live Streaming: Squads, all you need to knowAFG vs BAN: Najmul Hossain Shanto's Bangladesh and Hashmatullah Shahidi's Afghanistan are all set to lock horns in a three-match ODI series from November 6 onwards. "
     },
     {
       "sentiment": "positive",
@@ -415,21 +430,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/brett-lee-reveals-how-harbhajan-singh-annoyed-the-pacer-hated-bowling-to-him-2628619-2024-11-05",
       "headline": "Brett Lee reveals how Harbhajan Singh 'annoyed' the pacer: Hated bowling to himBrett Lee revealed how Harbhajan Singh used to annoy him while batting and that he hated  bowling to him. The duo were part of many memorable matches between India and Australia. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/afghanistan-vs-bangladesh-sediq-atal-odi-series-2628617-2024-11-05",
-      "headline": "Who is Sediq Atal? Fearless young batter set for ODIs vs BangladeshAFG vs BAN: Sediq Atal is one of the players to watch out for when Afghanistan lock horns with Bangladesh in a three-match ODI series from Wednesday, November 6. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-new-zealand-glenn-pocknall-exclusive-interview-2628581-2024-11-05",
-      "headline": "3-0 whitewash of India bigger than WTC Final win: Glenn PocknallFormer New Zealand coach Glenn Pocknall hailed New Zealand's 3-0 win over India as a bigger achievement than winning the World Test Championship in 2021. Pocknall who coaches Will Young and Ajaz Patel in NZ's domestic cricket, delved into how the duo scripted India's collapse at home."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/agni-chopra-interview-mizoram-ranji-trophy-ipl-auction-dreams-2628574-2024-11-05",
-      "headline": "Hungry Agni Chopra dreams of playing for India, reveals IPL ambitionsAgni Chopra, 26, has had a dream start to his first-class career, averaging 99.06 in 9 matches. The son of Bollywood producer Vidhu Vinod Chopra and film critic Anupama Chopra is making waves with his ability to score big hundreds for Mizoram in the Ranji Trophy Plate level tournament. "
     }
   ],
   "education": [
