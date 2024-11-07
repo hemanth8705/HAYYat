@@ -2,8 +2,18 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/trent-share-price-down-8-percent-net-profit-revenue-jump-q2fy25-results-2629634-2024-11-07",
+      "headline": "Trent share price falls 8% despite 47% net profit in Q2 results. Here's whyTrent share price: By 1:33 pm, the stock was down 7.49%, trading at Rs 6,432.55 on the Bombay Stock Exchange (BSE).\r\n\r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/elon-musks-net-worth-rises-26-billion-in-a-day-after-donald-trumps-election-victory-2629597-2024-11-07",
+      "headline": "Elon Musk's net worth rises $26 billion in a day after Donald Trump's election victoryThe boost came as Tesla's shares climbed 14.75% to $288.53 during after-hours trading, with Trump's pro-business policies seen as a favorable backdrop for Tesla and Musk's ventures."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/jet-airways-liquidation-supreme-court-non-implementation-resolution-plan-bankrupt-2629587-2024-11-07",
-      "headline": "Top court sends Jet Airways into liquidation: This litigation is an eye openerSupreme Court orders liquidation of bankrupt Jet Airways over non-implementation of resolution plan"
+      "headline": "Jet Airways grounded for good as Supreme Court orders liquidationThe Supreme Court noted that five years had passed since the plan was approved, and there had been no significant progress in reviving the airline."
     },
     {
       "sentiment": "positive",
@@ -89,16 +99,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/bitcoin-price-record-high-today-us-elections-donald-trump-will-rally-continue-2628956-2024-11-06",
       "headline": "Bitcoin price hits record high as US elections drive gains. What's next?Bitcoin's surge to $75,000 is driven by institutional interest and political uncertainty. Experts see strong long-term potential, though caution is advised with election-related volatility."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/story/titan-share-price-down-3-percent-q2fy25-net-profit-falls-buy-or-sell-stock-analyst-views-2628906-2024-11-06",
-      "headline": "Titan share price falls 3% after disappointing Q2 results. Buy or sell?At 11:15 am, shares of Titan were down 2.80% at Rs 3,142.50 on the Bombay Stock Exchange (BSE)."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/gail-share-price-surges-6-percent-strong-q2-results-bullish-brokerage-views-target-price-2628894-2024-11-06",
-      "headline": "GAIL share price surges 6% after Q2 results. Will stock climb further?At 11 am, GAIL's share price was up 6.24% at Rs 208.65 on the Bombay Stock Exchange (BSE). This is a positive sign for the stock after it declined significantly over the past month."
     }
   ],
   "entertainment": [
@@ -130,14 +130,54 @@
   ],
   "general news": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/shah-rukh-khan-gets-threat-mumbai-police-case-registered-2629626-2024-11-07",
+      "headline": "After Salman Khan, SRK receives threat, caller from ChhattisgarhThe threat to the 'Jawan' star comes days after Salman Khan received a threat from the Lawrence Bishnoi gang. The gang, which has been targeting Salman over his alleged involvement in the killing of a black buck, demanded Rs 5 crore as ransom in the threat.\u00a0"
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/stubble-burning-penalty-doubled-farmers-delhi-deteriorating-air-quality-crisis-2629553-2024-11-07",
       "headline": "Centre doubles fines for stubble burning as Delhi, other areas battle pollutionUnder the new rules, which take effect immediately, farmers with less than two acres of land will face a fine of Rs 5,000. Those with between two and five acres will be fined Rs 10,000. "
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/pm-modi-donald-trump-phone-call-india-us-relation-defence-economy-2629599-2024-11-07",
+      "headline": "'Magnificent man', 'My friend': What PM Modi-Trump bromance bodes for tiesModi-Trump bromance: PM Narendra Modi was one of the first leaders to congratulate Donald Trump and one of the first to have a call with the President-elect after the Republican won the US poll race for the White House.\r\n"
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/jet-airways-liquidation-supreme-court-non-implementation-resolution-plan-bankrupt-2629587-2024-11-07",
-      "headline": "End of road for Jet Airways as Surpeme Court orders liquidation of airlineSupreme Court orders liquidation of bankrupt Jet Airways over non-implementation of resolution plan"
+      "headline": "Jet Airways grounded for good as Supreme Court orders liquidationThe Supreme Court noted that five years had passed since the plan was approved, and there had been no significant progress in reviving the airline."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/opinion/story/from-deplorables-to-dominance-how-trump-secured-the-2024-election-opinion-2629611-2024-11-07",
+      "headline": "From 'Deplorables' to Dominance: How Trump secured the 2024 electionEthnic identity groups that never traditionally backed the Republican Party have started voting in large numbers for it. That's something similar to India where the BJP has transitioned from being a Brahmin-Baniya party to one of OBCs and tribals."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/information/story/goa-60-percent-drop-in-foreign-tourists-after-pandemic-recovery-struggle-2629068-2024-11-06",
+      "headline": "Over 60% drop in foreign tourists in Goa, a worrying struggle post-pandemicOnce a bustling hub for international travellers, Goa is now grappling with a sharp decline in foreign tourist numbers since the pandemic. While domestic tourism has seen an uptick, foreign arrivals, particularly from key markets like Russia, Israel, and the UK, remain significantly lower."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/us-election-2024/story/elon-musk-donald-trump-family-photo-viral-relationship-election-night-2629529-2024-11-07",
+      "headline": "More than dosti? Elon Musk in Trump family's victory photoThe Trump family photo shared by Kai Trump and captioned \"the whole squad\" featured Elon Musk in the frame, sparking speculation about the billionaire's close ties to the President-elect."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/television/web-series/story/citadel-honey-bunny-x-review-fans-praise-raj-dk-craft-samantha-ruth-prabhu-varun-dhawan-2629604-2024-11-07",
+      "headline": "Citadel Honey Bunny X review: Fans praise Raj and DK's craft, Samantha-Varun shineSamantha and Varun Dhawan's Citadel Honey Bunny is streaming on Prime Video. Soon after the spy-thriller premiered on OTT, fans showered their love on the series. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/lifestyle/wellness/story/how-to-do-an-anti-inflammatory-diet-for-weight-loss-like-vidya-balan-samantha-2628539-2024-11-07",
+      "headline": "How to do an anti-inflammatory diet for weight loss like Vidya Balan, Samantha?An anti-inflammatory diet focusses on foods that help reduce inflammation in the body while avoiding those that may trigger it. "
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/canada-news/story/india-canada-toronto-counculate-stop-community-camp-security-khalistani-attack-hindu-temple-temple-brampton-2629601-2024-11-07",
+      "headline": "India stops consular camps in Canada, says lack of basic securityDays after a violent Khalistani mob stormed the premises of a Hindu temple in Canada's Brampton and attacked devotees, the Indian High Commission in Canada has decided to cancel some of the planned consular camps. The Indian Counsulate General in Toronto said that the Canadian authorities refused even \"minimum security protection\" for such camps."
     },
     {
       "sentiment": "positive",
@@ -151,18 +191,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-election-2024/story/elon-musk-donald-trump-family-photo-viral-relationship-election-night-2629529-2024-11-07",
-      "headline": "More than dosti? Elon Musk in Trump family's victory photoThe Trump family photo shared by Kai Trump and captioned \"the whole squad\" featured Elon Musk in the frame, sparking speculation about the billionaire's close ties to the President-elect."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/waqf-row-joint-parliamentary-committee-chief-visits-karnataka-bjp-farmers-land-jihad-2629586-2024-11-07",
-      "headline": "Waqf row: Parliament panel chief visits Karnataka amid BJP's land jihad chargeThe Waqf Bill panel chief's visit to Karnataka has been met with pushback from some opposition MPs, who argue that it was conducted unilaterally, without committee consultation."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-election-2024/story/us-election-2024-result-rahul-gandhi-dent-bjp-pm-modi-india-democrat-kamala-harris-failed-attack-republican-donald-trump-2629230-2024-11-07",
-      "headline": "What Rahul did to Modi, Harris failed to do to Trump. Here's whyIn 2024, both India and the US saw similar election issues with opposite outcomes. While opposition leader Rahul Gandhi skilfully used narratives to challenge the formidable NDA of Narendra Modi, Democrat Kamala Harris failed to do so against Donald Trump."
+      "url": "https://www.indiatoday.in/trending-news/story/indian-origin-woman-buys-house-where-matthew-perry-died-performs-puja-pics-video-2629588-2024-11-07",
+      "headline": "Indian-origin woman buys house where Matthew Perry died, performs puja. Pics, videoThe Los Angeles house that Anita Verma-Lallian bought for $8.55 million was where Matthew Perry lived and was found dead in 2023.  "
     },
     {
       "sentiment": "positive",
@@ -171,43 +201,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/wellness/story/how-to-do-an-anti-inflammatory-diet-for-weight-loss-like-vidya-balan-samantha-2628539-2024-11-07",
-      "headline": "How to do an anti-inflammatory diet for weight loss like Vidya Balan, Samantha?An anti-inflammatory diet focusses on foods that help reduce inflammation in the body while avoiding those that may trigger it. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/bengal-minister-firhad-hakim-maal-remark-rekha-patra-sandeshkhali-2629499-2024-11-07",
-      "headline": "Bengal minister stokes row with 'maal' remark on BJP's Sandeshkhali leaderFirhad Hakim made the remark while speaking of the Lok Sabha election loss of Rekha Patra, who was at the forefront of the women's protest in Sandeshkhali, to Trinamool Congress's candidate in Basirhat."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-election-2024/story/us-election-2024-result-donald-trump-win-kamala-harris-voters-swing-states-silent-husbands-secret-wives-2629238-2024-11-07",
-      "headline": "Ballot infidelity? Silent husbands helped Trump outsmart Harris's secret wivesHow did Donald Trump script a historic victory despite opinion polls showing a neck-and-neck contest with Kamala Harris? It was the huge bloc of silent voters who carried Trump home, and helped him tide over the 'wives' who secretly voted for Harris."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/opinion/story/us-elections-2024-donald-trump-kamala-harris-opinion-economy-silly-not-lily-2629334-2024-11-07",
-      "headline": "It's the economy, silly, not LilyWhile Democrats were defending pronouns and Palestine, Trump was talking jobs to the working class. It's the economy, silly!"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/indian-origin-woman-buys-house-where-matthew-perry-died-performs-puja-pics-video-2629588-2024-11-07",
-      "headline": "Indian-origin woman buys house where Matthew Perry died, performs puja. Pics, videoThe Los Angeles house that Anita Verma-Lallian bought for $8.55 million was where Matthew Perry lived and was found dead in 2023.  "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/australia-pm-anthony-albanese-proposes-social-media-ban-instagram-facebook-meta-children-under-16-says-calling-time-on-it-2629435-2024-11-07",
-      "headline": "Australia PM proposes social media ban for children under 16: Calling time on itLegislation will be introduced into parliament this year, with the laws coming into effect 12 months after it is ratified by lawmakers, said Australia Prime Minister Anthony Albanese. "
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/us-election-2024/story/donald-trump-social-media-rnc-research-trump-war-room-kamala-harris-kamalahq-election-results-2629461-2024-11-07",
       "headline": "'4 sh*tposters vs Kamala Harris's 100': Meet Trump's social media crack teamIn the aftermath of his election victory, President-elect Donald Trump's social media team is basking in the success of their online strategy and has also taken a parting shot at Vice President Kamala Harris."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/assembly/story/maharashtra-assembly-polls-uddhav-thackeray-shiv-sena-ubt-gautam-adani-dharavi-project-2629535-2024-11-07",
-      "headline": "Uddhav Sena releases poll manifesto, vows to scrap Adani's Dharavi projectWhile releasing the party manifesto, former Maharashtra Chief Minister Uddhav Thackeray promised free education for male students and stabilisation of the prices of essential items, among other promises."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/waqf-row-joint-parliamentary-committee-chief-visits-karnataka-bjp-farmers-land-jihad-2629586-2024-11-07",
+      "headline": "Waqf row: Parliament panel chief visits Karnataka amid BJP's land jihad chargeWaqf Bill parliamentary panel chief Jagdambika Pal is in Karnataka on a solo \"fact-finding\" mission to address concerns from local farmers alleging their land was improperly claimed as Waqf property."
     },
     {
       "sentiment": "positive",
@@ -221,13 +221,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-election-2024/story/us-presidential-election-donald-trump-will-start-selection-process-adminitration-top-post-economic-defence-intelligence-security-2629409-2024-11-07",
-      "headline": "Donald Trump's second term: Who's in the running for top administration jobs?President-elect Donald Trump will start the selection process for his administration's top posts, focusing on key roles in the economic, defence, intelligence, and homeland security sectors."
+      "url": "https://www.indiatoday.in/world/us-election-2024/story/us-election-2024-result-rahul-gandhi-dent-bjp-pm-modi-india-democrat-kamala-harris-failed-attack-republican-donald-trump-2629230-2024-11-07",
+      "headline": "What Rahul did to Modi, Harris failed to do to Trump. Here's whyIn 2024, both India and the US saw similar election issues with opposite outcomes. While opposition leader Rahul Gandhi skilfully used narratives to challenge the formidable NDA of Narendra Modi, Democrat Kamala Harris failed to do so against Donald Trump."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/cabinet-approves-pm-vidyalaxmi-education-loan-scheme-for-families-with-rs-8-lakh-income-2629503-2024-11-07",
-      "headline": "Cabinet nod to easy education loan scheme for families with Rs 8 lakh incomeAnnounced on Wednesday, the scheme is designed to offer collateral-free, guarantor-free education loans to students who secure admission to one of the top 860 Quality Higher Education Institutions (QHEIs) in India.\u00a0"
+      "url": "https://www.indiatoday.in/world/story/australia-pm-anthony-albanese-proposes-social-media-ban-instagram-facebook-meta-children-under-16-says-calling-time-on-it-2629435-2024-11-07",
+      "headline": "Australia PM proposes social media ban for children under 16: Calling time on itLegislation will be introduced into parliament this year, with the laws coming into effect 12 months after it is ratified by lawmakers, said Australia Prime Minister Anthony Albanese. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/arjun-kapoor-reflects-on-loneliness-self-care-after-breakup-with-malaika-arora-2629610-2024-11-07",
+      "headline": "Arjun Kapoor reflects on loneliness, self-care after breakup with Malaika AroraArjun Kapoor opened up about dealing with loneliness after his breakup with Malaika Arora and his mother's death. He reflected on life challenges, self-care, and shared life advice."
     },
     {
       "sentiment": "positive",
@@ -236,41 +241,56 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/pm-modi-speaks-donald-trump-us-election-win-india-us-ties-2629373-2024-11-06",
-      "headline": "PM Modi dials Donald Trump, US President-elect calls him 'magnificent man'Donald Trump, the 78-year-old US President-elect, said PM Narendra Modi was one of the first world leaders he spoke to after his victory in the US presidential election, sources said."
+      "url": "https://www.indiatoday.in/india/story/bengal-minister-firhad-hakim-maal-remark-rekha-patra-sandeshkhali-2629499-2024-11-07",
+      "headline": "Bengal minister stokes row with 'maal' remark on BJP's Sandeshkhali leaderFirhad Hakim made the remark while speaking of the Lok Sabha election loss of Rekha Patra, who was at the forefront of the women's protest in Sandeshkhali, to Trinamool Congress's candidate in Basirhat."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-election-2024/story/us-presidential-election-donald-trump-election-win-kash-patel-cia-director-possible-choice-loyalist-2629308-2024-11-06",
-      "headline": "Who is Kash Patel, Trump loyalist who could be next CIA chief?A former Republican House staffer, who served in various high-ranking staff roles in the defence and intelligence communities during Donald Trump's first term, Kashyap 'Kash' Patel's name is being floated as a choice for next CIA Director."
+      "url": "https://www.indiatoday.in/world/us-election-2024/story/us-election-2024-result-donald-trump-win-kamala-harris-voters-swing-states-silent-husbands-secret-wives-2629238-2024-11-07",
+      "headline": "Ballot infidelity? Silent husbands helped Trump outsmart Harris's secret wivesHow did Donald Trump script a historic victory despite opinion polls showing a neck-and-neck contest with Kamala Harris? It was the huge bloc of silent voters who carried Trump home, and helped him tide over the 'wives' who secretly voted for Harris."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/iit-delhi-surpasses-iit-bombay-as-indias-top-university-in-qs-asia-rankings-2025-2629514-2024-11-07",
-      "headline": "IIT Delhi surpasses IIT Bombay as India's top university in QS Asia rankings 2025IIT Delhi has emerged as India's top-ranked institution in the QS Asia Rankings 2025, surpassing IIT Bombay. This achievement highlights India's academic prominence, with 193 institutions featured in the rankings, the highest representation amongst Asian countries.\r\n"
+      "url": "https://www.indiatoday.in/movies/celebrities/story/ali-fazal-richa-chadha-daughter-name-zuneyra-ida-fazal-meaning-2629641-2024-11-07",
+      "headline": "Ali Fazal reveals daughter's name, talks about 'serious anxiety' as a new parentRicha Chadha and Ali Fazal revealed their daughter's name, Zuneyra Ida Fazal. Richa talked about trusting her instincts as a mother while Ali shared his overwhelming joy and anxiety as a new parent."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/hollywood/story/ben-affleck-praises-ex-wife-jennifer-lopez-performance-in-unstoppable-2629575-2024-11-07",
-      "headline": "Ben Affleck praises ex-wife Jennifer Lopez's performance in UnstoppableHollywood star and producer Ben Affleck thinks former partner Jennifer Lopez was 'spectacular' in the film Unstoppable. The film has been co-produced by Affleck and Matt Damon. "
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/sikander-ka-muqaddar-avinash-tiwary-tamannaah-jimmy-shergill-film-release-november-29-2629561-2024-11-07",
-      "headline": "Sikander Ka Muqaddar: Avinash Tiwary, Tamannaah's film to release on November 29Netflix India has announced the release date for its upcoming crime thriller, Sikandar Ka Muqaddar. The film, directed by Neeraj Pandey, will hit the platform on November 29 and features a star-studded cast."
+      "url": "https://www.indiatoday.in/movies/bollywood/story/ranbir-kapoor-animal-park-eyes-2027-release-border-2-to-go-on-floors-exclusive-2629619-2024-11-07",
+      "headline": "Ranbir Kapoor's Animal Park eyes 2027 releaseT-Series head Bhushan Kumar shared several updates about upcoming projects, including Ranbir Kapoor-starrer Animal Park. Animal released in 2023 to massive box office success. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/television/reality-tv/story/bigg-boss-18-rohit-shetty-ektaa-kapoor-replace-salman-khan-weekend-ka-vaar-2629568-2024-11-07",
-      "headline": "BB 18: Rohit Shetty, Ektaa Kapoor to replace Salman Khan for Weekend Ka VaarFilmmaker Rohit Shetty and producer Ektaa Kapoor are set to take over the duties of Bigg Boss 18 host for the upcoming Weekend Ka Vaar episodes. "
+      "url": "https://www.indiatoday.in/music/story/renowned-folk-singer-sharda-sinha-cremated-with-state-honours-in-patna-2629603-2024-11-07",
+      "headline": "Renowned folk singer Sharda Sinha cremated with state honours in PatnaLegendary folk singer Sharda Sinha, belovedly known as the Bihar Kokila, was cremated with state honours in Patna on November 7. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/bhool-bhulaiyaa-3-box-office-day-6-kartik-aaryan-2nd-highest-grossing-film-2629564-2024-11-07",
-      "headline": "Bhool Bhulaiyaa 3 box office Day 6: Kartik Aaryan's 2nd highest-grossing filmKartik Aaryan's Bhool Bhulaiyaa 3 is all set to enter the Rs 150-crore club at the domestic box office. Released on Diwali, the horror-comedy has become the actor's second highest-grossing film in India. \r\n"
+      "url": "https://www.indiatoday.in/television/web-series/story/citadel-honey-bunny-x-review-fans-praise-raj-dk-craft-samantha-ruth-prabhu-varun-dhawan-2629604-2024-11-07",
+      "headline": "Citadel Honey Bunny X review: Fans praise Raj and DK's craft, Samantha-Varun shineSamantha and Varun Dhawan's Citadel Honey Bunny is streaming on Prime Video. Soon after the spy-thriller premiered on OTT, fans showered their love on the series. "
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/pat-cummins-rishabh-pant-australia-vs-india-border-gavaskar-trophy-2024-25-2629635-2024-11-07",
+      "headline": "Pat Cummins wary of 'dangerous' Rishabh Pant: He moves the game on pretty quicklyAustralia captain Pat Cummins hailed wicketkeeper batter Rishabh Pant ahead of the five-match Test series against India mentioning his ability to move the game quickly."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/south-africa-vs-india-t20i-series-sanju-samson-inconsistency-anil-kumble-2629623-2024-11-07",
+      "headline": "Inconsistent Sanju Samson will be in focus on South Africa tour: Anil KumbleFocus will be on Sanju Samson when India play South Africa in the 4-match T20I series, feels Anil Kumble. Samson hit a terrific hundred in the previous series against Bangladesh while opening the batting for India."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/australia-a-vs-india-a-2nd-unofficial-test-day-one-dhruv-jurel-fifty-kl-rahul-failure-melbourne-2629605-2024-11-07",
+      "headline": "AUS-A vs IND-A: Jurel shines, KL Rahul fails as Australia hold edge on Day 1On a challenging Day 1, Dhruv Jurel's fighting knock of 80 was the only highlight for India-A as they were bowled out for 161 by Australia-A. KL Rahul and the rest of the Indian top order had an outing to forget. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-simon-doull-jasprit-bumrah-aus-vs-ind-border-gavaskar-trophy-2024-25-2629602-2024-11-07",
+      "headline": "Simon Doull highlights Australia's 'smart scheduling' to 'cook' Jasprit BumrahFormer New Zealand cricketer Simon Doull touched upon the fact that Australia's smart scheduling for the India Test series could well leave Jasprit Bumrah drained after the first three Tests."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ranji-trophy-2024-25-shreyas-iyer-200-mumbai-vs-odisha-siddesh-lad-2629572-2024-11-07",
@@ -280,6 +300,31 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/glenn-maxwell-201-australia-vs-afghanistan-odi-world-cup-2023-mumbai-wankhede-stadium-2629565-2024-11-07",
       "headline": "On This Day: Glenn Maxwell scores 201, ODI World Cup's 'greatest knock'Glenn Maxwell produced arguably the greatest innings in ODI World Cup history when he scored 201 against Afghanistan to single-handedly get the win for Australia in a thrilling clash. Maxwell got the win after Australia were reduced to 91 for 7 by the 19th over. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/robin-uthappa-rachin-ravindra-csk-academy-ind-vs-nz-3-0-whitewash-2629548-2024-11-07",
+      "headline": "Robin Uthappa unhappy with CSK for allowing Rachin Ravindra to practice in ChennaiFormer India cricketer Robin Uthappa has criticised Chennai Super Kings for allowing Rachin Ravindra to practice in their academy in the build up to the India Test series."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/uefa-champions-league-arsenal-boss-mikel-arteta-slams-refereeing-decisions-after-inter-milan-loss-2629545-2024-11-07",
+      "headline": "Arsenal boss Mikel Arteta slams refereeing decisions after Inter Milan lossArsenal manager Mikel Arteta has slammed the refereeing decisions during the 1-0 loss to Inter Milan in the Champions League on November 6, Wednesday. Inter got a penalty in the dying moments of the first half and converted it to seal the win. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/afg-vs-ban-allah-ghazanfar-rashid-khan-mohammad-nabi-hashmatullah-shahidi-mustafizur-rahman-2629510-2024-11-07",
+      "headline": "Watch: Allah Ghazanfar's spin wizardry makes Bangladesh lose 8 wickets for 23 runsAfghanistan's off-spinner Allah Ghazanfar ran through Bangladesh batting during the first ODI against Bangladesh on Wednesday, November 6 in Sharjah."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/cricket/story/australia-a-vs-india-a-2nd-unofficial-test-day-1-dhruv-jurel-fifty-melbourne-2629511-2024-11-07",
+      "headline": "AUS-A vs IND-A: Dhruv Jurel shines despite India getting all-out for 161Dhruv Jurel played a crucial innings of 80 runs to help India-A post 161 in the first innings against Australia-A. Despite early setbacks, Jurel's resilience shone through in Melbourne."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/neeraj-chopra-sends-emotional-message-to-retiring-coach-klaus-bartonietz-2629488-2024-11-07",
+      "headline": "Neeraj Chopra sends emotional message to retiring coach Klaus BartonietzIn a heartfelt message and video, Neeraj Chopra announced that he would be seperating from his longtime coach Klaus Bartonietz, who will be heading back to Germany and retire. Bartonietz oversaw Neeraj's meteoric rise in javelin throw. "
     },
     {
       "sentiment": "positive",
@@ -328,28 +373,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/neeraj-chopra-sends-emotional-message-to-retiring-coach-klaus-bartonietz-2629488-2024-11-07",
-      "headline": "Neeraj Chopra sends emotional message to retiring coach Klaus BartonietzIn a heartfelt message and video, Neeraj Chopra announced that he would be seperating from his longtime coach Klaus Bartonietz, who will be heading back to Germany and retire. Bartonietz oversaw Neeraj's meteoric rise in javelin throw. "
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/cricket/story/wi-vs-eng-alzarri-joseph-shai-hope-brandon-king-keacy-carty-matthew-forde-philip-salt-2629487-2024-11-07",
-      "headline": "Watch: Alzarri Joseph leaves field in anger after bowling wicket maiden vs EnglandWest Indies fast bowler Alzarri Joseph left the field angrily during the third ODI vs England after being unhappy with the field setting of his captain Shai Hope."
+      "url": "https://www.indiatoday.in/sports/cricket/story/west-indies-vs-england-3rd-odi-report-keacy-carty-brandon-king-kensington-oval-2629425-2024-11-07",
+      "headline": "WI vs ENG: Carty, King hit hundreds as West Indies seal series with 8-wicket winWest Indies defeated England by eight wickets, securing a 2-1 series victory. Keacy Carty and Brandon King's centuries led a commanding chase under the Kensington Oval lights."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/uefa-champions-league-barcelona-arsenal-psg-inter-milan-atletico-madrid-results-2629453-2024-11-07",
-      "headline": "UEFA Champions League: Barcelona thrash Red Star 5-2, Arsenal and PSG beatenBarcelona continued their impressive form with a 5-2 victory over Red Star Belgrade in the UEFA Champions League. Meanwhile, Arsenal and PSG faced defeats at the hands of Inter Milan and Atletico Madrid, respectively."
+      "url": "https://www.indiatoday.in/sports/cricket/story/pants-emotional-message-on-coachs-death-anniversary-his-legacy-inspires-us-2629405-2024-11-07",
+      "headline": "Pant's emotional message on coach's death anniversary: His legacy inspires usRishabh Pant shared an emotional message as he paid tribute to his childhood coach on his death anniversary. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/australias-raygun-retires-from-breaking-after-olympics-2024-performance-backlash-2629437-2024-11-07",
-      "headline": "Australia's Raygun retires from breaking after Olympics 2024 performance backlashRachael Gunn, also known as B-girl Raygun, has announced her retirement from competitive breaking following a viral backlash over her Paris Olympics performance. The scrutiny and criticism have led her to reconsider her future in the sport."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/australia-a-vs-india-a-2nd-unofficial-test-day-1-kl-rahul-flops-as-opener-melbourne-2629432-2024-11-07",
-      "headline": "AUS-A vs IND-A: KL Rahul flops as opener in Melbourne, falls for 4KL Rahul's return as an opener for India-A against Australia-A in Melbourne was marked by an early dismissal for just 4 runs, adding to his recent batting woes. India-A faced a tough start, with Michael Neser's 4 wickets in session 1 leaving them in big trouble. "
+      "url": "https://www.indiatoday.in/sports/cricket/story/allah-ghazanfar-stars-as-afghanistan-take-1-0-lead-vs-bangladesh-in-odi-series-2629403-2024-11-06",
+      "headline": "Allah Ghazanfar stars as Afghanistan take 1-0 lead vs Bangladesh in ODI seriesAllah Ghazanfar starred on his debut with a six-wicket haul as Afghanistan beat Bangladesh by 92 runs in the 1st ODI. Afghanistan took 1-0 lead in the ODI series in Sharjah. "
     },
     {
       "sentiment": "positive",
@@ -385,46 +420,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-south-africa-t20i-series-ramandeep-singh-debut-durban-shivam-dube-replacement-2629302-2024-11-06",
       "headline": "India vs South Africa 1st T20I: Ramandeep's potential debut in Durban?As India gears up for their T20I series against South Africa, the spotlight is on Ramandeep Singh, whose stellar IPL 2024 performance could earn him a debut in the opening match on November 8 in Durban."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-australia-jason-gillespie-jasprit-bumrah-pat-cummins-unplayable-border-gavaskar-trophy-2629394-2024-11-06",
-      "headline": "Pakistan coach hails Jasprit Bumrah and Pat Cummins as 'unplayable' bowlersPakistan's interim head coach Jason Gillespie lauded Jasprit Bumrah and Pat Cummins for their unique bowling strengths ahead of the Border-Gavaskar Trophy, emphasizing how their pace brilliance will create intense challenges for batters throughout the Test series."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/navjot-singh-sidhus-fool-proof-mantra-to-play-spin-for-indian-batters-2629375-2024-11-06",
-      "headline": " Navjot Singh Sidhu's foolproof mantra to play spin for Indian battersIndia's Test series loss to New Zealand exposed their struggles against spin on home soil. Navjot Singh Sidhu's foolproof mantra offers timely guidance, urging batters to step up, watch closely, and stay flexible against turning deliveries."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/benjamin-mendy-manchester-city-unpaid-wages-dispute-tribunal-court-ruling-2629344-2024-11-06",
-      "headline": "Manchester City ruled to pay off hefty unpaid wages to Benjamin MendyManchester City has been ordered by a UK tribunal to pay the majority of unpaid wages to former player Benjamin Mendy, following his acquittal on multiple charges in January 2023, closing a significant chapter in Mendy's legal battle."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-south-africa-t20i-series-ramandeep-singh-debut-durban-shivam-dube-replacement-2629302-2024-11-06",
-      "headline": "India vs South Africa 1st T20I: Ramandeep's potential debut in Durban?As India gears up for their T20I series against South Africa, the spotlight is on Ramandeep Singh, whose stellar IPL 2024 performance could earn him a debut in the opening match on November 8 in Durban."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/shubman-gill-attends-agni-chopras-birthday-bash-mother-anupama-shares-pictures-2629277-2024-11-06",
-      "headline": "Shubman Gill attends Agni Chopra's birthday bash, mother Anupama shares picturesShubman Gill attended the birthday bash of his close friend Agni Chopra as mother Anupama shared pictures of the celebration. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/australia-a-vs-india-a-when-and-where-to-watch-predicted-eleven-kl-rahul-dhruv-jurel-2629276-2024-11-06",
-      "headline": "Preview: KL Rahul in focus as India A face Australia A in 2nd unofficial Test BCCI confirmed that KL Rahul and Dhruv Jurel joined the India A squad for the second unofficial Test against Australia A on November 7, as selectors experiment with combinations ahead of the Border-Gavaskar Trophy series opener in Perth."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/indian-sports-honours-returns-for-5th-edition-to-celebrate-indias-top-athletes-2629167-2024-11-06",
-      "headline": "Indian Sports Honours returns for 5th edition to celebrate India's top athletesThe prestigious Indian Sports Honours, conceptualised by Cornerstone Sport, returns to honour outstanding achievements in the Olympic, Paralympic, Asian Games, Commonwealth Games, and other key sports."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-are-so-fatigued-michael-clarke-after-test-series-loss-vs-new-zealand-2629258-2024-11-06",
-      "headline": "India are so fatigued: Michael Clarke after Test series loss vs New ZealandMichael Clarke pointed out that the Indian batters seemed fatigued against New Zealand in their home Test series loss. However, Clarke felt the likes of Kohli and Rohit will be back to form against Australia. "
     }
   ],
   "education": [
