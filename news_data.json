@@ -1,6 +1,11 @@
 {
   "business": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/video/stocks-rally-as-investors-await-federal-reserves-rate-decision-2629927-2024-11-07",
+      "headline": "Stocks rally as investors await Federal Reserve's rate decisionAsian shares recovered as US stocks hit records amid speculations on Trump's presidency and the Fed's rate decision."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/story/jet-airways-retail-shareholders-liquidation-order-wipeout-share-price-2629770-2024-11-07",
       "headline": "Jet Airways retail shareholders stare at total loss after liquidation orderJet Airways' stock, which had hit a 5% lower circuit following the court's decision, closed at Rs 34.04 on the Bombay Stock Exchange."
@@ -94,11 +99,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/donald-trump-returns-as-us-president-impact-on-indian-economy-and-markets-2629132-2024-11-06",
       "headline": "Donald Trump wins US elections: What it means for Indian stock market, economyWith Donald Trump back in power, India's economy and stock market could see significant shifts. Find out which sectors to watch and where to invest as global trends evolve."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/us-elections-stock-market-today-sensex-nifty-surge-as-donald-trump-win-fuels-dalal-street-rally-2629098-2024-11-06",
-      "headline": "US elections: Sensex, Nifty surge after Donald Trump claims victoryThe S&P BSE Sensex gained 900.50 points to settle at 80,378.13, while the Nifty50 surged 270.75 points to 24,484.05. Earlier in the session, the Sensex had surged over 1,000 points.\u00a0"
     }
   ],
   "entertainment": [
@@ -132,7 +132,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/us-election-2024/story/joe-biden-donald-trump-republican-democrat-kamala-harris-white-house-2629990-2024-11-07",
-      "headline": "Biden assures peaceful transfer of power in 1st address after Trump's election winOutgoing US President Joe Biden said he congratulated Republican leader Donald Trump on his victory in the presidential election and vowed a peaceful transfer of power."
+      "headline": "Biden assures peaceful transfer of power in 1st address after Trump's victoryOutgoing US President Joe Biden said he congratulated Republican leader Donald Trump on his victory in the presidential election and vowed a peaceful transfer of power."
     },
     {
       "sentiment": "positive",
@@ -141,18 +141,23 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/pm-surya-ghar-yojana-solar-revolution-sweeping-india-ground-report-2629924-2024-11-07",
-      "headline": "How well the PM Surya Ghar Yojana, a solar revolution, is faring across IndiaIndia Today TV team spoke to consumers who have installed solar panels in UP's Lucknow and Ghaziabad, Chhattisgarh's Raipur, Rajasthan's Jaipur, and Madhya Pradesh's Indore."
+      "url": "https://www.indiatoday.in/cities/delhi/story/yamuna-toxic-waters-devotees-in-delhi-at-risk-during-chhath-puja-pollution-levels-lab-testing-2630013-2024-11-07",
+      "headline": "Deep dive into Yamuna's toxic water and how it put Chhath devotees at riskTo understand the risk posed by the highly polluted river Yamuna, an India Today team collected water samples from three key locations\u00a0\u2014 Wazirabad, ITO Barrage, and Kalindi Kunj\u00a0\u2014 to examine the river's water quality."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/elections/assembly/story/rahul-gandhi-blank-constitution-nagpur-event-bjp-attacks-congress-devendra-fadnavis-red-book-2629661-2024-11-07",
-      "headline": "Congress takes BJP fire over 'blank' copies of Constitution at Rahul Gandhi eventThe colour of the copy of the Constitution carried by Rahul Gandhi also became a point of contention, with Devendra Fadnavis saying it indicated an inclination towards \"urban Naxals and anarchists.\""
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/pm-surya-ghar-yojana-solar-revolution-sweeping-india-ground-report-2629924-2024-11-07",
+      "headline": "How well the PM Surya Ghar Yojana, a solar revolution, is faring across IndiaIndia Today TV team spoke to consumers who have installed solar panels in UP's Lucknow and Ghaziabad, Chhattisgarh's Raipur, Rajasthan's Jaipur, and Madhya Pradesh's Indore."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/lifestyle/travel/story/goa-tourism-down-how-sindhudurg-can-be-the-answer-to-all-goa-problems-2628287-2024-11-07",
       "headline": "Goa tourism down, how Sindhudurg can be the answer to all Goa problemsSindhudurg is a destination for leisurely escapes, yet it shares Goa's stunning views of both beaches and mountains."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/elections/assembly/story/rahul-gandhi-blank-constitution-nagpur-event-bjp-attacks-congress-devendra-fadnavis-red-book-2629661-2024-11-07",
+      "headline": "Congress takes BJP fire over 'blank' copies of Constitution at Rahul Gandhi eventThe colour of the copy of the Constitution carried by Rahul Gandhi also became a point of contention, with Devendra Fadnavis saying it indicated an inclination towards \"urban Naxals and anarchists.\""
     },
     {
       "sentiment": "positive",
@@ -166,23 +171,18 @@
     },
     {
       "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/rahul-gandhi-pliant-maharajas-attack-royal-scions-scindia-diya-kumari-2629642-2024-11-07",
+      "headline": "Selective amnesia: Former royals slam Rahul Gandhi for 'pliant maharajas' remarkRahul Gandhi, in an op-ed, said the East India Company choked India by partnering with, bribing, and threatening pliant maharajas and nawabs. The remark was condemned by several members of the erstwhile royal families."
+    },
+    {
+      "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/andhra-pradesh/story/pawan-kalyan-no-courage-cant-question-naidu-targets-dalit-woman-former-andhra-cm-jagan-reddy-2629880-2024-11-07",
       "headline": "Pawan Kalyan lacks boldness to question Chandrababu Naidu: Jagan ReddyFormer Andhra Pradesh Chief Minister Jagan Mohan Reddy criticised Deputy Chief Minister Pawan Kalyan and said he didn't have any courage to question Chief Minister Chandrababu Naidu, thus he targeted a woman Dalit minister."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/who-publishes-constitution-india-rahul-gandhi-blank-pages-maharashtra-election-bjp-2629705-2024-11-07",
-      "headline": "Who prints Constitution of India? The facts after row over\u00a0blank\u00a0pagesCopies of the 'Constitution of India' with blank pages being distributed by the Congress at a Rahul Gandhi event have sparked a controversy. Here's a look at who prints the original copy of the Constitution, and if private publishers can also publish it."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/rahul-gandhi-minister-forcing-businesses-praise-pm-modi-monopoly-2629767-2024-11-07",
       "headline": "Rahul Gandhi claims 'senior minister' forcing businesses to praise PM ModiThe charge comes a day after Rahul Gandhi, in an op-ed, claimed several 'play-fair' businesses were persisting in an oppressive system. Gandhi claimed this was due to the rise of a new breed of monopolists who were controlling government institutions."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/rahul-gandhi-pliant-maharajas-attack-royal-scions-scindia-diya-kumari-2629642-2024-11-07",
-      "headline": "Selective amnesia: Former royals slam Rahul Gandhi for 'pliant maharajas' remarkRahul Gandhi, in an op-ed, said the East India Company choked India by partnering with, bribing, and threatening pliant maharajas and nawabs. The remark was condemned by several members of the erstwhile royal families."
     },
     {
       "sentiment": "positive",
@@ -200,9 +200,9 @@
       "headline": "'Rs 100 cr bribe' charge and a Pinarayi cabinet aspirant: The new storm in Kerala politicsIn the centre of controversy is Kuttanad MLA Thomas K. Thomas and the NCP's Ajit Pawar faction that he allegedly tried to help"
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/canada-news/story/india-canada-toronto-counculate-stop-community-camp-security-khalistani-attack-hindu-temple-temple-brampton-2629601-2024-11-07",
-      "headline": "India stops consular camps in Canada, says lack of basic securityDays after a violent Khalistani mob stormed the premises of a Hindu temple in Canada's Brampton and attacked devotees, the Indian High Commission in Canada has decided to cancel some of the planned consular camps. The Indian Counsulate General in Toronto said that the Canadian authorities refused even \"minimum security protection\" for such camps."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/who-publishes-constitution-india-rahul-gandhi-blank-pages-maharashtra-election-bjp-2629705-2024-11-07",
+      "headline": "Who prints Constitution of India? The facts after row over\u00a0blank\u00a0pagesCopies of the 'Constitution of India' with blank pages being distributed by the Congress at a Rahul Gandhi event have sparked a controversy. Here's a look at who prints the original copy of the Constitution, and if private publishers can also publish it."
     },
     {
       "sentiment": "positive",
@@ -216,6 +216,11 @@
     },
     {
       "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/canada-news/story/india-canada-toronto-counculate-stop-community-camp-security-khalistani-attack-hindu-temple-temple-brampton-2629601-2024-11-07",
+      "headline": "India stops consular camps in Canada, says lack of basic securityDays after a violent Khalistani mob stormed the premises of a Hindu temple in Canada's Brampton and attacked devotees, the Indian High Commission in Canada has decided to cancel some of the planned consular camps. The Indian Counsulate General in Toronto said that the Canadian authorities refused even \"minimum security protection\" for such camps."
+    },
+    {
+      "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/case-against-flipkart-etsy-aliexpress-for-pictures-of-dawood-ibrahim-lawrence-bishnoi-maharashtra-cyber-cell-2629761-2024-11-07",
       "headline": "Case against sites selling t-shirts with Dawood, Lawrence Bishnoi's photosMaharashtra Cyber has registered a case against several e-commerce platforms, including Flipkart, Etsy and AliExpress, for selling t-shirts with pictures of Dawood Ibrahim and Lawrence Bishnoi."
     },
@@ -223,11 +228,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/pm-modi-donald-trump-phone-call-india-us-relation-defence-economy-2629599-2024-11-07",
       "headline": "'Magnificent man', 'My friend': What PM Modi-Trump bromance bodes for tiesModi-Trump bromance: PM Narendra Modi was one of the first leaders to congratulate Donald Trump and one of the first to have a call with the President-elect after the Republican won the US poll race for the White House.\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/virat-kohli-new-management-team-sporting-beyond-social-media-statement-2629851-2024-11-07",
-      "headline": "Virat Kohli announces new management team: 'They share my love for sport'India cricketer Virat Kohli announced his association with a new management team, Sporting Beyond. The superstar batter said the new team shares his love for the sport and his values of integrity and transparency. "
     },
     {
       "sentiment": "positive",
@@ -241,13 +241,23 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/virat-kohli-new-management-team-sporting-beyond-social-media-statement-2629851-2024-11-07",
+      "headline": "Virat Kohli announces new management team: 'They share my love for sport'India cricketer Virat Kohli announced his association with a new management team, Sporting Beyond. The superstar batter said the new team shares his love for the sport and his values of integrity and transparency. "
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/video/bangladesh-hindu-iskcon-protest-2629819-2024-11-07",
       "headline": "Bangladeshi Hindus face crackdown amid targeted violence, temple attacks Hindus make up roughly 8% of Bangladesh's 170 million population. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/giorgia-meloni-elon-musk-italy-us-donald-trump-election-win-presidential-election-2629727-2024-11-07",
-      "headline": "Meloni speaks to friend Elon Musk: His vision would be key resource for Italy, USItalian Prime Minister Giorgia Meloni praised Elon Musk and said his vision and commitment would be an important resource for her country and the US. This comes after Donald Trump won the US presidency for a second term.  "
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/chiranjeevi-nagarjuna-ram-charan-mahesh-babu-group-pic-maldives-2630020-2024-11-07",
+      "headline": "Chiranjeevi, Nagarjuna, Ram Charan, Mahesh Babu's group pic from MaldivesTop South Indian film stars, including Chiranjeevi, Nagarjuna, Ram Charan, and Mahesh Babu, posed for a photo during their Maldives holiday."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/television/web-series/story/varun-dhawan-fan-jokes-semi-nude-scene-citadel-honey-bunny-samantha-2630010-2024-11-07",
+      "headline": "Varun Dhawan fan jokes about his semi-nude scene in Citadel. Actor repliesVarun Dhawan received humorous feedback from a fan about his semi-nude scene in Citadel: Honey Bunny. The actor's playful reply will leave you in splits."
     },
     {
       "sentiment": "positive",
@@ -258,19 +268,19 @@
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/music/story/sidhu-moosewala-parents-balkaur-singh-charan-kaur-reveal-son-face-2629974-2024-11-07",
       "headline": "Sidhu Moose Wala's parents reveal baby's faceSidhu Moose Wala's parents revealed the face of their newborn son. The family expressed their deep appreciation for the blessings and support received from fans."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/vikrant-massey-wife-sheetal-thakur-touch-feet-karwa-chauth-exclusive-2629913-2024-11-07",
-      "headline": "Vikrant Massey reacts to viral pic touching wife's feet on Karwa ChauthVikrant Massey spoke to India Today Digital about his heartfelt gesture of touching his wife's feet during Karwa Chauth, emphasising respect and tradition over social media criticism."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/pic-janhvi-kapoor-visits-hyderabads-anjaneya-swamy-temple-during-rc-16-shoot-2629923-2024-11-07",
-      "headline": "Pic: Janhvi Kapoor visits Hyderabad's Anjaneya Swamy temple during RC 16 shootActor Janhvi Kapoor took a break from her hectic shooting schedule for RC 16 to visit the Anjaneya Swamy temple in Hyderabad."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/multan-pitch-for-1st-pakistan-vs-england-test-rated-satisfactory-2630012-2024-11-07",
+      "headline": "Multan pitch for 1st Pakistan vs England Test rated 'satisfactory'PAK vs ENG: The ICC rated the pitch for the first Test in Multan where England beat Pakistan by an innings and 47 runs. England put up a huge score of 823 for seven after Harry Brook's 317. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/virat-kohli-prank-sachin-tendulkar-first-interaction-yuvraj-singh-irfan-pathan-watch-2630011-2024-11-07",
+      "headline": "Watch: Kohli recalls hilarious first interaction with Sachin Tendulkar India's star batter Virat Kohli recently shared a nostalgic and hilarious memory of his first interaction with Sachin Tendulkar, revealing how seniors like Irfan Pathan and Harbhajan Singh orchestrated a playful prank that left him both embarrassed and amused."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-pakistan-2nd-odi-live-streaming-adelaide-babar-azam-2630001-2024-11-07",
@@ -318,13 +328,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-mega-auction-james-anderson-register-reveals-reason-2629895-2024-11-07",
-      "headline": "James Anderson reveals why he registered for IPL auction: 'I can still play' IPL 2025 mega auction: James Anderson, 42, expressed interest to feature in the Indian Premier League for the first time in his career. The former England pacer has registered for the auction at a base price of Rs 1.25 crore. "
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-mega-auction-south-africa-vs-india-t20i-series-aiden-markram-2629965-2024-11-07",
+      "headline": "IPL auction not motivation for South Africa players in T20Is vs India: Aiden MakramSouth Africa vs India: Captain Aiden Markram said he would be happy if the Proteas stars performed well and attracted the attention of owners and scouts in the lead-up to the IPL mega auction. India and South Africa will play a 4-match T20I series, starting November 8. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/south-africa-vs-india-t20is-livestreaming-all-you-need-to-know-suryakumar-yadav-aiden-markram-2629864-2024-11-07",
-      "headline": "South Africa vs India T20Is: Live Streaming, Schedule and all you need to knowIndia's T20I squad, led by Suryakumar Yadav, prepares for an intense four-match series against South Africa, starting November 8, aiming to extend their T20 dominance as both sides anticipate a rematch of the thrilling T20 World Cup final."
+      "url": "https://www.indiatoday.in/sports/cricket/story/champions-trophy-pcb-india-uae-hybrid-model-2629941-2024-11-07",
+      "headline": "India likely to play in UAE, PCB ready for Hybrid ModelThe Pakistan Cricket Board (PCB) said that it is ready to make changes to the schedule of the Champions Trophy to be held next year. India are likely to play their matches in Dubai or Sharjah. "
     },
     {
       "sentiment": "positive",
@@ -383,13 +393,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/aaron-finch-sunil-gavaskar-rohit-sharma-border-gavaskar-trophy-aus-vs-ind-2629736-2024-11-07",
-      "headline": "Aaron Finch disagrees with Gavaskar, asks Rohit to be with wife for special momentFormer Australia cricketer Aaron Finch has disagreed with Sunil Gavaskar who asked Rohit Sharma to leave captaincy for the upcoming Test series vs Australia and hand it to Jasprit Bumrah."
+      "url": "https://www.indiatoday.in/sports/cricket/story/wpl-2025-retention-mumbai-indians-royal-challengers-bengaluru-delhi-capitals-2629746-2024-11-07",
+      "headline": "WPL 2025 Retention Full List: MI release hat-trick hero, RCB retain winning sideWPL 2025 Retention: Mumbai Indians released England's Issy Wong, who holds the record for becoming the first bowler in the history of the tournament to take a hat-trick. Gujarat Giants released six players and have the highest purse. Royal Challengers Bengaluru also let go six players, incuding Nadine de Klerk. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-australia-test-series-kapil-dev-advice-back-to-basics-struggling-batters-2629739-2024-11-07",
-      "headline": "Kapil Dev's advice to struggling India batters: Go back to basicsKapil Dev advised India's underperforming batters to return to basics and practice intensively ahead of the Border-Gavaskar Trophy against Australia, emphasising the importance of strong preparation as India looks to secure a spot in the World Test Championship final."
+      "url": "https://www.indiatoday.in/sports/cricket/story/icc-champions-trophy-2025-schedule-pakistan-cricket-board-bcci-icc-2629791-2024-11-07",
+      "headline": "ICC to release Champions Trophy 2025 schedule on November 11: ReportThe International Cricket Council (ICC) is likely to announce the schedule for the ICC Champions Trophy 2025 on November 11 as a special delegation is set to visit Lahore."
     },
     {
       "sentiment": "positive",
@@ -420,16 +430,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ricky-ponting-suggests-babar-azam-to-take-virat-kohlis-route-to-regain-form-2629667-2024-11-07",
       "headline": "Ricky Ponting suggests Babar Azam to take Virat Kohli's route to regain formLegendary Australia captain Ricky Ponting has suggested Pakistan star Babar Azam to stay away from the game for some time like Virat Kohli to regain form."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-mega-auction-yuzvendra-chahal-r-ashwin-rcb-ab-de-villiers-target-list-2629659-2024-11-07",
-      "headline": "IPL 2025: AB de Villiers lists 4 targets for RCB, calls for Yuzi Chahal returnIPL 2025 mega auction: Legendary AB de Villiers urged Royal Challengers Bengaluru to spend big money on Yuzvendra Chahal, R Ashwin, Kagiso Rabada and Bhuvneshwar Kumar. RCB head into the mega auction with the second-biggest purse of Rs 83 crore."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/prithvi-shaw-greg-chappell-letter-mumbai-ranji-trophy-india-comeback-2629640-2024-11-07",
-      "headline": "Greg Chappell pens letter to struggling Prithvi: 'Don't hesitate to reach out' Prithvi Shaw, 24, has been going through a difficult phase in his career. The Mumbai batter was dropped from the Ranji Trophy squad due to fitness and disciplinary issues. Legendary Greg Chappell wrote to Prithvi, urging him to find courage to bounce back from the setbacks. "
     }
   ],
   "education": [
