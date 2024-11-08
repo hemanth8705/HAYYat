@@ -2,6 +2,11 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/indian-hotels-share-price-gains-6-percent-should-you-buy-sell-hold-brokerage-views-2630161-2024-11-08",
+      "headline": "Indian Hotels share price jumps over 6% to hit 1-year high. Buy, hold or sell?Indian Hotels share price: After a softer June quarter, the Tata group's hospitality arm showed strong recovery, buoyed by wedding-driven demand in Mumbai and pent-up bookings delayed by Q1's election and weather impacts."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/anil-ambani-reliance-power-share-price-5-percent-lower-circuit-major-setback-seci-bank-2630148-2024-11-08",
       "headline": "Reliance Power share price hits 5% lower circuit after major setback. Details hereReliance Power shares have faced significant volatility this year. The stock has surged by 103% over the past year, reaching a 52-week high of Rs 54.25 in early October. "
     },
@@ -94,11 +99,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/us-elections-donald-trump-victory-speech-stance-on-renewable-energy-stocks-slide-2629491-2024-11-07",
       "headline": "US elections: Why renewable energy stocks tumbled after Donald Trump's win In his victory speech following the 2024 US presidential election, Donald Trump pledged to halt renewable energy projects from his first day in office."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/apollo-hospitals-share-price-6-percent-gain-q2fy25-results-net-profit-revenue-2629484-2024-11-07",
-      "headline": "Explained: Why Apollo Hospitals share price jumped 6% todayIn Q2FY25, Apollo Hospitals reported a 63% year-on-year (YoY) increase in net profit, reaching Rs 379 crore, mainly driven by growth in its hospital business. This is up from Rs 233 crore in the same quarter last year."
     }
   ],
   "entertainment": [
@@ -130,9 +130,9 @@
   ],
   "general news": [
     {
-      "sentiment": "positive",
+      "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/law-news/story/supreme-court-overrules-1967-order-denying-minority-status-to-aligarh-muslim-university-new-bench-to-decide-2630132-2024-11-08",
-      "headline": "Supreme Court overrules its order denying AMU minority status, new bench to decideAligarh Muslim University Minority Status Hearing: The Supreme Court said the issue of whether Aligarh Muslim University is a minority institution\u00a0would be decided by a separate three-judge bench."
+      "headline": "Supreme Court overrules its order denying AMU minority status, new bench to decideThe Supreme Court said the issue of whether Aligarh Muslim University is a minority institution\u00a0would be decided by a separate three-judge bench."
     },
     {
       "sentiment": "negative",
@@ -142,12 +142,12 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/us-election-2024/story/joe-biden-sharp-speech-health-concern-donald-trump-win-kamala-harris-2630139-2024-11-08",
-      "headline": "The sharp Biden in speech that no one saw during campaignOn Thursday, as he addressed the nation, Joe Biden was calm and surprisingly upbeat. Biden's six-minute address was devoid of any gaffes or missteps, as was seen in his previous speeches and debates."
+      "headline": "The Joe Biden that Democrats needed in campaign as his sharp speech goes viralUS election results: On Thursday, as he addressed the nation after Donald Trump's win, Joe Biden was calm and surprisingly upbeat. Biden's six-minute address was devoid of any gaffes or missteps, as was seen in his previous speeches and debates."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/australia-today-responds-canada-ban-on-jaishankar-press-conference-video-2630046-2024-11-08",
-      "headline": "We remain undeterred: Australian outlet on Canada's ban after Jaishankar presserAustralia Today, banned by Canada for airing S Jaishankar's press conference, asserted its resolve to uphold transparency, accuracy, and the right to report impactful stories."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/samosas-cakes-himachal-chief-minister-sukhvinder-singh-sukhu-served-security-staff-cid-probe-2630078-2024-11-08",
+      "headline": "Samosas for Himachal Chief Minister served to his security staff, CID probe onThe alleged incident took place on October 21, when Chief Minister Sukhvinder Singh Sukhu visited the CID headquarters in Shimla."
     },
     {
       "sentiment": "positive",
@@ -155,9 +155,9 @@
       "headline": "At 59, Shah Rukh Khan quit smoking. Does age matter when kicking the butt?During a recent Q&A session with fans on his 59th birthday, SRK revealed that he's finally quit smoking. But does it still count when you give it up so late in life?"
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/samosas-cakes-himachal-chief-minister-sukhvinder-singh-sukhu-served-security-staff-cid-probe-2630078-2024-11-08",
-      "headline": "Samosas for Himachal Chief Minister served to his security staff, CID probe onThe alleged incident took place on October 21, when Chief Minister Sukhvinder Singh Sukhu visited the CID headquarters in Shimla."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/australia-today-responds-canada-ban-on-jaishankar-press-conference-video-2630046-2024-11-08",
+      "headline": "We remain undeterred: Australian outlet on Canada's ban after Jaishankar presserAustralia Today, banned by Canada for airing S Jaishankar's press conference, asserted its resolve to uphold transparency, accuracy, and the right to report impactful stories."
     },
     {
       "sentiment": "positive",
@@ -167,7 +167,7 @@
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/world/story/canada-priest-rajinder-parsad-reinstated-after-suspension-hindu-sabha-temple-brampton-batenge-to-katenge-2630123-2024-11-08",
-      "headline": "Canada Hindu temple priest suspended over batenge to katenge protest, reinstatedA Hindu priest in Canada, who delivered the 'batenge to katenge' speech after a Khalistani mob attacked devotees on the temple premises, has been reinstated. Priest Rajinder Parsad, suspended on November 5 over participation in the protest that wasn't authorised by the temple organisation, was reinstated after a review after two days."
+      "headline": "Canada Hindu temple priest suspended after batenge to katenge protest, reinstatedA Hindu priest in Canada, who delivered the 'batenge to katenge' speech after a Khalistani mob attacked devotees on the temple premises, has been reinstated. Priest Rajinder Parsad, suspended on November 5 after participation in the protest that wasn't authorised by the temple organisation, was reinstated after a review after two days."
     },
     {
       "sentiment": "negative",
@@ -222,7 +222,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/music/story/liam-payne-death-case-argentinian-prosecutors-charged-2630057-2024-11-08",
-      "headline": "3 arrested in connection with death of ex-One Director star Liam Payne Prosecutor Andr\u00e9s Madrea charged the three suspects, whose identities were not revealed, with the crimes of \"abandonment of a person followed by death\" and \"supplying and facilitating the use of narcotics,\" the prosecutor's office said. "
+      "headline": "3 arrested in connection with death of ex-One Directon star Liam PayneProsecutor Andr\u00e9s Madrea charged the three suspects, whose identities were not revealed, with the crimes of \"abandonment of a person followed by death\" and \"supplying and facilitating the use of narcotics,\" the prosecutor's office said. "
     },
     {
       "sentiment": "positive",
@@ -251,26 +251,36 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/television/story/rupali-ganguly-stepdaughter-esha-verma-controversy-sana-sultan-wedding-bigg-boss-tv-newsmakers-2630135-2024-11-08",
-      "headline": "TV newsmakers of the weekFrom Rupali Ganguly's controversy to Bigg Boss OTT 3 fame Sana Sultan's wedding, this week the television was buzzing with interesting events. Read here to know more about what happened in the television world. "
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/actor-sivakarthikeyan-breaks-silence-on-his-cameo-in-rajinikanths-coolie-2630138-2024-11-08",
+      "headline": "Actor Sivakarthikeyan breaks silence on his cameo in Rajinikanth's CoolieActor Sivakarthikeyan has spoken about his involvement in the much-anticipated Coolie, directed by Lokesh Kanagaraj and starring Rajinikanth.  While he remains close with the team, he revealed that he will visit the film sets soon."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/payal-kapadia-terms-laapataa-ladies-oscar-nomination-a-sensible-choice-2630134-2024-11-08",
-      "headline": "Payal Kapadia terms Laapataa Ladies's Oscar nomination 'a sensible choice'Filmmaker Payal Kapadia reacted to the news of Laapataa Ladies being nominated for the 2025 Oscars and her own film, All We Imagine As Light, being snubbed from the race."
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/vijay-cant-win-tamil-nadu-says-rajinikanths-brother-sathya-narayana-rao-2630142-2024-11-08",
+      "headline": "'Vijay can't win in Tamil Nadu,' says Rajinikanth's elder brotherSuperstar Rajinikanth's brother Sathya Narayana Rao, while interacting with the media, expressed his opinion about Vijay entering politics with his party Thamizh Vetri Kazhagam and compared his attempt to Kamal Haasan's."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/tusshar-kapoor-on-dealing-with-pressure-as-a-star-kid-2630103-2024-11-08",
-      "headline": "Tusshar Kapoor on dealing with pressure as a star kid: It's definitely harsherActor Tusshar Kapoor recently discussed the pressure of being a nepotism kid in the film industry. He is currently seen in the series Dus June Kii Raat."
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/dhanush-nithya-menen-idli-kadai-release-date-2630153-2024-11-08",
+      "headline": "Dhanush, Nithya Menen's Idli Kadai to release in theatres in April 2025Dhanush and Nithya Menen's upcoming film, Idli Kadai, is set to release in theatres in April 2025. Dhanush shared the announcement on social media on November 8 with a brand-new poster."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/music/story/victoria-beckham-harper-beckham-women-of-the-year-award-2630077-2024-11-08",
-      "headline": "Victoria Beckham's daughter, 13, calls her 'amazing mummy' while presenting awardFashion designer, singer and entrepreneur Victoria Beckham was honoured with Entrepreneur of the Year award at a recent event. She was presented the award by her daughter, Harper Beckham. "
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/major-mukund-vararajadan-commanding-officer-amit-dabas-reviews-amaran-sivakarthikeyan-director-rajkumar-periasamy-reacts-2630149-2024-11-08",
+      "headline": "Major Mukund Varadarajan's commanding officer reviews AmaranArmy veteran and Major Mukund Varadarajan's commanding officer Amit Dabas shared a glowing review of Amaran. Director Rajkumar Periasamy, overwhelmed with the review, wrote that he'd wear it as a medal of honour."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/afghanistan-legend-mohammad-nabi-to-retire-from-odis-after-champions-trophy-2630163-2024-11-08",
+      "headline": "Afghanistan legend Mohammad Nabi to retire from ODIs after Champions TrophyAfghanistan cricket legend Mohammad Nabi is set to retire from ODIs after the ICC Champions Trophy 2025 in Pakistan. The all-rounder will continue his T20 career, marking the end of an illustrious ODI journey since 2009."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/aus-vs-pak-2nd-odi-haris-rauf-adelaide-steve-smith-shaheen-afridi-2630151-2024-11-08",
+      "headline": "AUS vs PAK: Haris Rauf runs through Australia with five-wicket haul in 2nd ODIStar Pakistan fast bowler Haris Rauf ran through the Australian batting line up in the second ODI of the series as he scalped second five wicket haul of his ODI career."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/uefa-europa-league-manchester-united-players-want-ruud-van-nistelrooy-to-stay-on-andre-onana-2630141-2024-11-08",
@@ -313,13 +323,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/south-africa-vs-india-t20is-arshdeep-singh-avesh-khan-ipl-2025-auction-durban-2630047-2024-11-08",
-      "headline": "Arshdeep Singh, Avesh Khan look to make it big before IPL auctionSA vs IND: Arshdeep Singh, Avesh Khan, Jitesh Sharma and Vijaykumar Vyshak will be looking to make an impact when the T20I series between India and South Africa starts on Friday, November 8."
+      "url": "https://www.indiatoday.in/sports/cricket/story/australia-a-vs-india-a-second-unofficial-test-day-two-marcus-harris-dismissal-tanush-kotian-melbourne-2630092-2024-11-08",
+      "headline": "Out or not out? India A left fuming with Marcus Harris' controversial callThe India-A team was left fuming with the controversial call which saw Marcus Harris stay at the crease after he had seemingly edged the ball to slips on Day 2 of the 2nd official Test against Australia-A. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/uefa-europa-league-amad-hits-brace-as-manchester-united-down-paok-tottenham-beaten-2630044-2024-11-08",
-      "headline": "Europa League: Amad hits brace as Manchester United down PAOK, Tottenham beatenManchester United secured a 2-0 victory over PAOK, marking their first Europa League win this season. Meanwhile, Tottenham's unbeaten run ended with a 3-2 loss to Galatasaray, and Lazio claimed the top spot with a win against Porto."
+      "url": "https://www.indiatoday.in/sports/cricket/story/south-africa-vs-india-1st-t20i-predicted-xis-ramandeep-singh-debut-durban-2630067-2024-11-08",
+      "headline": "SA vs IND, 1st T20I Predicted XI: Will Ramandeep make his debut?India's T20I series opener against South Africa may see debut opportunities for fresh faces like Ramandeep Singh and Vijaykumar Vyshak. Both players impressed in the IPL and domestic circuits, earning their call-ups for a promising international debut."
     },
     {
       "sentiment": "positive",
@@ -373,13 +383,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-mega-auction-south-africa-vs-india-t20i-series-aiden-markram-2629965-2024-11-07",
-      "headline": "IPL auction not motivation for South Africa players in T20Is vs India: Aiden MakramSouth Africa vs India: Captain Aiden Markram said he would be happy if the Proteas stars performed well and attracted the attention of owners and scouts in the lead-up to the IPL mega auction. India and South Africa will play a 4-match T20I series, starting November 8. "
+      "url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-pakistan-2nd-odi-live-streaming-adelaide-babar-azam-2630001-2024-11-07",
+      "headline": "Australia vs Pakistan 2nd ODI: When and where to watch? AUS vs PAK: Pat Cummins' Australia and Mohammad Rizwan's Pakistan will be up against each other in the second ODI of the three-match series on Thursday, November 8 at the Adelaide Oval. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/champions-trophy-pcb-india-uae-hybrid-model-2629941-2024-11-07",
-      "headline": "India likely to play in UAE, PCB ready for Hybrid ModelThe Pakistan Cricket Board (PCB) said that it is ready to make changes to the schedule of the Champions Trophy to be held next year. India are likely to play their matches in Dubai or Sharjah. "
+      "url": "https://www.indiatoday.in/sports/football/story/fk-crvena-zvezda-dig-at-real-madrid-watch-fc-barcelona-scored-two-meme-2629985-2024-11-07",
+      "headline": "FK Crvena zvezda take sly dig at Real Madrid after 5-2 loss to BarcelonaAfter scoring twice against Barcelona in a Champions League clash, Serbian club FK Crvena zvezda took a jab at Real Madrid on social media, highlighting Madrid's recent struggles against their arch-rivals and fueling online banter.\r\n"
     },
     {
       "sentiment": "positive",
@@ -410,16 +420,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/wpl-2025-sneh-rana-issy-wong-mumbai-indians-delhi-capitals-2629898-2024-11-07",
       "headline": "From Sneh Rana to Issy Wong: Top talking points from WPL RetentionsWPL 2025 Retention: The five teams participating in the upcoming edition of the WPL named their list of retained and released players. Gujarat Giants released two of their most senior players and will go into the auction with a purse of INR 4.40 crore. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/kylian-mbappe-france-squad-snubbed-nations-league-didier-deschamps-one-off-decision-2629897-2024-11-07",
-      "headline": "Mbappe left out of France's Nations League squad by coach DeschampsFrance captain Kylian Mbappe was shockingly omitted from Didier Deschamps' squad for the upcoming UEFA Nations League matches against Italy and Israel, despite expressing eagerness to join, marking his fourth consecutive absence from the national team."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-mega-auction-james-anderson-register-reveals-reason-2629895-2024-11-07",
-      "headline": "James Anderson reveals why he registered for IPL auction: 'I can still play' IPL 2025 mega auction: James Anderson, 42, expressed interest to feature in the Indian Premier League for the first time in his career. The former England pacer has registered for the auction at a base price of Rs 1.25 crore. "
     }
   ],
   "education": [
