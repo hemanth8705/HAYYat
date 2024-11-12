@@ -1,6 +1,11 @@
 {
   "business": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/story/market-update-sensex-down-over-600-points-nifty-falls-200-afternoon-session-auto-bank-stocks-decline-2632167-2024-11-12",
+      "headline": "Sensex loses over 600 points, Nifty drops below the 24,000 mark The S&P BSE Sensex lost 659.08 points to 78,837.07, while the NSE Nifty50 was down 205.35 points to 23,935.95"
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/bitcoin-price-today-will-it-reach-usd-100000-donald-trump-us-election-2632108-2024-11-12",
       "headline": "Bitcoin's comeback: Will it cross the $100,000 mark soon?Donald Trump's win has injected fresh optimism among crypto advocates, as he has previously championed a supportive regulatory framework for digital assets. "
@@ -94,11 +99,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/swiggy-ipo-allotment-step-by-step-online-guide-to-check-status-latest-gmp-2631411-2024-11-11",
       "headline": "Swiggy IPO allotment: Step-by-step guide to check status Swiggy IPO allotment: Investors can check their allotment status by logging in to the BSE website or the registrar Link Intime India's portal."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/story/market-opening-bell-sensex-nifty-open-flat-despite-gain-in-it-and-auto-stocks-2631388-2024-11-11",
-      "headline": "Sensex, Nifty open flat despite gains in IT and auto stocks The S&P BSE Sensex was down 48.63 points to 79,437.69, while the Nifty50 lost 20.40 points to\u00a024,127.80. "
     }
   ],
   "entertainment": [
@@ -131,8 +131,13 @@
   "general news": [
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/elections/assembly/story/nana-patole-bjp-dog-remark-controversy-akola-kirit-somaiya-2632029-2024-11-12",
-      "headline": "Maharashtra Congress chief compares BJP to 'dog': Time to show its placeThe Maharashtra Congress chief attacked the BJP for bringing down the Maha Vikas Aghadi government and singled out Devendra Fadnavis, saying that the former Chief Minister considers himself 'God'."
+      "url": "https://www.indiatoday.in/elections/assembly/story/pm-modi-attacks-maha-vikas-aghadi-congress-development-railway-dalits-tribals-reservation-2632174-2024-11-12",
+      "headline": "PhD in putting brakes on development: PM Modi's big attack on Uddhav and alliesAddressing an election rally in Chimur, PM Modi launched a blistering attack on the Maha Vikas Aghadi alliance, calling it detrimental to Maharashtra's growth. "
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/elections/assembly/story/uddhav-thackeray-bags-inspected-election-officials-war-of-words-mahayuti-2632172-2024-11-12",
+      "headline": "'Do Mahayuti leaders carry only underwear?' Spat over Uddhav Thackeray bag rowUddhav Thackeray, on Monday, posted a 150-second video of election officials frisking his bags at Wani helipad. The BJP alleged that Thackeray was afraid of his 'stolen money' getting caught."
     },
     {
       "sentiment": "positive",
@@ -141,13 +146,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/delhi/story/delhi-okhla-waste-to-energy-plant-toxic-emissions-ash-health-complications-2632067-2024-11-12",
-      "headline": "Delhi's 'eco-friendly' waste-to-energy plant poisoning millions: ReportA five-year investigation by The New York Times has revealed that a waste-to-energy plant in Delhi's Okhla is exposing millions of people to highly toxic emissions and putting them at risk of serious health issues. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-election-2024/story/donald-trump-appointments-tim-waltz-marco-rubio-tom-homan-immigration-elise-stefanik-anti-china-india-2631749-2024-11-12",
-      "headline": "Trump's early picks show steely resolve, should cheer IndiaPresident-elect Donald Trump is swiftly assembling his White House team. The early picks show Trump's intent to walk the talk on immigration and national security. The selection of Mike Waltz and Tom Homan should especially cheer India. "
+      "url": "https://www.indiatoday.in/world/us-news/story/elon-musk-donald-trump-mar-a-lago-florida-estate-us-presidential-transition-2632116-2024-11-12",
+      "headline": "Elon Musk not leaving Mar-a-Lago until Trump throws him out: Report Mar-a-Lago has become the epicentre of Trump's presidential transition, with Elon Musk dining with the 78-year-old on the patio and enjoying golf since Donald Trump's election win.\u00a0"
     },
     {
       "sentiment": "negative",
@@ -155,19 +155,49 @@
       "headline": "Toxic smog blanketing India, Pakistan is visible from spaceNasa recently released satellite images revealing the extent of the pollution, which spans the densely populated Indo-Gangetic Plain across both countries. "
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/elon-musk-donald-trump-mar-a-lago-florida-estate-us-presidential-transition-2632116-2024-11-12",
-      "headline": "Elon Musk not leaving Mar-a-Lago until Trump throws him out: Report Mar-a-Lago has become the epicentre of Trump's presidential transition, with Elon Musk dining with the 78-year-old on the patio and enjoying golf since Donald Trump's election win.\u00a0"
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/story/cricket-blind-t20-world-cup-pakistan-blind-cricket-council-cricket-association-for-the-blind-in-india-2632171-2024-11-12",
+      "headline": "Blind World Cup to go ahead without India if they don't come: Pakistan boardThe Pakistan Blind Cricket Council (PBCC) has responded to India Today's report of the Indian Blind Cricket Team awaiting NOC from the government to travel to Pakistan for Blind T20 World Cup."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/opinion/story/six-x-factors-that-will-decide-the-fate-of-maharashtra-in-the-assembly-polls-opinion-2632082-2024-11-12",
-      "headline": "6 X-factors that will decide fate of Maharashtra in assembly pollsAlliances often disturb social coalitions \u2014 both the MVA and the Mahayuti have unnatural partners in the Shiv Sena (Uddhav Balasaheb Thackeray) and the NCP (Ajit Pawar) respectively. "
+      "url": "https://www.indiatoday.in/world/story/us-president-donald-trump-indonesia-president-prabowo-subianto-phone-call-viral-video-2632165-2024-11-12",
+      "headline": "Your English is good: Trump to Indonesian President during congratulatory\u00a0callUS President-elect Donald Trump and Indonesian President Prabowo Subianto exchanged warm words of praise for each other's accomplishments, and its video drew significant online attention."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/elections/assembly/story/nana-patole-bjp-dog-remark-controversy-akola-kirit-somaiya-2632029-2024-11-12",
+      "headline": "Maharashtra Congress chief compares BJP to 'dog': Time to show its placeThe Maharashtra Congress chief attacked the BJP for bringing down the Maha Vikas Aghadi government and singled out Devendra Fadnavis, saying that the former Chief Minister considers himself 'God'."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/trending-news/story/thai-woman-discovers-surgical-needle-left-in-vagina-childbirth-18-years-pain-2632156-2024-11-12",
+      "headline": "Thai woman discovers surgical needle left in vagina after enduring 18 years of painNow 36, the woman from Narathiwat province recalled the moment that occurred 18 years ago when a nurse accidentally dropped the needle into her vagina while stitching her up after delivery. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-election-2024/story/project-2025-trump-presidency-agenda-47-immigration-border-control-pornography-us-indian-americans-citizenship-2631764-2024-11-12",
-      "headline": "Why Project 2025 is scaring Americans and its impact on immigrationDonald Trump has always spoken of stricter border controls and a crackdown on illegal immigrants, but some of his rivals said he would implement a far-right policy playbook, Project 2025. Here's why Project 2025 is scaring Americans and its take on immigration. "
+      "url": "https://www.indiatoday.in/impact-feature/story/harnessing-the-power-of-data-iim-kozhikodes-professional-certificate-programme-in-advanced-data-analytics-for-managers-2631624-2024-11-11",
+      "headline": "Harnessing the Power of Data: IIM Kozhikode's Professional Certificate Programme in Advanced Data Analytics for ManagersEmpowering Managers with Data-Driven Insights for Strategic Decision-Making"
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/actor-kasthuri-shankar-missing-following-complaint-for-anti-telugu-remarks-report-2632169-2024-11-12",
+      "headline": "Actor Kasthuri Shankar missing following complaint for anti-Telugu remarks: ReportActor Kasthuri Shankar, who also worked with Kamal Haasan in his 1996 film Indian, is absconding after a police complaint against her for hurting the sentiments of the Telugu community with her statements at an event. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/cities/delhi/story/delhi-okhla-waste-to-energy-plant-toxic-emissions-ash-health-complications-2632067-2024-11-12",
+      "headline": "Delhi's 'eco-friendly' waste-to-energy plant poisoning millions: ReportA five-year investigation by The New York Times has revealed that a waste-to-energy plant in Delhi's Okhla is exposing millions of people to highly toxic emissions and putting them at risk of serious health issues. "
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/arjun-kapoor-on-mental-health-challenges-not-as-simple-as-taking-a-pill-2632166-2024-11-12",
+      "headline": "Arjun Kapoor on mental health challenges: Not as simple as taking a pillActor Arjun Kapoor recently spoke to us about his mental health challenges and how it not only affected his career, but his daily life. Arjun was last seen in Rohit Shetty's Singham Again. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/us-election-2024/story/donald-trump-appointments-tim-waltz-marco-rubio-tom-homan-immigration-elise-stefanik-anti-china-india-2631749-2024-11-12",
+      "headline": "Trump's early picks show steely resolve, should cheer IndiaPresident-elect Donald Trump is swiftly assembling his White House team. The early picks show Trump's intent to walk the talk on immigration and national security. The selection of Mike Waltz and Tom Homan should especially cheer India. "
     },
     {
       "sentiment": "positive",
@@ -176,8 +206,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/impact-feature/story/harnessing-the-power-of-data-iim-kozhikodes-professional-certificate-programme-in-advanced-data-analytics-for-managers-2631624-2024-11-11",
-      "headline": "Harnessing the Power of Data: IIM Kozhikode's Professional Certificate Programme in Advanced Data Analytics for ManagersEmpowering Managers with Data-Driven Insights for Strategic Decision-Making"
+      "url": "https://www.indiatoday.in/opinion/story/six-x-factors-that-will-decide-the-fate-of-maharashtra-in-the-assembly-polls-opinion-2632082-2024-11-12",
+      "headline": "6 X-factors that will decide fate of Maharashtra in assembly pollsAlliances often disturb social coalitions \u2014 both the MVA and the Mahayuti have unnatural partners in the Shiv Sena (Uddhav Balasaheb Thackeray) and the NCP (Ajit Pawar) respectively. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/elon-musks-starlink-satellites-burn-up-in-skies-above-earth-2632097-2024-11-12",
+      "headline": "Elon Musk's Starlink satellites burn up in skies above EarthInitially mistaken for a meteor by many onlookers, the event was later identified as a reentering SpaceX Starlink satellite, part of the Starlink-4682 mission launched in 2022."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india-today-insight/story/how-early-unsupervised-social-media-exposure-harms-children-2631543-2024-11-11",
+      "headline": "How early, unsupervised social media exposure harms childrenSocial media is highly addictive and despite the risk of digital abuse, children find it next to impossible to quit it\r\n"
     },
     {
       "sentiment": "positive",
@@ -191,8 +231,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/elon-musks-starlink-satellites-burn-up-in-skies-above-earth-2632097-2024-11-12",
-      "headline": "Elon Musk's Starlink satellites burn up in skies above EarthInitially mistaken for a meteor by many onlookers, the event was later identified as a reentering SpaceX Starlink satellite, part of the Starlink-4682 mission launched in 2022."
+      "url": "https://www.indiatoday.in/trending-news/story/new-journey-awaits-indigo-pays-tribute-to-vistara-as-last-flight-takes-off-before-merger-with-air-india-2632040-2024-11-12",
+      "headline": "New journey awaits: IndiGo's tribute to Vistara as last flight takes offIndiGo paid tribute to Vistara as it operated its final flight ahead of its merger with Air India on November 12. Vistara CEO Vinod Kannan thanked the team and passengers for their support during the airline's 9-year journey."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/us-election-2024/story/project-2025-trump-presidency-agenda-47-immigration-border-control-pornography-us-indian-americans-citizenship-2631764-2024-11-12",
+      "headline": "Why Project 2025 is scaring Americans and its impact on immigrationDonald Trump has always spoken of stricter border controls and a crackdown on illegal immigrants, but some of his rivals said he would implement a far-right policy playbook, Project 2025. Here's why Project 2025 is scaring Americans and its take on immigration. "
     },
     {
       "sentiment": "positive",
@@ -206,71 +251,41 @@
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/movies/hollywood/story/mission-impossible-the-final-reckoning-teaser-trailer-tom-cruise-watch-2631970-2024-11-12",
-      "headline": "Watch: Tom Cruise faces new threat in Mission Impossible: The Final Reckoning teaserThe teaser of Mission: Impossible \u2013 The Final Reckoning offers a glimpse of Tom Cruise's Ethan Hunt battling AI 'the Entity'. Directed by Christopher McQuarrie, the film will release in May 2025. \r\n"
+      "url": "https://www.indiatoday.in/movies/bollywood/story/arjun-kapoor-on-mental-health-challenges-not-as-simple-as-taking-a-pill-2632166-2024-11-12",
+      "headline": "Arjun Kapoor on mental health challenges: Not as simple as taking a pillActor Arjun Kapoor recently spoke to us about his mental health challenges and how it not only affected his career, but his daily life. Arjun was last seen in Rohit Shetty's Singham Again. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/auto/cars/story/new-maruti-suzuki-dzire-vs-old-maruti-suzuki-dzire-all-major-updates-explained-2632076-2024-11-12",
-      "headline": "New Dzire vs Old Dzire: All major updates explainedNew Dzire vs Old Dzire: We explain the major differences between the two generations of India's largest-selling sedan."
+      "url": "https://www.indiatoday.in/movies/celebrities/story/sham-kaushal-on-how-om-shanti-om-fire-scene-nearly-gave-him-a-heart-attack-2632173-2024-11-12",
+      "headline": "Sham Kaushal shares how Om Shanti Om fire scene nearly gave him a heart attackSham Kaushal recalled the stressful fire scene in Om Shanti Om, where he felt he was having a heart attack. Shah Rukh Khan stayed calm, but Sham cried after the intense shoot."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india-today-insight/story/how-early-unsupervised-social-media-exposure-harms-children-2631543-2024-11-11",
-      "headline": "How early, unsupervised social media exposure harms childrenSocial media is highly addictive and despite the risk of digital abuse, children find it next to impossible to quit it\r\n"
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/actor-kasthuri-shankar-missing-following-complaint-for-anti-telugu-remarks-report-2632169-2024-11-12",
+      "headline": "Actor Kasthuri Shankar missing following complaint for anti-Telugu remarks: ReportActor Kasthuri Shankar, who also worked with Kamal Haasan in his 1996 film Indian, is absconding after a police complaint against her for hurting the sentiments of the Telugu community with her statements at an event. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/assembly/story/jharkhand-assembly-elections-special-report-hemant-soren-maiya-yojna-silently-changing-game-jharkhand-2632064-2024-11-12",
-      "headline": "Is Hemant Soren's Maiya Yojna silently changing the game in JharkhandThe JMM-led INDIA alliance in Jharkhand is banking on its electoral strategy\u2014Maiya Samman Yojna (JMMSY). Meanwhile, the BJP aims to counter it with its GoGo Didi scheme, which promises financial support of Rs 2,100 per month. But why are both the BJP and JMM so focused on women voters in Jharkhand? And is the Maiya Yojna truly effective on the ground? Here's a detailed ground report from Jharkhand's Khunti, Tamar, and Jamshedpur."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/president-elect-donald-trump-advisors-tough-times-ahead-indian-immigrants-us-2631886-2024-11-11",
-      "headline": "A Trump appointment may be cause for concern for Indian techies. Here's whyTrump's second term spells tough times for Indian immigrants, with hardline advisors Homan and Miller set to drive stricter immigration policies."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/new-journey-awaits-indigo-pays-tribute-to-vistara-as-last-flight-takes-off-before-merger-with-air-india-2632040-2024-11-12",
-      "headline": "New journey awaits: IndiGo's tribute to Vistara as last flight takes offIndiGo paid tribute to Vistara as it operated its final flight ahead of its merger with Air India on November 12. Vistara CEO Vinod Kannan thanked the team and passengers for their support during the airline's 9-year journey."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/suryakumar-yadav-pakistan-fan-icc-champions-trophy-2025-bcci-pcb-2632053-2024-11-12",
-      "headline": "Pakistan kyu nahi aa rahe aap? Fans question India's Suryakumar Yadav in SAA Pakistan fan was seen asking Suryakumar Yadav that why don't India come to Pakistan to play cricket. The schedule for the ICC Champions Trophy is yet to be released due to India's reluctance to travel to Pakistan."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/batenge-to-katenge-bjp-yogi-adityanath-divide-and-rule-akhilesh-yadav-maharashtra-jharkhand-2632031-2024-11-12",
-      "headline": "Yogi Adityanath intensifies 'batenge toh katenge' stand, Akhilesh\u00a0Yadav\u00a0respondsSamajwadi Party Chief Akhilesh Yadav compared the BJP's use of slogans like 'batenge to katenge' to British divide-and-rule tactics. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/environment/video/cop29-azerbaijan-climate-change-finance-trillion-dollars-extreme-weather-2631756-2024-11-11",
-      "headline": "COP29 begins: Can UN find $1 trillion to fight climate change?This year's COP29 summit has drawn attention, as some question Azerbaijan's role as host, given its oil-producing status. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/television/web-series/story/shalini-passi-says-mother-punished-her-with-chilli-powder-for-saying-bad-things-2632140-2024-11-12",
-      "headline": "Shalini Passi says mother punished her with chilli powder for saying 'bad things'Fabulous Lives vs Bollywood Wives-fame Shalini Passi talked about her childhood in an interview recently. She talked about not using any foul language because her mother had always taught her against it. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/aamir-khan-on-shah-rukh-khan-salman-khan-pathaan-train-scene-young-actors-must-be-upset-2632133-2024-11-12",
-      "headline": "Aamir Khan on SRK, Salman's Pathaan train scene: Young actors must be upsetAamir Khan recently discussed Shah Rukh Khan and Salman Khan's train sequence in the 2023 film Pathaan. He joked that a lot of young actors must have been offended after watching it. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/aamir-khan-on-his-and-kiran-raos-split-divorce-didnt-affect-our-relationship-2632135-2024-11-12",
-      "headline": "Aamir Khan on his and Kiran Rao's split: Divorce didn't affect our relationshipActor Aamir Khan recently shared insights into his relationship with Kiran Rao following their divorce. Both Kiran and Aamir talked about how their separation has not hindered their mutual respect and co-parenting efforts."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/watch-allu-arjun-fans-storm-youtube-channel-office-for-slandering-actor-family-2632115-2024-11-12",
-      "headline": "Watch: Allu Arjun's fans storm YouTube channel office for slandering actor's familyPushpa 2 actor Allu Arjun's fans recently charged a YouTube channel office for posting objectionable content against the Telugu superstar, his wife Sneha Reddy and their children. Check out the viral videos of the incident here. "
+      "url": "https://www.indiatoday.in/movies/bollywood/story/varun-dhawan-confirm-salman-khan-cameo-baby-john-janhvi-kapoor-atlee-kalees-2632161-2024-11-12",
+      "headline": "Did Varun Dhawan confirm Salman Khan's cameo in Baby John? See post In a recent Ask Me Anything session on X, actor Varun Dhawan spilled beans about Salman Khan's cameo in Baby John. The film directed by Kalees, will release in theatres on December 25. "
     }
   ],
   "sports": [
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/story/cricket-blind-t20-world-cup-pakistan-blind-cricket-council-cricket-association-for-the-blind-in-india-2632171-2024-11-12",
+      "headline": "Blind World Cup to go ahead without India if they don't come: Pakistan boardThe Pakistan Blind Cricket Council (PBCC) has responded to India Today's report of the Indian Blind Cricket Team awaiting NOC from the government to travel to Pakistan for Blind T20 World Cup."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/story/ironman-valterri-bottas-completes-triathlon-days-after-being-sacked-by-sauber-2632162-2024-11-12",
+      "headline": "F1: 'Ironman' Bottas completes triathlon days after being sacked by SauberSauber driver Valtteri Bottas completed an Ironman triathlon at his backyard. Bottas, who is set to leave Sauber at the end of the F1 season is showing no signs of dipping his physical  fitness."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/badminton/story/japan-masters-2024-treesa-gayatri-pair-exits-in-opening-round-2632157-2024-11-12",
+      "headline": "Treesa-Gayatri make first round exit from Kumamoto MastersIndia's Treesa Jolly and Gayatri Gopichand lost to the Chinese Taipei pair of Hsu Yin-Hui and Lin Jhih Yun in the opening round of the Kumamoto Masters Japan Super 500 tournament on Tuesday."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/story/cricket-2632128-2024-11-12",
@@ -313,18 +328,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/alexander-zverev-atp-finals-andrey-rublev-carlos-alcaraz-casper-ruud-2632032-2024-11-12",
-      "headline": "Alexander Zverev begins ATP final campaign with straight sets win over Andrey RublevAlexander Zverev began his ATP Finals campaign with straight sets win over Andrey Rublev at the Inalpi Arena. Zverev beat Rublev 6-4, 6-4."
+      "url": "https://www.indiatoday.in/sports/story/cricket-border-gavaskar-trophy-rahul-dravid-vvs-laxman-adelaide-test-2003-aus-vs-ind-2003-2632099-2024-11-12",
+      "headline": "Recapping BGT heroics: When Dravid and Laxman did Kolkata 2001 encore in AdelaideStar India batters Rahul Dravid and VVS Laxman forged a magnificent 303-run partnership for the fifth wicket in the second Test vs Australia in Adelaide, 2003. The partnership helped India win the match by four wickets."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/cricket-india-vs-australia-tim-paine-on-dhruv-jurel-bgt-2632014-2024-11-12",
-      "headline": "Tim Paine backs India's Dhruv Jurel to impress in Australia Test seriesTim Paine praised Dhruv Jurel's impressive batting on the challenging, bouncy wicket at the MCG during the second unofficial Test between Australia A and India A, where the 23-year-old scored 80 and 68, handling the pace and bounce with ease.\r\n"
+      "url": "https://www.indiatoday.in/sports/video/icc-awaits-pakistans-call-on-hybrid-champions-trophy-as-india-declines-to-travel-2632078-2024-11-12",
+      "headline": "ICC awaits Pakistan's call on hybrid Champions Trophy as India declines to travelThe International Cricket Council has asked the Pakistan Cricket Board for its stance on hosting the Champions Trophy under a hybrid model after India declined to travel to Pakistan. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/australian-cricketer-ben-manenti-recreates-yusuf-dikecs-iconic-olympic-pose-during-one-day-cup-match-2631991-2024-11-12",
-      "headline": "Australian cricketer recreates Yusuf Dikec's iconic Olympic pose after run outAustralian cricketer Ben Manenti recreated Turkish shooter Yusuf Dikec's iconic pose from the Paris Olympics 2024 during a match between New South Wales and South Australia in the One Day Cup."
+      "url": "https://www.indiatoday.in/sports/cricket/story/cricket-border-gavaskar-perth-pitch-good-pace-bounce-curator-india-first-test-2632059-2024-11-12",
+      "headline": "Perth pitch to have good pace, bounce: Curator warns India ahead of first TestBorder-Gavaskar Trophy: India is set for a challenging start to their Australia tour, as the Optus Stadium curator revealed that the pitch for the opening Test has been prepared to deliver \"good bounce and pace,\" in line with Perth's reputation for fiery, fast surfaces.\r\n"
     },
     {
       "sentiment": "positive",
@@ -378,18 +393,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/atp-finals-2024-rohan-bopanna-matthew-ebden-2631922-2024-11-12",
-      "headline": "Rohan Bopanna, Matthew Ebden off to losing start in ATP Finals 2024ATP Finals 2024: Simone Boleli and Andrea Vavassori took 56 minutes to beat Rohan Bopanna, Matthew Ebden in the group stage match on Monday, November 11. "
+      "url": "https://www.indiatoday.in/sports/story/cricket-champions-trophy-uncertainty-pakistan-board-india-stand-off-hosting-rights-2631973-2024-11-12",
+      "headline": "Champions Trophy in limbo amid Pakistan board, India stand-off over hostingThe 2025 ICC Champions Trophy faces an uncertain future as a standoff between the Pakistan Cricket Board (PCB) and the Board of Control for Cricket in India (BCCI) over hosting arrangements threatens to derail the tournament."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/afghanistan-vs-bangladesh-rahmanullah-gurbaz-azmatullah-omarzai-series-win-2631903-2024-11-11",
-      "headline": "Gurbaz, Omarzai power Afghanistan to ODI series win vs Bangladesh AFG vs BAN: Rahmanullah Gurbaz and Azmatullah Omarzai starred as Afghanistan beat Bangladesh by five wickets on Monday to win the three-match ODI series. Gurbaz scored his eighth ODI hundred while Omarzai was effective with both bat and ball. "
+      "url": "https://www.indiatoday.in/sports/story/cricket-india-vs-australia-nathan-mcsweeney-on-jasprit-bumrah-challenge-2631966-2024-11-12",
+      "headline": "How Australia's debutant McSweeney is planning for 'unique' Bumrah challengeBorder-Gavaskar Trophy: Australia's uncapped opener Nathan McSweeney has admitted that facing Jasprit Bumrah will be \"quite the challenge\" as he prepares for his Test debut against India in Perth.\r\n"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/cricket-lockie-ferguson-ruled-out-calf-injury-sri-lanka-vs-new-zealand-2631888-2024-11-11",
-      "headline": "Calf injury rules Lockie Ferguson out of ODI series vs Sri Lanka SL vs NZ: Fast bowler Lockie Ferguson has been ruled out of the ODI series against Sri Lanka after he sustained a calf injury during the second T20I on Sunday. "
+      "url": "https://www.indiatoday.in/sports/story/cricket-icc-awaits-pakistan-board-decision-champions-trophy-india-decline-to-travel-2631954-2024-11-12",
+      "headline": "ICC awaits Pakistan's decision on Champions Trophy after India decline to travelThe ICC has asked the PCB for a response about hosting the Champions Trophy in a hybrid model after India refused to travel to Pakistan. The PCB confirmed on Sunday that it received an email from the ICC about India's decision."
     },
     {
       "sentiment": "positive",
@@ -415,21 +430,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/story/ruud-van-nistelrooy-leaves-manchester-united-right-after-reuben-amorims-arrival-2631885-2024-11-11",
       "headline": "Ruud van Nistelrooy leaves Manchester United right after Amorim's arrivalInterim Manchester United manager Ruud van Nistelrooy will not be joining the technical staff of incoming Ruben Amorim, confirmed the club on Monday, 11 November. Van Nistelrooy and three first-team coaches departed the club on the day of Amorim's arrival.\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/watch-sad-barcelona-fan-gets-stuck-between-dancing-real-sociedad-supporters-2631856-2024-11-11",
-      "headline": "Watch: Sad Barcelona fan gets stuck between dancing Real Sociedad supportersA Barcelona fan got stuck in between hundreds of Real Sociedad fans in a LaLiga match on Sunday. The home fans celebrated by dancing while as the Barcelona supporter stood there in silence after the visitors conceded a goal. The video of the incident has gone viral on social media.\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/premier-league-referee-suspended-after-video-showed-him-abusing-liverpool-and-klopp-2631850-2024-11-11",
-      "headline": "Premier League referee suspended after video showed him abusing Liverpool and KloppEnglish Premier League referees' body PGMOL has suspended Premier League referee David Coote on Monday, November 11."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/story/cricket-india-blind-team-t20-world-cup-pakistan-2631845-2024-11-11",
-      "headline": "Blind cricket team awaits government approval for T20 World Cup in PakistanAfter getting an NOC from the Sports Ministry, the Indian blind cricket team is awaiting approval from the government to visit Pakistan for the upcoming T20 World Cup. "
     }
   ],
   "education": [
