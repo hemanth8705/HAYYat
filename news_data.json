@@ -130,14 +130,39 @@
   ],
   "general news": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/cities/delhi/story/delhi-air-quality-pollution-severe-plus-category-overall-aqi-2635536-2024-11-19",
+      "headline": "Delhi air stays severe plus, overall AQI at 494, most stations touch 500-markAir quality across the national capital region has deteriorated, with several air monitoring stations touching the 500-mark (severe plus) on Tuesday morning.\u00a0"
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/science/story/elon-musks-spacex-launches-isros-4700-kg-gsat-20-space-2635527-2024-11-19",
       "headline": "Elon Musk's SpaceX launches India's 4,700-kg GSAT-20 into spaceThe Indian satellite, also referred to as GSAT-N2, is too heavy for Isro's own rockets to carry, necessitating the first-ever commercial collaboration between Isro and SpaceX."
     },
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/g20-summit-pm-modi-says-global-south-amid-food-fuel-fertilizer-crisis-conflicts-2635534-2024-11-19",
+      "headline": "Global South needs focus amid food, fuel crisis: PM Modi at G20 SummitThe Indian G20 presidency's call for \"One Earth, One Family, One Future\" continued to resonate at the Rio conversations, PM Modi said in Rio de Janeiro."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/india-us-ties-donald-trump-modi-china-manufacturing-china-tariff-2635514-2024-11-18",
+      "headline": "Will US-India thrive under Trump amid 'China factor'? Fareed Zakaria explainsWhile speaking to India Today, Fareed Zakaria predicted strengthened US-India ties under Donald Trump, emphasising India's potential to benefit from America's strategic shift away from China in manufacturing and trade."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/diljit-dosanjh-exposes-alcohol-liquor-hypocrisy-states-after-songs-controversy-lemonade-5-taara-dil-luminati-tour-2635405-2024-11-18",
+      "headline": "How Diljit Dosanjh's alcohol dare exposes states' hypocrisyCelebrated Punjabi singer Diljit Dosanjh was served a notice and barred from singing songs that referred to alcohol at his Hyderabad concert. In Ahmedabad, the singer, a teetotaller, threw a challenge at the states, exposing their double-standards when it came to liquor policy. "
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/delhi-air-pollution-aqi-centre-cm-atishi-modi-grap-4-restrictions-ncr-smog-2635424-2024-11-18",
       "headline": "Atishi blames Centre for Delhi's air apocalypse: Why is PM silent on pollution?Speaking to India Today TV, Delhi Chief Minister Atishi raised concern over the severe air pollution engulfing a large portion of northern India, calling the situation a \"medical emergency\" caused by rampant stubble burning in several \"BJP-ruled\" states."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/us-news/story/donald-trump-us-presiden-elect-msnbc-morning-joe-scarborough-mira-brzezinski-2635425-2024-11-18",
+      "headline": "Trump critics and 'Morning Joe' hosts meet him, agree to 'restart communications'Joe Scarborough and Mika Brzezinski, co-hosts who are married to each other, met US President-elect Donald Trump after a span of seven years. "
     },
     {
       "sentiment": "negative",
@@ -151,31 +176,6 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/diljit-dosanjh-exposes-alcohol-liquor-hypocrisy-states-after-songs-controversy-lemonade-5-taara-dil-luminati-tour-2635405-2024-11-18",
-      "headline": "How Diljit Dosanjh's alcohol dare exposes states' hypocrisyCelebrated Punjabi singer Diljit Dosanjh was served a notice and barred from singing songs that referred to alcohol at his Hyderabad concert. In Ahmedabad, the singer, a teetotaller, threw a challenge at the states, exposing their double-standards when it came to liquor policy. "
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/delhi/story/should-it-even-remain-nations-capital-shashi-tharoor-delhi-pollution-worsens-2635531-2024-11-19",
-      "headline": "Should it even remain nation's capital? Shashi Tharoor as Delhi pollution worsensThiruvananthapuram Congress MP Shashi Tharoor, in yet another attack on the government for not taking action on Delhi's worsening pollution, said that the government has failed to address the issue despite years of worsening air conditions."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/india-us-ties-donald-trump-modi-china-manufacturing-china-tariff-2635514-2024-11-18",
-      "headline": "Will US-India ties foster under Trump amid 'China factor'? Fareed Zakaria explainsWhile speaking to India Today, Fareed Zakaria predicted strengthened US-India ties under Donald Trump, emphasising India's potential to benefit from America's strategic shift away from China in manufacturing and trade."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/delhi/story/online-classes-schools-delhi-10-and-12-aqi-air-quality-pollution-2635455-2024-11-18",
-      "headline": "Online classes for all in Delhi, Gurugram, Noida schools amid pollutionThe Supreme Court on Monday directed all states to take an immediate call to stop all physical classes for students up to Class 12."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/wellness/story/working-out-is-great-but-how-much-is-too-much-2635232-2024-11-18",
-      "headline": "Working out is great, but how much is too much?Incorporating workouts into your daily routine is fantastic, but it's equally important to know where to draw the line."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/impact-feature/story/harnessing-the-power-of-data-iim-kozhikodes-professional-certificate-programme-in-advanced-data-analytics-for-managers-2631624-2024-11-11",
       "headline": "Harnessing the Power of Data: IIM Kozhikode's Professional Certificate Programme in Advanced Data Analytics for ManagersEmpowering Managers with Data-Driven Insights for Strategic Decision-Making"
     },
@@ -185,9 +185,9 @@
       "headline": "What Bangladesh-Pakistan direct sea trade link means for regional geopoliticsThe development will be closely watched by the Indian government in the backdrop of the 2004 Chinese arms haul at Chittagong port"
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/indian-coast-guard-ship-fishermen-caught-pakistani-patrol-2635402-2024-11-18",
-      "headline": "Indian Coast Guard's 2-hour chase to rescue fishermen caught by Pakistani patrolThe Pakistani ship attempted to retreat after capturing the fishermen but the Indian Coast Guard managed to rescue them. "
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/dehradun-car-accident-6-killed-students-drive-after-party-over-bmw-2635504-2024-11-19",
+      "headline": "Post-party drive, attempt to overtake BMW: Timeline of deadly Dehradun crashPolice said that the Innova covered the 600-meter distance from the bus stop to the accident site in just 13 seconds, a speed exceeding 120 km/h."
     },
     {
       "sentiment": "positive",
@@ -195,14 +195,34 @@
       "headline": "Bengaluru auto driver's innovative approach to raise funds for his startup is viralA photo of the Bengaluru auto driver was shared on Reddit with the caption, \"Yet another Peak Bengaluru moment\", prompting admiration for his entrepreneurial spirit."
     },
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/cities/delhi/story/should-it-even-remain-nations-capital-shashi-tharoor-delhi-pollution-worsens-2635531-2024-11-19",
+      "headline": "Should Delhi stay India's capital, asks Shashi Tharoor as pollution worsensThiruvananthapuram Congress MP Shashi Tharoor, in yet another attack on the government for not taking action on Delhi's worsening pollution, said that the government has failed to address the issue despite years of worsening air conditions."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/cities/delhi/story/online-classes-schools-delhi-10-and-12-aqi-air-quality-pollution-2635455-2024-11-18",
+      "headline": "Online classes for all in Delhi, Gurugram, Noida schools amid pollutionThe Supreme Court on Monday directed all states to take an immediate call to stop all physical classes for students up to Class 12."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/indian-coast-guard-ship-fishermen-caught-pakistani-patrol-2635402-2024-11-18",
+      "headline": "Indian Coast Guard's 2-hour chase to rescue fishermen caught by Pakistani patrolThe Pakistani ship attempted to retreat after capturing the fishermen but the Indian Coast Guard managed to rescue them. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/nayanthara-vs-dhanush-documentary-lawsuit-10-crore-producers-lawyer-weign-in-2635187-2024-11-18",
+      "headline": "Nayanthara vs Dhanush: Who is right?Nayanthara wrote a loaded open letter to Dhanush over his legal notice regarding unauthorised use of clips from Naanum Rowdy Dhaan in her Netflix documentary. In an exclusive chat with India Today Digital, producers and a lawyer weighed in on the controversy."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/punjab-sees-season-highest-farm-fire-cases-at-1251-as-delhi-continues-to-choke-due-to-air-pollution-2635510-2024-11-18",
       "headline": "Punjab sees season's highest farm fire cases at 1,251 as Delhi continues to chokeFrom September 15 till November 18, Punjab witnessed 9,655 stubble burning incidents, registering around 71 per cent dip in crop residue burnings in comparison to the figures reported in the corresponding period of the previous year."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/dehradun-car-accident-6-killed-students-drive-after-party-over-bmw-2635504-2024-11-19",
-      "headline": "Post-party drive, attempt to overtake BMW: Timeline of deadly Dehradun crashPolice said that the Innova covered the 600-meter distance from the bus stop to the accident site in just 13 seconds, a speed exceeding 120 km/h."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/story/cricket-champions-trophy-pakistan-india-concerns-address-pcb-mohsin-naqvi-press-2635364-2024-11-18",
+      "headline": "Pakistan ready to ease Team India's concerns, no hybrid model: PCB chiefChampions Trophy stand-off: Pakistan Cricket Board chief Mohsin Naqvi reiterated that the board is not willing to host the marquee 50-over tournament in a hybrid model. Naqvi said Pakistan is willing to resolve India's concerns. India have refused to travel to Pakistan for the tournament. "
     },
     {
       "sentiment": "negative",
@@ -211,8 +231,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/nayanthara-vs-dhanush-documentary-lawsuit-10-crore-producers-lawyer-weign-in-2635187-2024-11-18",
-      "headline": "Nayanthara vs Dhanush: Who is right?Nayanthara wrote a loaded open letter to Dhanush over his legal notice regarding unauthorised use of clips from Naanum Rowdy Dhaan in her Netflix documentary. In an exclusive chat with India Today Digital, producers and a lawyer weighed in on the controversy."
+      "url": "https://www.indiatoday.in/india-today-insight/story/food-funda-how-to-balance-health-and-taste-2635324-2024-11-18",
+      "headline": "Food funda: How to balance health and tasteHealthy food brings holistic benefits. Here's how to embrace nutritional choices without compromising on taste"
     },
     {
       "sentiment": "positive",
@@ -226,28 +246,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/delhi/story/delhi-worst-pollution-season-grap-iv-curbs-aqi-air-quality-index-2635293-2024-11-18",
-      "headline": "Delhi's air disaster: Worst pollution of the season, toughest curbs in placeDelhi's air quality plunged to hazardous levels on Monday, recording a season-high AQI of 493. Strict Stage 4 curbs under GRAP, including truck bans and halted public construction, are enforced in the capital city."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india-today-insight/story/food-funda-how-to-balance-health-and-taste-2635324-2024-11-18",
-      "headline": "Food funda: How to balance health and tasteHealthy food brings holistic benefits. Here's how to embrace nutritional choices without compromising on taste"
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/elections/assembly/story/bjp-takes-chhota-popat-jibe-at-rahul-gandhi-after-he-mocks-ek-hai-toh-safe-hai-slogan-maharashtra-polls-2635262-2024-11-18",
       "headline": "Chhota popat: BJP after Rahul Gandhi mocks PM's 'ek hai toh safe hai' sloganBJP spokesperson Sambit Patra said that Rahul Gandhi inferred that a safe meant 'tijori' as his party had looted the country for decades through various scams. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/television/reality-tv/story/ashneer-grover-defends-himself-salman-khan-schools-bigg-boss-18-2635422-2024-11-18",
-      "headline": "Ashneer Grover defends himself after Salman Khan schools him on BB 18Ashneer Grover shared a photo with Salman Khan, reiterating his respect for the actor and clarifying their past interactions. The former Shark Tank India judge was schooled by Khan on Bigg Boss 18."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/aap-kailash-gehlot-exit-bjp-aam-aadmi-party-jat-leader-nangloi-jat-mla-raghuvinder-shokeen-importance-delhi-politics-2635261-2024-11-18",
-      "headline": "Why AAP rushed to get Shokeen as minister within a day of Gahlot's exitThe AAP government in Delhi on Monday named Jat leader Raghuvinder Shokeen as a Cabinet minister, a day after transport minister Kailash Gahlot resigned from the party. The swift move by the Arvind Kejriwal-led party to have Shokeen, the Nangloi Jat MLA, reveals the importance of Jat votes in the state's politics ahead of the 2025 Assembly election."
     },
     {
       "sentiment": "positive",
