@@ -2,6 +2,21 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/market-closing-bell-sensex-nifty-rebound-amid-cautious-optimism-ahead-of-rbi-mpc-2643547-2024-12-02",
+      "headline": "Sensex, Nifty rebound amid cautious optimism ahead of RBI meetThe S&P BSE Sensex gained 445.29 points to close at 80,248.08, while the NSE Nifty50 was up 144.95 points to end at\u00a024,276.05.\u00a0"
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/story/windfall-tax-on-crude-oil-atf-petrol-and-diesel-exports-scrapped-by-government-2643545-2024-12-02",
+      "headline": "Government scraps windfall tax on crude oil, jet fuel, petrol and diesel exportsFirst imposed in July 2022, the windfall tax\u2014formally known as Special Additional Excise Duty (SAED)\u2014was introduced to capitalise on extraordinary profits earned by oil producers and exporters amid surging global crude prices driven by the Russia-Ukraine conflict."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/jet-fuel-commercial-lpg-price-increase-air-travel-flight-tickets-eating-dining-food-delivery-expensive-2643528-2024-12-02",
+      "headline": "Flight tickets and food deliveries to cost more this holiday season?Get ready for higher costs this holiday season as jet fuel and LPG prices rise, making air travel and dining out more expensive. Here's what you can expect in key cities across India."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/ola-electric-share-price-key-update-on-stores-bhavish-aggarwal-2643504-2024-12-02",
       "headline": "Ola Electric share price jumps over 6% after key update from CEOThe update revealed that Ola Electric is set to increase its number of stores from 800 to 4,000 by the end of this month, with all of them scheduled to open on December 20."
     },
@@ -84,21 +99,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/pan-2-project-faqs-who-can-apply-qr-code-security-other-key-details-2642232-2024-11-29",
       "headline": "PAN 2.0 FAQs: Who can apply, QR code feature, and other key detailsPAN 2.0 is a government initiative combining PAN and TAN systems with a QR code for secure and quick identity verification, simplifying taxpayer registration and promoting a tech-driven tax ecosystem."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/stock-market-rebound-today-sensex-700-points-nifty-gains-key-factors-bull-run-dalal-street-2642204-2024-11-29",
-      "headline": "Sensex surges 800 points: Key factors behind bull run on Dalal StreetStock market today: Sensex and Nifty regained their footing, driven by improved investor sentiment and stock-specific action. Read on to find out the key reasons behind today's rebound on Dalal Street."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/enviro-infra-ipo-stock-market-listing-should-you-hold-for-long-term-or-book-profit-now-2642133-2024-11-29",
-      "headline": "Enviro Infra makes solid market debut: Should you hold or book profit?Enviro Infra IPO listing: Shares of Enviro Infra Engineers have dipped slightly following their strong listing, prompting investors to weigh whether to hold onto their shares or book profits."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/story/adani-group-stocks-gain-sharply-stock-market-key-factors-why-2642119-2024-11-29",
-      "headline": "Adani Green, Adani Energy Solutions: Why these Adani Group stocks are gainingAdani Green Energy led the surge, rising 14.64% to hit Rs 1,247.55. Adani Energy Solutions followed, reaching a day's high of Rs 825.85. Most other Adani Group stocks also registered gains in early trade."
     }
   ],
   "entertainment": [
@@ -140,14 +140,14 @@
       "headline": "Protesting UP farmers close in on Delhi, massive jams at borders  Live UpdatesFarmers from Uttar Pradesh are demanding land compensation and benefits under the new agriculture laws and started their march to Parliament to press their demands to the Centre."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/russia-president-vladimir-putin-may-visit-india-early-next-year-kremlin-aide-says-figuring-out-tentative-dates-2643523-2024-12-02",
-      "headline": "Putin may visit India early next year, Kremlin says figuring out dates: ReportPutin may visit India early next year, Kremlin aide says figuring out tentative dates: News agency ANI"
-    },
-    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/jagdeep-dhankhar-murphys-law-deliberate-algorithm-parliament-adjournment-opposition-disruption-2643470-2024-12-02",
       "headline": "Jagdeep Dhankhar likens Parliament chaos to Murphy's Law, Congress countersRajya Sabha Chairman Jagdeep Dhankhar likened the chaotic proceedings in Parliament to Murphy's Law, claiming that the repeated disruptions were due to a \"deliberate algorithm\" to prevent crucial business from being conducted."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/story/cricket-shoaib-akhtar-india-vs-pakistan-pcb-bcci-icc-champions-trophy-2025-2643522-2024-12-02",
+      "headline": "Akhtar comes up with 'best revenge' for Pakistan vs India amid hosting issuesFormer Pakistan fast bowler Shoaib Akhtar has suggested best revenge for Pakistan against India amid ongoing Champions Trophy 2025 hosting controversy."
     },
     {
       "sentiment": "positive",
@@ -156,28 +156,68 @@
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/bangladesh-white-paper-economy-names-india-money-siphoned-muhammad-yunus-sheikh-hasina-2643373-2024-12-02",
-      "headline": "Is part of $234-bn booty laundered during Hasina regime in India?A white paper on Bangladesh's economy, presented to Chief Adviser Muhammad Yunus, claimed $234 billion was illegally siphoned out of the country, some through and to India. The report, highlighting economic mismanagement during the Hasina regime, is being seen to be portraying the Yunus-led government as inheriting a struggling economy."
+      "url": "https://www.indiatoday.in/india/telangana/story/woman-constable-reportedly-murdered-by-brother-in-suspected-honour-killing-over-inter-caste-marriage-in-telangana-2643509-2024-12-02",
+      "headline": "Telangana woman constable killed by brother, cops hint at honour killingA woman constable was killed near Raipole village in Ranga Reddy district, allegedly by her brother Paramesh in a suspected honour killing. A case has been registered, and police are investigating while the accused is on the run."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/why-joe-biden-pardoned-son-hunter-biden-guncase-earlier-pledges-no-clemency-white-house-2643305-2024-12-02",
-      "headline": "Biden pardons Biden: Father's love trumps allIn his final days as President, Joe Biden issued a controversial pardon for his son Hunter Biden, overturning his earlier public promises never to grant him clemency. "
+      "url": "https://www.indiatoday.in/world/us-news/story/indians-racist-attack-indian-american-united-airlines-los-angeles-airport-wedding-photographer-pervez-taufiq-2643512-2024-12-02",
+      "headline": "'Indians are crazy': Woman put on no-fly list after racist attack at LA airportAn American woman was placed on United Airlines' no-fly list after hurling racist slurs at celebrated wedding photographer Pervez Taufiq and his Indian-American family on a shuttle bus at the Los Angeles International Airport. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/dropping-hazlewood-an-indication-of-rift-in-australian-camp-travis-head-reacts-2643365-2024-12-02",
-      "headline": "Dropping Hazlewood an indication of rift in Australian camp? Travis Head reactsAUS vs IND: Travis Head reacted to the possible rift in the Australian camp after Josh Hazlewood was ruled out from the 2nd Test in Adelaide. "
+      "url": "https://www.indiatoday.in/health/story/india-population-decline-demographic-dividend-economic-impact-more-child-2643524-2024-12-02",
+      "headline": "India faces fertility decline: Will it follow South Korea's harrowing path?Is RSS Chief Mohan Bhagwat right in suggesting 3 kids and more? DMK's Stalin and Chandrababu Naidu are also asking people to have more kids. Why?"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/sunita-williams-farming-lettuce-in-space-its-not-for-eating-2643408-2024-12-02",
-      "headline": "Sunita Williams farming lettuce in space. It's not for eatingThe Space Station commander is focusing on the growth of \"Outredgeous\" romaine lettuce in microgravity. "
+      "url": "https://www.indiatoday.in/auto/cars/story/skoda-kylaq-price-announced-booking-and-delivery-details-revealed-brezza-nexon-to-feel-heat-2643518-2024-12-02",
+      "headline": "Skoda Kylaq price announced. Booking and delivery details revealedThe Skoda Kylaq will compete against rivals such as the Maruti Suzuki Brezza, Hyundai Venue, Tata Nexon, Kia Sonet, and Mahindra XUV 3X0."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/impact-feature/story/university-of-bath-school-of-management-a-leader-in-global-business-education-2643394-2024-12-02",
       "headline": "University of Bath School of Management: A Leader in Global Business EducationCombining top-ranked MSc programmes with practical knowledge for future corporate leaders.  "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/canada-news/story/canadian-court-grants-bail-to-khalistani-terrorist-arsh-dalla-india-push-extradition-2643381-2024-12-02",
+      "headline": "Wanted in India, Khalistani terrorist Arsh Dalla gets bail in CanadaKhalistani terrorist Arshdeep Singh Gill, also known as Arsh Dalla, was granted bail in Canada on a $30,000 surety bond. The leader of the Khalistani Tiger Force was arrested for his suspected involvement in an armed confrontation in late October."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/russia-president-vladimir-putin-may-visit-india-early-next-year-kremlin-aide-says-figuring-out-tentative-dates-2643523-2024-12-02",
+      "headline": "Putin may visit India early next year, Kremlin says figuring out dates: ReportKremlin aide Yury Ushakov said that Prime Minister Narendra Modi and Russian President Vladimir Putin have an agreement to hold meetings once a year and stressed it was Russia's turn this time."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/trending-news/story/russian-dog-waits-on-frozen-river-after-owners-death-reminds-internet-of-hachiko-2643501-2024-12-02",
+      "headline": "Russian dog waits on frozen river after owner's death, reminds Internet of HachikoA loyal Russian dog waited on a frozen river, a spot where its owner died, for four days. The story has reminded the Internet of Hachiko. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/health/story/antibiotic-breakthrough-from-india-could-counter-drug-resistant-bacteria-2643511-2024-12-02",
+      "headline": "Antibiotic breakthrough from India can counter drug-resistant bacteriaIndia has introduced its first indigenous antibiotic, Nafithromycin, targeting drug-resistant pneumonia. The drug is 10 times more efficacious and provides eight times higher lung exposure than azithromycin."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/bangladesh-white-paper-economy-names-india-money-siphoned-muhammad-yunus-sheikh-hasina-2643373-2024-12-02",
+      "headline": "Is part of $234-bn booty laundered during Hasina regime in India?A white paper on Bangladesh's economy, presented to Chief Adviser Muhammad Yunus, claimed $234 billion was illegally siphoned out of the country, some through and to India. The report, highlighting economic mismanagement during the Hasina regime, is being seen to be portraying the Yunus-led government as inheriting a struggling economy."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/speeding-car-rams-couple-walking-dog-in-maharashtras-vasai-dog-dies-2643514-2024-12-02",
+      "headline": "Caught on CCTV: Speeding car rams couple walking dog in Maharashtra, dog diesKartik Gor and Riddhi Pandya were walking their dog, Raja, when a speeding car hit them from behind. The couple sustained injuries and were hospitalised but their dog, who had survived the accident, died three days later."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/jet-fuel-commercial-lpg-price-increase-air-travel-flight-tickets-eating-dining-food-delivery-expensive-2643528-2024-12-02",
+      "headline": "Flight tickets and food deliveries to cost more this holiday season?Get ready for higher costs this holiday season as jet fuel and LPG prices rise, making air travel and dining out more expensive. Here's what you can expect in key cities across India."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/belgium-new-law-sex-workers-employment-benefits-maternity-pay-pensions-prostitution-2643434-2024-12-02",
+      "headline": "In world first, sex workers get maternity leave, sick days in BelgiumBelgian sex workers will now have the right to sick days, maternity leave and pension rights under a new law that came into effect on December 1. Lawmakers in Belgium had voted in May to give\u00a0sex workers the same employment benefits as other employees."
     },
     {
       "sentiment": "positive",
@@ -191,13 +231,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/wellness/story/can-you-lose-weight-without-working-out-2642365-2024-12-02",
-      "headline": "Can you lose weight without working out like Himanshi Khurana?Experts suggest that exercise is not essential for weight loss. \r\n"
+      "url": "https://www.indiatoday.in/movies/celebrities/photo/sobhita-dhulipala-stunning-red-saree-pelli-kuthuru-ceremony-naga-chaitanya-nagarjuna-2643517-2024-12-02",
+      "headline": "Pics: Sobhita Dhulipala looks stunning in red saree for Pelli Kuthuru ceremonyActor Sobhita Dhulipala shared pictures from her pre-wedding festivities on Instagram. The actor will marry Naga Chaitanya on December 4. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/belgium-new-law-sex-workers-employment-benefits-maternity-pay-pensions-prostitution-2643434-2024-12-02",
-      "headline": "In world first, sex workers get maternity leave, sick days in BelgiumBelgian sex workers will now have the right to sick days, maternity leave and pension rights under a new law that came into effect on December 1. Lawmakers in Belgium had voted in May to give\u00a0sex workers the same employment benefits as other employees."
+      "url": "https://www.indiatoday.in/science/story/sunita-williams-farming-lettuce-in-space-its-not-for-eating-2643408-2024-12-02",
+      "headline": "Sunita Williams farming lettuce in space. It's not for eatingThe Space Station commander is focusing on the growth of \"Outredgeous\" romaine lettuce in microgravity. "
     },
     {
       "sentiment": "positive",
@@ -205,49 +245,14 @@
       "headline": "Uttar Pradesh to get 'New Noida' by 2041Uttar Pradesh Approves Ambitious 'New Noida' Project with 4-Phase Development by 2041. New Noida will be designed to reflect the finest aspects of modern global cities, featuring eco-friendly buildings powered by solar energy and expansive green spaces."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/pm-modi-the-sabarmati-report-vikrant-massey-starrer-parliament-library-2643441-2024-12-02",
-      "headline": "PM to watch The Sabarmati Report in Parliament complex at 4 pmLast month, Prime Minister Narendra Modi praised The Sabarmati Report filmmakers for \"revealing the truth\" behind the 2002 Godhra train burning incident and said a \"fake narrative can only persist for a limited period of time\"."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/us-news/story/why-joe-biden-pardoned-son-hunter-biden-guncase-earlier-pledges-no-clemency-white-house-2643305-2024-12-02",
+      "headline": "Biden pardons Biden: Father's love trumps allIn his final days as President, Joe Biden issued a controversial pardon for his son Hunter Biden, overturning his earlier public promises never to grant him clemency. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/bengaluru-couple-brings-son-to-work-opens-up-about-balancing-newborn-and-startup-2643401-2024-12-02",
-      "headline": "Bengaluru couple brings son to work, opens up about balancing newborn and startupA Bengaluru-based couple shared their struggle to balance work and parenthood, describing it as one of their most challenging experiences, in a post on LinkedIn. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/who-is-awadh-ojha-upsc-teacher-joins-aap-in-presence-of-arvind-kejriwal-all-you-need-to-know-2643461-2024-12-02",
-      "headline": "UPSC coach Avadh Ojha joins AAP, commits to education reformUPSC history coach, Avadh Ojha, joined the Aam Aadmi Party (AAP) on Monday in the presence of party national convenor Arvind Kejriwal and Manish Sisodia. Ojha said that he aims to bring education reform by joining politics."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/isro-will-launch-proba-3-mission-on-wednesday-heres-what-it-will-do-in-space-2643426-2024-12-02",
-      "headline": "What will Proba-3 mission do in space after launch by Isro? Proba-3 is aimed at revolutionising our understanding of the Sun's corona through its innovative use of precision formation flying. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/navy-chief-admiral-dinesh-k-tripathi-chinese-navy-pla-pakistan-indian-ocean-2643435-2024-12-02",
-      "headline": "Pak Navy surprisingly growing with China's support, claims Indian\u00a0Navy\u00a0ChiefNavy Chief Admiral Dinesh K Tripathi said that the Indian Navy is adapting its strategies to effectively address all potential threats from neighbouring countries."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/auto/cars/story/skoda-kylaq-bookings-open-today-price-starts-at-rs-789-lakh-nexon-venue-sonet-in-trouble-2643377-2024-12-02",
-      "headline": "Skoda Kylaq bookings open today, price starts at Rs 7.89 lakh. Nexon, Venue, Sonet in trouble?Built on the India-specific MQB-A0-IN platform, the Kylaq is Skoda's third locally developed model, following the Kushaq and Slavia.\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/uber-shikara-india-first-water-transport-service-dal-lake-srinagar-tourism-2643396-2024-12-02",
-      "headline": "Now you can take a shikara ride on Dal Lake with a tap on Uber appUber Shikara is the ride-hailing app's first water transport service in India and introduces features such as pre-booking and trip insurance for shikara rides."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/story/rbi-mpc-interest-rate-cut-3-things-to-know-2643464-2024-12-02",
-      "headline": "Will RBI cut key interest rates on December 6? 3 things to knowExperts suggest that while a rate cut in December seems unlikely, a reduction in the Cash Reserve Ratio (CRR) could be on the cards to support liquidity in the system.\u00a0"
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/story/stock-market-investors-q2-gdp-slowdown-economy-impact-on-dalal-street-2643420-2024-12-02",
-      "headline": "Q2 GDP slowdown: What it means for stock market investorsThe GDP growth in the second quarter of FY25 fell sharply to 5.4%, the lowest in seven quarters. Will this lead to further turbulence on Dalal Street? "
+      "url": "https://www.indiatoday.in/television/web-series/story/bandish-bandits-2-trailer-its-ritwik-bhowmik-vs-shreya-chaudhary-in-a-musical-showdown-2643489-2024-12-02",
+      "headline": "Bandish Bandits 2 trailer: It's Ritwik vs Shreya in a musical showdownPrime Video's show Bandish Bandits returns with its second season, promising a blend of love and ambition. The trailer hints at a musical journey intertwined with personal conflicts and societal themes."
     },
     {
       "sentiment": "positive",
@@ -263,14 +268,14 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/prakash-jha-update-on-sequel-raajneeti-gangaajal-2643513-2024-12-02",
       "headline": "Prakash Jha shares update on sequel of Raajneeti, Gangaajal: Work in progressPrakash Jha returns to acting with Amar Aaj Marega, which premiered at IFFI, Goa. In an exclusive chat he discussed his journey and shared updates on the sequels to Raajneeti and Gangaajal."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/story/payal-kapadia-reacts-to-jurors-claiming-all-we-imagine-as-light-was-not-indian-enough-2643500-2024-12-02",
-      "headline": "Payal Kapadia reacts to jurors claiming All We Imagine... 'wasn't Indian enough'Director Payal Kapadia recently spoke about why she thought her film, All We Imagine As Light, was not selected for the Oscars. She said the jurors claimed the film 'was not Indian enough.'"
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/story/cricket-shoaib-akhtar-india-vs-pakistan-pcb-bcci-icc-champions-trophy-2025-2643522-2024-12-02",
+      "headline": "Akhtar comes up with 'best revenge' for Pakistan vs India amid hosting issuesFormer Pakistan fast bowler Shoaib Akhtar has suggested best revenge for Pakistan against India amid ongoing Champions Trophy 2025 hosting controversy."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-aus-marnus-labuschagne-intent-batting-practice-2643507-2024-12-02",
@@ -323,8 +328,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/cricket-pat-cummins-and-co-reveal-challenges-of-facing-pink-ball-before-adelaide-test-2643413-2024-12-02",
-      "headline": "Pat Cummins and Co. reveal challenges of facing pink ball before Adelaide TestPat Cummins and Co. revealed the challenges of facing the pink ball. Australia will host India in the 2nd Test at Adelaide Oval on December 6. "
+      "url": "https://www.indiatoday.in/sports/story/cricket-rishabh-pant-to-open-for-lsg-sanjeev-goenka-hints-at-batting-position-in-ipl-2643477-2024-12-02",
+      "headline": "Rishabh Pant to open for LSG? \u00a0Sanjeev Goenka hints at batting position in IPLSanjeev Goenka hinted at Rishabh Pant's possible batting position in IPL 2025 for Lucknow Super Giants. Pant was bought for Rs 27 crore in IPL 2025 mega auction. "
     },
     {
       "sentiment": "positive",
@@ -388,8 +393,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/u-19-asia-cup-to-t10-league-mis-recruit-ghazanfar-plays-4-matches-in-3-days-2643324-2024-12-02",
-      "headline": "U-19 Asia Cup to T10 League: MI's recruit Ghazanfar plays 4 matches in 3 daysAllah Ghazanfar turned heads by bagging a Rs 4.80 crore deal with MI in the IPL auction. He recently came into the limelight for participating in 4 matches in a span of 3 days. "
+      "url": "https://www.indiatoday.in/sports/story/dropping-hazlewood-an-indication-of-rift-in-australian-camp-travis-head-reacts-2643365-2024-12-02",
+      "headline": "Dropping Hazlewood an indication of rift in Australian camp? Travis Head reactsAUS vs IND: Travis Head reacted to the possible rift in the Australian camp after Josh Hazlewood was ruled out from the 2nd Test in Adelaide. "
     },
     {
       "sentiment": "negative",
@@ -425,11 +430,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/story/premier-league-manchester-city-vs-liverpool-highlights-man-united-vs-everton-amorim-2643290-2024-12-02",
       "headline": "PL wrap: Man City's misery continues vs Liverpool, United shine under AmorimPremier League wrap: Pep Guardiola's misery deepened after Manchester City lost 0-2 to Liverpool on Sunday, December 1. On the other hand, Manchester United under new coach Ruben Amorim lifted their moods with a 4-0 win over Everton.\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/cricket-bgt-ind-vs-aus-mohammed-siraj-form-bharat-arun-jasprit-bumrah-morne-morkel-2643287-2024-12-02",
-      "headline": "Mohammed Siraj credits Bharat Arun, Morne Morkel for form-revivalIndia pacer Mohammed Siraj said that he was enjoying his bowling once again. Siraj said that before the Border-Gavaskar Trophy, he spoke to Bharat Arun and Morne Morkel which helped him return to his best form.\r\n"
     }
   ],
   "education": [
