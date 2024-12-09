@@ -1,6 +1,16 @@
 {
   "business": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/story/hdfc-bank-hikes-mclr-for-short-term-loans-what-borrowers-need-to-know-2647075-2024-12-09",
+      "headline": "HDFC Bank hikes MCLR for short-term loans. What borrowers need to knowHDFC Bank raises MCLR for short-term loans by 5 bps, affecting borrowing costs and EMIs, while long-term rates remain unchanged."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/market-closing-bell-sensex-nifty-end-lower-as-fmcg-stocks-witness-decline-godrej-consumer-shares-down-9-percent-2647104-2024-12-09",
+      "headline": "Sensex, Nifty end lower as FMCG stocks witness decline; Godrej Consumer down 9%The S&P BSE Sensex lost 200.66 points to close at\u00a081,508.46, while the NSE Nifty50 was down 58.80 points to end at\u00a024,619.00.\u00a0"
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/adani-group-announces-rs-75-lakh-crore-plan-to-boost-rajasthan-economy-karan-adani-2647053-2024-12-09",
       "headline": "Adani Group unveils Rs 7.5 lakh crore investment plan for RajasthanKaran Adani, Managing Director of Adani Ports & Special Economic Zone, made the announcement while addressing the Rising Rajasthan Global Investment Summit held in Jaipur. "
@@ -89,16 +99,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/pm-modi-inaugurate-rising-rajasthan-global-investment-summit-jaipur-2646741-2024-12-08",
       "headline": "PM Modi to inaugurate 'Rising Rajasthan Global Investment Summit' tomorrowAiming to bolster investment opportunities in Rajasthan, Prime Minister Narendra Modi to unveil the Rising Rajasthan Global Investment Summit in Jaipur on Monday, December 9. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/unacademy-ceo-gaurav-munjal-denies-reports-of-sale-deal-with-allen-career-institute-2646516-2024-12-07",
-      "headline": "Not doing any sale: Unacademy CEO Gaurav Munjal denies reports of takeover dealReports earlier suggested that Allen Career Institute was in talks to acquire Unacademy for $800 million, significantly lower than its peak valuation of $3.4 billion."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/video/india-can-become-the-ai-capital-of-the-world-metas-sandhya-devanathan-2646252-2024-12-07",
-      "headline": "India can become the AI capital of the world: Meta's Sandhya DevanathanSandhya Devanathan, Vice President and Head of India at Meta, discusses the company's AI initiatives, including Meta AI and Llama models. "
     }
   ],
   "entertainment": [
@@ -131,13 +131,13 @@
   "general news": [
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/kiren-rijiju-sonia-gandhi-rahul-gandhi-george-soros-foundation-congress-bjp-2647005-2024-12-09",
-      "headline": "Unite against anti-India forces: Kiren Rijiju on 'Sonia Gandhi-George Soros link'Union Minister Kiren Rijiju urged unity against forces working against India, referring to the BJP's allegations linking Sonia Gandhi to the George Soros Foundation, which allegedly has taken anti-India stances."
+      "url": "https://www.indiatoday.in/india/story/opposition-to-move-no-confidence-motion-against-rajya-sabha-chairman-jagdeep-dhankhar-2647127-2024-12-09",
+      "headline": "INDIA bloc to move no-confidence motion against Jagdeep Dhankhar in Rajya SabhaINDIA bloc MPs have frequently accused the Rajya Sabha Chairman of being biased towards the ruling members in the Upper House."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/assembly/story/aap-announces-2nd-candidates-list-for-assembly-polls-manish-sisodia-jangpura-avadh-ojha-patparganj-2647016-2024-12-09",
-      "headline": "AAP's 2nd list out, Manish Sisodia moved to Jangpura, Avadh Ojha gets PatparganjManish Sisodia has represented the Patparganj seat, which is part of the East Delhi Lok Sabha constituency, since 2013. He was first elected to the seat in the December 2013 Delhi Assembly election, when he defeated his BJP rival Nakul Bhardwaj."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/indian-foreign-secretary-vikram-misri-bangladesh-foreign-adviser-touhid-hossain-attack-on-minorities-2647109-2024-12-09",
+      "headline": "Foreign Secretary meets Bangladesh counterpart, flags attacks on minoritiesThe Foreign Secretary's visit takes place against the backdrop of unrest in Bangladesh, including the arrest of Hindu monk Chinmoy Krishna Das. "
     },
     {
       "sentiment": "positive",
@@ -146,8 +146,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/watch-uber-cool-gukesh-sacrifices-queen-in-master-stroke-at-world-chess-championship-2646924-2024-12-09",
-      "headline": "Watch: Uber cool Gukesh sacrifices Queen in master stroke at Chess ChampionshipGukesh's brilliant novelty in Game 11 forced Ding Liren into a shocking blunder, turning a likely draw into a decisive win. The Indian prodigy now stands on the brink of becoming the youngest World Chess Champion."
+      "url": "https://www.indiatoday.in/elections/assembly/story/aap-announces-2nd-candidates-list-for-assembly-polls-manish-sisodia-jangpura-avadh-ojha-patparganj-2647016-2024-12-09",
+      "headline": "AAP's 2nd list out, Manish Sisodia moved to Jangpura, Avadh Ojha gets PatparganjManish Sisodia has represented the Patparganj seat, which is part of the East Delhi Lok Sabha constituency, since 2013. He was first elected to the seat in the December 2013 Delhi Assembly election, when he defeated his BJP rival Nakul Bhardwaj."
     },
     {
       "sentiment": "positive",
@@ -156,18 +156,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/james-webb-telescope-discovers-frozen-water-outside-solar-system-2647097-2024-12-09",
-      "headline": "James Webb Telescope discovers frozen water outside Solar SystemThe research team detected a key signature of water ice at a wavelength of 3 microns, a telltale sign of frozen water coating dust grains within the disk. "
+      "url": "https://www.indiatoday.in/india/law-news/story/allahabad-high-court-justice-shekhar-kumar-yadav-hindustan-country-will-run-as-per-majority-wishes-2646935-2024-12-09",
+      "headline": "This is Hindustan, country will run as per majority's wishes: High Court judgeJustice Shekhar Kumar Yadav, a sitting judge of the Allahabad High Court, made the\u00a0controversial remarks while speaking on the Uniform Civil Code (UCC) at a Vishwa Hindu Parishad (VHP) event in Pragyagraj.\u00a0"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/cricket-aus-vs-ind-mohammed-siraj-kris-srikkanth-travis-head-send-off-pink-ball-test-adelaide-2647052-2024-12-09",
-      "headline": "Hey Siraj, have you gone mad? Srikkanth blasts pacer for Travis Head send-offAustralia vs India: Former India captain Kris Srikkanth, in a strongly-worded comment, lashed out at Mohammed Siraj for giving an aggressive send-off to Travis Head. Head and Siraj are likely to be fined and reprimanded for the on-field bust-up in Adelaide. "
+      "url": "https://www.indiatoday.in/india/story/kiren-rijiju-sonia-gandhi-rahul-gandhi-george-soros-foundation-congress-bjp-2647005-2024-12-09",
+      "headline": "Unite against anti-India forces: Kiren Rijiju on 'Sonia Gandhi-George Soros link'Union Minister Kiren Rijiju urged unity against forces working against India, referring to the BJP's allegations linking Sonia Gandhi to the George Soros Foundation, which allegedly has taken anti-India stances."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/russia-deploys-hypersonic-oreshnik-missile-for-first-time-key-capabilities-2647068-2024-12-09",
-      "headline": "Russia deploys hypersonic Oreshnik missile for first time: Its key capabilitiesRussia's use of its new hypersonic Oreshnik missile in Ukraine marks a significant escalation, with President Putin warning NATO of potential strikes if Western nations continue supporting Kyiv."
+      "url": "https://www.indiatoday.in/sports/other-sports/story/watch-uber-cool-gukesh-sacrifices-queen-in-master-stroke-at-world-chess-championship-2646924-2024-12-09",
+      "headline": "Watch: Uber cool Gukesh sacrifices Queen in master stroke at Chess ChampionshipGukesh's brilliant novelty in Game 11 forced Ding Liren into a shocking blunder, turning a likely draw into a decisive win. The Indian prodigy now stands on the brink of becoming the youngest World Chess Champion."
     },
     {
       "sentiment": "positive",
@@ -181,6 +181,26 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/james-webb-telescope-discovers-frozen-water-outside-solar-system-2647097-2024-12-09",
+      "headline": "James Webb Telescope discovers frozen water outside Solar SystemThe research team detected a key signature of water ice at a wavelength of 3 microns, a telltale sign of frozen water coating dust grains within the disk. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/story/cricket-aus-vs-ind-mohammed-siraj-kris-srikkanth-travis-head-send-off-pink-ball-test-adelaide-2647052-2024-12-09",
+      "headline": "Hey Siraj, have you gone mad? Srikkanth blasts pacer for Travis Head send-offAustralia vs India: Former India captain Kris Srikkanth, in a strongly-worded comment, lashed out at Mohammed Siraj for giving an aggressive send-off to Travis Head. Head and Siraj are likely to be fined and reprimanded for the on-field bust-up in Adelaide. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/fahadh-faasil-pushpa-2-allu-arjun-dissapoitnment-sukumar-rashmika-mandanna-box-office-2647021-2024-12-09",
+      "headline": "How Fahadh Faasil's character in Pushpa 2 was a big let downFahadh Faasil's portrayal of antagonist Bhanwar Singh Shekhawat in Pushpa 2 has sparked mixed reactions. While the Allu Arjun-starrer dominates the box office with massive success, there's a strong sense of disappointment over the treatment of Fahadh's character in the film."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/russia-deploys-hypersonic-oreshnik-missile-for-first-time-key-capabilities-2647068-2024-12-09",
+      "headline": "Russia deploys hypersonic Oreshnik missile for first time: Its key capabilitiesRussia's use of its new hypersonic Oreshnik missile in Ukraine marks a significant escalation, with President Putin warning NATO of potential strikes if Western nations continue supporting Kyiv."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/parliament-winter-session-opposition-mps-pose-pm-gautam-adani-with-masks-rahul-gandhi-asks-questions-2646955-2024-12-09",
       "headline": "Describe your relationship: Rahul Gandhi to Congress MPs wearing PM-Adani masksSince the Winter Session began on November 20, the two Houses have witnessed constant washouts over the Opposition continuing to attack the Central government for avoiding a discussion on the Adani bribery case."
     },
@@ -191,8 +211,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/fahadh-faasil-pushpa-2-allu-arjun-dissapoitnment-sukumar-rashmika-mandanna-box-office-2647021-2024-12-09",
-      "headline": "How Fahadh Faasil's character in Pushpa 2 was a big let downFahadh Faasil's portrayal of antagonist Bhanwar Singh Shekhawat in Pushpa 2 has sparked mixed reactions. While the Allu Arjun-starrer dominates the box office with massive success, there's a strong sense of disappointment over the treatment of Fahadh's character in the film."
+      "url": "https://www.indiatoday.in/trending-news/story/balenciaga-launches-zero-shoes-that-barely-cover-feet-internet-reacts-2646967-2024-12-09",
+      "headline": "Balenciaga launches Zero shoes that barely cover feet. Don't miss the commentsA picture of Balenciaga's 'Zero' shoes went viral on social media after it was posted on Instagram by Adrian Marc Perrot Garin who works as a Sneakers Designer with the brand. "
     },
     {
       "sentiment": "positive",
@@ -211,8 +231,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/balenciaga-launches-zero-shoes-that-barely-cover-feet-internet-reacts-2646967-2024-12-09",
-      "headline": "Balenciaga launches Zero shoes that barely cover feet. Don't miss the commentsA picture of Balenciaga's 'Zero' shoes went viral on social media after it was posted on Instagram by Adrian Marc Perrot Garin who works as a Sneakers Designer with the brand. "
+      "url": "https://www.indiatoday.in/science/story/meet-raven-this-bird-inspired-drone-can-walk-hop-and-jump-for-take-off-2647031-2024-12-09",
+      "headline": "This bird-inspired drone can walk, hop and jump for take-offThe drone weighs just 0.62 kg and features custom avian-inspired legs that mimic the proportions and mechanics of bird limbs. "
     },
     {
       "sentiment": "positive",
@@ -231,46 +251,31 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/meet-raven-this-bird-inspired-drone-can-walk-hop-and-jump-for-take-off-2647031-2024-12-09",
-      "headline": "This bird-inspired drone can walk, hop and jump for take-offThe drone weighs just 0.62 kg and features custom avian-inspired legs that mimic the proportions and mechanics of bird limbs. "
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/sai-abhyankkar-music-composer-for-suriya-rj-balaji-ar-rahman-replaces-2647133-2024-12-09",
+      "headline": "Aasai Koodai composer Sai Abhyankkar to score music for Suriya-RJ Balaji filmKatchi Sera and Aasai Kooda composer Sai Abhyankkar has been roped in to score music for RJ Balaji's film with actor Suriya. Earlier, AR Rahman was roped in as the composer."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/spicejet-delhi-shillong-flights-kochi-bound-flight-diverted-over-technical-glitches-mid-air-one-was-hit-by-bird-2647009-2024-12-09",
-      "headline": "2 SpiceJet flights diverted over technical glitches mid-air, one was hit by birdTwo SpiceJet flights were diverted on Monday due to mid-air technical issues. A Delhi-Shillong flight landed safely in Patna after being hit by  a bird, while a Kochi-bound flight made an emergency landing in Chennai."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/us-news/story/why-kash-patel-making-joe-biden-camp-preemptive-pardons-for-aides-democrats-hunter-biden-2646994-2024-12-09",
-      "headline": "Will fear of Trump, Kash Patel drive Biden to issue multiple preemptive pardonsWhite House officials are weighing the extraordinary option of issuing preemptive pardons to Joe Biden aides before Donald Trump starts his second term. Their fears have been accentuated by the pick of Kash Patel as\u00a0the\u00a0FBI\u00a0head."
+      "url": "https://www.indiatoday.in/movies/celebrities/story/parineeti-chopra-raghav-chadha-criticism-lavish-wedding-cost-2647122-2024-12-09",
+      "headline": "Parineeti Chopra on criticism over lavish wedding: If I married an actor, people\u2026Parineeti Chopra and Raghav Chadha dismissed rumours about their wedding expenses, attributing criticism to public perception and double standards. Parineeti called out the scrutiny of her finances post-marriage."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/uk-author-who-sold-2-books-becomes-bestseller-after-x-post-goes-viral-2647032-2024-12-09",
-      "headline": "UK author who sold 2 books becomes bestseller after X post goes viral Vicky Ball, who works at the University of Essex, had shared a proud moment on X after selling two books at an event in Chelmsford."
+      "url": "https://www.indiatoday.in/movies/celebrities/story/when-abhishek-bachchan-got-angry-after-comedian-joked-about-amitabh-bachchan-2647098-2024-12-09",
+      "headline": "When Abhishek Bachchan walked out of a show after comedian's remark on Big BActor Abhishek Bachchan walked out of Riteish Deshmukh's show following a comedian's remark about his father, Amitabh Bachchan. The incident occurred during the recording of Case Toh Banta Hai, which also featured Varun Sharma and Kusha Kapila."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/video/deepika-padukone-returns-mumbai-daughter-dua-ranveer-singh-2647090-2024-12-09",
-      "headline": "Video: Deepika Padukone returns to Mumbai with daughter DuaDeepika Padukone was clicked at the private airport as she returned to Mumbai with her daughter, Dua. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/television/celebrity/story/sridevi-is-a-textbook-for-actors-maeri-actor-sai-deodhar-2647079-2024-12-09",
-      "headline": "Sridevi is a textbook for actors: Maeri actor Sai DeodharSai Deodhar's new ZEE5 series Maeri sees her as a mother seeking revenge for her daughter, drawing inspiration from Sridevi's Mom. The actor discusses her role, women's safety on sets, and the demand for strict action against sexual crimes."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/fahadh-faasil-pushpa-2-allu-arjun-dissapoitnment-sukumar-rashmika-mandanna-box-office-2647021-2024-12-09",
-      "headline": "How Fahadh Faasil's character in Pushpa 2 was a big let downFahadh Faasil's portrayal of antagonist Bhanwar Singh Shekhawat in Pushpa 2 has sparked mixed reactions. While the Allu Arjun-starrer dominates the box office with massive success, there's a strong sense of disappointment over the treatment of Fahadh's character in the film."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/photo/deepika-padukone-and-baby-dua-return-to-mumbai-clicked-at-airport-2647063-2024-12-09",
-      "headline": "Deepika Padukone and baby Dua return to Mumbai, clicked at airportActor Deepika Padukone returned to Mumbai on Monday. She was clicked at the Kalina airport with her newborn daughter, Dua Padukone Singh. "
+      "url": "https://www.indiatoday.in/movies/celebrities/story/anurag-kashyap-aaliyah-kashyap-shane-gregoire-mehndi-shout-out-to-their-pets-2647111-2024-12-09",
+      "headline": "Pics: Aaliyah Kashyap-Shane Gregoire's mehndiAnurag Kashyap's daughter Aaliyah is set to marry long-time partner, Shane Gregoire. Ahead of the wedding, their pictures from the mehndi ceremony have emerged online. "
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-david-wanrner-not-impressed-marnus-labuschagne-adelaide-test-2647110-2024-12-09",
+      "headline": "AUS vs IND: Warner \"not convinced\" with Labuschagne despite Adelaide 64David Warner critiqued Marnus Labuschagne's inconsistent performances in the Border-Gavaskar Trophy, despite his half-century in Adelaide. The former opener praised Steve Smith and Usman Khawaja's resilience, setting high expectations for Labuschagne ahead of the crucial Gabba Test."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/story/cricket-sa-vs-sl-2nd-test-series-win-wtc-final-temba-bavuma-keshav-maharaj-2647092-2024-12-09",
@@ -318,8 +323,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/dr-venkatesh-iyer-kkr-star-pursues-phd-in-finance-after-completing-mba-2646998-2024-12-09",
-      "headline": "Dr. Venkatesh Iyer? KKR star pursues PhD in finance after completing MBAVenkatesh Iyer revealed that he has been pursuing a PhD in finance after completing his MBA. Venkatesh was sold to KKR for Rs 23.75 crore in the IPL 2025 mega auction."
+      "url": "https://www.indiatoday.in/sports/story/bhuvneshwar-kumars-good-times-catch-up-with-rcb-team-management-in-bengaluru-2647041-2024-12-09",
+      "headline": "Bhuvneshwar Kumar's 'good times' catch-up with RCB team management in BengaluruBhuvneshwar Kumar met with the RCB team management, including Director of Cricket Mo Bobat. The pacer was bought by RCB for a whopping price of Rs 10.75 crore in IPL auction. "
     },
     {
       "sentiment": "positive",
@@ -378,8 +383,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/ind-vs-aus-test-series-bgt-rohit-sharma-do-not-need-to-panic-adelaide-loss-2646885-2024-12-09",
-      "headline": "It's a marathon, not a sprint: India don't need to panic after 2nd Test lossThe Indian team may have faced a big loss in the pink-ball Test but there is still a lot left in the Border-Gavaskar Trophy to play for. With history backing them, India needs a couple of changes to make before the next match in Brisbane. \r\n"
+      "url": "https://www.indiatoday.in/sports/other-sports/story/watch-uber-cool-gukesh-sacrifices-queen-in-master-stroke-at-world-chess-championship-2646924-2024-12-09",
+      "headline": "Watch: Uber cool Gukesh sacrifices Queen in master stroke at Chess ChampionshipGukesh's brilliant novelty in Game 11 forced Ding Liren into a shocking blunder, turning a likely draw into a decisive win. The Indian prodigy now stands on the brink of becoming the youngest World Chess Champion."
     },
     {
       "sentiment": "positive",
@@ -415,11 +420,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/story/chelsea-vs-tottenham-hotspur-palmer-premier-league-penalty-record-2646853-2024-12-09",
       "headline": "Palmer breaks Premier League record in Chelsea's 4-3 win over SpursCole Palmer scored twice from the penalty spot as Chelsea staged a dramatic comeback, recovering from 2-0 down to defeat Tottenham Hotspur 4-3 in a thrilling London derby. Palmer has now scored the most penalties without missing in Premier League history.\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/mikel-arteta-delivers-arsenal-injury-update-after-draw-vs-fulham-2646839-2024-12-08",
-      "headline": "Mikel Arteta delivers fresh Arsenal injury update after draw at FulhamWith the Monaco game fast approaching, Mikel Arteta will be hoping his defensive options are bolstered by the potential returns of Gabriel, Zinchenko, and Calafiori, allowing Arsenal to maintain their strong form in both domestic and European competitions."
     }
   ],
   "education": [
