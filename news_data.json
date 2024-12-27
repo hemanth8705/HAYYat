@@ -1,6 +1,26 @@
 {
   "business": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/story/osamu-suzuki-former-suzuki-motor-corporation-chairman-dies-at-94-2656153-2024-12-27",
+      "headline": "Osamu Suzuki, former Suzuki Motor Corporation chairman, dies at 94Osamu Suzuki steered Suzuki Motor's rise, from pioneering Maruti 800 in India to building a global automotive legacy."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/how-stock-market-benefitted-under-manmohan-singh-death-news-sensex-nifty-1991-2656149-2024-12-27",
+      "headline": "How Indian stock market benefitted under Manmohan SinghManmohan Singh's policies, introduced during a time of economic crisis in the early 1990s, reshaped India's economy and transformed the Indian stock markets."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/15-income-tax-changes-in-2024-what-you-need-to-know-for-filing-itr-in-2025-income-tax-rules-stmp-2656139-2024-12-27",
+      "headline": "10 income tax changes in 2024: What you need to know for filing ITR in 2025The 2024 income tax reforms introduce revised tax slabs, higher deductions, and simplified TDS and capital gains rules, making tax filing easier and offering potential savings. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/bumper-market-debut-for-mamata-machinery-should-you-book-profit-or-wait-2656140-2024-12-27",
+      "headline": "Bumper stock market debut for Mamata Machinery: Should you book profit or wait? Mamata Machinery stock market listing: A 147% premium debut for Mamata Machinery leaves investors wondering: Is this the peak, or should they hold on?"
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/dam-capital-advisors-ipo-stock-market-listing-long-term-bet-or-not-expert-views-2656116-2024-12-27",
       "headline": "DAM Capital Advisors makes strong market debut: Is it a long-term bet?DAM Capital Advisors market listing: The listing matched market predictions, as analysts and the grey market premium (GMP) had anticipated a 40%-50% premium, driven by robust demand and positive sentiment."
@@ -79,26 +99,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/newgen-software-share-price-surges-8-percent-why-multibagger-it-stock-gained-today-2655636-2024-12-26",
       "headline": "Newgen Software share price surges 8%. Why multibagger IT stock gained today?Newgen Software stock price: The stock surged 7.67% to touch a day's high of Rs 1,725.15 on the Bombay Stock Exchange, up from its previous close of Rs 1,602.20. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/epfo-extends-deadline-for-uan-and-aadhaar-linking-under-the-employment-linked-incentive-eli-scheme-all-you-need-to-know-2655614-2024-12-26",
-      "headline": "EPFO extends deadline for UAN and Aadhaar linking: All you need to knowThe EPFO's deadline extension to January 15, 2025, allows employees extra time to activate UAN and link Aadhaar."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/fd-rates-soar-earn-up-to-74-percent-with-dcb-indusind-yes-bank-of-baroda-axis-bank-karur-vysya-bank-hdfc-bank-and-icici-bank-2655583-2024-12-26",
-      "headline": "FD rates soar: Earn up to 7.4% with DCB, IndusInd, YES, Axis and other top banksWith appealing FD rates of up to 7.4%, investors can enjoy guaranteed returns and financial security, making FDs a preferred option for low-risk investment."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/mobikwik-share-price-surges-15-hits-record-high-whats-should-investors-do-2655585-2024-12-26",
-      "headline": "Mobikwik share price surges 15%, hits record high: Shoud investors book profit? At around 1:38 pm, shares of the company were trading 11% higher at Rs 675.90.\u00a0The stock has delivered stellar returns, surging over 150% from its issue price of Rs 279, marking it as a multibagger for investors."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/story/sips-analysis-34-mutual-funds-lost-money-in-2024-quant-psu-fund-aditya-birla-sl-psu-equity-fund-2655577-2024-12-26",
-      "headline": "SIPs in red: Mutual funds that lost money for investors in 2024SIPs (systematic investment plans) have been the go-to strategy for people looking to dodge market volatility while building a financial cushion, but over 34 mutual funds lost money for investors in 2024. "
     }
   ],
   "entertainment": [
@@ -131,13 +131,8 @@
   "general news": [
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/photo/manmohan-singh-life-in-pictures-former-pm-death-congress-sonia-gandhi-obama-george-bush-2655941-2024-12-26?utm_source=Photo_hp&utm_medium=Photo&utm_campaign=home_Photo",
-      "headline": "Quiet leader: Manmohan Singh's life in picturesFormer PM Manmohan Singh died at the age of 92 after battling age-related health issues. Here are some pictures that capture his life as a politician and a two-time Prime Minister. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/manmohan-singh-death-seven-day-national-mourning-former-prime-minister-conrgess-2655939-2024-12-26?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "7-day state mourning declared in tribute to Manmohan\u00a0SinghManmohan Singh death: Former Prime Minister Manmohan Singh, the architect of India's economic liberalisation, died on Thursday at 92 in Delhi after a prolonged illness. "
+      "url": "https://www.indiatoday.in/india/story/manmohan-singh-finance-minister-economic-reforms-1991-budget-liberalisation-2656117-2024-12-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "How Manmohan Singh pulled India from brink of economic death | From the archivesThrough path-breaking reforms in the 1991 Budget, focused on liberalisation and privatisation, Manmohan Singh opened up India's economy. Here is what India Today reported on his economic reforms."
     },
     {
       "sentiment": "negative",
@@ -145,29 +140,14 @@
       "headline": "Annamalai flogs himself as pledged, says he chose to surrender to 'higher power'K Annamalai, as promised, flogged himself six times outside his residence in Coimbatore in the presence of mediapersons and BJP supporters. He said he chose to perform this \"tough ritual\" to protest against the \"continued injustice\" in the state."
     },
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-aus-4th-test-virat-kohli-angry-booing-mcg-fans-video-altercation-2656154-2024-12-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Angry Virat Kohli confronts booing MCG fans, calmed by security officerIND vs AUS: Angry Virat Kohli nearly confronted booing fans on Day 2 of the Melbourne Test match. The incident occurred when Kohli was walking back to the pavilion after getting out."
+    },
+    {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/story/cricket-aus-vs-ind-day-2-score-melbourne-virat-kohli-yashsavi-jaiswal-late-collapse-rohit-2656124-2024-12-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "4th Test: Late Yashasvi, Virat Kohli blows sink India after horror bowling show at MCGAustralia vs India, 4th Test: India conceded control after a late collapse, triggered by Yashasvi Jaiswal's run-out in the last hour of play on Friday. After having been horrible with the ball, India lost momentum with the bat to fall behind in Melbourne. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/auto/cars/story/this-was-2024s-most-spectacular-car-launch-not-dzire-swift-curvv-alcazar-thar-roxx-2656108-2024-12-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "This was 2024's most spectacular car launch. Not Dzire, Swift, Curvv, Alcazar, Thar RoxxThis SUV has naturally aspirated petrol, turbo petrol and diesel engine options with manual and automatic transmission choices."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/manmohan-singh-death-3-key-economic-reforms-liberalisation-licence-raj-mnrega-shaped-modern-india-2656013-2024-12-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Manmohan Singh's key reforms that shaped Indian economyDr Manmohan Singh's tenure as Finance Minister in the early 1990s and later as Prime Minister from 2004 to 2014 introduced policies that continue to influence India's growth. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/when-manmohan-singhs-poetic-banter-with-sushma-swaraj-echoed-in-lok-sabha-video-surfaces-2656122-2024-12-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "When Manmohan Singh's poetic face-off with Sushma Swaraj echoed in Lok SabhaDr Manmohan Singh, often celebrated as the architect of India's economic liberalisation, was equally adept at deploying the power of poetry. His penchant for 'shayari' was not just a personal interest but a political tool he wielded with finesse, often disarming critics and rivals in Parliament."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/cricket-aus-vs-ind-ravi-shastri-virat-kohli-clown-aussie-newspaper-sam-konstas-2656002-2024-12-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Virat Kohli depicted as clown in Australian newspaper, Ravi Shastri reactsAustralia vs India, 4th Test: Ravi Shastri said he was not surprised by the over-the-top reaction of the Australian media to Virat Kohli's on-field bust-up with Sam Konstas in Melbourne. On Friday, a newspaper depicted Kohli as a clown."
+      "url": "https://www.indiatoday.in/india/story/abdul-rehman-makki-deputy-chief-of-lashkar-e-taiba-2611-mumbai-attack-plotter-dies-in-pakistan-2656134-2024-12-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Mumbai terror attack plotter Abdul Rehman Makki dies in PakistanAbdul Rehman Makki had been ill for the past few days and was undergoing treatment for high sugar levels at a private hospital in Lahore. He died on Friday after suffering a heart attack."
     },
     {
       "sentiment": "positive",
@@ -175,9 +155,34 @@
       "headline": "Tollywood gets the message that Telangana government is the real 'fire'What is clear is that the message about who is the real boss, the real 'fire', has been conveyed loud and clear to the industry.  "
     },
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/manmohan-singh-jnu-students-protest-intervened-leniency-shield-voltaire-2656135-2024-12-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "'Please be lenient': When Manmohan Singh shielded protesting JNU studentsA retired JNU professor described then Prime Minister Manmohan Singh's intervention as \"a reflection of his understanding of the importance of dissent in a democratic society.\""
+    },
+    {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/vir-das-urges-to-read-former-pm-manmohan-singhs-resume-awe-inspiring-stuff-2656051-2024-12-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Vir Das urges reading former PM Manmohan Singh's resume: Awe-inspiring stuffFormer Prime Minister Manmohan Singh died on Thursday at the age of 92. In response to the tragic news, actor and comedian Vir Das shared a post on X, urging people to Google and read the late politician's resume."
+      "url": "https://www.indiatoday.in/business/story/osamu-suzuki-former-suzuki-motor-corporation-chairman-dies-at-94-2656153-2024-12-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Osamu Suzuki, former Suzuki Motor Corporation chairman, dies at 94Osamu Suzuki steered Suzuki Motor's rise, from pioneering Maruti 800 in India to building a global automotive legacy."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/story/cricket-aus-vs-ind-day-2-score-melbourne-virat-kohli-yashsavi-jaiswal-late-collapse-rohit-2656124-2024-12-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "4th Test: Late Yashasvi, Virat Kohli blows sink India after horror bowling show at MCGAustralia vs India, 4th Test: India conceded control after a late collapse, triggered by Yashasvi Jaiswal's run-out in the last hour of play on Friday. After having been horrible with the ball, India lost momentum with the bat to fall behind in Melbourne. "
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/television/international-shows/story/gong-yoo-gobling-heartthrob-to-horror-icon-in-squid-game-2-a-role-worth-slapping-for-kfix-2656146-2024-12-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Gong Yoo in Squid Game 2: A former Goblin who slaps and servesGong Yoo returns in Squid Game 2 as The Recruiter, a role that delves deep into his character's psyche, highlighting human greed and desperation. The season opener 'Bread and Lottery' unpacks his chilling past and strategic role in the deadly games, setting a gripping tone for the series.  In this week's K-Fix, let's dive into how the Goblin star elevates Squid Game 2 with his dark charisma."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/how-stock-market-benefitted-under-manmohan-singh-death-news-sensex-nifty-1991-2656149-2024-12-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "How Indian stock market benefitted under Manmohan SinghManmohan Singh's policies, introduced during a time of economic crisis in the early 1990s, reshaped India's economy and transformed the Indian stock markets."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/auto/cars/story/this-was-2024s-most-spectacular-car-launch-not-dzire-swift-curvv-alcazar-thar-roxx-2656108-2024-12-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "This was 2024's most spectacular car launch. Not Dzire, Swift, Curvv, Alcazar, Thar RoxxThis SUV has naturally aspirated petrol, turbo petrol and diesel engine options with manual and automatic transmission choices."
     },
     {
       "sentiment": "negative",
@@ -186,33 +191,38 @@
     },
     {
       "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/salman-khan-birthday-bash-cuts-cake-niece-ayat-family-joins-arbaaz-khan-shura-khan-2656128-2024-12-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Inside Salman Khan's birthday bash: Actor cuts cake with niece Ayat, family joins inSalman Khan turned 59 on December 27. An inside video of the actor's midnight celebration has emerged online. Salman shares his birthday with his niece Ayat. "
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/us-news/story/us-man-storms-inside-hotel-room-in-florida-stabs-pregnant-woman-over-tip-dispute-2656087-2024-12-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "US woman storms inside hotel room, stabs pregnant woman over tip disputeThe accused was arrested by the police and has been charged with stabbing a woman in her hotel room in Florida's Kissimmee a short time after delivering a pizza to her on Sunday, according to the Osceola County Sheriff's Office."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/15-income-tax-changes-in-2024-what-you-need-to-know-for-filing-itr-in-2025-income-tax-rules-stmp-2656139-2024-12-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "10 income tax changes in 2024: What you need to know for filing ITR in 2025The 2024 income tax reforms introduce revised tax slabs, higher deductions, and simplified TDS and capital gains rules, making tax filing easier and offering potential savings. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/when-manmohan-singhs-poetic-banter-with-sushma-swaraj-echoed-in-lok-sabha-video-surfaces-2656122-2024-12-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "When Manmohan Singh's poetic face-off with Sushma Swaraj echoed in Lok SabhaDr Manmohan Singh, often celebrated as the architect of India's economic liberalisation, was equally adept at deploying the power of poetry. His penchant for 'shayari' was not just a personal interest but a political tool he wielded with finesse, often disarming critics and rivals in Parliament."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/trending-news/story/baby-hippo-moo-deng-gets-rs-2-5-crore-christmas-gift-from-crypto-billionaire-2656145-2024-12-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Baby hippo Moo Deng gets Rs 2.5 crore Christmas gift from crypto billionaireVitalik Buterin, Canadian entrepreneur and co-founder of Ethereum, has donated over $290,000 (Rs 2.51 crore approximately) to support Moo Deng's care at Thailand's Khao Kheow Open Zoo. "
+    },
+    {
+      "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/story/cricket-aus-vs-ind-yashasvi-jaiswal-run-out-82-mix-up-virat-kohli-mcg-test-2656119-2024-12-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
       "headline": "Yashasvi Jaiswal run out for 82 after terrible mix-up with Virat Kohli on Day 2AUS vs IND, Boxing Day Test: Young opener Yashasvi Jaiswal was run out for 82 after a terrible mix-up with senior partner Virat Kohli in the final session of Day 2 at the MCG. Jaiswal missed a well-deserved hundred at the Melbourne Cricket Ground."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/fashion/story/renting-wedding-lehenga-is-practical-but-why-indian-brides-still-not-up-for-it-2655776-2024-12-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Renting wedding lehenga is practical, but why are Indian brides still not up for itPractical, sustainable, and hassle-free, renting a wedding lehenga seems perfect in theory. Yet, it remains far from becoming a mainstream choice among Indian brides."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/global-leaders-pay-tribute-to-manmohan-singh-as-he-dies-india-lost-an-illustrious-son-2656046-2024-12-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "India lost an illustrious son: Global leaders pay tribute to Manmohan SinghDr Manmohan Singh, who served as Prime Minister for two terms from 2004 to 2014 under the Congress-led United Progressive Alliance, leaves behind a legacy that reshaped the nation. He is credited with spearheading the 1991 economic reforms that opened India's markets to globalisation, lifted millions out of poverty, and set the country on a path of sustained economic growth."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/former-prime-minister-manmohan-singhs-dies-top-quotes-demonetisation-are-getting-deeper-2655976-2024-12-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Scars of demonetisation are getting deeper: Top quotes of Manmohan SinghFormer PM Manmohan Singh, architect of India's economic reforms and a visionary leader, died aged 92. His legacy includes economic liberalisation, global cooperation, and inclusive growth."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/xiaomi-15-ultra-with-snapdragon-8-elite-chip-tipped-to-launch-in-february-here-is-everything-we-know-so-far-2656123-2024-12-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Xiaomi 15 Ultra tipped to launch in February: Here is everything\u00a0we\u00a0know\u00a0so\u00a0farXiaomi 15 Ultra is tipped to debut in China on February 28. The phone is also expected to arrive with an upgraded macro sensor, a large aperture across the focal range and a low-light telephoto camera."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/baby-john-varun-dhawan-atlee-action-thriller-kalees-keerthy-suresh-wamiqa-gabbi-jackie-shroff-2655601-2024-12-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Baby John: What derails Varun Dhawan and Atlee's action thriller?Despite much anticipation for Varun Dhawan's action thriller Baby John, it failed to impress fans.  Here's a complete round-up highlighting points about what did not work for the film. "
+      "url": "https://www.indiatoday.in/india/story/manmohan-singh-death-seven-day-national-mourning-former-prime-minister-conrgess-2655939-2024-12-26?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "7-day state mourning declared in tribute to Manmohan\u00a0SinghManmohan Singh death: Former Prime Minister Manmohan Singh, the architect of India's economic liberalisation, died on Thursday at 92 in Delhi after a prolonged illness. "
     },
     {
       "sentiment": "positive",
@@ -221,56 +231,101 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/manmohan-singhs-last-words-before-2014-lok-sabha-polls-history-will-be-kinder-to-me-2655940-2024-12-26?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "When Manmohan Singh said 'history will be kinder to me'Manmohan Singh defended his leadership as Prime Minister in 2014, asserting it was not weak. He believed history would judge him more kindly than the media. He died at 92. "
+      "url": "https://www.indiatoday.in/lifestyle/fashion/story/renting-wedding-lehenga-is-practical-but-why-indian-brides-still-not-up-for-it-2655776-2024-12-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Renting wedding lehenga is practical, but why are Indian brides still not up for itPractical, sustainable, and hassle-free, renting a wedding lehenga seems perfect in theory. Yet, it remains far from becoming a mainstream choice among Indian brides."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/how-global-media-reported-manmohan-singh-death-2656023-2024-12-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Mild-mannered, reluctant king: How global media reported Manmohan Singh's deathFormer Prime Minister Manmohan Singh's death prompted reflections worldwide, with global media highlighting his contributions, controversies, and legacy."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/photo/salman-khan-59-birthday-arbaaz-khan-sshura-iulia-vantur-sangeeta-bijlani-bobby-deol-arpita-khan-home-2655990-2024-12-27?utm_source=Photo_hp&utm_medium=Photo&utm_campaign=home_Photo",
-      "headline": "Salman Khan's 59th birthday: Arbaaz-Sshura, Iulia Vantur and others attend bashSalman Khan is celebrating his 59th birthday on December 27. He arrived at his sister Arpita Khan's house to celebrate the night with his loved ones. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/manmohan-singh-passes-away-death-role-indian-economy-stance-nuclear-civil-deal-us-2655894-2024-12-26?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Manmohan Singh: A reformer who unfettered economy, stood firm on US nuclear dealFormer Prime Minister Manmohan Singh is known for helping liberalise India's economy and usher in economic growth. However, it was with Singh at the helm that UPA II was hit by policy paralysis. What is less discussed is how Singh stood his ground during the negotiations for the 2008 US-India Civil Nuclear Agreement despite severe political opposition."
+      "url": "https://www.indiatoday.in/business/story/manmohan-singh-death-3-key-economic-reforms-liberalisation-licence-raj-mnrega-shaped-modern-india-2656013-2024-12-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Manmohan Singh's key reforms that shaped Indian economyDr Manmohan Singh's tenure as Finance Minister in the early 1990s and later as Prime Minister from 2004 to 2014 introduced policies that continue to influence India's growth. "
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/russia-on-its-missile-being-linked-to-azerbaijan-plane-crash-do-not-hypothesise-2655848-2024-12-26?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Do not hypothesise: Russia on its missile being linked to Azerbaijan plane crashThe Russian government has cautioned against speculating on the cause of the deadly plane crash in Kazakhstan, which killed 38 people on Wednesday. \r\n"
+      "url": "https://www.indiatoday.in/movies/bollywood/story/baby-john-varun-dhawan-atlee-action-thriller-kalees-keerthy-suresh-wamiqa-gabbi-jackie-shroff-2655601-2024-12-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Baby John: What derails Varun Dhawan and Atlee's action thriller?Despite much anticipation for Varun Dhawan's action thriller Baby John, it failed to impress fans.  Here's a complete round-up highlighting points about what did not work for the film. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/global-leaders-pay-tribute-to-manmohan-singh-as-he-dies-india-lost-an-illustrious-son-2656046-2024-12-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "India lost an illustrious son: Global leaders pay tribute to Manmohan SinghDr Manmohan Singh, who served as Prime Minister for two terms from 2004 to 2014 under the Congress-led United Progressive Alliance, leaves behind a legacy that reshaped the nation. He is credited with spearheading the 1991 economic reforms that opened India's markets to globalisation, lifted millions out of poverty, and set the country on a path of sustained economic growth."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/music/story/karan-aujla-aap-leader-raghav-chadha-in-delhi-after-performance-with-parineeti-chopra-2656160-2024-12-27",
+      "headline": "Karan Aujla visits AAP leader Raghav Chadha in Delhi after performance with ParineetiKaran Aujla visited AAP leader Raghav Chadha in Delhi. The visit follows Parineeti Chopra's surprise appearance at Aujla's Delhi concert."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/salman-khan-turns-59-ajay-devgn-varun-dhawan-and-celebs-wish-bollywood-bhaijaan-birthday-2656143-2024-12-27",
+      "headline": "Salman Khan turns 59: Ajay Devgn, Varun Dhawan, others wish Bollywood's BhaijaanSalman Khan is celebrating his 59th birthday on Friday. Besides his fans, actors and celebrities from the film fraternity, including Ajay Devgn, Varun Dhawan and others extended heartfelt wishes to the superstar. "
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/delhi/story/rain-pounds-delhi-amid-cold-wave-conditions-rain-and-fog-likely-over-next-two-days-2656061-2024-12-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Rain pounds Delhi amid cold wave conditions, rain and fog likely over weekendAt 7:23 am, the temperature in Delhi was recorded at 13 degrees Celsius, with cold winds accentuating the chill. Residents reported a significant increase in the cold severity following the downpour, which disrupted morning activities and brought a wintry gloom over the city."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/television/reality-tv/story/bigg-boss-18-sara-arfeen-khan-karan-veer-mehra-ugly-argument-avinash-mishra-character-assasination-2656111-2024-12-27",
-      "headline": "BB 18: Sara Arfeen, Karan Veer ugly argument over Avinash's characterIn the latest episode of Bigg Boss 18, Karan Veer Mehra and Sara Arfeen Khan got into an ugly fight over Avinash Mishra's character. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/chiranjeevi-telugu-blockbuster-hitler-to-re-release-after-28-years-2656096-2024-12-27",
-      "headline": "Chiranjeevi's Telugu blockbuster Hitler to re-release after 28 years Megastar Chiranjeevi's Hitler is set to hit the big screens once again after a gap of 28 years. The film, originally released on January 4, 1997, marked a comeback for Megastar, who had taken a year-long hiatus following back-to-back flops. \r\n"
+      "url": "https://www.indiatoday.in/television/international-shows/story/gong-yoo-gobling-heartthrob-to-horror-icon-in-squid-game-2-a-role-worth-slapping-for-kfix-2656146-2024-12-27",
+      "headline": "Gong Yoo in Squid Game 2: A former Goblin who slaps and servesGong Yoo returns in Squid Game 2 as The Recruiter, a role that delves deep into his character's psyche, highlighting human greed and desperation. The season opener 'Bread and Lottery' unpacks his chilling past and strategic role in the deadly games, setting a gripping tone for the series.  In this week's K-Fix, let's dive into how the Goblin star elevates Squid Game 2 with his dark charisma."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/movies/reviews/story/the-smile-man-movie-thriller-sarath-kumar-kalaiyarasan-2656098-2024-12-27",
-      "headline": "The Smile Man review: Sarath Kumar's film fails to realise its full potentialReleased-Fri Dec 27, 2024The Smile Man movie review: Sarath Kumar's serial killer film, directed by the duo Syam and Praveen, has a solid story at its core. However, the film fails to capitalise on the story. \r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/karan-johar-calls-varun-dhawans-baby-john-one-helluva-masala-ride-2656101-2024-12-27",
-      "headline": "Karan Johar calls Varun Dhawan's Baby John 'one helluva masala ride' Baby John is currently running in theatres. Karan Johar praised Varun Dhawan's film and urged fans to watch the \"new year spectacle\"."
+      "url": "https://www.indiatoday.in/movies/celebrities/story/salman-khan-birthday-bash-cuts-cake-niece-ayat-family-joins-arbaaz-khan-shura-khan-2656128-2024-12-27",
+      "headline": "Inside Salman Khan's birthday bash: Actor cuts cake with niece Ayat, family joins inSalman Khan turned 59 on December 27. An inside video of the actor's midnight celebration has emerged online. Salman shares his birthday with his niece Ayat. "
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-virat-kohli-witch-hunt-irfan-pathan-slams-australian-media-melbourne-test-2656167-2024-12-27",
+      "headline": "Irfan Pathan slams Aussie media for Kohli witch hunt: Using his market valueIrfan Pathan criticised the Australian media for targeting Virat Kohli, accusing them of exploiting his fame to boost cricket's visibility. Kohli faced scrutiny after an altercation with Sam Konstas and a privacy breach at Melbourne airport involving his family."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-aus-4th-test-sunil-gavaskar-drop-mohammed-siraj-brutal-mcg-2656157-2024-12-27",
+      "headline": "Drop underperforming Siraj, be brutally upfront with him: Sunil Gavaskar Australia vs India, 4th Test: Not a big fan of resting players in big-ticket series, Sunil Gavaskar urged the Indian team management to be 'brutally honest' with their feedback to Mohammed Siraj and drop him for not performing up to expectations. "
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/story/cricket-aus-vs-ind-yashasvi-virat-hard-work-spoilt-late-india-collapse-mcg-test-2656155-2024-12-27",
+      "headline": "How 30 minutes of madness spoilt Virat-Yashasvi's hard-work on Day 2A late batting collapse in the final session of Day 2 spoilt all the hard work done by Yashasvi Jaiswal and Virat Kohli during their 102-run stand for the third wicket. India were 164 for 5 against Australia on day two of the fourth Test on Friday."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-aus-4th-test-virat-kohli-angry-booing-mcg-fans-video-altercation-2656154-2024-12-27",
+      "headline": "Angry Virat Kohli confronts booing MCG fans, calmed by security officerIND vs AUS: Angry Virat Kohli nearly confronted booing fans on Day 2 of the Melbourne Test match. The incident occurred when Kohli was walking back to the pavilion after getting out."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/video/pv-sindhu-and-her-husband-offer-prayers-to-lord-venkateswara-ytvd-2656093-2024-12-27",
+      "headline": "PV Sindhu and her husband visit Lord Venkateswara for prayersPV Sindhu and her husband visited Tirumala to offer prayers to Lord Venkateswara, blending sports and spirituality."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-rohit-sharma-disturbed-openers-kl-rahul-yashasvi-jaiswal-sanjay-manjrekar-melbourne-2656136-2024-12-27",
+      "headline": "Rohit disturbed the openers in Melbourne: Manjrekar on India batting orderSanjay Manjrekar criticised Rohit Sharma's decision to open in Melbourne, highlighting its disruptive impact on India's batting lineup during the fourth Test against Australia, leaving India trailing after repeated batting collapses against a formidable Australian attack."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/story/cricket-aus-vs-ind-day-2-score-melbourne-virat-kohli-yashsavi-jaiswal-late-collapse-rohit-2656124-2024-12-27",
+      "headline": "4th Test: Late Yashasvi, Virat Kohli blows sink India after horror bowling show at MCGAustralia vs India, 4th Test: India conceded control after a late collapse, triggered by Yashasvi Jaiswal's run-out in the last hour of play on Friday. After having been horrible with the ball, India lost momentum with the bat to fall behind in Melbourne. "
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/story/cricket-aus-vs-ind-yashasvi-jaiswal-run-out-82-mix-up-virat-kohli-mcg-test-2656119-2024-12-27",
+      "headline": "Yashasvi Jaiswal run out for 82 after terrible mix-up with Virat Kohli on Day 2AUS vs IND, Boxing Day Test: Young opener Yashasvi Jaiswal was run out for 82 after a terrible mix-up with senior partner Virat Kohli in the final session of Day 2 at the MCG. Jaiswal missed a well-deserved hundred at the Melbourne Cricket Ground."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/story/ind-vs-aus-4th-test-mcg-nathan-lyon-sledges-kl-rahul-rohit-sharma-2656104-2024-12-27",
+      "headline": "What did you do wrong? Nathan Lyon sledges KL Rahul after batting order changeIND vs AUS: Australia spinner Nathan Lyon sledged KL Rahul after the batter came out at No.3 during India's batting innings at the MCG. Lyon jokingly asked what did Rahul do wrong to be shifted down to No.3 in the batting order.\r\n"
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/story/cricket-aus-vs-ind-ms-prasad-on-rohit-sharma-captaincy-4th-test-2656100-2024-12-27",
+      "headline": "Rohit Sharma's captaincy pathetic: Ex-selector tears into India skipperBorder Gavaskar Trophy: Former India chief selector MSK Prasad has slammed Rohit Sharma's captaincy in the ongoing Boxing Day Test against Australia. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-aus-4th-test-sunil-gavaskar-virat-kohli-fine-aussie-media-2656064-2024-12-27",
+      "headline": "Sunil Gavaskar defends Virat Kohli's fine: Can't hang a man for picking a pocketAustralia vs India, 4th Test: Sunil Gavaskar said the International Cricket Council did not do Virat Kohli any favours by handing him a 20 per cent fine for shouldering Sam Konstas on Boxing Day. Several former Australian cricketers accused the ICC of being lenient towards Kohli, calling for a harsher punishment."
+    },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/story/cricket-aus-vs-ind-day-2-score-melbourne-virat-kohli-yashsavi-jaiswal-late-collapse-rohit-2656124-2024-12-27",
@@ -323,13 +378,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/cricket-aus-vs-ind-mark-waugh-icc-lenient-virat-kohli-sam-konstas-shouldering-incident-2656035-2024-12-27",
-      "headline": "Mark Waugh questions ICC for being lenient with Virat Kohli in Konstas incidentBoxing Day Test: Former Australia batter Mark Waugh has criticised the ICC for giving Indian superstar Virat Kohli a 'light punishment' for his shoulder charge against debutant Sam Konstas.\r\n"
+      "url": "https://www.indiatoday.in/sports/story/cricket-aus-vs-ind-virat-kohli-special-gesture-towards-centurion-steve-smith-2655998-2024-12-27",
+      "headline": "Respect beyond rivalry: Virat Kohli wins hearts with special Steve Smith gestureBorder-Gavaskar Trophy: Star Indian batter Virat Kohli won hearts with his special gesture towards Steve Smith after the Australian great hit his 34th Test hundred on Day 2 of the Boxing Day Test."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/cricket-aus-vs-ind-4th-test-rohit-sharma-retirement-fans-disappointed-mcg-2656021-2024-12-27",
-      "headline": "Rohit Sharma, please retire: Fans hurt after India captain fails in MCG TestBorder-Gavaskar Trophy: Rohit Sharma continued to fail with the bat in the Test series in Australia. The India captain has managed just 22 runs across five innings in the series. "
+      "url": "https://www.indiatoday.in/sports/story/cricket-australia-ceo-on-virat-kohli-sam-konstas-spat-boxing-day-test-2655987-2024-12-27",
+      "headline": "Sam was gracious to brush it off: Cricket Australia CEO on Virat Kohli spatCricket Australia CEO Nick Hockley said teenage debutant Sam Konstas showed maturity beyond his age and was gracious to brush aside his physical altercation with India superstar Virat Kohli in the Boxing Day Test."
     },
     {
       "sentiment": "negative",
@@ -365,51 +420,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/story/cricket-aus-vs-ind-india-players-black-armbands-tribute-former-pm-manmohan-singh-2655979-2024-12-27",
       "headline": "India players wear black armbands in tribute to former PM Manmohan SinghIndian players sported black armbands on Friday, Day 2 of the Boxing Day Test against Australia in Melbourne, in honour of former Prime Minister Manmohan Singh, who passed away on Thursday.\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-aus-4th-test-live-score-day-2-live-scores-reactions-melbourne-updates-boxing-day-2655932-2024-12-27",
-      "headline": "Day 2 Highlights: Late collapse spoils Virat, Jaiswal's hard work at MCGAustralia (AUS) vs India (IND) 4th Test, Day 2 Highlights: A late collapse ruined India's second day of the Melbourne Test. Virat Kohli and Yashasvi Jaiswal threw way their wickets, resulting in a mini collapse for India. At the end of Day 2, India were 164/5, still 310 runs behind Australia in the Boxing Day Test."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/manmohan-singh-dies-at-92-yuvraj-vinesh-phogat-lead-tribute-to-former-pm-2655923-2024-12-26",
-      "headline": "Manmohan Singh dies at 92: Yuvraj, Vinesh Phogat lead tributes to former PMIndia mourns the loss of former Prime Minister Dr. Manmohan Singh, a visionary economist and leader. Sporting legends like Yuvraj Singh and Virender Sehwag lead heartfelt tributes, honouring his contributions that inspired progress across the nation, including sports."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/cricket-aus-vs-ind-india-players-black-armbands-tribute-former-pm-manmohan-singh-2655979-2024-12-27",
-      "headline": "India players wear black armbands in tribute to former PM Manmohan SinghIndian players sported black armbands on Friday, Day 2 of the Boxing Day Test against Australia in Melbourne, in honour of former Prime Minister Manmohan Singh, who passed away on Thursday.\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-aus-4th-test-live-score-day-2-live-scores-reactions-melbourne-updates-boxing-day-2655932-2024-12-27",
-      "headline": "Day 2 Highlights: Late collapse spoils Virat, Jaiswal's hard work at MCGAustralia (AUS) vs India (IND) 4th Test, Day 2 Highlights: A late collapse ruined India's second day of the Melbourne Test. Virat Kohli and Yashasvi Jaiswal threw way their wickets, resulting in a mini collapse for India. At the end of Day 2, India were 164/5, still 310 runs behind Australia in the Boxing Day Test."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/manmohan-singh-dies-at-92-yuvraj-vinesh-phogat-lead-tribute-to-former-pm-2655923-2024-12-26",
-      "headline": "Manmohan Singh dies at 92: Yuvraj, Vinesh Phogat lead tributes to former PMIndia mourns the loss of former Prime Minister Dr. Manmohan Singh, a visionary economist and leader. Sporting legends like Yuvraj Singh and Virender Sehwag lead heartfelt tributes, honouring his contributions that inspired progress across the nation, including sports."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/sean-williams-scores-5th-test-ton-as-zimbabwe-dominate-day-1-vs-afghanistan-2655916-2024-12-26",
-      "headline": "Sean Williams scores 5th Test ton as Zimbabwe dominate Day 1 vs AfghanistanSean Williams' unbeaten 145 and Ben Curran's debut fifty powered Zimbabwe to 363/4 on Day 1 against Afghanistan. Williams' partnerships with Ervine, Kaitano, and Myers showcased Zimbabwe's dominance, leaving the visitors struggling with erratic bowling and sloppy fielding."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/south-africa-in-charge-after-day-1-as-dane-paterson-picks-5-wickets-vs-pakistan-2655884-2024-12-26",
-      "headline": "Dane Paterson, Corbin Bosch put South Africa on top after Day 1 vs PakistanDane Paterson's fiery five-wicket haul put South Africa on top as Pakistan crumbled for 211 on Day 1. Aiden Markram's unbeaten 47 steadied the hosts, who trailed by 129 runs with seven wickets in hand heading into Day 2."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/marnus-look-at-that-sirajs-bail-switch-does-the-trick-for-bumrah-at-mcg-2655861-2024-12-26",
-      "headline": "Marnus look at that: Siraj's bail switch does the trick for Bumrah at  MCGSiraj's playful bail-switching act against Labuschagne added humor to a tense Boxing Day Test, coinciding with Bumrah's crucial breakthroughs. The cheeky tactic sparked laughter and boosted India's momentum. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/sam-konstas-tore-mcc-coaching-manual-to-shreds-ravi-shastri-praises-debutant-2655846-2024-12-26",
-      "headline": "Sam Konstas tore MCC coaching manual to shreds: Ravi Shastri praises debutantSam Konstas' audacious debut innings left a lasting impression, with Ravi Shastri and Justin Langer praising his fearless approach. The young Australian batter's bold shots against Bumrah have many predicting a bright future for him in Test cricket."
     }
   ],
   "education": [
