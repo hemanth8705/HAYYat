@@ -1,6 +1,11 @@
 {
   "business": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/manmohan-singh-indian-economy-global-standing-key-reforms-1991-economic-liberalisation-2656166-2024-12-27",
+      "headline": "How Manmohan Singh revitalised India's economy and global standingAs the chief architect of India's 1991 economic liberalisation, Manmohan Singh's policies helped steer India away from a severe financial crisis, positioning the country as one of the world's fastest-growing economies."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/story/osamu-suzuki-former-suzuki-motor-corporation-chairman-dies-at-94-2656153-2024-12-27",
       "headline": "Osamu Suzuki, former Suzuki Motor Corporation chairman, dies at 94Osamu Suzuki steered Suzuki Motor's rise, from pioneering Maruti 800 in India to building a global automotive legacy."
@@ -94,11 +99,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/unimech-aerospace-ipo-day-3-latest-subscription-gmp-why-are-brokers-bullish-on-it-2655642-2024-12-26",
       "headline": "Unimech Aerospace IPO: Why are brokers bullish on it? Check latest GMPUnimech Aerospace IPO: Unimech Aerospace aims to raise Rs 500 crore through the IPO, which includes a fresh issue of Rs 250 crore and an offer for sale (OFS) of Rs 250 crore. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/newgen-software-share-price-surges-8-percent-why-multibagger-it-stock-gained-today-2655636-2024-12-26",
-      "headline": "Newgen Software share price surges 8%. Why multibagger IT stock gained today?Newgen Software stock price: The stock surged 7.67% to touch a day's high of Rs 1,725.15 on the Bombay Stock Exchange, up from its previous close of Rs 1,602.20. "
     }
   ],
   "entertainment": [
@@ -132,7 +132,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/manmohan-singh-finance-minister-economic-reforms-1991-budget-liberalisation-2656117-2024-12-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "How Manmohan Singh pulled India from brink of economic death | From the archivesThrough path-breaking reforms in the 1991 Budget, focused on liberalisation and privatisation, Manmohan Singh opened up India's economy. Here is what India Today reported on his economic reforms."
+      "headline": "How Manmohan Singh pulled India from brink of economic deathThrough path-breaking reforms in the 1991 Budget, focused on liberalisation and privatisation, Manmohan Singh opened up India's economy. Here is what India Today reported on his economic reforms."
     },
     {
       "sentiment": "negative",
@@ -145,34 +145,64 @@
       "headline": "Angry Virat Kohli confronts booing MCG fans, calmed by security officerIND vs AUS: Angry Virat Kohli nearly confronted booing fans on Day 2 of the Melbourne Test match. The incident occurred when Kohli was walking back to the pavilion after getting out."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/abdul-rehman-makki-deputy-chief-of-lashkar-e-taiba-2611-mumbai-attack-plotter-dies-in-pakistan-2656134-2024-12-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Mumbai terror attack plotter Abdul Rehman Makki dies in PakistanAbdul Rehman Makki had been ill for the past few days and was undergoing treatment for high sugar levels at a private hospital in Lahore. He died on Friday after suffering a heart attack."
-    },
-    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/opinion/story/tollywood-gets-the-message-that-telangana-government-is-the-real-fire-opinion-2656113-2024-12-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
       "headline": "Tollywood gets the message that Telangana government is the real 'fire'What is clear is that the message about who is the real boss, the real 'fire', has been conveyed loud and clear to the industry.  "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/manmohan-singh-jnu-students-protest-intervened-leniency-shield-voltaire-2656135-2024-12-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "'Please be lenient': When Manmohan Singh shielded protesting JNU studentsA retired JNU professor described then Prime Minister Manmohan Singh's intervention as \"a reflection of his understanding of the importance of dissent in a democratic society.\""
+      "url": "https://www.indiatoday.in/history-of-it/story/manmohan-singh-death-news-history-childhood-punjab-born-assam-guhwahati-address-rajya-sabha-2656129-2024-12-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "How Punjab-born, Oxford-educated Manmohan Singh found a home in GuwahatiFormer Prime Minister Manmohan Singh, born in pre-Partition Punjab and educated in the UK, had a Guwahati address. This is how house number 3989 of Guwahati's Nandan Nagar came to be associated with Singh, who passed away on Thursday."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/story/osamu-suzuki-former-suzuki-motor-corporation-chairman-dies-at-94-2656153-2024-12-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Osamu Suzuki, former Suzuki Motor Corporation chairman, dies at 94Osamu Suzuki steered Suzuki Motor's rise, from pioneering Maruti 800 in India to building a global automotive legacy."
+      "url": "https://www.indiatoday.in/india/story/abdul-rehman-makki-deputy-chief-of-lashkar-e-taiba-2611-mumbai-attack-plotter-dies-in-pakistan-2656134-2024-12-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Mumbai terror attack plotter Abdul Rehman Makki dies in PakistanAbdul Rehman Makki had been ill for the past few days and was undergoing treatment for high sugar levels at a private hospital in Lahore. He died on Friday after suffering a heart attack."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/manmohan-singh-childhood-friend-pakistan-2655999-2024-12-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "From Pakistan, with love: When Manmohan Singh reunited with childhood friendIn 2008, Manmohan Singh's childhood friend Raja Mohammad Ali travelled to Delhi from Pakistan to reconnect with the then Indian Prime Minister. Their emotional reunion was marked by heartfelt gestures."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/enforcement-directorate-raid-union-minister-hulas-pandey-chirag-paswan-patna-bengaluru-delhi-2656197-2024-12-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "ED lens on Union Minister Chirag Paswan's aide, simultaneous raids in 3 citiesThe ED is conducting raids at multiple locations associated with Hulas Pandey, a former Bihar legislator and a prominent leader of the Lok Janshakti Party (Ram Vilas) led by Union Minister Chirag Paswan."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/rrr-behind-and-beyond-review-a-dazzling-tribute-but-light-on-technical-nuances-ss-rajamouli-jr-ntr-ram-charan-2656161-2024-12-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "RRR Behind and Beyond review: A dazzling tribute, but low on technical nuances Released-Fri Dec 27, 2024RRR Behind and Beyond review: A visually engaging yet somewhat generic documentary that celebrates the making of SS Rajamouli's magnum opus, RRR, starring Jr NTR and Ram Charan. However, the show hardly focusses on the technical front."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/story/cricket-aus-vs-ind-day-2-score-melbourne-virat-kohli-yashsavi-jaiswal-late-collapse-rohit-2656124-2024-12-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "4th Test: Late Yashasvi, Virat Kohli blows sink India after horror bowling show at MCGAustralia vs India, 4th Test: India conceded control after a late collapse, triggered by Yashasvi Jaiswal's run-out in the last hour of play on Friday. After having been horrible with the ball, India lost momentum with the bat to fall behind in Melbourne. "
+      "url": "https://www.indiatoday.in/sports/story/cricket-aus-vs-ind-yashasvi-virat-hard-work-spoilt-late-india-collapse-mcg-test-2656155-2024-12-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "How 30 minutes of madness spoilt Virat-Yashasvi's hard-work on Day 2A late batting collapse in the final session of Day 2 spoilt all the hard work done by Yashasvi Jaiswal and Virat Kohli during their 102-run stand for the third wicket. India were 164 for 5 against Australia on day two of the fourth Test on Friday."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/manmohan-singh-economic-reforms-trusted-old-school-fds-bank-fixed-deposits-nss-to-invest-grow-wealth-2655974-2024-12-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Manmohan Singh trusted old-school FDs to grow his wealthManmohan Singh, India's former Prime Minister who liberalised the country's economy as the finance minister in 1991, passed away on Thursday. This is how Singh, an ace economist, grew his wealth through traditional investment instruments like fixed deposits, by disciplined reinvestment."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/television/international-shows/story/gong-yoo-gobling-heartthrob-to-horror-icon-in-squid-game-2-a-role-worth-slapping-for-kfix-2656146-2024-12-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Gong Yoo in Squid Game 2: A former Goblin who slaps and servesGong Yoo returns in Squid Game 2 as The Recruiter, a role that delves deep into his character's psyche, highlighting human greed and desperation. The season opener 'Bread and Lottery' unpacks his chilling past and strategic role in the deadly games, setting a gripping tone for the series.  In this week's K-Fix, let's dive into how the Goblin star elevates Squid Game 2 with his dark charisma."
+      "url": "https://www.indiatoday.in/world/us-news/story/us-man-storms-inside-hotel-room-in-florida-stabs-pregnant-woman-over-tip-dispute-2656087-2024-12-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "US pizza deliverer enters hotel room, stabs pregnant woman 14 times over bad tipThe accused was arrested by the police and has been charged with stabbing a woman in her hotel room in Florida's Kissimmee a short time after delivering a pizza to her on Sunday, according to the Osceola County Sheriff's Office."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/salman-khan-birthday-bash-cuts-cake-niece-ayat-family-joins-arbaaz-khan-shura-khan-2656128-2024-12-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Inside Salman Khan's birthday bash: Actor cuts cake with niece Ayat, family joins inSalman Khan turned 59 on December 27. An inside video of the actor's midnight celebration has emerged online. Salman shares his birthday with his niece Ayat. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/when-manmohan-singhs-poetic-banter-with-sushma-swaraj-echoed-in-lok-sabha-video-surfaces-2656122-2024-12-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "When Manmohan Singh's poetic face-off with Sushma Swaraj echoed in Lok SabhaDr Manmohan Singh, often celebrated as the architect of India's economic liberalisation, was equally adept at deploying the power of poetry. His penchant for 'shayari' was not just a personal interest but a political tool he wielded with finesse, often disarming critics and rivals in Parliament."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/gay-serial-killer-from-punjab-who-killed-11-men-wore-makeup-as-kid-was-hurt-by-comments-on-sexuality-2656009-2024-12-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Gay serial killer from Punjab wore makeup as kid, was hurt by comments on sexualityThe 33-year-old man, who operated primarily on highways in Punjab, confessed that he couldn't accept slurs about his body and identity, and his last murder was directly linked to such remarks."
     },
     {
       "sentiment": "positive",
@@ -181,53 +211,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/auto/cars/story/this-was-2024s-most-spectacular-car-launch-not-dzire-swift-curvv-alcazar-thar-roxx-2656108-2024-12-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "This was 2024's most spectacular car launch. Not Dzire, Swift, Curvv, Alcazar, Thar RoxxThis SUV has naturally aspirated petrol, turbo petrol and diesel engine options with manual and automatic transmission choices."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/gay-serial-killer-from-punjab-who-killed-11-men-wore-makeup-as-kid-was-hurt-by-comments-on-sexuality-2656009-2024-12-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Gay serial killer from Punjab wore makeup as kid, was hurt by comments on sexualityThe 33-year-old man, who operated primarily on highways in Punjab, confessed that he couldn't accept slurs about his body and identity, and his last murder was directly linked to such remarks."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/salman-khan-birthday-bash-cuts-cake-niece-ayat-family-joins-arbaaz-khan-shura-khan-2656128-2024-12-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Inside Salman Khan's birthday bash: Actor cuts cake with niece Ayat, family joins inSalman Khan turned 59 on December 27. An inside video of the actor's midnight celebration has emerged online. Salman shares his birthday with his niece Ayat. "
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/us-news/story/us-man-storms-inside-hotel-room-in-florida-stabs-pregnant-woman-over-tip-dispute-2656087-2024-12-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "US woman storms inside hotel room, stabs pregnant woman over tip disputeThe accused was arrested by the police and has been charged with stabbing a woman in her hotel room in Florida's Kissimmee a short time after delivering a pizza to her on Sunday, according to the Osceola County Sheriff's Office."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/15-income-tax-changes-in-2024-what-you-need-to-know-for-filing-itr-in-2025-income-tax-rules-stmp-2656139-2024-12-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "10 income tax changes in 2024: What you need to know for filing ITR in 2025The 2024 income tax reforms introduce revised tax slabs, higher deductions, and simplified TDS and capital gains rules, making tax filing easier and offering potential savings. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/when-manmohan-singhs-poetic-banter-with-sushma-swaraj-echoed-in-lok-sabha-video-surfaces-2656122-2024-12-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "When Manmohan Singh's poetic face-off with Sushma Swaraj echoed in Lok SabhaDr Manmohan Singh, often celebrated as the architect of India's economic liberalisation, was equally adept at deploying the power of poetry. His penchant for 'shayari' was not just a personal interest but a political tool he wielded with finesse, often disarming critics and rivals in Parliament."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/trending-news/story/baby-hippo-moo-deng-gets-rs-2-5-crore-christmas-gift-from-crypto-billionaire-2656145-2024-12-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
       "headline": "Baby hippo Moo Deng gets Rs 2.5 crore Christmas gift from crypto billionaireVitalik Buterin, Canadian entrepreneur and co-founder of Ethereum, has donated over $290,000 (Rs 2.51 crore approximately) to support Moo Deng's care at Thailand's Khao Kheow Open Zoo. "
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/story/cricket-aus-vs-ind-yashasvi-jaiswal-run-out-82-mix-up-virat-kohli-mcg-test-2656119-2024-12-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Yashasvi Jaiswal run out for 82 after terrible mix-up with Virat Kohli on Day 2AUS vs IND, Boxing Day Test: Young opener Yashasvi Jaiswal was run out for 82 after a terrible mix-up with senior partner Virat Kohli in the final session of Day 2 at the MCG. Jaiswal missed a well-deserved hundred at the Melbourne Cricket Ground."
+      "url": "https://www.indiatoday.in/business/story/osamu-suzuki-former-suzuki-motor-corporation-chairman-dies-at-94-2656153-2024-12-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Osamu Suzuki, former Suzuki Motor Corporation chairman, dies at 94Osamu Suzuki steered Suzuki Motor's rise, from pioneering Maruti 800 in India to building a global automotive legacy."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/manmohan-singh-death-seven-day-national-mourning-former-prime-minister-conrgess-2655939-2024-12-26?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "7-day state mourning declared in tribute to Manmohan\u00a0SinghManmohan Singh death: Former Prime Minister Manmohan Singh, the architect of India's economic liberalisation, died on Thursday at 92 in Delhi after a prolonged illness. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/salman-rushdie-satanic-verses-controversy-protests-book-review-1988-interview-fatwa-2655656-2024-12-26?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "The book review that Rushdie says lit the Satanic Verses fireSalman Rushdie's The Satanic Verses arrived at a bookstore in India 37 years after it was published. An import ban by the Rajiv Gandhi government kept it away from Rushdie's native country for almost four decades. Rushdie alleged that a book review in India Today Magazine in 1988 \"lit the fire\". Here's how the review through a proof copy of the novel was written."
+      "url": "https://www.indiatoday.in/education-today/study-abroad/story/visa-policy-changes-in-top-study-abroad-destinations-affecting-indians-2655805-2024-12-26?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Visa changes in US, UK, Canada, Australia and Germany making Indian students pauseRecent visa changes in the US, UK, Canada, Australia, and Germany are reshaping Indian students' choices, focusing on work opportunities, ease of rules, and immigration pathways."
     },
     {
       "sentiment": "positive",
@@ -236,41 +231,56 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/manmohan-singh-death-3-key-economic-reforms-liberalisation-licence-raj-mnrega-shaped-modern-india-2656013-2024-12-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Manmohan Singh's key reforms that shaped Indian economyDr Manmohan Singh's tenure as Finance Minister in the early 1990s and later as Prime Minister from 2004 to 2014 introduced policies that continue to influence India's growth. "
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/baby-john-varun-dhawan-atlee-action-thriller-kalees-keerthy-suresh-wamiqa-gabbi-jackie-shroff-2655601-2024-12-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Baby John: What derails Varun Dhawan and Atlee's action thriller?Despite much anticipation for Varun Dhawan's action thriller Baby John, it failed to impress fans.  Here's a complete round-up highlighting points about what did not work for the film. "
+      "url": "https://www.indiatoday.in/education-today/news/story/icai-ca-final-results-2024-out-meet-the-ca-final-toppers-2656202-2024-12-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Over 11,500 students clear ICAI CA Finals 2024: Meet the CA Final toppersThe ICAI CA Final results for November 2024 were announced last night, with two Hyderabad and Tirupati boys sharing the first rank and two girls from Ahmedabad and Kolkata securing the second and third ranks."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/global-leaders-pay-tribute-to-manmohan-singh-as-he-dies-india-lost-an-illustrious-son-2656046-2024-12-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "India lost an illustrious son: Global leaders pay tribute to Manmohan SinghDr Manmohan Singh, who served as Prime Minister for two terms from 2004 to 2014 under the Congress-led United Progressive Alliance, leaves behind a legacy that reshaped the nation. He is credited with spearheading the 1991 economic reforms that opened India's markets to globalisation, lifted millions out of poverty, and set the country on a path of sustained economic growth."
+      "url": "https://www.indiatoday.in/business/story/15-income-tax-changes-in-2024-what-you-need-to-know-for-filing-itr-in-2025-income-tax-rules-stmp-2656139-2024-12-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "10 income tax changes in 2024: What you need to know for filing ITR in 2025The 2024 income tax reforms introduce revised tax slabs, higher deductions, and simplified TDS and capital gains rules, making tax filing easier and offering potential savings. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/music/story/karan-aujla-aap-leader-raghav-chadha-in-delhi-after-performance-with-parineeti-chopra-2656160-2024-12-27",
-      "headline": "Karan Aujla visits AAP leader Raghav Chadha in Delhi after performance with ParineetiKaran Aujla visited AAP leader Raghav Chadha in Delhi. The visit follows Parineeti Chopra's surprise appearance at Aujla's Delhi concert."
+      "url": "https://www.indiatoday.in/education-today/news/story/iit-bombay-designs-needle-free-shock-syringe-for-painless-injections-2656151-2024-12-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "IIT Bombay designs needle-free shock syringe for painless injectionsIIT Bombay has developed needle-free shock syringes for painless, safe drug delivery, offering hope for a future without injection-related trauma. Tested on rats, it outperformed traditional needles in many ways."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/salman-khan-turns-59-ajay-devgn-varun-dhawan-and-celebs-wish-bollywood-bhaijaan-birthday-2656143-2024-12-27",
-      "headline": "Salman Khan turns 59: Ajay Devgn, Varun Dhawan, others wish Bollywood's BhaijaanSalman Khan is celebrating his 59th birthday on Friday. Besides his fans, actors and celebrities from the film fraternity, including Ajay Devgn, Varun Dhawan and others extended heartfelt wishes to the superstar. "
+      "url": "https://www.indiatoday.in/auto/cars/story/this-was-2024s-most-spectacular-car-launch-not-dzire-swift-curvv-alcazar-thar-roxx-2656108-2024-12-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "This was 2024's most spectacular car launch. Not Dzire, Swift, Curvv, Alcazar, Thar RoxxThis SUV has naturally aspirated petrol, turbo petrol and diesel engine options with manual and automatic transmission choices."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/television/international-shows/story/gong-yoo-gobling-heartthrob-to-horror-icon-in-squid-game-2-a-role-worth-slapping-for-kfix-2656146-2024-12-27",
-      "headline": "Gong Yoo in Squid Game 2: A former Goblin who slaps and servesGong Yoo returns in Squid Game 2 as The Recruiter, a role that delves deep into his character's psyche, highlighting human greed and desperation. The season opener 'Bread and Lottery' unpacks his chilling past and strategic role in the deadly games, setting a gripping tone for the series.  In this week's K-Fix, let's dive into how the Goblin star elevates Squid Game 2 with his dark charisma."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/music/story/dua-lipa-engagement-actor-callum-turner-sports-huge-diamond-ring-2656206-2024-12-27",
+      "headline": "Dua Lipa engaged to actor Callum Turner? Singer's pictures spark speculationSinger Dua Lipa is reportedly engaged to actor Callum Turner after dating for less than a year. The couple is set to celebrate their engagement during a New Year's Eve bash with family and friends."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/salman-khan-birthday-bash-cuts-cake-niece-ayat-family-joins-arbaaz-khan-shura-khan-2656128-2024-12-27",
-      "headline": "Inside Salman Khan's birthday bash: Actor cuts cake with niece Ayat, family joins inSalman Khan turned 59 on December 27. An inside video of the actor's midnight celebration has emerged online. Salman shares his birthday with his niece Ayat. "
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/rrr-behind-and-beyond-review-a-dazzling-tribute-but-light-on-technical-nuances-ss-rajamouli-jr-ntr-ram-charan-2656161-2024-12-27",
+      "headline": "RRR Behind and Beyond review: A dazzling tribute, but low on technical nuances Released-Fri Dec 27, 2024RRR Behind and Beyond review: A visually engaging yet somewhat generic documentary that celebrates the making of SS Rajamouli's magnum opus, RRR, starring Jr NTR and Ram Charan. However, the show hardly focusses on the technical front."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/sridevi-remarks-inspired-boney-kapoor-to-lose-weight-you-were-slim-and-trim-2656195-2024-12-27",
+      "headline": "Sridevi's remarks inspired Boney Kapoor to lose weight: You were slim and trim\u2026Boney Kapoor reveals his physical transformation was inspired by his late wife Sridevi, who motivated him to lose weight for health reasons. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/yeh-jawaani-hai-deewani-to-re-release-in-theatres-in-january-2656164-2024-12-27",
+      "headline": "Yeh Jawaani Hai Deewani to re-release in theatres in JanuaryThe beloved romantic comedy Yeh Jawaani Hai Deewani, starring Ranbir Kapoor, Deepika Padukone, and Aditya Roy Kapur, is set to return to theatres. On Friday, Dharma Movies announced the re-release date in an exciting social media post."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/video/picked-for-mcg-test-as-batter-washington-sundar-reveals-team-india-messaging-2656210-2024-12-27",
+      "headline": "Picked for MCG Test as batter? Washington Sundar reveals Team India messagingAustralia vs India, 4th Test: Washington Sundar was asked whether the team management was viewing him more as a batter than a bowler after he replaced Shubman Gill in the XI. The all-rounder expressed his excitement about the team backing him to excel in all three facets of the game\u2014batting, bowling, and fielding. Sundar also shared insights about the inputs he received from R Ashwin ahead of the Melbourne Test."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-steve-smith-sam-konstas-reverse-ramping-jasprit-bumrah-heart-attack-melbourne-2656209-2024-12-27",
+      "headline": "Sam Konstas reverse-ramping Jasprit Bumrah gave me a heart attack: Steve SmithAustralia's debutant Sam Konstas stole the spotlight in Melbourne with a fearless 60 against India, earning praise from Steve Smith while handling a heated altercation with Virat Kohli maturely, as the hosts posted a commanding 474-run total."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-virat-kohli-witch-hunt-irfan-pathan-slams-australian-media-melbourne-test-2656167-2024-12-27",
@@ -313,18 +323,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/ind-vs-aus-4th-test-mcg-nathan-lyon-sledges-kl-rahul-rohit-sharma-2656104-2024-12-27",
-      "headline": "What did you do wrong? Nathan Lyon sledges KL Rahul after batting order changeIND vs AUS: Australia spinner Nathan Lyon sledged KL Rahul after the batter came out at No.3 during India's batting innings at the MCG. Lyon jokingly asked what did Rahul do wrong to be shifted down to No.3 in the batting order.\r\n"
+      "url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-aus-4th-test-virat-kohli-angry-booing-mcg-fans-video-altercation-2656154-2024-12-27",
+      "headline": "Angry Virat Kohli confronts booing MCG fans, calmed by security officerIND vs AUS: Angry Virat Kohli nearly confronted booing fans on Day 2 of the Melbourne Test match. The incident occurred when Kohli was walking back to the pavilion after getting out."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/story/cricket-aus-vs-ind-ms-prasad-on-rohit-sharma-captaincy-4th-test-2656100-2024-12-27",
-      "headline": "Rohit Sharma's captaincy pathetic: Ex-selector tears into India skipperBorder Gavaskar Trophy: Former India chief selector MSK Prasad has slammed Rohit Sharma's captaincy in the ongoing Boxing Day Test against Australia. "
+      "url": "https://www.indiatoday.in/sports/video/pv-sindhu-and-her-husband-offer-prayers-to-lord-venkateswara-ytvd-2656093-2024-12-27",
+      "headline": "PV Sindhu and her husband visit Lord Venkateswara for prayersPV Sindhu and her husband visited Tirumala to offer prayers to Lord Venkateswara, blending sports and spirituality."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-aus-4th-test-sunil-gavaskar-virat-kohli-fine-aussie-media-2656064-2024-12-27",
-      "headline": "Sunil Gavaskar defends Virat Kohli's fine: Can't hang a man for picking a pocketAustralia vs India, 4th Test: Sunil Gavaskar said the International Cricket Council did not do Virat Kohli any favours by handing him a 20 per cent fine for shouldering Sam Konstas on Boxing Day. Several former Australian cricketers accused the ICC of being lenient towards Kohli, calling for a harsher punishment."
+      "url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-rohit-sharma-disturbed-openers-kl-rahul-yashasvi-jaiswal-sanjay-manjrekar-melbourne-2656136-2024-12-27",
+      "headline": "Rohit disturbed the openers in Melbourne: Manjrekar on India batting orderSanjay Manjrekar criticised Rohit Sharma's decision to open in Melbourne, highlighting its disruptive impact on India's batting lineup during the fourth Test against Australia, leaving India trailing after repeated batting collapses against a formidable Australian attack."
     },
     {
       "sentiment": "negative",
@@ -373,18 +383,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/cricket-aus-vs-ind-ravi-shastri-virat-kohli-clown-aussie-newspaper-sam-konstas-2656002-2024-12-27",
-      "headline": "Virat Kohli depicted as clown in Australian newspaper, Ravi Shastri reactsAustralia vs India, 4th Test: Ravi Shastri said he was not surprised by the over-the-top reaction of the Australian media to Virat Kohli's on-field bust-up with Sam Konstas in Melbourne. On Friday, a newspaper depicted Kohli as a clown."
+      "url": "https://www.indiatoday.in/sports/story/cricket-aus-vs-ind-mark-waugh-icc-lenient-virat-kohli-sam-konstas-shouldering-incident-2656035-2024-12-27",
+      "headline": "Mark Waugh questions ICC for being lenient with Virat Kohli in Konstas incidentBoxing Day Test: Former Australia batter Mark Waugh has criticised the ICC for giving Indian superstar Virat Kohli a 'light punishment' for his shoulder charge against debutant Sam Konstas.\r\n"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/cricket-aus-vs-ind-virat-kohli-special-gesture-towards-centurion-steve-smith-2655998-2024-12-27",
-      "headline": "Respect beyond rivalry: Virat Kohli wins hearts with special Steve Smith gestureBorder-Gavaskar Trophy: Star Indian batter Virat Kohli won hearts with his special gesture towards Steve Smith after the Australian great hit his 34th Test hundred on Day 2 of the Boxing Day Test."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/cricket-australia-ceo-on-virat-kohli-sam-konstas-spat-boxing-day-test-2655987-2024-12-27",
-      "headline": "Sam was gracious to brush it off: Cricket Australia CEO on Virat Kohli spatCricket Australia CEO Nick Hockley said teenage debutant Sam Konstas showed maturity beyond his age and was gracious to brush aside his physical altercation with India superstar Virat Kohli in the Boxing Day Test."
+      "url": "https://www.indiatoday.in/sports/story/cricket-aus-vs-ind-4th-test-rohit-sharma-retirement-fans-disappointed-mcg-2656021-2024-12-27",
+      "headline": "Rohit Sharma, please retire: Fans hurt after India captain fails in MCG TestBorder-Gavaskar Trophy: Rohit Sharma continued to fail with the bat in the Test series in Australia. The India captain has managed just 22 runs across five innings in the series. "
     },
     {
       "sentiment": "negative",
@@ -410,16 +415,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/story/cricket-aus-vs-ind-pitch-invader-tries-to-hug-virat-kohli-mcg-crowd-boos-star-2655982-2024-12-27",
       "headline": "Pitch invader tries to hug Virat Kohli after MCG crowd boos India starBorder-Gavaskar Trophy: An intruder ran towards the Melbourne pitch area and tried to hug Virat Kohli after the MCG crowd booed the Indian batting star on Day 2 of the Boxing Day Test."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/cricket-australia-steve-smith-11th-test-hundred-vs-india-2655984-2024-12-27",
-      "headline": "Steve Smith hits 11th Test hundred vs India, most by any batterStar Australia batter Steve Smith hit his 34th Test hundred on Day 2 of the fourth Test against India at the Melbourne Cricket Ground on Friday. This was Smith's 11th Test hundred against India, most by any batter."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/cricket-aus-vs-ind-india-players-black-armbands-tribute-former-pm-manmohan-singh-2655979-2024-12-27",
-      "headline": "India players wear black armbands in tribute to former PM Manmohan SinghIndian players sported black armbands on Friday, Day 2 of the Boxing Day Test against Australia in Melbourne, in honour of former Prime Minister Manmohan Singh, who passed away on Thursday.\r\n"
     }
   ],
   "education": [
