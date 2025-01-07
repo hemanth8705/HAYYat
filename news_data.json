@@ -1,6 +1,21 @@
 {
   "business": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/story/itr-filing-technical-glitch-keeps-section-87a-rebate-unavailable-for-taxpayers-2660846-2025-01-07",
+      "headline": "ITR filing: Technical glitch keeps Section 87A rebate unavailable for taxpayersTaxpayers remain unable to claim the Section 87A rebate on STCG income due to outdated ITR processing logic, even after recent updates to filing forms by the Income Tax Department."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/zomato-share-price-today-falls-is-stock-market-rally-over-explained-2660845-2025-01-07",
+      "headline": "Is Zomato's dream stock market run over? Zomato's share price has declined over 9% in the past 5 trading sessions and over 14% in a month. At around 12:05 pm, shares of the company were trading 4.38% lower at Rs 253.05. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/delta-autocorp-ipo-open-for-subscription-today-check-key-dates-gmp-price-band-other-details-stmp-2660829-2025-01-07",
+      "headline": " Delta Autocorp IPO opens today: Check GMP, price band and other detailsDelta Autocorp IPO open for bidding: The IPO is a book-built issue worth Rs 54.60 crore, comprising a fresh issue of 38.88 lakh shares amounting to Rs 50.54 crore and an offer for sale (OFS) of 3.12 lakh shares, aggregating to Rs 4.06 crore."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/budget/story/budget-2025-trade-unions-join-pre-budget-discussions-with-finance-minister-nirmala-sitharaman-2660815-2025-01-07",
       "headline": "Budget 2025: Trade Unions join pre-budget discussions with Nirmala SitharamanFinance Minister Nirmala Sitharaman held pre-Budget talks with trade unions to shape the Union Budget 2025-26, focusing on economic challenges and growth ahead of its February 1 presentation."
@@ -84,21 +99,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/from-couple-stays-to-family-hotels-founder-ritesh-agarwal-on-changing-oyo-brand-image-2660388-2025-01-06",
       "headline": "Ritesh Agarwal explains how OYO is shifting focus to family-friendly staysKnown for being couple-friendly, even for unmarried couples, OYO has been working over the past few months to rebrand itself as a more family-oriented platform."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/budget/story/budget-2025-will-salaried-class-get-any-tax-relief-increased-disposable-income-affordable-housing-inflation-control-healthcare-and-welfare-support-2660332-2025-01-06",
-      "headline": "Budget 2025: Will salaried class get any tax relief?With Budget 2025 approaching, the salaried class eagerly anticipates a budget that acknowledges their contributions and eases financial burdens."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/standard-glass-lining-ipo-day-1-subscribe-skip-review-good-bad-latest-subscription-gmp-details-2660326-2025-01-06",
-      "headline": "Standard Glass Lining IPO fully booked on Day 1: Should you subscribe or skip?Standard Glass Lining IPO Day 1: Investors have shown huge interest in the Standard Glass Lining IPO and on its opening day, the IPO was subscribed 7.43 times overall as of latest update. "
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/story/why-did-sensex-nifty-crash-today-5-reasons-why-stock-market-is-down-2660316-2025-01-06",
-      "headline": "Why did Sensex, Nifty crash today? 5 reasons why stock market is down Share market crash today: Sensex and Nifty tumbled sharply during the trading session as Dalal Street saw a massive spike in volatility. Below are the key factors that have negatively impacted the stock market today. "
     }
   ],
   "entertainment": [
@@ -132,12 +132,12 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/earthquake-nepal-epicentre-tremors-felt-in-bihar-delhi-ncr-2660722-2025-01-07?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Over 50 killed after multiple earthquakes strike Tibet; tremors felt in IndiaTremors were felt in Delhi-NCR and many parts of North India on Tuesday following a 7.1 magnitude earthquake in Tibet, near the Nepal border. "
+      "headline": "Over 50 dead after multiple earthquakes in Tibet; tremors felt in IndiaTremors were felt in Delhi-NCR and many parts of North India on Tuesday following a 7.1 magnitude earthquake in Tibet, near the Nepal border. "
     },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/elections/assembly/story/delhi-elections-aap-bjp-poster-war-amit-shah-chunavi-muslim-migrants-2660786-2025-01-07?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "AAP dubs Amit Shah as 'Chunavi Muslim' as poster war heats up ahead of pollsThe AAP's tit-for-tat attack comes days after the BJP released a poster calling Arvind Kejriwal a 'chunavi (electoral) Hindu' for promising Rs 18,000 monthly compensation to priests."
+      "headline": "AAP dubs Amit Shah as 'Chunavi Muslim' as poster war heats up ahead of pollsDelhi Elections: The AAP's tit-for-tat attack comes days after the BJP released a poster calling Arvind Kejriwal a 'chunavi (electoral) Hindu' for promising Rs 18,000 monthly compensation to priests."
     },
     {
       "sentiment": "positive",
@@ -197,7 +197,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/health/story/hmpv-scare-india-symptoms-risks-treatment-precaution-expert-advice-detailed-guide-2660557-2025-01-07?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "HMPV scare: Your detailed guideHuman metapneumovirus (HMPV) is garnering attention due to rising cases in China and advisories in Indian states like Karnataka and Maharashtra. While it's not a new virus, concerns are heightened because of limited research and public awareness. Here's everything you need to know about the virus."
+      "headline": "Symptoms to expert advice: Your detailed HMPV guideHuman metapneumovirus (HMPV) is garnering attention due to rising cases in China and advisories in Indian states like Karnataka and Maharashtra. While it's not a new virus, concerns are heightened because of limited research and public awareness. Here's everything you need to know about the virus."
     },
     {
       "sentiment": "positive",
@@ -222,17 +222,17 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/telangana/story/telangana-high-court-dismisses-ktrs-plea-to-quash-acb-fir-in-formula-e-case-2660795-2025-01-07?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Setback for KTR as Telangana High Court rejects plea to revoke corruption caseFormer Telangana IT minister and Opposition BRS party leader KT Rama Rao suffered a setback as the Telangana High Court dismissed his petition to overthrow the case against him. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-shubman-gill-highly-overrated-kris-srikkanth-2660774-2025-01-07?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Gill is highly overrated, India should pick Gaikwad or Sudharsan: SrikkanthFormer India captain Kris Srikkanth slammed Shubman Gill for his performances in the Border Gavaskar Trophy, questioning him for his below-par contribution. \r\n"
+      "headline": "Setback for KTR, Telangana High Court rejects plea to cancel corruption chargesFormer Telangana IT minister and Opposition BRS party leader KT Rama Rao suffered a setback as the Telangana High Court dismissed his petition to throw out the corruption case against him. "
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/hollywood/story/ben-affleck-jennifer-lopez-granted-divorce-2660748-2025-01-07?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
       "headline": "Ben Affleck, Jennifer Lopez granted divorce after two-year\u00a0marriageBen Affleck and Jennifer Lopez finalised their divorce 20 weeks after filing. Despite rumours of reconciliation, a source confirms they remain focused on co-parenting their children, ensuring they stay happy."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-shubman-gill-highly-overrated-kris-srikkanth-2660774-2025-01-07?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Gill is highly overrated, India should pick Gaikwad or Sudharsan: SrikkanthFormer India captain Kris Srikkanth slammed Shubman Gill for his performances in the Border Gavaskar Trophy, questioning him for his below-par contribution. \r\n"
     },
     {
       "sentiment": "positive",
@@ -251,26 +251,41 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/photo/keerthy-suresh-phuket-photo-dump-2660818-2025-01-07",
-      "headline": "Keerthy Suresh's Phuket photo dump: A picture-perfect getaway, almostActor Keerthy Suresh shared glimpses of her Phuket vacation with husband Antony Thattil. From stunning outfits to indulgent activities, she revealed it all\u2014plus, a candid moment about falling sick. "
+      "url": "https://www.indiatoday.in/movies/story/alok-chatterjee-irrfan-nsd-batchmate-and-theatre-actor-dies-at-64-2660844-2025-01-07",
+      "headline": "Alok Chatterjee, Irrfan's NSD batchmate and theatre actor,\u00a0dies\u00a0at\u00a064Renowned theatre actor Alok Chatterjee, Irrfan's NSD batchmate, passed away at 64 due to multiple organ failure. An acclaimed performer and mentor, he was honoured with the Sangeet Natak Akademi Award."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/lyricist-anantha-sriram-criticises-prabhas-nag-ashwin-kalki-2898-ad-portraying-karna-superior-arjuna-ashamed-2660789-2025-01-07",
-      "headline": "Lyricist criticises Prabhas' Kalki for portraying Karna as superior to ArjunaLyricist-poet Anantha Sriram criticised Prabhas' Kalki 2898 AD for depicting Karna as superior to Arjuna. He allegedly said that contemporary cinema was 'distorting Hindu mythology. \r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/marco-actor-unni-mukundan-exclusive-300-litre-blood-substance-used-2660415-2025-01-07",
+      "headline": "Unni Mukundan: 300 litres blood used in Marco, could have lost my eye | ExclusiveMarco actor Unni Mukundan risked his eyesight during the shoot of the film due to the use of a blood-like chemical substance. He also shared that almost 300 litres of the substance was used during the filming."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/television/reality-tv/story/bigg-boss-18-karan-veer-mehra-angry-shilpa-shirodkar-repeated-apologies-vivian-dsena-2660835-2025-01-07",
+      "headline": "BB 18: Karan Veer angry at Shilpa over repeated apologies to Vivian DsenaIn the latest episode of Bigg Boss 18, Karan Veer Mehra got angry at Shilpa Shirodkar over her repeated apologies to Vivian Dsena. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/mufasa-the-lion-king-ott-release-when-where-watch-disney-film-stmp-2660776-2025-01-07",
-      "headline": "Mufasa The Lion King OTT release: Here's what we knowDisney's Mufasa: The Lion King released in theatres on December 20, 2024. The film is expected to release digitally around March-April 2025. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/allu-arjun-visits-sri-tej-critically-injured-boy-pushpa-2-stampede-case-2660777-2025-01-07",
-      "headline": "Video: Allu Arjun visits critically injured victim of stampede at Pushpa 2 eventAllu Arjun visited Sri Tej, 9, who was critically injured in the stampede at the Pushpa 2 screening on December 4. His mother, Revathi, died in the stampede."
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/deepika-padukones-birthday-bts-from-kalki-2898-ad-sparks-her-return-for-sequel-2660824-2025-01-07",
+      "headline": "Deepika Padukone's birthday BTS from Kalki 2898 AD sparks her return for sequelThe makers of Kalki 2898 AD shared a special BTS (behind-the-scenes) video celebrating Deepika Padukone's portrayal of Sumathi. The video also teased fans with hints of her return in the sequel."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/mohammed-shami-injury-ravi-shastri-border-gavaskar-trophy-australia-vs-india-2660840-2025-01-07",
+      "headline": "Shami should have been in Australia: Ravi Shastri slams India's injury managementAustralia vs India: Senior fast bowler Mohammed Shami missed the entire Border-Gavaskar Trophy due to injury concerns. India felt the absence of the senior fast bowler as they lost the series 1-3."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/champions-trophy-shane-watson-india-vs-pakistan-date-2660837-2025-01-07",
+      "headline": "In Champions Trophy, every ball has a consequence: Shane WatsonFormer Australia all-rounder Shane Watson hyped up the Championship Trophy, which is returning after a hiatus of 7 years. Watson called the format exciting, stating that every ball had a consequence in the tournament.\r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/pakistan-saim-ayub-flies-london-immediate-treatment-ankle-injury-2660836-2025-01-07",
+      "headline": "Saim Ayub heads to London for treatment after ankle injurySaim Ayub travelled to London from Cape Town to get an expert opinion on his ankle injury as the Pakistan Cricket Board was racing against time to get him fit for next month's Champions Trophy."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/injured-australia-pacer-josh-hazlewood-set-to-miss-sri-lanka-series-2660798-2025-01-07",
@@ -313,18 +328,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-steve-smith-10000-test-runs-milestone-tough-scg-pitch-2660726-2025-01-07",
-      "headline": "Smith attributes missing out on 10,000 Test runs milestone to tough SCG pitchVeteran Australian batter Steve Smith has opened up on narrowly missing reaching the milestone of 10,000 career runs during the five-match Test series against India for the Border-Gavaskar Trophy.\r\n"
+      "url": "https://www.indiatoday.in/sports/cricket/story/otd-2019-virat-kohli-india-maiden-test-series-win-australia-2660763-2025-01-07",
+      "headline": "OTD in 2019: Virat Kohli's India secure maiden Test series win in AustraliaVirat Kohli-led India secured their first-ever Test series win on Australian soil six years back on January 7, 2019. The draw in the fourth Test sealed India's historic win in the 2018-19 Border Gavaskar Trophy."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/babar-azam-stepped-up-when-we-lost-saim-shan-masood-hails-pakistans-fightback-2660681-2025-01-06",
-      "headline": "Babar Azam stepped up when we lost Saim: Shan Masood hails Pakistan's fightbackBabar Azam's resilience shone despite Pakistan's loss, with a stellar performance alongside Shan Masood. However, Masood emphasised the need for the team to capitalise on key moments, stressing the importance of learning to win in crucial situations."
+      "url": "https://www.indiatoday.in/sports/tennis/story/nick-kyrgios-named-in-australia-open-davis-cup-squad-2660754-2025-01-07",
+      "headline": "Nick Kyrgios named in Australia's Davis Cup squad in surprise call-upAustralia star Nick Kyrgios was named in the country's Davis Cup squad. The call-up was unexpected, given Kyrgios's recent struggles with injuries."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/sa-vs-pak-test-series-south-africa-comeback-fairy-tale-2660660-2025-01-06",
-      "headline": "Rampaging South Africa script fairy-tale comeback to confirm WTC top spot SA vs PAK: With their 10-wicket win over Pakistan in the New Year's Test, South Africa confirmed their top spot in the WTC 2023-25. South Africa started 2024 with three losses and a draw before going on a seven-match winning streak. "
+      "url": "https://www.indiatoday.in/sports/football/story/alex-ferguson-david-beckham-respect-manchester-united-kath-phipps-2660751-2025-01-07",
+      "headline": "Sir Alex Ferguson, Beckham pay respects to Manchester United icon Kath PhippsSir Alex Ferguson, along with former and current Manchester United players like David Beckham, paid tribute to Kath Phipps, former club receptionist, at a funeral service on Monday."
     },
     {
       "sentiment": "positive",
@@ -377,19 +392,19 @@
       "headline": "Naomi Osaka 'optimistic' about Australian Open after painful Auckland exit  Naomi Osaka was confident of getting fit before the Australian Open after sustaining an abdominal injury that forced her out of the ASB Classic final against Clara Tauson on Sunday. "
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ravi-shastri-reveals-admiration-for-pat-cummins-since-coaching-era-he-amazes-me-2660566-2025-01-06",
-      "headline": "Ravi Shastri reveals admiration for Pat Cummins since coaching era: He amazes meRavi Shastri lauded Pat Cummins' captaincy after Australia's 3-1 BGT triumph, praising his competitive spirit and resilience. Shastri, recalling India's Test wins in Australia under his tenure, highlighted Cummins' determination and never-say-die attitude."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/cricket/story/angelo-mathews-slams-icc-for-sri-lankas-limited-2025-test-schedule-shocking-2660617-2025-01-06",
+      "headline": "Angelo Mathews slams ICC for Sri Lanka's limited 2025 Test schedule: ShockingAngelo Mathews calls out the ICC over Sri Lanka's dwindling Test opportunities, urging fairer scheduling to preserve the format's legacy. With just four Tests in 2025, Mathews fears disrupted careers and missed milestones as Sri Lanka's Test future hangs in the balance."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/jahanara-alam-bangladesh-fast-bowler-mental-health-break-2660565-2025-01-06",
-      "headline": "Bangladesh's Jahanara Alam takes two-month mental health breakBangladesh speedster Jahanara Alam took a two-month mental health break and did not feature in the national squad for the historic tour of the West Indies later this month. "
+      "url": "https://www.indiatoday.in/sports/cricket/story/sam-konstas-pink-test-sydney-cousin-grandfather-cancer-2660613-2025-01-06",
+      "headline": "Konstas opens up on 'special' Test, recalls cousin, grandfather's death Border Gavaskar Trophy, IND vs AUS: Young Australian batter Sam Konstas said that the Pink Test holds a special place for him since the SCG Test helps in spreading awareness about cancer. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/manchester-united-vs-liverpool-big-six-shine-rune-amorim-consistency-problem-2660543-2025-01-06",
-      "headline": "Big 6 vs Manchester United: Ruben Amorim's boys shine best under pressureRuben Amorim's Manchester United thrives under the spotlight of the Premier League's elite, blending tactical ingenuity with raw intensity. Yet, the inconsistency against lower-ranked sides raises a compelling question: can this team channel brilliance into consistent success across all battles?"
+      "url": "https://www.indiatoday.in/sports/cricket/story/south-africa-overcome-pakistans-stoic-resistance-to-win-new-years-test-sweep-series-2-0-2660612-2025-01-06",
+      "headline": "South Africa overcome Pakistan's stoic resistance to win New Year's Test, sweep series 2-0South Africa's dominance continues with a 10-wicket win over Pakistan, marking their seventh straight Test victory. Rickelton's double ton and Maharaj's key strikes shone, while Pakistan's valiant fight in the follow-on wasn't enough to avoid defeat."
     },
     {
       "sentiment": "positive",
@@ -415,21 +430,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/hashmatullah-hails-ismat-alams-ton-on-debut-after-afghanistans-test-series-win-zim-vs-afg-2660537-2025-01-06",
       "headline": "Hashmatullah hails Ismat Alams' ton on debut after Afghanistan's Test series winIsmat Alam's debut ton, honouring his father's legacy as an Afghan cricket pioneer, and Rashid Khan's match-winning brilliance powered Afghanistan to a historic Test series win over Zimbabwe. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/sumit-nagal-valiant-effort-in-vain-makes-1st-round-exit-from-asb-classic-2660532-2025-01-06",
-      "headline": "Sumit Nagal valiant effort in vain, makes 1st round exit from ASB ClassicIn a gripping match, India's Sumit Nagal showed resilience but lost to USA's Alex Michelsen to make an early exit from the ASB Classic. Meanwhile, the Indo-Mexican duo of Balaji and Reyes-Varela pulled off a thrilling victory against Bopanna and Barrientos."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-kerry-okeeffe-border-gavaskar-trophy-india-vs-australia-2660524-2025-01-06",
-      "headline": "Australia's tactics to break Rohit Sharma empowered them: Kerry O'KeeffeBorder Gavaskar Trophy, IND vs AUS: Kerry O'Keeffe said that Australia could not take down Jasprit Bumrah, but were successfully able to break Indian captain Rohit Sharma in the five-match series. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/premier-league-liverpool-vs-manchester-united-trent-alexander-arnold-real-madrid-talk-virgil-van-dijk-2660517-2025-01-06",
-      "headline": "Trent Alexander-Arnold unaffected by Real Madrid talk: Virgil van DijkLiverpool captain Virgil van Dijk has claimed that Trent Alexander-Arnold is unaffected by the talk around his future at the club as talks about a move to Real Madrid continue. Alexander-Arnold had a sloppy performance in the 2-2 draw against Manchester United at Anfield on January 5. "
     }
   ],
   "education": [
