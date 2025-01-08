@@ -1,6 +1,16 @@
 {
   "business": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/story/sensex-nifty-end-lower-in-volatile-session-reliance-jumps-nearly-2-percent-2661563-2025-01-08",
+      "headline": "Sensex, Nifty end lower in volatile session; Reliance jumps nearly 2%Stock market today: The S&P BSE Sensex ended 50.62 points lower to 78,148.49 at the closing bell, while the NSE Nifty50 fell 18.95 points to 23,688.95."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/pan-card-fraud-know-details-how-to-stay-safe-from-phishing-scam-2661555-2025-01-08",
+      "headline": "PAN card fraud: Know details, how to stay safe from phishing scamA new phishing scam claiming PAN card updates is targeting India Post Payments Bank customers, with PIB urging caution."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/reliance-share-price-target-jefferies-30-percent-upside-should-you-buy-2661550-2025-01-08",
       "headline": "Reliance share price jumps nearly 2%. Is there more upside and should you buy?Reliance share price: At 3:26 pm on the Bombay Stock Exchange (BSE), RIL shares were trading 1.81% higher at Rs 1,263.30. "
@@ -89,16 +99,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/closing-bell-sensex-nifty-recover-after-monday-slump-ril-gains-2-percent-2660967-2025-01-07",
       "headline": "Sensex, Nifty recover after Monday's slump; RIL gains 2% The S&P BSE Sensex added 234.12 points to close at 78,199.11, while the NSE Nifty50 gained 91.85 points to end at 23,707.90."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/paras-defence-share-price-rise-10-percent-reason-why-hit-upper-circuit-licence-light-machine-guns-2660954-2025-01-07",
-      "headline": "Explained: Why Paras Defence share price surged 10% todayParas Defence and Space Technologies Ltd designs, develops, manufactures, and tests a range of products for the defence and space sectors."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/budget/story/budget-2025-how-new-tax-regime-evolved-over-the-years-and-what-next-2660896-2025-01-07",
-      "headline": "Budget 2025: How new tax regime evolved over the years and what's next?As Budget 2025 nears, more changes to the new tax regime are expected to simplify taxes and benefit salaried employees and pensioners."
     }
   ],
   "entertainment": [
@@ -132,7 +132,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/elections/assembly/story/arvind-kejriwal-aam-aadmi-party-trinamool-congress-support-delhi-assembly-elections-samajwadi-party-india-allies-congress-2661540-2025-01-08?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Trinamool supports AAP in Delhi polls, Arvind Kejriwal says 'Thank you Didi'Trinamool Congress announces support to AAP in Delhi elections, Arvind Kejriwal says 'Thank you Didi'"
+      "headline": "Trinamool supports AAP in Delhi polls, Arvind Kejriwal says 'Thank you Didi'The Trinamool Congress has announced its support for the Aam Aadmi Party in the upcoming Delhi Assembly elections."
     },
     {
       "sentiment": "negative",
@@ -156,11 +156,6 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-to-announce-champions-trophy-2025-squad-before-january-12-sources-2661554-2025-01-08?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "India to announce Champions Trophy 2025 squad before January 12: SourcesThe BCCI is expected to announce India's squad for the ICC Men's Champions Trophy 2025 by January 12, while the team for the five-match T20I series against England is likely to be revealed a day earlier.\r\n"
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/budget/story/budget-2025-salaried-earners-up-to-rs-15-lakh-may-get-tax-relief-details-here-2661409-2025-01-08?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
       "headline": "Budget 2025: Salaried earners up to Rs 15 lakh may get tax relief. Details hereBudget 2025-26 may offer tax benefits for incomes up to Rs 15 lakh, boosting disposable income and driving economic growth."
     },
@@ -168,6 +163,11 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/iaf-chief-ap-singh-tejas-fighter-jets-production-delay-china-sixth-generation-aircraft-2661342-2025-01-08?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
       "headline": "Yet to get 40 Tejas ordered in 2010: IAF chief as China tests sixth-gen jetsIndian Air Force (IAF) chief AP Singh has raised concerns over China's astonishing pace of air force modernisation while expressing frustration over the sluggish pace of the delivery of Tejas jets."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-to-announce-champions-trophy-2025-squad-before-january-12-sources-2661554-2025-01-08?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "India to announce Champions Trophy 2025 squad before January 12: SourcesThe BCCI is expected to announce India's squad for the ICC Men's Champions Trophy 2025 by January 12, while the team for the five-match T20I series against England is likely to be revealed a day earlier.\r\n"
     },
     {
       "sentiment": "positive",
@@ -251,30 +251,80 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/hollywood/story/james-gunn-on-possibility-of-robert-pattinson-matt-reeves-batman-joining-dc-universe-2661553-2025-01-08",
-      "headline": "Filmmaker James Gunn addresses possibility of Robert Pattinson's Batman joining DCJames Gunn, co-CEO of DC Studios, has considered merging Robert Pattinson's Batman into the DC Universe, though no decisions have been made. "
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/nayanthara-vignesh-shivan-safari-dubai-sons-uyir-ulag-2661578-2025-01-08",
+      "headline": "Watch: Nayanthara, Vignesh Shivan enjoy safari in Dubai with sons Uyir, UlagNayanthara and Vignesh Shivan's video with their sons enjoying the Dubai safari has gone viral. The couple celebrated New Year in Dubai. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/television/story/ghum-hai-kisikey-pyaar-meiin-to-go-off-air-ankit-arora-confirms-2661551-2025-01-08",
-      "headline": "Confirmed: TV show Ghum Hai Kisikey Pyaar Meiin to go off airThe popular show Ghum Hai Kisikey Pyaar Meiin is confirmed to be going off air after the exit of lead stars Bhavika Sharma and Hitesh Bharadwaj. "
+      "url": "https://www.indiatoday.in/movies/bollywood/story/aamir-khan-raised-concerns-over-controversial-scene-in-dil-called-director-indra-kumar-paagal-2661539-2025-01-08",
+      "headline": "Aamir Khan called me mad over controversial scene in Dil, says filmmaker Indra KumarDirector Indra Kumar recently recalled that Aamir Khan had expressed his discomfort regarding a controversial scene in the film Dil. The film starred Aamir and Madhuri Dixit. \r\n"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/ram-kapoor-says-dont-blame-akshay-kumar-for-his-flops-2661544-2025-01-08",
-      "headline": "Ram Kapoor says don't blame Akshay Kumar for his flops: It's\u00a0the\u00a0producersActor Ram Kapoor defended Akshay Kumar's recent flops, attributing failures to producers rather than the actor. He praised Akshay's professionalism and applauded him for maintaining his stardom for 30 years. "
+      "url": "https://www.indiatoday.in/television/web-series/story/tillotama-shome-paatal-lok-2-casting-reading-session-2661568-2025-01-08",
+      "headline": "Could barely breathe: Tillotama Shome recalls first reading session of Paatal Lok 2Actor Tillotama Shome, who has joined the cast of Paatal Lok 2, called working on the show a transformative experience. She reflected on her disbelief at being cast and praised the show's tight script and stellar team."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/deepika-padukone-post-on-embracing-motherhood-2661507-2025-01-08",
-      "headline": "See: Deepika Padukone's post on embracing motherhoodDeepika Padukone, who became a mother last September, shared a touching message for new mothers on Instagram, emphasising the significance of their journey. She and Ranveer Singh welcomed daughter Dua last year. "
+      "url": "https://www.indiatoday.in/movies/celebrities/story/mrunal-thakur-replies-pakistani-actor-hania-aamir-parody-account-fans-react-2661562-2025-01-08",
+      "headline": "Mrunal Thakur replies to Pakistani actor Hania Aamir's parody accountMrunal Thakur responded to praise from Hania Aamir's parody account, sparking reactions from fans. "
     }
   ],
   "sports": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/new-zealand-batter-martin-guptill-confirms-retirement-from-international-cricket-2661576-2025-01-08",
+      "headline": "New Zealand batter Martin Guptill confirms retirement from international cricketOne of New Zealand's white-ball greats, Martin Guptill, announced on Wednesday, January 8 that he is retiring from international cricket. Guptill played a total of 367 games for New Zealand during his career. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/sunil-gavaskar-alan-border-should-have-presented-border-gavaskar-trophy-together-michael-clarke-2661571-2025-01-08",
+      "headline": "Gavaskar and Border should have presented BGT trophy together: ClarkeMichael Clarke criticized the absence of Sunil Gavaskar at the Border-Gavaskar Trophy presentation, suggesting both legends should have been present to honor the series' legacy. Cricket Australia admitted the oversight, agreeing it would have been preferable to include Gavaskar."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/fakhar-zaman-champions-trophy-pakistan-selection-2661559-2025-01-08",
+      "headline": "100 percent, I will play for Pakistan again: Fakhar on playing Champions Trophy Fakhar Zaman said that he is confident of making a comeback for Pakistan and take part in the Champions Trophy. The 34-year-old hasn't played for Pakistan since the T20 World Cup last year in the West Indies and USA. \r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/badminton/story/malaysia-open-hs-prannoy-overcomes-brian-yang-and-delay-malvika-bansod-advances-2661567-2025-01-08",
+      "headline": "Malaysia Open: HS Prannoy overcomes Brian Yang and delay, Malvika Bansod advancesHS Prannoy overcame a major delay and Brian Yang to progress to the pre-quarters of the Malaysia Open on Wednesday, January 8. Malvika Bansod continued her fine form as she reached the next stage as well. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-to-announce-champions-trophy-2025-squad-before-january-12-sources-2661554-2025-01-08",
+      "headline": "India to announce Champions Trophy 2025 squad before January 12: SourcesThe BCCI is expected to announce India's squad for the ICC Men's Champions Trophy 2025 by January 12, while the team for the five-match T20I series against England is likely to be revealed a day earlier.\r\n"
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/didier-deschamps-france-national-football-team-coach-not-renewing-contract-reason-2661549-2025-01-08",
       "headline": "Didier Deschamps on stepping down as France coach: 2026 a very good time to stopDidier Deschamps said that 2026 is a good time for him to stop as the France coach as he decided against renewing his current contract. Deschamps will be leaving the job which he took over in 2012. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/new-zealand-vs-sri-lanka-2nd-odi-report-rain-kusal-nz-series-win-rachin-2661526-2025-01-08",
+      "headline": "New Zealand seal series with 113-run win over Sri Lanka in rain-marred 2nd ODI NZ vs SL: New Zealand defeated Sri Lanka by 113 runs in the rain-hit 2nd ODI to take a 2-0 unassailable lead in the three-match series in Hamilton."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/jasprit-bumrah-achieves-career-best-rankings-after-indias-test-series-loss-2661533-2025-01-08",
+      "headline": "Jasprit Bumrah achieves career-best rating after India's Test series lossJasprit Bumrah's career-best ICC rating of 908 points highlights his dominance in Test cricket, even as India suffered a 3-1 loss to Australia in the Border Gavaskar Trophy, missing out on the World Test Championship 2025 final."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-jasprit-bumrah-rohit-sharma-future-virat-kohli-captain-adam-gilchrist-2661515-2025-01-08",
+      "headline": "I won't be surprised if Virat Kohli captains Test team again: Adam GilchristAustralia vs India: Former Australia wicketkeeper said Jasprit Bumrah might find it challenging to handle the full-time captaincy of the Test team. The legendary gloveman said he wouldn't be surprised if Virat Kohli takes up the leadership role in the Test team again. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/jasprit-bumrah-rohit-sharma-successor-test-captaincy-not-good-idea-mohammad-kaif-2661498-2025-01-08",
+      "headline": "Bumrah as Rohit Sharma successor in Test not a good idea: Mohammad KaifMohammad Kaif has advised against Jasprit Bumrah as India's Test captain, suggesting that batters KL Rahul or Rishabh Pant would be better options to maintain team balance if Rohit Sharma steps down from the leadership role."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/watch-rishabh-pant-arrives-in-india-from-sydney-meets-fans-at-airport-2661485-2025-01-08",
+      "headline": "Watch: Rishabh Pant arrives in India from Sydney, meets fans at airportRishabh Pant returned to India after a tough Border-Gavaskar Trophy, warmly greeting fans at Delhi Airport. Despite a forgettable series, his fiery knock in the final Test and charisma off the field keep fans hopeful for his resurgence."
     },
     {
       "sentiment": "positive",
@@ -328,23 +378,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/nitish-kumar-reddy-ranji-trophy-second-phase-prasidh-krishna-devdutt-padikkal-2661459-2025-01-08",
-      "headline": "Nitish Reddy to play Ranji Trophy after impressive Border-Gavaskar TrophyWhile Nitish Reddy is likely to feature in the last two rounds of Ranji Trophy for Andhra, Prasidh Krishna and Devdutt Padikkal are likely to link up with the Karnataka squad for the Vijay Hazare Trophy knockout stages. "
+      "url": "https://www.indiatoday.in/sports/football/story/neymar-agrees-cristiano-ronaldo-saudi-pro-league-better-than-ligue-1-comment-2661392-2025-01-08",
+      "headline": "Neymar agrees with Cristiano Ronaldo: Saudi Pro League better than Ligue 1Neymar has echoed Cristiano Ronaldo's remarks on the Saudi Pro League, endorsing its competitiveness over Ligue 1. Drawing from his experiences with Al Hilal, the Brazilian superstar highlighted the league's rising quality and influx of top-tier talent."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/new-zealaned-vs-sri-lanka-score-maheesh-theekshana-hat-trick-odi-hamilton-2661438-2025-01-08",
-      "headline": "Maheesh Theekshana bags ODI hat-trick, joins Vaas and Malinga in elite listNew Zealand vs Sri Lanka, 2nd ODI: Maheesh Theekshana became the seventh Sri Lankan bowler to take a hat-trick in men's ODI cricket. He achieved the landmark on Wednesday at Seddon Park in Hamilton. "
+      "url": "https://www.indiatoday.in/sports/cricket/story/jasprit-bumrah-best-ever-all-format-fast-bowler-michael-clarke-2661379-2025-01-08",
+      "headline": "Michael Clarke praises Bumrah as best ever all-format pacerFormer Australia captain Michael Clarke said Jasprit Bumrah was the best all-format fast bowler after the Indian pacer took 32 wickets to rattle Australian batters in the recently concluded Test series."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/champions-trophy-india-probable-squad-yashasvi-shami-rohit-virat-rahul-jadeja-2661426-2025-01-08",
-      "headline": "India probable squad: Yashasvi set to be considered; doubts over Shami, JadejaRohit Sharma and Virat Kohli remain central to India's ODI squad, but the futures of KL Rahul, Mohammed Shami, and Ravindra Jadeja are uncertain as selectors prepare for the Champions Trophy. Yashasvi Jaiswal is a strong contender for a spot."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/champions-trophy-2025-afghanistan-appoint-pakistan-great-younis-khan-as-mentor-2661436-2025-01-08",
-      "headline": "Champions Trophy 2025: Afghanistan appoint Pakistan great Younis Khan as mentorAfghanistan bolsters its coaching setup with Pakistan legend Younis Khan as mentor for the ICC Champions Trophy 2025. Known for his leadership and batting expertise, Younis aims to guide the team to new heights on the global stage."
+      "url": "https://www.indiatoday.in/sports/football/story/premier-league-possible-january-transfer-manchester-united-victor-osimhen-nuno-mendes-2661364-2025-01-08",
+      "headline": "Premier League: 7 potential January transfer deals to watch out forThe January transfer window promises excitement for Premier League fans, with Manchester United, Liverpool, and Manchester City preparing to make crucial moves to strengthen their squads for the second half of the season, ensuring high-stakes drama unfolds."
     },
     {
       "sentiment": "positive",
@@ -385,46 +430,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/sam-konstas-surprise-chat-legend-virat-kohli-mcg-drama-2661312-2025-01-08",
       "headline": "Sam Konstas reveals surprise chat with 'legend' Virat Kohli after MCG dramaYoung Australia opener Sam Konstas has revealed his post-match chat with Virat Kohli after the Boxing Day Test drama at the MCG. Konstas told Kohli that he idolises the Indian batting great."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/neymar-fifa-2026-world-cup-reunion-with-messi-suarez-2661301-2025-01-08",
-      "headline": "Neymar says 2026 World Cup will be his last; hints at reunion with Messi, SuarezBrazilian forward Neymar has expressed interest in reuniting with his former Barcelona teammates Lionel Messi and Luis Suarez at Inter Miami. The 32-year-old also revealed that the 2026 FIFA World Cup will be his final opportunity to chase the dream of World Cup glory."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/mikel-arteta-carabao-cup-ball-arsenals-0-2-loss-newcastle-united-2661326-2025-01-08",
-      "headline": "Arteta blames Carabao Cup ball for Arsenal's 0-2 loss to Newcastle UnitedMikel Arteta believes Arsenal's inability to adjust to the Carabao Cup ball played a role in Tuesday's 2-0 semifinal, first-leg loss against Newcastle United.\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/didier-deschamps-to-step-down-as-france-manager-after-2026-fifa-world-cup-2661314-2025-01-08",
-      "headline": "Didier Deschamps to step down as France manager after 2026 FIFA World CupFrance head coach Didier Deschamps will step down from the role when his current contract ends after the 2026 World Cup. Deschamps led Les Bleus to the 2018 World Cup title."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/sam-konstas-surprise-chat-legend-virat-kohli-mcg-drama-2661312-2025-01-08",
-      "headline": "Sam Konstas reveals surprise chat with 'legend' Virat Kohli after MCG dramaYoung Australia opener Sam Konstas has revealed his post-match chat with Virat Kohli after the Boxing Day Test drama at the MCG. Konstas told Kohli that he idolises the Indian batting great."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/neymar-fifa-2026-world-cup-reunion-with-messi-suarez-2661301-2025-01-08",
-      "headline": "Neymar says 2026 World Cup will be his last; hints at reunion with Messi, SuarezBrazilian forward Neymar has expressed interest in reuniting with his former Barcelona teammates Lionel Messi and Luis Suarez at Inter Miami. The 32-year-old also revealed that the 2026 FIFA World Cup will be his final opportunity to chase the dream of World Cup glory."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/aus-vs-ind-sam-konstas-admits-provoking-jasprit-bumrah-sydney-test-2661291-2025-01-08",
-      "headline": "Sam Konstas admits provoking Jasprit Bumrah in Sydney Test: It was my faultSam Konstas admitted it was his mistake to provoke Jasprit Bumrah in the Sydney Test, as he believed his batting partner, Usman Khawaja, needed extra time before facing the next delivery in the final over of Day 1.\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/fresh-injury-doubt-nick-kyrgios-australian-open-return-2661282-2025-01-08",
-      "headline": "Fresh injury casts doubt over Nick Kyrgios's Australian Open return Nick Kyrgios has cast fresh uncertainty over his participation in the Australian Open after pulling out of an exhibition match with Novak Djokovic."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/elon-musk-would-like-to-buy-premier-league-club-liverpool-claims-father-2661275-2025-01-08",
-      "headline": "Elon Musk 'would like to' buy Premier League club Liverpool, claims fatherElon Musk's father, Errol, said his billionaire son has expressed interest in buying English Premier League club Liverpool. The Premier League club is privately owned by Fenway Sports Group.\r\n\r\n"
     }
   ],
   "education": [
