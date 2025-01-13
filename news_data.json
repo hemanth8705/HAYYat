@@ -1,6 +1,11 @@
 {
   "business": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/story/retail-inflation-eases-to-4-month-low-of-522-in-december-2024-2664141-2025-01-13",
+      "headline": "Retail inflation eases to 4-month low of 5.22% in DecemberIndia's inflation eased to 5.22% in December 2024 as food prices slowed, with the RBI maintaining a cautious policy stance."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/budget/story/budget-2025-5-important-things-government-needs-to-address-2664094-2025-01-13",
       "headline": "Budget 2025: 5 important things government needs to addressGoldman Sachs outlines five key questions on fiscal deficit, spending, and growth ahead of Budget 2025."
@@ -94,11 +99,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/budget/story/budget-2025-tax-relief-new-regime-experts-push-for-hra-inclusion-standard-deduction-rs-1-lakh-2663823-2025-01-13",
       "headline": "Budget 2025: Experts push for HRA inclusion, Rs 1 lakh standard deduction Amid rising costs and squeezed disposable incomes, the spotlight is on the new tax regime, with experts pushing the demands for HRA inclusion and a Rs 1 lakh standard deduction in Budget 2025."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/india/story/rupee-falls-to-all-time-low-of-86-against-us-dollar-2663832-2025-01-13",
-      "headline": "Rupee falls to all-time low of 86 against US dollar, likely to remain volatileRupee hits all-time low: For the Indian economy, the sustained pressure on the rupee could translate to higher import costs and a potential rise in inflation."
     }
   ],
   "entertainment": [
@@ -132,12 +132,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/ashwini-vaishnaw-fact-checks-mark-zuckerberg-lok-sabha-poll-results-joe-rogan-podcast-2664135-2025-01-13?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Ashwini Vaishnaw fact-checks Mark Zuckerberg on Lok Sabha poll results claimPM won third term: Ashwini Vaishnaw fact-checks Mark Zuckerberg on Lok Sabha poll results claim"
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/india-summons-bangladesh-envoy-day-border-tensions-2664030-2025-01-13?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "India summons Bangladesh envoy day after Dhaka's summons to its diplomatThe border tensions between India and Bangladesh have escalated after Dhaka alleged that India was trying to construct fences at five locations along the India-Bangladesh border."
+      "headline": "Ashwini Vaishnaw fact-checks Mark Zuckerberg on Lok Sabha poll results claimMark Zuckerberg claimed that most incumbent governments worldwide, including India, were defeated in polls held post-Covid. Ashwini Vaishnaw fact-checked the claim, citing NDA's decisive victory in 2024 polls."
     },
     {
       "sentiment": "positive",
@@ -146,13 +141,43 @@
     },
     {
       "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/punjab-womens-panel-takes-note-of-yuvraj-singhs-fathers-sexist-remarks-2664117-2025-01-13?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Punjab women's panel takes note of Yograj Singh's sexist remarksIn an interview, Yuvraj Singh's father Yograj made disparaging comments about women, including former Prime Minister Indira Gandhi. The remarks sparked outrage on social media."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/japan-magnitude-earthquake-kyushu-region-tremors-2664155-2025-01-13?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "6.9 magnitude earthquake strikes Japan, triggers tsunami warningA tsunami warning was issued for Japan's two prefectures after a 6.9 magnitude earthquake struck the Kyushu region in southwestern Japan. So far, there were no reports of damage or injuries."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/lifestyle/relationship/story/55-of-indians-are-left-wanting-more-sex-survey-2664085-2025-01-13?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Why 55% of Indians are left wanting more sexA recent survey involving over 10,000 respondents has revealed startling insights into modern relationships and intimacy."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/australian-open-novak-djokovic-vs-nishesh-basavareddy-report-melbourne-indian-origian-american-2664105-2025-01-13?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Australian Open: Djokovic survives scare from Indian-origin fanboy BasavareddyAustralian Open 2025: Playing in his first Grand Slam, 19-year-old American Nishesh Basavareddy gave 24-time Grand Slam champion Novak Djokovic a massive scare in the first round. Nishesh took the opening set before going down fighting in Melbourne on Monday, January 13. "
+    },
+    {
+      "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/law-news/story/delhi-high-court-on-aap-cag-reports-aap-flags-bjp-using-court-observation-elections-2664091-2025-01-13?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
       "headline": "BJP using court as tool to play political games: AAP flags party's CAG remarksAAP accused the BJP of misusing Delhi High Court observations in a press conference, alleging an attempt to politicise the judiciary, soon after the court criticised AAP's delay in tabling CAG reports."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/relationship/story/55-of-indians-are-left-wanting-more-sex-survey-2664085-2025-01-13?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "55% of Indians are left wanting more sex: SurveyA recent survey involving over 10,000 respondents has revealed startling insights into modern relationships and intimacy."
+      "url": "https://www.indiatoday.in/india/story/steve-jobs-wife-laurene-powell-attends-maha-kumbh-holy-dip-sangam-hindu-name-2664116-2025-01-13?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Orange dupatta on head, Steve Jobs's wife, Laurene, attends Maha KumbhLaurene Powell Jobs, the widow of Apple co-founder Steve Jobs, attended the Maha Kumbh in Prayagraj. She is expected to take a holy dip at Sangam, the confluence of the Ganga, Yamuna and Saraswati rivers."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/aadar-jain-alekha-advani-married-seal-the-deal-kiss-goa-2664140-2025-01-13?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Watch: Aadar Jain-Alekha Advani are married, seal the deal with a kiss in GoaAadar Jain and Alekha Advani got married in an intimate ceremony in Goa, surrounded by close family and friends. The couple shared glimpses of their white-themed wedding, including a kiss that sealed their vows."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/brahmin-couples-four-children-produce-lakh-madhya-pradesh-government-board-chief-appeal-2664073-2025-01-13?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Have 4 children, get Rs 1 lakh: Madhya Pradesh Brahmin board chief to couplesPandit Vishnu Rajoria, the president of Parshuram Kalyan Board, said it was important for Brahmin couples to produce four children to \"protect Sanatana Dharma\". He said he would reward such couples having four children."
     },
     {
       "sentiment": "positive",
@@ -161,8 +186,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/brahmin-couples-four-children-produce-lakh-madhya-pradesh-government-board-chief-appeal-2664073-2025-01-13?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Have 4 children, get Rs 1 lakh: Madhya Pradesh Brahmin board chief to couplesPandit Vishnu Rajoria, the president of Parshuram Kalyan Board, said it was important for Brahmin couples to produce four children to \"protect Sanatana Dharma\". He said he would reward such couples having four children."
+      "url": "https://www.indiatoday.in/information/story/mahakumbh-mela-2025-prayagraj-lost-and-found-families-separated-bhula-bhatka-camps-2664100-2025-01-13?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "How authorities are reuniting families separated at Maha Kumbh Mela 2025Maha Kumbh Mela 2025: From 'Bhula-Bhatka' camps, announcements on loudspeakers to police assistance centres, here's how Mela authorities are reuniting families separated in the mela."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/watch-china-launch-satellites-from-a-ship-in-the-middle-of-the-sea-2664056-2025-01-13?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Watch China launch satellites from a ship in the middle of the seaThis launch marks a significant milestone as it is the first sea-based rocket launch of 2025 for China, conducted by the Taiyuan Satellite Launch Center. "
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/india-summons-bangladesh-envoy-day-border-tensions-2664030-2025-01-13?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "India summons Bangladesh envoy day after Dhaka's summons to its diplomatThe border tensions between India and Bangladesh have escalated after Dhaka alleged that India was trying to construct fences at five locations along the India-Bangladesh border."
     },
     {
       "sentiment": "negative",
@@ -171,13 +206,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/information/story/mahakumbh-mela-2025-prayagraj-lost-and-found-families-separated-bhula-bhatka-camps-2664100-2025-01-13?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "How authorities are reuniting families separated at Maha Kumbh Mela 2025Maha Kumbh Mela 2025: From 'Bhula-Bhatka' camps, announcements on loudspeakers to police assistance centres, here's how Mela authorities are reuniting families separated in the mela."
+      "url": "https://www.indiatoday.in/world/us-news/story/h1b-visa-green-card-indians-in-us-jobs-education-american-colleges-donald-trump-what-comes-next-january-20-2664005-2025-01-13?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Amid H-1B visa turmoil, some Indians lose job offers, others dreamsIndians are caught in the H-1B visa crossfire amid debate over employment policy as US President-elect Donald Trump prepares to take office on January 20. There are reports of Indians being hit as US employers withdraw job offers, and students planning to study in American colleges fear being caught in the anti-immigrant whirlwind."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/h1b-visa-green-card-indians-in-us-jobs-education-american-colleges-donald-trump-what-comes-next-january-20-2664005-2025-01-13?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Amid H-1B visa turmoil, some Indians lose job offers, others dreamsIndians are caught in the H-1B visa crossfire amid debate over employment policy as US President-elect Donald Trump prepares to take office on January 20. There are reports of Indians being hit as US employers withdraw job offers, and students planning to study in American colleges fear being caught in the anti-immigrant whirlwind."
+      "url": "https://www.indiatoday.in/movies/celebrities/story/kl-rahul-cannnot-stop-looking-at-wife-athiya-shetty-as-she-flaunts-pregnancy-glow-2664075-2025-01-13?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "KL Rahul can't stop looking at wife Athiya Shetty as she flaunts\u00a0pregnancy\u00a0glowIn a recent picture, Athiya Shetty can be seen flaunting her beautiful pregnancy glow as she posed with her cricketer-husband KL Rahul. The couple's adorable photo has been capturing hearts across social media."
     },
     {
       "sentiment": "positive",
@@ -191,13 +226,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/watch-china-launch-satellites-from-a-ship-in-the-middle-of-the-sea-2664056-2025-01-13?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Watch China launch satellites from a ship in the middle of the seaThis launch marks a significant milestone as it is the first sea-based rocket launch of 2025 for China, conducted by the Taiyuan Satellite Launch Center. "
+      "url": "https://www.indiatoday.in/sports/cricket/story/why-arjun-tendulkar-stopped-training-with-yograj-singh-2664084-2025-01-13?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Why Arjun Tendulkar stopped training with Yograj SinghFormer India cricketer Yuvraj Singh's father, Yograj, recently revealed why Arjun Tendulkar stopped training under him."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/why-arjun-tendulkar-stopped-training-with-yograj-singh-2664084-2025-01-13?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Why Arjun Tendulkar stopped training with Yograj SinghFormer India cricketer Yuvraj Singh's father, Yograj, recently revealed why Arjun Tendulkar stopped training under him."
+      "url": "https://www.indiatoday.in/india/story/uttar-pradesh-cm-yogi-adityanath-mandir-masjid-hindutva-stance-rss-mohan-bhagwat-maha-kumbh-2025-2663841-2025-01-13?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "How Yogi Adityanath is charting own course on Hindutva heritageThere are two streams of thought in the larger Hindutva family when it comes to the disputed places of worship. With his stance that \"reclaiming heritage is not a bad thing\", Uttar Pradesh CM Yogi Adityanath has charted a distinct course, different from RSS Chief Mohan Bhagwat's. \u00a0"
     },
     {
       "sentiment": "positive",
@@ -211,43 +246,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/kl-rahul-cannnot-stop-looking-at-wife-athiya-shetty-as-she-flaunts-pregnancy-glow-2664075-2025-01-13?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "KL Rahul can't stop looking at wife Athiya Shetty as she flaunts\u00a0pregnancy\u00a0glowIn a recent picture, Athiya Shetty can be seen flaunting her beautiful pregnancy glow as she posed with her cricketer-husband KL Rahul. The couple's adorable photo has been capturing hearts across social media."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/australian-open-novak-djokovic-vs-nishesh-basavareddy-report-melbourne-indian-origian-american-2664105-2025-01-13?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Australian Open: Djokovic survives scare from Indian-origin fanboy BasavareddyAustralian Open 2025: Playing in his first Grand Slam, 19-year-old American Nishesh Basavareddy gave 24-time Grand Slam champion Novak Djokovic a massive scare in the first round. Nishesh took the opening set before going down fighting in Melbourne on Monday, January 13. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/uttar-pradesh-cm-yogi-adityanath-mandir-masjid-hindutva-stance-rss-mohan-bhagwat-maha-kumbh-2025-2663841-2025-01-13?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "How Yogi Adityanath is charting own course on Hindutva heritageThere are two streams of thought in the larger Hindutva family when it comes to the disputed places of worship. With his stance that \"reclaiming heritage is not a bad thing\", Uttar Pradesh CM Yogi Adityanath has charted a distinct course, different from RSS Chief Mohan Bhagwat's. \u00a0"
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/z-morh-tunnel-inauguration-pm-modi-in-kashmir-omar-abdullah-lal-chowk-2664014-2025-01-13?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
       "headline": "NDA government completes what it starts: PM after inaugurating Z-Morh TunnelSpeaking after the inauguration of Z-Morh Tunnel, PM Modi said that the tunnel will ensure Sonamarg's connectivity during winter, giving \"new wings\" to tourism in Jammu and Kashmir."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/mahakumbh-2025-prayagraj-important-dates-shahi-snan-maha-kumbh-where-to-stay-hotels-tent-city-explained-2663933-2025-01-13?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Maha Kumbh 2025: When to visit, where to stayThe 45-day Maha Kumbh Mela 2025 in Prayagraj, a once-in-144-year spiritual gathering, commenced on January 13. The congregation is expected to draw 450 million devotees to the Triveni Sangam. Visitors can choose to visit on the six auspicious bathing days or opt for less-crowded dates. Here are the various accommodation options, ranging from tent cities and luxury hotels to budget lodges."
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/jayam-ravi-changes-name-to-ravi-mohan-stmp-2664186-2025-01-13",
+      "headline": "Tamil actor Jayam Ravi changes name to Ravi Mohan, launches production houseIn a transformative move, Tamil actor Jayam Ravi has officially changed his name to Ravi Mohan. This change comes just before his film release and marks the launch of his new production house and fan organisation."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/health/story/new-nasal-test-can-help-quickly-identify-asthma-in-children-study-2664022-2025-01-13?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "New nasal test can help quickly identify asthma in children: StudyA recent study has identified a new non-invasive nasal swab test that could change asthma treatment for children, which can provide accurate diagnosis of different asthma types."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/jammu-and-kashmir-z-morh-tunnel-crucial-boosting-defence-logistics-tourism-sonamarg-economy-2663989-2025-01-13?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "From boosting defence logistics to tourism, here's why Z-Morh Tunnel is importantZ-Morh Tunnel: The project, completed at a cost of over Rs 2,700 crore, also features a parallel 7.5-meter-wide parallel escape tunnel for enhanced safety. It significantly reduces travel time between Srinagar and Sonamarg. "
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/cricket/story/abhishek-sharma-indigo-delhi-airport-misbehave-india-vs-england-series-t20-2663879-2025-01-13?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Cricketer Abhishek Sharma shreds IndiGo: 1-day holiday completely ruinedCricketer Abhishek Sharma lashed out at the popular airline, saying its staff misbehaved with him at the Delhi airport on Monday, January 13. Abhishek said he had only a day's holiday to spend with his close ones before he headed to Kolkata for the opening match of a T20I series against England. "
+      "url": "https://www.indiatoday.in/movies/celebrities/story/farah-khan-introduces-fans-to-karan-johar-pink-bathroom-in-hilarious-video-2664154-2025-01-13",
+      "headline": "Farah Khan introduces fans to Karan Johar's pink bathroom in hilarious video\u00a0Farah Khan and Karan Johar share fun chemistry, and the same could be seen in her latest vlog in which she took her fans inside KJo's luxurious house where he cooked chocolate fudge for everyone. "
     },
     {
       "sentiment": "positive",
@@ -258,19 +268,19 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/aadar-jain-alekha-advani-married-seal-the-deal-kiss-goa-2664140-2025-01-13",
       "headline": "Watch: Aadar Jain-Alekha Advani are married, seal the deal with a kiss in GoaAadar Jain and Alekha Advani got married in an intimate ceremony in Goa, surrounded by close family and friends. The couple shared glimpses of their white-themed wedding, including a kiss that sealed their vows."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/shraddha-kapoor-phone-wallpaper-rahul-mody-mushy-pic-2664109-2025-01-13",
-      "headline": "Shraddha Kapoor's phone wallpaper features mushy pic with Rahul Mody? Shraddha Kapoor and scriptwriter Rahul Mody have been the talk of the town due to their rumoured relationship, which has been further fuelled by their public appearances and social media hints. Recently, Shraddha's phone wallpaper featuring them together has reignited speculation among fans."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/rasha-thadani-on-paparazzi-culture-do-not-step-out-without-kajal-and-lip-gloss-2664102-2025-01-13",
-      "headline": "I don't step out without kajal and lip gloss: Rasha Thadani on paparazzi cultureRasha Thadani, set to debut in Azaad, spoke about adapting to paparazzi culture and shared how the pressure of constant public scrutiny initially impacted her. "
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/pv-sindhu-past-glory-hunder-for-more-success-badminton-puma-brand-ambassador-2664192-2025-01-13",
+      "headline": "Past glory keeps my hunger going for more in the future: PV SindhuP.V. Sindhu remains steadfast in her pursuit of badminton glory, drawing inspiration from past triumphs and evolving her game to stay competitive while mentoring India's next generation of players. Her passion and resilience continue to fuel her journey."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/shreyas-iyer-ready-to-bat-anywhere-in-champions-trophy-2025-2664156-2025-01-13",
+      "headline": "Shreyas Iyer ready to bat anywhere in ICC Champions Trophy 2025Star India batter Shreyas Iyer said that he's ready to bat anywhere in the upcoming ICC Champions Trophy 2025. The mega event is all set to begin from February 19."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/nishesh-basavareddy-early-life-parents-vs-novak-djokoic-idol-australian-open-debut-2664123-2025-01-13",
@@ -318,13 +328,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/kho-kho-world-cup-know-rules-regulations-teams-groups-2664020-2025-01-13",
-      "headline": "Kho Kho World Cup: Know rules and regulations, teams, groupsThe inaugural edition of Kho Kho World Cup starts on January 13, Monday. Here's everything you need to know about the teams that are featured in the competition, and the rules and regulations of the sport.\r\n"
+      "url": "https://www.indiatoday.in/sports/cricket/story/why-arjun-tendulkar-stopped-training-with-yograj-singh-2664084-2025-01-13",
+      "headline": "Why Arjun Tendulkar stopped training with Yograj SinghFormer India cricketer Yuvraj Singh's father, Yograj, recently revealed why Arjun Tendulkar stopped training under him."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/australian-open-live-score-novak-djokovic-vs-nishesh-basavareddy-updates-melbourne-first-round-2664007-2025-01-13",
-      "headline": "Novak Djokovic vs Nishesh Basavareddy Highlights: Indian-origin teen goes down fightingAustralian Open 2025 Highlights: Novak Djokovic comes back from behind to beat Nishesh Basavareddy, but that was not without a strong fight from the Indian-origin teen.  The 10-time champion Djokovic tested the 19-year-old at every stretct to win the match 4-6, 6-3, 6-4, 6-2."
+      "url": "https://www.indiatoday.in/sports/cricket/story/shoaib-akhtar-virat-kohli-champions-trophy-india-vs-pakistan-form-babar-azam-2664048-2025-01-13",
+      "headline": "If you want to wake Virat Kohli up, tell there's a match vs Pakistan: Shoaib AkhtarChampions Trophy 2025: Speaking to India Today's sister channel Sports Tak, Shoaib Akhtar said he is confident of Virat Kohli returning to form in the premier 50-over tournament. Kohli struggled to get going in the recently-concluded five-Test series in Australia. "
     },
     {
       "sentiment": "positive",
@@ -382,14 +392,14 @@
       "headline": "Karun Nair equals record-feat in Vijay Hazare in bid to revive India careerVijay Hazare Trophy: Vidarbha captain Karun Nair equalled the record of Narayan Jagadeesan by hitting his 5th century of the tournament. Nair has been in terrific form and is pushing hard to revive his dormant India career.\r\n"
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/cricket/story/abhishek-sharma-indigo-delhi-airport-misbehave-india-vs-england-series-t20-2663879-2025-01-13",
-      "headline": "Cricketer Abhishek Sharma shreds IndiGo: 1-day holiday completely ruinedCricketer Abhishek Sharma lashed out at the popular airline, saying its staff misbehaved with him at the Delhi airport on Monday, January 13. Abhishek said he had only a day's holiday to spend with his close ones before he headed to Kolkata for the opening match of a T20I series against England. "
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/barcelona-fan-kuldeep-yadav-trolls-real-madrid-after-el-clasico-2663929-2025-01-13",
+      "headline": "Good night: Barcelona fan Kuldeep Yadav trolls Real Madrid after El ClasicoIndia spinner Kuldeep Yadav has trolled Real Madrid after they lost the Super Cup to FC Barcelona. Kuldeep, a Barcelona fan took to Twitter to express his joy.\r\n"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/barcelona-coach-hansi-flick-super-cup-win-vs-real-madrid-2663849-2025-01-13",
-      "headline": "Barcelona coach hails 'incredible team' after Super Cup win vs Real MadridFC Barcelona manager Hansi Flick has praised his team after winning their first trophy of the season. Barcelona beat Real Madrid 5-2 in the Spanish Super Cup Final.\r\n"
+      "url": "https://www.indiatoday.in/sports/tennis/story/australian-open-jannik-sinner-iga-swiatek-first-round-wins-tough-test-2663928-2025-01-13",
+      "headline": "Jannik Sinner continues hard-court love affair, Iga Swiatek marches onAustralian Open 2025: Despite ongoing chatter regarding doping sanctions, Jannik Sinner and Iga Swiatek made a winning start to their campaigns at Melbourne Park. Sinner extended his winning run at Grand Slam tournaments on hard courts to 15 matches. "
     },
     {
       "sentiment": "positive",
@@ -420,16 +430,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/gautam-gambhir-bgt-manoj-tiwary-hypocrite-2663830-2025-01-13",
       "headline": "After calling Gautam Gambhir hypocrite, Manoj Tiwary blames media for editingFormer India cricketer Manoj Tiwary has issued a clarification, days after calling Gautam Gambhir a hypocrite. Tiwary had lashed out at the India head coach after the team's loss in the Border-Gavaskar Trophy.\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/devajit-saikia-india-test-cricket-problems-bcci-fixing-issues-2663813-2025-01-13",
-      "headline": "India not doing well in Test cricket: New BCCI secretary vows to make changesNewly appointed BCCI secretary Devajit Saikia has vowed to help India return to their best shape in Test cricket. Saikia has acknowledged that India have dropped the ball in Tests in the recent times."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/barcelona-vs-real-madrid-el-clasico-spanish-super-cup-final-match-report-2663805-2025-01-13",
-      "headline": "10-men Barcelona thrash Real Madrid 5-2 to win Spanish Super CupFC Barcelona players scored 4 goals in the first half to win their first title of the season. Barcelona beat Real Madrid 5-2 in the final of the Spanish Super Cup."
     }
   ],
   "education": [
