@@ -1,6 +1,11 @@
 {
   "business": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/stocks-to-watch-today-sensex-nifty-jsw-cements-hdfc-hcltech-delta-corp-united-spirits-bel-2664373-2025-01-14",
+      "headline": "Stocks to watch today: JSW Cements, HDFC AMC, HCLTech, BEL, Adani WilmarStocks such as JSW Cements, HDFC AMC, HCLTech, Delta Corp, United Spirits, and BEL are expected to remain in focus."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/story/retail-inflation-eases-to-4-month-low-of-522-in-december-2024-2664141-2025-01-13",
       "headline": "Retail inflation eases to 4-month low of 5.22% in DecemberIndia's inflation eased to 5.22% in December 2024 as food prices slowed, with the RBI maintaining a cautious policy stance."
@@ -94,11 +99,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/biocon-share-price-gains-over-4-percent-today-usfda-voluntary-action-indicated-classification-2663843-2025-01-13",
       "headline": "Explained: Why Biocon share price climbed over 4% in early trade todayBiocon's share price climbed to an intraday high of Rs 377.50 per share in intraday trade on the Bombay Stock Exchange (BSE).\u00a0As of 10:23 am, Biocon's stock was trading at Rs 376.60\u00a0per share, up 4.34% on the BSE."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/budget/story/budget-2025-tax-relief-new-regime-experts-push-for-hra-inclusion-standard-deduction-rs-1-lakh-2663823-2025-01-13",
-      "headline": "Budget 2025: Experts push for HRA inclusion, Rs 1 lakh standard deduction Amid rising costs and squeezed disposable incomes, the spotlight is on the new tax regime, with experts pushing the demands for HRA inclusion and a Rs 1 lakh standard deduction in Budget 2025."
     }
   ],
   "entertainment": [
@@ -141,8 +141,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/karnataka/story/clp-meeting-congress-karnataka-power-tussle-siddaramaiah-dk-shivakumar-randeep-surjewala-2664343-2025-01-14?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "'No remarks against party': Congress to Karnataka legislators amid power tussleAmid speculation over a possible change of guard in Karnataka in March, the Congress told its legislators in the state not to make public statements against the party and to resolve their differences internally."
+      "url": "https://www.indiatoday.in/india/story/ram-temple-consecration-day-true-independence-rss-chief-mohan-bhagwat-2664319-2025-01-13?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "India got true independence on Ram Mandir's consecration day: Mohan BhagwatRSS chief Mohan Bhagwat called Ram Temple consecration a symbol of \"true independence\" for India, highlighting unity and pride during the ceremony."
     },
     {
       "sentiment": "positive",
@@ -156,8 +156,28 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/ashwini-vaishnaw-fact-checks-mark-zuckerberg-lok-sabha-poll-results-joe-rogan-podcast-2664135-2025-01-13?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Ashwini Vaishnaw fact-checks Mark Zuckerberg on Lok Sabha poll results claimMark Zuckerberg claimed that most incumbent governments worldwide, including India, were defeated in polls held post-Covid. Ashwini Vaishnaw fact-checked the claim, citing NDA's decisive victory in 2024 polls."
+      "url": "https://www.indiatoday.in/india/karnataka/story/clp-meeting-congress-karnataka-power-tussle-siddaramaiah-dk-shivakumar-randeep-surjewala-2664343-2025-01-14?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "'No remarks against party': Congress to Karnataka legislators amid power tussleAmid speculation over a possible change of guard in Karnataka in March, the Congress told its legislators in the state not to make public statements against the party and to resolve their differences internally."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/us-news/story/los-angeles-wildfires-southern-california-palisades-santa-ana-hurricane-force-winds-hamper-operations-governor-gavin-newsom-2664371-2025-01-14?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Los Angeles braces for strong winds amid raging fires, deaths likely to spikeAs of early Tuesday, four of the total six wildfires in Los Angeles have burned more than 160 square kilometres of land, an area larger than San Francisco. Of these, the largest Palisades Fire is just 14 per cent contained, while the second-largest Eaton fire is 33 per cent contained."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/us-news/story/tiktok-sale-elon-musk-bytedance-us-supreme-court-donald-trump-2664370-2025-01-14?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "China considering selling TikTok US to Elon Musk to avoid potential ban: ReportUnder one scenario, Musk's social media platform X would take control of TikTok US and run the business together, a report by Bloomberg News said, adding that the Chinese officials have yet to reach any firm consensus about how to proceed."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/maha-kumbh-mela-prayagraj-2025-2664064-2025-01-13?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Maha Kumbh unfolds: Mystics, devotees, and moksha-seekers unite at sacred sangamMaha Kumbh Mela 2025 has begun in Prayagraj, Uttar Pradesh, marked by vibrant religious processions, sacred rituals, and an overwhelming influx of Hindu pilgrims. "
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/polish-man-tosses-coin-strangles-18-year-old-then-rapes-body-felt-the-need-to-kill-2664369-2025-01-14?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Felt the need to kill: Polish man tosses coin, strangles teen, then rapes bodyThe accused, Mateusz Hepa, said he met the woman when she was returning home from a party. He lured her to his flat and then flipped a coin to decide whether to kill her."
     },
     {
       "sentiment": "positive",
@@ -167,22 +187,12 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/pm-modi-degree-row-purpose-of-rti-act-not-to-satisfy-curiosity-du-tells-delhi-high-court-2664362-2025-01-14?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Purpose of RTI Act not to satisfy curiosity: DU to court in row over PM's degreeThe University of Delhi told the Delhi High Court that the purpose of the RTI Act was not to satiate someone's curiosity as it challenged the central information commission's order over disclosure of information on Prime Minister Narendra Modi's degree."
+      "headline": "RTI purpose not to satisfy curiosity: Delhi University in PM's degree rowThe University of Delhi told the Delhi High Court that the purpose of the RTI Act was not to satiate someone's curiosity as it challenged the central information commission's order over disclosure of information on Prime Minister Narendra Modi's degree."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/maha-kumbh-mela-prayagraj-2025-2664064-2025-01-13?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Maha Kumbh unfolds: Mystics, devotees, and moksha-seekers unite at sacred sangamMaha Kumbh Mela 2025 has begun in Prayagraj, Uttar Pradesh, marked by vibrant religious processions, sacred rituals, and an overwhelming influx of Hindu pilgrims. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india-today-insight/story/how-ugc-aims-to-revamp-hiring-of-v-cs-professors-in-universities-colleges-2664033-2025-01-13?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "How UGC aims to revamp hiring of V-Cs, professors in universities, collegesThe UGC's 2025 draft regulations align with NEP 2020, fostering multidisciplinary approaches, cultural preservation and leadership diversity while addressing systemic challenges\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/madhya-pradesh-3-injured-in-bhopal-suv-collision-accused-tried-to-pass-it-off-as-accident-2664356-2025-01-14?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "3 injured in Bhopal SUV collision, accused try to pass it off as accidentAfter hitting another car with their SUV, the accused initially tried to pass off the incident as a simple accident, but the truth emerged when one of the injured victims gave police a detailed account of the events."
+      "url": "https://www.indiatoday.in/india-today-insight/story/india2025-home-and-abroad-two-challenges-thatll-test-modi-2664090-2025-01-13?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "India@2025: Home and abroad, two challenges that'll test Modi        The prime minister must initiate bolder reforms to rev up the economy while devising ways to strike a deal with Trump-led America on tariffs and migration grouses against India\r\n"
     },
     {
       "sentiment": "negative",
@@ -191,13 +201,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/relationship/story/55-of-indians-are-left-wanting-more-sex-survey-2664085-2025-01-13?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Why 55% of Indians are left wanting more sexA recent survey involving over 10,000 respondents has revealed startling insights into modern relationships and intimacy."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/punjab-womens-panel-takes-note-of-yuvraj-singhs-fathers-sexist-remarks-2664117-2025-01-13?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Punjab women's panel chief takes note of Yuvraj Singh's father's sexist remarksIn an interview, Yuvraj Singh's father Yograj made disparaging comments about women, including former Prime Minister Indira Gandhi. The remarks sparked outrage on social media."
+      "url": "https://www.indiatoday.in/sports/tennis/story/nishesh-basavareddy-early-life-parents-vs-novak-djokoic-idol-australian-open-debut-2664123-2025-01-13?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Who is Nishesh Basavareddy? Indian-origin teen makes stunning Grand Slam debutNishesh Basavareddy left the tennis world in awe with a gutsy performance against Novak Djokovic at the Australian Open. The 19-year-old American of Indian origin embraced his Grand Slam debut with poise, earning respect from his idol."
     },
     {
       "sentiment": "negative",
@@ -206,28 +211,23 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/nishesh-basavareddy-early-life-parents-vs-novak-djokoic-idol-australian-open-debut-2664123-2025-01-13?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Who is Nishesh Basavareddy? Indian-origin teen makes stunning Grand Slam debutNishesh Basavareddy left the tennis world in awe with a gutsy performance against Novak Djokovic at the Australian Open. The 19-year-old American of Indian origin embraced his Grand Slam debut with poise, earning respect from his idol."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/aadar-jain-alekha-advani-married-seal-the-deal-kiss-goa-2664140-2025-01-13?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
       "headline": "Aadar Jain and Alekha Advani are married, seal the deal with a kiss in GoaAadar Jain and Alekha Advani got married in an intimate ceremony in Goa, surrounded by close family and friends. The couple shared glimpses of their white-themed wedding, including a kiss that sealed their vows."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india-today-insight/story/how-parental-nod-to-join-social-media-will-protect-under-18-in-india-2664041-2025-01-13?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "How parental nod to join social media will protect Under-18 in IndiaExperts believe it will safeguard minors in the face of rising cyber-bullying, exposure to harmful content and privacy breaches while letting them tap their digital potential\r\n"
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/science/story/dr-v-narayanan-takes-over-as-isro-chief-from-dr-s-somanath-2664355-2025-01-14?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Dr V Narayanan takes over as Isro Chief from Dr S SomanathDr V Narayanan succeeds Dr S Somanath as the ISRO Chief and brings with him a legacy of over four decades of exemplary service in India's space program."
+      "headline": "Dr V Narayanan takes over as Isro chief from Dr S SomanathDr V Narayanan succeeds Dr S Somanath as the ISRO Chief and brings with him a legacy of over four decades of exemplary service in India's space program."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/california-wildfires-los-angeles-elites-rich-hire-private-companies-firefighters-fire-engine-2664197-2025-01-13?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Move over private water tankers, Los Angeles elites hiring private firefightersAs massive wildfires in Los Angeles overwhelmed public emergency services, millionaires summoned private firefighting companies to save their properties. Charging USD 2,000 per hour, the companies have been slammed for highlighting class divide in times of tragedy."
+      "url": "https://www.indiatoday.in/india/story/ashwini-vaishnaw-fact-checks-mark-zuckerberg-lok-sabha-poll-results-joe-rogan-podcast-2664135-2025-01-13?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Ashwini Vaishnaw fact-checks Mark Zuckerberg on Lok Sabha poll results claimMark Zuckerberg claimed that most incumbent governments worldwide, including India, were defeated in polls held post-Covid. Ashwini Vaishnaw fact-checked the claim, citing NDA's decisive victory in 2024 polls."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/us-news/story/judge-clears-release-of-special-counsel-report-on-donald-trump-2020-election-interference-case-2664366-2025-01-14?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Judge clears release of special counsel report on Trump's 2020 election caseUS District Judge Aileen Cannon, who was appointed to the bench by Donald Trump at the end of his first term, had previously blocked the Justice Department from releasing the entire report."
     },
     {
       "sentiment": "positive",
@@ -235,19 +235,19 @@
       "headline": "How Yogi Adityanath is charting own course on Hindutva heritageThere are two streams of thought in the larger Hindutva family when it comes to the disputed places of worship. With his stance that \"reclaiming heritage is not a bad thing\", Uttar Pradesh CM Yogi Adityanath has charted a distinct course, different from RSS Chief Mohan Bhagwat's. \u00a0"
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/ram-temple-consecration-day-true-independence-rss-chief-mohan-bhagwat-2664319-2025-01-13?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "India got true independence on Ram Mandir's consecration day: Mohan BhagwatRSS chief Mohan Bhagwat called Ram Temple consecration a symbol of \"true independence\" for India, highlighting unity and pride during the ceremony."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/aap-mla-mohinder-goyal-questioned-for-5-hours-in-case-of-fake-aadhar-issuance-to-bangladeshis-2664342-2025-01-13?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "AAP MLA questioned for 5 hours in case of 'fake Aadhar' issuance to BangladeshisAAP MLA Mohinder Goyal appeared before the Delhi Police's Anti-Auto Theft Squad (AATS) on Monday after he was previously served two notices to appear before the agency. "
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/punjab-womens-panel-takes-note-of-yuvraj-singhs-fathers-sexist-remarks-2664117-2025-01-13?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Punjab women's panel chief takes note of Yuvraj Singh's father's sexist remarksIn an interview, Yuvraj Singh's father Yograj made disparaging comments about women, including former Prime Minister Indira Gandhi. The remarks sparked outrage on social media."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/music/story/67th-grammy-awards-to-proceed-as-scheduled-february-2-despite-los-angeles-wildfires-2664335-2025-01-13?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "67th Grammy Awards to proceed as scheduled despite Los Angeles wildfiresThe Recording Academy confirms the 2025 Grammy Awards will occur as planned on February 2, despite recent wildfires in Los Angeles. While the main event is secure, uncertainty looms over other Grammy Week activities."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/once-in-a-lifetime-comet-g3-atlas-c2024-visible-tonight-it-will-not-return-for-160000-years-2663880-2025-01-13?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Comet visible tonight: Next time it returns none of us will be on EarthDiscovered on April 5, 2024, by the Asteroid Terrestrial-impact Last Alert System (ATLAS) in Chile, G3 ATLAS was initially faint, shining at a magnitude of +19. "
+      "url": "https://www.indiatoday.in/world/story/uk-sikh-mp-tanmanjeet-singh-dhesi-demands-independent-probe-into-britain-role-in-1984-operation-bluestar-2664365-2025-01-14?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "UK Sikh MP demands independent probe into Britain's role in Operation BluestarBritish Sikh Labour MP Tanmanjeet Singh Dhesi, who has once again called for an independent probe into the UK government's role in Operation Blue Star, said it was imperative to \"get to the bottom\" of what happened. "
     },
     {
       "sentiment": "positive",
