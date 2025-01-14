@@ -1,6 +1,21 @@
 {
   "business": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/story/market-opening-bell-stock-market-rebound-sensex-nifty-gain-in-early-trade-hcltech-down-9-percent-2664400-2025-01-14",
+      "headline": "Stock market rebound: Sensex, Nifty gain in early trade; HCLTech down 9% The S&P BSE Sensex gained 408.52 points to\u00a076,738.53, while the NSE Nifty50 110.05 points to\u00a023,196.00 as of 9:30 AM."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/tiktok-us-may-go-to-tesla-ceo-elon-musk-as-china-explores-potential-sale-report-2664398-2025-01-14",
+      "headline": "TikTok US may go to Elon Musk as China explores potential sale: ReportChinese authorities want to keep TikTok under the control of its parent company, ByteDance. One potential scenario involves Elon Musk's social media platform, X, acquiring TikTok US and running it jointly with ByteDance. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/stock-market-holiday-are-bse-nse-open-on-tuesday-january-14-for-pongal-makar-sankranti-2025-2664384-2025-01-14",
+      "headline": "Stock market holiday: Are BSE, NSE open on January 14, Makar Sankranti?The holiday schedules for the BSE and NSE are determined based on national holidays and key religious and cultural festivals that are widely observed across the country."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/stock-market-today-sensex-nifty-red-alert-on-dalal-street-should-investors-worry-stop-sip-expert-views-2664377-2025-01-14",
       "headline": "Red alert on Dalal Street: Should investors worry?Sensex, Nifty today: While the sharp decline may cause concern, historical data suggests that market corrections are not uncommon."
@@ -84,21 +99,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/budget/story/budget-2025-government-may-raise-minimum-eps-pension-to-rs-7500-2663881-2025-01-13",
       "headline": "Budget 2025: Government may raise minimum EPS pension to Rs 7,500Budget 2025: The government might consider raising the minimum EPS pension to Rs 7,500, potentially bringing long-awaited relief to retirees in Budget 2025."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/story/adani-wilmar-share-price-falls-8-percent-to-hit-52-week-low-why-second-day-ofs-sale-2663876-2025-01-13",
-      "headline": "Adani Wilmar share price falls 8% to hit 52-week low. Here's why Adani Wilmar stock price: Market cap of Adani Wilmar stood at Rs 35,494.22 crore. The stock has fallen 15.88% in the past week, 18.31% in the last 6 months, and 24.94% in the past year.\u00a0"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/rupee-all-time-low-86-against-us-dollar-key-factors-behind-fall-and-will-it-decline-further-2663863-2025-01-13",
-      "headline": "Rupee hits all-time low of 86/USD. Will it decline further?The rupee slipped 0.4% to a record low of 86.39 per dollar. Check the key factors behind this decline and whether the Indian currency faces further challenges."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/standard-glass-lining-share-price-stock-lists-at-23-percent-premium-over-ipo-price-on-dalal-street-nse-rs-172-2663859-2025-01-13",
-      "headline": "Standard Glass Lining\u00a0IPO lists at 23% premium over IPO price on Dalal Street Standard Glass Lining listing: Shares listed\u00a0at Rs 172 per share on the NSE, marking a premium of 22.86% over the IPO price, which was set in the range of Rs 133 to Rs 140 per share."
     }
   ],
   "entertainment": [
@@ -137,12 +137,42 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/millions-gather-for-first-amrit-snan-at-maha-kumbh-on-occasion-of-makar-sankranti-2664363-2025-01-14?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Millions gather for first amrit snan at Maha Kumbh on Makar SankrantiThe amrit snan will witness the participation of 13 Akharas, or monastic orders of Hinduism, who will adhere to a meticulously planned schedule for the ritual bath."
+      "headline": "Millions gather for first Amrit Snan at Maha Kumbh on Makar SankrantiThe amrit snan will witness the participation of 13 Akharas, or monastic orders of Hinduism, who will adhere to a meticulously planned schedule for the ritual bath."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/us-news/story/california-wildfires-malibu-concrete-mansion-survived-los-angeles-palisades-inferno-us-houses-timber-2664184-2025-01-14?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Why a Malibu mansion defeated wildfire. It's a concrete miracleAmid the devastation in Malibu from the California wildfires, a USD 9-million mansion stands unscathed and defiant. Its owner, a retired waste-management executive, called it a \"miracle\". However, the three-storey house's survival is more of science than miracle."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/watch-kapil-dev-responds-to-yograj-singhs-shocking-pistol-claim-2664399-2025-01-14?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Watch: Kapil Dev responds to Yograj Singh's shocking 'pistol' claimFormer India captain Kapil Dev has reacted to Yograj Singh's claims that he went to the former skipper's house to kill him. Yograj had said that he wanted to shoot Kapil after being dropped from the North Zone team.\r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/lifestyle/wellness/story/how-ozempic-zepbound-and-mounjaro-will-transform-indias-weight-loss-market-2664159-2025-01-14?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "How Ozempic, Zepbound, and Mounjaro will transform India's weight loss marketThe proportion of obese Indians has risen from 25 per cent in 2013 to 40 per cent in 2023, highlighting the need for effective weight-loss drugs. "
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/gaza-war-israeli-soldiers-speak-out-against-war-with-hamas-threaten-stop-fighting-no-ceasefire-2664383-2025-01-14?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Israeli soldiers threaten to stop fighting if Gaza ceasefire deal not securedA growing number of Israeli soldiers are speaking out against the 15-month conflict and refusing to serve any more, saying they saw or did things that crossed ethical lines. While the movement is small, some 200 soldiers signed a letter saying they'd stop fighting if the government didn't secure a ceasefire."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/ram-temple-consecration-day-true-independence-rss-chief-mohan-bhagwat-2664319-2025-01-13?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
       "headline": "India got true independence on Ram Mandir's consecration day: Mohan BhagwatRSS chief Mohan Bhagwat called Ram Temple consecration a symbol of \"true independence\" for India, highlighting unity and pride during the ceremony."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/telangana/story/ktr-under-house-arrest-over-mla-kaushik-reddy-altercation-with-congress-leader-sanjay-kumar-2664402-2025-01-14?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "KTR under house arrest over party MLA's clash with Congress leader Telangana police placed Bharat Rashtra Samithi working president KT Rama Rao (KTR), and fellow party leader Harish Rao under house arrest. This development came after their party MLA Kaushik Reddy was taken into custody for his fight with a Congress leader. \r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/hrithik-roshan-acting-notes-kaho-naa-pyaar-hai-25-years-2664381-2025-01-14?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Hrithik shares notes from rough book while prepping for Kaho\u00a0Naa\u00a0Pyaar\u00a0HaiHrithik Roshan celebrated 25 years of Kaho Naa... Pyaar Hai by sharing his debut prep notes. Reflecting on his nerves and process, he shared how little has changed in his approach over the years."
     },
     {
       "sentiment": "positive",
@@ -151,18 +181,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/nag-mark-2-anti-tank-guided-missile-successful-test-drdo-pokhran-rajasthan-defence-2664253-2025-01-13?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "India successfully tests new version of Nag Mark 2 anti-tank guided missileIndia achieved a major defence milestone with successful trials of the indigenously developed Nag Mk 2 missile, showcasing precision fire-and-forget technology and bolstering anti-tank warfare capabilities."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/hamas-likely-to-release-33-hostages-in-1st-phase-of-gaza-truce-deal-with-israel-2664361-2025-01-14?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Hamas likely to release 33 hostages in 1st phase of truce deal with IsraelUS President Joe Biden said a ceasefire and hostage release deal between Israel and Hamas was on \"the brink\" of coming to fruition and Hamas said it was keen on reaching an agreement, Reuters reported. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/karnataka/story/clp-meeting-congress-karnataka-power-tussle-siddaramaiah-dk-shivakumar-randeep-surjewala-2664343-2025-01-14?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "'No remarks against party': Congress to Karnataka legislators amid power tussleAmid speculation over a possible change of guard in Karnataka in March, the Congress told its legislators in the state not to make public statements against the party and to resolve their differences internally."
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/anshu-defends-trinadha-rao-nakkina-after-weight-remark-mazaka-teaser-launch-2664397-2025-01-14?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Actor Anshu sides with 'loveliest man' Trinadha Rao after body-shaming remarkAnshu Ambani defends Telugu director Trinadha Rao Nakkina, calling him 'the loveliest man' despite the backlash over his comments on her weight at Mazaka teaser launch event."
     },
     {
       "sentiment": "positive",
@@ -171,13 +191,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/wellness/story/how-ozempic-zepbound-and-mounjaro-will-transform-indias-weight-loss-market-2664159-2025-01-14?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "How Ozempic, Zepbound, and Mounjaro will transform India's weight loss marketThe proportion of obese Indians has risen from 25 per cent in 2013 to 40 per cent in 2023, highlighting the need for effective weight-loss drugs. "
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/sankranthiki-vasthunam-x-review-venkatesh-family-entertainer-sankranti-stmp-2664395-2025-01-14?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Sankranthiki Vasthunam X review: Fans call Venkatesh's film perfect\u00a0Sankranti\u00a0treatTelugu actor Venkatesh Daggubati's Sankranthiki Vasthunam, directed by Anil Ravipudi, impresses viewers, earning praise as a perfect family entertainer for the Sankranti festival. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/tiktok-sale-elon-musk-bytedance-us-supreme-court-donald-trump-2664370-2025-01-14?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "China considering selling TikTok US to Elon Musk to avoid potential ban: ReportUnder one scenario, Musk's social media platform X would take control of TikTok US and run the business together, a report by Bloomberg News said, adding that the Chinese officials have yet to reach any firm consensus about how to proceed."
+      "url": "https://www.indiatoday.in/india-today-insight/story/india2025-home-and-abroad-two-challenges-thatll-test-modi-2664090-2025-01-13?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "India@2025: Home and abroad, two challenges that'll test Modi        The prime minister must initiate bolder reforms to rev up the economy while devising ways to strike a deal with Trump-led America on tariffs and migration grouses against India\r\n"
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-to-play-ranji-trophy-captain-wants-to-train-with-mumbai-says-report-2664390-2025-01-14?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Rohit Sharma to play Ranji Trophy? Captain wants to train with MumbaiIndia captain Rohit Sharma wants to train with the Mumbai Ranji team to improve his form in Test cricket. Rohit has had two woeful Test series where he has failed to play any impactful knocks."
     },
     {
       "sentiment": "negative",
@@ -186,13 +211,18 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/nag-mark-2-anti-tank-guided-missile-successful-test-drdo-pokhran-rajasthan-defence-2664253-2025-01-13?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "India successfully tests new version of Nag Mark 2 anti-tank guided missileIndia achieved a major defence milestone with successful trials of the indigenously developed Nag Mk 2 missile, showcasing precision fire-and-forget technology and bolstering anti-tank warfare capabilities."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/stock-market-today-sensex-nifty-red-alert-on-dalal-street-should-investors-worry-stop-sip-expert-views-2664377-2025-01-14?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
       "headline": "Red alert on Dalal Street: Should investors worry?Sensex, Nifty today: While the sharp decline may cause concern, historical data suggests that market corrections are not uncommon."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india-today-insight/story/india2025-home-and-abroad-two-challenges-thatll-test-modi-2664090-2025-01-13?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "India@2025: Home and abroad, two challenges that'll test Modi        The prime minister must initiate bolder reforms to rev up the economy while devising ways to strike a deal with Trump-led America on tariffs and migration grouses against India\r\n"
+      "url": "https://www.indiatoday.in/world/us-news/story/tiktok-sale-elon-musk-bytedance-us-supreme-court-donald-trump-2664370-2025-01-14?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "China considering selling TikTok US to Elon Musk to avoid potential ban: ReportUnder one scenario, Musk's social media platform X would take control of TikTok US and run the business together, a report by Bloomberg News said, adding that the Chinese officials have yet to reach any firm consensus about how to proceed."
     },
     {
       "sentiment": "positive",
@@ -201,53 +231,33 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/watch-nitish-reddy-visits-tirupati-temple-climbs-stairs-on-knees-2664375-2025-01-14?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Watch: Nitish Reddy visits Tirupati, climbs stairs on kneesNitish Kumar Reddy visited the Tirupati temple after his return from Australia. He climbed the stairs of the temple on his knees. Nitish posted video snippets from the temple which have since gone viral.\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/attacks-on-hindus-in-bangladesh-puri-shankaracharya-warning-asks-muslims-save-hindus-face-consequences-2664359-2025-01-14?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Save Hindus or face consequences: Puri Shankaracharya amid tensions with BangladeshThe Shankaracharya of Puri, Shri Nischalanandaji Saraswati Maharaj, expressed deep concern about the escalating attacks on Hindu communities in Bangladesh, threatening the country with \"dire consequences\" should attacks on Hindus continue."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/aadar-jain-alekha-advani-married-seal-the-deal-kiss-goa-2664140-2025-01-13?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
       "headline": "Aadar Jain and Alekha Advani are married, seal the deal with a kiss in GoaAadar Jain and Alekha Advani got married in an intimate ceremony in Goa, surrounded by close family and friends. The couple shared glimpses of their white-themed wedding, including a kiss that sealed their vows."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/pm-modi-degree-row-purpose-of-rti-act-not-to-satisfy-curiosity-du-tells-delhi-high-court-2664362-2025-01-14?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "RTI purpose not to satisfy curiosity: Delhi University in PM's degree rowThe University of Delhi told the Delhi High Court that the purpose of the RTI Act was not to satiate someone's curiosity as it challenged the central information commission's order over disclosure of information on Prime Minister Narendra Modi's degree."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/law-news/story/bombay-high-court-uphold-divorce-woman-false-cruelty-case-change-husband-behaviour-2664331-2025-01-13?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "High Court upholds divorce over woman's false case to change husband's behaviourThe Bombay High Court upheld a divorce, ruling that false allegations of cruelty against spouse cause emotional distress, justifying dissolution of marriage under the Hindu Marriage Act."
+      "url": "https://www.indiatoday.in/india/karnataka/story/clp-meeting-congress-karnataka-power-tussle-siddaramaiah-dk-shivakumar-randeep-surjewala-2664343-2025-01-14?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "'No remarks against party': Congress to Karnataka legislators amid power tussleAmid speculation over a possible change of guard in Karnataka in March, the Congress told its legislators in the state not to make public statements against the party and to resolve their differences internally."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/nishesh-basavareddy-early-life-parents-vs-novak-djokoic-idol-australian-open-debut-2664123-2025-01-13?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Who is Nishesh Basavareddy? Indian-origin teen makes stunning Grand Slam debutNishesh Basavareddy left the tennis world in awe with a gutsy performance against Novak Djokovic at the Australian Open. The 19-year-old American of Indian origin embraced his Grand Slam debut with poise, earning respect from his idol."
+      "url": "https://www.indiatoday.in/world/story/hamas-likely-to-release-33-hostages-in-1st-phase-of-gaza-truce-deal-with-israel-2664361-2025-01-14?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Hamas likely to release 33 hostages in 1st phase of truce deal with IsraelUS President Joe Biden said a ceasefire and hostage release deal between Israel and Hamas was on \"the brink\" of coming to fruition and Hamas said it was keen on reaching an agreement, Reuters reported. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/uttar-pradesh-cm-yogi-adityanath-mandir-masjid-hindutva-stance-rss-mohan-bhagwat-maha-kumbh-2025-2663841-2025-01-13?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "How Yogi Adityanath is charting own course on Hindutva heritageThere are two streams of thought in the larger Hindutva family when it comes to the disputed places of worship. With his stance that \"reclaiming heritage is not a bad thing\", Uttar Pradesh CM Yogi Adityanath has charted a distinct course, different from RSS Chief Mohan Bhagwat's. \u00a0"
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/elections/assembly/story/delhi-elections-election-commission-orders-action-against-bjp-leader-parvesh-verma-over-aap-poll-code-violation-claims-2664353-2025-01-14?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Poll body orders action against BJP leader over AAP's poll code violation claimsArvind Kejriwal had earlier accused Verma of engaging in corrupt practices during his campaign, including distributing Rs 1,100 cash to women voters and promoting. In response to the allegations, the Election Commission had instructed the Delhi CEO to verify the claims and submit a comprehensive action taken report. \r\n"
+      "url": "https://www.indiatoday.in/sports/cricket/story/watch-nitish-reddy-visits-tirupati-temple-climbs-stairs-on-knees-2664375-2025-01-14?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Watch: Nitish Reddy visits Tirupati, climbs stairs on kneesNitish Kumar Reddy visited the Tirupati temple after his return from Australia. He climbed the stairs of the temple on his knees. Nitish posted video snippets from the temple which have since gone viral.\r\n"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/dr-v-narayanan-takes-over-as-isro-chief-from-dr-s-somanath-2664355-2025-01-14?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Dr V Narayanan takes over as Isro chief from Dr S SomanathDr V Narayanan succeeds Dr S Somanath as the ISRO Chief and brings with him a legacy of over four decades of exemplary service in India's space program."
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/anshu-defends-trinadha-rao-nakkina-after-weight-remark-mazaka-teaser-launch-2664397-2025-01-14",
+      "headline": "Actor Anshu sides with 'loveliest man' Trinadha Rao after body-shaming remarkAnshu Ambani defends Telugu director Trinadha Rao Nakkina, calling him 'the loveliest man' despite the backlash over his comments on her weight at Mazaka teaser launch event."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/ashwini-vaishnaw-fact-checks-mark-zuckerberg-lok-sabha-poll-results-joe-rogan-podcast-2664135-2025-01-13?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Ashwini Vaishnaw fact-checks Mark Zuckerberg on Lok Sabha poll results claimMark Zuckerberg claimed that most incumbent governments worldwide, including India, were defeated in polls held post-Covid. Ashwini Vaishnaw fact-checked the claim, citing NDA's decisive victory in 2024 polls."
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/sankranthiki-vasthunam-x-review-venkatesh-family-entertainer-sankranti-stmp-2664395-2025-01-14",
+      "headline": "Sankranthiki Vasthunam X review: Fans call Venkatesh's film perfect\u00a0Sankranti\u00a0treatTelugu actor Venkatesh Daggubati's Sankranthiki Vasthunam, directed by Anil Ravipudi, impresses viewers, earning praise as a perfect family entertainer for the Sankranti festival. "
     },
     {
       "sentiment": "positive",
@@ -257,20 +267,20 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/hrithik-roshan-acting-notes-kaho-naa-pyaar-hai-25-years-2664381-2025-01-14",
-      "headline": "Hrithik Roshan's acting notes before Kaho\u00a0Naa\u00a0Pyaar\u00a0Hai: Enjoy\u00a0it,\u00a0be\u00a0genuineHrithik Roshan celebrated 25 years of Kaho Naa... Pyaar Hai by sharing his debut prep notes. Reflecting on his nerves and process, he shared how little has changed in his approach over the years."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/ajith-kumar-on-ajith-vijay-fan-wars-live-your-live-2664378-2025-01-14",
-      "headline": "Actor Ajith Kumar's much-needed message on fan wars: Be kind to my peersActor Ajith Kumar gave media interviews after several decades following his Dubai race win. He spoke about fan-wars and advised his followers to look after their lives and be kind to his peers."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/music/story/67th-grammy-awards-to-proceed-as-scheduled-february-2-despite-los-angeles-wildfires-2664335-2025-01-13",
-      "headline": "67th Grammy Awards to proceed as scheduled despite Los Angeles wildfiresThe Recording Academy confirms the 2025 Grammy Awards will occur as planned on February 2, despite recent wildfires in Los Angeles. While the main event is secure, uncertainty looms over other Grammy Week activities."
+      "headline": "Hrithik shares notes from rough book while prepping for Kaho\u00a0Naa\u00a0Pyaar\u00a0HaiHrithik Roshan celebrated 25 years of Kaho Naa... Pyaar Hai by sharing his debut prep notes. Reflecting on his nerves and process, he shared how little has changed in his approach over the years."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/watch-kapil-dev-responds-to-yograj-singhs-shocking-pistol-claim-2664399-2025-01-14",
+      "headline": "Watch: Kapil Dev responds to Yograj Singh's shocking 'pistol' claimFormer India captain Kapil Dev has reacted to Yograj Singh's claims that he went to the former skipper's house to kill him. Yograj had said that he wanted to shoot Kapil after being dropped from the North Zone team.\r\n"
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-to-play-ranji-trophy-captain-wants-to-train-with-mumbai-says-report-2664390-2025-01-14",
+      "headline": "Rohit Sharma to play Ranji Trophy? Captain wants to train with MumbaiIndia captain Rohit Sharma wants to train with the Mumbai Ranji team to improve his form in Test cricket. Rohit has had two woeful Test series where he has failed to play any impactful knocks."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-aus-bgt-jasprit-bumrah-don-bradman-adam-gilchrist-2664346-2025-01-14",
@@ -313,18 +323,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-open-2025-pv-sindhu-eyes-fresh-start-leads-home-campaign-2664266-2025-01-13",
-      "headline": "India Open 2025: PV Sindhu eyes fresh start, leads home campaignIndia badminton Star PV Sindhu is excited to return to the court for the first time since Paris Olympics 2024 as she prepares herself to participate in the Indian Open 2025."
+      "url": "https://www.indiatoday.in/sports/cricket/story/james-anderson-on-course-to-restart-his-t20-career-with-new-lancashire-deal-2664332-2025-01-13",
+      "headline": "James Anderson on course to restart his T20 career with new Lancashire dealLegendary England fast bowler James Anderson is on course to revive his T20 career with a new one year contract with Lancashire where he will play both county cricket and T20 blast."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/australian-open-day-2-wrap-novaj-djokovic-vs-nishesh-basavareddy-carlos-alcaraz-coc-gauff-advance-2664265-2025-01-13",
-      "headline": "Australian Open Day 2: Djokovic, Gauff and Alcaraz advance, Kyrgios exitsDay 2 of the Australian Open delivered thrilling victories, surprising upsets, and emotional moments, with standout performances from Novak Djokovic, Coco Gauff, and Naomi Osaka. Local favorite Nick Kyrgios hinted at a potential singles retirement after an early exit."
+      "url": "https://www.indiatoday.in/sports/cricket/story/kapil-dev-urges-people-to-not-compare-jasprit-bumrah-with-him-2664323-2025-01-13",
+      "headline": "Kapil Dev urges people to not compare Jasprit Bumrah with himFormer India all rounder Kapil Dev has asked people to not draw comparisons between him and India fast bowler Jasprit Bumrah. Bumrah recently broke Kapil's record of most wickets by an Indian in Australia."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/nick-kyrgios-last-australian-open-singles-jacob-fearnley-first-round-loss-injury-woes-2664230-2025-01-13",
-      "headline": "Do not see myself playing singles in the Australian Open again: KyrgiosNick Kyrgios hinted at retirement from Australian Open singles matches after a disappointing first-round loss to Jacob Fearnley, citing injury frustrations. Despite his singles exit, he will continue competing in doubles alongside partner Thanasi Kokkinakis."
+      "url": "https://www.indiatoday.in/sports/cricket/story/hardik-pandya-training-video-big-season-engalnd-t20i-series-champions-trophy-2664317-2025-01-13",
+      "headline": "Watch: Hardik Pandya trains hard for 'big season' ahead of England T20IsHardik Pandya shared a glimpse of his intense personal training session via social media as he gears up for India's T20I series against England, sparking excitement amongst fans about his return to the national team."
     },
     {
       "sentiment": "positive",
@@ -377,19 +387,19 @@
       "headline": "Plenty of time left in my career to win more titles: PV SindhuIndia Open 2025: PV Sindhu, speaking to news agency PTI, reiterated that she is as hungry as ever to win major titles. The two-time Olympic medalist returns to action at India Open after missing the season-opening Malaysia Open due to her wedding. "
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/cricket/story/dont-think-players-take-coach-gautam-gambhir-seriously-claims-monty-panesar-2664118-2025-01-13",
-      "headline": "Don't think players take coach Gautam Gambhir seriously, claims Monty PanesarFormer England spinner Monty Panesar feels Indian players don't take their head coach Gautam Gambhir seriously due to his poor record in Australia and England."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/pv-sindhu-past-glory-hunder-for-more-success-badminton-puma-brand-ambassador-2664192-2025-01-13",
+      "headline": "Past glory keeps my hunger going for more in the future: PV SindhuP.V. Sindhu remains steadfast in her pursuit of badminton glory, drawing inspiration from past triumphs and evolving her game to stay competitive while mentoring India's next generation of players. Her passion and resilience continue to fuel her journey."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/australian-open-novak-djokovic-vs-nishesh-basavareddy-report-melbourne-indian-origian-american-2664105-2025-01-13",
-      "headline": "Australian Open: Djokovic survives scare from Indian-origin fanboy BasavareddyAustralian Open 2025: Playing in his first Grand Slam, 19-year-old American Nishesh Basavareddy gave 24-time Grand Slam champion Novak Djokovic a massive scare in the first round. Nishesh took the opening set before going down fighting in Melbourne on Monday, January 13. "
+      "url": "https://www.indiatoday.in/sports/cricket/story/shreyas-iyer-ready-to-bat-anywhere-in-champions-trophy-2025-2664156-2025-01-13",
+      "headline": "Shreyas Iyer ready to bat anywhere in ICC Champions Trophy 2025Star India batter Shreyas Iyer said that he's ready to bat anywhere in the upcoming ICC Champions Trophy 2025. The mega event is all set to begin from February 19."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/why-arjun-tendulkar-stopped-training-with-yograj-singh-2664084-2025-01-13",
-      "headline": "Why Arjun Tendulkar stopped training with Yograj SinghFormer India cricketer Yuvraj Singh's father, Yograj, recently revealed why Arjun Tendulkar stopped training under him."
+      "url": "https://www.indiatoday.in/sports/tennis/story/nishesh-basavareddy-early-life-parents-vs-novak-djokoic-idol-australian-open-debut-2664123-2025-01-13",
+      "headline": "Who is Nishesh Basavareddy? Indian-origin teen makes stunning Grand Slam debutNishesh Basavareddy left the tennis world in awe with a gutsy performance against Novak Djokovic at the Australian Open. The 19-year-old American of Indian origin embraced his Grand Slam debut with poise, earning respect from his idol."
     },
     {
       "sentiment": "positive",
@@ -415,21 +425,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/shoaib-akhtar-virat-kohli-champions-trophy-india-vs-pakistan-form-babar-azam-2664048-2025-01-13",
       "headline": "If you want to wake Virat Kohli up, tell there's a match vs Pakistan: Shoaib AkhtarChampions Trophy 2025: Speaking to India Today's sister channel Sports Tak, Shoaib Akhtar said he is confident of Virat Kohli returning to form in the premier 50-over tournament. Kohli struggled to get going in the recently-concluded five-Test series in Australia. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-virat-kohli-need-big-runs-prove-critics-wrong-hrabhajan-singh-australia-vs-india-2664059-2025-01-13",
-      "headline": "Rohit and Virat Kohli need big runs to prove critics wrong: HarbhajanHarbhajan Singh urges Rohit Sharma and Virat Kohli to silence critics with strong performances, as BCCI highlights their upcoming Champions Trophy display as crucial to retaining their Test spots following inconsistent outings in the Border-Gavaskar Trophy series against Australia."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/cricket/story/desperate-for-comeback-glenn-maxwell-not-hurt-by-test-snub-vs-sri-lanka-2664040-2025-01-13",
-      "headline": "'Desperate' for comeback, Glenn Maxwell not hurt by Test snub vs Sri LankaAustralia all-rounder Glenn Maxwell said that he was completely understanding of the reason behind the selectors not picking him for the upcoming Test tour of Sri Lanka."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/kho-kho-world-cup-dates-match-timings-and-live-streaming-details-2664038-2025-01-13",
-      "headline": "Kho Kho World Cup: Dates, match timings and live streaming detailsIndia and Nepal are taking stage in the opener of the inaugural edition of Kho Kho World Cup. Here's everything you need to know about the competition, when and where to watch the matches.\r\n"
     }
   ],
   "education": [
