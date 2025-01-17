@@ -1,6 +1,16 @@
 {
   "business": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/8th-pay-commission-salary-hike-how-much-salary-increase-can-government-employees-expect-fitment-factor-2666199-2025-01-17",
+      "headline": "8th Pay Commission: How much salary increase can government employees expect?Union Minister Ashwini Vaishnaw confirmed the decision and said that the commission would be formed soon to revise the pay structure for central government employees and pensioners."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/world-bank-on-india-gdp-growth-strong-momentum-or-slowdown-in-fy26-2666164-2025-01-17",
+      "headline": "Will India's growth story gain momentum or slow down in FY26?India's GDP, which clocked a stellar 9.7% in FY22 before settling at 7% in FY23 and 8.2% in FY24, has been on a roller-coaster ride."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/story/axis-bank-shares-price-fall-6-percent-to-hit-52-week-low-why-q3-results-should-you-buy-2666114-2025-01-17",
       "headline": "Axis Bank shares drop 6% to hit 52-week low. Should you buy? Axis Bank share price: The stock closed at Rs 1,040.20 in the previous session, opened at Rs 1,006.95 on Friday and slid further to Rs 974.45 on the Bombay Stock Exchange (BSE)."
@@ -89,16 +99,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/3-common-upi-myths-busted-what-is-true-and-what-is-not-2665638-2025-01-16",
       "headline": "3 common UPI myths busted: What's true and what's notThe NPCI has cleared up common UPI myths to help users make secure and informed digital transactions."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/israel-hamas-ceasefire-what-does-it-mean-for-global-indian-stock-markets-us-inflation-datat-donald-trump-2665616-2025-01-16",
-      "headline": "Israel-Hamas ceasefire: What does it mean for global and Indian stock markets?The impact of the ceasefire agreement in Gaza between Israel and Hamas could be huge on financial markets, particularly for sectors tied to global trade and energy."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/can-drain-bank-accounts-in-minutes-zerodha-nithin-kamath-warns-of-new-scam-2665599-2025-01-16",
-      "headline": "Can drain bank accounts in minutes: Zerodha's Nithin Kamath warns of new scamZerodha co-founder Nithin Kamath shared a video on social media warning people about a new phone scam. Read on to check all the details. "
     }
   ],
   "entertainment": [
@@ -132,12 +132,27 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/story/saif-ali-khan-knife-attack-doctors-briefing-fortunate-lucky-missed-spine-icu-room-health-recovery-hospital-2666160-2025-01-17?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Saif Ali Khan's narrow escape, knife missed spine by just 2 mm, say doctorsDoctors treating Saif Ali Khan on Friday said that the actor escaped narrowly as the knife missed his spine by just 2 millimeters."
+      "headline": "Saif Ali Khan walked into hospital like a tiger, escaped big spine injury: DoctorsDoctors said that even though Saif was in a state of shock and covered in blood, \"he walked in like a tiger.\""
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/saif-ali-khan-attacker-new-cctv-footage-video-scarf-covering-face-climbing-stairs-apartment-bandra-home-2666188-2025-01-17?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Face covered, Saif Ali Khan's attacker seen climbing stairs in new videoSaif Ali Khan attack: The intruder was again captured on the CCTV at 2.33 am climbing down the stairs calmly. This time his face was clearly visible."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/law-news/story/supreme-court-delhi-government-health-ayushman-bharat-scheme-stay-high-court-order-mou-2666141-2025-01-17?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
       "headline": "Supreme Court pauses order directing rollout of Ayushman Bharat scheme in DelhiThe Supreme Court has paused a Delhi High Court order that directed the Delhi government to sign an agreement with the Centre for the rollout of Ayushman Bharat scheme in the national capital."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/story/manu-bhaker-khel-ratna-award-d-gukesh-national-sports-day-president-murmu-2666163-2025-01-17?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Watch: Manu Bhaker, D Gukesh receive Khel Ratna award from President Droupadi Murmu Olympic medallists Manu Bhaker, Harmanpreet Singh, Paralympian Praveen Kumar and world chess champion D Gukesh recieved the Khel Ratna Award, India's highest sporting honour, from President Droupadi Murmu on National Sports Day. "
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/reviews/story/emergency-review-kangana-ranaut-indira-gandhi-crash-course-2666166-2025-01-17?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Emergency review: Kangana Ranaut delivers a rushed crash course on Indira GandhiReleased-Fri Jan 17, 2025Emergency movie review: Kangana Ranaut's film Emergency briefly touches on the 1975 Emergency while attempting to provide a crash course on Indira Gandhi's life, but struggles to delve deeply into key historical events and character motivations."
     },
     {
       "sentiment": "negative",
@@ -146,8 +161,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/opinion/story/death-of-the-india-alliance-opinion-2665926-2025-01-17?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "INDIA group is dead, Delhi election will drive last nail into coffinThe INDIA alliance is almost dead, and only the last rites need to be performed, most likely once the high-stakes Delhi assembly elections are done and dusted. "
+      "url": "https://www.indiatoday.in/world/story/imran-khan-jailed-14-years-land-corruption-graft-case-former-pakistan-prime-minister-court-2666165-2025-01-17?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Ex-Pak PM Imran Khan gets 14 years in jail in \u00a3190 million land corruption casePakistan's former Prime Minister Imran Khan was sentenced to 14 years in prison, and his wife Bushra Bibi to seven years in a corruption case involving the Al-Qadir University Project Trust."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/taimur-ali-khan-not-ibrahim-ali-khan-accompanied-saif-ali-khan-to-hospital-doctor-2666180-2025-01-17?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Taimur, not Ibrahim, accompanied Saif Ali Khan to hospital: DoctorActor Saif Ali Khan was taken to the hospital on Thursday after he suffered stab wounds following a burglary attempt at his house. The actor was accompanied by his son, Taimur Ali Khan and his nanny to the hospital. "
     },
     {
       "sentiment": "positive",
@@ -155,19 +175,19 @@
       "headline": "Paatal Lok 2 review: Jaideep Ahlawat show enters a risky, unexplored territoryReleased-Fri Jan 17, 2025Paatal Lok 2 review: Jaideep Ahlawat returns as Hathi Ram Chaudhary after five years with the second season of Paatal Lok. While the rawness and murkiness are restrained, the season ventures into some risky territory. Read the full review here."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/imran-khan-jailed-14-years-land-corruption-graft-case-former-pakistan-prime-minister-court-2666165-2025-01-17?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Ex-Pak PM Imran Khan gets 14 years in jail in \u00a3190 million land corruption caseFormer Pakistan PM Imran Khan sentenced to 14 years in jail in land corruption case: Local media"
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/saif-ali-khan-police-detain-suspect-questioning-case-attacker-knife-stabbing-2666106-2025-01-17?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Suspect detained, several others questioned in Saif Ali Khan attack case: SourcesMumbai Police have detained one suspect in connection with an attack on Bollywood actor Saif Ali Khan in his home in the city's Bandra area. As many as 20 teams were formed by the Mumbai Police to arrest the suspect in the case."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/story/tennis-australian-open-2025-aryna-sabalenka-alcaraz-djokovic-live-updates-2666008-2025-01-17?utm_source=LiveBlog_hp&utm_medium=LiveBlog&utm_campaign=home_LiveBlog",
+      "headline": "Day 6 Live Updates: Djokovic takes on Machac, Gauff in actionAustralian Open 2025 Day 6 Live Updates: Novak Djokovic is up against 26th seed Tomas Machac while Coco Gauff is taking on Leylah Fernandez in an exciting third-round battle. It was heartbreak for Naomi Osaka as she was forced to retire after an injury and forfeit her match against Bencic. Osaka had lost the first set in an intense tiebreaker before injury struck. Carlos Alcaraz overcame the Nuno Borges test in 4 sets to progress to the next round of the Australian Open. Alexander Zverev, on the other hand, dominated the UK's Jacob Fearnley to book his spot in the next round as well. Naomi Osaka's third round clash against Bencic is underway. Earlier, Aryna Sabalenka and Rohan Bopanna won their respective matches."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/assembly/story/arvind-kejriwals-big-poll-promise-free-bus-ride-for-students-in-delhi-2666145-2025-01-17?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Arvind Kejriwal's big poll promise: Free bus rides for students in DelhiArvind Kejriwal's big poll promise: Free bus ride for students in Delhi"
+      "url": "https://www.indiatoday.in/world/us-news/story/michelle-obama-to-skip-donald-trump-inauguration-break-tradition-barack-obama-divorce-racism-feud-2666204-2025-01-17?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Why Michelle Obama is skipping Trump's inauguration, breaking 150-year traditionFormer First Lady Michelle Obama won't be attending Donald Trump's inauguration. It echoes a previous break with tradition when Trump refused to attend Joe Biden's swearing-in over baseless claims that the presidential election was stolen."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/opinion/story/death-of-the-india-alliance-opinion-2665926-2025-01-17?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "INDIA group is dead, Delhi election will drive last nail into coffinThe INDIA alliance is almost dead, and only the last rites need to be performed, most likely once the high-stakes Delhi assembly elections are done and dusted. "
     },
     {
       "sentiment": "positive",
@@ -176,8 +196,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/tennis-australian-open-2025-aryna-sabalenka-alcaraz-djokovic-live-updates-2666008-2025-01-17?utm_source=LiveBlog_hp&utm_medium=LiveBlog&utm_campaign=home_LiveBlog",
-      "headline": "Day 6 Live Updates: Alcaraz, Zverev win, Osaka in actionAustralian Open 2025 Day 6 Live Updates: Carlos Alcaraz has overcome the Nuno Borges test in 4 sets to progress to the next round of the Australian Open. Alexander Zverev on the other hand, dominated UK's Jacob Fearnley to book his spot in the next round as well. Naomi Osaka's third round clash against Bencic is underway. Earlier, Aryna Sabalenka and Rohan Bopanna won their respective matches."
+      "url": "https://www.indiatoday.in/world/story/mark-zuckerberg-blames-sheryl-sandberg-meta-culture-issues-dei-policies-trump-meeting-2666174-2025-01-17?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Zuckerberg blamed Sheryl Sandberg for Meta's culture in Trump meeting: ReportThe report comes as Meta, which owns platforms like Facebook and Instagram, announced that it was ending its fact-checking and its diversity, equity and inclusion (DEI) programs."
     },
     {
       "sentiment": "positive",
@@ -186,8 +206,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/omar-abdullah-on-navigating-relations-with-centre-jammu-kashmir-exclusive-2665992-2025-01-16?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "'Why pick fight for no reason?' Omar Abdullah on navigating relations with CentreIn an interview with India Today TV, Jammu and Kashmir Chief Minister Omar Abdullah spoke about the approach he has adopted towards the PM Modi-led government at the Centre."
+      "url": "https://www.indiatoday.in/india/story/saif-ali-khan-police-detain-suspect-questioning-case-attacker-knife-stabbing-2666106-2025-01-17?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Suspect detained, several others questioned in Saif Ali Khan attack case: Sources Live UpdatesMumbai Police have detained one suspect in connection with an attack on Bollywood actor Saif Ali Khan in his home in the city's Bandra area. As many as 20 teams were formed by the Mumbai Police to arrest the suspect in the case."
     },
     {
       "sentiment": "positive",
@@ -196,13 +216,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/cricket-harbhajan-singh-indian-team-dressing-room-leaks-greg-chappell-gambhir-rohit-2666100-2025-01-17?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Dressing room has crashed: Harbhajan compares current team to Chappell eraFormer India spinner Harbhajan Singh has likened the current Indian dressing room to one in the Greg Chappell era. Harbhajan has questioned the number of leaks from the Indian camp and has alleged that the dressing room is broken."
+      "url": "https://www.indiatoday.in/elections/assembly/story/arvind-kejriwals-big-poll-promise-free-bus-ride-for-students-in-delhi-2666145-2025-01-17?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Arvind Kejriwal's big poll promise: Free bus rides for students in DelhiThe AAP convener made the announcement ahead of the upcoming Assembly Elections in Delhi. "
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/benjamin-netanyahu-israel-hamas-ceasefire-deal-hostages-return-gaza-strip-2666044-2025-01-17?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Israel, Hamas sign hostage-ceasefire deal after mediators' final push in Doha The ceasefire deal between Israel and Hamas would pause the fighting in Gaza and ensure the release of dozens of Israeli hostages being kept in Hamas's custody."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/health/story/made-in-china-dog-chews-linked-to-werewolf-syndrome-uk-vets-warn-owners-2666169-2025-01-17?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Made-in-China dog chews linked to 'werewolf syndrome'The UK's Food Standards Agency has cautioned dog owners against feeding their pets certain chews imported from China due to concerns over 'werewolf syndrome'."
     },
     {
       "sentiment": "positive",
@@ -221,60 +241,45 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/reviews/story/azaad-review-ajay-devgn-rasha-thadani-amaan-devgan-film-is-too-sweet-to-leave-an-impact-2666128-2025-01-17?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Azaad review: Boredom screams louder than the horse's neigh in Rasha-Amaan's filmReleased-Fri Jan 17, 2025Azaad movie review: In Azaad, Rasha Thadani and Amaan Devgan look promising with their debut performance, but that's not enough. This Abhishek Kapoor film looks extremely one-toned, and relies heavily on anthropomorphism. "
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/8th-pay-commission-approved-pensions-see-big-jump-ups-benefits-what-you-need-to-know-2666039-2025-01-17?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
       "headline": "8th Pay Commission: Will pensions see a big jump? Here's what you need to knowThe Union Cabinet approved the 8th Pay Commission on Thursday to revise the salaries of central government employees and pensioners. Union Minister Ashwini Vaishnaw announced the decision and said that the commission will likely be established soon."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/story/why-is-stock-market-falling-today-check-key-details-sensex-nifty-q3-results-infosys-axis-bank-2666080-2025-01-17?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Sensex drops 750 points. Why did stock market fall in early trade?Stock market down today: The fall in IT stocks was a result of Infosys' shares falling over 5.3% after the company reported its Q3 results yesterday. The drop, however, came as a surprise as the company raised its revenue forecast."
+      "url": "https://www.indiatoday.in/movies/bollywood/story/ibrahim-diler-shoot-put-on-hold-after-saif-ali-khan-attack-exclusive-2666209-2025-01-17",
+      "headline": "Ibrahim's Diler shoot put on hold after Saif Ali Khan's attack Saif Ali Khan's son, Ibrahim Ali Khan, has postponed his shoot of Diler to be with his father during this difficult time. Khan was attacked on January 16 during a burglary attempt at his Bandra residence. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/justin-baldoni-sues-blake-lively-ryan-reynolds-in-400-million-defamation-battle-glbs-2666012-2025-01-17?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Justin Baldoni sues Blake Lively, Ryan Reynolds in $400 million defamation battleJustin Baldoni sued Blake Lively and husband Ryan Reynolds for defamation, seeking $400 million in damages amid an escalating legal feud involving harassment allegations and reputational damage tied to the film 'It Ends With Us'."
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/allu-arjun-pushpa-2-20-minutes-extra-footage-in-theatres-from-january-17-2666201-2025-01-17",
+      "headline": "Pushpa 2 reloaded: Allu Arjun's film releases with 20-minutes extra footageAllu Arjun's Pushpa 2 grossed over Rs 1,800 crore worldwide and is still running successfully in many theatres. A new version of the film with 20-minutes additional footage will be played in theatres from January 17."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/shiromani-gurudwara-committee-seeks-ban-on-kangana-ranaut-emergency-stmp-2666070-2025-01-17?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Sikh body seeks ban on Emergency in Punjab, security tightened outside theatresThe Shiromani Gurdwara Parbandhak Committee (SGPC) has written a letter to Punjab Chief Minister Bhagwant Mann, seeking a ban on the Kangana Ranaut film, Emergency. The group said that they would 'strongly protest' if the film releases in the state. "
+      "url": "https://www.indiatoday.in/music/story/blackpink-rose-denies-dating-will-smith-son-jaden-2666191-2025-01-17",
+      "headline": "Blackpink's Rose denies dating Will Smith's son Jaden: He's a good friendBlackpink's Rose has been the subject of intense scrutiny following the release of her latest album, Rosie. Fans are eager to identify the 'toxic ex' mentioned in her songs, with American rapper Jaden Smith among those caught in the speculation."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/bengaluru/story/bengaluru-brazilian-man-steals-watches-worth-over-rs-3-lakh-from-kempegowda-international-airport-2666091-2025-01-17?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Buy one, steal two: Brazillian man's luxury watch heist at Bengaluru airportAccording to the complaint details, a Brazilian citizen stole two watches of a luxury brand from a duty-free store at Terminal 2 of Bengaluru's Kempegowda International Airport. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/joe-biden-final-interview-msnbc-policy-politics-donald-trump-economy-covid-stimulus-checks-2666074-2025-01-17?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Biden's plainspeak on poll loss: Spent too much time on policy, not on politicsIn an interview with MSNBC, outgoing US President Joe Biden touched on a wide range of topics, from his successor Donald Trump to the ceasefire deal between Israel and Hamas."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/saif-ali-khan-stabbed-live-updates-attack-bandra-home-actor-recovering-2666167-2025-01-17",
-      "headline": "Saif Ali Khan stabbed live updates: Actor walked today, recovering fineActor Saif Ali Khan is recovering after an intruder attacked him with a knife after a burglary attempt at his Mumbai house on January 16. The Mumbai Police officials nabbed a suspect in connection to the case."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/movies/reviews/story/emergency-review-kangana-ranaut-indira-gandhi-crash-course-2666166-2025-01-17",
-      "headline": "Emergency review: Kangana Ranaut delivers a rushed crash course on Indira GandhiReleased-Fri Jan 17, 2025Kangana Ranaut's film Emergency briefly touches on the 1975 Emergency while attempting to provide a crash course on Indira Gandhi's life, but struggles to delve deeply into key historical events and character motivations."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/story/saif-ali-khan-knife-attack-doctors-briefing-fortunate-lucky-missed-spine-icu-room-health-recovery-hospital-2666160-2025-01-17",
-      "headline": "Saif Ali Khan's narrow escape, knife missed spine by just 2 mm, say doctorsDoctors treating Saif Ali Khan on Friday said that the actor escaped narrowly as the knife missed his spine by just 2 millimeters."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/movies/celebrities/video/saif-ali-khan-attacked-mother-sharmila-tagore-visits-actor-at-hospital-2666126-2025-01-17",
-      "headline": "Video: Sharmila Tagore visits son Saif Ali Khan at hospitalSaif Ali Khan's mother Sharmila Tagore was clicked entering Lilavati hospital where the actor is admitted. Saif was admitted after being stabbed at least six times by an assailant who broke into his Mumbai residence during a burglary attempt on Thursday."
+      "url": "https://www.indiatoday.in/movies/celebrities/story/taimur-ali-khan-not-ibrahim-ali-khan-accompanied-saif-ali-khan-to-hospital-doctor-2666180-2025-01-17",
+      "headline": "Taimur, not Ibrahim, accompanied Saif Ali Khan to hospital: DoctorActor Saif Ali Khan was taken to the hospital on Thursday after he suffered stab wounds following a burglary attempt at his house. The actor was accompanied by his son, Taimur Ali Khan and his nanny to the hospital. "
     }
   ],
   "sports": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/story/cricket-womens-ashes-australia-vs-england-3rd-odi-report-ashleigh-gardner-alana-king-hobart-2666182-2025-01-17",
+      "headline": "Women's Ashes: Gardner, King shine as Australia sweep England in ODIs, take 6-0 leadAshleigh Gardner's maiden hundred and Alana King's 5-wicket haul helped Australia defeat England by 86 runs to win the 3rd ODI and sweep the series on Friday, January 17. Australia have taken a 6-0 lead in the Women's Ashes as England hope to hang by a thread. "
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/story/manu-bhaker-khel-ratna-award-d-gukesh-national-sports-day-president-murmu-2666163-2025-01-17",
-      "headline": "Watch: D Gukesh, Manu Bhaker receive Khel Ratna award from President Droupadi Murmu Olympic medallists Manu Bhaker, Harmanpreet Singh, Paralympian Praveen Kumar and world chess champion D Gukesh recieved the Khel Ratna Award, India's highest sporting honour, from President Droupadi Murmu on National Sports Day. "
+      "headline": "Watch: Manu Bhaker, D Gukesh receive Khel Ratna award from President Droupadi Murmu Olympic medallists Manu Bhaker, Harmanpreet Singh, Paralympian Praveen Kumar and world chess champion D Gukesh recieved the Khel Ratna Award, India's highest sporting honour, from President Droupadi Murmu on National Sports Day. "
     },
     {
       "sentiment": "positive",
@@ -318,13 +323,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/cricket-rohit-sharma-hardik-pandya-practice-together-before-champions-trophy-ind-vs-eng-2666058-2025-01-17",
-      "headline": "Rohit Sharma, Hardik Pandya practice together before Champions TrophyRohit Sharma and Hardik Pandya were seen practising together in Mumbai. The duo were seen in Mumbai Indians' nets just days out of the white-ball series against England."
+      "url": "https://www.indiatoday.in/sports/story/ufc-star-jiri-prochazka-wins-hearts-with-special-gesture-for-fan-battling-cancer-2666105-2025-01-17",
+      "headline": "UFC star Jiri Prochazka wins hearts with special gesture for fan battling cancerFormer UFC light heavyweight champion Jiri Prochazka won hearts as he decided to shave his head in support of his fan who is battling cervical cancer. Jiri also claimed that he is flying her in for the UFC 311 event. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/tennis-australian-open-2025-rohan-bopanna-shuai-zhang-win-first-round-melbourne-2666057-2025-01-17",
-      "headline": "Australian Open: Rohan Bopanna-Shuai Zhang secure safe passage into Round 2India's Rohan Bopanna and his Chinese partner Shuai Zhang produced a clinical performance to secure a safe passage into the second round of the mixed doubles in the Australian Open 2025. "
+      "url": "https://www.indiatoday.in/sports/story/cricket-harbhajan-singh-indian-team-dressing-room-leaks-greg-chappell-gambhir-rohit-2666100-2025-01-17",
+      "headline": "Dressing room has crashed: Harbhajan compares current team to Chappell eraFormer India spinner Harbhajan Singh has likened the current Indian dressing room to one in the Greg Chappell era. Harbhajan has questioned the number of leaks from the Indian camp and has alleged that the dressing room is broken."
     },
     {
       "sentiment": "positive",
@@ -374,22 +379,22 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/story/tennis-australian-open-2025-aryna-sabalenka-alcaraz-djokovic-live-updates-2666008-2025-01-17",
-      "headline": "Day 6 Live Updates: Alcaraz, Zverev win, Osaka in actionAustralian Open 2025 Day 6 Live Updates: Carlos Alcaraz has overcome the Nuno Borges test in 4 sets to progress to the next round of the Australian Open. Alexander Zverev on the other hand, dominated UK's Jacob Fearnley to book his spot in the next round as well. Naomi Osaka's third round clash against Bencic is underway. Earlier, Aryna Sabalenka and Rohan Bopanna won their respective matches."
+      "headline": "Day 6 Live Updates: Osaka retires after injury, Alcaraz winsAustralian Open 2025 Day 6 Live Updates: It was heartbreak for Naomi Osaka as she was forced to retire after an injury and forfeit her match against Bencic. Osaka had lost the first set in an intense tiebreaker before injury struck. Carlos Alcaraz overcame the Nuno Borges test in 4 sets to progress to the next round of the Australian Open. Alexander Zverev, on the other hand, dominated the UK's Jacob Fearnley to book his spot in the next round as well. Naomi Osaka's third round clash against Bencic is underway. Earlier, Aryna Sabalenka and Rohan Bopanna won their respective matches."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/d-gukesh-olympics-next-level-chess-2666006-2025-01-16",
-      "headline": "Will take the game to next level: Gukesh backs chess in Olympics Indian chess prodigy D Gukesh has voiced his strong support for chess to be included in the Olympic Games, highlighting how such a move would elevate the game to new heights. "
+      "url": "https://www.indiatoday.in/sports/story/india-vs-england-t20i-series-team-camp-kolkata-3-days-2666031-2025-01-17",
+      "headline": "India to hold 3-day camp at Eden Gardens before T20I series vs EnglandThe Indian T20I team is set to hold a 3-day camp at the Eden Gardens. The team will arrive in Kolkata on Saturday, January 18 and sharpen their skills before their series opener vs England.\r\n"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/tushar-deshpande-sidelined-for-next-2-3-months-due-to-ankle-injury-2666004-2025-01-16",
-      "headline": "Tushar likely to remain sidelined for next 2-3 months due to ankle injuryMumbai pacer Tushar Deshpande faces an extended recovery period after his ankle injury resurfaced, sidelining him for another two to three months. Meanwhile, Yashasvi Jaiswal gears up for the Ranji Trophy clash against Jammu and Kashmir, following a mixed performance in Australia's tour."
+      "url": "https://www.indiatoday.in/sports/story/champions-trophy-pcb-stadiums-karachi-lahore-renovation-under-construction-journalists-not-allowed-2666027-2025-01-17",
+      "headline": "As D-Day approaches, PCB restricts movement near under-construction stadiumsChampions Trophy: As deadline-day approaches, the Pakistan Cricket Board has restricted movements near the under-construction stadiums of Karachi and Gaddafi. The move from the PCB comes after multiple vloggers posted video footage of the ongoing work on the stadiums."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/story/tennis-australian-open-2025-aryna-sabalenka-alcaraz-djokovic-live-updates-2666008-2025-01-17",
-      "headline": "Day 6 Live Updates: Alcaraz, Zverev win, Osaka in actionAustralian Open 2025 Day 6 Live Updates: Carlos Alcaraz has overcome the Nuno Borges test in 4 sets to progress to the next round of the Australian Open. Alexander Zverev on the other hand, dominated UK's Jacob Fearnley to book his spot in the next round as well. Naomi Osaka's third round clash against Bencic is underway. Earlier, Aryna Sabalenka and Rohan Bopanna won their respective matches."
+      "headline": "Day 6 Live Updates: Osaka retires after injury, Alcaraz winsAustralian Open 2025 Day 6 Live Updates: It was heartbreak for Naomi Osaka as she was forced to retire after an injury and forfeit her match against Bencic. Osaka had lost the first set in an intense tiebreaker before injury struck. Carlos Alcaraz overcame the Nuno Borges test in 4 sets to progress to the next round of the Australian Open. Alexander Zverev, on the other hand, dominated the UK's Jacob Fearnley to book his spot in the next round as well. Naomi Osaka's third round clash against Bencic is underway. Earlier, Aryna Sabalenka and Rohan Bopanna won their respective matches."
     },
     {
       "sentiment": "positive",
@@ -410,16 +415,6 @@
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/story/tennis-australian-open-day-6-full-schedule-time-india-djokovic-alcaraz-sabalenka-2665991-2025-01-16",
       "headline": "Day 6 schedule: Novak Djokovic, Aryna Sabalenka eye fourth-round berths Australian Open Day 6 Schedule: Carlos Alcaraz faces a tricky test in the third round. Novak Djokovic and Aryna Sabalenka will also be in action on Friday in Melbourne. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/tennis-learner-tien-australian-open-daniil-medvedev-second-round-2665976-2025-01-16",
-      "headline": "Meet Learner Tien: The teenager who stunned Medvedev in marathon clash Australian Open 2025: 19-year-old Learner Tien beat Daniil Medvedev in a thrilling five-setter that lasted four hours and 48 minutes. Tien got his name from his mother's profession as a maths teacher. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/cricket-bcci-rules-10-points-family-travel-players-personal-ad-shoots-baggage-2665972-2025-01-16",
-      "headline": "BCCI enforces strict rules on family travel, bans personal shoots during toursExclusive: The Indian cricket board has implemented strict rules for the senior men's national team following their Test series loss in Australia. In a 10-point guideline, accessed by India Today, the board has outlined restrictions on family travel, baggage allowances, and personal advertisement shoots."
     }
   ],
   "education": [
