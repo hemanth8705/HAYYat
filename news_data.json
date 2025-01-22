@@ -1,6 +1,16 @@
 {
   "business": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/story/explained-why-icici-prudential-share-price-tumbled-10-percent-after-q3-results-2668387-2025-01-22",
+      "headline": "Explained: Why ICICI Prudential shares tumbled 10% after Q3 resultsICICI Prudential share price: The company's share price decline came a day after Q3FY25 results, where it reported a 43% rise in net profit to Rs 326 crore."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/zomato-stock-price-down-23-percent-in-a-month-should-you-buy-or-avoid-expert-views-2668366-2025-01-22",
+      "headline": "Zomato shares down over 23% in a month. Should you buy or avoid?Zomato share price: The food delivery giant's stock price has fallen over 14% in the previous two sessions and over 23% in the past month. "
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/denta-water-ipo-open-today-for-bidding-subscribe-skip-review-latest-gmp-price-band-issue-size-details-2668344-2025-01-22",
       "headline": "Denta Water IPO opens for bidding: Should you subscribe? Check latest GMPThe price band for the IPO of Denta Water has been set at Rs 279-294 per share with retail investors required to invest a minimum of Rs\u00a014,700. The minimum lot size for an application is 50."
@@ -89,16 +99,6 @@
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/story/adar-poonawalla-70-hour-workweek-debate-humans-cant-be-productive-beyond-8-9-hours-serum-institute-of-india-ceo-2667905-2025-01-21",
       "headline": "Adar Poonawalla on 70-hour workweek: Humans can't be productive beyond 8-9 hoursThe CEO of Serum Institute mentioned that\u00a0there's no substitute for hard work but the quality of work, and working strategically is of importance.\u00a0"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/paytm-stock-price-one97-communication-shares-fall-brokerage-view-target-price-rating-q3-results-2667897-2025-01-21",
-      "headline": "Explained: Why Paytm share price fell 7% today and what's nextPaytm stock price: The drop in Paytm's share price came after the company reported its Q3FY25 results. Read to find out how brokerages rated Paytm's Q3 results and how the company's stock will perform in future."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/narayana-murthy-70-hour-workweek-nobody-can-say-you-should-do-it-work-life-balance-debate-2667850-2025-01-21",
-      "headline": "Narayana Murthy clarifies 70-hour workweek remark: It's not wrong but is a choiceAfter stirring up a fierce debate on social media, Narayana Murthy has now suggested that the 70-hour workweek is a personal choice and should not be imposed on others."
     }
   ],
   "entertainment": [
@@ -130,74 +130,19 @@
   ],
   "general news": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/elections/assembly/story/delhi-polls-bjp-alleges-punjab-employees-installing-chinese-cctvs-in-delhi-aap-hits-back-2668378-2025-01-22?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "BJP alleges Punjab employees installing Chinese CCTVs in Delhi, AAP hits backThe 70-member Delhi Assembly is scheduled to go to polls on February 5 and the results are set to be declared on February 8."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/us-news/story/us-president-donald-trump-h-1b-visa-debate-we-need-great-people-to-come-to-our-country-2668315-2025-01-22?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "We need great people to come to US: Trump weighs in on H-1B visa debateWhen asked about the H-1B visa debate at a press conference on Tuesday, President Trump said that \"I like both sides of the argument, but I also like very competent people coming into our country, even if that involves them training and helping other people that may not have the qualifications they do\"."
+      "headline": "We need great people to come to US: Trump weighs in on H-1B visa debateDonald Trump on H-1B visa: When asked about the H-1B visa debate at a press conference on Tuesday, President Trump said that \"I like both sides of the argument, but I also like very competent people coming into our country, even if that involves them training and helping other people that may not have the qualifications they do\"."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/s-jaishankar-quad-foreign-ministers-washington-dc-donald-trump-inauguration-event-2668310-2025-01-22?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "S Jaishankar attends Quad meet, Trump 2.0's first; bilateral with Rubio, his firstExternal Affairs Minister S Jaishankar participated in the Quad Foreign Ministers' meeting in Washington DC and highlighted the significance of the event as it was held a day after Donald Trump's inauguration as 47th US President."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/elections/assembly/story/bjp-ramesh-bidhuri-atishi-aap-parents-attack-support-terrorist-afzal-guru-letter-president-stop-execution-new-jibe-delhi-polls-2668357-2025-01-22?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Atishi's parents backed terrorist Afzal Guru, wrote to then President to stop his execution: Ramesh BidhuriAtishi's parents backed terrorist Afzal Guru, wrote to then President to stop his execution: Ramesh Bidhuri"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/saif-ali-khan-meet-house-help-for-bravery-after-returning-home-from-hospital-2668353-2025-01-22?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Saif Ali Khan wanted to meet, thank help for her bravery after returning home: SourcesActor Saif Ali Khan returned home from hospital following two surgeries days after the stabbing incident. Sources tell India Today that the actor wanted to meet and thank house help Eliyamma Phillip for her bravery."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/fashion/story/nita-ambani-flaunts-ethnic-glam-in-traditional-sarees-at-trumps-inauguration-events-2668180-2025-01-22?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Nita Ambani flaunts ethnic glam in traditional sarees at Trump's inauguration eventsMukesh and Nita Ambani attended Donald Trump's Inauguration Day ceremonies in Washington, where the latter proudly showcased her Indian heritage through her sartorial choices.\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/tennis-jannik-sinner-iga-swiatek-match-timing-live-streaming-australian-open-2025-day-11-2668290-2025-01-22?utm_source=LiveBlog_hp&utm_medium=LiveBlog&utm_campaign=home_LiveBlog",
-      "headline": "Day 11 Live Updates: Shelton vs Sonego underway, Swiatek, Keys through to semi-finalsAustralian Open Day 11 Live Updates: Ben Shelton's quarter-final clash against Lorenzo Sonego underway at the Rod Laver Arena. Earlier, Iga Swiatek sealed her spot in the semi-final after a thumping win over Emma Navarro in the quarter-final and Madison Keys completed a comeback win over Elina Svitolina. Jannik Sinner will take on Alex de Minaur later in the day."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/us-president-donald-trump-washington-national-cathedral-bishop-appeal-have-mercy-lgbtq-members-immigrants-2668327-2025-01-22?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Bishop's 'mercy in name of God' appeal to Trump for LGBTQ+ members, immigrantsShortly after he took office, Trump announced that he would bring sweeping changes to the \"gender identity\" policy and also signed an executive order to launch an immediate crackdown on illegal immigration."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/budget-2025-focus-on-effective-spending-not-income-tax-cuts-raghuram-rajan-davos-2668322-2025-01-22?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Budget 2025: Raghuram Rajan says tax cuts won't solve India's fiscal problemsFormer RBI Governor Raghuram Rajan said that he is not worried about the reduction in tax rates but\u00a0instead about the need for more effective government spending, particularly in human capital development."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/cricket-india-vs-england-1st-t20i-predicted-xi-samson-sky-2668275-2025-01-22?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "1st T20I, Predicted XI: Will dew affect India's team combination in Kolkata?India vs England, 1st T20I: India are set to kick off their T20I series against England on Wednesday in Kolkata. With dew expected to fall during the second half of the match, team selection will be crucial for both teams. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/zeenat-aman-chokes-on-her-table-son-zahaan-khan-and-doctor-advice-2668314-2025-01-22?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Zeenat Aman says she almost choked on tablet: Made frantic calls, son rushed overActor Zeenat Aman recently spoke about a scary experience when she choked on her tablets. She explained her ordeal and shared a life lesson she learnt from the incident."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/donald-trump-us-president-executive-order-federal-diversity-inclusion-staff-leave-dei-programs-2668329-2025-01-22?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Trump places all federal diversity, equity, inclusion staff on paid leaveThe memo follows an executive order Trump signed on his first day ordering a\u00a0sweeping dismantling\u00a0of the federal government's diversity and inclusion programs that could touch on everything from anti-bias training to funding for minority farmers and homeowners."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/saif-ali-khan-attack-intruder-bangladeshi-national-entered-house-compound-wall-security-guards-asleep-2668312-2025-01-22?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Saif Ali Khan's security guards were asleep when attacker entered house: CopsThe Mumbai Police said that both the security guards of the building where Saif Ali Khan resides were asleep when the attacker entered the building by scaling the compound wall."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/tennis-australian-open-novak-djokovic-kids-1-am-daddy-duty-carlos-alcaraz-2668154-2025-01-21?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Kids up till 1 am, Novak Djokovic interrupts interview for daddy duty Australian Open 2025: Novak Djokovic entertained on the court and off it on Tuesday, putting on a show against third seed Carlos Alcaraz. The Serb interrupted his on-court interview to have a heartwarming chat with his kids, who were at Rod Laver Arena. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/openai-announces-new-company-called-stargate-project-will-invest-500-billion-to-develop-ai-data-centres-2668346-2025-01-22?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "OpenAI announces Stargate Project, will invest $500B to develop AI data centresOracle, Nvidia, and OpenAI have come together to start a new company called the Stargate Project. OpenAI CEO Sam Altman says it will build new AI infrastructure for OpenAI in the United States."
+      "url": "https://www.indiatoday.in/world/canada-news/story/canada-prime-minister-justin-trudeau-warns-us-president-donald-trump-against-imposing-25-percent-tariffs-america-needs-canadian-inputs-2668359-2025-01-22?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Trudeau warns Trump against imposing tariffs, says US needs Canadian resourcesShortly after taking office on Monday, US President Donald Trump reiterated his threat to impose a 25 per cent tariff on Canadian and Mexican imports, starting as early as February 1, if the two neighbouring nations did not clamp down on illegal immigration."
     },
     {
       "sentiment": "positive",
@@ -206,8 +151,58 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/lifestyle/fashion/story/nita-ambani-flaunts-ethnic-glam-in-traditional-sarees-at-trumps-inauguration-events-2668180-2025-01-22?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Nita Ambani flaunts ethnic glam in traditional sarees at Trump's inauguration eventsMukesh and Nita Ambani attended Donald Trump's Inauguration Day ceremonies in Washington, where the latter proudly showcased her Indian heritage through her sartorial choices.\r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/s-jaishankar-quad-foreign-ministers-washington-dc-donald-trump-inauguration-event-2668310-2025-01-22?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "S Jaishankar attends Quad meet, Trump 2.0's first; bilateral with Rubio, his firstExternal Affairs Minister S Jaishankar participated in the Quad Foreign Ministers' meeting in Washington DC, a day after Donald Trump's inauguration as the 47th US President."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/us-news/story/us-president-donald-trump-washington-national-cathedral-bishop-appeal-have-mercy-lgbtq-members-immigrants-2668327-2025-01-22?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Video: Trump in front, bishop's mercy appeal for the LGBTQ+, illegal immigrantsShortly after he took office, Trump announced that he would bring sweeping changes to the \"gender identity\" policy and also signed an executive order to launch an immediate crackdown on illegal immigration."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/saif-ali-khan-meet-house-help-for-bravery-after-returning-home-from-hospital-2668353-2025-01-22?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Saif Ali Khan wanted to meet, thank help for her bravery after returning home: SourcesActor Saif Ali Khan returned home from hospital following two surgeries days after the stabbing incident. Sources tell India Today that the actor wanted to meet and thank house help Eliyamma Phillip for her bravery."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/us-news/story/donald-trump-joe-biden-politics-presidential-pardons-2668385-2025-01-22?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Trump, Biden and the politics of presidential pardonsRooted in history that stretches back to Ancient Greece, Rome, and the English monarchy, the presidential pardon was envisioned by America's founding fathers as a mechanism to serve public welfare and dispense mercy."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/story/tennis-jannik-sinner-iga-swiatek-match-timing-live-streaming-australian-open-2025-day-11-2668290-2025-01-22?utm_source=LiveBlog_hp&utm_medium=LiveBlog&utm_campaign=home_LiveBlog",
+      "headline": "Day 11 Live Updates: Shelton wins 1st set vs Sonego, Swiatek, Keys through to semi-finalsAustralian Open Day 11 Live Updates: Ben Shelton has won the first set in his quarter-final clash against Lorenzo Sonego at the Rod Laver Arena. Earlier, Iga Swiatek sealed her spot in the semi-final after a thumping win over Emma Navarro in the quarter-final and Madison Keys completed a comeback win over Elina Svitolina. Jannik Sinner will take on Alex de Minaur later in the day."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/us-news/story/donald-trump-us-president-executive-order-federal-diversity-inclusion-staff-leave-dei-programs-2668329-2025-01-22?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Trump places all federal diversity, equity, inclusion staff on paid leaveThe memo follows an executive order Trump signed on his first day ordering a\u00a0sweeping dismantling\u00a0of the federal government's diversity and inclusion programs that could touch on everything from anti-bias training to funding for minority farmers and homeowners."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/elections/assembly/story/bjp-ramesh-bidhuri-atishi-aap-parents-attack-support-terrorist-afzal-guru-letter-president-stop-execution-new-jibe-delhi-polls-2668357-2025-01-22?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Ramesh Bidhuri jabs Atishi again, says her parents backed terrorist Afzal GuruDelhi Assembly Elections 2025: BJP leader Ramesh Bidhuri, who is the BJP's candidate from Kalkaji for the Delhi Assembly elections, claimed that Delhi Chief Minister Atishi's parents wrote to the then President to stop the execution of Afzal Guru."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/trending-news/story/man-superglue-stunt-goes-wrong-as-he-ends-up-sealing-his-mouth-viral-video-2668349-2025-01-22?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Man's superglue stunt goes wrong as he ends up sealing his mouth. Viral videoA man's superglue stunt went horribly wrong as he ended up sealing his mouth. The video has gone viral with 8 million views. "
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/law-news/story/bombay-high-court-ed-money-laundering-probe-real-estate-developed-fined-police-complaint-2668299-2025-01-22?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
       "headline": "Must not harass people, take law into hands: High Court fines ED Rs 1 lakhThe Bombay High Court slapped a fine of Rs 1 lakh on the ED for initiating a money laundering probe against a real estate developer \"without serious application of mind\" and said such agencies should act within the purview of law."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/budget-2025-focus-on-effective-spending-not-income-tax-cuts-raghuram-rajan-davos-2668322-2025-01-22?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Budget 2025: Raghuram Rajan says tax cuts won't solve India's fiscal problemsFormer RBI Governor Raghuram Rajan said that he is not worried about the reduction in tax rates but\u00a0instead about the need for more effective government spending, particularly in human capital development."
     },
     {
       "sentiment": "positive",
@@ -216,23 +211,23 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/donald-trump-tariff-hike-raghuram-rajan-wef-davos-us-president-ex-rbi-governor-2668197-2025-01-21?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Concern for world, won't benefit US much: Raghuram Rajan on Trump tariff threatSpeaking to India Today TV, former RBI Governor Raghuram Rajan warned that US President Donald Trump's tariff plans could harm global economic stability, increase costs, and deter foreign investment. "
+      "url": "https://www.indiatoday.in/technology/news/story/openai-announces-new-company-called-stargate-project-will-invest-500-billion-to-develop-ai-data-centres-2668346-2025-01-22?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "OpenAI announces Stargate Project, will invest $500B to develop AI data centresOracle, Nvidia, and OpenAI have come together to start a new company called the Stargate Project. OpenAI CEO Sam Altman says it will build new AI infrastructure for OpenAI in the United States."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/saif-ali-khan-attack-intruder-bangladeshi-national-entered-house-compound-wall-security-guards-asleep-2668312-2025-01-22?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Saif Ali Khan's security guards were asleep when attacker entered house: CopsThe Mumbai Police said that both the security guards of the building where Saif Ali Khan resides were asleep when the attacker entered the building by scaling the compound wall."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/us-coastguard-deploy-asset-gulf-of-america-donald-trump-executive-order-2668318-2025-01-22?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "US deploys assets to 'Gulf of America', other waterways after Trump's orderThe US maritime law enforcement agency will be increasing its presence in Florida to detect and prevent migrants from Haiti and Cuba. It will also increase focus on maritime borders in Hawaii and Alaska."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/shows/story/the-buzz-us-president-donald-trump-threatens-brics-nations-100-percent-tariffs-de-dollarisation-2668259-2025-01-21?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Trump threatens Brics nations again with 100% tariffs over de-dollarisationConsidered an alternative to the West or the G7 bloc, the intergovernmental organisation consisting Brazil, Russia, India, China, South Africa, Egypt, Ethiopia, Indonesia, Iran, and the United Arab Emirates, has been looking at how to better trade among each other by using local currencies."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/andhra-pradesh/story/tdp-leaders-push-for-nara-lokesh-deputy-cm-naidu-pawan-kalyan-jana-sena-alliance-2668155-2025-01-22?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Why Chandrababu Naidu is likely to ignore calls to elevate\u00a0Nara\u00a0LokeshAmidst calls for Nara Lokesh to be elevated as Andhra Pradesh Deputy Chief Minister, the dynamics within the TDP-led coalition government, which is carefully balanced by Jana Sena Chief Pawan Kalyan's pivotal role, could face potential disruption."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/fact-check/story/fact-check-was-jaishankar-asked-to-move-to-the-back-during-trumps-inauguration-2668228-2025-01-21?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Fact Check: Was Jaishankar asked to move to the back during Trump's inauguration?The full video makes it clear that the woman asked a cameraperson to move to the back, not S Jaishankar."
+      "url": "https://www.indiatoday.in/sports/story/cricket-mohammed-shami-india-vs-england-injury-comeback-t20i-series-2668351-2025-01-22?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "There was a sense of fear even while running: Shami recalls injury ordealIND vs ENG: Speedster Mohammed Shami talked about the challenges he faced while recovering from the injuries that kept him out of the national team since the ODI World Cup final against Australia in November 2023. "
     },
     {
       "sentiment": "negative",
@@ -241,13 +236,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/madhya-pradesh-dog-scratches-car-that-hit-him-in-sagar-video-of-incident-surfaces-2668231-2025-01-21?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Fur-ious revenge: Dog scratches car that hit it in Madhya PradeshA dog left scratches on a car that had hit it in Madhya Pradesh's Sagar in an unusual tale of revenge. A video of the incident also surfaced online. "
+      "url": "https://www.indiatoday.in/sports/story/cricket-india-vs-england-1st-t20i-predicted-xi-samson-sky-2668275-2025-01-22?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "1st T20I, Predicted XI: Will dew affect India's team combination in Kolkata?India vs England, 1st T20I: India are set to kick off their T20I series against England on Wednesday in Kolkata. With dew expected to fall during the second half of the match, team selection will be crucial for both teams. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/donald-trump-elon-musk-tiktok-ban-us-purchase-2668326-2025-01-22?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Elon Musk can buy TikTok if he wants: Trump as app's future hangs in balanceUS President Donald Trump signed an\u00a0executive order\u00a0seeking to delay by 75 days the\u00a0enforcement of the\u00a0law that was put in place after US officials warned that under Chinese parent company ByteDance, there was a risk of Americans' data being misused."
+      "url": "https://www.indiatoday.in/india/andhra-pradesh/story/tdp-leaders-push-for-nara-lokesh-deputy-cm-naidu-pawan-kalyan-jana-sena-alliance-2668155-2025-01-22?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Why Chandrababu Naidu is likely to ignore calls to elevate\u00a0Nara\u00a0LokeshAmidst calls for Nara Lokesh to be elevated as Andhra Pradesh Deputy Chief Minister, the dynamics within the TDP-led coalition government, which is carefully balanced by Jana Sena Chief Pawan Kalyan's pivotal role, could face potential disruption."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/mahesh-babus-sweet-wish-for-incredible-woman-namrata-shirodkar-on-53rd-birthday-2668360-2025-01-22",
+      "headline": "Mahesh Babu's sweet wish for 'incredible woman' Namrata Shirodkar on 53rd birthdayMahesh Babu shared an adorable post on social media to wish his actor-wife Namrata Shirodkar on her birthday. She turned 53 years old on January 22."
     },
     {
       "sentiment": "positive",
@@ -263,14 +263,19 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/pushpa-2-the-rule-box-office-day-48-allu-arjun-film-sees-drop-in-numbers-earns-rs-55-lakh-stmp-2668343-2025-01-22",
       "headline": "Pushpa 2 box office Day 48: Allu Arjun film sees drop in numbers, earns Rs 55 lakhSix weeks after its release, Allu Arjun's Pushpa 2: The Rule witnessed a drop in its collection. The film has by far earned over Rs 1230 crore in India. \r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/kajal-aggarwal-shout-out-coldplay-jasleen-royal-collaboration-at-mumbai-concert-2668337-2025-01-22",
-      "headline": "Kajal Aggarwal's shout-out to Coldplay-Jasleen Royal collab at Mumbai concertKajal Aggarwal and her husband, Gautam Kitchlu, attended Day 3 of Coldplay's Mumbai concert. The actor gave a shout-out to the collaboration of Coldplay and Jasleen Royal."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/story/cricket-india-vs-england-mohammed-shami-kapil-dev-record-2668389-2025-01-22",
+      "headline": "On India return, Mohammed Shami eyes Kapil Dev's record IND vs ENG: Indian fast bowler Mohammed Shami is on the cusp of a major landmark in international as he makes his return in the upcoming T20I series against England, starting January 22 in Kolkata. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/story/cricket-u19-womens-t20-world-cup-2025-rahul-dravid-niki-prasad-idol-jersey-2668367-2025-01-22",
+      "headline": "Dravid has been my idol, happy to have worn his jersey No.19: Niki PrasadU19 Women's T20 World Cup 2025: Indian U19 skipper Niki Prasad opened up on her admiration for Rahul Dravid and how his batting has inspired her since childhood. Under Niki, India have won both their matches and are placed on top of Group A. "
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/australian-open-iga-swiatek-defeats-emma-navarro-sets-up-semi-final-madison-keys-elina-svitolina-2668354-2025-01-22",
@@ -314,17 +319,17 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/story/tennis-jannik-sinner-iga-swiatek-match-timing-live-streaming-australian-open-2025-day-11-2668290-2025-01-22",
-      "headline": "Day 11 Live Updates: Shelton vs Sonego underway, Swiatek, Keys through to semi-finalsAustralian Open Day 11 Live Updates: Ben Shelton's quarter-final clash against Lorenzo Sonego underway at the Rod Laver Arena. Earlier, Iga Swiatek sealed her spot in the semi-final after a thumping win over Emma Navarro in the quarter-final and Madison Keys completed a comeback win over Elina Svitolina. Jannik Sinner will take on Alex de Minaur later in the day."
+      "headline": "Day 11 Live Updates: Shelton wins 1st set vs Sonego, Swiatek, Keys through to semi-finalsAustralian Open Day 11 Live Updates: Ben Shelton has won the first set in his quarter-final clash against Lorenzo Sonego at the Rod Laver Arena. Earlier, Iga Swiatek sealed her spot in the semi-final after a thumping win over Emma Navarro in the quarter-final and Madison Keys completed a comeback win over Elina Svitolina. Jannik Sinner will take on Alex de Minaur later in the day."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/carlo-ancelotti-breaks-silence-on-his-real-madrid-future-2668284-2025-01-21",
-      "headline": "Carlo Ancelotti breaks silence on his Real Madrid future: Not for me to decideReal Madrid head coach Carlo Ancelotti addressed his future at the La Liga club amid reports that he was planning to leave Madrid at the end of the season.\r\n\r\n\r\n"
+      "url": "https://www.indiatoday.in/sports/cricket/story/virat-kohli-rohit-sharma-form-important-india-champions-trophy-dubai-mohammad-kaif-2668321-2025-01-22",
+      "headline": "Kohli, Rohit's form important for India to win in Dubai: KaifMohammad Kaif believes Rohit Sharma and Virat Kohli's experience and batting prowess will be crucial for India's success in the Champions Trophy, urging fans to trust their ability to bounce back from recent struggles and deliver on the big stage."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/cricket-india-vs-england-2nd-t20i-metro-tickets-free-chennai-ma-chidambaram-2668235-2025-01-21",
-      "headline": "2nd T20I: Free metro travel announced for ticket holders in Chennai India vs England, 2nd T20I: The Tamil Nadu Cricket Association has announced free metro travel to and from the MA Chidambaram Stadium for ticket holders on Saturday, January 25. "
+      "url": "https://www.indiatoday.in/sports/story/cricket-india-vs-england-1st-t20i-predicted-xi-samson-sky-2668275-2025-01-22",
+      "headline": "1st T20I, Predicted XI: Will dew affect India's team combination in Kolkata?India vs England, 1st T20I: India are set to kick off their T20I series against England on Wednesday in Kolkata. With dew expected to fall during the second half of the match, team selection will be crucial for both teams. "
     },
     {
       "sentiment": "positive",
@@ -339,7 +344,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/story/tennis-jannik-sinner-iga-swiatek-match-timing-live-streaming-australian-open-2025-day-11-2668290-2025-01-22",
-      "headline": "Day 11 Live Updates: Shelton vs Sonego underway, Swiatek, Keys through to semi-finalsAustralian Open Day 11 Live Updates: Ben Shelton's quarter-final clash against Lorenzo Sonego underway at the Rod Laver Arena. Earlier, Iga Swiatek sealed her spot in the semi-final after a thumping win over Emma Navarro in the quarter-final and Madison Keys completed a comeback win over Elina Svitolina. Jannik Sinner will take on Alex de Minaur later in the day."
+      "headline": "Day 11 Live Updates: Shelton wins 1st set vs Sonego, Swiatek, Keys through to semi-finalsAustralian Open Day 11 Live Updates: Ben Shelton has won the first set in his quarter-final clash against Lorenzo Sonego at the Rod Laver Arena. Earlier, Iga Swiatek sealed her spot in the semi-final after a thumping win over Emma Navarro in the quarter-final and Madison Keys completed a comeback win over Elina Svitolina. Jannik Sinner will take on Alex de Minaur later in the day."
     },
     {
       "sentiment": "positive",
@@ -383,13 +388,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/tennis-australian-open-novak-djokovic-kids-1-am-daddy-duty-carlos-alcaraz-2668154-2025-01-21",
-      "headline": "Kids up till 1 am, Novak Djokovic interrupts interview for daddy duty Australian Open 2025: Novak Djokovic entertained on the court and off it on Tuesday, putting on a show against third seed Carlos Alcaraz. The Serb interrupted his on-court interview to have a heartwarming chat with his kids, who were at Rod Laver Arena. "
+      "url": "https://www.indiatoday.in/sports/story/tennis-australian-open-carlos-alcaraz-reveals-biggest-mistake-in-quarterfinal-vs-novak-djokovic-2668238-2025-01-21",
+      "headline": "Carlos Alcaraz reveals biggest mistake in quarterfinal vs Novak DjokovicCarlos Alcaraz was knocked out of the Australian Open 2025 after losing to Novak Djokovic in the quarterfinal of the competition. Alcaraz reviewed his game and revealed his biggest mistake in the match.\r\n"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/video/india-vs-england-1st-t20i-suryakumar-yadav-pre-match-press-conference-2668153-2025-01-21",
-      "headline": "No question mark over Samson as wicketkeeper in T20I side: Suryakumar India captain Suryakumar Yadav confirmed that Sanju Samson is the first-choice wicketkeeper in the T20I side with Dhruv Jurel being his backup. \"Currently, there is no question mark on the wicketkeeper,\" Suryakumar told the reporters.\u00a0"
+      "url": "https://www.indiatoday.in/sports/story/tennis-australian-open-novak-djokovic-andy-rmurray-coach-carlos-alcaraz-win-2668229-2025-01-21",
+      "headline": "Djokovic says beating Alcaraz 'huge win' for relationship with coach MurrayAustralian Open 2025: Novak Djokovic said his relationship with coach Andy Murray is getting better with every passing day and the win against Carlos Alcaraz in the quarterfinal will only help further the bond. "
     },
     {
       "sentiment": "positive",
@@ -420,16 +425,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/australian-open-2025-novak-djokovic-beat-alcaraz-reach-50th-grand-slam-final-2668127-2025-01-21",
       "headline": "Ageless Novak Djokovic dumps out Carlos Alcaraz for special 50 Australian Open 2025: 24-time Grand Slam champion Novak Djokovic defeated third seed Carlos Alcaraz 4-6, 6-4, 6-3, 6-4 in the men's singles quarter-final to reach his 50th Grand Slam semi-final on Tuesday."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/champions-trophy-karachi-and-lahore-stadiums-renovation-2668106-2025-01-21",
-      "headline": "Champions Trophy: Karachi, Lahore stadiums face litmus Test in tri-seriesThe under-construction Karachi and Lahore stadiums will be handed to the Pakistan Cricket Board on 5 February, two weeks ahead of ICC Champions Trophy 2025. Pakistan will play a tri-series against South Africa and New Zealand in the renovated stadiums.\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/cricket-jay-shah-thomas-back-icc-la-olympics-2028-2668077-2025-01-21",
-      "headline": "ICC boss Jay Shah meets Olympic Committee head Thomas Bach ahead of LA 2028International Cricket Council chief Jay Shah met the head of the International Olympic Committee, Thomas Bach. Shah met the IOC head in Switzerland, the images of which were released by the ICC."
     }
   ],
   "education": [
