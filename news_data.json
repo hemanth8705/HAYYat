@@ -1,6 +1,11 @@
 {
   "business": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/story/market-opening-bell-stock-market-sensex-nifty-extend-losses-it-and-metal-stocks-drag-markets-down-2670593-2025-01-27",
+      "headline": "Sensex, Nifty extend losses; IT and metal stocks drag markets downThe S&P BSE Sensex tanked 378.29 points to\u00a075,812.17, while the NSE Nifty50 was down by 92.40 points to\u00a022,999.80 as of 9:45 AM.\u00a0"
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/what-to-expect-from-senex-nifty-will-bears-dominate-stock-market-5-things-investors-should-know-2670388-2025-01-26",
       "headline": "Will bears dominate stock market next week? 5 things investors should knowCorporate earnings and key economic data from around the world will likely shape the direction of the stock market, keeping investors on their toes."
@@ -94,11 +99,6 @@
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/story/cyient-share-price-20-percent-52-week-low-triggered-stock-price-crash-explained-2669414-2025-01-24",
       "headline": "Cyient share price falls 20% to hit 52-week low. What triggered Friday's crash?Cyient stock price: At around 10:21 am, shares of Cyient were down 17.96% to Rs 1,438 on the Bombay Stock Exchange (BSE). In early trade, shares of the IT company fell as much as 20% to hit a 52-week low of Rs 1,402.25."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/dr-reddys-laboratories-share-price-falls-sharply-q3-results-explained-2669392-2025-01-24",
-      "headline": "Explained: Why Dr Reddy's share price cracked 6% in early tradeDr Reddy's Laboratories Stock Price: Dr Reddy's shares tumbled up to 6% in early trade and at 9:46 am, they were trading 4.35% lower at Rs 1,233.25 on the Bombay Stock Exchange (BSE)."
     }
   ],
   "entertainment": [
@@ -210,14 +210,9 @@
       "headline": "Uttarakhand to implement Uniform Civil Code today, first state to do soUniform Civil Code: Uttarakhand is set to become the first state to implement the Uniform Civil Code (UCC) today, marking a historic move. Chief Minister Pushkar Singh Dhami will unveil the UCC portal, ahead of Prime Minister Modi's state visit. "
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/maharashtra/story/maharashtra-reports-first-death-from-guillain-barre-syndrome-total-cases-in-pune-now-101-2670583-2025-01-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Maharashtra reports first death from Guillain-Barre Syndrome, total cases in Pune now 101The deceased was suffering from diarrhoea and also had symptoms of cough and cold, according to reports."
-    },
-    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/us-columbia-tariff-war-donald-trump-gustavo-petro-military-deportation-flights-2670546-2025-01-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Colombia capitulates to Trump's terms on migrants, won't face tariffs: USFollowing President Donald Trump's first international tariff dispute with Colombia, the White House announced on Monday that the Latin American country has agreed to accept deported immigrants on US military flights. \r\n"
+      "headline": "Colombia agrees to take in deported migrants after Trump threat, no tariffs: USFollowing President Donald Trump's first international tariff dispute with Colombia, the White House announced on Monday that the Latin American country has agreed to accept deported immigrants on US military flights. \r\n"
     },
     {
       "sentiment": "positive",
@@ -226,8 +221,18 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/us-news/story/h1b-rich-indians-eb5-visas-green-card-stay-in-us-jobs-trump-temporary-work-permit-chinese-workers-2670044-2025-01-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Lens on H-1B, but rich Indians might be buying US citizenship\u00a0with\u00a0EB-5Temporary visas like H-1B and L1, which are used by thousands of Indians, are in Donald Trump and his MAGA's crosshairs. But for rich Indians, permanent residency in the US is a check away. With an investment of about a million dollars, the rich are buying their way to a Green Card."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/trending-news/story/colplay-ahmedabad-concert-experience-arrangements-mumbai-shows-comparison-social-media-praise-2670568-2025-01-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
       "headline": "Ahmedabad pulls off Coldplay's biggest-ever concert, fans say 'mogged Mumbai'Coldplay's Ahmedabad concerts were widely praised for their seamless organisation, enthusiastic crowd, and world-class infrastructure. Fans invariably compared them to the shows in Mumbai earlier this month."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/maharashtra/story/maharashtra-reports-first-death-from-guillain-barre-syndrome-total-cases-in-pune-now-101-2670583-2025-01-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "1st suspected Guillain-Barre Syndrome death in Maharashtra, cases in Pune now 101The patient was suffering from diarrhoea and also had symptoms of cough and cold, according to reports."
     },
     {
       "sentiment": "positive",
@@ -236,18 +241,23 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/indonesian-president-prabowo-subianto-indian-dna-quip-at-dinner-leaves-pm-modi-in-splits-2670507-2025-01-26?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Indonesian President's 'Indian DNA' quip at dinner leaves PM Modi in splits At a dinner hosted in his honour by President Droupadi Murmu, Indonesian President Prabowo Subianto joked about his recent discovery of Indian ancestry, revealing that a DNA test had shown his connection to India."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/other-sports/story/running-sufiya-sufi-exclusive-around-the-globe-run-representing-india-2670465-2025-01-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
       "headline": "40,000 km around the globe: Sufiya Sufi's goal to make India proudIn an exclusive interaction with Indiatoday.in, runner Sufiya Sufi opens up on her ultimate challenge in the sport and how she wants to make India proud on the global stage. Sufiya has been a trailblazer in the sport of running. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/jasprit-bumrah-attends-coldplay-concert-in-ahmedabad-2670506-2025-01-26?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Jasprit Bumrah stars at Coldplay concert, Chris Martin dedicates special songJasprit Bumrah attended the Coldplay concert in Ahmedabad on Sunday. Bumrah was seen wearing a black shirt and having a gala time at the Narendra Modi Stadium."
+      "url": "https://www.indiatoday.in/movies/celebrities/story/asha-bhosle-granddaughter-zanai-bhosle-relationship-rumours-with-mohammed-siraj-2670598-2025-01-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Asha Bhosle's granddaughter shuts down rumours of relationship with Mohammed SirajIt was rumoured that Asha Bhosle's granddaughter was dating cricketer Mohammed Siraj after their picture emerged on social media. Zanai and Siraj issued a clarification regarding the rumours."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/uk-news/story/wales-uk-cardiff-murder-peter-pie-company-heir-dylan-thomas-stabs-friend-convict-life-sentence-police-2670476-2025-01-26?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "UK heir to over $200 million fortune gets life imprisonment in murder caseThe convict, Dylan Thomas, 24, the grandson of Peter's Pie Services founder Stanley Thomas, stabbed his childhood friend William Bush for around 40 times at the house they shared in Cardiff's Llanddaff on Christmas Eve in 2023."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/story/cricket-shashank-singh-reveals-ms-dhonis-golden-advice-which-made-him-a-confident-finisher-2670587-2025-01-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Shashank Singh reveals MS Dhoni's golden advice which made him a 'confident' finisherPunjab Kings batter Shashank Singh recently revealed MS Dhoni's advice which helped him gain confidence as a finisher. Shashank has been retained by Punjab for Rs 5.5 Crore for IPL 2025. "
     },
     {
       "sentiment": "negative",
@@ -256,8 +266,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/indonesian-president-prabowo-subianto-indian-dna-quip-at-dinner-leaves-pm-modi-in-splits-2670507-2025-01-26?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Indonesian President's 'Indian DNA' quip at dinner leaves PM Modi in splits At a dinner hosted in his honour by President Droupadi Murmu, Indonesian President Prabowo Subianto joked about his recent discovery of Indian ancestry, revealing that a DNA test had shown his connection to India."
+      "url": "https://www.indiatoday.in/music/story/coldplay-chris-martin-sings-vande-mataram-ahmedabad-concert-republic-day-stmp-2670597-2025-01-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Coldplay's Chris Martin sings Vande Mataram at Ahmedabad showColdplay's Chris Martin surprised fans after he sang Vande Mataram at the Ahmedabad show. The band performed in India as a part of the Music of the Spheres World Tour."
     },
     {
       "sentiment": "positive",
@@ -266,18 +276,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/iphone-se-4-leaked-video-shows-boxy-design-ahead-of-april-launch-2670564-2025-01-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "iPhone SE 4 leaked video shows boxy design ahead of April launchiPhone SE 4 or 16e is expected to launch in April. Ahead of the launch, a leak reveals the design of the upcoming phone. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/music/story/jasleen-royal-national-anthem-15-lakh-people-coldplay-ahmedabad-india-show-2670559-2025-01-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Watch: Jasleen Royal leads national anthem with 1.34 lakh people at Coldplay showAhmedabad's Narendra Modi Stadium witnessed a surreal moment when singer Jasleen Royal sang the national anthem with a 1.34 lakh audience. Jasleen was a part of Coldplay's Indian concerts and crooned some of her hit songs."
+      "url": "https://www.indiatoday.in/sports/cricket/story/jasprit-bumrah-attends-coldplay-concert-in-ahmedabad-2670506-2025-01-26?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Jasprit Bumrah stars at Coldplay concert, Chris Martin dedicates special songJasprit Bumrah attended the Coldplay concert in Ahmedabad on Sunday. Bumrah was seen wearing a black shirt and having a gala time at the Narendra Modi Stadium."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/indonesian-military-interest-brahmos-cruise-missile-indias-aircraft-carrier-building-capabilities-2670539-2025-01-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
       "headline": "Indonesia interested in BrahMos, India's aircraft carrier-building capabilitiesBrahMos Cruise Missile: The Indonesia camp's interest in the aircraft carrier building capability was expressed to the Indian side by senior officials from Jakarta in recent meetings."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/television/story/bigg-boss-kannada-11-hanumantha-lamani-wins-trophy-kichcha-sudeep-bids-adieu-to-reality-show-2670577-2025-01-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Bigg Boss Kannada 11: Hanumantha Lamani wins trophy, Sudeep bids adieu to showHanumantha Lamani, who was a wild card entrant on the show, won Bigg Boss Kannada Season 11. Host Kichcha Sudeep bid adieu to the reality show after 11 years."
     },
     {
       "sentiment": "negative",
@@ -286,13 +296,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/television/story/bigg-boss-kannada-11-hanumantha-lamani-wins-trophy-kichcha-sudeep-bids-adieu-to-reality-show-2670577-2025-01-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Bigg Boss Kannada 11: Hanumantha Lamani wins trophy, Sudeep bids adieu to showHanumantha Lamani, who was a wild card entrant on the show, won Bigg Boss Kannada Season 11. Host Kichcha Sudeep bid adieu to the reality show after 11 years."
+      "url": "https://www.indiatoday.in/sports/tennis/story/australian-open-tennis-alexander-zverev-olga-brenda-domestic-abuse-case-2670470-2025-01-26?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Zverev snaps back after past controversies resurface in Australian OpenAlexander Zverev snapped back at the heckler who interrupted his speech at the Australian Open. After a woman reminded the crowd of domestic abuse allegations against Zverev, the player said that he did not want to delve further into the controversy anymore."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/australian-open-tennis-alexander-zverev-olga-brenda-domestic-abuse-case-2670470-2025-01-26?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Zverev snaps back after past controversies resurface in Australian OpenAlexander Zverev snapped back at the heckler who interrupted his speech at the Australian Open. After a woman reminded the crowd of domestic abuse allegations against Zverev, the player said that he did not want to delve further into the controversy anymore."
+      "url": "https://www.indiatoday.in/music/story/jasleen-royal-national-anthem-15-lakh-people-coldplay-ahmedabad-india-show-2670559-2025-01-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Watch: Jasleen Royal leads national anthem with 1.34 lakh people at Coldplay showAhmedabad's Narendra Modi Stadium witnessed a surreal moment when singer Jasleen Royal sang the national anthem with a 1.34 lakh audience. Jasleen was a part of Coldplay's Indian concerts and crooned some of her hit songs."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/technology/news/story/iphone-se-4-leaked-video-shows-boxy-design-ahead-of-april-launch-2670564-2025-01-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "iPhone SE 4 leaked video shows boxy design ahead of April launchiPhone SE 4 or 16e is expected to launch in April. Ahead of the launch, a leak reveals the design of the upcoming phone. "
     },
     {
       "sentiment": "positive",
@@ -306,23 +321,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/music/story/coldplay-wraps-india-tour-we-will-never-forget-two-weeks-chris-martin-2670548-2025-01-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Coldplay signs off after whirlwind India tour: We'll never forget these two weeksColdplay held its biggest-ever concert in Ahmedabad, India, on January 26. Sharing a photo of the packed stadium, the British rock band said that they will never forget the two weeks they spent in India."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/story/watch-olympian-nishant-dev-secures-ruthless-win-on-pro-boxing-debut-in-las-vegas-2670521-2025-01-26?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
       "headline": "Watch: Nishant Dev secures ruthless win on pro-boxing debut in Las VegasOlympian Nishant Dev put in an impressive show on his debut in pro-boxing on Saturday, January 25. Nishant knocked-down Alton Wiggins thrice in the first round after which the referee stepped in to stop the fight."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/turkey-ski-resort-fire-people-arrested-during-investigation-into-the-blaze-that-killed-many-people-2670531-2025-01-27?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "15 arrested during investigation into Turkey resort fire that killed 78: ReportThe tragedy has sparked calls for accountability and reform, and independent experts have said the Grand Kartal Hotel, at the Kartalkaya ski resort in western Turkey, lacked basic fire safety measures."
+      "url": "https://www.indiatoday.in/movies/celebrities/story/asha-bhosle-granddaughter-zanai-bhosle-relationship-rumours-with-mohammed-siraj-2670598-2025-01-27",
+      "headline": "Asha Bhosle's granddaughter shuts down rumours of relationship with Mohammed SirajIt was rumoured that Asha Bhosle's granddaughter was dating cricketer Mohammed Siraj after their picture emerged on social media. Zanai and Siraj issued a clarification regarding the rumours."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/cricket-rohit-sharma-15-year-old-fan-letter-ranji-trophy-mumbai-2670429-2025-01-26?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Rohit Sharma receives heartfelt letter from 15-year-old fan after Ranji outingA 15-year-old sent Rohit Sharma a heartfelt letter after his Ranji Trophy return for Mumbai against Jammu and Kashmir. The fan backed Rohit to return to form and hailed him as the greatest batter of all time. "
+      "url": "https://www.indiatoday.in/music/story/coldplay-chris-martin-sings-vande-mataram-ahmedabad-concert-republic-day-stmp-2670597-2025-01-27",
+      "headline": "Coldplay's Chris Martin sings Vande Mataram at Ahmedabad showColdplay's Chris Martin surprised fans after he sang Vande Mataram at the Ahmedabad show. The band performed in India as a part of the Music of the Spheres World Tour."
     },
     {
       "sentiment": "positive",
@@ -333,19 +343,14 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/shah-rukh-khan-confirms-siddharth-anand-direct-king-suhana-khan-global-village-dubai-29-years-abhishek-bachchan-2670573-2025-01-27",
       "headline": "Watch: SRK confirms Siddharth Anand to direct KingShah Rukh Khan took over the stage at Global Village in Dubai and spoke about his upcoming film, King. The superstar confirmed his next is directed by Siddharth Anand. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/shah-rukh-khan-support-abu-dhabi-knight-riders-team-against-dubai-capitals-t20-match-2670561-2025-01-27",
-      "headline": "Viral: Shah Rukh Khan stuns in white as he supports Abu Dhabi Knight Riders teamShah Rukh Khan jetted off to Abu Dhabi where he attended the Abu Dhabi Knight Riders's T20 match against Dubai Capitals. Photos and videos of the actor from the cricket match went viral on social media."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/music/story/jasleen-royal-national-anthem-15-lakh-people-coldplay-ahmedabad-india-show-2670559-2025-01-27",
-      "headline": "Watch: Jasleen Royal leads national anthem with 1.34 lakh people at Coldplay showAhmedabad's Narendra Modi Stadium witnessed a surreal moment when singer Jasleen Royal sang the national anthem with a 1.34 lakh audience. Jasleen was a part of Coldplay's Indian concerts and crooned some of her hit songs."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/riyan-parag-injury-return-assam-ranji-trophy-captain-vs-saurashtra-india-team-2670602-2025-01-27",
+      "headline": "Riyan Parag to return from injury and captain Assam in Ranji Trophy: ReportsRiyan Parag's return from injury to lead Assam in their final Ranji Trophy league fixture against Saurashtra offers the young all-rounder a chance to rebuild form and fitness while boosting Assam's campaign in domestic cricket."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/story/premier-league-manchester-united-ruben-amorim-marcus-rashford-intent-will-play-a-coach-2670592-2025-01-27",
@@ -393,13 +398,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/cricket-icc-awards-sri-lankas-kamindu-mendis-named-emerging-cricketer-of-the-year-2670510-2025-01-26",
-      "headline": "ICC Awards: Sri Lanka's Kamindu Mendis named Emerging Cricketer Of The YearSri Lanka's Kamindu Mendis has been adjudged as the ICC's men's Emerging Cricketer Of The Year for 2024. Mendis was the star with the bat for Sri Lanka and helped them make a late push for a spot in the World Test Championship Final. "
+      "url": "https://www.indiatoday.in/sports/other-sports/story/running-sufiya-sufi-exclusive-around-the-globe-run-representing-india-2670465-2025-01-27",
+      "headline": "40,000 km around the globe: Sufiya Sufi's goal to make India proudIn an exclusive interaction with Indiatoday.in, runner Sufiya Sufi opens up on her ultimate challenge in the sport and how she wants to make India proud on the global stage. Sufiya has been a trailblazer in the sport of running. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/jasprit-bumrah-attends-coldplay-concert-in-ahmedabad-2670506-2025-01-26",
-      "headline": "Jasprit Bumrah stars at Coldplay concert, Chris Martin dedicates special songJasprit Bumrah attended the Coldplay concert in Ahmedabad on Sunday. Bumrah was seen wearing a black shirt and having a gala time at the Narendra Modi Stadium."
+      "url": "https://www.indiatoday.in/sports/football/story/football-kylian-mbappe-real-madrid-vs-valladolid-report-laliga-2670523-2025-01-26",
+      "headline": "Kylian Mbappe fires first Real Madrid hat-trick as leaders thrash ValladolidKylian Mbappe scored his first hat-trick for Real Madrid in a LaLiga match vs Valladolid on Sunday, January 26. Mbappe's 3 goals helped Madrid rout the opponent and continue their run at the top of the league.\r\n"
     },
     {
       "sentiment": "positive",
@@ -458,13 +463,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/cricket-u19-womens-t20-world-cup-2025-semi-final-india-vs-bangladesh-vaishnavi-sharma-2670455-2025-01-26",
-      "headline": "Vaishnavi Sharma powers India to semi-final with win over BangladeshU19 Women's T20 World Cup: Vaishnavi Sharma finished with figures of 4-0-15-3 as Niki Prasad's India beat Bangladesh by eight wickets to secure their berth in the semi-finals of the mega event. "
+      "url": "https://www.indiatoday.in/sports/tennis/story/australian-open-novak-djokovic-alexander-zverev-keep-believing-final-2670474-2025-01-26",
+      "headline": "Djokovic motivates heartbroken Zverev after Australian Open finalAustralian Open 2025: Novak Djokovic motivated Alexander Zverev after the German star finished as the runners-up following his straight set defeat to World No.1 Jannik Sinner in the final. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/cricket-pakistan-vs-west-indies-2nd-test-day-2-match-report-highlights-multan-2670452-2025-01-26",
-      "headline": "Pakistan's 'spin-plan' vs West Indies backfires as hosts face embarrassment in MultanPAK vs WI, 2nd Test: Pakistan's plan of defeating West Indies with 'trial by spin' backfired massively in Multan. Pakistan were reduced to 76/4 at the end of Day 2 of the second Test match in a chase of 254 runs.\r\n"
+      "url": "https://www.indiatoday.in/sports/tennis/story/australian-open-2025-jannik-sinner-response-alexander-zverev-novak-djokovic-remark-2670473-2025-01-26",
+      "headline": "Jannik Sinner responds to Alexander Zverev's Novak Djokovic comparisonJannik Sinner responded to Alexander Zverev comparing him to Novak Djokovic after he won the Australian Open 2025 men's singles title by beating the German on Sunday, January 26. Sinner won his second Australian Open on the bounce with a straight sets win over Zverev. "
     },
     {
       "sentiment": "positive",
@@ -495,16 +500,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/alexander-zverev-woman-interrupts-australian-open-final-speech-domestic-abuse-allegations-2670433-2025-01-26",
       "headline": "Spectator interrupts Zverev during Australian Open speech. Here's whyAlexander Zverev's Australian Open final loss to Jannik Sinner was marred by yet another controversy, as a fan interrupted his post-match speech. Fans on social media were left wondering what the woman was referencing while heckling the tennis star."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/australian-open-final-alexander-zverev-vs-jannik-sinner-2670442-2025-01-26",
-      "headline": "I wasn't good enough: Alexander Zverev gracefully accepts defeat Australian Open 2025: World No.2 Alexander Zverev admitted that Jannik Sinner was the better player in the final at Rod Laver Arena. After two hours and 42 minutes, Sinner beat Zverev 6-3, 7-6 (4), 6-3. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/cricket-rohit-sharma-15-year-old-fan-letter-ranji-trophy-mumbai-2670429-2025-01-26",
-      "headline": "Rohit Sharma receives heartfelt letter from 15-year-old fan after Ranji outingA 15-year-old sent Rohit Sharma a heartfelt letter after his Ranji Trophy return for Mumbai against Jammu and Kashmir. The fan backed Rohit to return to form and hailed him as the greatest batter of all time. "
     }
   ],
   "education": [
