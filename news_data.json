@@ -1,6 +1,11 @@
 {
   "business": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/boeing-annual-result-118-billion-annual-loss-largest-since-2020-share-price-dips-ceo-kelly-ortberg-said-company-to-focus-on-core-business-2671505-2025-01-28",
+      "headline": "Boeing reports $11.8 billion in annual loss, largest since 2020Boeing posted an annual loss of $11.83 billion owing to problems at its commercial and defense units, reported Reuters."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/story/itc-hotels-bse-nse-market-listing-eligibility-and-other-details-2670948-2025-01-28",
       "headline": "ITC Hotels to list on BSE, NSE tomorrow. Check eligibility and other key details Earlier this month, ITC Ltd allotted equity shares of ITC Hotels amounting to Rs 125.11 crore to its shareholders and the latter ceased to be a subsidiary of ITC ltd."
@@ -94,11 +99,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/8th-pay-commission-check-expected-salary-hike-fitment-factor-and-key-faqs-2670704-2025-01-27",
       "headline": "8th Pay Commission: Check expected salary hike, and key FAQs8th Pay Commission: The government will soon appoint a chairman and two members to the panel to recommend changes in the pay structure of central government employees."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/story/stock-market-crash-investors-lose-rs-10-lakh-crore-whats-ahead-for-dalal-street-sensex-nifty-2670712-2025-01-27",
-      "headline": "Stock market crash: Investors lose Rs 10 lakh crore. What's ahead for D-Street? Investors on Dalal Street faced losses as stock markets continued to decline, bringing the market capitalisation of all listed companies on the Bombay Stock Exchange (BSE) down. "
     }
   ],
   "entertainment": [
@@ -222,12 +222,12 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/how-china-liang-wenfeng-built-deepseek-stock-trader-to-ai-titan-2671503-2025-01-28?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "From stock trader to AI titan: How Liang Wenfeng built DeepSeekDeepSeek, a 20-month-old startup founded by Liang Wenfeng, has disrupted the AI industry with its cost-effective, open-source chatbot."
+      "headline": "Liang Wenfeng, the 39-year-old behind AI disruptor DeepSeekDeepSeek, a 20-month-old startup founded by Liang Wenfeng, has disrupted the AI industry with its cost-effective, open-source chatbot."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/maha-kumbh-2025-shahi-snan-airfare-soar-formula-decide-ticket-prices-prayagraj-delhi-mumbai-dgca-what-is-happening-2671352-2025-01-28?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Airfare unfair? What formula do airlines use to decide ticket pricesAirfares to and from Prayagraj have shot up fivefold on Shahi Snan days of Maha Kumbh. But Kumbh or no Kumbh, airfares remain sky-high in India all year round. There are several questions on fare monitoring and fair-play. The biggest question, amid allegations of profiteering, is what formula airlines use to determine\u00a0ticket\u00a0prices."
+      "headline": "Airfare unfair: What formula do airlines use to decide ticket prices?Airfares to and from Prayagraj have shot up fivefold on Shahi Snan days of Maha Kumbh. But Kumbh or no Kumbh, airfares remain sky-high in India all year round. There are several questions on fare monitoring and fair-play. The biggest question, amid allegations of profiteering, is what formula airlines use to determine\u00a0ticket\u00a0prices."
     },
     {
       "sentiment": "positive",
@@ -241,8 +241,18 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/lifestyle/what-s-hot/story/coldplay-live-streamed-a-turning-point-for-concert-culture-in-india-2671463-2025-01-28?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Coldplay live-streamed: A turning point for concert culture in India?Coldplay's Music of the Spheres show in Ahmedabad was live-streamed for the audience across India to enjoy. What does that mean for the booming concert culture in India?"
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/us-news/story/i-140-form-petition-h1b-visa-petition-indians-form-green-card-permanent-residency-new-executive-order-trump-2670952-2025-01-28?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
       "headline": "How H-1B visa holders stay beyond 6 years in US. It's the\u00a0I-140\u00a0magicThe H-1B visa system, used by mostly by American companies to hire Indians, is under the scanner after now-President Donald Trump made immigration and employment key campaign issues. How is the temporary H-1B visa, which affords a maximum six-year stay in the US, used for permanent residency? Here's all about the I-140 petition that is the gateway to the US Green Card and permanent residency."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/story/ranji-trophy-delhi-vs-railways-livestream-where-to-watch-virat-kohli-2671504-2025-01-28?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Virat Kohli Ranji match to be livestreamed as BCCI makes last minute change in plansThe Indian Cricket Board has made a late change in its broadcast plans for the Ranji Trophy. The BCCI is set to livestream the Delhi vs Railways game after it was confirmed that Virat Kohli will play his first match in the domestic tournament after a long break of 12 years.\r\n"
     },
     {
       "sentiment": "positive",
@@ -251,18 +261,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/rahul-gandhi-maharajas-have-rights-remark-bjp-jyotiraditya-scindia-congress-pawan-khera-row-2671312-2025-01-28?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Rahul Gandhi says BJP wants India where 'maharajas' have rights, Scindias reactCongress leader Rahul Gandhi claimed that \"maharajas (kings) enjoyed rights\" while the backward classes, including Dalits and tribals, did not have such entitlements. His remarks triggered a war of words between the BJP and Congress."
+      "url": "https://www.indiatoday.in/entertainment/ott/story/black-warrant-kartar-ujagar-singh-hanging-case-real-story-zahaan-kapoor-vikramaditya-motwane-2671344-2025-01-28?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Black Warrant's Kartar-Ujagar Singh and their real-story: Hanged for Rs 500?Vikramaditya Motwane's Black Warrant shows the real-life story of two brothers, Kartar and Ujagar Singh, who were executed for a crime orchestrated by a Delhi doctor. But why were they hanged while the man who hired him walked free? Read on to know."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/china-global-strategy-ai-deepseek-nvidia-chatgpt-sixth-generation-fighter-jets-us-trump-2671223-2025-01-28?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
       "headline": "DeepSeek to sixth-gen fighter jets: How China is shaking up the worldDeepSeek: Donald Trump's inauguration may have taken the centerstage in the past few days, but it is China that is shaking the global landscape with groundbreaking advancements in fighter jets and artificial intelligence. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/black-warrant-kartar-ujagar-singh-hanging-case-real-story-zahaan-kapoor-vikramaditya-motwane-2671344-2025-01-28?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Black Warrant's Kartar-Ujagar Singh and their real-story: Hanged for Rs 500?Vikramaditya Motwane's Black Warrant shows the real-life story of two brothers, Kartar and Ujagar Singh, who were executed for a crime orchestrated by a Delhi doctor. But why were they hanged while the man who hired him walked free? Read on to know."
     },
     {
       "sentiment": "positive",
@@ -275,19 +280,14 @@
       "headline": "Satellite photos show China building large fusion research facility: ExpertsSatellite photos show four outlying \"arms\" that will house laser bays, and a central experiment bay that will hold a target chamber containing hydrogen isotopes the powerful lasers will fuse together, producing energy, said Decker Eveleth, a researcher at US-based independent research organisation CNA Corp."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/trending-news/story/ghaziabad-woman-claims-30-40-blinkit-riders-assaulted-family-viral-video-2671399-2025-01-28?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Ghaziabad woman claims 30-40 Blinkit riders assaulted father, brother, shares videoA Ghaziabad-based woman claimed that her father and brother were assaulted by 30-40 BlinkIt delivery partners in Rajinder Nagar Sector 3. "
-    },
-    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/education-today/jobs-and-careers/story/revenge-quitting-new-workplace-trend-to-rise-in-2025-2671351-2025-01-28?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
       "headline": "Revenge Quitting: Why employees are walking out and how companies can respondRevenge quitting, a new workplace trend where employees leave their jobs abruptly out of frustration, is expected to rise in 2025. Here are the top reasons why people revenge quit, how it can impact companies, and what employers can do to address it."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/shaturgan-sinha-campaign-aap-arvind-kejriwal-congress-rahul-gandhi-shotgun-khamosh-atishi-manish-sisodia-next-2671254-2025-01-28?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Why TMC's Shotgun firing for AAP will turn Congress\u00a0khamoshDelhi Election: The Trinamool Congress has asked its MP Shatrughan Sinha to campaign for the Aam Admi Party in the Delhi Assembly election. This move by an INDIA bloc member must be particularly stinging for the Congress because Sinha is a former\u00a0party\u00a0member."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/trending-news/story/ghaziabad-woman-claims-30-40-blinkit-riders-assaulted-family-viral-video-2671399-2025-01-28?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Ghaziabad woman claims 30-40 Blinkit riders assaulted father, brother, shares videoA Ghaziabad-based woman claimed that her father and brother were assaulted by 30-40 BlinkIt delivery partners in Rajinder Nagar Sector 3. "
     },
     {
       "sentiment": "positive",
@@ -296,13 +296,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/auto/story/kia-syros-review-first-drive-kias-newest-to-take-on-the-nexon-brezza-venue-xuv-3xo-2670943-2025-01-28?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Kia Syros review, first drive: Versatile and quirky compact SUVKia Syros Review: Kia has added yet another compact SUV to its Indian portfolio. It sits above the Sonet and takes on the likes of the Tata Nexon, Maruti Suzuki Brezza, Hyundai Venue, and Mahindra XUV 3XO. So what new flavour does it bring to the market? Let's find out."
+      "url": "https://www.indiatoday.in/india/story/shaturgan-sinha-campaign-aap-arvind-kejriwal-congress-rahul-gandhi-shotgun-khamosh-atishi-manish-sisodia-next-2671254-2025-01-28?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Why TMC's Shotgun firing for AAP will turn Congress\u00a0khamoshDelhi Election: The Trinamool Congress has asked its MP Shatrughan Sinha to campaign for the Aam Admi Party in the Delhi Assembly election. This move by an INDIA bloc member must be particularly stinging for the Congress because Sinha is a former\u00a0party\u00a0member."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/trending-news/story/man-bitten-punched-during-brawl-coldplay-ahmedabad-concert-viral-video-2671490-2025-01-28?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
       "headline": "Video: Man bitten, punched during brawl at Coldplay's Ahmedabad concertA video of two men in the audience engaging in a furious brawl during Coldplay's concert in Ahmedabad has gone viral on social media. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/auto/story/kia-syros-review-first-drive-kias-newest-to-take-on-the-nexon-brezza-venue-xuv-3xo-2670943-2025-01-28?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Kia Syros review, first drive: Versatile and quirky compact SUVKia Syros Review: Kia has added yet another compact SUV to its Indian portfolio. It sits above the Sonet and takes on the likes of the Tata Nexon, Maruti Suzuki Brezza, Hyundai Venue, and Mahindra XUV 3XO. So what new flavour does it bring to the market? Let's find out."
     },
     {
       "sentiment": "negative",
@@ -311,13 +316,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/deepseek-ai-what-is-it-how-it-works-is-it-better-than-chatgpt-everything-to-know-2671407-2025-01-28?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "DeepSeek AI: What is it, how it works, is it better than ChatGPT? Everything to knowDeepSeek AI has quickly become a major contender in the world of Artificial Intelligence (AI), giving tough competition to platforms like ChatGPT. But, what exactly is DeepSeek AI, how does it work, when was it founded, how can you access DeepSeek R1, and is it better than ChatGPT? We try to answer all these questions in this article."
+      "url": "https://www.indiatoday.in/education-today/gk-current-affairs/story/antarctica-foundation-day-when-russian-expedition-first-sighted-icy-continent-2671441-2025-01-28?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Antarctica's first sighting: A Russian expedition's historic 1820 discoveryAntarctica's first sighting on January 28, 1820, by Russian explorers FF Bellingshausen and MP Lazarev marked the beginning of unparalleled scientific enquiries and highlighted the continent's importance with regard to global climate change and conservation."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/law-news/story/bombay-high-court-anticipatory-bail-sexual-assault-case-relief-bus-driver-2671335-2025-01-28?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "School driver gets relief after 'assault' turns out to be urinary infectionThe victim's father recorded a statement saying that the pain his daughter was experiencing in her private part on the day of the alleged incident turned out to be a urinary tract infection after medical diagnosis. The case is from Pune in Maharashtra. "
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/sooraj-barjatya-on-saif-ali-khan-attack-a-warrior-2671519-2025-01-28",
+      "headline": "Director Sooraj Barjatya on Saif Ali Khan's attack: He is a warriorDirector and producer Sooraj Barjatya recently reacted to the knife attack on actor Saif Ali Khan and wished him a speedy recovery. "
     },
     {
       "sentiment": "positive",
@@ -333,14 +338,24 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/shah-rukh-khan-message-to-friends-allu-arjun-yash-prabhas-mahesh-babu-2671405-2025-01-28",
       "headline": "SRK's message to friends Allu Arjun, Yash: Stop performing fast-paced dance movesShah Rukh Khan delighted fans at Global Village, Dubai, by addressing his South Indian colleagues as friends and sharing an update on his upcoming film King."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/kriti-sanon-joins-dhanush-aanand-l-rai-tere-ishq-mein-raanjhanaa-spiritual-sequel-2671429-2025-01-28",
-      "headline": "Kriti Sanon's intense 1st look from Anand L Rai's Tere Ishq Mein with Dhanush out'Tere Ishk Mein' teaser: Kriti Sanon joins Aanand L Rai's Tere Ishq Mein alongside Dhanush, playing the intense role of Mukti. The first look video of Kriti Sanon as Multi is now out."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/story/icc-best-players-awards-2024-full-list-jasprit-bumrah-amelia-kerr-2671520-2025-01-28",
+      "headline": "Full list of ICC award winners, as Jasprit Bumrah, Amelia Kerr dominateJasprit Bumrah and Amelia Kerr were named the ICC best player of the year in men's and women's category on Tuesday, January 28. Here is the full list of honours for 2024."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/story/jasprit-bumrah-coldplay-concert-ahmedabad-signed-jersey-wife-mother-video-2671516-2025-01-28",
+      "headline": "Watch: Bumrah gifts Coldplay signed jersey, enjoys Ahmedabad concert with familySuperstar cricketer Jasprit Bumrah recalled his visit to the Coldplay concert in Ahmedabad. The fast bowler was seen gifting Coldplay a signed jersey with a heartwarming message. "
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/story/ranji-trophy-delhi-vs-railways-livestream-where-to-watch-virat-kohli-2671504-2025-01-28",
+      "headline": "Virat Kohli Ranji match to be livestreamed as BCCI makes last minute change in plansThe Indian Cricket Board has made a late change in its broadcast plans for the Ranji Trophy. The BCCI is set to livestream the Delhi vs Railways game after it was confirmed that Virat Kohli will play his first match in the domestic tournament after a long break of 12 years.\r\n"
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/story/cricket-india-vs-england-shami-comeback-playing-xi-toss-2671499-2025-01-28",
@@ -378,18 +393,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/archery-sheetal-devi-anand-mahindra-scorpio-n-gift-2671295-2025-01-28",
-      "headline": "Anand Mahindra moved by Sheetal Devi's determination, gifts armless archer new SUVAnand Mahindra gifted India's armless archer Sheetal Devi a brand-new Mahindra Scorpio-N. He also praised the para-athlete for her grit and determination. Last year, Sheetal bagged the bronze medal in the mixed team compound event in archery at Paris Paralympics. "
+      "url": "https://www.indiatoday.in/sports/story/cricket-virat-kohli-ranji-trophy-return-delhi-team-training-lun-ch-chhole-poori-kadhi-chawal-2671443-2025-01-28",
+      "headline": "Kohli skips chhole poori for old-time favourite during Delhi training returnVirat Kohli decided to skip chhole poori and decided to settle for an old-time favourite during lunch after practising with the Delhi Ranji Trophy team on Tuesday, January 28. Kohli is gearing up for his return to the tournament after a gap of 13 years. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/video/virat-kohli-young-fan-advice-how-to-become-a-cricketer-ranji-trophy-training-delhi-2671296-2025-01-28",
-      "headline": "Watch: Kohli's wholesome advice to young fan on how to become a cricketerVirat Kohli took time to greet a young fan attending his training session with the Delhi Ranji Trophy squad at the Arun Jaitley Stadium in New Delhi. He even offered advice on how to become a future Indian cricketer."
+      "url": "https://www.indiatoday.in/sports/story/cricket-u19-womens-t20-world-cup-2025-gongadi-trisha-india-vs-scotland-2671437-2025-01-28",
+      "headline": "All-round Trisha stars as India floor Scotland in U19 Women's T20 World CupU19 T20 Women's World Cup: Gongadi Trisha scored 110 runs and picked up three wickets as India beat Scotland by 150 runs in the Super Sixes match at the Bayuemas Oval in Kuala Lumpur."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/ab-de-villiers-cricket-return-changers-south-africa-champions-world-championship-of-legends-2671280-2025-01-28",
-      "headline": "AB de Villiers set for cricket return in World Championship of LegendsAB de Villiers announced his cricket comeback, set to captain Game Changers South Africa Champions in the World Championship of Legends, reigniting excitement among fans as he prepares to showcase his brilliance nearly four years after retiring from the sport."
+      "url": "https://www.indiatoday.in/sports/story/virat-kohli-hugs-childhood-friend-ranji-trophy-delhi-training-shawez-khan-2671373-2025-01-28",
+      "headline": "Watch: Kohli hugs childhood friend during Ranji Trophy training in DelhiRanji Trophy: Virat Kohli reunited with his childhood friend Shawez Khan during a training session with the Delhi Ranji team at Arun Jaitley Stadium, showcasing his humble side while preparing for a highly-anticipated return to domestic cricket after over a decade."
     },
     {
       "sentiment": "negative",
@@ -443,18 +458,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/novak-djokovic-australian-open-atp-wta-rankings-eva-lys-paula-badosa-2671183-2025-01-28",
-      "headline": "Novak Djokovic climbs in rankings, lucky loser gains big after dream runAustralian Open: Novak Djokovic climbed one place up to No.6 in the ATP rankings. Paula Badosa returned to the top 10 while lucky loser Eva Lys made her debut in the top 100 of the WTA rankings after advancing to the fourth round at Melbourne Park. "
+      "url": "https://www.indiatoday.in/sports/story/cricket-virat-kohli-delhi-training-back-foot-batting-ranji-trophy-arun-jaitley-stadium-2671247-2025-01-28",
+      "headline": "Watch: Virat Kohli focuses on backfoot game, plays cracking shots at Delhi netsRanji Trophy 2024-25: Virat Kohli focused on playing off the backfoot when he trained with the Delhi Ranji team at the Arun Jaitley Stadium in New Delhi on Tuesday, January 28. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/david-miller-injury-paarl-royals-vs-durban-super-gianst-south-africa-champions-trophy-scare-2671171-2025-01-28",
-      "headline": "South Africa handed injury scare as David Miller picks niggle in SA20 clashDavid Miller's injury during SA20 raises concerns for South Africa's Champions Trophy campaign, compounded by ongoing fitness issues with fast bowler Lungi Ngidi. Both players are crucial to the Proteas' hopes for international glory."
+      "url": "https://www.indiatoday.in/sports/story/cricket-amelia-kerr-smriti-mandhana-icc-womens-cricketer-of-the-year-award-new-zealand-2671225-2025-01-28",
+      "headline": "New Zealand sensation Amelia Kerr named Women's Cricketer of the Year New Zealand all-rounder Amelia Kerr won the ICC Women's Cricketer of the Year award after a stellar 2024 where she also became the Player of the Tournament in the Women's T20 World Cup in the UAE. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/sri-lanka-vs-australia-cricket-test-series-squads-live-streaming-steve-smith-2671163-2025-01-28",
-      "headline": "Sri Lanka vs Australia Test series: Squads and all you need to know SL vs AUS: Dhananjaya de Silva's Sri Lanka and Steve Smith's Australia will lock horns in a two-match Test series, starting Wednesday, January 29 in Galle. Australia have already qualified for the World Test Championship final. "
+      "url": "https://www.indiatoday.in/sports/cricket/video/virat-kohli-joins-delhis-ranji-trophy-squad-ahead-of-return-to-domestic-cricket-2671219-2025-01-28",
+      "headline": "Virat Kohli joins Delhi's Ranji trophy squad ahead of return to domestic cricketIndian batter Virat Kohli has joined Delhi's Ranji Trophy squad in preparation for his return to domestic cricket. Kohli returns to the Ranji Trophy after 12 years, set to play for Delhi against Railways, his first appearance since facing Uttar Pradesh in 2012."
     },
     {
       "sentiment": "positive",
@@ -480,21 +495,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/story/virat-kohli-joins-delhi-ranji-trophy-team-training-arun-jaitley-stadium-return-domestic-cricket-2671160-2025-01-28",
       "headline": "Virat Kohli joins Delhi Ranji team, begins training at Arun Jaitley StadiumVirat Kohli joined Delhi Ranji Trophy squad in their training session at the Arun Jaitely Stadium on January 28, ahead of his return to domestic cricket in the side's upcoming clash against Railways."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/cricket-india-vs-england-rajkot-weather-forecast-smog-pitch-conditions-2671150-2025-01-28",
-      "headline": "Will England batters face visibility issues in the 3rd T20I in Rajkot?India vs England, 3rd T20I: Rajkot is expected to offer ideal conditions for a high-scoring T20I contest on Tuesday, January 28. England batters are unlikely to face visibility issues at the Niranjan Shah Stadium. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/india-vs-england-jos-buttler-t20i-record-rajkot-2671149-2025-01-28",
-      "headline": "Jos Buttler eyes all-time T20I record in India before Rajkot clashIND vs ENG: Jos Buttler has a chance to become the leading run-scorer by a visiting batter on Indian soil when England take part in the third T20I on Tuesday, January 28 at the Niranjan Shah Stadium in Rajkot. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/neymar-al-hilal-contract-mutual-termination-santos-return-transfer-news-2671126-2025-01-28",
-      "headline": "Neymar and Al Hilal mutually terminate contract as Santos return imminentNeymar's injury-hit stint at Al Hilal ends as the Brazilian star edges closer to a nostalgic return to his boyhood club Santos, bringing hope for a revival of his career in Brazil's top-flight football."
     }
   ],
   "education": [
