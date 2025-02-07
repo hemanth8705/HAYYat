@@ -1,6 +1,21 @@
 {
   "business": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/video/after-5-years-rbi-cut-key-lending-rate-by-25-basis-points-to-625-2676083-2025-02-07",
+      "headline": "After 5 years, RBI cut key lending rate by 25 basis points to 6.25%This marks the first rate cut since 2020 and the first policy decision under Governor Malhotra's leadership."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/rbi-mpc-announcement-home-loans-to-get-cheaper-as-rbi-cuts-rates-25-basis-points-625-percent-check-details-2676080-2025-02-07",
+      "headline": "Home loans to get cheaper as RBI cuts rates. Check detailsThe RBI MPC reduced key lending rates by 25 basis points to 6.25%, the first rate cut in nearly five years under the leadership of newly appointed RBI Governor Sanjay Malhotra."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/reserve-bank-of-india-key-lending-rate-interest-repo-cut-25-basis-points-625-per-cent-first-time-since-2020-2676071-2025-02-07",
+      "headline": "RBI reduces key lending rate by 25 basis points to 6.25%The rate cut announced by the committee is the first since 2020.\u00a0This was also the first policy meeting of Sanjay Malhotra as RBI Governor."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/story/stock-markets-opening-sensex-nifty-flat-as-investors-await-rbi-policy-decision-itc-down-2-percent-2676061-2025-02-07",
       "headline": "Stock markets open flat as investors await RBI policy decision; ITC down 2%The S&P BSE Sensex was down by 23.98 points to\u00a078,034.18, while the NSE Nifty50 lost 7 points to\u00a023,596.35 as of 9:35 AM.\u00a0"
@@ -84,21 +99,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/government-accuses-kia-of-tax-evasion-in-vw-like-dispute-report-2675260-2025-02-05",
       "headline": "Government accuses Kia of tax evasion in VW-like dispute: ReportKia competes with Hyundai\u00a0and Maruti Suzuki\u00a0in the world's third-largest auto market, where it has a share of 6% of roughly 4 million units a year, and its Kia Seltos and Sonet SUVs are among the top sellers. "
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/story/stock-market-closing-sensex-nifty-end-lower-as-consumer-shares-fall-rupee-drops-2675234-2025-02-05",
-      "headline": "Sensex, Nifty end lower as consumer stocks weigh; rupee dropsShare Market: The S&P BSE Sensex was down\u00a0312.53 points to\u00a078,271.28 at the closing bell, while the NSE Nifty50 settled\u00a042.95 points lower at\u00a023,696.30."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/openai-sam-altman-meets-with-it-minister-ashwini-vaishnaw-to-discuss-india-ai-roadmap-2675222-2025-02-05",
-      "headline": "OpenAI's Sam Altman meets with IT minister to discuss India's AI roadmapIn a post on X, Ashwini Vaishnaw said he had a \"super cool discussion\" with Altman on\u00a0India's \"strategy of creating the entire AI stack - GPUs, model, and apps\" and that OpenAI was willing to collaborate on all three."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/new-income-tax-regime-relief-capital-gains-tax-rs-12-lakh-does-it-apply-2675212-2025-02-05",
-      "headline": "Will Rs 12 lakh income qualify for zero tax even with capital gains?The biggest announcement was that individuals earning up to Rs 12 lakh would not have to pay any tax. But does this still apply if you have additional income from capital gains? Here is all you need to know. "
     }
   ],
   "entertainment": [
@@ -205,9 +205,19 @@
   ],
   "general news": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/reserve-bank-of-india-key-lending-rate-interest-repo-cut-25-basis-points-625-per-cent-first-time-since-2020-2676071-2025-02-07?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "RBI reduces key lending rate by 25 basis points to 6.25%The rate cut announced by the committee is the first since 2020.\u00a0This was also the first policy meeting of Sanjay Malhotra as RBI Governor."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/law-news/story/siddaramaiah-wife-muda-cbi-probe-karnataka-high-court-relief-petition-seeking-investigation-land-scam-2676095-2025-02-07?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "High Court rejects plea seeking CBI probe into alleged Muda scam involving Chief Minister Siddaramaiah, wifeHigh Court rejects plea seeking CBI probe into alleged Muda scam involving Chief Minister Siddaramaiah, wife"
+    },
+    {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india-today-insight/story/if-trump-can-deport-illegal-indians-by-the-planeload-why-cant-modi-govt-evict-63-bangladeshis-2675717-2025-02-06?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "If Trump can deport illegal Indians by the planeload, why can't Modi govt evict 63 Bangladeshis?The Supreme Court order to expedite foreigners' deportation from Assam runs into India's legal and diplomatic challenges in executing it, complicated by strained ties with Dhaka\r\n"
+      "url": "https://www.indiatoday.in/world/us-news/story/us-plane-with-10-on-board-goes-missing-over-alaska-search-operations-on-2676086-2025-02-07?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "US plane with 10 on board goes missing over Alaska, search operations onA Bering Air Flight with 10 people on board reportedly went missing near Alaska's Nome late Thursday afternoon."
     },
     {
       "sentiment": "positive",
@@ -216,8 +226,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/rbi-mpc-policy-decision-repo-rate-cut-likely-first-time-in-5-years-25-bps-2675563-2025-02-06?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Will RBI cut key rates for 1st time in 5 years? 4 things you need to knowRBI MPC: There are expectations that the central bank's MPC will decide on cutting the key rates for the first time in 5 years by 25 basis points (BPS)."
+      "url": "https://www.indiatoday.in/lifestyle/food/story/how-did-the-makhana-became-a-global-super-food-ft-makhana-board-2675820-2025-02-07?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "How did makhana become a global superfood?During the 2025 budget speech, Finance minister Nirmala Sitharaman announced the formation Makhana Board to boost the production, processing and marketing of fox nuts (also called black diamonds)."
     },
     {
       "sentiment": "positive",
@@ -226,8 +236,28 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/world-will-benefit-if-all-hindus-unite-regardless-of-caste-region-mohan-bhagwat-2676075-2025-02-07?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "World will benefit if all Hindus unite regardless of caste, region: Mohan BhagwatWhile addressing\u00a0the Hindu Ekta Sammelan in Pathanamthitta, Kerala, RSS chief Mohan Bhagwat also said that all Hindus \"should be treated as one irrespective of their caste, region, or language\"."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india-today-insight/story/if-trump-can-deport-illegal-indians-by-the-planeload-why-cant-modi-govt-evict-63-bangladeshis-2675717-2025-02-06?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "If Trump can deport illegal Indians by the planeload, why can't Modi govt evict 63 Bangladeshis?The Supreme Court order to expedite foreigners' deportation from Assam runs into India's legal and diplomatic challenges in executing it, complicated by strained ties with Dhaka\r\n"
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/reviews/story/loveyapa-movie-review-junaid-khan-wonderfully-elevates-a-well-intentioned-romantic-comedy-2675936-2025-02-06?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
       "headline": "Loveyapa review: Junaid Khan wonderfully elevates a well-intentioned rom-comReleased-Fri Feb 07, 2025Director Advait Chandan's Loveyapa addresses the relevant problems of the generation - body-shaming, social media manipulation, gas-lighting, and deep-fakes. Junaid Khan makes an effortless big screen debut with the right story at the right time. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/tamil-nadu/story/pregnant-woman-sexually-assaulted-pushed-out-of-train-in-vellore-tamil-nadu-2676051-2025-02-07?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Pregnant woman sexually assaulted, pushed out of train in Tamil NaduA pregnant woman was sexually assaulted and pushed off a moving train in Tamil Nadu. She was on her way to Chittoor in Andhra Pradesh when the crime occurred. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/us-news/story/president-donald-trump-us-aid-agency-staff-usaid-job-cut-2676025-2025-02-07?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Trump plans to slash almost all US aid agency jobs barring a fraction: ReportOnly 294 staff at the agency out of 10,000 USAID employees would be allowed to keep their jobs, including only 12 in the Africa bureau and eight in the Asia bureau."
     },
     {
       "sentiment": "negative",
@@ -236,8 +266,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/tamil-nadu/story/pregnant-woman-sexually-assaulted-pushed-out-of-train-in-vellore-tamil-nadu-2676051-2025-02-07?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Pregnant woman sexually assaulted, pushed out of train in Tamil NaduA pregnant woman was sexually assaulted and pushed out of a moving train in Tamil Nadu. She was on her way to Chittoor in Andhra Pradesh when the crime occurred. "
+      "url": "https://www.indiatoday.in/movies/reviews/story/the-mehta-boys-review-boman-irani-avinash-tiwary-prime-video-2676052-2025-02-07?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "The Mehta Boys review: Boman Irani's film is a moving lesson on love and lovingReleased-Fri Feb 07, 2025The Mehta Boys explores a complex father-son bond with realism and subtlety. Boman Irani impresses as both director and actor, while Avinash Tiwary shines. Though the resolution feels conventional, the film's authenticity makes it a refreshing watch."
     },
     {
       "sentiment": "positive",
@@ -246,18 +276,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/reviews/story/the-mehta-boys-review-boman-irani-avinash-tiwary-prime-video-2676052-2025-02-07?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "The Mehta Boys review: Boman Irani's film is a moving lesson on love and lovingReleased-Fri Feb 07, 2025The Mehta Boys explores a complex father-son bond with realism and subtlety. Boman Irani impresses as both director and actor, while Avinash Tiwary shines. Though the resolution feels conventional, the film's authenticity makes it a refreshing watch."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/food/story/how-did-the-makhana-became-a-global-super-food-ft-makhana-board-2675820-2025-02-07?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "How did makhana become a global superfood?During the 2025 budget speech, Finance minister Nirmala Sitharaman announced the formation Makhana Board to boost the production, processing and marketing of fox nuts (also called black diamonds)."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/noida-delhi-ncr-schools-bomb-threat-email-students-evacuated-police-investigation-dog-squad-spot-2676032-2025-02-07?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Delhi-NCR schools, St Stephen's College get bomb threats; one declared hoaxTwo schools in Delhi-NCR received bomb threats via email on Friday, two days after four private schools in Noida faced similar threats."
+      "url": "https://www.indiatoday.in/movies/bollywood/story/himesh-reshammiya-owning-up-cringe-biggest-usp-for-badass-ravi-kumar-2675871-2025-02-07?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "How Himesh Reshammiya is turning cringe to cult with Badass Ravi KumarHimesh Reshammiya's Badass Ravi Kumar defies logic and embraces cringe. And by doing so, it is becoming unexpectedly popular among the audience, who are choosing it over Loveyapa."
     },
     {
       "sentiment": "positive",
@@ -266,8 +286,33 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/himesh-reshammiya-owning-up-cringe-biggest-usp-for-badass-ravi-kumar-2675871-2025-02-07?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "How Himesh Reshammiya is turning cringe to cult with Badass Ravi KumarHimesh Reshammiya's Badass Ravi Kumar defies logic and embraces cringe. And by doing so, it is becoming unexpectedly popular among the audience, who are choosing it over Loveyapa."
+      "url": "https://www.indiatoday.in/sports/story/sachin-tendulkar-family-meet-president-droupadi-murmu-at-rashtrapati-bhavan-2676041-2025-02-07?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Sachin Tendulkar, family meet President Droupadi Murmu at Rashtrapati BhavanIndia batting great Sachin Tendulkar and his family met President Droupadi Murmu at the Rashtrapati Bhavan on Thursday. Sachin attended the Vimarsh Shrinkhala function alongside several other prominent figures and gave her his signed Indian Test jersey.\r\n"
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/illegal-indian-immigrants-deportation-us-data-jaishankar-rajya-sabha-2676020-2025-02-07?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Over 15,600 illegal Indian immigrants sent back from US since 2009: Jaishankar External Affairs Minister S Jaishankar informed the Rajya Sabha that 15,668 illegal Indian immigrants have been deported from the United States since 2009. He said deportations follow longstanding procedures, including restraints, but women and children are exempt."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/bangladesh-sheikh-mujibur-rahman-home-demolition-india-mea-statement-reaction-sheikh-hasina-2676000-2025-02-06?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Act of vandalism regrettable: India on attack on Sheikh Mujibur Rahman's houseIndia condemned the demolition of Sheikh Mujibur Rahman's Dhaka residence. The interim government linked the act to Sheikh Hasina's provocative remarks."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/vidaamuyarchi-box-office-day-1-ajith-trishas-film-opens-strong-earns-rs-22-crore-2676053-2025-02-07?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Vidaamuyarchi box office Day 1: Ajith, Trisha's film opens strong, earns Rs 22 croreVidaamuyarchi box office Day 1: Ajith and Trisha's action-thriller opened strong at the box office. The film, which released globally on February 6, minted Rs 22 crore nett in India. "
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/illegal-indians-deported-from-us-what-happens-to-them-now-2675912-2025-02-06?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "'Illegal' Indians deported from US: What happens to them now?A US military C-17 transport aircraft carrying several Indians deported for illegal immigration landed in Amritsar on Wednesday."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/noida-delhi-ncr-schools-bomb-threat-email-students-evacuated-police-investigation-dog-squad-spot-2676032-2025-02-07?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Delhi-NCR schools, St Stephen's College get bomb threats; one declared hoaxTwo schools in Delhi-NCR received bomb threats via email on Friday, two days after four private schools in Noida faced similar threats."
     },
     {
       "sentiment": "negative",
@@ -276,53 +321,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/bangladesh-sheikh-mujibur-rahman-home-demolition-india-mea-statement-reaction-sheikh-hasina-2676000-2025-02-06?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Act of vandalism regrettable: India on attack on Sheikh Mujibur Rahman's houseIndia condemned the demolition of Sheikh Mujibur Rahman's Dhaka residence. The interim government linked the act to Sheikh Hasina's provocative remarks."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/us-donald-trump-sanctions-international-criminal-court-israel-probe-benjamin-netanyahu-2676024-2025-02-07?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Trump signs key order sanctioning International Criminal Court over Israel probeUS President Donald Trump signed an executive order imposing sanctions on the International Criminal Court over its arrest warrant for Israeli Prime Minister Benjamin Netanyahu. The move has drawn criticism from human rights activists and international allies."
+      "url": "https://www.indiatoday.in/world/story/bangladeshi-actor-meher-afroz-shaon-arrested-on-charges-of-sedition-2676013-2025-02-07?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Bangladeshi actor Meher Afroz Shaon arrested on charges of sedition: Report Bangladesh police arrested actor Meher Afroz Shaon on sedition charges after she criticised the interim government. Her family home in Jamalpur was torched hours earlier. Shaon and her family have ties to the Awami League."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/sachin-tendulkar-family-meet-president-droupadi-murmu-at-rashtrapati-bhavan-2676041-2025-02-07?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Sachin Tendulkar, family meet President Droupadi Murmu at Rashtrapati BhavanIndia batting great Sachin Tendulkar and his family met President Droupadi Murmu at the Rashtrapati Bhavan on Thursday. Sachin attended the Vimarsh Shrinkhala function alongside several other prominent figures and gave her his signed Indian Test jersey.\r\n"
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/law-news/story/sonu-sood-arrest-warrant-ludhiana-court-after-actor-skips-testimony-fraud-case-2675977-2025-02-06?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Arrest warrant against actor Sonu Sood after he skips testimony in fraud caseDespite repeated summons, Sonu Sood failed to respond, leading the court to issue an arrest warrant."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/illegal-indians-deported-from-us-what-happens-to-them-now-2675912-2025-02-06?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "'Illegal' Indians deported from US: What happens to them now?A US military C-17 transport aircraft carrying several Indians deported for illegal immigration landed in Amritsar on Wednesday."
+      "url": "https://www.indiatoday.in/movies/hollywood/story/jennifer-aniston-selena-gomez-recreate-friends-scene-on-their-galentines-night-2676078-2025-02-07",
+      "headline": "Jennifer Aniston, Selena Gomez recreate Friends scene on their Galentine's nightJennifer Aniston and Selena Gomez hosted a Galentine's bash for their beauty brands. During the fun-filled event, the duo was seen recreating a scene from the iconic series Friends."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/cricket-ind-vs-eng-odi-nagpur-score-shubman-gill-shreyas-iyer-rohit-sharma-fail-2675898-2025-02-06?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Rohit Sharma fails, but clinical India begin Champions Trophy prep in styleIndia vs England, 1st ODI: Rohit Sharma's return to ODI cricket ended in disappointment, but India had several positives in their four-wicket win in Nagpur on Thursday. Shubman Gill led India's successful chase of 249 after Ravindra Jadeja shone with the ball for the home team. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/free-gaza-or-for-free-whats-got-the-real-estate-developer-in-trump-excited-netanyahu-explained-2675809-2025-02-06?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Free Gaza or Gaza for free? What's got the real estate developer in Trump excitedAfter calling Gaza a \"demolition site\" and a \"phenomenal location on the sea\", US President Donald Trump has now announced the US would take over the Gaza Strip and \"develop it\" as the \"Riviera of the Middle East\". Here, Trump's real estate developer instincts might be showing sharp, leaving the world shocked."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/why-handcuffed-illegal-immigrants-alarmed-india-american-standard-practice-s-jaishankar-donald-trump-2675746-2025-02-06?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Why Indians deported in handcuffs sparked outrage. Explaining law and loathingThe images of Indians being deported from the US in handcuffs and leg restraints sparked a huge uproar, even leading to disruptions in Parliament. This strong reaction to the deportation of illegal immigrants in restraints may stem from the differing practices regarding the use of handcuffs by law enforcement in the US and India."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/indian-illegal-immigrants-us-deportation-nagpur-man-canada-dream-video-2676017-2025-02-07?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Nagpur man's Canada dream ends with US deportation, returns in chainsA Nagpur resident, Harpreet Singh Laliya, was among 104 Indians deported from the US. He spent nearly Rs 50 lakh attempting to reach Canada but was detained and sent back. Deportees arrived in Amritsar on a US military aircraft, restrained during the journey.\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/bangladesh-government-blames-fugitive-former-prime-minister-sheikh-hasina-attack-sheikh-mujibur-rahman-house-dhaka-2676028-2025-02-07?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Bangladesh government blames fugitive Sheikh Hasina for attack on father's houseOn Wednesday night, a massive mob set fire to Sheikh Mujibur Rahman's house in Dhaka after his daughter and ousted Prime Minister Sheikh Hasina appealed to Awami League workers to protest against the Muhammad Yunus-led interim government."
+      "url": "https://www.indiatoday.in/movies/celebrities/story/vicky-kaushal-on-chhaava-dance-controversy-2676070-2025-02-07",
+      "headline": "Vicky Kaushal on Chhaava row: Lezim dance was to take our culture globalVicky Kaushal shared that Chhaava's deleted Lezim dance wasn't crucial to the story. After backlash, director Laxman Utekar removed it, stating that the film prioritises Sambhaji Maharaj's legacy."
     },
     {
       "sentiment": "positive",
@@ -333,16 +343,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/reviews/story/the-mehta-boys-review-boman-irani-avinash-tiwary-prime-video-2676052-2025-02-07",
       "headline": "The Mehta Boys review: Boman Irani's film is a moving lesson on love and lovingReleased-Fri Feb 07, 2025The Mehta Boys explores a complex father-son bond with realism and subtlety. Boman Irani impresses as both director and actor, while Avinash Tiwary shines. Though the resolution feels conventional, the film's authenticity makes it a refreshing watch."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/himesh-reshammiya-owning-up-cringe-biggest-usp-for-badass-ravi-kumar-2675871-2025-02-07",
-      "headline": "How Himesh Reshammiya is turning cringe to cult with Badass Ravi KumarHimesh Reshammiya's Badass Ravi Kumar defies logic and embraces cringe. And by doing so, it is becoming unexpectedly popular among the audience, who are choosing it over Loveyapa."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/nick-jonas-maan-meri-jaan-priyanka-chopra-brother-sangeet-videos-watch-2676043-2025-02-07",
-      "headline": "Nick Jonas sings Maan Meri Jaan, Priyanka Chopra dances at brother's sangeetPriyanka Chopra danced at her brother Siddharth's sangeet as Nick Jonas performed 'Maan Meri Jaan'. The couple twinned in blue, and Priyanka also danced with bride-to-be Neelam Upadhyaya."
     }
   ],
   "sports": [
@@ -398,8 +398,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/india-vs-england-1st-odi-nagpur-shreyas-iyer-funny-story-rohit-sharma-phone-call-virat-kohli-2675927-2025-02-06",
-      "headline": "Cut movie-night short: Shreyas reveals late call to replace Virat in 1st ODIIndia batter Shreyas Iyer revealed that he was originally not a part of the playing XI in the 1st ODI vs England. Iyer said that he received a late-night phone call from Rohit Sharma, asking him to be ready to play in place of Virat Kohli in Nagpur.\r\n"
+      "url": "https://www.indiatoday.in/sports/story/hasrhit-rana-maiden-odi-wicket-plan-ben-duckett-india-vs-england-death-over-duties-2676031-2025-02-07",
+      "headline": "Harshit's plan for maiden ODI wicket, death over duty: Ready for all rolesHarshit Rana reflects on his maiden ODI wicket, revealing how tactical variations in his bowling setup helped dismiss Ben Duckett, marking a memorable debut as India secured victory against England in the ODI series opener in Nagpur."
     },
     {
       "sentiment": "positive",
@@ -463,8 +463,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/cricket-sri-lanka-vs-australia-nathan-lyon-150-wickets-asia-first-spinner-2675838-2025-02-06",
-      "headline": "Nathan Lyon becomes first non-Asian bowler to take 150 wickets in AsiaSri Lanka vs Australia: Off-spinner Nathan Lyon completed 150 wickets in Asia after dismantling the Sri Lankan batting unit with three wickets on Day 1 of the 2nd Test in Galle. "
+      "url": "https://www.indiatoday.in/sports/story/cricket-india-vs-england-1st-odi-shubman-gill-vice-cpataincy-virat-kohli-spot-nagpur-2675897-2025-02-06",
+      "headline": "IND vs ENG 1st ODI: Vice-captain Shubman Gill shines in Virat Kohli's No.3 spotShubman Gill stepped up to fill the void left by Virat Kohli in the Indian batting lineup as he scored a brilliant 87 against England in the Nagpur ODI. Vice-captain Gill anchored the run chase perfectly for India. "
     },
     {
       "sentiment": "positive",
@@ -500,11 +500,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/story/cricket-india-vs-england-ravindra-jadeja-600-huge-milestone-fifth-bowler-james-anderson-2675785-2025-02-06",
       "headline": "Ravindra Jadeja breaks James Anderson's record, completes 600 wickets for IndiaIndia vs England, 1st ODI: Ravindra Jadeja completed 600 wickets in international cricket on Thursday. He took three wickets against England in the series opener in Nagpur. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/cricket-india-vs-england-1st-odi-mohammed-shami-comeback-nagpur-2675771-2025-02-06",
-      "headline": "Shami tidy on ODI comeback, gives India confidence ahead of Champions TrophyIndia pacer Mohammed Shami dismissed Brydon Carse in the first One-Day International (ODI) in Nagpur for his first wicket in the format in 445 days."
     }
   ],
   "education": [
