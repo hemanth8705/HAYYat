@@ -2,6 +2,11 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/union-finance-minister-nirmala-sitharaman-introduce-new-income-tax-bill-lok-sabha-union-budget-2676893-2025-02-08",
+      "headline": "Hope to introduce new income tax bill in Lok Sabha next week: Nirmala SitharamanAfter introduction in the Upper House, the bill, which was approved by the Union Cabinet chaired by PM Modi, will be sent to a parliamentary standing committee for scrutiny."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/meta-mark-zuckerberg-internal-memo-reveals-job-cuts-lowest-performers-starting-next-week-layoffs-2676644-2025-02-08",
       "headline": "Meta plans to lay off 'lowest performance' staff next week, internal memo revealsNotices will go out to employees losing their jobs starting at 5 am local time on Monday in most countries, including in the US, according to one of the posts, authored by\u00a0Meta's Head of People Janelle Gale."
     },
@@ -94,11 +99,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/want-to-redeem-credit-card-points-check-2-simple-ways-online-banking-customer-service-helpline-2675748-2025-02-06",
       "headline": "Want to redeem credit card points? Check these 2 simple ways How to redeem credit card points: The number of credit card points one earns depends on the type of card, whether basic or premium, and the amount spent."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/sensex-nifty-fall-sharply-as-dalal-street-remains-edgy-ahead-of-rbis-rate-decision-2675724-2025-02-06",
-      "headline": "Sensex, Nifty fall sharply as D-Street remains edgy ahead of RBI's rate decisionThe S&P BSE Sensex closed 213.12\u00a0points lower at 78,058.16 and the NSE Nifty50 settled 92.95\u00a0points lower at 23,603.35."
     }
   ],
   "entertainment": [
@@ -206,18 +206,33 @@
   "general news": [
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/assembly/story/unravelling-of-mufflerman-politics-over-promise-arvind-kejriwal-delhi-election-results-2025-2676780-2025-02-08?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "The Unravelling of the MufflermanPeople in Delhi had pinned their hopes on Arvind Kejriwal, the Mufflerman. He came with promises but left with politics. Projecting himself to be far from the typical politician, Kejriwal played politics on everything, even air and water. This is how the Mufflerman unravelled, and the AAP came unspun with him. With an Unravel-O-Meter\u00a0inside."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/elections/story/milkipur-by-election-result-2025-bjp-headed-for-victor-over-samajwadi-party-2676725-2025-02-08?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
       "headline": "BJP wins UP's Milkipur in prestige battle against Samajwadi Party The Bharatiya Janata Party (BJP) wrested UP's Milkipur from Samajwadi Party in the battle of prestige."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/assembly/story/delhi-elections-priyanka-gandhi-says-people-of-delhi-fed-up-after-bjp-monster-win-2676866-2025-02-08?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Delhi was fed up, voted for change: Priyanka Gandhi after BJP's monster winPriyanka Gandhi reacted to INDIA bloc ally AAP's defeat in the Delhi Assembly polls, saying that the people of the national capital were fed up and voted for change. "
+      "url": "https://www.indiatoday.in/elections/assembly/story/delhi-results-kumar-vishwas-aap-loss-wife-cried-manish-sisodia-arvind-kejriwal-2676864-2025-02-08?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Ex-AAP leader Kumar Vishwas twists knife: My wife cried when Manish Sisodia lostDelhi elections: Without naming his former boss, Arvind Kejriwal, Kumar Vishwas said he had no sympathy for 'a man' who crushed the dreams of AAP party workers. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/elections/assembly/story/delhi-assembly-election-whats-behind-congress-hat-trick-of-zeroes-in-delhi-2676879-2025-02-08?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "What's behind Congress' hat-trick of zeroes in Delhi?The Congress party, once an unshakable force in Delhi politics, has now suffered its third consecutive electoral defeat, raising serious questions about its relevance in the national capital."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/elections/assembly/story/unravelling-of-mufflerman-politics-over-promise-arvind-kejriwal-delhi-election-results-2025-2676780-2025-02-08?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "The Unravelling of the MufflermanPeople in Delhi had pinned their hopes on Arvind Kejriwal, the Mufflerman. He came with promises but left with politics. Projecting himself to be far from the typical politician, Kejriwal played politics on everything, even air and water. This is how the Mufflerman unravelled, and the AAP came unspun with him. With an Unravel-O-Meter\u00a0inside."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/elections/assembly/story/swati-maliwal-didnt-contest-but-emerged-biggest-winner-delhi-election-results-arvind-kejriwal-2676769-2025-02-08?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "AAP loses big, but AAP's Swati Maliwal wins big, even without\u00a0contestingSwati Maliwal, who didn't contest the 2025 Delhi Assembly election, has emerged as one of the biggest winners. It was Maliwal who focused the Delhi election on civic issues, which was later coopted by the BJP. Mistreated in Arvind Kejriwal's drawing room, Maliwal made the battle personal. She hit the streets, and hurt the AAP."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/hamas-releases-three-more-israeli-hostages-gaza-ceasefire-deal-red-cross-palestinian-prisoners-swap-deal-2676810-2025-02-08?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Hamas parades 3 frail hostages in Gaza before release, images shock IsraelisSoon after their release, the international media highlighted the thin and frail images of the Israeli nationals, who were reportedly in a worse state as compared to the 18 hostages freed last month.\u00a0"
     },
     {
       "sentiment": "positive",
@@ -225,14 +240,14 @@
       "headline": "BJP can't defeat us in this life: Arvind Kejriwal's old video viral after lossAn old video of AAP chief Arvind Kejriwal from 2023 has gone viral, where he confidently asserted, \"I want to tell Narendra Modi ji that you cannot defeat us in this life, and you will have to take another birth to defeat us in Delhi.\" "
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/elections/assembly/story/swati-maliwal-didnt-contest-but-emerged-biggest-winner-delhi-election-results-arvind-kejriwal-2676769-2025-02-08?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Swati Maliwal didn't contest but emerged Delhi's biggest winnerSwati Maliwal, who didn't contest the 2025 Delhi Assembly election, has emerged as one of the biggest winners. It was Maliwal who focused the Delhi election on civic issues, which was later coopted by the BJP. Mistreated in Arvind Kejriwal's drawing room, Maliwal made the battle personal. She hit the streets, and hurt the AAP."
-    },
-    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/tamil-nadu/story/dmk-chandirakumar-ntk-seethalakshmi-fight-erode-east-tamil-nadu-assembly-bypoll-2025-2676753-2025-02-08?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
       "headline": "DMK eyes easy win in Erode (East) Assembly seat by-election Live UpdatesWith Naam Tamilar Katchi (NTK) being the only party as an opponent, the ruling Dravida Munnetra Kazhagam (DMK) had a huge lead of more than 30,000 votes in the Erode (East) Tamil Nadu Assembly seat by-election."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/programme/first-things-fast/video/the-fall-of-brand-kejriwal-2676899-2025-02-08?utm_source=Videos_hp&utm_medium=Videos&utm_campaign=home_Videos",
+      "headline": "The fall of Brand KejriwalFrom his muffler-clad rise to his electoral defeat in 2025, we trace the unraveling of Brand Kejriwal and the AAP's collapse in Delhi. "
     },
     {
       "sentiment": "positive",
@@ -246,28 +261,18 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/story/cricket-pakistan-pm-shehbaz-sharif-says-beating-india-a-real-task-for-their-team-in-champions-trophy-2676837-2025-02-08?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Pakistan PM says beating India 'a real task' for their team in Champions TrophyPakistan Prime Minister Shehbaz Sharif feels that beating India will be a real task for Pakistan team in the upcoming ICC Champions Trophy 2025."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/amitabh-bachchan-cryptic-x-post-leaves-internet-worried-2676765-2025-02-08?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
       "headline": "Amitabh Bachchan's cryptic post leaves internet worried: Time to goSuperstar Amitabh Bachchan recently shared a cryptic X post which left his fans worried. Big B shared a post which simply read, 'time to go.'"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/cricket-pakistan-pm-shehbaz-sharif-says-beating-india-a-real-task-for-their-team-in-champions-trophy-2676837-2025-02-08?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Pakistan PM says beating India 'a real task' for their team in Champions TrophyPakistan Prime Minister Shehbaz Sharif feels that beating India will be a real task for Pakistan team in the upcoming ICC Champions Trophy 2025."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/elections/assembly/story/delhi-results-kumar-vishwas-aap-loss-wife-cried-manish-sisodia-arvind-kejriwal-2676864-2025-02-08?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "My wife cried when Manish Sisodia lost: Kumar Vishwas's cryptic remark on resultsMy wife cried when Manish Sisodia lost polls: Ex-AAP leader Kumar Vishwas"
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/hamas-releases-three-more-israeli-hostages-gaza-ceasefire-deal-red-cross-palestinian-prisoners-swap-deal-2676810-2025-02-08?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Hamas parades 3 frail hostages in Gaza before release, images shock IsraelisSoon after their release, the international media highlighted the thin and frail images of the Israeli nationals, who were reportedly in a worse state as compared to the 18 hostages freed last month.\u00a0"
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/indian-origin-congressman-ro-khanna-us-vice-president-jd-vance-war-of-words-doge-staffer-racist-posts-reinstated-2676620-2025-02-08?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Congressman, JD Vance's X war as DOGE staffer who quit over racist posts reinstatedMarko Elez resigned from DOGE after the Wall Street Journal published a report linking him to a now-deleted account on X, where he made some racist posts. In one post last September, Elez reportedly said, \"You could not pay me to marry outside of my ethnicity,\"  and in another one, he wrote, \"Just for the record, I was racist before it was cool.\""
+      "url": "https://www.indiatoday.in/elections/assembly/story/prime-minister-narendra-modi-reaction-delhi-assembly-election-win-bjp-development-won-good-governance-aap-2676805-2025-02-08?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Development won, good governance won: PM after BJP's thumping victory in DelhiPM Modi expressed gratitude to Delhi's voters for their overwhelming support to the BJP in the Assembly polls. \"Development and good governance have won,\" PM Modi wrote on X."
     },
     {
       "sentiment": "positive",
@@ -280,6 +285,21 @@
       "headline": "Atishi wins from Kalkaji, saving grace as AAP giants loseKalkaji election results: Atishi, who took over the top job after Arvind Kejriwal resigned months ahead of the Delhi Assembly polls amid corruption charges,\u00a0won from Kalkaji in her debut election in 2020."
     },
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/indian-origin-congressman-ro-khanna-us-vice-president-jd-vance-war-of-words-doge-staffer-racist-posts-reinstated-2676620-2025-02-08?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Congressman, JD Vance's X war as DOGE staffer who quit over racist posts reinstatedMarko Elez resigned from DOGE after the Wall Street Journal published a report linking him to a now-deleted account on X, where he made some racist posts. In one post last September, Elez reportedly said, \"You could not pay me to marry outside of my ethnicity,\"  and in another one, he wrote, \"Just for the record, I was racist before it was cool.\""
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/interactive/quiz/entertainment/weekly-news-quiz-447-07-02-2025?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Question Time: Weekly News QuizThink you read the headlines this week? Let's test that!"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/elections/assembly/story/delhi-election-results-2025-full-list-of-winners-and-losers-constituency-wise-stmp-2676691-2025-02-08?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Delhi Election Results 2025: Full list of winners by constituencyDelhi Assembly election Result 2025: In a surprising turn of events, key Aam Aadmi Party leaders Arvind Kejriwal and Manish Sisodia have admitted to their defeat. Here's the full list of winners from the 70 constituencies. "
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/elections/assembly/story/delhi-elections-parvesh-verma-defeats-former-chief-minister-arvind-kejriwal-from-new-delhi-2676824-2025-02-08?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
       "headline": "Will Parvesh Verma, who defeated Arvind Kejriwal, lead Delhi? What he saidBJP candidate Parvesh Verma credited Prime Minister Narendra Modi for his win against Arvind Kejriwal from the New Delhi seat, adding that he wouldn't want to stay in the 'sheeshmahal'. "
@@ -290,24 +310,9 @@
       "headline": "Gurugram man asks HDFC Bank to change Relationship Manager. Their hilarious responseIn a now-viral LinkedIn post, a Gurugram man shared that he had asked HDFC Bank to change his Relationship Manager (RM). Instead of resolving the issue, the bank directed him to the very same RM to process the request.\u00a0"
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/interactive/quiz/entertainment/weekly-news-quiz-447-07-02-2025?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Question Time: Weekly News QuizThink you read the headlines this week? Let's test that!"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/assembly/story/delhi-election-results-2025-full-list-of-winners-and-losers-constituency-wise-stmp-2676691-2025-02-08?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Delhi Election Results 2025: Full list of winners by constituencyDelhi Assembly election Result 2025: In a surprising turn of events, key Aam Aadmi Party leaders Arvind Kejriwal and Manish Sisodia have admitted to their defeat. Here's the full list of winners from the 70 constituencies. \r\n"
-    },
-    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/world/us-news/story/us-donald-trump-joe-biden-security-clearance-classified-files-2676596-2025-02-08?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
       "headline": "Trump revokes Biden's security clearances: Joe, you're fired Donald Trump announced he is revoking Joe Biden's security clearance, ending his access to classified information and intelligence briefings. Trump declared the decision on Truth Social, stating, \"Joe, you're fired.\"\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/bryan-johnson-advice-to-indians-clean-air-over-curing-cancer-aqi-rant-nikhil-kamath-podcast-2676690-2025-02-08?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Bryan Johnson shares Taare Zameen Par meme with AQI reference for IndiansAnti-ageing enthusiast Bryan Johnson advised Indians to prioritise \"cleaning the air rather than curing cancer\" as he addressed the debate that ensued online after he walked out of Nikhil Kamath's podcast due to air quality concerns."
     },
     {
       "sentiment": "positive",
@@ -320,9 +325,14 @@
       "headline": "Naga Chaitanya on divorce from Samantha: Why am I treated like a criminalNaga Chaitanya called his divorce from Samantha Ruth Prabhu a 'sensitive' topic. He said he understands the 'repercussions' of a broken family and has now moved on with grace. "
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/jammu-and-kashmir/story/iltija-mufti-mother-mehbooba-mufti-under-house-arrest-nothing-has-changed-in-kashmir-2676686-2025-02-08?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Iltija Mufti claims she, mother under house arrest: Nothing's changed in KashmirAccording to reports, truck driver Waseem Majeed Mir was killed in army firing after he refused to stop at a checkpoint in Baramulla district on Wednesday night.\r\n"
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/kareena-kapoor-cryptic-post-on-marriage-and-divorce-2676895-2025-02-08",
+      "headline": "Kareena Kapoor's cryptic post on marriage and divorce: You will never understand...Bollywood star Kareena Kapoor on Saturday shared a cryptic post on relationships via her Instagram handle. Kapoor and her family were recently in the news after her husband and actor Saif Ali Khan was attacked during an attempted burglary. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/ranbir-kapoor-wraps-shoot-for-vijay-deverakonda-vd-12-stmp-2676867-2025-02-08",
+      "headline": "Ranbir Kapoor records for Vijay Deverakonda's next, VD 12Bollywood star Ranbir Kapoor has wrapped shooting for South star Vijay Deverakonda's upcoming project, VD 12. Kapoor has given the voiceover for Deverakonda's VD 12 teaser. "
     },
     {
       "sentiment": "positive",
@@ -333,19 +343,19 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/naga-chaitanya-and-sai-pallavi-thandel-leaked-online-stmp-2676830-2025-02-08",
       "headline": "Naga Chaitanya, Sai Pallavi's Thandel leaked online Actor Naga Chaitanya and Sai Pallavi's latest venture, Thandel, has leaked online. The film released in cinemas on February 7. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/salman-khan-sleeps-for-2-hours-2676829-2025-02-08",
-      "headline": " Salman Khan sleeps for 2 hours: Can sleep only when there's nothing to do Actor Salman Khan told nephew Arhaan Khan that he sleeps only 2 hours a day and had his best sleep in jail. He advised him to stay enthusiastic, avoid complacency, and share credit for success."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/photo/rajkummar-rao-patralekhaa-take-a-holy-dip-at-triveni-sangam-pics-2676782-2025-02-08",
-      "headline": "Photos: Rajkummar Rao, Patralekhaa take a holy dip at Triveni SangamActors Rajkummar Rao and Patralekhaa recently visited Mahakumbh and shared photos from the same. In the images, the pair were seen taking a holy dip at the Triveni Sangam. "
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/story/cricket-virat-kohli-india-vs-england-sitanshu-kotatk-cuttack-odi-2676903-2025-02-08",
+      "headline": "Virat Kohli fit to play 2nd ODI vs England, confirms Sitanshu Kotak IND vs ENG: Indian batting coach Sitanshu Kotak confirmed Virat Kohli's availability for the second ODI on Sunday in Cuttack after the batter missed the Nagpur ODI due to  knee injury. \r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/story/cricket-rohit-sharmas-poor-form-makes-team-india-look-unsettled-says-kapil-dev-2676873-2025-02-08",
+      "headline": "Rohit Sharma's poor form makes team India look unsettled: Kapil DevLegendary India cricketer Kapil Dev has said that Rohit Sharma's poor form in recent times makes team India look unsettled. Rohit hasn't scored a half-century in his last nine innings in international cricket."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/story/cricket-pakistan-pm-shehbaz-sharif-says-beating-india-a-real-task-for-their-team-in-champions-trophy-2676837-2025-02-08",
@@ -383,13 +393,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/cricket-bpl-2025-tamim-iqbal-shakib-al-hasan-bangladesh-fans-2676744-2025-02-08",
-      "headline": "Tamim Iqbal's strong 'last message' to fans: No Tamimian, no Shakibian, only BangladeshBPL 2025: Tamim Iqbal said that Bangladesh fans need to stay united and shun the fanbases involving him, Shakib Al Hasan and Mashrafe Mortaza. On Friday, Tamim led Fortune Barishal to glory against the Chittagong Kings. \r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/sa20-2025-rashid-khan-1000-t20-wickets-milestone-mi-cape-town-2676731-2025-02-08",
-      "headline": "Feel I can get there: Rashid Khan dreams of 1000-wicket feat in T20sSA20 2025: Rashid Khan said that he has a great chance of reaching the landmark of 1000 wickets in T20s. The spinner will lead MI Cape Town in the final on February 8 against Sunrisers Eastern Cape.\r\n"
+      "url": "https://www.indiatoday.in/sports/story/cricket-india-vs-england-rohit-sharma-sachin-tendulkar-opener-record-2676783-2025-02-08",
+      "headline": "Rohit Sharma nears Sachin Tendulkar's tally in elite openers club IND vs ENG: Rohit Sharma is 50 runs short of becoming the second-highest run-scorer for India as an opener in international cricket. Rohit will have his chance in the second ODI on Sunday at the Barabati Stadium in Cuttack.\r\n"
     },
     {
       "sentiment": "positive",
@@ -443,13 +448,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/maaya-rajeshwaran-tennis-prodigy-wta-125-semi-final-rafael-nadal-academy-2676660-2025-02-08",
-      "headline": "Who is Maaya Rajeshwaran? 15-year-old tennis prodigy into WTA 125 semi-finalAt just 15, Maaya Rajeshwaran's stunning run at the L&T Mumbai Open has made her the youngest Indian to earn a WTA point, cementing her place as one of the country's brightest tennis prospects."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/cricket-jacob-bethell-ind-vs-eng-rcb-ipl-2025-royal-challengers-bengaluru-2676571-2025-02-08",
-      "headline": "They always chant RCB, RCB: Jacob Bethell overwhelmed by support in IndiaEngland all-rounder Jacob Bethell opened up on receiving massive support in India after bagging a Rs 2.60 crore deal with RCB for IPL 2025."
+      "url": "https://www.indiatoday.in/sports/story/champions-trophy-lockie-ferguson-in-doubt-hamstring-injury-tri-series-pakistan-2676697-2025-02-08",
+      "headline": "Lockie Ferguson in doubt for Champions Trophy with injury: ReportsNew Zealand's Champions Trophy plans face uncertainty as Lockie Ferguson's hamstring injury casts doubt over his availability. The experienced pacer's absence could impact their bowling attack, with Jacob Duffy on standby ahead of the February 12 squad deadline."
     },
     {
       "sentiment": "negative",
@@ -480,16 +480,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/story/cricket-sl-vs-aus-sam-konstas-travis-head-sri-lanka-vs-australia-2676580-2025-02-08",
       "headline": "I understand why Travis Head opened the batting in Sri Lanka: Sam KonstasYoung Australia opener Sam Konstas recently shared his thoughts on not getting an opportunity to play in the ongoing series against Sri Lanka. Konstas warmed the bench in the series as Travis Head opened the innings for Australia."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/cricket-pakistan-vs-new-zealand-tri-series-babar-azam-opening-mohammad-rizwan-2676575-2025-02-07",
-      "headline": "King will do it: Rizwan on who will open for Pakistan in tri-series openerPakistan captain Mohammad Rizwan hinted that Babar Azam could be the one opening the batting for his side in the tri-series opener against New Zealand on February 8. Babar is expected to play the role during the ICC Champions Trophy later this month. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/video/cricket-india-vs-england-2nd-odi-indian-team-england-arrival-bhubaneswar-cuttack-2676555-2025-02-07",
-      "headline": "IND vs ENG: Team India, England get grand welcome in Odisha ahead of 2nd ODIThe Indian team and England received a grand welcome from the fans as they reached Bhubaneswar Airport on Friday, February 7 ahead of the second ODI in Cuttack. Fans arrived to get a glimpse of the stars as both teams made their way to the team hotels. India hold a 1-0 lead and will be aiming to wrap it up with a win in the match on Sunday. "
     }
   ],
   "education": [
