@@ -1,6 +1,16 @@
 {
   "business": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/story/5-common-upi-related-frauds-and-tips-to-prevent-them-2677463-2025-02-10",
+      "headline": "5 common UPI-related frauds and tips to prevent them  Fraudsters often at times impersonate banks or organisations and trick victims to reveal sensitive information like UPI account, OTP and PIN details."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/new-vs-old-income-tax-regime-budget-2025-check-revised-tax-rates-slabs-and-will-you-benefit-2677466-2025-02-10",
+      "headline": "New income tax regime: Check revised tax rates, slabs, and will you benefit? Will the new tax regime put more money in your pocket, or should you stick with the old regime? Here is all you need to know. \r\n"
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/video/rupee-hits-all-time-low-of-8794-against-us-dollar-2677456-2025-02-10",
       "headline": "Rupee hits all-time low of 87.94 against US dollarThe rupee slumped to a new all-time low of 87.95 per US dollar on Monday as fears over potential US trade tariffs rattled regional currencies. This surpasses last week's record of 87.5825. The currency was last trading at 87.9325, marking a 0.6% decline for the day."
@@ -89,16 +99,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/activate-uan-to-avail-epfo-eli-scheme-benefits-before-february-15-check-details-2676213-2025-02-07",
       "headline": "Activate UAN to avail EPFO's ELI scheme benefits before February 15. Check detailsEPFO ELI: UAN or Universal Account Number is a unique 12-digit number allotted by EPFO which is necessary for managing provident fund accounts."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/who-is-mohini-mohan-dutta-rs-500-crore-surprise-in-ratan-tata-will-2676202-2025-02-07",
-      "headline": "Who is Mohini Mohan Dutta? Rs 500 crore surprise in Ratan Tata's willRatan Tata also left behind a share for his siblings, his butler Subbiah and German Shepherd Tito have also been provided for in his will. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/rbi-introduces-bankin-domain-for-indian-banks-to-tackle-financial-fraud-2676141-2025-02-07",
-      "headline": "RBI introduces 'bank.in' domain for Indian banks to tackle financial fraudThe move aims to tackle growing financial fraud and cybercrime, prevent malicious activities, and strengthen the country's financial ecosystem."
     }
   ],
   "entertainment": [
@@ -207,17 +207,17 @@
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/uttar-pradesh/story/traffic-chokes-maha-kumbh-samajwadi-party-chief-akhilesh-yadav-devotee-not-human-being-jab-2677362-2025-02-10?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "300 km-long traffic jam chokes Maha Kumbh, Akhilesh Yadav's jab at UP governmentMaha Kumbh: As a result of the severe traffic jam, many devotees were unable to reach the Sangam area to take a holy dip amid the ongoing Maha Kumbh. The pilgrims have raised serious concerns over management issues."
+      "headline": "300-km-long jams choke Maha Kumbh routes, Akhilesh Yadav jabs UP governmentMaha Kumbh: As a result of the severe traffic jam, many devotees were unable to reach the Sangam area to take a holy dip amid the ongoing Maha Kumbh. The pilgrims have raised serious concerns over management issues."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/news/story/pariksha-pe-charcha-2025-pm-modis-advice-on-time-management-focus-2677465-2025-02-10?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "PM Modi at Pariksha Pe Charcha: Ignore distractions, focus like a batsmanPrime Minister Narendra Modi is interacting with students, teachers, and parents in Pariksha Pe Charcha 2025, addressing exam stress, career planning, and personal growth. The event features insights from experts, including Sadhguru, Deepika Padukone, Mary Kom, and Avani Lekhara.\r\n"
     },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/cities/hyderabad/story/hyderabad-industrialist-velamati-chandrasekhara-janardhana-rao-veljan-group-murder-arrest-2677350-2025-02-10?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Hyderabad tycoon stabbed 70 times by grandson over property dispute, diesA 29-year-old US-educated man in Hyderabad killed his industrialist grandfather over a dispute regarding property distribution, by stabbing him more than 70 times."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/bangladesh-awami-league-protest-sheikh-hasina-operation-devil-hunt-arrest-muhammad-yunus-2677347-2025-02-10?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Bangladesh's 'devil hunt' to tackle violence, 1,300 arrested in sweeping crackdownBangladesh's interim government, led by Chief Adviser Muhammad Yunus, has launched 'Operation Devil Hunt,' a nationwide crackdown involving over 1,300 arrests to curb escalating violence targeting Awami League leaders and properties."
+      "headline": "Hyderabad tycoon stabbed 70 times by grandson over property dispute, diesHyderabad Businessman Murder: A 29-year-old US-educated man in Hyderabad killed his industrialist grandfather over a dispute regarding property distribution, by stabbing him more than 70 times."
     },
     {
       "sentiment": "positive",
@@ -226,8 +226,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/ranveer-allahbadia-slammed-obscene-jokes-inappropriate-remarks-samay-raina-indias-got-latent-2677397-2025-02-10?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Internet slams Ranveer Allahbadia over obscene jokes on Samay Raina's showYouTuber Ranveer Allahbadia finds himself in hot water after making inappropriate jokes and comments on Samay Raina's India's Got Latent. The internet is abuzz with calls for his cancellation.\r\n"
+      "url": "https://www.indiatoday.in/science/chandrayaan-3/story/chandrayaan-3s-shiv-shakti-landing-point-on-the-moon-is-as-old-as-life-on-earth-2677452-2025-02-10?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Chandrayaan-3's Vikram quietly made a big discovery about the MoonThe team from India's Physical Research Laboratory (PRL) has created the first geological map of Chandrayaan-3 landing site, which sits close to the Moon's south pole. "
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/story/dalal-street-sensex-tanks-over-600-points-3-reasons-why-the-stock-market-is-falling-today-rupee-metal-stocks-fii-2677420-2025-02-10?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Sensex tanks over 600 points: 3 reasons why stock market is falling todayThe BSE Sensex lost over 600 points, while the NSE Nifty dropped close to 200 points in early trade. The Sensex fell to the day's low of 77,189.04 after closing at 77,860.19 in the previous session."
     },
     {
       "sentiment": "positive",
@@ -241,23 +246,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/president-droupadi-murmu-takes-holy-dip-at-maha-kumbh-in-ups-prayagraj-2677423-2025-02-10?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "President Droupadi Murmu takes holy dip at Maha Kumbh in UP's PrayagrajPresident Droupadi Murmu attended the ongoing Maha Kumbh Mela in Prayagraj and took a holy dip at Triveni Sangam, where she also fed migratory birds. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/wellness/story/the-west-is-obsessing-over-shilajit-which-has-been-a-secret-for-indians-for-ages-2677319-2025-02-10?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "The West is obsessing over shilajit, which has been a secret among Indians for agesShilajit, which has been used in Ayurvedic texts for centuries, is now trending in the West. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/auto/cars/story/this-billionaire-drove-honda-accord-a-perfectly-good-car-in-90s-guess-who-he-is-2677429-2025-02-10?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "This billionaire drove Honda Accord, a 'perfectly good' car, in 90s. Guess who he isThe Honda Accord was launched in 1976 and has been one of the world's largest-selling cars since then."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/story/dalal-street-sensex-tanks-over-600-points-3-reasons-why-the-stock-market-is-falling-today-rupee-metal-stocks-fii-2677420-2025-02-10?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Sensex tanks over 600 points: 3 reasons why stock market is falling todayThe BSE Sensex lost over 600 points, while the NSE Nifty dropped close to 200 points in early trade. The Sensex fell to the day's low of 77,189.04 after closing at 77,860.19 in the previous session."
+      "url": "https://www.indiatoday.in/entertainment/ott/story/ranveer-allahbadia-slammed-obscene-jokes-inappropriate-remarks-samay-raina-indias-got-latent-2677397-2025-02-10?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Internet slams Ranveer Allahbadia over obscene jokes on Samay Raina's showYouTuber Ranveer Allahbadia finds himself in hot water after making inappropriate jokes and comments on Samay Raina's India's Got Latent. An FIR has been filed against Ranveer, Samay and those who were present as the judges for the episode. \r\n"
     },
     {
       "sentiment": "positive",
@@ -266,28 +256,43 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/music/story/ed-sheeran-shilpa-rao-bengaluru-fans-telugu-hit-chuttamalle-devara-jr-ntr-2677381-2025-02-10?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Watch: Ed Sheeran, Shilpa Rao wow Bengaluru fans with Telugu hit ChuttamalleSinger Ed Sheeran surprised fans during his Bengaluru concert after he sang the Telugu hit track, Chuttamalle, with Shilpa Rao. He shared the video on social media and expressed his happiness at learning a new language. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india-today-insight/story/rbi-repo-rate-cut-coupled-with-tax-sops-in-budget-could-boost-consumption-2676732-2025-02-08?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "RBI repo rate cut, coupled with tax sops in Budget, could boost consumptionExperts are optimistic that the 25 bps cut\u2014the first in nearly five years\u2014will make borrowing cheaper and spur the demand for consumer durables, automobiles and homes\r\n"
+      "url": "https://www.indiatoday.in/sports/story/cricket-india-vs-england-rohit-sharma-cuttack-hundred-jos-buttler-bazball-2677459-2025-02-10?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Rohit Sharma's Cuttack blitz shows 'Bazball' approach correct: Jos ButtlerIND vs ENG: Jos Buttler has claimed that Rohit Sharma's Cuttack hundred shows that the Bazball approach is the right way to play cricket. Rohit played a stunning knock of 119 off just 90 balls to secure the win for India on Sunday, February 9. "
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/gujarat-school-principal-slaps-teacher-18-times-video-goes-viral-2677341-2025-02-10?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Gujarat school principal slaps teacher 18 times, video goes viral  A Gujarat school principal was caught on CCTV slapping a teacher 18 times, prompting an investigation. The dispute involved accusations of misconduct from both sides. Authorities have launched an inquiry before deciding on further action."
+      "url": "https://www.indiatoday.in/world/story/bangladesh-awami-league-protest-sheikh-hasina-operation-devil-hunt-arrest-muhammad-yunus-2677347-2025-02-10?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Bangladesh's 'devil hunt' to tackle violence, 1,300 arrested in sweeping crackdownBangladesh's interim government, led by Chief Adviser Muhammad Yunus, has launched 'Operation Devil Hunt,' a nationwide crackdown involving over 1,300 arrests to curb escalating violence targeting Awami League leaders and properties."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/rupee-tumbles-44-paise-to-record-low-of-8794-against-us-dollar-in-early-trade-2677389-2025-02-10?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Rupee crashes 44 paise to all-time low of 87.94 against US dollarIn early trade, the rupee weakened to 87.95 per U.S. dollar, surpassing its previous record low of 87.5825 from last week. It was last trading at 87.9325, down 0.6% for the day."
+      "url": "https://www.indiatoday.in/movies/hollywood/story/bianca-censori-defends-husband-kanye-wests-antisemitic-controversial-hate-posts-2677464-2025-02-10?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Bianca Censori defends husband Kanye West amid controversial hate postsKanye West's wife, Bianca Censori, defended her husband's post on X and said how despite their differences, she loves him unconditionally. However, the internet had mixed reactions."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/aero-india-2025-amca-full-scale-advanced-combat-aircraft-model-bengaluru-2677219-2025-02-09?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "India unveils full-scale advanced aircraft model at Aero India in BengaluruIndia unveiled a full-scale engineering model of the Advanced Medium Combat Aircraft (AMCA) at Aero India 2025. The AMCA is a twin-engine, multi-role stealth fighter designed to meet the needs of the Indian Air Force (IAF)."
+      "url": "https://www.indiatoday.in/world/shows/story/the-buzz-trump-set-to-announce-25-steel-and-aluminum-tariffs-reshaping-us-trade-relations-glbs-2677434-2025-02-10?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Trump set to announce 25% Steel and Aluminum Tariffs, Reshaping US trade relationsThe largest sources of U.S. steel imports are Canada, Brazil and Mexico, followed by South Korea and Vietnam"
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/donald-trump-losing-patience-with-hamas-freed-israeli-hostages-look-like-holocaust-survivors-2677354-2025-02-10?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Trump losing patience with Hamas: Freed hostages look like Holocaust survivorsUS President Donald Trump on Sunday said he was losing patience with the ceasefire deal between Israel and Hamas after seeing footage of the Palestinian militant group releasing Israeli hostages over the weekend."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/maharashtra/story/maharashtra-chief-minister-devendra-fadnavis-meets-mns-raj-thackeray-amid-buzz-alliance-local-body-polls-2677407-2025-02-10?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Devendra Fadnavis meets Raj Thackeray amid buzz of alliance for local body pollsThe meeting between Devendra Fadnavis and Raj Thackeray at the latter's\u00a0'Shivtirth' residence in Dadar, Mumbai, is the first after the 2024 state Assembly polls in which the ruling Mahayuti alliance secured a thumping victory against the opposition Maha Vikas Aghadi bloc."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/lifestyle/wellness/story/the-west-is-obsessing-over-shilajit-which-has-been-a-secret-for-indians-for-ages-2677319-2025-02-10?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "The West is obsessing over shilajit, which has been a secret among Indians for agesShilajit, which has been used in Ayurvedic texts for centuries, is now trending in the West. "
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/manipur-n-biren-singh-resignation-violence-congress-gaurav-gogoi-assam-bjp-amit-shah-2677406-2025-02-10?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Opposition rips Biren Singh: Quit to save party, not to restore peace in ManipurBiren Singh's resignation came amid mounting pressure within the party and days after the Supreme Court sought a sealed-cover forensic report on the authenticity of leaked audio clips alleging his role in the ethnic violence."
     },
     {
       "sentiment": "positive",
@@ -295,9 +300,24 @@
       "headline": "Behind AAP-da, Delhi's 'other' aam aadmi Arvind Kejriwal failed to readThis isn't the electorate that lives in slums or needs free bijli-paani. They want clean air, good roads and corruption-free politics\u2014AAP had stopped speaking their language\r\n"
     },
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/tamil-nadu/story/aiadmk-leader-skips-eps-felicitation-event-over-missing-images-of-mgr-j-jayalalithaa-sparks-rift-talk-2677428-2025-02-10?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Internal rift or missing images? Senior AIADMK leader skips EPS felicitationSenior AIADMK leader KA Sengottaiyan skipped a felicitation event for party chief EPS, citing the absence of MGR and Jayalalithaa's images on banners. He stated that he had informed organisers about the issue in advance and clarified that he did not boycott but simply chose not to attend. "
+    },
+    {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/assembly/story/delhi-election-results-2025-full-list-of-winners-and-losers-constituency-wise-stmp-2676691-2025-02-08?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Delhi Election Results 2025: Full list of winners by constituencyDelhi Assembly election Result 2025: In a surprising turn of events, key Aam Aadmi Party leaders Arvind Kejriwal and Manish Sisodia have admitted to their defeat. Here's the full list of winners from the 70 constituencies. "
+      "url": "https://www.indiatoday.in/entertainment/music/story/taylor-swift-shocked-after-eagles-fans-boo-her-at-super-bowl-2677412-2025-02-10?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Taylor Swift shocked after Eagles fans boo her at Super BowlTaylor Swift, the renowned pop star, faced an unexpected reaction from Eagles fans during her appearance at Super Bowl LIX. The unexpected boos left her and many others wondering about the cause."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/story/cricket-india-vs-england-rohit-sharma-hundred-cuttack-odi-mindset-2677424-2025-02-10?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Confident Rohit Sharma speaks out against outside noise after Cuttack hundredRohit Sharma lashed out against the outside noise after his thrilling hundred in Cuttack against England on Sunday, October 9. Rohit scored his hundred in just 76 balls as India won the match and clinched the series. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/president-droupadi-murmu-takes-holy-dip-at-maha-kumbh-in-ups-prayagraj-2677423-2025-02-10?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "President Droupadi Murmu takes holy dip at Maha Kumbh in UP's PrayagrajPresident Droupadi Murmu attended the ongoing Maha Kumbh Mela in Prayagraj and took a holy dip at Triveni Sangam, where she also fed migratory birds. "
     },
     {
       "sentiment": "positive",
@@ -306,43 +326,23 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/cricket-india-vs-england-rohit-sharma-hundred-champions-trophy-cuttack-2677400-2025-02-10?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Rohit Sharma breaks free to make strong statement before Champions TrophyIND vs ENG: Rohit Sharma took the English bowlers to the cleaners at the Barabati Stadium in Cuttack to find some much-needed form before the start of the Champions Trophy. The Indian skipper was struggling for form and a bit of luck, but was able to find both at the right time. "
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/naga-chaitanya-marrying-sobhita-dhulipala-happy-with-everything-going-thandel-2677482-2025-02-10",
+      "headline": "Naga Chaitanya on Sobhita Dhulipala: Love is everything to me Naga Chaitanya, in an exclusive interview, shared his take on love and relationships. The actor is currently enjoying the release of his latest film, Thandel, alongside Sai Pallavi. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/trump-plans-reciprocal-tariffs-to-unveil-25-levy-on-steel-aluminium-imports-2677349-2025-02-10?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Trump plans reciprocal tariffs, to unveil 25% levy on steel, aluminium importsUS President Donald Trump said on Sunday that he would announce the new metals tariffs on Monday. He also said he will announce reciprocal tariffs on Tuesday or Wednesday, to take effect almost immediately."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/tamil-nadu/story/tamil-nadu-man-dumps-decomposed-body-outside-butcher-shop-after-being-denied-meat-2677342-2025-02-10?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Tamil Nadu man dumps decomposed body outside butcher shop after being denied meatA man in Tamil Nadu threw a decomposed body outside a butcher shop after being denied meat. The suspect, a graveyard worker, fled the scene. Police retrieved the body and are searching for him."
+      "url": "https://www.indiatoday.in/movies/bollywood/story/badass-ravi-kumar-vs-loveyapa-box-office-collection-day-3-detailed-report-himesh-reshammiya-wins-opening-weekend-race-2677477-2025-02-10",
+      "headline": "Badass Ravi Kumar vs Loveyapa box office Day 3: Himesh wins opening-weekend raceEven though both Badass Ravi Kumar and Loveyapa haven't impressed the viewers at the box office, Himesh Reshammiya's film is performing better than the big Bollywood debut of Junaid Khan. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/meta-plans-to-layoff-5-per-cent-of-employees-starting-today-2677398-2025-02-10?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Meta plans to layoff 5 per cent of employees starting todayMeta Layoffs: Meta might begin its layoff plan of \"performance termination\" starting today. Meanwhile, it will also accelerate the hiring of machine learning engineers. "
+      "url": "https://www.indiatoday.in/movies/hollywood/story/bianca-censori-defends-husband-kanye-wests-antisemitic-controversial-hate-posts-2677464-2025-02-10",
+      "headline": "Bianca Censori defends husband Kanye West amid controversial hate postsKanye West's wife, Bianca Censori, defended her husband's post on X and said how despite their differences, she loves him unconditionally. However, the internet had mixed reactions."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/vidaamuyarchi-vs-thandel-box-office-collection-day-3-detailed-report-ajith-and-chay-get-decent-first-weekend-2677455-2025-02-10",
-      "headline": "Vidaamuyarchi vs Thandel box office Day 3: Ajith and Chay get decent first weekendWhile Vidaamuyarchi saw a drop in its collection, Thandel saw a rise. However, both the films performed decently during their opening weekend at the box office despite mixed responses. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/hollywood/story/mission-impossible-the-final-reckoning-tom-cruise-new-teaser-super-bowl-2677415-2025-02-10",
-      "headline": "Mission Impossible 8: Tom Cruise unveils new gripping teaser at Super BowlTom Cruise's Mission Impossible: The Final Reckoning is set to release in theatres on May 23, 2025. The makers announced the same with a new gripping video. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/akon-sings-chammak-challo-at-mumbai-wedding-sara-ali-khan-veer-pahariya-dance-2677396-2025-02-10",
-      "headline": "Akon sings Chammak Challo at Mumbai wedding, Sara Ali Khan and Veer Pahariya danceSinger Akon was in India for a wedding in Mumbai. In several videos, he was seen singing Chammak Challo as actors Sara Ali Khan, Ibrahim Ali Khan and Veer Pahariya, among others danced. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/nayanthara-teams-up-mammootty-mohanlal-next-malayalam-film-mmmn-mahesh-narayanan-2677375-2025-02-10",
-      "headline": "Nayanthara reunites with Mammootty, Mohanlal for next Malayalam filmNayanthara has teamed up with Mohanlal and Mammootty for the upcoming Malayalam film, MMMN. The film, directed by Mahesh Narayanan, also stars Fahadh Faasil and Kunchacko Boban in key roles."
+      "url": "https://www.indiatoday.in/movies/celebrities/story/vikrant-massey-sheetal-thakur-reveal-son-vardaan-face-on-first-birthday-2677462-2025-02-10",
+      "headline": "Vikrant Massey, Sheetal Thakur reveal son Vardaan's face on his 1st birthday Actors Vikrant Massey and Sheetal Thakur revealed their son Vardaan's face on his first birthday. The couple hosted a joyful bash to celebrate the occasion. "
     }
   ],
   "sports": [
