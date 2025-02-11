@@ -103,6 +103,11 @@
   ],
   "entertainment": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/entertainment/music/story/one-direction-liam-payne-sexuality-struggle-made-girlfriend-maya-abort-child-2678510-2025-02-11",
+      "headline": "Singer Liam Payne was struggling with sexuality, coerced ex to abort: ReportA new report reveals late One Direction star Liam Payne struggled with his sexuality and allegedly pressured ex-fianc\u00e9e Maya Henry to terminate a pregnancy."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/television/story/mukesh-khanna-criticises-ranveer-allahbadia-india-got-latent-remark-parents-2678477-2025-02-11",
       "headline": "Mukesh Khanna on Ranveer Allahbadia row: Blacken his faceActor Mukesh Khanna has criticised YouTuber Ranveer Allahbadia for making explicit remarks on Samay Raina's show, calling for strict punishment to deter such behaviour."
@@ -196,11 +201,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/television/story/chum-darang-reacts-to-elvish-yadavs-racist-remarks-2677891-2025-02-10",
       "headline": "BB 18's Chum Darang shares cryptic post after Elvish Yadav's racist remarksChum Darang shared a cryptic post on Instagram, advocating for respect and equality. This came after Elvish Yadav made racist remarks about her."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/music/story/kendrick-lamar-superbowl-halftime-performance-not-like-us-sza-serena-williams-2677840-2025-02-10",
-      "headline": "Decoding Grammy winner Kendrick Lamar's Superbowl half-time performanceKendrick Lamar became the first rapper to headline the Super Bowl solo, marking a major milestone in his career. The performance, featuring SZA and a memorable moment with Serena Williams, somewhat sparked debate on social media."
     }
   ],
   "general news": [
@@ -217,12 +217,12 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/pm-modi-paris-ceo-forum-macron-french-president-global-transformation-2678492-2025-02-11?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "France's finesse meeting India's scale will lead to global transformation: PMPM Modi welcomed the CEO Forum report and hailed the mantra of \"innovate, collaborate and elevate\" that is strengthening the India-France partnership."
+      "headline": "Right time to come to India: PM to French business leaders at Paris CEO ForumPM Modi welcomed the CEO Forum report and hailed the mantra of \"innovate, collaborate and elevate\" that is strengthening the India-France partnership."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/priyanka-gandhi-slams-nirmala-sitharaman-inflation-unemployment-rate-2678443-2025-02-11?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Which planet is she on? Priyanka Gandhi on Nirmala Sitharaman's inflation remarkThe Union Finance Minister's statement of food inflation under the Narendra Modi government dropping to 5.3% in 10 years, down from 11% during the UPA regime, drew flak from Congress MP Priyanka Gandhi Vadra."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/law-news/story/rahul-gandhi-summoned-by-lucknow-court-over-2022-remarks-against-army-2678489-2025-02-12?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Rahul Gandhi summoned by Lucknow court over 2022 remarks against ArmyThe complaint was filed by former director of the Border Roads Organisation (BRO), who alleged that Rahul Gandhi's statements during the Bharat Jodo Yatra in December 2022, were derogatory and defamed the Indian Army."
     },
     {
       "sentiment": "negative",
@@ -236,13 +236,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/indian-air-force-chief-ap-singh-hindustan-aeronautics-hal-tejas-mk1a-delivery-delays-2678401-2025-02-11?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Just not confident of HAL: IAF chief's strong words for Tejas-maker over delaysA video from the ongoing Aero India show, in which Air Chief Marshal AP Singh is seen expressing disappointment with the delays in the deliveries of the Tejas Mk1A fighter jets, has gone viral. \"At the moment, I am just not confident of Hal,\" he is heard telling officials of the Hindustan Aeronautics Ltd."
+      "url": "https://www.indiatoday.in/india/story/priyanka-gandhi-slams-nirmala-sitharaman-inflation-unemployment-rate-2678443-2025-02-11?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Which planet is she on? Priyanka Gandhi on Nirmala Sitharaman's inflation remarkThe Union Finance Minister's statement of food inflation under the Narendra Modi government dropping to 5.3% in 10 years, down from 11% during the UPA regime, drew flak from Congress MP Priyanka Gandhi Vadra."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/prashant-kishore-on-bihar-polls-2025-nitish-kumar-jdu-nda-bjp-2678369-2025-02-11?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Nitish Kumar physically tired, mentally retired: Prashant Kishor on Bihar pollsIn an interview with India Today TV, Prashant Kishor said that the NDA coalition in Bihar was presently \"at the mercy of BJP\" and Nitish Kumar has only remained as a \"mask\"."
+      "url": "https://www.indiatoday.in/india/story/indian-air-force-chief-ap-singh-hindustan-aeronautics-hal-tejas-mk1a-delivery-delays-2678401-2025-02-11?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Just not confident of HAL: IAF chief's strong words for Tejas-maker over delaysA video from the ongoing Aero India show, in which Air Chief Marshal AP Singh is seen expressing disappointment with the delays in the deliveries of the Tejas Mk1A fighter jets, has gone viral. \"At the moment, I am just not confident of Hal,\" he is heard telling officials of the Hindustan Aeronautics Ltd."
     },
     {
       "sentiment": "positive",
@@ -250,14 +250,14 @@
       "headline": "Defending the right to be stupid amid Ranveer Allahbadia stormAs most Indians were busy outraging over Ranveer Allahbadia's remarks on Samay Raina's YouTube show, humorists reminded us why free speech matters. Defending the right to be stupid isn't endorsing stupidity, it is protecting the right to free speech and expression."
     },
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/prashant-kishore-on-bihar-polls-2025-nitish-kumar-jdu-nda-bjp-2678369-2025-02-11?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Nitish Kumar physically tired, mentally retired: Prashant Kishor on Bihar pollsIn an interview with India Today TV, Prashant Kishor said that the NDA coalition in Bihar was presently \"at the mercy of BJP\" and Nitish Kumar has only remained as a \"mask\"."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/jaya-bachchan-says-cinema-being-targeted-appeals-to-government-2678433-2025-02-11?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
       "headline": "Have mercy: Jaya Bachchan says cinema being targeted, appeals to governmentJaya Bachchan urged Finance Minister Nirmala Sitharaman to provide solutions to help the film industry survive."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/soldier-jawan-killed-injured-ied-blast-jammu-kashmir-terrorists-2678336-2025-02-11?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "2 soldiers killed, 1 critical in Jammu after terrorists trigger IED blastAt least two soldiers were killed and one injured after a suspected improvised explosive device (IED) went off in the Akhnoor sector in Jammu and Kashmir on Tuesday, said the Indian Army."
     },
     {
       "sentiment": "positive",
@@ -271,6 +271,11 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/soldier-jawan-killed-injured-ied-blast-jammu-kashmir-terrorists-2678336-2025-02-11?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "2 soldiers killed, 1 critical in Jammu after terrorists trigger IED blastAt least two soldiers were killed and one injured after a suspected improvised explosive device (IED) went off in the Akhnoor sector in Jammu and Kashmir on Tuesday, said the Indian Army."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/pm-modi-ai-summit-address-paris-france-president-macron-tech-bigwigs-2678222-2025-02-11?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
       "headline": "AI writing code for humanity, global efforts needed to mitigate risks: PM Modi Live UpdatesPrime Minister Narendra Modi, addressing the AI Summit in Paris, highlighted AI's transformative potential in reshaping society, economy, and security, while calling for collective global efforts to establish transparent and inclusive technological governance. "
     },
@@ -281,23 +286,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/law-news/story/supreme-court-election-commission-plea-seeking-policy-on-verification-of-evm-delete-or-reload-data-2678276-2025-02-11?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Top court seeks poll body's response on EVM verification plea: 'Don't erase data'The Association for Democratic Reforms has filed a plea seeking directions to Election Commission to check and verify EVM's burnt memory and symbol loading unit."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india-today-insight/story/did-better-maternity-leave-disadvantage-indian-women-in-jobs-study-says-2678224-2025-02-11?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
       "headline": "Did better maternity leave disadvantage Indian women in jobs? Study says\u2026New research indicates after the 26-week paid maternity leave was mandated in 2017, women were 22 per cent less likely to get interview calls from smaller firms in India\r\n\r\n"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/uk-news/story/prince-william-kate-middleton-miss-2025-bafta-film-award-prince-of-wales-2678333-2025-02-11?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Prince William, Kate Middleton to skip BAFTA. Here's whyPrince William and Kate Middleton will miss the 2025 BAFTAs. The Prince of Wales will make a pre-recorded appearance during the ceremony.\r\n"
+      "url": "https://www.indiatoday.in/india/law-news/story/supreme-court-election-commission-plea-seeking-policy-on-verification-of-evm-delete-or-reload-data-2678276-2025-02-11?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Top court seeks poll body's response on EVM verification plea: 'Don't erase data'The Association for Democratic Reforms has filed a plea seeking directions to Election Commission to check and verify EVM's burnt memory and symbol loading unit."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/fact-check/story/fact-check-diljit-praised-up-administration-for-his-show-in-lucknow-not-mahakumbh-arrangements-2678385-2025-02-11?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Diljit praised UP administration for his show in Lucknow, not Maha Kumbh prepIn the complete 35-minute video, Diljit answered many questions but did not speak about the ongoing Mahakumbh Mela in Prayagraj."
+      "url": "https://www.indiatoday.in/world/uk-news/story/prince-william-kate-middleton-miss-2025-bafta-film-award-prince-of-wales-2678333-2025-02-11?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Prince William, Kate Middleton to skip BAFTA. Here's whyPrince William and Kate Middleton will miss the 2025 BAFTAs. The Prince of Wales will make a pre-recorded appearance during the ceremony.\r\n"
     },
     {
       "sentiment": "positive",
@@ -311,6 +311,11 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/fact-check/story/fact-check-diljit-praised-up-administration-for-his-show-in-lucknow-not-mahakumbh-arrangements-2678385-2025-02-11?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Diljit praised UP administration for his show in Lucknow, not Maha Kumbh prepIn the complete 35-minute video, Diljit answered many questions but did not speak about the ongoing Mahakumbh Mela in Prayagraj."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/education-today/featurephilia/story/safer-internet-day-deepfakes-may-soon-be-a-threat-in-hiring-and-online-learning-2678348-2025-02-11?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
       "headline": "Deepfakes in hiring and online learning: Can AI fool recruiters and teachers?Deepfakes are blurring reality, and have the potential to pose major risks in online education and hiring. As AI evolves, so must our awareness. This Safer Internet Day, let's know more and prioritise digital literacy and ethical AI use."
     },
@@ -318,11 +323,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/education-today/news/story/jee-main-session-1-result-2025-direct-link-details-more-2678308-2025-02-11?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
       "headline": "JEE Main 2025 Session 1 results out. Check direct link to scorecardThe NTA has released JEE Main 2025 Session 1 results. A total of 14 candidates secured 100 percentile marks. Check your result now on the official website using the direct link."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/swati-maliwal-arvind-kejriwal-money-looted-from-punjab-coming-to-delhi-allegation-2678376-2025-02-11?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Money looted from Punjab now coming to Delhi? Swati Maliwal slams Arvind KejriwalSwati Maliwal also questioned Arvind Kejriwal calling an urgent meeting of AAP legislators in Punjab, just days after the Delhi drubbing. "
     },
     {
       "sentiment": "positive",
