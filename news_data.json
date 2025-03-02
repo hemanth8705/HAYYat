@@ -1,6 +1,11 @@
 {
   "business": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/story/adani-group-revives-us-investment-plans-amid-ongoing-bribery-case-2687686-2025-03-02",
+      "headline": "Adani Group revives US investment plans amid ongoing bribery case: ReportFor now, Adani Group's US footprint remains minimal. Past talks with American companies about petrochemical projects in Texas never led to major deals."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/paytm-fema-violation-notice-company-filing-financial-watchdog-nearbuy-india-little-internet-2687569-2025-03-01",
       "headline": "Paytm clarifies FEMA allegations on acquired subsidiaries. Details hereThe company is seeking legal advice and will take necessary steps to resolve the matter through appropriate regulatory processes in line with applicable laws."
@@ -194,11 +199,6 @@
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/story/government-seeks-to-cut-states-share-of-central-taxes-explained-check-impact-2686346-2025-02-27",
       "headline": "Government seeks to cut states' share of central taxes: ReportBased on the expected tax collections for the ongoing financial year, a 1% swing in the states' share of tax revenue could give the central government about Rs 3,500 crore."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/sensex-nifty-tumble-4-percent-this-month-should-share-market-investors-be-worried-2686334-2025-02-27",
-      "headline": "Sensex, Nifty tumble 4% this month: Should share market investors be worried? Brokerage firm Emkay Global said falling prices make market investors nervous, but there are good signs too. The RBI lowering risk for NBFCs and micro-borrowers helps, and Nifty is now priced better at around 22,500."
     }
   ],
   "entertainment": [
@@ -261,9 +261,154 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/ek-badnaam-aashram-3-part-2-review-bobby-deol-aaditi-pohankar-prakash-jha-chandan-roy-sanyal-2686921-2025-02-28",
       "headline": "Ek Badnaam Aashram 3 part 2 review: Baba Nirala's journey meets a dramatic endReleased-Thu Feb 27, 2025Prakash Jha's most anticipated series, Aashram Season 3 Part 2, is currently streaming on MX Player. The series focusses on Baba Nirala's fate and how his entire kingdom crashes down because of Pammi's quest for revenge. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/dabba-cartel-review-shabana-azmi-and-gang-will-make-your-jaws-drop-with-boredom-2686950-2025-02-28",
+      "headline": "Dabba Cartel review: Shabana Azmi is a silent lioness in a challenging storyReleased-Fri Feb 28, 2025'Dabba Cartel' is supposed to be a powerful story of five women who team up to run a cartel in Mumbai. But, the Netflix series ends up becoming a mushy pie. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/music/story/g-dragon-ubermensch-album-is-out-a-long-overdue-masterpiece-2686904-2025-02-28",
+      "headline": "G-Dragon's \u00dcbermensch album is out: A long-overdue masterpieceK-pop King G-Dragon is back with a new album after over a decade. Titled \u00dcbermensch, the album is a long-overdue masterpiece the fans deserved. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/music/story/japanese-woman-summoned-for-kissing-bts-jin-without-consent-2686884-2025-02-28",
+      "headline": "Japanese woman summoned for kissing BTS' Jin without consentA Japanese woman has been summoned by the South Korean police after she kissed BTS member Jin without his consent during a fan event held last summer. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/suzhal-the-vortex-2-review-pushkar-gayathri-crime-drama-is-trapped-in-the-vortex-of-cliches-aishwarya-rajesh-kathir-2686874-2025-02-28",
+      "headline": "Suzhal The Vortex 2 review: This crime-drama is trapped in the vortex of clichesReleased-Fri Feb 28, 2025Suzhal - The Vortex 2 review: Created by Pushkar and Gayatri, Suzhal - The Vortex 2 is a crime drama that suffers from overstuffed ideas. The show has interesting ideas, but it gets lost in the overstretched screenplay.\r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/meghan-markle-discusses-food-music-and-korea-in-new-glimpse-of-with-love-meghan-2686840-2025-02-28",
+      "headline": "Meghan Markle discusses food, music and Korea in new glimpse of 'With Love, Meghan'Meghan Markle and chef Roy Choi bond over food and the culture of South Korea as they discuss Karoake bars and music in the new promo for her Netflix show, 'With Love, Meghan'. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/music/story/composer-pritam-thanks-mumbai-police-for-arresting-studio-theft-culprit-2686604-2025-02-27",
+      "headline": "Composer Pritam thanks Mumbai Police for arresting studio theft culpritMusic composer Pritam expressed gratitude towards the Mumbai Police for capturing the suspect involved in a Rs 40 lakh theft from his studio. He praised their efforts in a heartfelt Instagram post."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/the-boys-5-supernatural-actors-jensen-ackles-jared-padalecki-misha-collins-to-reunite-2686488-2025-02-27",
+      "headline": "The Boys 5: Supernatural actors Jensen Ackles, Jared Padalecki to reuniteThe Boys Season 5 will be an exciting reunion as Soldier Boy Jensen Ackles will be joined by his Supernatural co-stars Jared Padalecki and Misha Collins."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/suits-la-review-sass-swag-and-secrets-in-a-soggy-spin-off-2686399-2025-02-27",
+      "headline": "Suits LA review: Sass, swag and secrets in a soggy spin-offReleased-Mon Feb 24, 2025'Suits LA' has the flavour of the original 'Suits', but Teddy Black is no Harvey Spector, and you will be reminded of it, despite all the pizazz in the show. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/music/story/oscar-nominated-savan-kotecha-to-find-indias-first-global-boy-band-2686383-2025-02-27",
+      "headline": "Oscar-nominated Savan Kotecha to find India's first global boy bandSavan Kotecha is launching a nationwide hunt for India's first global boy band. Partnering with Universal Music, he aims to build a teen pop economy and create Indian stars for the world stage."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/undercover-high-school-review-korean-main-hoon-na-with-more-thrills-2686314-2025-02-27",
+      "headline": "Undercover High School review: Korean 'Main Hoon Na' with more thrillsReleased-Fri Feb 21, 2025Undercover High School review: It is a thrilling Korean series blending action and comedy, reminiscent of 'Main Hoon Na', where a disgraced spy navigates high school challenges while on a mission to find missing gold."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/o-saathi-re-new-netflix-show-imtiaz-ali-aditi-rao-hydari-avinash-tiwary-arjun-rampal-2686276-2025-02-27",
+      "headline": "O Saathi Re: Imtiaz Ali's Netflix series is a modern story with a vintage heartNetflix has released the first look of its new series O Saathi Re, starring Avinash Tiwary, Aditi Rao Hydari, and Arjun Rampal. The series, directed by Arif Ali, will be an 'ode to vintage love in modern times'."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/prajakta-koli-hilarious-dance-mere-husband-mujhko-piyar-nahi-karte-at-sangeet-watch-2686265-2025-02-27",
+      "headline": "Prajakta Koli hilariously dances to 'Mere Husband Mujhko Piyar\u2026' at sangeet. WatchPrajakta Koli danced to Mere Husband Mujhko Piyar Nahin Karte at her sangeet, leaving guests in splits. She married Vrishank Khanal in Karjat on February 25. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/music/story/kj-yesudas-hospitalised-chennai-old-age-2686238-2025-02-27",
+      "headline": "Vijay Yesudas reacts to fake news about father Yesudas's hospitalisationReports were rife that playback singer Yesudas was hospitalised in Chennai due to age-related illness. His son and playback singer Vijay Yesudas exclusively spoke to India Today and shut down the rumours."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/sex-education-actor-alexander-westwood-jailed-for-15-years-for-multiple-sex-offenses-2685969-2025-02-26",
+      "headline": "Sex Education actor Alexander Westwood jailed for 15 years for sex offencesSex Education actor Alexander Westwood received a 15-year prison sentence for multiple sex offenses. The case has captured widespread media attention due to Westwood's role in the popular Netflix show."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/aashram-3-part-1-ending-explained-pammi-aaditi-pohankar-revenge-baba-nirala-bobby-deol-prakash-jha-2685961-2025-02-26",
+      "headline": "Aashram 3 Part 1 ending explained: Will Pammi's revenge end Baba Nirala's reign?With Aashram Season 3 Part 2 releasing on February 27, let us take a look at how the season ended on a cliffhanger with Baba Nirala's misuse of power and a change in dynamics. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/music/story/amit-trivedi-jasleen-royal-criticism-coldplay-opening-one-bad-act-wont-damage-reputation-of-indian-2685917-2025-02-26",
+      "headline": "Amit Trivedi says Jasleen Royal's opening act for Coldplay was 'unfortunate'Amit Trivedi, in an interview with India Today Digital, discussed the controversy over Jasleen Royal's opening act for Coldplay's India tour and whether it would impact on the image of Indian artists."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/entertainment/music/story/rapper-kanye-west-trying-to-save-marriage-with-bianca-censori-report-2685911-2025-02-26",
+      "headline": "Rapper Kanye West trying to save marriage with Bianca Censori: ReportKanye West is reportedly trying to prevent his marriage with Bianca Censori from ending. An insider reveals that Bianca is considering divorce, and Kanye is panicking."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/music/story/euphoria-palash-sen-akshay-kumar-bollywood-mahakal-chalo-mahashivratri-2685899-2025-02-26",
+      "headline": "Singer Palash Sen on working with Akshay Kumar, not being 'accepted' by BollywoodEuphoria's lead vocalist Palash Sen spoke to India Today Digital about collaborating with Bollywood star Akshay Kumar on the song Mahakal Chalo, work opportunities in the Hindi film industry, and more in an exclusive interaction. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/television/story/aman-verma-vandana-lalwani-separate-9-years-of-marriage-2685910-2025-02-26",
+      "headline": "Actors Aman Verma and Vandana Lalwani to separate after 9 years of marriageActors Aman Verma and Vandana Lalvani are separating after nine-years of marriage. Amid growing speculation, Aman has addressed the rumours about their relationship. \r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/television/story/baalveer-actor-dev-joshi-marries-girlfriend-aarti-first-pics-out-2685838-2025-02-26",
+      "headline": "Baalveer actor Dev Joshi marries girlfriend Aarti, first pics outBaalveer actor Dev Joshi married his girlfriend Aarti in a beautiful ceremony. The wedding festivities, including haldi and mehndi, were spectacular and captured in stunning photos."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/be-happy-abhishek-bachchan-inayat-verma-prime-video-series-release-date-2685817-2025-02-26",
+      "headline": "Be Happy: Abhishek Bachchan, Inayat Verma series to stream in MarchThe streaming date of Abhishek Bachchan and Inayat Verma-starrer Be Happy is out. It promises to be a touching film about a single father's journey to support his daughter's dream of performing on a dance reality show."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/a-man-on-the-inside-review-ted-danson-netflix-charming-comedy-2685801-2025-02-26",
+      "headline": "A Man on the Inside: Ted Danson's charming comedy deserves more loveA Man on the Inside is a warm and witty series which tackles multiple subjects, including loss, new beginnings and, well, crime. The Ted Danson-starrer is currently streaming on Netflix. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/music/story/shreya-ghoshal-chikni-chameli-embarrassed-when-5-year-old-girls-sing-it-2685777-2025-02-26",
+      "headline": "Shreya Ghoshal on Chikni Chameli: Embarrassed when 5-year-old girls sing itShreya Ghoshal says she feels embarrassed when young girls sing Chikni Chameli, stressing that lyrics should be written more thoughtfully, as music and films have a deep impact on society."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/entertainment/television/story/hina-khan-updates-fans-about-cancer-treatment-my-chemo-and-surgery-are-over-2685753-2025-02-26",
+      "headline": "Hina Khan updates fans about cancer treatment: My chemo and surgery are overHina Khan recently gave an update about her cancer treatment. The actor mentioned that her chemotherapy and surgery are over. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/tanmay-bhat-jokes-about-ranveer-allahbadia-ignoring-his-texts-2685715-2025-02-26",
+      "headline": "Tanmay Bhat jokes about Ranveer Allahbadia ignoring his textsTanmay Bhat hilariously addressed the India's Got Latent controversy, joking about Ranveer Allahbadia ignoring his texts. The reaction video left fellow comedians laughing and also \"triggered\" them."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/music/video/singer-udit-narayan-visits-maha-kumbh-mela-with-wife-expresses-gratitude-2685597-2025-02-25",
+      "headline": "Singer Udit Narayan visits Maha Kumbh Mela with wife, expresses gratitude Singer Udit Narayan was among the latest celebrities to visit the holy city of Prayagraj for Maha Kumbh 2025. In an interview with ANI, he expressed his gratitude and congratulated Chief Minister Yogi Adityanath for the well-organised and efficient arrangements."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/my-dearest-nemesis-review-moon-ga-young-choi-hyun-wook-2685507-2025-02-25",
+      "headline": "My Dearest Nemesis review: Chaotic chemistry makes even familiar trope workMy Dearest Nemesis features K-drama stars Moon Ga young and Choi Hyun-wook in the lead. It is available to stream on Viki. Here's our take on the romantic drama. "
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/entertainment/television/story/internet-calls-farah-khan-insensitive-for-mocking-gaurav-khannas-colour-blindness-celebrity-masterchef-2685266-2025-02-25",
+      "headline": "Internet calls Farah Khan 'insensitive' for mocking Gaurav Khanna's colour blindnessCelebrity MasterChef judge Farah Khan mocked TV actor Gaurav Khanna's colour blindness on the show. Following the same, the internet is outraged by her comments, criticising the filmmaker and calling her 'insensitive'. "
     }
   ],
   "general news": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/uttarakhand-avalanche-race-to-rescue-4-trapped-advanced-drones-to-be-deployed-2687677-2025-03-02#?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Uttarakhand avalanche: Race to rescue 4 trapped, advanced drones to be deployedA massive avalanche hit a BRO camp near Mana village in Uttarakhand's Chamoli, burying 54 workers. Rescue teams have saved 50, but four died. The search continues for four missing labourers using advanced technology and aerial support."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/ukraines-zelenskyy-loan-deal-uk-keir-starmer-meeting-showdown-donald-trump-white-house-2687642-2025-03-02#?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
@@ -273,11 +418,6 @@
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/haryana-congress-worker-himani-narwal-body-suitcase-rohtak-bus-stand-police-case-party-probe-2687626-2025-03-02#?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
       "headline": "Congress worker's body found in suitcase in Rohtak day before Haryana civic pollsThe body of 22-year-old Congress worker Himani Narwal was found stuffed in a suitcase in Haryana's Rohtak, prompting the police to launch an investigation and file a case. The party demanded a high-level probe into the matter."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/indian-american-entrepreneur-vivek-ramaswamy-barefoot-interview-trolled-online-where-are-your-socks-2687654-2025-03-02#?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Vivek Ramaswamy faces online vitriol over barefoot interview: 'Third-world uncle'The interview was held at the 39-year-old Harvard graduate's residence last year. But the resurfaced images sparked a wave of negative comments, with some even saying, \"we aren't in India\"."
     },
     {
       "sentiment": "positive",
@@ -296,8 +436,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/saw-deluge-of-snow-rolling-towards-us-survivors-share-uttarakhand-avalanche-horror-2687652-2025-03-02#?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Saw deluge of snow rolling towards us: Survivors share Uttarakhand avalanche horrorUttarakhand avalanche survivors documented that they waded through 'feet-thick' snow to escape. Most of the rescued workers suffered back, head injuries."
+      "url": "https://www.indiatoday.in/world/us-news/story/indian-american-entrepreneur-vivek-ramaswamy-barefoot-interview-trolled-online-where-are-your-socks-2687654-2025-03-02#?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Vivek Ramaswamy faces online vitriol over barefoot interview: 'Third-world uncle'The interview was held at the 39-year-old Harvard graduate's residence last year. But the resurfaced images sparked a wave of negative comments, with some even saying, \"we aren't in India\"."
     },
     {
       "sentiment": "negative",
@@ -306,13 +446,33 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/all-eyes-on-the-moon-nasas-private-blue-ghost-to-land-on-the-moon-today-2687439-2025-03-02#?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Nasa's Blue Ghost to make historic landing on the Moon todayFirefly Aerospace's Blue Ghost is scheduled to touch down in Mare Crisium, a vast lunar plain on the near side of the Moon. "
+      "url": "https://www.indiatoday.in/lifestyle/society/story/why-some-indian-parents-are-homeschooling-their-kids-2687164-2025-03-02#?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Why some Indian parents are homeschooling their kidsHomeschooling is an alternative form of education where parents or guardians take direct responsibility for teaching their children at home instead of sending them to a traditional school."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/story/adani-group-revives-us-investment-plans-amid-ongoing-bribery-case-2687686-2025-03-02#?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Adani Group revives US investment plans amid ongoing bribery case: ReportFor now, Adani Group's US footprint remains minimal. Past talks with American companies about petrochemical projects in Texas never led to major deals."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/chhattisgarh/story/chhattisgarh-bilaspur-mayor-puja-vidhani-bjp-oath-taking-faux-pas-swears-uphold-communalism-2687667-2025-03-02#?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
       "headline": "Video: Bilaspur mayor's oath faux pas, swears to uphold 'communalism'Puja Vidhani was elected the Mayor of Bilaspur after the ruling BJP registered a landslide victory in the recently-held urban body polls in Chhattisgarh. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/champions-trophy-cricket-virat-kohli-sachin-tendulkar-record-2687681-2025-03-02#?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Never write him off: Ponting backs Kohli to match Tendulkar's ODI recordChampions Trophy 2025: Former Australian skipper Ricky Ponting said that if Virat Kohli can stay hungry and fit, he can go on to break Sachin Tendulkar's record for most runs in ODI cricket. \r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/all-eyes-on-the-moon-nasas-private-blue-ghost-to-land-on-the-moon-today-2687439-2025-03-02#?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Nasa's Blue Ghost to make historic landing on the Moon todayFirefly Aerospace's Blue Ghost is scheduled to touch down in Mare Crisium, a vast lunar plain on the near side of the Moon. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/saw-deluge-of-snow-rolling-towards-us-survivors-share-uttarakhand-avalanche-horror-2687652-2025-03-02#?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Saw deluge of snow rolling towards us: Survivors share Uttarakhand avalanche horrorUttarakhand avalanche survivors documented that they waded through 'feet-thick' snow to escape. Most of the rescued workers suffered back, head injuries."
     },
     {
       "sentiment": "positive",
@@ -331,33 +491,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/dismembered-body-of-girl-found-near-police-station-in-up-parents-cry-murder-2687649-2025-03-02#?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Dismembered body of girl, 5, found near police station in UP; parents cry murderMutilated body parts of a 5-year-old girl, who was missing since February 25, was found in fields near a police station in Sitapur. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/israel-us-plan-temporary-ceasefire-gaza-war-hamas-rejects-proposal-hostage-release-2687647-2025-03-02#?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Israel agrees on US plan to extend Gaza ceasefire, Hamas rejects proposalIsrael has agreed to a US proposal\u00a0for a temporary ceasefire in Gaza for the Ramadan and Passover periods, a move rejected by Hamas, hours after the first phase of the truce deal was to expire."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/telangana/story/telangana-tunnel-collapse-4-trapped-men-located-survival-chance-1-2687602-2025-03-01#?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Telangana tunnel collapse: 4 trapped men located, survival chance '1%'Asked about the condition of the four whose whereabouts have been found, a Telangana minister recalled he had said on the first day itself that the chances of survival of the trapped persons are remote."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/hrithik-roshan-farhan-akhtar-abhay-deol-zindagi-na-milegi-dobara-2687485-2025-03-01#?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Hrithik Roshan collaborates with Farhan, Abhay: Took time, but we finally said YASZindagi Na Milegi Dobara gang Hrithik Roshan, Abhay Deol and Farhan Akhtar reunited for a fun project. The actors shared a picture with each other on Saturday, sparking buzz about the film's highly-anticipated sequel. "
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/interactive/quiz/entertainment/weekly-quiz-452-28-02-2025#?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
       "headline": "Question Time: Weekly News QuizThink you read the headlines this week? Let's test that!"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/delhi-government-launch-rs-2500-for-women-financial-aid-scheme-aap-2687527-2025-03-01#?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Delhi to roll out Rs 2,500 scheme for women on March 8? Here's what BJP saidThe Delhi BJP is going to organise a gathering of around 5,000 Delhi women at the Jawaharlal Nehru Stadium on International Women's Day on March 8 and the rollout of the scheme is expected to be announced. "
+      "url": "https://www.indiatoday.in/world/story/israel-us-plan-temporary-ceasefire-gaza-war-hamas-rejects-proposal-hostage-release-2687647-2025-03-02#?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Israel agrees on US plan to extend Gaza ceasefire, Hamas rejects proposalIsrael has agreed to a US proposal\u00a0for a temporary ceasefire in Gaza for the Ramadan and Passover periods, a move rejected by Hamas, hours after the first phase of the truce deal was to expire."
     },
     {
       "sentiment": "positive",
@@ -370,19 +510,29 @@
       "headline": "At sold-out Delhi concert, Honey Singh vows to bring Grammys to India. WatchAt his Delhi concert, Honey Singh wowed fans with his hits and vowed to bring a Grammy to India, inspired by AR Rahman's Oscars win. He also expressed his deep love for Delhi and its people."
     },
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/dismembered-body-of-girl-found-near-police-station-in-up-parents-cry-murder-2687649-2025-03-02#?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Dismembered body of girl, 5, found near police station in UP; parents cry murderMutilated body parts of a 5-year-old girl, who was missing since February 25, was found in fields near a police station in Sitapur. "
+    },
+    {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/jadavpur-university-protest-bengal-minister-bratya-basu-attacked-students-elections-2687572-2025-03-01#?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Bengal minister heckled, his car damaged during protest at Jadavpur UniversityWest Bengal Education Minister Bratya Basu was trapped in a two-hour standoff at Jadavpur University as student protesters vandalised his vehicle, demanding immediate student union elections."
+      "url": "https://www.indiatoday.in/india/telangana/story/telangana-tunnel-collapse-4-trapped-men-located-survival-chance-1-2687602-2025-03-01#?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Telangana tunnel collapse: 4 trapped men located, survival chance '1%'Asked about the condition of the four whose whereabouts have been found, a Telangana minister recalled he had said on the first day itself that the chances of survival of the trapped persons are remote."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/gk-current-affairs/story/marathas-mughals-and-british-the-treaties-of-purandar-that-reshaped-indian-history-2687469-2025-03-01#?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Marathas, Mughals and British: The treaties of Purandar that reshaped Indian historyThe two Treaties of Purandar, signed over a century apart, shaped Indian history. The first, in 1665, was a setback for the Marathas against the Mughals but did not halt their rise. The second, in 1776, exposed internal conflicts, allowing British interference. "
+      "url": "https://www.indiatoday.in/movies/celebrities/story/hrithik-roshan-farhan-akhtar-abhay-deol-zindagi-na-milegi-dobara-2687485-2025-03-01#?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Hrithik Roshan collaborates with Farhan, Abhay: Took time, but we finally said YASZindagi Na Milegi Dobara gang Hrithik Roshan, Abhay Deol and Farhan Akhtar reunited for a fun project. The actors shared a picture with each other on Saturday, sparking buzz about the film's highly-anticipated sequel. "
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/pope-francis-stable-and-vigilant-has-no-further-breathing-issues-vatican-2687650-2025-03-02#?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Pope Francis stable and vigilant, has no further breathing issues: VaticanPope Francis, 88, who has been battling\u00a0double pneumonia in hospital for over two weeks, is in a stable condition, vigilant and has not faced any further breathing issues, the Vatican said."
+      "url": "https://www.indiatoday.in/movies/hollywood/story/harrison-ford-to-miss-oscars-2025-after-being-diagnosed-with-shingles-2687691-2025-03-02",
+      "headline": "Harrison Ford to miss Oscars 2025 after being diagnosed with shinglesHarrison Ford, 82, will skip the 97th Academy Awards due to shingles. He was set to present at the event on March 3. Conan O'Brien will host the ceremony. It will air in India on Jio Hotstar and Star Movies."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/mika-singh-on-why-bipasha-basu-karan-singh-grover-are-out-of-work-2687682-2025-03-02",
+      "headline": "Mika Singh on why Bipasha Basu is 'out of work': The drama she created...Mika Singh revealed he quit refrains from producing a film after facing issues with Bipasha Basu on the web series Dangerous. He claimed Bipasha and Karan Singh Grover are 'out of work' now because of the tough time they gave him on Dangerous."
     },
     {
       "sentiment": "positive",
@@ -393,19 +543,19 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/music/story/honey-singh-set-to-perform-in-delhi-excited-fans-rush-into-venue-2687561-2025-03-01",
       "headline": "Honey Singh set to perform in Delhi, excited fans rush to the venueSinger and rapper Honey Singh is set to perform in Delhi today as part of his ongoing Millionaire India tour. Ahead of the concert, excited fans were seen rushing to the venue as soon as the gates opened. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/ibrahim-ali-khan-steals-the-show-in-nadaaniyan-trailer-with-khushi-kapoor-2687534-2025-03-01",
-      "headline": "Ibrahim Ali Khan steals the show in Nadaaniyan trailer, fans call him 'born actor'Ibrahim Ali Khan is making waves with his performance in the Nadaaniyan trailer. Ibrahim is making his debut with the film, releasing on Netflix on March 7. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/music/story/honey-singh-on-online-negativity-against-him-ive-been-here-before-youtube-existed-2687499-2025-03-01",
-      "headline": "Honey Singh on online negativity against him: I've been here before YouTube existedSinger and rapper Honey Singh took a dig at those spreading negativity about him through YouTube podcasts. During his Lucknow concert last night, he also spoke about his lifestyle changes."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/champions-trophy-arshdeep-singh-in-mohammed-shami-injury-india-vs-new-zealand-zaheer-khan-2687687-2025-03-02",
+      "headline": "Arshdeep in, no risk needed with Shami vs New Zealand: Zaheer KhanZaheer Khan believes India should rest Mohammed Shami against New Zealand and give Arshdeep Singh a chance, considering Shami's minor injury scare and Arshdeep's impressive T20I form ahead of the Champions Trophy."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/champions-trophy-cricket-virat-kohli-sachin-tendulkar-record-2687681-2025-03-02",
+      "headline": "Never write him off: Ponting backs Kohli to match Tendulkar's ODI recordChampions Trophy 2025: Former Australian skipper Ricky Ponting said that if Virat Kohli can stay hungry and fit, he can go on to break Sachin Tendulkar's record for most runs in ODI cricket. \r\n"
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/video/champions-trophy-south-africa-aiden-markram-injury-not-feeling-well-marco-jansen-2687671-2025-03-02",
@@ -447,14 +597,14 @@
       "headline": "WPL: Delhi peak at the right time, qualify for playoffs after hammering RCBDelhi Capitals handed Royal Challengers Bangalore their fourth consecutive defeat with a dominant nine-wicket victory on Saturday, March 1. The win helped DC qualify for the playoffs this season."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/story/fa-cup-crystal-palace-vs-millwall-mateta-tackle-roberts-2687603-2025-03-01",
-      "headline": "'Most reckless tackle in football history' sends Mateta to hospitalCrystal Palace footballer Jean-Philippe Mateta was knocked out cold in the FA Cup after a horrifying tackle from Liam Roberts on Saturday. Many fans on social media called it the worst tackle that they had ever seen on a football pitch."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/champions-trophy-england-exit-india-odi-series-good-preparation-brendon-mccullum-2687656-2025-03-02",
+      "headline": "India series was good for Champions Trophy preparation: England coach McCullumBrendon McCullum admitted England's Champions Trophy exit was tough but emphasized their ODI series against India as valuable preparation. With Jos Buttler stepping down, England now face crucial decisions regarding leadership and rebuilding their white-ball setup."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/karun-nair-ranji-trophy-final-vidarbha-vs-kerala-2687594-2025-03-01",
-      "headline": "Not the right person to ask: Vidarbha hero Karun Nair on national team call-upVidarbha batter Karun Nair scored a century in the second innings of the Ranji Trophy Final. Asked about a potential call-back in the Indian team, Nair said that he was not the right person to answer this question.\r\n"
+      "url": "https://www.indiatoday.in/sports/cricket/story/champions-trophy-cricket-rohit-sharma-india-vs-new-zealand-ind-vs-nz-rohit-sharma-vs-matt-henry-2687619-2025-03-02",
+      "headline": "After Virat Kohli, can Rohit Sharma light up Champions Trophy?India captain Rohit Sharma would want to have a big score against his name as India take on New Zealand in the ICC Champions Trophy 2025 on Sunday, March 1 in Dubai. The opening batter has scored 61 runs in the first two matches and a big knock from his bat hold India in good stead ahead of the semi finals."
     },
     {
       "sentiment": "positive",
@@ -513,13 +663,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/video/champions-trophy-cricket-former-pakistan-players-should-lift-their-team-up-instead-of-criticising-says-sunil-gavaskar-2687550-2025-03-01",
-      "headline": "Former Pakistan players should lift their team up instead of criticising: GavaskarLegendary India cricketer Sunil Gavaskar feels former Pakistan cricketers should think more about lifting their team up instead of criticising them vehemently. Pakistan got knocked out of the Champions Trophy 2025 without registering a single win in the tournament."
+      "url": "https://www.indiatoday.in/sports/cricket/story/champions-trophy-virat-kohli-india-vs-new-zealand-varun-aaron-2687590-2025-03-01",
+      "headline": "Virat Kohli's only competition is himself: Varun AaronIndia are set to play New Zealand in the final group-stage match of their Champions Trophy campaign. Virat Kohli will be in focus after scoring a stunning hundred in his final game.\r\n"
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/cricket/story/champions-trophy-england-vs-south-africa-black-cat-invades-field-karachi-2687546-2025-03-01",
-      "headline": "Watch: Karachi black cat invades field once again during England vs South AfricaThe infamous Karachi black cat invaded the National Stadium once again during the England vs South Africa game on Saturday, March 1. The cat appeared on the field while South Africa were batting. "
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/video/champions-trophy-can-pakistan-get-one-thing-right-in-the-champions-trophy-2687575-2025-03-01",
+      "headline": "Can Pakistan get one thing right in the Champions Trophy?Thirty minutes of rain washed out the contest between Afghanistan and Australia in the Champions Trophy. Why have Pakistan got so many things wrong in the return of ICC tournament in the country?"
     },
     {
       "sentiment": "positive",
@@ -590,16 +740,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/story/chess-d-gukesh-ranking-fide-ratings-d-gukesh-2687484-2025-03-01",
       "headline": "D Gukesh climbs to career-high FIDE rating, Pragg back in Top 10World Champion D Gukesh climbed to his career-high ranking of No.3 in the FIDE rankings on Saturday, March 1. Gukesh gained 10 points, and now has a rating of 2787."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/champions-trophy-india-vs-new-zealand-mohammed-shami-rested-arshdeep-singh-dubai-2687472-2025-03-01",
-      "headline": "IND vs NZ: Mohammed Shami to be rested for clash, Arshdeep Singh to come inIndia are all set to give Mohammed Shami a rest for the clash against New Zealand as the pacer recovers from a knock. Arshdeep Singh is expected to relace Shami for the contest in Dubai on Sunday, March 2. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/cricket-iml-2025-kumar-sangakkara-wicketkeeping-sri-lanka-2687471-2025-03-01",
-      "headline": "Watch: 47-year-old Kumar Sangakkara makes stunning acrobatic stop IML 2025: Kumar Sangakkara took fans down the memory lane with some incredible piece of wicketkeeping during the match on February 26 between Sri Lanka and South Africa. "
     }
   ],
   "education": [
@@ -662,6 +802,26 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/education/story/the-power-of-knowledge-educations-influence-on-real-estate-market-trends-2516316-2024-03-18",
       "headline": "The power of knowledge: Education's influence on real estate market trendsIn a dynamic sector like real estate, investing in continuing education is not simply an option; it is a requirement."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/jnu-students-body-election-on-march-22-after-4-years-2513140-2024-03-11",
+      "headline": "JNU students' body election on March 22 after 4 yearsThe Jawaharlal Nehru University Students' Union (JNUSU) polls will take place on March 22, more than four years after the last elections were held in September 2019."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/up-12th-board-exam-math-biology-question-papers-leaked-on-whatsapp-uttar-pradesh-2508890-2024-03-01",
+      "headline": "UP 12th board exam math, biology papers leaked on WhatsApp, complaint filedThe mathematics and biology question papers for the Uttar Pradesh class 12 board exam were allegedly leaked on a WhatsApp group."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/education/story/uttar-pradesh-police-constable-recruitment-exam-cancelled-after-paper-leak-re-examination-in-6-months-2506566-2024-02-24",
+      "headline": "UP Police Constable recruitment exam cancelled days after paper leakThe Uttar Pradesh Police Constable recruitment exam held on February 17 and 18 was canceled due to a paper leak. The Chief Minister has announced a re-examination within the next six months."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/magazine/education/story/20110815-indias-best-universities-jawaharlal-nehru-university-747159-2011-08-06",
+      "headline": "Jawaharlal Nehru University: Brains trustTeaching and research go hand in hand at the institute which is proud of its activist tradition."
     }
   ]
 }
