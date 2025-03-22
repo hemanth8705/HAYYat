@@ -63,6 +63,11 @@
   ],
   "entertainment": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/entertainment/television/story/mahira-sharma-on-dating-rumours-mohammed-siraj-2697365-2025-03-22",
+      "headline": "Mahira Sharma shuts down dating rumours with cricketer Mohammed SirajMahira Sharma has addressed rumours of a romantic relationship with cricketer Mohammed Siraj. Both have issued statements debunking the claims, urging an end to such speculations."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/avneet-kaur-once-beat-up-a-boy-with-bat-for-misbehaving-on-holi-2697352-2025-03-22",
       "headline": "Avneet Kaur once beat up a boy with bat for misbehaving on Holi: He deserved itAvneet Kaur recalled beating up a boy for misbehaving with her on Holi, being bullied at school, and facing misconceptions about her attitude. She is gearing up for the release of Love in Vietnam, India-Vietnam's first film collaboration."
@@ -151,11 +156,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/netflixs-adolescence-soars-to-243-million-views-in-just-four-days-glbs-2697184-2025-03-21",
       "headline": "Netflix's 'Adolescence' soars to 24.3 million views in just four daysNetflix's crime drama Adolescence became a breakout hit with 24.3 million views, exploring a teen accused of murder. Its slow-burning tension, emotional depth, and realistic storytelling make it a must-watch.\r\n"
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/movies/hollywood/story/disneys-snow-white-controversies-delays-box-office-uncertainty-glbs-2697129-2025-03-21",
-      "headline": "Disney's Snow White: Controversies, delays & box office uncertaintyDisney's live-action Snow White faced delays, controversies, and budget woes. Casting backlash, political disputes, and a $270 million cost led to low confidence and uncertain box office projections.\r\n"
     }
   ],
   "general news": [
@@ -166,18 +166,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/lebanon-prime-minister-warns-of-new-war-after-israeli-strikes-in-response-to-cross-border-rocket-launch-2697349-2025-03-22#?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Lebanon warns of 'new war' after Israel retaliates with heavy airstrikesThe fresh escalation, which has again brought the Middle East to a boil, came after rockets were launched from Lebanon towards northern Israel."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/sunita-williams-butch-wilmore-overtime-pay-annual-salary-nasa-astronauts-donald-trump-2697312-2025-03-22#?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
       "headline": "Trump told Sunita Williams will get just Rs 430 per day for overtime. He reactsSunita Williams and Butch Wilmore spent an additional 278 days in space after their week-long mission in June last year turned into a nine-month ordeal. Here is how much they will get in overtime pay."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/elon-musk-reacts-as-ai-chatbot-groks-hindi-abuses-stir-controversy-in-india-2697300-2025-03-22#?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Elon Musk reacts to his AI chatbot Grok's Hindi slang controversy in IndiaSharing a BBC article titled \"Why Elon Musk's Grok is kicking up a storm in India,\" the tech magnate reacted with a laughing-out-loud emoji. His post garnered millions of views within a few hours."
+      "url": "https://www.indiatoday.in/india/story/lebanon-prime-minister-warns-of-new-war-after-israeli-strikes-in-response-to-cross-border-rocket-launch-2697349-2025-03-22#?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Lebanon warns of 'new war' after Israel retaliates with heavy airstrikesThe fresh escalation, which has again brought the Middle East to a boil, came after rockets were launched from Lebanon towards northern Israel."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/bjp-mp-baijayant-panda-selfie-shashi-tharoor-cryptic-post-sparks-buzz-2697325-2025-03-22#?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "BJP MP's 'mischievous' post on Shashi Tharoor: Travelling in same directionJay Panda, who is the BJP vice president, said they were 'finally travelling in the same direction', drawing a swift clarification from Shashi Tharoor."
     },
     {
       "sentiment": "positive",
@@ -186,8 +186,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/bjp-mp-baijayant-panda-selfie-shashi-tharoor-cryptic-post-sparks-buzz-2697325-2025-03-22#?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "BJP MP's 'mischievous' post on Shashi Tharoor: Travelling in same directionJay Panda, who is the BJP vice president, said they were 'finally travelling in the same direction', drawing a swift clarification from Shashi Tharoor."
+      "url": "https://www.indiatoday.in/india/story/elon-musk-reacts-as-ai-chatbot-groks-hindi-abuses-stir-controversy-in-india-2697300-2025-03-22#?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Elon Musk reacts to his AI chatbot Grok's Hindi slang controversy in IndiaSharing a BBC article titled \"Why Elon Musk's Grok is kicking up a storm in India,\" the tech magnate reacted with a laughing-out-loud emoji. His post garnered millions of views within a few hours."
     },
     {
       "sentiment": "negative",
@@ -230,9 +230,9 @@
       "headline": "SRK motivates KKR players before IPL 2025 opener: Be happy, be healthyShah Rukh Khan gave a pep talk to KKR ahead of their IPL 2025 opener, urging players to stay happy and healthy. He will open the grand ceremony at Eden Gardens before performances by Shreya Ghoshal, Karan Aujla, and Disha Patani."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/supreme-court-judges-visit-manipur-relief-camp-meet-displaced-people-peace-will-return-soon-2697326-2025-03-22#?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "We shall overcome someday: Supreme Court judges' peace message in ManipurMore than 250 people have been killed and thousands rendered homeless in ethnic violence between Imphal Valley-based Meiteis and adjoining hills-based Kuki-Zo groups since May 2023."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/trending-news/story/udaipur-man-drags-dog-behind-bike-balicha-viral-video-2697362-2025-03-22#?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Udaipur man drags dog behind bike, stops only after woman intervenes. Viral videoA disturbing video of a man dragging a dog behind his bike by a steel chain has gone viral on social media. The incident took place in Rajasthan's Udaipur. "
     },
     {
       "sentiment": "positive",
@@ -251,18 +251,23 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/supreme-court-judges-visit-manipur-relief-camp-meet-displaced-people-peace-will-return-soon-2697326-2025-03-22#?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "We shall overcome someday: Supreme Court judges' peace message in ManipurMore than 250 people have been killed and thousands rendered homeless in ethnic violence between Imphal Valley-based Meiteis and adjoining hills-based Kuki-Zo groups since May 2023."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/education-today/featurephilia/story/skill-gap-crisis-why-indian-graduates-arent-job-ready-and-how-edtech-can-help-2697332-2025-03-22#?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
       "headline": "Why India's educated workforce cannot find jobs matching their qualificationsDespite rising education levels, most Indian graduates work in roles unrelated to their qualifications. The skill gap and job market shifts demand urgent solutions, with edtech playing a transformative role."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/kkr-vs-rcb-match-preview-ipl-2025-kolkata-knight-riders-vs-royal-challengers-bengaluru-indian-premier-league-2697236-2025-03-22#?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "New season, new fortunes? Revamped RCB face ageless spin-threat from KKRIPL 2025, Kolkata Knight Riders vs Royal Challengers Bengaluru Match Preview: The two teams, under the leadership of new captains, meet in the first match of the IPL. As rain threatens the opener at Eden, will either style be able to impress the fans on Saturday?"
+      "url": "https://www.indiatoday.in/auto/cars/story/aston-martin-vanquish-launched-in-india-price-starts-at-rs-885-crore-2697357-2025-03-22#?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Aston Martin Vanquish launched in India, price starts at Rs 8.85 croreThe Vanquish returns with a 5.2L Twin-Turbo V12, producing 835PS and 1000Nm torque. It's Aston Martin's fastest series production car, hitting 214mph (345kmph) and 0-100 km/h in 3.3 seconds."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/environment/story/why-melting-of-the-himalayan-glaciers-due-to-temperature-rise-should-worry-india-2696912-2025-03-22#?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Why melting of the Himalayan glaciers should worry IndiaThe Himalayas are on the verge of losing 80% of their glaciers by the end of this century. This may affect the monsoons, water patterns, agriculture, and the life of communities. A sustainable lifestyle can help to reduce its effects."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/kkr-vs-rcb-match-preview-ipl-2025-kolkata-knight-riders-vs-royal-challengers-bengaluru-indian-premier-league-2697236-2025-03-22#?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "New season, new fortunes? Revamped RCB face ageless spin-threat from KKRIPL 2025, Kolkata Knight Riders vs Royal Challengers Bengaluru Match Preview: The two teams, under the leadership of new captains, meet in the first match of the IPL. As rain threatens the opener at Eden, will either style be able to impress the fans on Saturday?"
     },
     {
       "sentiment": "positive",
@@ -276,31 +281,36 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/bengaluru-man-finds-cute-flat-without-brokerage-shares-pics-viral-x-post-2697291-2025-03-22#?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Man finds 'cute' flat in Bengaluru without brokerage, Internet can't believe itIn a now-viral post on X, a man shared photographs of his new apartment which he scored without paying any brokerage. The internet is impressed and stunned by his achievement. "
+      "url": "https://www.indiatoday.in/movies/celebrities/story/jugal-hansraj-on-career-setbacks-typecasting-and-new-beginnings-2697386-2025-03-22",
+      "headline": "No regrets: Jugal Hansraj on career setbacks, typecasting and new beginningsJugal Hansraj was praised for his performance in Nadaaniyan. In an exclusive interview with us, he shared insights on Bollywood's evolution, his career struggles, and overcoming typecasting."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/music/story/anirudh-ravichander-confirms-performing-at-csk-vs-mi-match-with-fun-cryptic-post-2697382-2025-03-22",
+      "headline": "Anirudh Ravichander confirms performing at CSK vs MI match with fun cryptic postAnirudh Ravichander confirmed performing at the CSK vs MI match on Sunday in Chennai's Chepauk stadium. The music composer and singer shared a fun cryptic post on March 22. "
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/entertainment/television/story/mahira-sharma-on-dating-rumours-mohammed-siraj-2697365-2025-03-22",
+      "headline": "Mahira Sharma shuts down dating rumours with cricketer Mohammed SirajMahira Sharma has addressed rumours of a romantic relationship with cricketer Mohammed Siraj. Both have issued statements debunking the claims, urging an end to such speculations."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/avneet-kaur-once-beat-up-a-boy-with-bat-for-misbehaving-on-holi-2697352-2025-03-22",
       "headline": "Avneet Kaur once beat up a boy with bat for misbehaving on Holi: He deserved itAvneet Kaur recalled beating up a boy for misbehaving with her on Holi, being bullied at school, and facing misconceptions about her attitude. She is gearing up for the release of Love in Vietnam, India-Vietnam's first film collaboration."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/tamannaah-bhatia-odela-2-release-date-april-actor-announces-with-new-poster-2697351-2025-03-22",
-      "headline": "Tamannaah Bhatia's Odela 2 locks April release, actors shares striking new posterTamannaah Bhatia's much-awaited film Odela 2 is set to release in April. The actor announced the release date with a new poster on March 22."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/randeep-hooda-filming-swatantrya-veer-savarkar-fractured-knee-2697335-2025-03-22",
-      "headline": "Randeep Hooda shot Veer Savarkar with fractured knee, admits being 'hangry' on setActor Randeep Hooda revealed that he shot Swatantrya Veer Savarkar despite having a fractured knee. In a heartfelt post marking the film's first anniversary, he opened up about the intense physical pain he endured during the shoot."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/photo/karan-johar-enjoys-sun-sea-and-solace-on-his-first-trip-to-maldives-2697328-2025-03-22",
-      "headline": "Karan Johar enjoys 'sun, sea and solace' on first trip to MaldivesKaran Johar had an amazing first Maldives trip. He shared stylish snapshots from his vacation. Celebs like Ayushmann Khurrana and Aditi Rao Hydari showered love on his pics."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-rajat-patidar-rcb-captaincy-test-harbhajan-singh-pressure-2697381-2025-03-22",
+      "headline": "If RCB don't do well, will see where captain Patidar stands: HarbhajanHarbhajan Singh believes Rajat Patidar's captaincy future at Royal Challengers Bengaluru could be in doubt if the team fails to deliver in IPL 2025. The former India spinner feels the expectations will be immense on Patidar as he leads RCB in their pursuit of a maiden title.  "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-punjab-kings-ricky-ponting-ambition-gujarat-titans-2697368-2025-03-22",
+      "headline": "Going to create greatest Punjab Kings team to have played in IPL: Ricky PontingRicky Ponting claimed that his aim is to create the greatest Punjab Kings team to have played in the IPL ahead of their season opener. PBKS will begin their campaign on March 25. "
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-taskin-ahmed-lsg-bangladesh-pacer-replacement-2697354-2025-03-22",
@@ -324,7 +334,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-kolkata-knight-riders-vs-royal-challengers-bengaluru-kolkata-eden-gardens-weather-live-updates-kkr-vs-rcb-2697295-2025-03-22",
-      "headline": "Kolkata weather live updates for KKR vs RCB, IPL 2025: Rain to threaten opening day?KKR vs RCB, Kolkata Weather Forecast: Dark clouds have engulfed the city of Kolkata just hours ahead of the IPL 2025 opening match between Kolkata Knight Riders and Royal Challengers Bengaluru. Will rain continue to play the villain on what is expected to be a star-studded night at the City of Joy?"
+      "headline": "KKR vs RCB, IPL 2025, Kolkata weather live updates: Rain to threaten opening day?KKR vs RCB, Kolkata Weather Forecast: Dark clouds have engulfed the city of Kolkata just hours ahead of the IPL 2025 opening match between Kolkata Knight Riders and Royal Challengers Bengaluru. Will rain continue to play the villain on what is expected to be a star-studded night at the City of Joy?"
     },
     {
       "sentiment": "positive",
@@ -348,13 +358,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-gautam-gambhir-kkr-dwayne-bravo-feature-2697244-2025-03-22",
-      "headline": "Can a Gautam Gambhir-less KKR build a fresh new identity?IPL 2025: Can Dwayne Bravo make sure that he fills in the big boots of Gautam Gambhir and help Kolkata Knight Riders (KKR) successfully defend their crown? \r\n\r\n"
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-kolkata-knight-riders-vs-royal-challengers-bengaluru-kolkata-eden-gardens-weather-live-updates-kkr-vs-rcb-2697295-2025-03-22",
+      "headline": "KKR vs RCB, IPL 2025, Kolkata weather live updates: Rain to threaten opening day?KKR vs RCB, Kolkata Weather Forecast: Dark clouds have engulfed the city of Kolkata just hours ahead of the IPL 2025 opening match between Kolkata Knight Riders and Royal Challengers Bengaluru. Will rain continue to play the villain on what is expected to be a star-studded night at the City of Joy?"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-guide-format-rules-captains-predictions-curtain-raiser-2697242-2025-03-22",
-      "headline": "IPL turns 18: Vintage vibe, new tribe, same hypeThe IPL turns 18, blending nostalgia with fresh energy. While a new generation steps up, OGs like MS Dhoni, Virat Kohli, and Rohit Sharma still dominate the headlines. The excitement remains unchanged, but with new captains and evolving narratives, the league continues to reinvent itself."
+      "url": "https://www.indiatoday.in/sports/formula-one/story/f1-2025-lewis-hamilton-ferrari-chinese-grand-prix-sprint-win-reaction-2697293-2025-03-22",
+      "headline": "Chinese GP: Lewis Hamilton happy to silence early critics after Ferrari Sprint winLewis Hamilton was happy to shut down his early critics after he cruised to secure his first win for Ferrari at the Chinese Grand Prix Sprint on Saturday, March 22. Hamilton and Ferrari completed a sensational turnaround from the opening weekend to secure the win on Saturday. "
     },
     {
       "sentiment": "positive",
@@ -370,136 +380,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/kkr-vs-rcb-ipl-2025-match-live-streaming-telecast-when-and-where-to-watch-online-kolkata-knight-riders-vs-royal-challengers-bengaluru-2697262-2025-03-22",
       "headline": "KKR vs RCB Live Streaming, Telecast, When And Where To WatchIPL 2025, Kolkata Knight Riders vs Royal Challengers Bengaluru Live streaming, Telecast: The tournament opener between KKR and RCB at the Eden Gardens in Kolkata is expected to be a thriller. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-gautam-gambhir-kkr-dwayne-bravo-feature-2697244-2025-03-22",
-      "headline": "Can a Gautam Gambhir-less KKR build a fresh new identity?IPL 2025: Can Dwayne Bravo make sure that he fills in the big boots of Gautam Gambhir and help Kolkata Knight Riders (KKR) successfully defend their crown? \r\n\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-guide-format-rules-captains-predictions-curtain-raiser-2697242-2025-03-22",
-      "headline": "IPL turns 18: Vintage vibe, new tribe, same hypeThe IPL turns 18, blending nostalgia with fresh energy. While a new generation steps up, OGs like MS Dhoni, Virat Kohli, and Rohit Sharma still dominate the headlines. The excitement remains unchanged, but with new captains and evolving narratives, the league continues to reinvent itself."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/kkr-vs-rcb-match-preview-ipl-2025-kolkata-knight-riders-vs-royal-challengers-bengaluru-indian-premier-league-2697236-2025-03-22",
-      "headline": "New season, new fortunes? Revamped RCB face ageless spin-threat from KKRIPL 2025, Kolkata Knight Riders vs Royal Challengers Bengaluru Match Preview: The two teams, under the leadership of new captains, meet in the first match of the IPL. As rain threatens the opener at Eden, will either style be able to impress the fans on Saturday?"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-opening-ceremony-fireworks-drone-kkr-vs-rcb-2697241-2025-03-22",
-      "headline": "Opening ceremony: Shah Rukh Khan to interact with captains in grand showIPL 2025: The Eden Gardens in Kolkata is all set for a glittering opening ceremony when Shreya Ghoshal, Karan Aujla and Disha Patani will perform at the iconic venue before the tournament opener between KKR and RCB. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/boxing-george-foreman-american-legend-dies-champion-2697232-2025-03-22",
-      "headline": "George Foreman, boxing legend and heavyweight champion, diesAmerican boxing legend George Foreman, who won the heavyweight gold medal at the age of 19, died on Friday, March 21 at the age of 76. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-kkr-vs-rcb-predicted-xi-virat-kohli-phil-salt-2697222-2025-03-22",
-      "headline": "KKR vs RCB Playing XI: Salt-Kohli open, but RCB fret over spin options at EdenKKR vs RCB Playing XI, Kolkata Knight Riders vs Royal Challengers Bengaluru Prediction: The Indian Premier League opener is set to be played at the Eden Gardens. While KKR have their tried and tested line-ups and combinations, RCB have several players making their debuts for the side on Saturday.\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-from-2008-to-2025-meet-the-ever-lasting-nine-ipl-ogs-2697198-2025-03-22",
-      "headline": "From 2008 to 2025: Meet the ever-lasting nine IPL OGsIn the 17-year-long history of the Indian Premier League (IPL), a few players have been a part of the inaugural season and will also be seen playing in the upcoming IPL 2025. Here's the complete list of nine such players."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/lions-sign-cb-avonte-maddox-to-one-year-deal-agent-confirms-glbs-2697199-2025-03-22",
-      "headline": "Lions sign CB Avonte Maddox to one-year deal, agent confirmsThe Detroit Lions have added veteran cornerback Avonte Maddox on a one-year contract. The move strengthens their secondary as they look to build on last season's defensive improvements."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/report-aaron-rodgers-set-to-visit-steelers-on-friday-amid-trade-speculation-glbs-2697194-2025-03-21",
-      "headline": "Report: Aaron Rodgers set to visit steelers on friday amid trade speculationVeteran quarterback Aaron Rodgers is reportedly meeting with the Pittsburgh Steelers, fueling speculation about a potential move. The visit could signal major changes for both Rodgers and the Steelers."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/capitals-clinch-first-nhl-playoff-spot-of-2025-after-last-place-finish-last-year-glbs-2697186-2025-03-21",
-      "headline": "Capitals Clinch first NHL playoff spot of 2025 after last-place finish last yearThe Washington Capitals secured the first postseason berth of the 2025 NHL season, a remarkable turnaround after barely making the playoffs last year. Their resurgence signals a strong championship push."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-from-2008-to-2025-meet-the-ever-lasting-nine-ipl-ogs-2697198-2025-03-22",
-      "headline": "From 2008 to 2025: Meet the ever-lasting nine IPL OGsIn the 17-year-long history of the Indian Premier League (IPL), a few players have been a part of the inaugural season and will also be seen playing in the upcoming IPL 2025. Here's the complete list of nine such players."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/lions-sign-cb-avonte-maddox-to-one-year-deal-agent-confirms-glbs-2697199-2025-03-22",
-      "headline": "Lions sign CB Avonte Maddox to one-year deal, agent confirmsThe Detroit Lions have added veteran cornerback Avonte Maddox on a one-year contract. The move strengthens their secondary as they look to build on last season's defensive improvements."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/report-aaron-rodgers-set-to-visit-steelers-on-friday-amid-trade-speculation-glbs-2697194-2025-03-21",
-      "headline": "Report: Aaron Rodgers set to visit steelers on friday amid trade speculationVeteran quarterback Aaron Rodgers is reportedly meeting with the Pittsburgh Steelers, fueling speculation about a potential move. The visit could signal major changes for both Rodgers and the Steelers."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/capitals-clinch-first-nhl-playoff-spot-of-2025-after-last-place-finish-last-year-glbs-2697186-2025-03-21",
-      "headline": "Capitals Clinch first NHL playoff spot of 2025 after last-place finish last yearThe Washington Capitals secured the first postseason berth of the 2025 NHL season, a remarkable turnaround after barely making the playoffs last year. Their resurgence signals a strong championship push."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/march-madness-2025-less-than-1-of-brackets-remain-perfect-after-day-on-2697181-2025-03-21",
-      "headline": "March Madness 2025: Less than 1% of brackets remain perfect after day onThe first day of March Madness 2025 delivered major upsets, busting nearly all brackets. Only a fraction of fans still hold a perfect bracket as the tournament unfolds."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/march-madness-2025-five-nba-stars-college-performances-glbs-2697157-2025-03-21",
-      "headline": "March Madness 2025: Five NBA stars' college performancesMarch Madness 2025 season has started, and it is the perfect time to reflect on how some of the current NBA stars performed during their college careers."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/video/ipl-2025-aaron-finch-on-virat-kohlis-strike-rate-kkr-vs-rcb-2697168-2025-03-21",
-      "headline": "If you want Virat Kohli to strike higher, his consistency will go down: Aaron FinchFormer Australia captain Aaron Finch feels Royal Challengers Bengaluru (RCB) batter Virat Kohli's consistency will be massively affected if he tries to up his strike rate in the Indian Premier League 2025 (IPL 2025). "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/is-stephen-curry-playing-tonight-latest-injury-updates-for-warriors-star-glbs-2697169-2025-03-21",
-      "headline": "Is Stephen Curry playing tonight? Latest injury updates for Warrior's starGolden State Warriors Stephen Curry suffered a hard fall on Thursday, March 20 in a thriller 117-114 win over the Toronto Raptors."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-virat-kohli-doesnt-need-to-bat-like-rohit-sharma-aaron-finch-2697163-2025-03-21",
-      "headline": "Virat Kohli doesn't need to bat like Rohit Sharma in IPL 2025: Aaron FinchFormer Australia captain Aaron Finch said that India and Royal Challengers Bengaluru batter Virat Kohli doesn't need to go after the bowling right from the word go like Rohit Sharma in the upcoming Indian Premier League 2025 (IPL 2025)."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/video/kkr-vs-rcb-ipl-2025-varun-chakravarthy-pre-match-press-conference-2697154-2025-03-21",
-      "headline": "KKR banking on overseas core for title defence: Varun ChakravarthyKolkata Knight Riders are going to bank on their strong core of overseas players as they look to defend the IPL title this season, said Varun Chakravarthy. KKR play RCB in the season opener at Eden Gardens."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/video/ipl-2025-andy-flower-on-virat-kohlis-batting-in-modern-t20-cricket-2697147-2025-03-21",
-      "headline": "Still place for players like Virat Kohli in modern T20 cricket: Andy FlowerRoyal Challengers Bengaluru (RCB) head coach Andy Flower said that while T20 cricket has become a game of big hitters in the recent past, there's still a place for high-quality, highly intelligent cricketers like Virat Kohli."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-kkr-vs-rcb-varun-chakravarthy-virat-kohli-2697138-2025-03-21",
-      "headline": "Varun Chakravarthy excited for Virat Kohli battle in IPL 2025 openerKolkata Knight Riders will face Royal Challengers Bengaluru in the IPL 2025 opener. Ahead of the game, Varun Chakravarthy has said that he is excited to face Virat Kohli in the opposition team."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-kkr-vs-rcb-opener-rain-threat-rules-cut-off-time-2697137-2025-03-21",
-      "headline": "What happens if IPL 2025 opener between KKR and RCB is affected by rain?IPL 2025, KKR vs RCB: The much-anticipated start to IPL 2025 faces a potential hurdle in the form of inclement weather in Kolkata. Rain showers are predicted, which could dampen the spirits of what is expected to be a packed crowd at the iconic Eden Gardens."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-kane-williamson-interview-commentary-anchor-big-names-2697122-2025-03-21",
-      "headline": "IPL only for big-hitters? Different styles still relevant, says Kane WilliamsonIPL 2025: Batting great Kane Williamson acknowledged the growing dominance of power-hitting in the Indian Premier League but stressed that there is still room for different batting styles. The former New Zealand captain is set to make his commentary debut in the 2025 season.\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-andy-flower-on-varun-chakravarthy-sunil-narine-rcb-2697108-2025-03-21",
-      "headline": "RCB is all ready for Varun Chakravarthy and Sunil Narine challenge: Andy FlowerRoyal Challengers Bengaluru (RCB) head coach Andy Flower acknowledged the threat of Varun Chakravarthy and Sunil Narine ahead of their opening game against Kolkata Knight Riders (KKR). "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-spinner-harbhajan-singh-kkr-vs-rcb-2697106-2025-03-21",
-      "headline": "Spinners in IPL are not brave any more: Harbhajan Singh rues lost artFormer spinner Harbhajan Singh has rued the fact that spinners are not brave anymore in the Indian Premier League. Harabhajan said that current spinners lack aggression.\r\n"
     }
   ],
   "education": [
