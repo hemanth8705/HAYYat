@@ -2,6 +2,11 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/stock-market-volatility-explained-why-sensex-nifty-gave-up-early-gains-2698670-2025-03-25",
+      "headline": "Sensex down over 700 points from day's high. Why stock market turned volatile?Stock market today: At around 11:45 am, the S&P BSE Sensex was down 51.05 points to 77,933.33 and the NSE Nifty50 declined 17.85 points to trade at 23,640.50. \u00a0\r\n"
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/india-to-remove-6-percent-google-tax-what-is-it-how-does-it-impact-tech-giants-2698623-2025-03-25",
       "headline": "India likely to remove 6% Google tax from April 1, tech giants to benefitThe Equalisation Levy know as 'Google Tax' was introduced in 2016 to tax payments made by Indian businesses to foreign companies for digital advertising services."
     },
@@ -54,18 +59,18 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/wall-street-gains-ground-after-shaking-off-four-week-losing-streak-glbs-2698435-2025-03-24",
       "headline": "Wall Street gains ground after shaking off four-week losing streakThe New York Stock Exchange showed positive signs on Monday after weeks of decline ahead of a potentially softening stance on tariffs by the Trump administration."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/tesla-shares-jump-as-investors-eye-possible-tariff-leeway-lower-price-2698414-2025-03-24",
-      "headline": "Tesla shares jump 10% as investors eye possible tariff leeway, lower priceTesla shares surged 10% on Monday amid reports of tariff exclusions under the Trump administration. Investors saw an opportunity after a steep decline this year. The rally lifted Wall Street, with tech stocks pushing indexes to two-week highs.\r\n"
     }
   ],
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/television/story/actor-aasif-sheikh-health-update-brought-to-mumbai-in-a-wheelchair-2698660-2025-03-25",
+      "headline": "Actor Aasif Sheikh shares health update: I was brought to Mumbai in a wheelchairActor Aasif Sheikh shared his health update after reports of him collapsing on shooting sets emerged online. The actor stated that his sciatica pain worsened the situation.  "
+    },
+    {
+      "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/kangana-ranaut-breaks-silence-on-kunal-kamra-eknath-shinde-row-cant-insult-him-in-the-name-of-comedy-2698646-2025-03-25",
-      "headline": "Kangana Ranaut comments on Kunal Kamra row: Can't insult Eknath Shinde in the name of comedyActor Kangana Ranaut on Tuesday commented on comedian Kunal Kamra making a joke on Maharashtra deputy chief minister Eknath Shinde. "
+      "headline": "Kunal Kamra case is different, my house demolition was illegal: Kangana RanautActor Kangana Ranaut on Tuesday commented on comedian Kunal Kamra making a joke on Maharashtra deputy chief minister Eknath Shinde. "
     },
     {
       "sentiment": "positive",
@@ -151,11 +156,6 @@
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/entertainment/television/story/actor-aasif-sheikh-collapsed-during-bhabiji-ghar-par-hain-shoot-heres-the-truth-exclusive-2698416-2025-03-24",
       "headline": "Actor Aasif Sheikh collapsed during Bhabiji shoot? Here's the truthActor Aasif Sheikh's health sparked concerns after rumours of hospitalisation emerged. However, sources clarify that the reports are exaggerated, and the actor is in good health."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/television/story/bhabiji-ghar-par-hai-writer-manoj-santoshi-dies-at-49-due-to-liver-ailment-2698395-2025-03-24",
-      "headline": "Bhabiji Ghar Par Hai writer Manoj Santoshi dies at 49 due to liver ailmentRenowned TV writer Manoj Santoshi, known for his work on popular sitcoms, died at 49 due to liver complications. "
     }
   ],
   "general news": [
@@ -166,28 +166,38 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/canada-election-india-interference-meddle-china-mark-carney-intelligence-report-2698514-2025-03-25#?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "China likely to, India has intent to interfere in elections: Canada spy agencyCanada is set to hold its general election on April 28 after newly appointed Prime Minister Mark Carney called for a snap poll. Ottawa has alleged that New Delhi may attempt to interfere in the elections, as relations between the two nations have hit an all-time low."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/bangladesh-army-holds-emergency-meeting-amid-possibility-of-coup-against-chief-adviser-mohammad-yunus-sources-2698603-2025-03-25#?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
       "headline": "Coup in Bangladesh against Yunus? Army holds emergency meetingSince Muhammad Yunus took charge last year, there has been growing unrest and mistrust among the people in Bangladesh towards the government."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/is-donald-trump-forcing-an-exodus-of-researchers-biggest-since-world-war-ii-trump-green-card-us-visa-2698186-2025-03-25#?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Is Trump forcing an exodus of researchers, the biggest since World War II?The US might witness an exodus of researchers, if media reports and chatter on social media are anything to go by. The flight of scientists might be the biggest since scientists fled Nazi Germany. With President Donald Trump slashing research funding and increasing work visa scrutiny, European countries are planning to seize on the brain drain from the US."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/up-mainpuri-woman-kills-husband-with-lover-help-contract-killer-meerut-murder-2698651-2025-03-25#?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Meerut rerun: UP woman kills husband with help of lover, contract killerThe woman, identified as Pragati Yadav, with the help of her lover and a contract killer, plotted murder of her husband in Uttar Pradesh's Mainpuri district, just two weeks after their marriage. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/kangana-ranaut-breaks-silence-on-kunal-kamra-eknath-shinde-row-cant-insult-him-in-the-name-of-comedy-2698646-2025-03-25#?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Kangana Ranaut comments on Kunal Kamra row: Can't insult Eknath Shinde in the name of comedyActor Kangana Ranaut on Tuesday commented on comedian Kunal Kamra making a joke on Maharashtra deputy chief minister Eknath Shinde. "
+      "url": "https://www.indiatoday.in/world/us-news/story/is-donald-trump-forcing-an-exodus-of-researchers-biggest-since-world-war-ii-trump-green-card-us-visa-2698186-2025-03-25#?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Has Trump triggered US brain drain, the biggest since World War II?The US might witness an exodus of researchers, if media reports and chatter on social media are anything to go by. The flight of scientists might be the biggest since scientists fled Nazi Germany. With President Donald Trump slashing research funding and increasing work visa scrutiny, European countries are planning to seize on the brain drain from the US."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/health/story/office-coffee-machine-raising-ldl-cholesterol-sweden-university-study-2698629-2025-03-25#?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Is office coffee raising your cholesterol? Here's what you should knowA study found that coffee from common workplace machines contains higher levels of cholesterol-raising substances compared to regular filter coffee.\u00a0"
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/indians-abroad/story/andhra-pradesh-krishna-district-man-dies-in-usa-texas-family-seeks-support-for-funeral-expenses-2698631-2025-03-25#?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Andhra man found dead in Texas a day after going missing, police suspect suicideA man from Andhra Pradesh's Krishna district was found dead in Texas a day after he went missing. Authorities suspect suicide, while his family raises funds to bring his body home.  "
+      "url": "https://www.indiatoday.in/cities/bengaluru/story/bengaluru-woman-murders-husband-spikes-food-with-sleeping-pills-mother-helps-in-killing-police-arrest-both-2698652-2025-03-25#?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Bengaluru woman spikes husband's food with mother's help, kills him laterThe Bengaluru police arrested a realtor's wife and mother-in-law for his murder. Investigators say they spiked his food with sleeping pills, lured him to a secluded spot, and slit his throat.  "
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/kangana-ranaut-breaks-silence-on-kunal-kamra-eknath-shinde-row-cant-insult-him-in-the-name-of-comedy-2698646-2025-03-25#?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Kunal Kamra case is different, my house demolition was illegal: Kangana RanautKangana Ranaut was referring to the demolition of her property in Pali Hill, Bandra, in September 2020, by the BMC on grounds of unauthorised construction."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/delhi-high-court-judge-yashwant-varma-cash-recovery-house-jagdeep-dhankhar-all-party-meeting-today-discuss-2698676-2025-03-25#?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Jagdeep Dhankhar calls all party meet over cash recovery at Delhi judge's houseRajya Sabha chairman Jagdeep Dhankhar called for an all party meet today to discuss the issue of cash recovery at Delhi High Court judge Yashwant Varma's house. "
     },
     {
       "sentiment": "positive",
@@ -196,18 +206,33 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/india-to-remove-6-percent-google-tax-what-is-it-how-does-it-impact-tech-giants-2698623-2025-03-25#?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "India likely to remove 6% Google tax from April 1, tech giants to benefitThe Equalisation Levy know as 'Google Tax' was introduced in 2016 to tax payments made by Indian businesses to foreign companies for digital advertising services."
+      "url": "https://www.indiatoday.in/education-today/news/story/bihar-board-12th-result-2025-live-updates-check-at-bseb-class-12-result-at-interbiharboardcominterresult2025com-2698626-2025-03-25#?utm_source=LiveBlog_hp&utm_medium=LiveBlog&utm_campaign=home_LiveBlog",
+      "headline": "Bihar Board 12th Result 2025 live: Check scores and marksheet download linkBihar Board 12th Inter Result 2025 Live: The Bihar School Examination Board (BSEB) will announce the Class 12th Result 2025 today at 1:30 pm. Students can check their scores and download mark sheets from interbiharboard.com once the direct link is activated. Stay tuned for real-time updates!"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/stock-market-volatility-explained-why-sensex-nifty-gave-up-early-gains-2698670-2025-03-25#?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Sensex down over 700 points from day's high. Why stock market turned volatile?Stock market today: At around 11:45 am, the S&P BSE Sensex was down 51.05 points to 77,933.33 and the NSE Nifty50 declined 17.85 points to trade at 23,640.50. \u00a0\r\n"
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/hansal-mehta-recalls-past-ordeal-defends-kunal-kamra-my-face-was-blackened-eknath-shinde-2698550-2025-03-25#?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Hansal Mehta recalls ordeal as he defends Kunal Kamra: My face was blackenedDirector Hansal Mehta extended his support to comedian Kunal Kamra. In a strong note on social media, Mehta recalled his past ordeal where he was assaulted and forced to apologise. "
+      "url": "https://www.indiatoday.in/cities/delhi/story/delhi-bjp-mla-meat-shop-closure-demand-navratri-ramzan-2698579-2025-03-25#?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "BJP says close meat shops during Navratri in Delhi and J&K, Congress MP agreesBJP Delhi MLAs Ravinder Negi and Neeraj Basoya have demanded the closure of mutton shops during Navratri, citing hurt Hindu sentiments, and called for restricting meat shops to commercial areas. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/shihan-hussaini-dies-blood-cancer-battle-actor-karate-expert-archery-2698530-2025-03-25#?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Actor, karate expert Shihan Hussaini dies in Chennai after battling blood cancerActor and Karate expert Shihan Hussaini died at a private hospital in Chennai on March 25. He was undergoing treatment for advanced blood cancer for the past few weeks."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/india-slams-pakistan-at-united-nations-for-repeated-reference-to-jammu-and-kashmir-2698542-2025-03-25#?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "India slams Pakistan's repeated references at UN: Must vacate J&K territoryIndia firmly rejected Pakistan's claims at the United Nations, calling them \"unwarranted and illegal\", reiterating sovereignty over Jammu and Kashmir, and asking Islamabad to vacate occupied territories."
+      "url": "https://www.indiatoday.in/world/indians-abroad/story/andhra-pradesh-krishna-district-man-dies-in-usa-texas-family-seeks-support-for-funeral-expenses-2698631-2025-03-25#?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Andhra man found dead in Texas a day after going missing, police suspect suicideA man from Andhra Pradesh's Krishna district was found dead in Texas a day after he went missing. Authorities suspect suicide, while his family raises funds to bring his body home.  "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/canada-election-india-interference-meddle-china-mark-carney-intelligence-report-2698514-2025-03-25#?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "China likely to, India has intent to interfere in elections: Canada spy agencyCanada is set to hold its general election on April 28 after newly appointed Prime Minister Mark Carney called for a snap poll. Ottawa has alleged that New Delhi may attempt to interfere in the elections, as relations between the two nations have hit an all-time low."
     },
     {
       "sentiment": "negative",
@@ -215,34 +240,9 @@
       "headline": "Snapchat texts reveal how Meerut woman manipulated lover into killing husbandMuskan and Sahil killed Saurabh on March 4, dismembered his body, stuffed the remains into a drum, and sealed it with cement. After committing the crime, the duo left for a vacation in Himachal Pradesh."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/kunal-kamra-traitor-jab-eknath-shinde-row-statement-studio-vandalism-next-show-stampede-site-2698604-2025-03-25#?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Kunal Kamra's 'didn't like butter chicken' barb on studio vandalismComedian Kunal Kamra, in a lengthy post on X, quipped that for his next show, he might opt for a venue in need of speedy demolition."
-    },
-    {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/health/story/office-coffee-machine-raising-ldl-cholesterol-sweden-university-study-2698629-2025-03-25#?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Is office coffee raising your cholesterol? Here's what you should knowA study found that coffee from common workplace machines contains higher levels of cholesterol-raising substances compared to regular filter coffee.\u00a0"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/bihar-board-12th-result-2025-live-updates-check-at-bseb-class-12-result-at-interbiharboardcominterresult2025com-2698626-2025-03-25#?utm_source=LiveBlog_hp&utm_medium=LiveBlog&utm_campaign=home_LiveBlog",
-      "headline": "Bihar Board 12th Result 2025 live: Check scores and marksheet download linkBihar Board 12th Inter Result 2025 Live: The Bihar School Examination Board (BSEB) will announce the Class 12th Result 2025 today at 1:30 pm. Students can check their scores and download mark sheets from interbiharboard.com once the direct link is activated. Stay tuned for real-time updates!"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/music/story/travis-scott-india-debut-circus-maximus-world-tour-delhi-bookmyshow-2698588-2025-03-25#?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Rapper Travis Scott to make India debut with 'Circus Maximus World Tour' in DelhiAmerican rapper and singer-songwriter Travis Scott is set to make his India debut with the Circus Maximus World Tour. Scott will perform in New Delhi on October 18, 2025. \r\n"
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/us-news/story/donald-trump-tariff-threat-venezuela-crude-oil-imports-india-impact-reciprocal-levies-2698464-2025-03-24#?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Trump's fresh 25% tariff threat linked to Venezuelan oil. Trouble for India?US President Donald Trump's \"secondary tariff\" on countries buying Venezuelan oil will come into effect on April 2, the same day when reciprocal tariffs on US's trading partners, including India, will be imposed."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/goa-man-calls-out-pod-culture-mafia-linkedin-bullying-viral-post-divides-internet-2698610-2025-03-25#?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Goa man calls out 'pod-culture mafia' on LinkedIn for bullying in viral postIn a now-viral post on LinkedIn, a Goa-based man called out an unnamed \"pod-culture mafia\" for allegedly bullying smaller creators to like, comment, and share his post. "
+      "url": "https://www.indiatoday.in/trending-news/story/mrbeast-reality-show-winner-reveals-how-he-is-using-rs-86-crore-prize-money-2698654-2025-03-25#?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "MrBeast's reality show winner reveals how he's using Rs 86 crore prize moneyThe winner of MrBeast's reality show wasn't just playing for himself, he had a bigger purpose in mind. He revealed what he is going to do with his Rs 86 crore prize money. "
     },
     {
       "sentiment": "negative",
@@ -251,8 +251,28 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/delhi/story/delhi-bjp-mla-meat-shop-closure-demand-navratri-ramzan-2698579-2025-03-25#?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Delhi BJP MLAs demand closure of meat shops during Navratri: Hurts our sentimentsBJP Delhi MLAs Ravinder Negi and Neeraj Basoya have demanded the closure of mutton shops during Navratri, citing hurt Hindu sentiments, and called for restricting meat shops to commercial areas. "
+      "url": "https://www.indiatoday.in/business/story/india-to-remove-6-percent-google-tax-what-is-it-how-does-it-impact-tech-giants-2698623-2025-03-25#?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "India likely to remove 6% Google tax from April 1, tech giants to benefitThe Equalisation Levy know as 'Google Tax' was introduced in 2016 to tax payments made by Indian businesses to foreign companies for digital advertising services."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/india-slams-pakistan-at-united-nations-for-repeated-reference-to-jammu-and-kashmir-2698542-2025-03-25#?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "India slams Pakistan's repeated references at UN: Must vacate J&K territoryIndia firmly rejected Pakistan's claims at the United Nations, calling them \"unwarranted and illegal\", reiterating sovereignty over Jammu and Kashmir, and asking Islamabad to vacate occupied territories."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/lifestyle/fashion/story/mens-jewellery-elaborate-necklaces-shah-rukh-khan-2698548-2025-03-25#?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Men's jewellery is going beyond bracelets, brooches. Enter elaborate necklacesSuperstar Shah Rukh Khan is at the forefront of the trend. The actor has lately been flaunting a stunning collection of neckpieces, like a tennis necklace, a layered emerald haar, and polki jewels."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/kunal-kamra-traitor-jab-eknath-shinde-row-statement-studio-vandalism-next-show-stampede-site-2698604-2025-03-25#?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Kunal Kamra's 'didn't like butter chicken' barb on studio vandalismComedian Kunal Kamra, in a lengthy post on X, quipped that for his next show, he might opt for a venue in need of speedy demolition."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/music/story/travis-scott-india-debut-circus-maximus-world-tour-delhi-bookmyshow-2698588-2025-03-25#?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
+      "headline": "Rapper Travis Scott to make India debut with 'Circus Maximus World Tour' in DelhiAmerican rapper and singer-songwriter Travis Scott is set to make his India debut with the Circus Maximus World Tour. Scott will perform in New Delhi on October 18, 2025. \r\n"
     },
     {
       "sentiment": "positive",
@@ -261,46 +281,36 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/fashion/story/mens-jewellery-elaborate-necklaces-shah-rukh-khan-2698548-2025-03-25#?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Men's jewellery is going beyond bracelets, brooches. Enter elaborate necklacesSuperstar Shah Rukh Khan is at the forefront of the trend. The actor has lately been flaunting a stunning collection of neckpieces, like a tennis necklace, a layered emerald haar, and polki jewels."
+      "url": "https://www.indiatoday.in/movies/celebrities/story/kalki-koechlin-on-producer-filler-suggestion-wanted-to-stab-him-with-my-fork-2698675-2025-03-25",
+      "headline": "Kalki Koechlin on producer's filler suggestion: I wanted to stab him with my forkIn a recent interview, actor Kalki Koechlin recalled a producer who suggested cosmetic fillers. She expressed her resolve to embrace her natural appearance despite such pressures."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/oscar-winning-palestinian-director-hamdan-ballal-attacked-by-jewish-settlers-detained-palestine-activists-2698512-2025-03-25#?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Oscar-winning Palestinian director attacked by Jewish settlers, detained: ActivistsHamdan Ballal, co-director of the Oscar-winning documentary No Other Land, was assaulted by Israeli settlers in the occupied West Bank and later detained by the Israeli military while receiving medical treatment."
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/pawan-kalyan-shares-why-he-is-not-going-to-quit-films-anytime-soon-2698678-2025-03-25",
+      "headline": "Pawan Kalyan shares why he is not going to quit films anytime soonActor-politician Pawan Kalyan has no intention to quit movies anytime soon. The Deputy Chief Minister of Andhra Pradesh shared that he doesn't want to quit acting for more reasons than one. "
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/kunal-kamra-controversy-joke-row-eknath-shinde-mumbai-police-khar-issue-notice-summoned-2698573-2025-03-25#?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "Kunal Kamra summoned by Mumbai police in Eknath Shinde joke rowKunal Kamra, who referred to Eknath Shinde as a 'traitor' in a Bollywood parody song, has been asked to appear before the investigating officer at 11 am."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-gt-vs-pbks-shubman-gill-glenn-phillips-mrf-bats-champions-trophy-2698638-2025-03-25#?utm_source=Story_hp&utm_medium=Story&utm_campaign=home_Story",
-      "headline": "What's your problem with MRF bats? Phillips on Gill Champions Trophy banterGlenn Phillips revealed the Champions Trophy banter he had with Shubman Gill ahead of Gujarat Titans' IPL 2025 opener against Punjab Kings on Tuesday, March 25. Gill will be aiming to lead GT to the playoffs this season. "
-    },
-    {
-      "sentiment": "positive",
+      "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/kangana-ranaut-breaks-silence-on-kunal-kamra-eknath-shinde-row-cant-insult-him-in-the-name-of-comedy-2698646-2025-03-25",
-      "headline": "Kangana Ranaut comments on Kunal Kamra row: Can't insult Eknath Shinde in the name of comedyActor Kangana Ranaut on Tuesday commented on comedian Kunal Kamra making a joke on Maharashtra deputy chief minister Eknath Shinde. "
+      "headline": "Kunal Kamra case is different, my house demolition was illegal: Kangana RanautKangana Ranaut was referring to the demolition of her property in Pali Hill, Bandra, in September 2020, by the BMC on grounds of unauthorised construction."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/sunny-deol-urges-bollywood-to-learn-cinema-from-south-i-shall-go-and-settle-there-2698630-2025-03-25",
       "headline": "Sunny Deol urges Bollywood to learn cinema from South: I shall go and settle thereActor Sunny Deol urged Bollywood producers to learn cinema from the South. He even hinted about settling there. "
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/salman-khan-sikandar-cbfc-details-run-time-political-modifications-censor-details-2698621-2025-03-25",
-      "headline": "No cuts in Salman Khan's Sikandar, but changes in political scenes. Check run time'Sikandar' has been passed by the censor board without any cuts. The Salman Khan starrer is shorter than most of his other theatrical releases. Scroll down for details. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/amy-jackson-ed-westwick-welcome-baby-boy-oscar-alexander-westwick-2698587-2025-03-25",
-      "headline": "Amy Jackson, Ed Westwick welcome baby boy Oscar AlexanderAmy Jackson and Ed Westwick became parents to a baby boy. The new parents shared photos of their son and named him Oscar Alexander Westwick."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/iconic-gabba-to-be-demolished-after-2032-olympics-brisbane-to-get-new-stadium-2698665-2025-03-25",
+      "headline": "Iconic Gabba to be demolished after 2032 Olympics, Brisbane to get new stadiumThe iconic Gabba is all set to be demolished after the 2032 Olympics with Brisbane all set to get a new stadium. The new venue is set to be a 60,000-seater stadium. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/gt-vs-pbks-playing-11-ipl-2025-team-prediction-shubman-gill-shreyas-iyer-2698645-2025-03-25",
+      "headline": "GT vs PBKS Playing XI Prediction, IPL 2025: Shreyas Iyer's Punjab ready for new eraGujarat Titans and Punjab Kings are all set to lock horns in Mach 4 of the Indian Premier League 2025 (IPL 2025) at the Narendra Modi Stadium, Ahmedabad. Both teams will be eager to get their campaign off to a winning start."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-suryansh-shedge-interview-punjab-kings-gt-vs-pbks-2698634-2025-03-25",
@@ -348,13 +358,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-dc-vs-lsg-lance-klusener-press-conference-rishabh-pant-2698534-2025-03-25",
-      "headline": "LSG coach Klusener disagrees with Rishabh Pant's take on DC loss: Didn't score enoughLucknow Super Giants assistant coach Lance Klusener didn't agree with Rishabh Pant's take on the loss to Delhi Capitals and felt they didn't score enough runs in Vizag on Monday, March 24. LSG's 209 wasn't enough on the day as DC won the match by 1 wicket. "
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-dc-vs-lsg-rishabh-pant-captaincy-bowling-weakness-2698570-2025-03-25",
+      "headline": "First impression: LSG's bowling frailties, captain Pant's blunders raise red flagsIPL 2025, DC vs LSG: Lucknow's depleted bowling unit captain Rishabh Pant's tactical errors cost them a winnable game in Vizag on Monday. If unaddressed, these flaws could make for a long and difficult IPL 2025 season."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-dc-vs-lsg-ashutosh-sharma-press-conference-vizag-2698527-2025-03-25",
-      "headline": "Will finish with a six: How Ashutosh Sharma held his nerves in DC vs LSG thrillerDelhi Capitals' new hero Ashutosh Sharma claimed that he knew he would finish the game against Lucknow Super Giants with a six on Monday, March 24. Ashutosh starred for DC as they beat LSG by 1 wicket in a final over thriller in Vizag. "
+      "url": "https://www.indiatoday.in/sports/cricket/video/ipl-2025-dc-vs-lsg-lance-klusener-press-conference-injury-crisis-vizag-2698557-2025-03-25",
+      "headline": "LSG coach Lance Klusener on injury crisis: Have to mix and match till players returnLucknow Super Giants assistant coach Lance Klusener has said that the team will have to continue to 'mix and match' till the injury crisis subsides after their loss to Delhi Capitals on Monday, March 24. LSG are currently without their frontline pacers and have lost Mohsin Khan for the entire season. "
     },
     {
       "sentiment": "positive",
@@ -370,136 +380,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-gt-vs-pbks-punjab-kings-opening-combination-brad-haddin-2698543-2025-03-25",
       "headline": "Punjab Kings secretive about opening combination ahead of opener vs GTIPL 2025: Punjab Kings remained secretive about their team combination ahead of their first match of the season against Gujarat Titans."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-dc-vs-lsg-lance-klusener-press-conference-rishabh-pant-2698534-2025-03-25",
-      "headline": "LSG coach Klusener disagrees with Rishabh Pant's take on DC loss: Didn't score enoughLucknow Super Giants assistant coach Lance Klusener didn't agree with Rishabh Pant's take on the loss to Delhi Capitals and felt they didn't score enough runs in Vizag on Monday, March 24. LSG's 209 wasn't enough on the day as DC won the match by 1 wicket. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-dc-vs-lsg-ashutosh-sharma-press-conference-vizag-2698527-2025-03-25",
-      "headline": "Will finish with a six: How Ashutosh Sharma held his nerves in DC vs LSG thrillerDelhi Capitals' new hero Ashutosh Sharma claimed that he knew he would finish the game against Lucknow Super Giants with a six on Monday, March 24. Ashutosh starred for DC as they beat LSG by 1 wicket in a final over thriller in Vizag. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-ashutosh-sharma-call-mentor-shikhar-dhawan-delhi-vs-lucknow-thriller-2698525-2025-03-25",
-      "headline": "Watch: Ashutosh gets call from 'mentor' Shikhar Dhawan after special gestureIPL 2025, DC vs LSG: Ashutosh Sharma dedicated his Player of the Match award to mentor Shikhar Dhawan on Monday. The 26-year-old was seen speaking to the former India opener after the heroic 31-ball 66 not out in Vizag. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-dc-vs-lsg-who-is-vipraj-nigam-uttar-pradesh-all-rounder-2698503-2025-03-25",
-      "headline": "Who is Vipraj Nigam? Uttar Pradesh all-rounder new star for Delhi CapitalsDelhi Capitals' young all-rounder Vipraj Nigam made a stunning IPL debut, playing a crucial role in their thrilling 1-wicket win over Lucknow Super Giants, showcasing his batting and bowling prowess in a high-pressure match."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/video/ipl-2025-gt-vs-pbks-shubman-gill-press-conference-2698498-2025-03-25",
-      "headline": "Mohammed Siraj needs to be himself, don't need him to replace Shami: GillGujarat Titans Shubman Gill said that Mohammed Siraj is not here to replace Mohammed Shami in the line-up. The GT captain argued that Siraj needs to be true to his identity."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-ashutosh-sharma-vipraj-nigam-dc-vs-lsg-2698494-2025-03-24",
-      "headline": "Watch: Pietesen jumps out in joy as Ashutosh hits winning six in Vizag thrillerDelhi Capitals coaches Hemang Badani and Kevin Pietersen jumped out of their chairs as Ashutosh Sharma pulled off an epic chase against Lucknow on Monday, March 24. Senior batter Faf du Plessis also had high praise reserved for the players."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/nhl-kings-surge-past-bruins-with-five-straight-goals-glbs-2698472-2025-03-24",
-      "headline": "NHL: Kings surge past bruins with five straight goalsTrailing early, the Los Angeles Kings erupted for five straight goals to defeat the Boston Bruins, extending their winning streak and solidifying their playoff positioning in a dominant performance."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-dc-vs-lsg-score-ashutosh-sharma-vipraj-vizag-thriller-2698470-2025-03-24",
-      "headline": "DC vs LSG: Ashutosh Sharma finishes in style for Delhi in IPL 2025's first thrillerIPL 2025, Delhi vs Lucknow: Ashutosh Sharma did his reputation of a finisher no harm as he single-handedly helped Delhi Capitals steal victory from the jaws of defeat in the season's first thriller. Rishabh Pant's Lucknow lost despite posting 209 on the board. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/titans-sign-veteran-kicker-joey-slye-in-bid-for-stability-glbs-2698463-2025-03-24",
-      "headline": "NFL: Titans sign veteran kicker Joey Slye in bid for stabilityThe Tennessee Titans have agreed to a deal with kicker Joey Slye, aiming to solidify their special teams. Slye, a veteran with multiple teams, brings experience and reliability to Tennessee."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/ncaa-tournament-minnesota-set-to-hire-colorado-states-niko-medved-glbs-2698456-2025-03-24",
-      "headline": "NCAA Tournament: Minnesota set to hire Colorado state's Niko MedvedReports indicate Minnesota is finalizing a deal with Niko Medved, bringing the successful Colorado State coach back to his home state to lead the Gophers basketball program."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/nhl-kings-surge-past-bruins-with-five-straight-goals-glbs-2698472-2025-03-24",
-      "headline": "NHL: Kings surge past bruins with five straight goalsTrailing early, the Los Angeles Kings erupted for five straight goals to defeat the Boston Bruins, extending their winning streak and solidifying their playoff positioning in a dominant performance."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-dc-vs-lsg-score-ashutosh-sharma-vipraj-vizag-thriller-2698470-2025-03-24",
-      "headline": "DC vs LSG: Ashutosh Sharma finishes in style for Delhi in IPL 2025's first thrillerIPL 2025, Delhi vs Lucknow: Ashutosh Sharma did his reputation of a finisher no harm as he single-handedly helped Delhi Capitals steal victory from the jaws of defeat in the season's first thriller. Rishabh Pant's Lucknow lost despite posting 209 on the board. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/titans-sign-veteran-kicker-joey-slye-in-bid-for-stability-glbs-2698463-2025-03-24",
-      "headline": "NFL: Titans sign veteran kicker Joey Slye in bid for stabilityThe Tennessee Titans have agreed to a deal with kicker Joey Slye, aiming to solidify their special teams. Slye, a veteran with multiple teams, brings experience and reliability to Tennessee."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/ncaa-tournament-minnesota-set-to-hire-colorado-states-niko-medved-glbs-2698456-2025-03-24",
-      "headline": "NCAA Tournament: Minnesota set to hire Colorado state's Niko MedvedReports indicate Minnesota is finalizing a deal with Niko Medved, bringing the successful Colorado State coach back to his home state to lead the Gophers basketball program."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/power-conferences-dominate-sweet-16-features-no-mid-majors-for-first-time-2698452-2025-03-24",
-      "headline": "Sweet 16 belongs to power conferences for first time everFor the first time in NCAA Tournament history, only power conference teams remain in the Sweet 16, marking a significant shift as mid-majors are completely shut out."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-kl-rahul-athiya-shetty-baby-girl-congratulations-wishes-2698446-2025-03-24",
-      "headline": "KL Rahul and Athiya Shetty welcome baby girl, Delhi Capitals lead wishesIPL 2025: KL Rahul and Athiya Shetty became parents to a baby girl on Monday. Rahul took a break from the Indian Premier League to be with his wife during the birth of their first child. "
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/nikola-jokic-nba-injury-updates-expected-to-return-during-homestand-glbs-2698430-2025-03-24",
-      "headline": "Nikola Jokic NBA injury updates: Expected to return during homestandMichael Malone, the head coach of the Denver Nuggets confirmed the return of the star center Nikola Jokic during the team's five-game homestand."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-jos-buttler-not-a-problem-shubman-gill-gujarat-titans-vs-punjab-kings-2698426-2025-03-24",
-      "headline": "No team will have a problem with Jos Buttler: Gujarat's Shubman GillShubman Gill backs Jos Buttler as a key asset for Gujarat Titans in IPL 2025, dismissing concerns over his recent form and uncertain batting position ahead of their opening clash against Punjab Kings."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-marcus-stoinis-ms-dhoni-faf-du-plessis-template-2698390-2025-03-24",
-      "headline": "Marcus Stoinis hoping to follow MS Dhoni blueprint in T20 cricketIPL 2025: Punjab Kings' new recruit Marcus Stoinis said he will look to prolong his T20 career. Having retired from ODIs, Stoinis confirmed his availability for Australia in the shortest format of the game. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-dc-vs-lsg-rishabh-pant-six-ball-duck-reactions-memes-2698412-2025-03-24",
-      "headline": "Rs 27 crore ka duck: Rishabh Pant memes viral after LSG captain out for 0 vs DCIPL 2025, DC vs LSG: Rishabh Pant's debut for Lucknow Super Giants was forgettable with the bat. The wicketkeeper-batter affected the momentum of their innings by getting out for a six-ball duck against Delhi Capitals. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/son-of-former-yankees-star-brett-gardner-dies-after-falling-ill-on-vacation-glbs-2698410-2025-03-24",
-      "headline": "Son of former Yankees star Brett Gardner dies after falling ill on vacationBrett Gardner's 14-year-old son, Miller, passed away after a sudden illness during a family vacation. The former Yankees outfielder and his family are mourning the heartbreaking loss."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/lebron-james-nba-injury-status-will-he-play-against-orlando-magic-tonight-glbs-2698405-2025-03-24",
-      "headline": "LeBron James NBA injury status: Will he play against Orlando Magic tonight?Los Angeles Lakers star LeBron James is listed as probable for Monday's matchup, March 24 against the Orlando Magic due to a groin injury."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/stephen-curry-injury-update-warriors-star-expected-to-return-soon-glbs-2698397-2025-03-24",
-      "headline": "Stephen Curry injury update: Warriors star expected to return soonThe Golden State Warriors received positive news regarding Stephen Curry's injury. The star guard suffered a hard fall during the team's win over the Toronto Raptors on Thursday, March 20 during the NBA regular game. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/nba-kyrie-irving-celebrates-33rd-birthday-as-luka-doncic-sends-heartfelt-message-glbs-2698393-2025-03-24",
-      "headline": "NBA: Kyrie Irving celebrates 33rd birthday as Luka Doncic sends heartfelt messageDallas Mavericks star Kyrie Irving turned 33 on Sunday, March 23, fans, teammates and fellow NBA players took time to wish him."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/ex-nba-player-butch-carter-joins-lawsuit-alleging-sexual-abuse-by-indiana-university-team-doctor-glbs-2698368-2025-03-24",
-      "headline": "Ex-NBA player Butch Carter joins lawsuit alleging sexual abuse by Indiana University team doctorEx- NBA player Butch Carter has become the fifth former Indiana University basketball player to accuse longtime team physician Dr. Bradford Bomba of sexual abuse."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/virat-kohli-rohit-sharma-bcci-central-contract-a-plus-category-2698359-2025-03-24",
-      "headline": "BCCI central contracts: Will Rohit, Kohli continue in A+ category?The BCCI is set to announce the men's central contracts soon, with potential reshuffling in the A+ category following Rohit Sharma, Virat Kohli, and Ravindra Jadeja's T20I retirements, sparking discussions on player retainment."
     }
   ],
   "education": [
