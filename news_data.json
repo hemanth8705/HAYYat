@@ -2,6 +2,11 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/pentagon-ends-5-billion-contracts-accenture-deloitte-pete-hegseth-2707949-2025-04-12",
+      "headline": "Pentagon cuts $5.1 billion contracts with Accenture, Deloitte: Wasteful spendingThe contracts appeared to be wide-ranging cuts to consulting services for the Navy, the Air Force, the Defense Advanced Research Projects Agency (DARPA) and the Defense Health Agency."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/wall-street-bounces-back-after-wild-week-fueled-by-tariff-war-2707818-2025-04-12",
       "headline": "Wall Street bounces back after wild week fueled by tariff warAll three major US indexes ended the session sharply higher after assurances from Boston Federal Reserve President Susan Collins that the Fed is prepared to keep financial markets functioning should the need arise."
     },
@@ -54,14 +59,19 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/amfi-data-mutual-fund-inflows-drop-march-2025-rs-4221-crore-global-uncertainty-2707374-2025-04-11",
       "headline": "Mutual fund inflows fall for March by Rs 4,221 crore, shows AMFI dataEquity mutual fund inflows dropped by Rs 4,221 crore in March, falling to Rs 25,082 crore from Rs 29,303 crore in February 2025, as per data released by the Association of Mutual Funds in India (AMFI). "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/tcs-share-price-down-q4-results-brokerage-ratings-price-targets-key-details-2707333-2025-04-11",
-      "headline": "TCS shares fall after disappointing Q4. Check latest price targetsTCS share price: Despite a muted Q4, brokerages back TCS with revised targets, betting on deal wins, margin levers, and recovery prospects to drive medium-term gains."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/hema-malini-dharamendra-is-happy-with-jaat-success-esha-deol-praises-sunny-deol-2707946-2025-04-12",
+      "headline": "Hema Malini says Dharamendra is happy with Jaat's success, Esha praises Sunny DeolHema Malini and Esha Deol praised Sunny Deol's 'Jaat'. The veteran actor stated that 'Dharam ji is very happy' over the film's bumper opening. "
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/story/phule-director-anant-mahadevan-controversy-caste-representation-2707928-2025-04-12",
+      "headline": "Phule director calls controversy over film 'unnecessary', reveals why it was delayed'Phule' director Anant Mahadevan called the controversy around the film 'exaggerated' and 'unnecessary'. He said that the censor board was not the reason for postponing the release. "
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/television/story/karan-kundrra-slams-reports-of-wedding-with-tejasswi-sick-of-you-marrying-me-off-2707918-2025-04-12",
@@ -146,16 +156,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/priyanka-chopra-reunites-with-hrithik-roshan-for-krrish-4-aditya-chopra-yrf-2707525-2025-04-11",
       "headline": "Priyanka Chopra reunites with Hrithik Roshan for Krrish 4: ReportPriyanka Chopra is reportedly believed to have joined forces with Hrithik Roshan again for Krrish 4. The next part of the franchise will be directed by Hrithik. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/nushrratt-bharuccha-meets-pm-modi-thanks-him-for-rescuing-her-from-israel-2707502-2025-04-11",
-      "headline": "Nushrratt Bharuccha meets PM Modi, thanks him for rescuing her from IsraelNushrratt Bharuccha shared a post and thanked Prime Minister Narendra Modi for bringing her back from war-torn Israel during the recent conflicts. This comes after the actor met PM Modi at a recent event. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/akshay-kumar-reacts-to-political-row-over-sankaran-nair-kesari-2-rajeev-chandrasekhar-2707487-2025-04-11",
-      "headline": "I'm just an actor: Akshay Kumar reacts to political row over Sankaran NairAkshay Kumar distanced himself from political comments linked to his upcoming film 'Kesari 2' in which he portarys a pre-Independence president of the Indian National Congress. "
     }
   ],
   "general news": [
@@ -181,33 +181,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/society/story/if-netflixs-adolescence-was-made-in-india-would-the-plot-take-a-darker-turn-2707733-2025-04-12",
-      "headline": "If Netflix's Adolescence was made in India, would the plot take a darker turn?Adolescence left many contemplating several things - upbringing, peer influence, the challenges of being a teenager in the social media era. But for me, the biggest question was this: if a series like this were made in India, would the narrative have been any different?"
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/meta-worked-hand-in-glove-with-china-censorship-betrayed-us-values-shared-user-data-whistleblower-sarah-wynn-williams-2707845-2025-04-12",
-      "headline": "Meta worked 'hand in glove' with China on censorship, betrayed US: WhistleblowerMeta whistleblower Sarah Wynn-Williams testified before the Senate judiciary subcommittee that the tech titan helped the Chinese government build censorship tools and also allowed it access to user data."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/vanishing-daughters-haryana-sex-determination-abortion-decoy-beti-bachao-beti-padhao-raid-2707741-2025-04-11",
-      "headline": "Vanishing Daughters, Part 3: Being a decoy in a Beti Bachao Beti Padhao raidA journalist-turned-decoy narrates harrowing sting operation exposing India's illegal sex determination industry, where doctors moonlight as law enforcers, informers risk everything, and bureaucratic turf wars often let the culprits slip through the cracks. "
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/devendra-fadnavis-on-rsss-role-in-2611-attacks-remark-congress-digvijaya-singh-dont-respond-to-idiots-2707858-2025-04-12",
-      "headline": "I don't respond to idiots: Devendra Fadnavis on RSS's role in 26/11 attacks remarkIn December 2010, Digvijaya Singh sparked a major controversy by claiming that Maharashtra Anti-Terrorism Squad (ATS) chief Hemant Karkare had spoken to him just hours before the 26/11 attacks began. "
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/hollywood/story/how-marvel-tv-brought-the-mcu-back-to-life-after-endgames-uncertain-future-2707617-2025-04-12",
       "headline": "How Marvel TV brought the MCU back to life after Endgame's uncertain futureAfter 'Avengers: Endgame', Marvel fans were uncertain about the future. However, shows like 'Agatha All Along' and 'Daredevil: Born Again' have reignited excitement and faith in the MCU."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/lsg-vs-gt-preview-ipl-2025-predicted-11s-pitch-report-lucknow-weather-2707636-2025-04-12",
-      "headline": "Gujarat aim to tighten top spot grip against confident LucknowIPL 2025, LSG vs GT: Gujarat Titans have won four matches on the trot and will be looking to build on their momentum when they face Rishabh Pant's Lucknow Super Giants in the first of Saturday's doubleheader. "
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/indian-origin-us-politician-arrested-in-gambling-racket-involving-italian-mafia-2707932-2025-04-12",
+      "headline": "Indian-origin US politician arrested in gambling racket involving Italian mafiaAnand Shah, 42, a New Jersey council member and local business owner, was allegedly responsible for overseeing illegal gambling dens in New York alongside the notorious Lucchese crime family."
     },
     {
       "sentiment": "positive",
@@ -215,14 +195,34 @@
       "headline": "'Freak' storm, rain batter Delhi; over 200 flights hit, more showers likely The abrupt weather change brought relief from the scorching heat but also caused extensive damage and chaos in several areas. The India Meteorological Department (IMD) has predicted light rain accompanied by thunderstorms and squally winds for today."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/us-judge-allows-mahmoud-khalil-deportation-cites-national-security-risk-glbs-2707813-2025-04-12",
-      "headline": "US court allows Columbia pro-Gaza activist Mahmoud Khalil's deportationMahmoud Khalil, a legal US resident, was taken into custody and flown to an immigration detention facility in Jena, Louisiana, far from his legal team and his wife."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/meta-worked-hand-in-glove-with-china-censorship-betrayed-us-values-shared-user-data-whistleblower-sarah-wynn-williams-2707845-2025-04-12",
+      "headline": "Meta worked 'hand in glove' with China on censorship, betrayed US: WhistleblowerMeta whistleblower Sarah Wynn-Williams testified before the Senate judiciary subcommittee that the tech titan helped the Chinese government build censorship tools and also allowed it access to user data."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ms-dhoni-csk-vs-kkr-drs-out-controversy-ipl-2025-virender-sehwag-2707854-2025-04-12",
-      "headline": "MS Dhoni out or not out vs KKR? Virender Sehwag's brutal take goes viralFormer cricketer Virender Sehwag has taken yet another sharp dig at MS Dhoni after the team's heavy defeat against KKR on Friday. Sehwag said even if Dhoni had been not out, it would not have made any difference to the result of the game. \r\n"
+      "url": "https://www.indiatoday.in/lifestyle/society/story/if-netflixs-adolescence-was-made-in-india-would-the-plot-take-a-darker-turn-2707733-2025-04-12",
+      "headline": "If Netflix's Adolescence was made in India, would the plot take a darker turn?Adolescence left many contemplating several things - upbringing, peer influence, the challenges of being a teenager in the social media era. But for me, the biggest question was this: if a series like this were made in India, would the narrative have been any different?"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/lsg-vs-gt-preview-ipl-2025-predicted-11s-pitch-report-lucknow-weather-2707636-2025-04-12",
+      "headline": "Gujarat aim to tighten top spot grip against confident LucknowIPL 2025, LSG vs GT: Gujarat Titans have won four matches on the trot and will be looking to build on their momentum when they face Rishabh Pant's Lucknow Super Giants in the first of Saturday's doubleheader. "
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/devendra-fadnavis-on-rsss-role-in-2611-attacks-remark-congress-digvijaya-singh-dont-respond-to-idiots-2707858-2025-04-12",
+      "headline": "Devendra Fadnavis's 'idiots' dig at Digvijaya Singh over RSS conspiracy remarkIn December 2010, Digvijaya Singh sparked a major controversy by claiming that Maharashtra Anti-Terrorism Squad (ATS) chief Hemant Karkare had spoken to him just hours before the 26/11 attacks began. "
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/story/phule-director-anant-mahadevan-controversy-caste-representation-2707928-2025-04-12",
+      "headline": "Phule director calls controversy over film 'unnecessary', reveals why it was delayed'Phule' director Anant Mahadevan called the controversy around the film 'exaggerated' and 'unnecessary'. He said that the censor board was not the reason for postponing the release. "
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/vanishing-daughters-haryana-sex-determination-abortion-decoy-beti-bachao-beti-padhao-raid-2707741-2025-04-11",
+      "headline": "Vanishing Daughters, Part 3: Being a decoy in a Beti Bachao Beti Padhao raidA journalist-turned-decoy narrates harrowing sting operation exposing India's illegal sex determination industry, where doctors moonlight as law enforcers, informers risk everything, and bureaucratic turf wars often let the culprits slip through the cracks. "
     },
     {
       "sentiment": "positive",
@@ -230,9 +230,9 @@
       "headline": "AP Inter 1st, 2nd Year Results 2025 declared: Direct link to downloadThe Andhra Pradesh Board of Intermediate Education (BIEAP) has  released the Intermediate Public Examination (IPE) results for both 1st and 2nd year students today, April 12, 2025, at 11 AM. The results has been announced in a press briefing and then made available on the official portals: resultsbie.ap.gov.in and bieap.apcfss.in"
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/ahmedabad/story/gujarat-fire-people-jump-from-balcony-in-ahmedabad-child-dangles-in-air-after-fire-at-high-rise-2707852-2025-04-12",
-      "headline": "Video: People jump from balcony, child dangles in air after fire at high-riseIn a viral video, the woman can be seen dangling one child in the air from the fourth floor, which was already engulfed in thick smoke. As the woman cried for help, a few people gathered on the third floor caught hold of the child, who was hanging mid-air."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/programme/newstrack-with-rahul-kanwal/video/adolescence-in-focus-experts-discuss-impact-of-social-media-parenting-on-teens-2707748-2025-04-11",
+      "headline": "Adolescence in focus: Experts discuss impact of social media, parenting on teensBritish crime drama Adolescence has taken the world of the internet by storm and has sparked a global debate on the way parents nurture their kids as well as the kind of adverse effect social media could have on young, immature minds. The four-part Netflix series deals with a host of issues."
     },
     {
       "sentiment": "positive",
@@ -241,13 +241,28 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/apoorva-mukhija-smiling-photo-cryptic-caption-publix-apology-2707855-2025-04-12",
-      "headline": "Apoorva Mukhija posts smiling pic with cryptic caption after public apologyInfluencer and actor Apoorva Mukhija shared a smiling photo of herself with a cryptic caption on Friday. A couple of days ago, she publicly apologised for her comments and talked about the rape and death threats she received amid India's Got Latent controversy."
+      "url": "https://www.indiatoday.in/sports/cricket/story/ms-dhoni-csk-vs-kkr-drs-out-controversy-ipl-2025-virender-sehwag-2707854-2025-04-12",
+      "headline": "MS Dhoni out or not out vs KKR? Virender Sehwag's brutal take goes viralFormer cricketer Virender Sehwag has taken yet another sharp dig at MS Dhoni after the team's heavy defeat against KKR on Friday. Sehwag said even if Dhoni had been not out, it would not have made any difference to the result of the game. \r\n"
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/interactive/quiz/trending/weekly-quiz-472-11-04-2025",
       "headline": "Question Time: Weekly News QuizThink you read the headlines this week? Let's test that!"
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/cities/ahmedabad/story/gujarat-fire-people-jump-from-balcony-in-ahmedabad-child-dangles-in-air-after-fire-at-high-rise-2707852-2025-04-12",
+      "headline": "Video: People jump from balcony, child dangles in air after fire at high-riseIn a viral video, the woman can be seen dangling one child in the air from the fourth floor, which was already engulfed in thick smoke. As the woman cried for help, a few people gathered on the third floor caught hold of the child, who was hanging mid-air."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/mohammad-rizwan-not-educated-english-speaking-psl-2707924-2025-04-12",
+      "headline": "Mohammad Rizwan: Pakistan's demand from me is cricket, not EnglishPakistan captain Mohammed Rizwan has said that he is not ashamed his poor English. In an emotional rant, Rizwan has said that what Pakistan needs from him is cricket and not perfect English.\r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/trending-news/story/bengaluru-metro-pda-young-couple-viral-video-namma-metro-station-divides-internet-2707899-2025-04-12",
+      "headline": "Video of couple's 'inappropriate' act at Bengaluru metro station platform goes viralA video of a couple's public display of affection (PDA) at a metro station in Bengaluru has gone viral on social media. "
     },
     {
       "sentiment": "negative",
@@ -261,26 +276,16 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/bengaluru-metro-pda-young-couple-viral-video-namma-metro-station-divides-internet-2707899-2025-04-12",
-      "headline": "Video of couple's 'inappropriate' act at Bengaluru metro station platform goes viralA video of a couple's public display of affection (PDA) at a metro station in Bengaluru has gone viral on social media. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/going-very-well-donald-trump-defends-tariff-policy-market-turmoil-china-escalation-2707879-2025-04-12",
-      "headline": "Doing really well: Trump defends tariff policy amid market jitters, China blowbackTrump's remarks came just hours after Beijing upped tariffs on US imports to 125 per cent, retaliating against the Trump administration's decision to impose steep new duties on Chinese goods. The tit-for-tat escalation has sent shockwaves through global markets."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/auto/cars/story/hyundai-santro-the-car-that-challenged-marutis-supremacy-2707683-2025-04-12",
       "headline": "Hyundai Santro: The car that challenged Maruti's supremacyIn the late 1990s, India's car market was dominated by Maruti Suzuki, but Hyundai's Santro disrupted the scene with its tall-boy design, practicality, and Shah Rukh Khan's endorsement, redefining small-car expectations."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/tamil-nadu/story/k-annamalai-tamil-nadu-bjp-amit-shah-national-role-new-president-nainar-nagendran-2707615-2025-04-11",
-      "headline": "Annamalai likely to get national role in BJP, signals Amit ShahUnion Home Minister Amit Shah hinted at a national-level role for outgoing Tamil Nadu BJP chief K Annamalai, following his withdrawal from the race for the party's state unit president."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-glenn-phillips-ruled-out-groin-injury-gujarat-titans-2707933-2025-04-12",
+      "headline": "Gujarat Titans star Glenn Phillips ruled out of IPL 2025 with groin injuryIPL 2025: Gujarat Titans have suffered another setback as Glenn Phillips has been ruled out of IPL 2025 with a groin injury, joining Kagiso Rabada on the list of key players missing this season."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/mohammad-rizwan-not-educated-english-speaking-psl-2707924-2025-04-12",
@@ -332,9 +337,9 @@
       "headline": "CSK conservative in powerplay: MS Dhoni's viewpoint criticised by Matthew HaydenMatthew Hayden doesn't agree with MS Dhoni's viewpoint that CSK has to be conservative in the powerplay after their loss to KKR. CSK suffered a big loss at home to remain in the 9th spot on the points table. "
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-csk-vs-kkr-mike-hussey-ms-dhoni-2707831-2025-04-12",
-      "headline": "Michael Hussey defends CSK's experience mantra despite heavy defeat to KKRIPL 2025, CSK vs KKR: Michael Hussey showed faith in the Chennai Super Kings veterans to do well later in the tournament, backing them after the heavy defeat to Kolkata Knight Riders at Chepauk."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/cricket/video/ipl-2025-csk-vs-kkr-chennai-super-kings-batting-coach-michael-hussey-press-conference-2707874-2025-04-12",
+      "headline": "KKR loss hurts a lot, time for self-reflection, says CSK batting coachChennai Super Kings' batting coach Michael Hussey said the entire team was disappointed after the heavy loss to Kolkata Knight Riders. \"Obviously, we are very disappointed with the result and the performance tonight,\" Hussey said in the post-match press conference."
     },
     {
       "sentiment": "positive",
@@ -355,11 +360,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-matthew-hayden-ms-dhoni-csk-powerplay-approach-2707847-2025-04-12",
       "headline": "CSK conservative in powerplay: MS Dhoni's viewpoint criticised by Matthew HaydenMatthew Hayden doesn't agree with MS Dhoni's viewpoint that CSK has to be conservative in the powerplay after their loss to KKR. CSK suffered a big loss at home to remain in the 9th spot on the points table. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-csk-vs-kkr-mike-hussey-ms-dhoni-2707831-2025-04-12",
-      "headline": "Michael Hussey defends CSK's experience mantra despite heavy defeat to KKRIPL 2025, CSK vs KKR: Michael Hussey showed faith in the Chennai Super Kings veterans to do well later in the tournament, backing them after the heavy defeat to Kolkata Knight Riders at Chepauk."
     }
   ],
   "education": [
