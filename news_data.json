@@ -160,9 +160,19 @@
   ],
   "general news": [
     {
-      "sentiment": "negative",
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/russian-missile-struck-indian-pharma-warehouse-in-kyiv-claims-ukraine-2708149-2025-04-12",
-      "headline": "Russian missile struck Indian pharma warehouse in Kyiv, claims UkraineRussian missile struck Indian pharma warehouse in Kyiv, claims Ukraine"
+      "headline": "Russian missile struck Indian pharma warehouse in Kyiv, claims UkraineUkraine's Embassy in India claimed that a Russian missile hit the warehouse of an Indian pharma firm, Kusum, in Kyiv. India and Russia are yet to comment on the incident."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/karnataka/story/karnataka-caste-census-panel-recommendations-raise-obc-quota-to-51-per-cent-horizontal-job-reservation-2708159-2025-04-12",
+      "headline": "Karnataka caste census panel bats for 51% OBC quota, horizontal job reservationThe Karnataka caste census commission has recommended raising the OBC reservation quota from 32 per cent to 51 per cent, which would push total reservation in the state to 85 per cent. "
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/murshidabad-violence-waqf-protest-west-bengal-case-arrest-latest-news-mamata-banerjee-2708023-2025-04-12",
+      "headline": "Father, son hacked to death in Bengal as Waqf protest turns violent; 110 arrestedA father and son were hacked to death by a mob in Murshidabad on Saturday amid violence over the Waqf Amendment Act. "
     },
     {
       "sentiment": "positive",
@@ -171,18 +181,8 @@
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/murshidabad-violence-waqf-protest-west-bengal-case-arrest-latest-news-mamata-banerjee-2708023-2025-04-12",
-      "headline": "Father, son hacked to death in Bengal as Waqf protest turns violent; 110 arrestedA father and son were hacked to death by a mob in Murshidabad on Saturday amid violence over the Waqf Amendment Act. "
-    },
-    {
-      "sentiment": "negative",
       "url": "https://www.indiatoday.in/world/story/us-illegal-immigrants-registration-rule-indian-h1b-visa-green-card-holders-documentation-2707985-2025-04-12",
       "headline": "Indian H-1B, green card holders need to carry ID 24x7? What new US rule saysThe rule came into effect on April 11. A US court allowed the Trump administration to enforce the contentious rule requiring illegal immigrants to register with the government and carry documentation."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/hollywood/story/how-marvel-tv-brought-the-mcu-back-to-life-after-endgames-uncertain-future-2707617-2025-04-12",
-      "headline": "How Marvel TV brought the MCU back to life after Endgame's uncertain futureAfter 'Avengers: Endgame', Marvel fans were uncertain about the future. However, shows like 'Agatha All Along' and 'Daredevil: Born Again' have reignited excitement and faith in the MCU."
     },
     {
       "sentiment": "positive",
@@ -191,13 +191,23 @@
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/tamil-nadu/story/dmk-mk-stalin-on-nda-aiadmk-bjp-alliance-for-tn-2026-polls-surrendered-itself-like-old-bonded-slave-vijay-ttv-dhinakaran-react-2708041-2025-04-12",
-      "headline": "Surrendered like old bonded slave: MK Stalin slams AIADMK for reuniting with BJPTamil Nadu Chief Minister MK Stalin launched a scathing attack on the AIADMK-BJP alliance announced for Tamil Nadu's 2026 polls. Among other criticisms, he described it as an alliance driven by hunger for power. "
+      "url": "https://www.indiatoday.in/sports/cricket/story/mohammed-shami-registers-most-expensive-bowling-figures-by-indian-in-ipl-history-2708151-2025-04-12",
+      "headline": "Shami registers most expensive bowling figures by an Indian in IPL historyIndia and Sunrisers Hyderabad (SRH) fast bowler Mohammed Shami registered the most expensive bowling figures by an Indian in IPL history during Match 27 against Punjab Kings (PBKS). "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/law-news/story/supreme-court-deadline-3-months-president-bills-referred-by-governors-2707895-2025-04-12",
-      "headline": "In a first, Supreme Court sets deadline for President to decide on billsThe Supreme Court's ruling came as it set aside the Tamil Nadu Governor's decision to withhold assent to pending bills. The order was made public on Friday."
+      "url": "https://www.indiatoday.in/india/tamil-nadu/story/tn-govt-notifies-10-pending-acts-without-governor-or-presidents-assent-only-sc-order-public-2707950-2025-04-12",
+      "headline": "In a first, Tamil Nadu notifies 10 Acts without Governor, President assentThe Tamil Nadu government notified 10 Acts without receiving assent from either the Governor or the President. This move was enabled by a recent Supreme Court verdict. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/how-marvel-tv-brought-the-mcu-back-to-life-after-endgames-uncertain-future-2707617-2025-04-12",
+      "headline": "How Marvel TV brought the MCU back to life after Endgame's uncertain futureAfter 'Avengers: Endgame', Marvel fans were uncertain about the future. However, shows like 'Agatha All Along' and 'Daredevil: Born Again' have reignited excitement and faith in the MCU."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/tamil-nadu/story/dmk-mk-stalin-on-nda-aiadmk-bjp-alliance-for-tn-2026-polls-surrendered-itself-like-old-bonded-slave-vijay-ttv-dhinakaran-react-2708041-2025-04-12",
+      "headline": "Surrendered like old bonded slave: MK Stalin slams AIADMK for reuniting with BJPTamil Nadu Chief Minister MK Stalin launched a scathing attack on the AIADMK-BJP alliance announced for Tamil Nadu's 2026 polls. Among other criticisms, he described it as an alliance driven by hunger for power. "
     },
     {
       "sentiment": "positive",
@@ -210,6 +220,11 @@
       "headline": "Court orders central forces' deployment in Murshidabad over Waqf-related violenceCentral forces will be deployed in West Bengal's Murshidabad district, which is witnessing large-scale violence during protests against the Waqf Act, the Calcutta High Court ruled."
     },
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/trending-news/story/noida-woman-grabs-another-by-hair-pins-her-down-viral-video-2708026-2025-04-12",
+      "headline": "Noida woman grabs another by hair, pins her down. Police react as video goes viralA personal dispute between two women in a Noida society intensified into violence, and a video of the incident went viral on social media.  "
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/om-birla-attends-pulwama-martyr-daughter-wedding-2708014-2025-04-12",
       "headline": "Om Birla fulfils promise, attends wedding of slain Pulwama jawan's daughterLok Sabha Speaker Om Birla attended the wedding of the daughter of slain Pulwama jawan Hemraj Meena. Meena was killed in the 2019 Pulwama terror attack."
@@ -220,14 +235,19 @@
       "headline": "Half-burnt body of girl found in field in JharkhandA girl was allegedly raped and murdered near Ranchi, with her body found in a field, her throat slit and partially burnt."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/trending-news/story/noida-woman-grabs-another-by-hair-pins-her-down-viral-video-2708026-2025-04-12",
-      "headline": "Noida woman grabs another by hair, pins her down. Police react as video goes viralA personal dispute between two women in a Noida society intensified into violence, and a video of the incident went viral on social media.  "
-    },
-    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/drs-ipl-2025-ambati-rayudu-csk-commentary-ms-dhoni-2707998-2025-04-12",
       "headline": "IPL 2025: Is it okay for commentators to be biased toward teams and players?IPL 2025: Ambati Rayudu's recent statements on the IPL broadcast have caused a stir amongst the fans. They have questioned Rayudu's loyalty to MS Dhoni. In this edition of the Democratic Review System, we explore the idea of whether the commentators should be biased, or should they be objective through and through?\r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ms-dhoni-csk-fall-ipl-2025-2707902-2025-04-12",
+      "headline": "CSK's fall in IPL 2025: Gotham burns and the Dark Knight can't save itIn IPL 2025, Chennai Super Kings are struggling in a deep slump, with MS Dhoni unable to turn the tide. Despite their rich legacy, the team's outdated tactics and lack of spark leave them on the brink of collapse, with no clear hero to save them.\r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/interactive/quiz/trending/weekly-quiz-472-11-04-2025",
+      "headline": "Question Time: Weekly News QuizThink you read the headlines this week? Let's test that!"
     },
     {
       "sentiment": "negative",
@@ -241,13 +261,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ms-dhoni-csk-fall-ipl-2025-2707902-2025-04-12",
-      "headline": "CSK's fall in IPL 2025: Gotham burns and the Dark Knight can't save itIn IPL 2025, Chennai Super Kings are struggling in a deep slump, with MS Dhoni unable to turn the tide. Despite their rich legacy, the team's outdated tactics and lack of spark leave them on the brink of collapse, with no clear hero to save them.\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/interactive/quiz/trending/weekly-quiz-472-11-04-2025",
-      "headline": "Question Time: Weekly News QuizThink you read the headlines this week? Let's test that!"
+      "url": "https://www.indiatoday.in/lifestyle/society/story/if-netflixs-adolescence-was-made-in-india-would-the-plot-take-a-darker-turn-2707733-2025-04-12",
+      "headline": "If Netflix's Adolescence was made in India, would the plot take a darker turn?Adolescence left many contemplating several things - upbringing, peer influence, the challenges of being a teenager in the social media era. But for me, the biggest question was this: if a series like this were made in India, would the narrative have been any different?"
     },
     {
       "sentiment": "positive",
@@ -261,26 +276,21 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/society/story/if-netflixs-adolescence-was-made-in-india-would-the-plot-take-a-darker-turn-2707733-2025-04-12",
-      "headline": "If Netflix's Adolescence was made in India, would the plot take a darker turn?Adolescence left many contemplating several things - upbringing, peer influence, the challenges of being a teenager in the social media era. But for me, the biggest question was this: if a series like this were made in India, would the narrative have been any different?"
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/opinion/story/aiadmk-bjp-join-hands-challenge-dmk-tamil-nadu-2026-assembly-polls-2707951-2025-04-12",
       "headline": "Back to the future: BJP and AIADMK hit reverse gear with eye on 2026 electionAmit Shah's Chennai visit signalled the BJP's full tilt toward AIADMK, stressing Tamil pride, political tact, and a revived alliance - one that hopes to challenge the DMK's stronghold ahead of 2026."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/tamil-nadu/story/tn-govt-notifies-10-pending-acts-without-governor-or-presidents-assent-only-sc-order-public-2707950-2025-04-12",
-      "headline": "In a first, Tamil Nadu notifies 10 Acts without Governor, President assentThe Tamil Nadu government notified 10 Acts without receiving assent from either the Governor or the President. This move was enabled by a recent Supreme Court verdict. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/amit-shah-aurangzeb-tomb-row-marathas-shivaji-maharaj-death-anniversary-2708050-2025-04-12",
-      "headline": "Aurangzeb, who fought Marathas in Maharashtra, buried in its soil: Amit ShahAmit Shah, speaking at an event on the occasion of Shivaji Maharaj's death anniversary, said the legacy of the Maratha warrior king shouldn't be just confined to Maharashtra."
     }
   ],
   "sports": [
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/cricket/video/ipl-2025-deepak-chahar-on-mumbai-indians-performance-dc-vs-mi-2708158-2025-04-12",
+      "headline": "Individuals are performing but collective performance is lacking for MI: ChaharIndia and Mumbai Indians all-rounder Deepak Chahar feels that individual performances are happening for their team but they're not able to pull off a collective performance. Mumbai have lost four out of five matches so far and will next take on Delhi Capitals on April 13 at Arun Jaitley Stadium."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/cricket/story/mohammed-shami-registers-most-expensive-bowling-figures-by-indian-in-ipl-history-2708151-2025-04-12",
+      "headline": "Shami registers most expensive bowling figures by an Indian in IPL historyIndia and Sunrisers Hyderabad (SRH) fast bowler Mohammed Shami registered the most expensive bowling figures by an Indian in IPL history during Match 27 against Punjab Kings (PBKS). "
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-rajat-patidar-rr-vs-rcb-press-conference-2708142-2025-04-12",
@@ -319,17 +329,17 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/isl-2024-25-final-mohun-bagan-vs-bengaluru-fc-live-score-updates-kolkata-2708090-2025-04-12",
-      "headline": "ISL 2025 final, Mohun Bagan vs Bengaluru FC Live: Maclaren puts Mariners aheadISL Final, Mohun Bagan vs Bengaluru FC Live: Jamie Maclaren has given Mohun Bagan the lead with a fine strike that left Gurpreet Sandhu rooted to his spot. The Mariners have changed the tide of the contest after the penalty and they have one hand on the title at the moment. "
+      "headline": "ISL 2025 final, Mohun Bagan vs Bengaluru FC Live: Mohun Bagan complete double with cup winISL Final, Mohun Bagan vs Bengaluru FC Live: Jamie Maclaren was the star of the show as Mohun Bagan completed a comeback win against Bengaluru FC to claim the double. After trailing to an early goal in the second half, Cummings and Maclaren turned the game on its head. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-vaibhav-suryavanshi-jofra-archer-rajasthan-royals-nets-session-watch-video-2708081-2025-04-12",
-      "headline": "Watch: 14-year-old Vaibhav Suryavanshi takes on fiery Jofra Archer in RR netsRR's 14-year-old Vaibhav Suryavanshi faced Jofra Archer in the nets and looked fearless, raising expectations about his debut. Suryavanshi is yet to make his IPL debut, with cpach Rahul Dravid having emphasised the importance of timing his exposure. "
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-dc-vs-mi-axar-patel-ashutosh-sharma-press-conference-2708106-2025-04-12",
+      "headline": "Axar Patel has made youngsters feel comfortable at DC: Ashutosh SharmaIPL 2025, DC vs MI: Ashutosh Sharma heaped praise on Axar Patel for leading the Delhi Capitals from the front. DC are the only undefeated team in the competition with four wins from as many matches. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/i-league-champions-controversy-inter-kashi-churchill-brothers-aiff-verdict-2708066-2025-04-12",
-      "headline": "I-League title row explained: Inter Kashi, Churchill await AIFF verdictSix days since the I-League ended, the title remains undecided. Inter Kashi and Churchill Brothers wait as AIFF prepares a crucial verdict on a match dispute that could rewrite the season's final outcome."
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-lsg-vs-gt-report-nicholas-pooran-rishabh-pant-failure-ekana-2708108-2025-04-12",
+      "headline": "IPL 2025: Pooran masks Pant's failure as LSG clinch nail-biter against GTLSG vs GT, IPL 2025: Nicholas Pooran's explosive hitting and Aiden Markram's steady redemption powered Lucknow Super Giants past Gujarat Titans in a high-stakes clash. While GT's top-order shone early, LSG's counterpunch exposed their middle-order woes and shook up the points table dynamics."
     },
     {
       "sentiment": "positive",
@@ -339,127 +349,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/isl-2024-25-final-mohun-bagan-vs-bengaluru-fc-live-score-updates-kolkata-2708090-2025-04-12",
-      "headline": "ISL 2025 final, Mohun Bagan vs Bengaluru FC Live: Maclaren puts Mariners aheadISL Final, Mohun Bagan vs Bengaluru FC Live: Jamie Maclaren has given Mohun Bagan the lead with a fine strike that left Gurpreet Sandhu rooted to his spot. The Mariners have changed the tide of the contest after the penalty and they have one hand on the title at the moment. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-vaibhav-suryavanshi-jofra-archer-rajasthan-royals-nets-session-watch-video-2708081-2025-04-12",
-      "headline": "Watch: 14-year-old Vaibhav Suryavanshi takes on fiery Jofra Archer in RR netsRR's 14-year-old Vaibhav Suryavanshi faced Jofra Archer in the nets and looked fearless, raising expectations about his debut. Suryavanshi is yet to make his IPL debut, with cpach Rahul Dravid having emphasised the importance of timing his exposure. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/i-league-champions-controversy-inter-kashi-churchill-brothers-aiff-verdict-2708066-2025-04-12",
-      "headline": "I-League title row explained: Inter Kashi, Churchill await AIFF verdictSix days since the I-League ended, the title remains undecided. Inter Kashi and Churchill Brothers wait as AIFF prepares a crucial verdict on a match dispute that could rewrite the season's final outcome."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-rcb-to-wear-green-jerseys-vs-rr-to-promote-sustainability-2708060-2025-04-12",
-      "headline": "IPL 2025: RCB to wear green jerseys vs RR to promote sustainabilityRoyal Challengers Bengaluru (RCB) are set to wear green jerseys in their sixth fixture of the Indian Premier League 2025 (IPL 2025) against Rajasthan Royals (RR)."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-csk-vs-kkr-ajinkya-rahane-ottis-gibson-chennai-2708015-2025-04-12",
-      "headline": "Like Dhoni, Kohli, Ajinkya Rahane role model for KKR: Ottis Gibson after CSK winKKR assistant coach Ottis Gibson heaped praise on Ajinkya Rahane for being a role model for the team. Rahane has been KKR's best batter this season and has guided them to a good start to the IPL 2025 campaign. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/diamond-harbour-fc-i-league-2708012-2025-04-12",
-      "headline": "Diamond Harbour enters I-League, 4th Bengal-based club to enter tournamentDiamond Harbour FC secured promotion to the I-League after defeating Sports Academy Tirur 2-1 in I-League 2. They became the fourth Bengal-based club to play in the prestigious national football league."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/rishabh-pant-mitchell-marsh-not-playing-lsg-vs-gt-ipl-2708006-2025-04-12",
-      "headline": "Rishabh Pant explains why fit Marsh was ruled out of GT clashLucknow Super Giants were forced to leave out a fit Mitchell Marsh out of their playing line-up against Gujarat Titans. Marsh was ruled out due to his daughter falling ill."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/drs-ipl-2025-ambati-rayudu-csk-commentary-ms-dhoni-2707998-2025-04-12",
-      "headline": "IPL 2025: Is it okay for commentators to be biased toward teams and players?IPL 2025: Ambati Rayudu's recent statements on the IPL broadcast have caused a stir amongst the fans. They have questioned Rayudu's loyalty to MS Dhoni. In this edition of the Democratic Review System, we explore the idea of whether the commentators should be biased, or should they be objective through and through?\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-srh-vs-pbks-match-preview-precited-xi-weather-forecast-hyderabad-2707980-2025-04-12",
-      "headline": "SRH vs PBKS, Match Preview: Struggling Hyderabad's test of fate against Project PunjabIPL 2025, SRH vs PBKS Match Preview: Sunrisers Hyderabad face a red-hot Punjab Kings side in a must-win encounter, with SRH battling form and confidence while PBKS continue their dominant run in IPL 2025 under the steady hands of Shreyas Iyer."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/lsg-vs-gt-srh-vs-pbks-digvesh-rathi-celebration-ipl-moral-policing-2707976-2025-04-12",
-      "headline": "From Digvesh to Maxwell: Should IPL stop moral policing its players?IPL has continually fined cricketers for either celebrating a wicket or showing frustration while getting out. If the players cannot do either, what remains to be the point of sports?"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/drs-ipl-2025-ambati-rayudu-csk-commentary-ms-dhoni-2707998-2025-04-12",
-      "headline": "IPL 2025: Is it okay for commentators to be biased toward teams and players?IPL 2025: Ambati Rayudu's recent statements on the IPL broadcast have caused a stir amongst the fans. They have questioned Rayudu's loyalty to MS Dhoni. In this edition of the Democratic Review System, we explore the idea of whether the commentators should be biased, or should they be objective through and through?\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-srh-vs-pbks-match-preview-precited-xi-weather-forecast-hyderabad-2707980-2025-04-12",
-      "headline": "SRH vs PBKS, Match Preview: Struggling Hyderabad's test of fate against Project PunjabIPL 2025, SRH vs PBKS Match Preview: Sunrisers Hyderabad face a red-hot Punjab Kings side in a must-win encounter, with SRH battling form and confidence while PBKS continue their dominant run in IPL 2025 under the steady hands of Shreyas Iyer."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/lsg-vs-gt-srh-vs-pbks-digvesh-rathi-celebration-ipl-moral-policing-2707976-2025-04-12",
-      "headline": "From Digvesh to Maxwell: Should IPL stop moral policing its players?IPL has continually fined cricketers for either celebrating a wicket or showing frustration while getting out. If the players cannot do either, what remains to be the point of sports?"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-glenn-phillips-ruled-out-groin-injury-gujarat-titans-2707933-2025-04-12",
-      "headline": "Gujarat Titans star Glenn Phillips ruled out of IPL 2025 with groin injuryIPL 2025: Gujarat Titans have suffered another setback as Glenn Phillips has been ruled out of IPL 2025 with a groin injury, joining Kagiso Rabada on the list of key players missing this season."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/mohammad-rizwan-not-educated-english-speaking-psl-2707924-2025-04-12",
-      "headline": "Mohammad Rizwan: Pakistan's demand from me is cricket, not EnglishPakistan captain Mohammed Rizwan has said that he is not ashamed his poor English. In an emotional rant, Rizwan has said that what Pakistan needs from him is cricket and not perfect English.\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/mohun-bagan-super-giant-vs-bengaluru-fc-isl-final-live-streaming-tv-channel-2707917-2025-04-12",
-      "headline": "ISL Final MBSG vs BFC,  Live streaming: When and where to watchA familiar rivalry is renewed as Mohun Bagan Super Giant and Bengaluru FC face off in the ISL 2025 Final, reigniting memories of their thrilling 2023 title clash in Kolkata's Salt Lake Stadium."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ms-dhoni-csk-fall-ipl-2025-2707902-2025-04-12",
-      "headline": "CSK's fall in IPL 2025: Gotham burns and the Dark Knight can't save itIn IPL 2025, Chennai Super Kings are struggling in a deep slump, with MS Dhoni unable to turn the tide. Despite their rich legacy, the team's outdated tactics and lack of spark leave them on the brink of collapse, with no clear hero to save them.\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/pbks-vs-srh-ipl-2025-nehwal-wadhera-2707893-2025-04-12",
-      "headline": "Out of form SRH still a very dangerous side: Nehal WadheraPunjab Kings play SRH in the evening game on Saturday, April 12. Ahead of the match, Nehal Wadhera has said that they are wary of SunRisers Hyderabad despite them being woefully out of form in IPL 2025.\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/video/ipl-2025-csk-vs-kkr-kolkata-knight-riders-wicketkeeper-quinton-de-kock-press-conference-2707894-2025-04-12",
-      "headline": "Ajinkya Rahane's familiarity with Chepauk helped KKR beat CSK, says de KockKolkata Knight Riders wicketkeeper Quinton de Kock said Ajinkya Rahane and Moeen Ali's familiarity with the Chepauk pitch helped his side beat Chennai Super Kings. \"When we bowled, it seemed a lot slower. We have guys Ajinkya and Moeen, who have been here (Chepauk) before and they knew it. That's why the selectors played an extra spinner against CSK,\" Moeen Ali said in the post-match press conference after the win over CSK."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/cricket/video/ipl-2025-csk-vs-kkr-chennai-super-kings-batting-coach-michael-hussey-press-conference-2707874-2025-04-12",
-      "headline": "KKR loss hurts a lot, time for self-reflection, says CSK batting coachChennai Super Kings' batting coach Michael Hussey said the entire team was disappointed after the heavy loss to Kolkata Knight Riders. \"Obviously, we are very disappointed with the result and the performance tonight,\" Hussey said in the post-match press conference."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-csk-vs-kkr-mike-hussey-press-conference-2707859-2025-04-12",
-      "headline": "CSK not ready to surrender yet: Defiant Hussey hopeful of playoffs spotIPL 2025: CSK batting coach Mike Hussey said that the team is not ready to surrender just yet. CSK fell to a heavy defeat against KKR on Friday, April 11, losing their 5th game in a row.\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-chennai-super-kings-t20-cricket-evolve-csk-failure-2707851-2025-04-12",
-      "headline": "Wake up CSK! T20 cricket is evolving and it's leaving you behindCSK's reluctance to move from their mantra of banking on experienced stars have massively backfired, leaving the five-time champions in one of their worst phases in IPL history. With T20 cricket evolving, Chennai are under the threat of being left behind the rest."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ms-dhoni-csk-vs-kkr-drs-out-controversy-ipl-2025-virender-sehwag-2707854-2025-04-12",
-      "headline": "MS Dhoni out or not out vs KKR? Virender Sehwag's brutal take goes viralFormer cricketer Virender Sehwag has taken yet another sharp dig at MS Dhoni after the team's heavy defeat against KKR on Friday. Sehwag said even if Dhoni had been not out, it would not have made any difference to the result of the game. \r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-matthew-hayden-ms-dhoni-csk-powerplay-approach-2707847-2025-04-12",
-      "headline": "CSK conservative in powerplay: MS Dhoni's viewpoint criticised by Matthew HaydenMatthew Hayden doesn't agree with MS Dhoni's viewpoint that CSK has to be conservative in the powerplay after their loss to KKR. CSK suffered a big loss at home to remain in the 9th spot on the points table. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-csk-vs-kkr-mike-hussey-ms-dhoni-2707831-2025-04-12",
-      "headline": "Michael Hussey defends CSK's experience mantra despite heavy defeat to KKRIPL 2025, CSK vs KKR: Michael Hussey showed faith in the Chennai Super Kings veterans to do well later in the tournament, backing them after the heavy defeat to Kolkata Knight Riders at Chepauk."
+      "headline": "ISL 2025 final, Mohun Bagan vs Bengaluru FC Live: Mohun Bagan complete double with cup winISL Final, Mohun Bagan vs Bengaluru FC Live: Jamie Maclaren was the star of the show as Mohun Bagan completed a comeback win against Bengaluru FC to claim the double. After trailing to an early goal in the second half, Cummings and Maclaren turned the game on its head. "
     }
   ],
   "education": [
