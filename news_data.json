@@ -64,6 +64,11 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/anthony-mackie-says-avengers-doomsday-will-bring-back-old-marvel-feeling-2709504-2025-04-15",
+      "headline": "Anthony Mackie says Avengers Doomsday will bring back 'old Marvel feeling'In an exciting development for Marvel fans, Anthony Mackie promises a return to classic Marvel vibes with 'Avengers: Doomsday'. Directed by the Russo Brothers, the film is set for a May 2026 release."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/nani-reacts-to-hit-3-being-compared-with-animal-marco-and-kill-2709492-2025-04-15",
       "headline": "Nani reacts to HIT 3 being compared with Animal, Marco, and KillAt the trailer launch of HIT: The Third Case, Nani addressed fan comparisons between HIT 3, Animal, Marco, and Kill, stating that HIT 3 follows its own cinematic language and grammar."
     },
@@ -151,11 +156,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/tamil-director-actor-ss-stanley-dies-at-57-in-chennai-2709254-2025-04-15",
       "headline": "Tamil director-actor SS Stanley dies at 57 in ChennaiPopular Tamil director and actor SS Stanley died at 57 due to health complications. He was undergoing treatment in a private hospital in Chennai. \r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/nanis-dialogue-in-hit-3-trailer-resonates-with-fans-draws-parallel-with-real-life-2708970-2025-04-15",
-      "headline": "Nani's dialogue in HIT 3 trailer resonates with fans, draws parallel with real-lifeIn the newly released trailer of HIT 3, Nani's powerful one-liner about survival has struck a chord with fans, who see it as a nod to his journey in the film industry as an outsider. "
     }
   ],
   "general news": [
@@ -165,19 +165,19 @@
       "headline": "Gandhis, Sam Pitroda named in ED chargesheet in National Herald caseThe ED filed a chargesheet against Congress MPs Sonia Gandhi and Rahul Gandhi, Indian Overseas Congress chief Sam Pitroda and others in the alleged National Herald money laundering case."
     },
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/us-news/story/donald-trump-harvard-university-freeze-funding-tax-exempt-status-political-entity-2709525-2025-04-15",
+      "headline": "Trump takes aim at Harvard again, says it should lose tax-exempt statusUS President Donald Trump threatened to strip Harvard of its tax-exempt status after the university refused to comply with a list of White House demands to limit activism on campus and dismantle its diversity, equity and inclusion (DEI) programs."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/us-news/story/indian-origin-ceo-anurag-bajpayee-cambridge-brothel-scandal-court-case-misdemeanor-charges-2707493-2025-04-15",
+      "headline": "Indian-origin CEO caught in elite brothel scandal in USAnurag Bajpayee, an Indian-origin CEO in the US, was one of several high-profile men who shared documents, IDs and references to become part of an elite Cambridge brothel, according to the Wall Street Journal. The Lucknow-born Bajpayee's firm has backed him in the case. The brothel promised \"girlfriend experience\"."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/law-news/story/court-karnataka-lokayukta-probe-muda-case-involving-siddaramaiah-chief-minister-2709353-2025-04-15",
       "headline": "In Muda case against Siddaramaiah, court wants full report, orders further probeA Bengaluru special court postponed its decision on the Lokayukta's closure report in the Muda case involving Chief Minister Siddaramaiah, ordering Lokayukta police to continue further investigation into the allegations against others."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/california-senate-bill-pitted-khalistanis-against-indian-diaspora-in-us-hindus-sikhs-2709364-2025-04-15",
-      "headline": "Why a California Bill has pitted Khalistanis against Indian diaspora in USA bill introduced in the California Senate, aimed at curbing \"transnational repression\" by foreign governments, has sparked fears among Hindu and Sikh Americans of being unfairly branded \"agents of India\". While pro-Khalistani groups cheered it on, Indian Americans warn it risks legitimising fringe narratives and vilifying entire communities."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/south-states-top-india-justice-report-2025-west-bengal-at-bottom-police-judicial-reforms-undertrials-legal-aid-2709368-2025-04-15",
-      "headline": "South states take 5 top spots, Bengal last in policing, justice delivery: ReportThe India Justice Report of 2025 has revealed that the southern states have excelled in policing, justice delivery and prison management. While Karnataka led the pack, West Bengal slipped to the bottom. Telangana made the biggest leap, vaulting from 11th to 3rd place among the large and mid-sized states."
     },
     {
       "sentiment": "positive",
@@ -191,6 +191,21 @@
     },
     {
       "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/california-senate-bill-pitted-khalistanis-against-indian-diaspora-in-us-hindus-sikhs-2709364-2025-04-15",
+      "headline": "Why a California Bill has pitted Khalistanis against Indian diaspora in USA bill introduced in the California Senate, aimed at curbing \"transnational repression\" by foreign governments, has sparked fears among Hindu and Sikh Americans of being unfairly branded \"agents of India\". While pro-Khalistani groups cheered it on, Indian Americans warn it risks legitimising fringe narratives and vilifying entire communities."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/south-states-top-india-justice-report-2025-west-bengal-at-bottom-police-judicial-reforms-undertrials-legal-aid-2709368-2025-04-15",
+      "headline": "South states take 5 top spots, Bengal last in policing, justice delivery: ReportThe India Justice Report of 2025 has revealed that the southern states have excelled in policing, justice delivery and prison management. While Karnataka led the pack, West Bengal slipped to the bottom. Telangana made the biggest leap, vaulting from 11th to 3rd place among the large and mid-sized states."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/sunny-deol-jaat-sparks-controversy-christian-community-expresses-outrage-over-church-scene-2709438-2025-04-15",
+      "headline": "Sunny Deol's Jaat sparks outrage over church scene, Christians demand banThe release of Sunny Deol's latest film 'Jaat' has ignited controversy due to a scene perceived as disrespectful by the Christian community. The community has demanded a ban and legal action, claiming the portrayal is an insult to their faith."
+    },
+    {
+      "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/saudi-arabia-10000-hajj-slots-indians-80-per-cent-private-quota-hit-private-operators-ministry-of-minority-affairs-2709380-2025-04-15",
       "headline": "Saudi Arabia adds 10,000 Hajj slots for Indians after 80% of private quota hitSaudi Arabia will accommodate 10,000 additional Indian Hajj pilgrims this year, increasing India's total quota to 175,025, according to the Ministry of Minority Affairs. The\u00a0decision follows a request from India after several Indian private tour operators missed key deadlines and saw 52,000 slots being cancelled by Saudi Arabia."
     },
@@ -200,14 +215,14 @@
       "headline": "Intimidation by PM: Congress on ED naming Gandhis in National Herald caseCongress General Secretary Jairam Ramesh called the seizing of the assets of the National Herald \"a state-sponsored crime masquerading as the rule of law\"."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/sunny-deol-jaat-sparks-controversy-christian-community-expresses-outrage-over-church-scene-2709438-2025-04-15",
-      "headline": "Sunny Deol's Jaat sparks outrage over church scene, Christians demand banThe release of Sunny Deol's latest film 'Jaat' has ignited controversy due to a scene perceived as disrespectful by the Christian community. The community has demanded a ban and legal action, claiming the portrayal is an insult to their faith."
-    },
-    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/cities/bengaluru/story/bengaluru-muslim-woman-hindu-man-harassed-moral-policing-video-surfaces-2709485-2025-04-15",
       "headline": "'Remove your burqa': Man harasses Muslim woman, Hindu friend in Bengaluru parkA video of a Muslim woman and a Hindu man being harassed by an unidentified man in Bengaluru has gone viral. This is the second such incident reported in a week.  "
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/declassified-cia-file-aliens-soviet-soldiers-stone-russia-siberia-ukraine-ufo-kgb-cold-war-document-memo-2709424-2025-04-15",
+      "headline": "Aliens turned 23 Soviet soldiers into stones? Chilling details in CIA fileA declassified CIA file claims a clash between Soviet soldiers and aliens turned 23 troops to stone."
     },
     {
       "sentiment": "negative",
@@ -215,14 +230,19 @@
       "headline": "Bangladeshi miscreants involved in Bengal Waqf violence, Centre told: SourcesThe probe found that the Mamata Banerjee-led government failed to monitor the intruders as unrest gripped two districts in Bengal over the Waqf law, killing three people. "
     },
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/trending-news/story/dehradun-video-editor-job-scam-plot-twist-ghosted-no-payment-fake-client-2709509-2025-04-15",
+      "headline": "Dehradun video editor applied for a job he 'hoped' for. Plot twist: It was a scamThe man explained that this is how some \"fake clients\" operate who collect \"free edits\" from multiple editors, ghost them and \"sell the work to actual clients as if it is theirs\". "
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/ayodhya-ram-mandir-bomb-threat-mail-security-concerns-police-fir-up-police-2709396-2025-04-15",
       "headline": "'Increase your security': Ayodhya Ram Mandir gets threat mail, case filedThe Shri Ram Janmabhoomi Teerth Kshetra Trust, which manages the Ram Temple in Ayodhya, received a bomb threat mail on Monday. The mail originated from Tamil Nadu and the cyber cell was probing the matter."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/declassified-cia-file-aliens-soviet-soldiers-stone-russia-siberia-ukraine-ufo-kgb-cold-war-document-memo-2709424-2025-04-15",
-      "headline": "Aliens turned 23 Soviet soldiers into stones? Chilling details in CIA fileA declassified CIA file claims a clash between Soviet soldiers and aliens turned 23 troops to stone."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/trending-news/story/singapore-woman-shares-employees-brutal-resignation-note-felt-like-toilet-paper-2709172-2025-04-15",
+      "headline": "Felt like toilet paper: Singapore woman shares employee's brutal resignation noteIn a now-viral LinkedIn post, a Singapore-based businesswoman shared how an employee resigned, saying they felt like \"toilet paper\" at their company."
     },
     {
       "sentiment": "positive",
@@ -241,8 +261,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/singapore-woman-shares-employees-brutal-resignation-note-felt-like-toilet-paper-2709172-2025-04-15",
-      "headline": "Felt like toilet paper: Singapore woman shares employee's brutal resignation noteIn a now-viral LinkedIn post, a Singapore-based businesswoman shared how an employee resigned, saying they felt like \"toilet paper\" at their company."
+      "url": "https://www.indiatoday.in/trending-news/story/donald-trump-aide-dress-made-in-china-chinese-envoy-claim-sparks-debate-2709310-2025-04-15",
+      "headline": "Trump aide's dress made in China? Chinese envoy's claim sparks debateA Chinese envoy has claimed that White House Press Secretary Karoline Leavitt made a public appearance in a dress that was apparently made in China. "
     },
     {
       "sentiment": "positive",
@@ -258,29 +278,24 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/india-us-trade-deal-commerce-secretary-liberalisation-policies-pm-modi-donald-trump-tariffs-2709345-2025-04-15",
       "headline": "India seeing 'very good progress' on trade talks with US: ReportCommerce\u00a0Secretary Sunil Barthwal\u00a0expressed hope that India would be able to negotiate a good bilateral trade agreement with the US. He said the trade talks had seen \"very good progress\"."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/donald-trump-aide-dress-made-in-china-chinese-envoy-claim-sparks-debate-2709310-2025-04-15",
-      "headline": "Trump aide's dress made in China? Chinese envoy's claim sparks debateA Chinese envoy has claimed that White House Press Secretary Karoline Leavitt made a public appearance in a dress that was apparently made in China. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/stock-market-closing-bell-sensex-gains-nearly-1600-points-nifty-above-23300-indusind-bank-gains-7-percent-2709343-2025-04-15",
-      "headline": "Sensex gains nearly 1,600 points, Nifty above 23,300; IndusInd bank gains 7%The S&P BSE Sensex gained 1,577.63 points to close at\u00a076,734.89, while the NSE Nifty50 added 500 points to end at\u00a023,328.55.\u00a0"
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/west-bengal-anti-waqf-violence-hindu-victim-target-riots-trinamool-congress-mamata-banerjee-response-2709212-2025-04-15",
-      "headline": "Why no Mamata for victims, but mollycoddling of aggressorsEven as Hindus were hacked to death and hundreds of families fled communal riots in West Bengal after anti-waqf protests turned violent, CM Mamata Banerjee chose appeasement over action. While Mamata and Trinamool leaders have spoken, appealed to and mollycoddled the rioters, they haven't condoled the deaths and devastation."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/law-news/story/supreme-court-allahabad-high-court-orders-grabbing-breasts-invited-trouble-objectionable-rulings-judge-cases-remark-takes-note-2709270-2025-04-15",
-      "headline": "Supreme Court questions High Court's 'she invited trouble' remark in rape caseThe Supreme Court blasted the Allahabad High Court after it granted bail to a person accused of raping a student and said the woman 'herself invited trouble'."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-dc-vs-rr-rahul-dravid-kl-rahul-banter-delhi-2709521-2025-04-15",
+      "headline": "DC vs RR: Rahul Dravid, KL Rahul enjoy banter ahead of IPL 2025 clashRR coach Rahul Dravid and DC wicketkeeper-batter KL Rahul enjoyed some banter on the eve of the clash between both teams in IPL 2025. Dravid and Rahul shared a few laughs during a light-hearted conversation. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-shreyas-iyer-gets-dismissed-for-duck-against-kolkata-knight-riders-2709510-2025-04-15",
+      "headline": "IPL 2025: Shreyas Iyer out for duck in first meeting against ex-side KKRPunjab Kings captain Shreyas Iyer got dismissed for a two-ball duck against Kolkata Knight Riders (KKR) in Match 31 of the Indian Premier League 2025 (IPL 2025). "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-rohit-sharma-stand-wankhede-stadium-mumbai-cricket-approval-2709508-2025-04-15",
+      "headline": "Rohit Sharma stand at Wankhede Stadium gets green light from Mumbai cricket bodyIndia captain Rohit Sharma will join the the likes of Sachin Tendulkar and Sunil Gavaskar in getting a stand named after him at the iconic Wankhede Stadium in Mumbai. The Mumbai Cricket Association approved a propsal for the same in its AGM on Tuesday, April 15."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-bat-size-checks-mohit-sharma-hilarious-dc-vs-rr-delhi-2709503-2025-04-15",
@@ -318,18 +333,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-lsg-vs-csk-ms-dhoni-run-out-fluke-rishabh-pant-2709384-2025-04-15",
-      "headline": "MS Dhoni's run-out vs LSG fluke? CSK captain reflects on magical effortIPL 2025, LSG vs CSK: MS Dhoni reflected on his magical effort with the gloves, saying he wasn't sure whether his throw would hit the stumps at the non-striker's end. Dhoni's run-out of Abdul Samad in Lucknow left quite a few in awe.  "
+      "url": "https://www.indiatoday.in/sports/other-sports/story/paige-bueckers-guides-in-new-era-for-dallas-wings-as-top-pick-in-wnba-draft-2025-glbs-2709484-2025-04-15",
+      "headline": "Paige Bueckers guides in new era for Dallas Wings as top pick in WNBA Draft 2025Paige Bueckers, a guard from UConn and a recently crowned NCAA champion, was selected No. 1 overall by the Dallas Wings in the WNBA Draft 2025, setting the tone for a franchise ready to rebuild."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-rohit-sharma-batting-form-mi-vs-srh-2709371-2025-04-15",
-      "headline": "Rohit's struggles has not let MI set the tone in IPL 2025: Anjum ChopraFormer India captain Anjum Chopra believes that Rohit Sharma's poor form has not allowed Mumbai Indians to set the tone in the Indian Premier League so far, Anjum feels that MI might need to demote Rohit to the middle-order."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-lsg-vs-csk-ms-dhoni-injury-scare-limping-knee-issue-2709320-2025-04-15",
-      "headline": "Injury scare for MS Dhoni? CSK captain seen limping after heroics vs LSG in LucknowIPL 2025, LSG vs CSK: After hitting a match-winning 26 off just 11 balls, MS Dhoni was seen limping as he went up to collect the Player of the Match award. Dhoni has been managing a troublesome knee over the past few years."
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-major-flaw-in-rishabh-pants-technique-asked-to-learn-from-virat-kohli-2709451-2025-04-15",
+      "headline": "Major flaw in Rishabh Pant's technique pointed out, asked to learn from Virat KohliFormer India cricketer turned commentator Wasim Jaffer has pointed out a major flaw in Rishabh Pant's technique and has asked him to learn from Virat Kohli. Pant scored his first half-century of the season vs Chennai Super Kings (CSK) in Match 30 of the Indian Premier League 2025 (IPL 2025). "
     },
     {
       "sentiment": "positive",
@@ -340,21 +350,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/mohsin-naqvi-fails-to-attend-quarterly-meeting-of-icc-post-champions-trophy-2709395-2025-04-15",
       "headline": "Mohsin Naqvi fails to attend quarterly meeting of ICC post Champions TrophyPakistan Cricket Board (PCB) chairman Mohsin Naqvi failed to attend the quarterly meeting of the ICC (International Cricket Council) in Harare due to pending personal business in Pakistan. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-lsg-vs-csk-ms-dhoni-run-out-fluke-rishabh-pant-2709384-2025-04-15",
-      "headline": "MS Dhoni's run-out vs LSG fluke? CSK captain reflects on magical effortIPL 2025, LSG vs CSK: MS Dhoni reflected on his magical effort with the gloves, saying he wasn't sure whether his throw would hit the stumps at the non-striker's end. Dhoni's run-out of Abdul Samad in Lucknow left quite a few in awe.  "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-rohit-sharma-batting-form-mi-vs-srh-2709371-2025-04-15",
-      "headline": "Rohit's struggles has not let MI set the tone in IPL 2025: Anjum ChopraFormer India captain Anjum Chopra believes that Rohit Sharma's poor form has not allowed Mumbai Indians to set the tone in the Indian Premier League so far, Anjum feels that MI might need to demote Rohit to the middle-order."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-lsg-vs-csk-ms-dhoni-injury-scare-limping-knee-issue-2709320-2025-04-15",
-      "headline": "Injury scare for MS Dhoni? CSK captain seen limping after heroics vs LSG in LucknowIPL 2025, LSG vs CSK: After hitting a match-winning 26 off just 11 balls, MS Dhoni was seen limping as he went up to collect the Player of the Match award. Dhoni has been managing a troublesome knee over the past few years."
     }
   ],
   "education": [
