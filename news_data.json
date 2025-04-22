@@ -63,6 +63,11 @@
   ],
   "entertainment": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/television/story/taarak-mehta-ka-ooltah-chashmah-actor-lalit-manchandi-dies-suicide-suspected-2713101-2025-04-22",
+      "headline": "Taarak Mehta... actor Lalit Manchanda dies, television association pays tributeActor Lalit Manchanda, known for his roles in TV shows like Taarak Mehta Ka Ooltah Chashmah, was found dead at his Meerut residence. The news was confirmed by CINTAA."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/entertainment/television/story/actor-hina-khan-kashmiri-reacts-to-pahalgam-terrorist-attack-2713062-2025-04-22",
       "headline": "Actor Hina Khan, a Kashmiri, reacts to Pahalgam attackActor Hina Khan, a Kashmiri herself, has expressed her sorrow and condemnation over the recent terrorist attack on tourists in Pahalgam through an Instagram post."
@@ -151,11 +156,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/priyanka-chopra-megan-thee-stalion-to-be-awarded-at-gold-house-gala-2712743-2025-04-22",
       "headline": "Priyanka Chopra, Megan Thee Stallion to be awarded at Gold House GalaPriyanka Chopra, who is currently working on SS Rajamouli's magnum opus starring Mahesh Babu, tentatively titled SSMB29, will be honoured with the inaugural Global Vanguard Honour in Los Angeles.  Megan Thee Stallion and several others are expected to be awarded that night."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/sunny-deol-action-stunts-age-is-just-a-number-jaat-gopichand-malineni-shah-rukh-khan-akshay-kumar-ajay-devgn-2712727-2025-04-22",
-      "headline": "Dhai Kilo Ka Haath and handpumps: Sunny Deol punches age in the face at 67Bollywood's OG Sunny Deol is back with another banger, 'Jaat'. In an era where action stunts are more about green screens than grit, Deol storms in at 67 with 'Jaat', reminding everyone what real action looks like. "
     }
   ],
   "general news": [
@@ -165,9 +165,29 @@
       "headline": "26, including 2 foreigners, feared dead in Pahalgam terror attack: Sources Live UpdatesPahalgam terror attack: Terrorists opened fire on a group of tourists at the Baisaran mountain top in Pahalgam in Jammu and Kashmir. Twenty-six people are feared to have been killed in one of the worst terror attacks in Jammu and Kashmir."
     },
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/pm-modi-cuts-short-saudi-arabia-visit-return-india-early-pahalgam-terror-attack-2713102-2025-04-22",
+      "headline": "PM cuts short Saudi visit after J&K attack, to return by morning: SourcesPrime Minister Narendra Modi has cut short his two-day visit to Saudi Arabia, government sources said, after 26 people were killed in a terror attack in Jammu and Kashmir's Pahalgam. He will leave for India tonight and arrive by Wednesday morning."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/pahalgam-terror-attack-tourists-killed-injured-jammu-kashmir-ordeal-security-forces-2713085-2025-04-22",
       "headline": "Hindus were singled out, shot: Tourist's blow-by-blow account of Pahalgam attackAt least 26 people are feared dead and several others were injured after terrorists from a Lashkar-e-Taiba offshoot opened fire on tourists in Jammu and Kashmir's Pahalham on Tuesday afternoon."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/trump-condemns-pahalgam-terror-attack-says-us-stands-with-india-against-terrorism-2713096-2025-04-22",
+      "headline": "Trump calls Kashmir attack disturbing, says US stands with India against terrorismDonald Trump called the Pahalgam terror attack \"disturbing\". He added that the US stands with India against terrorism. At least 26 people are feared dead in the attack, as per sources."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/woman-eyewitness-pleads-save-husband-jammu-kashmir-terror-attack-pahalgam-2712875-2025-04-22",
+      "headline": "We were having bhelpuri, then terrorist shot husband: Pahalgam survivor's accountGunmen opened fire at a group of tourists in Jammu and Kashmir's Pahalgam. A woman, who was an eyewitness to the attack, narrated the sequence of events as a gunman targeted her husband."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/pahalgam-rare-terror-attack-on-tourists-in-kashmir-reveals-pakistan-desperation-amarnath-yatra-2713018-2025-04-22",
+      "headline": "Rare attack on tourists in Kashmir reveals Pakistan's desperationTuesday's attack on tourists by terrorists in Kashmir's Pahalgam is rare, considering the targets and the scale. Twenty-six people are feared dead. This could be a desperate bid by Pakistan, given the phase of peace and prosperity that Jammu and Kashmir has been witness to."
     },
     {
       "sentiment": "negative",
@@ -176,28 +196,8 @@
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/pahalgam-rare-terror-attack-on-tourists-in-kashmir-reveals-pakistan-desperation-amarnath-yatra-2713018-2025-04-22",
-      "headline": "Rare attack on tourists in Kashmir reveals Pakistan's desperationTuesday's attack on tourists by terrorists in Kashmir's Pahalgam is rare, considering the targets and the scale. Twenty-six people are feared dead. This could be a desperate bid by Pakistan, given the phase of peace and prosperity that Jammu and Kashmir has been witness to."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/woman-eyewitness-pleads-save-husband-jammu-kashmir-terror-attack-pahalgam-2712875-2025-04-22",
-      "headline": "We were having bhelpuri, then terrorist shot husband: Pahalgam survivor's accountGunmen opened fire at a group of tourists in Jammu and Kashmir's Pahalgam. A woman, who was an eyewitness to the attack, narrated the sequence of events as a gunman targeted her husband."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/finalised-outline-of-trade-agreement-with-india-us-vice-president-jd-vance-in-jaipur-2712839-2025-04-22",
-      "headline": "Roadmap to final deal: JD Vance shares big update on India-US trade pactJD Vance announced that America and India have officially finalised the terms of reference for trade negotiations and termed it 'roadmap for final deal'."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/education-today/story/upsc-cse-final-result-2025-declared-1009-candidates-recommended-shakti-dubey-tops-2712805-2025-04-22",
-      "headline": "UPSC Civil Services Final Result 2024 declared, Shakti Dubey from Prayagraj topsThe UPSC CSE Final Result 2024 has been announced. Shakti Dubey topped the exam, followed by Harshita Goyal and Dongre Archit Parag. A total of 1009 candidates have been recommended for IAS, IPS, IFS and Central Services."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/pahalgam-terror-attack-terrorists-gunshots-heard-people-screaming-video-2713035-2025-04-22",
-      "headline": "Video: Moment when terrorists attacked tourists at scenic Baisaran in PahalgamA video has surfaced showing a man walking in a meadow in Jammu and Kashmir's Pahalgam as gunshots and the screaming of people are heard in the background."
+      "url": "https://www.indiatoday.in/india/story/jammu-and-kashmir-terror-attack-pahalgam-killed-injured-security-forces-terrorists-2712876-2025-04-22",
+      "headline": "Live: PM likely to hold Cabinet meet on J&K terror attack tomorrow, sources sayTerror Attack In Pahalgam Live Updates: In a rare terror attack on tourists in Jammu and Kashmir on Tuesday, 26 people are feared dead. Several tourists were also injured. Terrorists attacked a group of tourists visiting Pahalgam in Anantnag district of Jammu and Kashmir, officials said. Gunshots were heard in Baisaran valley, one of the prime tourist spots in Pahalgam, following which security forces rushed to the site. According to initial inputs, unidentified gunmen opened fire on the tourists who had gone for a trekking trip. Several top leaders have condemned the attack. Stay tuned with indiatoday.in for live updates. "
     },
     {
       "sentiment": "positive",
@@ -206,8 +206,13 @@
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/jk-pahalgam-terror-attack-chief-minister-omar-abdullah-reacts-abomination-perpetrators-animals-shocked-2712911-2025-04-22",
-      "headline": "Pahalgam attack much larger than anything we've seen in...: Omar AbdullahOmar Abdullah said that the Pahalgam attack was \"much larger than anything we've seen directed at civilians in recent years\". At least 1 person has been killed and several injured in Pahalgam terror attack."
+      "url": "https://www.indiatoday.in/india/story/pahalgam-terror-attack-terrorists-gunshots-heard-people-screaming-video-2713035-2025-04-22",
+      "headline": "Video: Moment when terrorists attacked tourists at scenic Baisaran in PahalgamA video has surfaced showing a man walking in a meadow in Jammu and Kashmir's Pahalgam as gunshots and the screaming of people are heard in the background."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/finalised-outline-of-trade-agreement-with-india-us-vice-president-jd-vance-in-jaipur-2712839-2025-04-22",
+      "headline": "Roadmap to final deal: JD Vance shares big update on India-US trade pactJD Vance announced that America and India have officially finalised the terms of reference for trade negotiations and termed it 'roadmap for final deal'."
     },
     {
       "sentiment": "negative",
@@ -215,14 +220,14 @@
       "headline": "5-6 Pak terrorists attacked tourists, arrived in Pahalgam few days back: SourcesA terror ambush on tourists in Jammu and Kashmir's Pahalgam left at least 26 people feared dead. Claimed by an LeT offshoot, the attack marked the deadliest strike on civilians in the Valley in recent years."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/jammu-and-kashmir-terror-attack-pahalgam-killed-injured-security-forces-terrorists-2712876-2025-04-22",
-      "headline": "Live: JD Vance, currently in India, condemns 'horrific' terror attack in PahalgamTerror Attack In Pahalgam Live Updates: In a rare terror attack on tourists in Jammu and Kashmir on Tuesday, 26 people are feared dead. Several tourists were also injured. Terrorists attacked a group of tourists visiting Pahalgam in Anantnag district of Jammu and Kashmir, officials said. Gunshots were heard in Baisaran valley, one of the prime tourist spots in Pahalgam, following which security forces rushed to the site. According to initial inputs, unidentified gunmen opened fire on the tourists who had gone for a trekking trip. Several top leaders have condemned the attack. Stay tuned with indiatoday.in for live updates. "
-    },
-    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/education-today/news/story/who-are-shakti-dubey-harshita-goyal-dongre-archit-parag-check-full-list-of-upsc-2024-toppers-2712892-2025-04-22",
       "headline": "Who are UPSC toppers Shakti Dubey, Harshita Goyal, Dongre Archit Parag?UPSC has released the 2024 CSE Final Result. Meet the top three UPSC toppers Shakti Dubey, Harshita Goyal and Archit Parag and check the top 25 toppers' list."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/jk-pahalgam-terror-attack-chief-minister-omar-abdullah-reacts-abomination-perpetrators-animals-shocked-2712911-2025-04-22",
+      "headline": "Pahalgam attack much larger than anything we've seen in...: Omar AbdullahOmar Abdullah said that the Pahalgam attack was \"much larger than anything we've seen directed at civilians in recent years\". At least 1 person has been killed and several injured in Pahalgam terror attack."
     },
     {
       "sentiment": "positive",
@@ -236,18 +241,28 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/law-news/story/judiciary-row-supreme-court-judge-thick-skinned-justice-surya-kant-2712947-2025-04-22",
-      "headline": "'We're thick-skinned': Supreme Court judge's remark amid judiciary rowJustice Surya Kant, while hearing a 2010 contempt of court plea, remarked in the Supreme Court about how attacks on the judiciary come every day and that judges are \"thick-skinned\" to deal with such situations. "
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/lifestyle/wellness/story/screaming-pillows-are-in-but-how-much-do-they-help-in-venting-out-2712992-2025-04-22",
       "headline": "Stressed? Screaming into pillows can help, but...With the screaming-into-a-pillow trend going viral, companies are now launching \"screaming pillows\" designed specifically for venting."
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/law-news/story/judiciary-row-supreme-court-judge-thick-skinned-justice-surya-kant-2712947-2025-04-22",
+      "headline": "'We're thick-skinned': Supreme Court judge's remark amid judiciary rowJustice Surya Kant, while hearing a 2010 contempt of court plea, remarked in the Supreme Court about how attacks on the judiciary come every day and that judges are \"thick-skinned\" to deal with such situations. "
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/education-today/story/upsc-cse-final-result-2025-declared-1009-candidates-recommended-shakti-dubey-tops-2712805-2025-04-22",
+      "headline": "UPSC Civil Services Final Result 2024 declared, Shakti Dubey from Prayagraj topsThe UPSC CSE Final Result 2024 has been announced. Shakti Dubey topped the exam, followed by Harshita Goyal and Dongre Archit Parag. A total of 1009 candidates have been recommended for IAS, IPS, IFS and Central Services."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/law-news/story/pune-porsche-case-supreme-court-interim-bail-teen-mother-tampering-evidence-swapping-blood-sample-2712946-2025-04-22",
       "headline": "Pune Porsche crash: Teen's mother accused of tampering evidence gets interim bailThe Supreme Court granted interim relief to the woman while reserving its final order on a petition challenging the legality of her arrest."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/maharashtra/story/bal-thackeray-brothers-uddhav-raj-come-together-reclaim-legacy-aaditya-amit-shiv-sena-maharashtra-bmc-2712779-2025-04-22",
+      "headline": "If Thackeray bhais join hands, it'll be for the betas\u00a0If the Thackeray cousins, Uddhav and Raj, come together after a bitter parting of ways two decades ago, it won't be for themselves but for their sons. This could be the last-ditch attempt for the feuding brothers to reclaim Bal Thackeray's legacy and help Aditya and Amit inherit it. \u00a0"
     },
     {
       "sentiment": "positive",
@@ -261,26 +276,31 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/maharashtra/story/bal-thackeray-brothers-uddhav-raj-come-together-reclaim-legacy-aaditya-amit-shiv-sena-maharashtra-bmc-2712779-2025-04-22",
-      "headline": "If Thackeray bhais join hands, it'll be for the betas\u00a0If the Thackeray cousins, Uddhav and Raj, come together after a bitter parting of ways two decades ago, it won't be for themselves but for their sons. This could be the last-ditch attempt for the feuding brothers to reclaim Bal Thackeray's legacy and help Aditya and Amit inherit it. \u00a0"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/pm-modi-jeddah-saudi-arabia-visit-arab-news-interview-bilateral-ties-crown-prince-mbs-2712962-2025-04-22",
-      "headline": "PM calls Saudi Arabia India's trusted friend: Our ties have limitless potentialDescribing the India-Saudi Arabia ties as promising and having \"limitless potential\", Prime Minister Narendra Modi, who landed in the Kingdom for a two-day state visit, called the nation a\u00a0trusted friend and a strategic ally of India."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/education-today/gk-current-affairs/story/bulldozers-vs-biodiversity-7-forest-battles-in-india-defining-earth-day-2025-2712972-2025-04-22",
       "headline": "From Chandigarh to Nicobar: 7 key deforestation battles playing out across IndiaIndia's infrastructure boom is fuelling mass deforestation. From Nicobar to Hyderabad, citizens and climate activists are fighting back -- on the ground and online. Earth Day has taken on urgent new meaning."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/story/imf-cuts-global-growth-forecast-cites-significant-slowdown-due-to-trump-tariffs-2712979-2025-04-22",
-      "headline": "IMF cuts global growth forecast, cites 'significant slowdown' due to Trump tariffsThe IMF reduced its global growth forecast to 2.8% for 2025, down by 0.5 percentage point,\u00a0while the 2024 forecast was cut by 0.3 points to 3%, down from the January projection of 3.3% for both years."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/rishabh-pant-batting-lsg-vs-dc-ayush-badoni-impact-player-mayank-yadav-2713119-2025-04-22",
+      "headline": "Rishabh Pant tries to explain demotion in bizarre post-match interviewLSG captain Rishabh Pant tried to explain the bizarre call of batting at No.7 against Delhi Capitals. Rishabh was not able to express his thoughts clearly and said that he wanted the other batters to capitalise on the Lucknow pitch.\r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-lsg-vs-dc-match-report-rishah-pant-falter-kl-rahul-special-2713100-2025-04-22",
+      "headline": "KL Rahul special forces LSG to capitulate against DC 2nd time in IPL 2025IPL 2025: Delhi Capitals completed a season double over Lucknow Super Giants with a eight-wicket win in Lucknow, as KL Rahul's composed fifty outshone a misfiring Rishabh Pant and a collapsing LSG middle-order."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/rishabh-pant-lsg-vs-dc-ipl-match-memes-2713095-2025-04-22",
+      "headline": "Rishabh Pant vs DC: Rs 27 crore man fails vs former franchiseRishabh Pant had a bizarre outing in both legs against his former team Delhi Capitals. The LSG skipper's batting and captaincy was questioned in both legs of the game.\r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/kl-rahul-ipl-2025-record-milestone-lsg-vs-dc-2713097-2025-04-22",
+      "headline": "KL Rahul scripts history, becomes fastest to 5000 IPL runsIPL 2025, LSG vs DC: KL Rahul broke David Warner's record to become the fastest batter to the landmark of 5000 runs in the history of the tournament. He got there while playing for Delhi Capitals against Lucknow Super Giants on Monday. \r\n"
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-lsg-vs-dc-rishabh-pant-digvesh-rathi-scold-failed-drs-kl-rahul-2713093-2025-04-22",
@@ -318,48 +338,28 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/kl-rahul-ipl-2025-animated-celebration-mark-boucher-2713003-2025-04-22",
-      "headline": "Emotional KL Rahul in IPL? Someone must have really upset him, says BoucherKL Rahul's emotional outbursts have gone viral in this season's Indian Premier League. Former cricketer Mark Boucher wonders if someone has really upset the batter.\r\n"
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-lsg-vs-dc-rishabh-pant-hiding-behidn-youngsters-batting-low-2713057-2025-04-22",
+      "headline": "Hiding behind youngsters? Fans slam Rishabh Pant for demoting self in LSG vs DCIPL 2025: Rishabh Pant's decision to bat at number 7 amid LSG's collapse sparked confusion and memes. Fans were left frustrated as Pant's decision did not help his side build on their good start against Delhi Capitals."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-srh-vs-mi-tilak-varma-emotional-homecoming-hyderabad-2712981-2025-04-22",
-      "headline": "MI's Tilak Varma ready for emotional Hyderabad homecoming and SRH challengeIPL 2025: Tilak Varma's match against SRH is a special one, as he returns to play in front of his home crowd in Hyderabad, hoping to deliver a strong performance and help MI move up the table."
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-lsg-v-dc-mitchell-starc-nicholas-pooran-dominance-fifth-dismissal-2713041-2025-04-22",
+      "headline": "Starc's T20 dominance over Pooran continues with 5th dismissalIPL 2025, LSG vs DC: Mitchell Starc once again proved to be Nicholas Pooran's nemesis in T20s, delivering a key breakthrough for DC and shifting momentum during a critical phase of the match in the IPL 2025 clash."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-chennai-super-kings-ceo-kasi-viswanathan-comeback-2712980-2025-04-22",
-      "headline": "CSK will bounce back in IPL 2025 like they did in 2020: CEO Kasi ViswanathanIPL 2025: Chennai Super Kings CEO Kasi Viswanathan said a team led by MS Dhoni can't be ruled out, remaining hopeful of a comeback from the five-time champion. CSK have lost six of their first eight games this season. "
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-lsg-vs-dc-mayank-yadav-return-delayed-impact-player-list-2713039-2025-04-22",
+      "headline": "Mayank Yadav's return delayed, despite being named in impact player listLucknow Super Giants' fast bowler Mayank Yadav's return has been delayed. Lucknow, who were expected to get Mayank back for their Delhi clash, had to change plans midway through the game.\r\n"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-england-test-series-rohit-sharma-sai-sudharsan-shreyas-iyer-2712966-2025-04-22",
-      "headline": "Rohit Sharma set to tour England, Sai Sudharsan in mix for Test series: ReportIndia captain Rohit Sharma is expected to retain his position as the captain in India's upcoming Test tour of England, if reports are to be believed. As many as six other players are expected to stay in contention for the Test side as well."
+      "url": "https://www.indiatoday.in/sports/badminton/story/indian-badminton-style-of-play-bai-2713030-2025-04-22",
+      "headline": "BAI urges former players to learn coaching and save Indian badmintonThe Badminton Association of India has urged the country's former players to learn to coach under foreign coaches. The BAI wants former players to learn to coach and pass on the Indian style of play to its players.\r\n"
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/stefanos-tsitsipas-paula-badosa-wedding-plans-laureus-awards-2713027-2025-04-22",
       "headline": "Watch: Stefanos Tsitsipas playfully teases Paula Badosa on wedding plansGreek tennis star Stefanos Tsitsipas spoke about his wedding plans with his girlfriend Paula Badosa as they attended the Laureus Sports Awards in Madrid on Monday, April 21. \r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/kl-rahul-ipl-2025-animated-celebration-mark-boucher-2713003-2025-04-22",
-      "headline": "Emotional KL Rahul in IPL? Someone must have really upset him, says BoucherKL Rahul's emotional outbursts have gone viral in this season's Indian Premier League. Former cricketer Mark Boucher wonders if someone has really upset the batter.\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-srh-vs-mi-tilak-varma-emotional-homecoming-hyderabad-2712981-2025-04-22",
-      "headline": "MI's Tilak Varma ready for emotional Hyderabad homecoming and SRH challengeIPL 2025: Tilak Varma's match against SRH is a special one, as he returns to play in front of his home crowd in Hyderabad, hoping to deliver a strong performance and help MI move up the table."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-chennai-super-kings-ceo-kasi-viswanathan-comeback-2712980-2025-04-22",
-      "headline": "CSK will bounce back in IPL 2025 like they did in 2020: CEO Kasi ViswanathanIPL 2025: Chennai Super Kings CEO Kasi Viswanathan said a team led by MS Dhoni can't be ruled out, remaining hopeful of a comeback from the five-time champion. CSK have lost six of their first eight games this season. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-england-test-series-rohit-sharma-sai-sudharsan-shreyas-iyer-2712966-2025-04-22",
-      "headline": "Rohit Sharma set to tour England, Sai Sudharsan in mix for Test series: ReportIndia captain Rohit Sharma is expected to retain his position as the captain in India's upcoming Test tour of England, if reports are to be believed. As many as six other players are expected to stay in contention for the Test side as well."
     }
   ],
   "education": [
@@ -422,6 +422,21 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/education/story/the-power-of-knowledge-educations-influence-on-real-estate-market-trends-2516316-2024-03-18",
       "headline": "The power of knowledge: Education's influence on real estate market trendsIn a dynamic sector like real estate, investing in continuing education is not simply an option; it is a requirement."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/jnu-students-body-election-on-march-22-after-4-years-2513140-2024-03-11",
+      "headline": "JNU students' body election on March 22 after 4 yearsThe Jawaharlal Nehru University Students' Union (JNUSU) polls will take place on March 22, more than four years after the last elections were held in September 2019."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/up-12th-board-exam-math-biology-question-papers-leaked-on-whatsapp-uttar-pradesh-2508890-2024-03-01",
+      "headline": "UP 12th board exam math, biology papers leaked on WhatsApp, complaint filedThe mathematics and biology question papers for the Uttar Pradesh class 12 board exam were allegedly leaked on a WhatsApp group."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/education/story/uttar-pradesh-police-constable-recruitment-exam-cancelled-after-paper-leak-re-examination-in-6-months-2506566-2024-02-24",
+      "headline": "UP Police Constable recruitment exam cancelled days after paper leakThe Uttar Pradesh Police Constable recruitment exam held on February 17 and 18 was canceled due to a paper leak. The Chief Minister has announced a re-examination within the next six months."
     }
   ]
 }
