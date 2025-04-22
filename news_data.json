@@ -1,6 +1,11 @@
 {
   "business": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/story/imf-cuts-global-growth-forecast-cites-significant-slowdown-due-to-trump-tariffs-2712979-2025-04-22",
+      "headline": "IMF cuts global growth forecast, cites 'significant slowdown' due to Trump tariffsThe IMF reduced its global growth forecast to 2.8% for 2025, down by 0.5 percentage point,\u00a0while the 2024 forecast was cut by 0.3 points to 3%, down from the January projection of 3.3% for both years."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/ipo/story/tankup-engineers-ipo-check-price-dates-gmp-and-should-you-subscribe-2712921-2025-04-22",
       "headline": "Tankup Engineers IPO: Check price, dates, GMP and should you subscribe?Tankup Engineers, known for building specialised vehicle superstructures, aims to raise Rs 19.53 crore through a fresh issue of 13.95 lakh shares."
@@ -54,14 +59,24 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/air-india-boeing-jets-rejected-by-china-trade-tensions-2712683-2025-04-22",
       "headline": "Air India eyes Boeing jets rejected by China amid trade tensions: ReportThe Tata Group-owned carrier, which is undergoing a fleet overhaul and rapid expansion, is in talks with Boeing Co. to acquire several planes that were being readied for Chinese carriers before fresh tariffs disrupted their delivery."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/rs-500-real-or-fake-look-out-for-small-typo-mha-circular-resarve-bank-of-india-2712663-2025-04-22",
-      "headline": "Is the Rs 500 note in your wallet real or fake? Look out for this small typoThe Ministry of Home Affairs has flagged a surge in fake Rs 500 notes that are so well-made, even experienced handlers are finding it hard to detect them. "
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/the-royals-trailer-ishaan-khatter-bhumi-pednekar-zeenat-aman-2712997-2025-04-22",
+      "headline": "The Royals trailer: Ishaan-Bhumi's chemistry is ok, but we are in for Zeenat AmanThe trailer for Netflix's 'The Royals' reveals a fading city where a prince and CEO team up, leading to unexpected romance and drama. The series features Ishaan Khatter and Bhumi Pednekar and it will stream from May 9."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/sebastian-stan-calls-trump-narcissist-he-mustve-seen-the-apprentice-100-times-2712987-2025-04-22",
+      "headline": "Sebastian Stan calls Trump 'narcissist': He must've seen The Apprentice 100 timesIn a recent Vanity Fair interview, actor Sebastian Stan criticised Donald Trump, labelling him a 'narcissist' and speculating on his obsession with 'The Apprentice'. Stan also discussed Trump's potential reaction to a film portrayal."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/akshay-kumar-condemns-pahalgam-attack-sheer-evil-to-kill-innocent-people-2712993-2025-04-22",
+      "headline": "Akshay Kumar condemns Pahalgam attack: Sheer evil to kill innocent peopleBollywood actor Akshay Kumar has condemned the recent terror attack on tourists in Pahalgam, Jammu and Kashmir, which resulted in one death and twelve injuries. He expressed his horror at the incident and offered prayers for the victims' families."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/hollywood/story/martin-scorsese-to-leonardo-dicaprio-hollywood-celebs-remember-pope-francis-2712937-2025-04-22",
@@ -141,21 +156,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/aamir-khan-on-his-dream-project-the-mahabharat-will-be-like-the-lord-of-the-rings-2712669-2025-04-22",
       "headline": "Aamir Khan's big plans for Mahabharat: Might need multiple filmmakersDuring a recent interview, Bollywood superstar Aamir Khan revealed that he hopes to start working on his dream project, 'The Mahabharat', this year. \r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/ananya-pandays-cousin-ahaan-panday-to-debut-with-saiyaara-release-july-2025-direction-mohit-suri-2712665-2025-04-22",
-      "headline": "Ananya Panday's cousin Ahaan to debut with Saiyaara, release set for July 2025Yash Raj Films is set to release 'Saiyaara', a romantic drama marking Ahaan Panday's entry into Bollywood, on July 18, 2025. The film will be directed by Mohit Suri."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/mahesh-manjrekar-astitva-re-release-2712645-2025-04-22",
-      "headline": "Mahesh Manjrekar bats for Astitva re-release: It doesn't age, it's still topicalVeteran filmmaker Mahesh Manjrekar sees the re-release trend as a chance to showcase 'Astitva' again. Despite 'Vaastav's' anniversary, he believes 'Astitva' holds timeless relevance."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/parineeti-chopra-reacts-fans-calling-raghav-chadha-jiju-at-rcb-pbks-ipl-match-2712646-2025-04-22",
-      "headline": "Parineeti Chopra reacts to fans calling Raghav Chadha 'jiju' at IPL match. WatchActor Parineeti Chopra reacted to a video of fans chanting 'jiju' after Raghav Chadha attended the RCB vs PBKS IPL match in Chandigarh. "
     }
   ],
   "general news": [
@@ -171,8 +171,8 @@
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/jk-pahalgam-terror-attack-chief-minister-omar-abdullah-reacts-abomination-perpetrators-animals-shocked-2712911-2025-04-22",
-      "headline": "Pahalgam attack much larger than anything we've seen in...: Omar AbdullahOmar Abdullah said that the Pahalgam attack was \"much larger than anything we've seen directed at civilians in recent years\". At least 1 person has been killed and several injured in Pahalgam terror attack."
+      "url": "https://www.indiatoday.in/india/story/shivamogga-man-killed-in-pahalgam-terror-attack-wife-says-hindus-targeted-urges-airlifting-of-body-2712975-2025-04-22",
+      "headline": "'Go tell this to Modi,' Pahalgam attacker said after killing my husband: SurvivorA man from Karnataka's Shivamogga was killed in a terror attack in Pahalgam, Kashmir, while on vacation with his family. His wife Pallavi witnessed the incident and appealed for urgent airlifting of his body."
     },
     {
       "sentiment": "positive",
@@ -190,9 +190,9 @@
       "headline": "'We're thick-skinned': Supreme Court judge's remark amid judiciary rowJustice Surya Kant, while hearing a 2010 contempt of court plea, remarked in the Supreme Court about how attacks on the judiciary come every day and that judges are \"thick-skinned\" to deal with such situations. "
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/us-vice-president-jd-vance-india-visit-praises-pm-modi-three-children-hospitality-2712848-2025-04-22",
-      "headline": "Dad, maybe I could live in India: JD Vance on what son Ewan said after meeting PMUS Vice President JD Vance praised Prime Minister Narendra Modi for his warm personality and hospitality towards his family during his four-day official visit to India. He said his son, Ewan, 7, told him he wanted to live in India after meeting with PM Modi."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/jk-pahalgam-terror-attack-chief-minister-omar-abdullah-reacts-abomination-perpetrators-animals-shocked-2712911-2025-04-22",
+      "headline": "Pahalgam attack much larger than anything we've seen in...: Omar AbdullahOmar Abdullah said that the Pahalgam attack was \"much larger than anything we've seen directed at civilians in recent years\". At least 1 person has been killed and several injured in Pahalgam terror attack."
     },
     {
       "sentiment": "negative",
@@ -207,7 +207,12 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/jammu-and-kashmir-terror-attack-pahalgam-killed-injured-security-forces-terrorists-2712876-2025-04-22",
-      "headline": "Live: Amit Shah to leave for Pahalgam soon, says terrorists won't be sparedTerror Attack In Pahalgam Live Updates: Several tourists were injured on Tuesday after terrorists attacked a group of tourists visiting Pahalgam in Anantnag district of Jammu and Kashmir, officials said. Gunshots were heard in Baisaran valley, one of the prime tourist spots in Pahalgam, following which security forces rushed to the site. According to initial inputs, unidentified gunmen opened fire on the tourists who had gone for a trekking trip. Stay tuned with indiatoday.in for live updates. "
+      "headline": "Live: Amit Shah leaves for Srinagar, says terrorists won't be sparedTerror Attack In Pahalgam Live Updates: Several tourists were injured on Tuesday after terrorists attacked a group of tourists visiting Pahalgam in Anantnag district of Jammu and Kashmir, officials said. Gunshots were heard in Baisaran valley, one of the prime tourist spots in Pahalgam, following which security forces rushed to the site. According to initial inputs, unidentified gunmen opened fire on the tourists who had gone for a trekking trip. Stay tuned with indiatoday.in for live updates. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/us-vice-president-jd-vance-india-visit-praises-pm-modi-three-children-hospitality-2712848-2025-04-22",
+      "headline": "Dad, maybe I could live in India: JD Vance on what son Ewan said after meeting PMUS Vice President JD Vance praised Prime Minister Narendra Modi for his warm personality and hospitality towards his family during his four-day official visit to India. He said his son, Ewan, 7, told him he wanted to live in India after meeting with PM Modi."
     },
     {
       "sentiment": "negative",
@@ -216,13 +221,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/law-news/story/pune-porsche-case-supreme-court-interim-bail-teen-mother-tampering-evidence-swapping-blood-sample-2712946-2025-04-22",
-      "headline": "Pune Porsche crash: Teen's mother accused of tampering evidence gets interim bailThe Supreme Court granted interim relief to the woman while reserving its final order on a petition challenging the legality of her arrest."
+      "url": "https://www.indiatoday.in/education-today/news/story/who-are-shakti-dubey-harshita-goyal-dongre-archit-parag-check-full-list-of-upsc-2024-toppers-2712892-2025-04-22",
+      "headline": "Who are UPSC toppers Shakti Dubey, Harshita Goyal, Dongre Archit Parag?UPSC has released the 2024 CSE Final Result. Meet the top three UPSC toppers Shakti Dubey, Harshita Goyal and Archit Parag and check the top 25 toppers' list."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/who-are-shakti-dubey-harshita-goyal-dongre-archit-parag-check-full-list-of-upsc-2024-toppers-2712892-2025-04-22",
-      "headline": "Who are UPSC toppers Shakti Dubey, Harshita Goyal, Dongre Archit Parag?UPSC has released the 2024 CSE Final Result. Meet the top three UPSC toppers Shakti Dubey, Harshita Goyal and Archit Parag and check the top 25 toppers' list."
+      "url": "https://www.indiatoday.in/india/law-news/story/pune-porsche-case-supreme-court-interim-bail-teen-mother-tampering-evidence-swapping-blood-sample-2712946-2025-04-22",
+      "headline": "Pune Porsche crash: Teen's mother accused of tampering evidence gets interim bailThe Supreme Court granted interim relief to the woman while reserving its final order on a petition challenging the legality of her arrest."
     },
     {
       "sentiment": "positive",
@@ -236,18 +241,28 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/anaya-bangar-chills-with-sarfaraz-khan-naushad-khan-musheer-khan-2712550-2025-04-22",
+      "headline": "Anaya Bangar chills with Sarfaraz Khan and his father, Musheer misses reunionFormer Indian cricketer Sanjay Bangar's child Anaya Bangar spent time with Sarfaraz Khan and his family, and posted pictures featuring some precious moments with them.\u00a0"
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/story/imf-cuts-global-growth-forecast-cites-significant-slowdown-due-to-trump-tariffs-2712979-2025-04-22",
+      "headline": "IMF cuts global growth forecast, cites 'significant slowdown' due to Trump tariffsThe IMF reduced its global growth forecast to 2.8% for 2025, down by 0.5 percentage point,\u00a0while the 2024 forecast was cut by 0.3 points to 3%, down from the January projection of 3.3% for both years."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/us-news/story/fbi-chief-kash-patel-says-terrorist-happy-passia-was-plotting-multiple-attacks-in-india-us-police-stations-2712656-2025-04-22",
       "headline": "Terrorist Happy Passia planned multiple attacks on India, US: FBI chiefFBI chief Kash Patel revealed that terrorist Harpreet Singh, alias Happy Passia, was involved in planning multiple attacks on police stations in India and the US. He said Passia, who was arrested last week, was part of a bigger foreign terrorist gang."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/anaya-bangar-chills-with-sarfaraz-khan-naushad-khan-musheer-khan-2712550-2025-04-22",
-      "headline": "Anaya Bangar chills with Sarfaraz Khan and his father, Musheer misses reunionFormer Indian cricketer Sanjay Bangar's child Anaya Bangar spent time with Sarfaraz Khan and his family, and posted pictures featuring some precious moments with them.\u00a0"
+      "url": "https://www.indiatoday.in/india/story/parliament-is-supreme-jagdeep-dhankhar-again-condemns-judiciary-supreme-court-encroachment-2712698-2025-04-22",
+      "headline": "Parliament is supreme: Jagdeep Dhankhar doubles down on criticism of judiciaryVice President Jagdeep Dhankhar doubled down on criticism of judicial 'overreach' and said that \"elected representatives will be ultimate masters\" of constitution. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/parliament-is-supreme-jagdeep-dhankhar-again-condemns-judiciary-supreme-court-encroachment-2712698-2025-04-22",
-      "headline": "Parliament is supreme: Jagdeep Dhankhar doubles down on criticism of judiciaryVice President Jagdeep Dhankhar doubled down on criticism of judicial 'overreach' and said that \"elected representatives will be ultimate masters\" of constitution. "
+      "url": "https://www.indiatoday.in/india/maharashtra/story/bal-thackeray-brothers-uddhav-raj-come-together-reclaim-legacy-aaditya-amit-shiv-sena-maharashtra-bmc-2712779-2025-04-22",
+      "headline": "If Thackeray bhais join hands, it'll be for the betas\u00a0If the Thackeray cousins, Uddhav and Raj, come together after a bitter parting of ways two decades ago, it won't be for themselves but for their sons. This could be the last-ditch attempt for the feuding brothers to reclaim Bal Thackeray's legacy and help Aditya and Amit inherit it. \u00a0"
     },
     {
       "sentiment": "negative",
@@ -260,27 +275,22 @@
       "headline": "East or West, gold is the bestThe sharp rise in gold prices comes at a time when global markets are under pressure due to the falling US dollar and rising uncertainty in the US economy, especially after recent statements by Donald Trump."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/maharashtra/story/bal-thackeray-brothers-uddhav-raj-come-together-reclaim-legacy-aaditya-amit-shiv-sena-maharashtra-bmc-2712779-2025-04-22",
-      "headline": "If Thackeray bhais join hands, it'll be for the betas\u00a0If the Thackeray cousins, Uddhav and Raj, come together after a bitter parting of ways two decades ago, it won't be for themselves but for their sons. This could be the last-ditch attempt for the feuding brothers to reclaim Bal Thackeray's legacy and help Aditya and Amit inherit it. \u00a0"
-    },
-    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/world/story/indian-national-20-molest-singapore-airlines-sia-cabin-crew-member-on-flight-crime-2712729-2025-04-22",
       "headline": "Grabbed, pushed into toilet: Cabin crew member molested by Indian mid-flightA 20-year-old Indian national has been charged with allegedly molesting a cabin crew member aboard a Singapore Airlines (SIA) flight.\u00a0Earlier in April, an Indian-origin retired banker was sentenced to nine months in jail for molesting four SIA cabin crew members."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/woman-compares-her-life-in-gujarat-with-cousins-in-uk-viral-reddit-post-2712888-2025-04-22",
-      "headline": "Woman compares her life in Gujarat with cousin's in UK, asks if West is betterIn a now-viral post on Reddit, a Gujarat-based woman asked if life in Western countries is better as she compared her own with her cousin's in the UK."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/man-sent-woman-his-credit-card-for-10-seconds-on-linkedin-viral-post-2712945-2025-04-22",
-      "headline": "Man sent woman his credit card 'for 10 seconds' on LinkedIn. Here's what she did nextIn a now-viral post, a woman claimed that a man sent her his credit card on LinkedIn for just 10 seconds. Read on to find out what she did next. "
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-srh-vs-mi-tilak-varma-emotional-homecoming-hyderabad-2712981-2025-04-22",
+      "headline": "MI's Tilak Varma ready for emotional Hyderabad homecoming and SRH challengeIPL 2025: Tilak Varma's match against SRH is a special one, as he returns to play in front of his home crowd in Hyderabad, hoping to deliver a strong performance and help MI move up the table."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-chennai-super-kings-ceo-kasi-viswanathan-comeback-2712980-2025-04-22",
+      "headline": "CSK will bounce back in IPL 2025 like they did in 2020: CEO Kasi ViswanathanIPL 2025: Chennai Super Kings CEO Kasi Viswanathan said a team led by MS Dhoni can't be ruled out, remaining hopeful of a comeback from the five-time champion. CSK have lost six of their first eight games this season. "
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-england-test-series-rohit-sharma-sai-sudharsan-shreyas-iyer-2712966-2025-04-22",
@@ -289,7 +299,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-live-score-lucknow-super-giants-vs-delhi-capitals-today-match-updates-2712956-2025-04-22",
-      "headline": "LSG vs DC Live: KL Rahul vs Rishabh Pant as Lucknow eye revengeIPL 2025, LSG vs DC Live Score: Lucknow Super Giants lost to Delhi Capitals by one wicket earlier in the tournament and would be looking to avenge their defeat in the reverse fixture. KL Rahul will also be playing against his former opponent. \r\n"
+      "headline": "LSG vs DC Live: Markram, Marsh make steady startIPL 2025, LSG vs DC Live Score: Delhi Capitals have won the toss and opted to field first at the Ekana Stadium. DC have replaced Mohit Sharma with Dushmantha Chameera while the Lucknow Super Giants are unchanged. "
     },
     {
       "sentiment": "positive",
@@ -328,13 +338,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/vanessa-bryant-honors-late-husband-kobe-on-what-would-have-been-their-24th-wedding-anniversary-glbs-2712811-2025-04-22",
-      "headline": "Vanessa Bryant honors late husband Kobe on what would have been their 24th wedding anniversaryVanessa Bryant paid an emotional tribute to her late husband, NBA legend Kobe Bryant, on what would have marked their 24th wedding anniversary."
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-shivam-dube-budding-atletes-award-chennai-super-kings-tamil-nadu-2712920-2025-04-22",
+      "headline": "CSK's Shivam Dube pledges Rs 70,000 each to 10 athletes from Tamil NaduShivam Dube promised to give Rs 70,000 each to 10 young athletes from Tamil Nadu in a thoughtful gesture. The CSK all-rounder showed his support for grassroots talent and inspired the next generation of Indian sportspersons."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-suresh-raina-csk-criticism-instagram-video-2712801-2025-04-22",
-      "headline": "CSK don't have the hunger to win, it's their weakest team ever: Suresh RainaIPL 2025: Former Chennai Super KIngs batter Suresh Raina criticised the five-time champions while reflecting on their disastrous run in 2025. Raina questioned why CSK did not tap into local talent pool and lashed out at their lack of intent in the powerplays. "
+      "url": "https://www.indiatoday.in/sports/cricket/story/kkr-ipl-points-table-venky-mysore-2712865-2025-04-22",
+      "headline": "2014, 2021: KKR CEO says team has history of making comebacks in IPLKolkata Knight Riders CEO Venky Mysore believes that his team can still reach the playoffs in Indian Premier League's 2025 seaosn. Mysore has stated that KKR have a history of making comebacks and can do it this season as well."
     },
     {
       "sentiment": "positive",
@@ -350,16 +360,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-ms-dhoni-milk-five-litres-ridiculous-rumour-reaction-2712835-2025-04-22",
       "headline": "MS Dhoni on the most ridiculous rumour about himself: I drink 5 litres of milk dailyIPL 2025: Chennai Super Kings captain MS Dhoni debunked the long-standing rumour that he drinks five litres of milk a day during a fun-filled interaction at a promotional event. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/vanessa-bryant-honors-late-husband-kobe-on-what-would-have-been-their-24th-wedding-anniversary-glbs-2712811-2025-04-22",
-      "headline": "Vanessa Bryant honors late husband Kobe on what would have been their 24th wedding anniversaryVanessa Bryant paid an emotional tribute to her late husband, NBA legend Kobe Bryant, on what would have marked their 24th wedding anniversary."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-suresh-raina-csk-criticism-instagram-video-2712801-2025-04-22",
-      "headline": "CSK don't have the hunger to win, it's their weakest team ever: Suresh RainaIPL 2025: Former Chennai Super KIngs batter Suresh Raina criticised the five-time champions while reflecting on their disastrous run in 2025. Raina questioned why CSK did not tap into local talent pool and lashed out at their lack of intent in the powerplays. "
     }
   ],
   "education": [
