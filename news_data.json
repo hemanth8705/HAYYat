@@ -63,6 +63,11 @@
   ],
   "entertainment": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/billy-ray-cyrus-confirms-romance-with-elizabeth-hurley-after-surprise-text-glbs-2714812-2025-04-25",
+      "headline": "Billy Ray Cyrus confirms romance with Elizabeth Hurley after surprise textBilly Ray Cyrus confirms a new romance with Elizabeth Hurley, sparked by a heartfelt text. Reconnecting after two years, the pair's bond has brought him happiness and healing following a difficult divorce.\r\n"
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/entertainment/ott/story/netflix-suffers-global-outage-millions-face-log-in-errors-and-profile-glitches-glbs-2714800-2025-04-25",
       "headline": "Netflix suffers global outage: Millions face log-in errors and profile glitchesNetflix experienced a major global outage, affecting millions of users with login errors, profile mismatches, and streaming disruptions. The company is investigating the cause as users subscribers await service restoration.\r\n"
@@ -151,11 +156,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/fahadh-faasil-rajinikanth-nelson-dilipkumar-jailer-2-2714038-2025-04-24",
       "headline": "Actor Fahadh Faasil to reunite with Rajinikanth in Jailer 2: ReportMalayalam actor Fahadh Faasil is likely to reunite with Superstar Rajinikanth for director Nelson Dilipkumar's 'Jailer 2'. The two actors earlier worked together in director TJ Gnanavel's 'Vettaiyan'."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/dhanashree-verma-to-make-her-acting-debut-with-telugu-film-akasam-daati-vastaava-2713971-2025-04-24",
-      "headline": "Dhanashree Verma to make her acting debut with dance-centric Telugu filmChoreographer Dhanashree Verma is set to make her acting debut with the Telugu film 'Akasam Daati Vastaava.' The upcoming dance-centric movie is backed by Dil Raju. \r\n"
     }
   ],
   "general news": [
@@ -175,14 +175,34 @@
       "headline": "Full support: Opposition backs government's action on Pahalgam terror attackIn the all-party meeting held on Thursday, the Opposition extended its full support to any government action against the perpetrators of the Pahalgam terror attack, including Pakistan."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/pakistan-asks-indians-on-saarc-visa-to-leave-shuts-wagah-border-closes-air-space-pahalgam-attack-jammu-kashmir-2714052-2025-04-24",
-      "headline": "Pak pauses Simla accord, shuts airspace for India after Delhi's diplomatic strikeIndia on Wednesday announced a five-pronged diplomatic response to Pakistan, including suspension of the Indus Waters Treaty, following the Pahalgam carnage. Less than 24 hours later, Pakistan announced a series of retaliatory measures."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/us-news/story/us-slams-nyt-report-on-pahalgam-attack-this-was-a-terrorist-attack-plain-and-simple-glbs-2714810-2025-04-25",
+      "headline": "Terrorist attack plain and simple: US fact checks NYT report on Pahalgam carnageThe US House Foreign Affairs Committee slammed The New York Times for calling Pahalgam terrorists \"militants,\" as top US leaders condemned the attack and reaffirmed strong support for India."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/india-suspends-pakistani-visas-medical-jammu-kashmir-pahalgam-attack-2714022-2025-04-24",
       "headline": "India revokes Pakistanis' visas, advises citizens to return as it ups offensiveIndia has cancelled all Pakistani visas, including medical ones, in response to the deadly Pahalgam terror attack which took place on April 22, killing as many as 26 people, mostly tourists. "
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/pakistan-asks-indians-on-saarc-visa-to-leave-shuts-wagah-border-closes-air-space-pahalgam-attack-jammu-kashmir-2714052-2025-04-24",
+      "headline": "Pak pauses Simla accord, shuts airspace for India after Delhi's diplomatic strikeIndia on Wednesday announced a five-pronged diplomatic response to Pakistan, including suspension of the Indus Waters Treaty, following the Pahalgam carnage. Less than 24 hours later, Pakistan announced a series of retaliatory measures."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/pakistan-power-supply-crisis-indus-waters-treaty-suspended-2713659-2025-04-24",
+      "headline": "How India's suspension of Indus Waters Treaty may cause power crisis in PakIndia's suspension of the Indus Waters Treaty does not bode well for Pakistan's energy sector, which is heavily supported by its various hydropower projects."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/jammu-and-kashmir-attack-pakistan-minister-ishaq-dar-calls-pahalgam-terrorists-freedom-fighters-2714675-2025-04-24",
+      "headline": "J&K attack: Pak Deputy PM calls Pahalgam terrorists 'freedom fighters'Terrorists had struck a prime tourist location at Baisaran meadows near Pahalgam in south Kashmir on Tuesday, killing 26 people, mostly tourists."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/indian-air-force-conducts-drills-simulating-attacks-on-mountain-ground-target-exercise-aakraman-2714674-2025-04-24",
+      "headline": "Air Force conducts drills simulating attacks on mountain, ground targetsRafale jets roar in the central skies as the Air Force simulates deep-strike ops in 'Exercise Aakraman' amid heightened India-Pakistan tensions following the Pahalgam attack."
     },
     {
       "sentiment": "positive",
@@ -191,23 +211,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/bsf-jawan-pakistan-rangers-custody-accidentally-cross-international-border-flag-meets-ensure-return-2714075-2025-04-24",
-      "headline": "BSF jawan in Pakistan custody after accidental border crossing: SourcesConstable PK Singh of the 182nd BSF battalion was detained by Pakistan Rangers after he accidentally crossed the Punjab border. Talks are on between the two forces to secure his safe release. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/gk-current-affairs/story/simla-agreement-the-1972-pact-that-shaped-india-pakistan-relations-2714104-2025-04-24",
-      "headline": "\u200bSimla Agreement: All about the 1972 pact that shaped India-Pakistan relations\u200bThe Simla Agreement, signed in 1972, aimed to establish lasting peace between India and Pakistan post the 1971 war. Recent developments have brought its relevance back into focus.\u200b\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/indian-air-force-conducts-drills-simulating-attacks-on-mountain-ground-target-exercise-aakraman-2714674-2025-04-24",
-      "headline": "Air Force conducts drills simulating attacks on mountain, ground targetsRafale jets roar in the central skies as the Air Force simulates deep-strike ops in 'Exercise Aakraman' amid heightened India-Pakistan tensions following the Pahalgam attack."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/pakistan-power-supply-crisis-indus-waters-treaty-suspended-2713659-2025-04-24",
-      "headline": "How India's suspension of Indus Waters Treaty may cause power crisis in PakIndia's suspension of the Indus Waters Treaty does not bode well for Pakistan's energy sector, which is heavily supported by its various hydropower projects."
+      "url": "https://www.indiatoday.in/world/uk-news/story/indian-high-commission-in-uk-remembers-pahalgam-victims-in-solemn-tribute-ceremony-glbs-2714808-2025-04-25",
+      "headline": "Indian High Commission in UK remembers Pahalgam victims, pays solemn tributeIndia's High Commissioner to the UK, Vikram Doraiswami highlighted the need for resilience, solidarity, and a steadfast pursuit of justice in response to such violent acts.\u00a0"
     },
     {
       "sentiment": "negative",
@@ -216,23 +221,13 @@
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/indus-waters-treaty-suspended-india-pakistan-diplomatic-offensive-pahalgam-attack-2714660-2025-04-24",
-      "headline": "Explained: The myth, hype and truth of Indus Waters TreatyHow long can India take to realistically pause water flows to Pakistan? Can Pakistan survive it?"
-    },
-    {
-      "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/aiudf-mla-aminul-islam-arrested-assam-police-after-video-circulates-supporting-pakistan-2714698-2025-04-24",
       "headline": "Assam MLA arrested for 'defending' Pakistan after Pahalgam terror attackAIUDF MLA Aminul Islam was arrested for allegedly supporting Pakistan after the Pahalgam terror attack after a video of him defending the country went viral. He will be produced in court on Friday."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/india-indus-waters-treaty-pakistan-impact-what-it-means-pahalgam-terror-attack-2713827-2025-04-24",
-      "headline": "Can India turn off Indus tap and leave Pakistan high and dry?The suspension of the Indus Waters Treaty by India is more of a pressure tactic on Pakistan to force it to rein in terror groups and stop infiltration. Here is why India can't stop Indus waters to Pakistan overnight."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/pm-narendra-modi-pahalgam-terror-attack-jammu-kashmir-will-identify-track-punish-terrorist-pakistan-vows-warning-2713906-2025-04-24",
-      "headline": "Punishment beyond imagination for every terrorist, PM promises after J&K attackPM Modi said the terrorists and conspirators behind the April 22 Pahalgam attack will get punishment beyond their imagination as he sent a strong-worded message from Bihar's Madhubani."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/indus-waters-treaty-suspended-india-pakistan-diplomatic-offensive-pahalgam-attack-2714660-2025-04-24",
+      "headline": "Explained: The myth, hype and truth of Indus Waters TreatyHow long can India take to realistically pause water flows to Pakistan? Can Pakistan survive it?"
     },
     {
       "sentiment": "positive",
@@ -240,34 +235,14 @@
       "headline": "My son said Mama, sound, fire: Slain Bengal techie's wife recounts Pahalgam horrorBitan Adhikari, a 40-year-old engineer employed with Tata Consultancy Services (TCS) in the US, was shot dead on the spot in front of his wife and child, who survived."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/pakistan-india-indus-treaty-suspension-water-warfare-pahalgam-terror-attack-2713986-2025-04-24",
-      "headline": "Act of war: Pak says water lifeline for 240 million as India pauses Indus treatyAs part of its diplomatic retaliation after the deadly Pahalgam terror attack, India has suspended the Indus Waters Treaty. Pakistan has vowed to challenge the move legally."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/india-briefs-envoys-of-select-nations-on-jk-attack-as-it-moves-to-isolate-pak-2714100-2025-04-24",
-      "headline": "India briefs envoys of select nations on J&K attack as it moves to isolate PakEnvoys of select G20 countries, including China and Canada, were briefed by the MEA on the Pahalgam terror attack that claimed 26 lives."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/what-s-hot/story/toilet-decoration-is-instagrams-new-obsession-but-experts-are-flushing-it-down-2714056-2025-04-24",
-      "headline": "Toilet decoration is Instagram's new obsession, but experts are flushing it downA few influencers are indulging in toiletscaping \u2013 a decor trend where no stone is left unturned to transform the toilet into a mini museum, complete with decorative pieces and cosy touches like plush rugs and furry seat covers"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/india-punishes-pakistan-diplomatic-measures-trade-indus-treaty-visa-fawad-khan-film-2714610-2025-04-24",
-      "headline": "Trade to water: India punishes Pak with diplomatic blitz for Pahalgam horrorIndia's retaliatory measures also included an attempt to isolate Pakistan on the global stage by holding a meeting with top diplomats and envoys following the Pahalgam attack."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/pm-narendra-modi-rare-switch-to-english-in-bihar-madhubani-ensures-world-gets-his-message-terrorism-2713932-2025-04-24",
-      "headline": "With rare switch to English, PM Modi ensures world gets his message on terrorPrime Minister Narendra Modi, who usually uses Hindi and Indian regional languages in his speeches, made a rare switch to English at a rally in Bihar to convey that the perpetrators of the Pahalgam attack won't be spared. His use of English was to ensure that the world didn't miss a word of India's resolve to fight Pakistan-sponsored terrorism."
-    },
-    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/cricket/story/pakistan-super-league-indian-broadcasters-suspend-pahalgam-terror-attack-2714757-2025-04-24",
       "headline": "Indian broadcasters stop PSL coverage after Pahalgam terror attackIn the aftermath of the horrific terrorist attack in Pahalgam, Kashmir, Indian broadcasters - FanCode and Sony Sports Network have pulled their broadcast of the ongoing Pakistan Super League."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/entertainment/television/story/hina-khan-long-post-pahalgam-attack-2714780-2025-04-25",
+      "headline": "Pray to fellow Indians to not alienate us: Hina Khan's plea after Pahalgam attackIn the aftermath of a terrorist attack in Pahalgam, Kashmir-born actor Hina Khan expressed her sorrow and condemned the attackers, highlighting the collective pain felt across India. She also prayed for the nation to stand united."
     },
     {
       "sentiment": "positive",
@@ -278,6 +253,31 @@
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/world/story/donald-trump-unhappy-russian-strike-on-ukraine-vladimir-putin-volodymyr-zelenskyy-2714613-2025-04-24",
       "headline": "Vladimir, stop: Trump says he is not happy with Russian strikes on KyivDonald Trump, who has tried to broker peace between Russia and Ukraine, expressed unhappiness over the latest attack on Kyiv."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/us-news/story/pentagon-shock-pete-hegseth-used-unsecured-internet-line-to-access-signal-glbs-2714806-2025-04-25",
+      "headline": "Pentagon shock: Pete Hegseth used unsecured internet line to access Signal \r\nDefense Secretary Pete Hegseth used an unsecured internet line in his Pentagon office to access Signal, raising serious cybersecurity concerns about potential exposure of sensitive defense information to hacking or surveillance."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/bsf-no-handshake-gate-opening-attari-wagah-border-during-beating-retreat-ceremony-2714805-2025-04-25",
+      "headline": "No handshake, gate opening at Attari border during beating retreat ceremonyThe parade commander of the Indian contingent also did not walk forward to shake hands with his Pakistani counterpart during the ceremony."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/columbia-activist-mahmoud-khalil-arrested-without-warrant-court-documents-reveal-glbs-2714804-2025-04-25",
+      "headline": "Columbia activist Mahmoud Khalil arrested without warrant, Court documents reveal\r\nColumbia student Mahmoud Khalil was arrested without a warrant, DHS admits, citing \"flight risk.\" Lawyers call it unlawful, politically motivated targeting of pro-Palestinian activism under Trump's crackdown.\r\n"
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/netflix-suffers-global-outage-millions-face-log-in-errors-and-profile-glitches-glbs-2714800-2025-04-25",
+      "headline": "Netflix suffers global outage: Millions face log-in errors and profile glitchesNetflix experienced a major global outage, affecting millions of users with login errors, profile mismatches, and streaming disruptions. The company is investigating the cause as users subscribers await service restoration.\r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/why-crimea-holds-key-to-peace-in-russia-ukraine-war-glbs-2714799-2025-04-25",
+      "headline": "Why Crimea holds key to peace in Russia-Ukraine warCrimea remains the central flashpoint in the Russia-Ukraine war, symbolising national pride for Russia and sovereignty for Ukraine, with both sides refusing to compromise amid stalled peace efforts and global concern."
     }
   ],
   "sports": [
@@ -422,21 +422,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/education/story/the-power-of-knowledge-educations-influence-on-real-estate-market-trends-2516316-2024-03-18",
       "headline": "The power of knowledge: Education's influence on real estate market trendsIn a dynamic sector like real estate, investing in continuing education is not simply an option; it is a requirement."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/jnu-students-body-election-on-march-22-after-4-years-2513140-2024-03-11",
-      "headline": "JNU students' body election on March 22 after 4 yearsThe Jawaharlal Nehru University Students' Union (JNUSU) polls will take place on March 22, more than four years after the last elections were held in September 2019."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/up-12th-board-exam-math-biology-question-papers-leaked-on-whatsapp-uttar-pradesh-2508890-2024-03-01",
-      "headline": "UP 12th board exam math, biology papers leaked on WhatsApp, complaint filedThe mathematics and biology question papers for the Uttar Pradesh class 12 board exam were allegedly leaked on a WhatsApp group."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/education/story/uttar-pradesh-police-constable-recruitment-exam-cancelled-after-paper-leak-re-examination-in-6-months-2506566-2024-02-24",
-      "headline": "UP Police Constable recruitment exam cancelled days after paper leakThe Uttar Pradesh Police Constable recruitment exam held on February 17 and 18 was canceled due to a paper leak. The Chief Minister has announced a re-examination within the next six months."
     }
   ]
 }
