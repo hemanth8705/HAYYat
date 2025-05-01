@@ -1,6 +1,11 @@
 {
   "business": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/story/elon-musk-slams-report-claiming-tesla-looking-to-replace-him-2717885-2025-05-01",
+      "headline": "'Deliberately false': Elon Musk slams report claiming Tesla looking to replace himElon Musk responded furiously on X, calling it \"an EXTREMELY BAD BREACH OF ETHICS\" and slamming the WSJ for \"publishing a DELIBERATELY FALSE ARTICLE\" despite receiving a prior denial from Tesla's board."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/market/story/vedanta-q4-profit-more-than-doubles-check-price-target-fy26-estimates-and-more-2717871-2025-05-01",
       "headline": "Vedanta Q4 profit more than doubles: Check price target, FY26 estimates and moreWith expansion projects nearing completion and deleveraging underway, analysts believe Vedanta is positioning itself for a stronger, leaner phase of growth."
@@ -54,18 +59,18 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/ipo/story/upcoming-ipos-public-listing-market-buzz-dalal-street-trading-lg-tata-zepto-reliance-hdfc-2717462-2025-04-30",
       "headline": "New wave of IPOs is coming. Is Dalal Street ready?Tata Capital, PhonePe, and Zepto are also said to be in the pipeline. Financial firms like HDB Financial Services and Hero FinCorp are planning to raise Rs 12,500 crore and Rs 3,668 crore, respectively. "
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/story/rakuten-to-invest-over-100-million-dollars-in-india-plans-to-boost-hiring-by-8-percent-2717447-2025-04-30",
-      "headline": "Rakuten to invest over $100 million in India, plans to boost hiring by 8%Rakuten currently employs 4,000 people in India, 90% of whom are tech staff, and plans to recruit people who it considers \"power users\" of AI."
     }
   ],
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/rajinikanth-at-waves-summit-2025-pm-modi-will-bring-peace-in-kashmir-2717918-2025-05-01",
+      "headline": "PM Modi will bring peace in Kashmir: Rajinikanth at WAVES Summit 2025Superstar Rajinikanth thanked PM Narendra Modi during his speech at the WAVES Summit 2025. He also mentioned the Pahalgam terrorist attack, and said he trusts the Prime Minister to restore glory and peace in the Valley. "
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/music/story/neha-kakkar-shares-her-first-instagram-post-amid-melbourne-concert-controversy-2717867-2025-05-01",
-      "headline": "Neha Kakkar shares her first IG post amid Melbourne concert controversyNeha Kakkar made a fresh post amid fresh claims from the organisers of her Melbourne concert. The singer supported her brother Tony Kakkar's new song, but wrote something which appeared a little cryptic. The post comes amid ongoing allegations that she lied about the reasons behind delays\u00a0at\u00a0the\u00a0event. "
+      "headline": "Neha Kakkar shares post after fresh claims emerge in Melbourne concert controversyNeha Kakkar made a fresh post amid fresh claims from the organisers of her Melbourne concert. The singer supported her brother Tony Kakkar's new song, but wrote something which appeared a little cryptic. The post comes amid ongoing allegations that she lied about the reasons behind delays\u00a0at\u00a0the\u00a0event. "
     },
     {
       "sentiment": "positive",
@@ -151,18 +156,13 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/ground-zero-actor-emraan-hashmi-attack-on-ghazi-baba-most-crucial-counter-terror-attack-india-2717568-2025-04-30",
       "headline": "Exclusive: Emraan Hashmi revisits India's most crucial counter-terror attackActor Emraan Hashmi discusses his role in 'Ground Zero', highlighting its focus on one of the most crucial anti-terror operation in early 2000s Kashmir, a volatile period marked by significant terrorist activities."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/met-gala-2025-shah-rukh-khan-kiara-advani-diljit-dosanjh-indian-fans-expect-this-year-isha-ambani-2717551-2025-04-30",
-      "headline": "Met Gala 2025: What can Indian fans expect this yearMet Gala 2025 is just around the corner, and fans are quite excited about the same. With several prominent names from the Indian circuit, including Shah Rukh Khan, Kiara Advani, and more on the list, this year's fashionable event is shaping up to be a glamorous global affair.\r\n\r\n"
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/terrorists-conducted-recce-of-3-pahalgam-spots-including-amusement-park-before-attack-sources-2717861-2025-05-01",
-      "headline": "Terrorists recced 3 Pahalgam spots, tight security foiled attack at park: SourcesA week before the Pahalgam terror attack that killed 26 people, mostly tourists, on April 22, terrorists had conducted reconnaissance of three locations in the area on April 15, sources said. "
+      "url": "https://www.indiatoday.in/india/story/terrorists-still-in-kashmir-nia-sources-say-they-are-self-reliant-carrying-food-2717891-2025-05-01",
+      "headline": "Pahalgam terrorists still holed up in Kashmir, very self-reliant: NIA sourcesSources said that during the attack on April 22 in Pahalgam's Baisaran valley, there were suspicions of additional terrorists maintaining a distance, possibly to provide cover-fire in case security forces attempted a rapid response."
     },
     {
       "sentiment": "negative",
@@ -172,7 +172,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/india-pakistan-nationals-relief-deportation-exit-attari-border-punjab-until-further-orders-modifies-april-30-deadline-direction-2717850-2025-05-01",
-      "headline": "India relaxes deadline, allows Pakistanis to leave country until further ordersThe order by the Home Ministry modifies its previous direction that said the Attari border would be closed on April 30."
+      "headline": "India allows Pakistanis to leave until further orders, but Pak yet to open gatesThe order by the Home Ministry modifies its previous direction that said the Attari-Wagah border would be closed on April 30."
     },
     {
       "sentiment": "positive",
@@ -186,23 +186,13 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/terrorists-conducted-recce-of-3-pahalgam-spots-including-amusement-park-before-attack-sources-2717861-2025-05-01",
+      "headline": "Terrorists recced 3 Pahalgam spots, tight security foiled attack at park: SourcesA week before the Pahalgam terror attack that killed 26 people, mostly tourists, on April 22, terrorists had conducted reconnaissance of three locations in the area on April 15, sources said. "
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/us-news/story/work-with-pak-to-de-escalate-tensions-marco-rubio-to-jaishankar-after-pahalgam-terror-attack-glbs-2717753-2025-05-01",
       "headline": "Rubio dials S Jaishankar, Shehbaz Sharif: India, Pak should de-escalate tensionsUS Secretary of State Marco Rubio spoke with Indian External Affairs Minister Dr S Jaishankar and Pakistan Prime Minister Shehbaz Sharif amid rising tensions following the Pahalgam terror attack that killed 26 people."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/story/elon-musk-slams-report-claiming-tesla-looking-to-replace-him-2717885-2025-05-01",
-      "headline": "'Deliberately false': Elon Musk slams report claiming Tesla looking to replace himElon Musk responded furiously on X, calling it \"an EXTREMELY BAD BREACH OF ETHICS\" and slamming the WSJ for \"publishing a DELIBERATELY FALSE ARTICLE\" despite receiving a prior denial from Tesla's board."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/bizarre-error-sneaks-into-west-bengal-government-mamata-banerjee-digha-jagannath-temple-newspaper-ad-2717863-2025-05-01",
-      "headline": "Bizarre error sneaks into Bengal govt's Jagannath temple adA navigation map in a double-spread advertisement on the Jagannath temple in Digha issued by the West Bengal government and carried across India by newspapers had an embarrassing mistake. A location on the map read 'Female Vibrators in Digha'. The Pran Pratishtha ceremony of the Jagannathdham in Digha took place on April 30 in the presence of CM Mamata Banrjee. The temple has been seen as an outreach to Hindus."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/reviews/story/raid-2-movie-review-ajay-devgn-film-crumbles-under-weight-of-his-stardom-2717810-2025-05-01",
-      "headline": "Raid 2 movie review: Ajay Devgn's film crumbles under weight of his stardomReleased-Thu May 01, 2025In 'Raid 2', you never get to meet Amay Patnaik, the honest income tax officer, because Ajay Devgn never gives in to the character. He appears like both Singham and Vijay Salgaonkar in parts, and drives a half-baked story. "
     },
     {
       "sentiment": "positive",
@@ -211,8 +201,38 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/reviews/story/raid-2-movie-review-ajay-devgn-film-crumbles-under-weight-of-his-stardom-2717810-2025-05-01",
+      "headline": "Raid 2 movie review: Ajay Devgn's film crumbles under weight of his stardomReleased-Thu May 01, 2025In 'Raid 2', you never get to meet Amay Patnaik, the honest income tax officer, because Ajay Devgn never gives in to the character. He appears like both Singham and Vijay Salgaonkar in parts, and drives a half-baked story. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/bizarre-error-sneaks-into-west-bengal-government-mamata-banerjee-digha-jagannath-temple-newspaper-ad-2717863-2025-05-01",
+      "headline": "Bizarre error sneaks into Bengal govt's Jagannath temple adA navigation map in a double-spread advertisement on the Jagannath temple in Digha issued by the West Bengal government and carried across India by newspapers had an embarrassing mistake. A location on the map read 'Female Vibrators in Digha'. The Pran Pratishtha ceremony of the Jagannathdham in Digha took place on April 30 in the presence of CM Mamata Banrjee. The temple has been seen as an outreach to Hindus."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/story/elon-musk-slams-report-claiming-tesla-looking-to-replace-him-2717885-2025-05-01",
+      "headline": "'Deliberately false': Elon Musk slams report claiming Tesla looking to replace himElon Musk responded furiously on X, calling it \"an EXTREMELY BAD BREACH OF ETHICS\" and slamming the WSJ for \"publishing a DELIBERATELY FALSE ARTICLE\" despite receiving a prior denial from Tesla's board."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/story/waves-summit-2025-live-updates-pm-modi-to-arrive-check-day-1-schedule-guests-list-2717839-2025-05-01",
+      "headline": "WAVES Summit 2025 Live: India a country of billion plus stories, says PM ModiWAVES Summit 2025 live: The event is currently being held in Mumbai. Prime Minister Narendra Modi inaugurated the first-of-its-kind four-day summit at Jio World Convention Centre on May 1. Follow the event live here. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/indian-astronaut-shubhanshu-shukla-suits-up-completes-training-with-spacex-2717872-2025-05-01",
+      "headline": "Indian astronaut Shubhanshu Shukla suits up for Axiom-4 missionDuring the Ax-4 mission, Shukla will conduct seven experiments developed by Indian institutions. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/pahalgam-terror-attack-live-updates-pakistan-army-youtube-channel-ispr-blocked-india-pm-modi-rahul-gandhi-ceasefire-2717792-2025-05-01",
+      "headline": "Live: NIA chief visits Pahalgam terror site as attack probe intensifiesPahalgam attack live updates: Today marks the 9th day since the deadly Pahalgam terror attack that killed 26 people, mostly tourists. India is weighing options for retaliation beyond the sweeping diplomatic and strategic countermeasures already taken against Pakistan. These measures include the effective downgrading of diplomatic ties, closure of key border routes, suspension of the Indus Waters Treaty, and expulsion of Pakistani military attaches from its High Commission in New Delhi. On Wednesday, Prime Minister Modi held a series of back-to-back key cabinet meetings. On Tuesday, he granted the Indian Armed Forces \"complete operational freedom\" to respond to the Pahalgam terror attack. "
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/bjp-counters-rahul-gandhis-welcome-reply-to-caste-census-even-nehru-was-against-caste-census-2717851-2025-05-01",
-      "headline": "Even Nehru...: BJP counters Rahul Gandhi's 'welcome' reply to caste censusDharmendra Pradhan said Jawaharlal Nehru was against the idea and had described caste census as \"anti-progress\", accusing the Congress of having historically resisted efforts to empower marginalised communities."
+      "headline": "Even Nehru...: BJP counters Rahul Gandhi's 'welcome' reply to caste censusDharmendra Pradhan said Jawaharlal Nehru was against the idea and had described caste reservation as \"anti-progress\", accusing the Congress of having historically resisted efforts to empower marginalised communities."
     },
     {
       "sentiment": "negative",
@@ -226,13 +246,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/pahalgam-terror-attack-live-updates-pakistan-army-youtube-channel-ispr-blocked-india-pm-modi-rahul-gandhi-ceasefire-2717792-2025-05-01",
-      "headline": "Live: NIA chief visits Pahalgam terror site as attack probe intensifiesPahalgam attack live updates: Today marks the 9th day since the deadly Pahalgam terror attack that killed 26 people, mostly tourists. India is weighing options for retaliation beyond the sweeping diplomatic and strategic countermeasures already taken against Pakistan. These measures include the effective downgrading of diplomatic ties, closure of key border routes, suspension of the Indus Waters Treaty, and expulsion of Pakistani military attaches from its High Commission in New Delhi. On Wednesday, Prime Minister Modi held a series of back-to-back key cabinet meetings. On Tuesday, he granted the Indian Armed Forces \"complete operational freedom\" to respond to the Pahalgam terror attack. "
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/mumbai-attack-delhi-court-allows-nia-to-record-tahawwur-rana-voice-handwriting-samples-2717868-2025-05-01",
       "headline": "Delhi court allows NIA to record Tahawwur Rana's voice, handwriting samplesA Delhi court has allowed the NIA to collect voice and handwriting samples of 26/11 attack accused Tahawwur Rana, recently extradited from the US. "
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/israel-faces-national-danger-amid-raging-wildfire-people-abandon-vehicles-flee-2717815-2025-05-01",
+      "headline": "Israel faces national danger amid raging wildfire, people abandon vehicles, fleeIsraeli Prime Minister Benjamin Netanyahu warned that the rapidly advancing flames could reach Jerusalem itself, calling it \"a national emergency, not just a local one\". "
     },
     {
       "sentiment": "positive",
@@ -241,18 +261,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/indian-astronaut-shubhanshu-shukla-suits-up-completes-training-with-spacex-2717872-2025-05-01",
-      "headline": "Indian astronaut Shubhanshu Shukla suits up for Axiom-4 missionDuring the Ax-4 mission, Shukla will conduct seven experiments developed by Indian institutions. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/story/waves-summit-2025-live-updates-pm-modi-to-arrive-check-day-1-schedule-guests-list-2717839-2025-05-01",
-      "headline": "WAVES Summit 2025 Live Updates: Shah Rukh Khan, Rajinikanth arriveWAVES Summit 2025 live: The event is going to begin in Mumbai today. Prime Minister Narendra Modi is set to inaugurate a first-of-its-kind four-day summit today. Follow the event live here. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/inside-story-congress-gayab-debacle-how-tweet-sparked-row-in-party-2717673-2025-05-01",
-      "headline": "Inside story of Congress's 'gayab' debacle: How a tweet sparked row in partyAccording to sources, the Congress's social media head Supriya Shrinate refused to delete the controversial 'gayab' post targeting Prime Minister Narendra Modi even after Jairam Ramesh and Pawan Khera intervened."
+      "url": "https://www.indiatoday.in/entertainment/music/story/neha-kakkar-shares-her-first-instagram-post-amid-melbourne-concert-controversy-2717867-2025-05-01",
+      "headline": "Neha Kakkar shares post after fresh claims emerge in Melbourne concert controversyNeha Kakkar made a fresh post amid fresh claims from the organisers of her Melbourne concert. The singer supported her brother Tony Kakkar's new song, but wrote something which appeared a little cryptic. The post comes amid ongoing allegations that she lied about the reasons behind delays\u00a0at\u00a0the\u00a0event. "
     },
     {
       "sentiment": "positive",
@@ -261,26 +271,21 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/music/story/neha-kakkar-shares-her-first-instagram-post-amid-melbourne-concert-controversy-2717867-2025-05-01",
-      "headline": "Neha Kakkar shares post after fresh claims emerge in Melbourne concert controversyNeha Kakkar made a fresh post amid fresh claims from the organisers of her Melbourne concert. The singer supported her brother Tony Kakkar's new song, but wrote something which appeared a little cryptic. The post comes amid ongoing allegations that she lied about the reasons behind delays\u00a0at\u00a0the\u00a0event. "
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/indusind-bank-leadership-crisis-ceo-resigns-accounting-scandal-2717838-2025-05-01",
       "headline": "Accounting lapse, high-profile exits: What's next for IndusInd Bank?As the dust settles on IndusInd Bank's derivatives debacle, the real test begins: can the bank restore trust, steady the ship, and convince investors it's back on course?"
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/ajmer-hotel-fire-diggi-market-tragedy-rajasthan-2717857-2025-05-01",
-      "headline": "4 killed, 4 injured in Ajmer hotel fire; female firefighter among injuredA devastating fire in a hotel at Ajmer's Diggi market claimed four lives and injured four others, including a female firefighter.\r\n\r\n"
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/israel-faces-national-danger-amid-raging-wildfire-people-abandon-vehicles-flee-2717815-2025-05-01",
-      "headline": "Israel faces national danger amid raging wildfire, people abandon vehicles, fleeIsraeli Prime Minister Benjamin Netanyahu warned that the rapidly advancing flames could reach Jerusalem itself, calling it \"a national emergency, not just a local one\". "
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/trending-news/story/dubai-agency-job-posting-for-house-manager-with-rs-84-lakh-salary-goes-viral-2717912-2025-05-01",
+      "headline": "Dubai agency's job posting for house manager with Rs 84 lakh salary goes viralThe job posting shared by Royal Maison, a premier domestic staffing and private recruitment boutique headquartered in Dubai, has gone viral on social media. "
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/womens-t20-world-cup-lords-dates-venues-england-2717897-2025-05-01",
+      "headline": "Women's T20 World Cup 2026 in England to start on June 12The Women's T20 World Cup 2026 is scheduled to take place from June 12 to July 5. 33 matches will take place across 24 days in seven venues. Lord's will host the grand finale. "
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/mumbai-indians-sign-raghu-sharma-as-replacement-for-injured-vignesh-puthur-2717874-2025-05-01",
@@ -333,8 +338,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/shreyas-iyer-ricky-ponting-csk-vs-pbks-ipl-2025-press-conference-2717800-2025-05-01",
-      "headline": "Shreyas Iyer has taken his game to a new level: Ricky PontingIPL 2025, CSK vs PBKS: Ricky Ponting lauded Shreyas Iyer after his match-winning 72 off 41 balls against the Chennai Super Kings took Punjab Kings to second in the points table. \r\n"
+      "url": "https://www.indiatoday.in/sports/cricket/video/punjab-kings-coach-explains-delay-in-signing-injury-replacements-2717822-2025-05-01",
+      "headline": "Punjab Kings coach explains delay in signing injury replacementsPunjab Kings head coach Ricky Ponting has explained the delay in signing injury replacements, saying that the schedule clash with PSL has limited the availability of quality options. The team has been dealing with key injuries, as Glenn Maxwell fractured his finger during a training session ahead of the rain-abandoned match against Kolkata Knight Riders on April 26, while Lockie Ferguson has been ruled out for the season due to a serious injury."
     },
     {
       "sentiment": "positive",
@@ -355,11 +360,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/david-boon-retires-as-icc-match-referee-after-remarkable-14-year-stint-2717802-2025-05-01",
       "headline": "David Boon retires as ICC match referee after remarkable 14-year stintDavid Boon retired as an ICC match referee on Wednesday, ending a remarkable 14-year tenure. His final assignment was the second Test between Bangladesh and Zimbabwe in Chattogram."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/shreyas-iyer-ricky-ponting-csk-vs-pbks-ipl-2025-press-conference-2717800-2025-05-01",
-      "headline": "Shreyas Iyer has taken his game to a new level: Ricky PontingIPL 2025, CSK vs PBKS: Ricky Ponting lauded Shreyas Iyer after his match-winning 72 off 41 balls against the Chennai Super Kings took Punjab Kings to second in the points table. \r\n"
     }
   ],
   "education": [
