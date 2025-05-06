@@ -203,6 +203,11 @@
   ],
   "entertainment": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/rihanna-and-ciara-end-14-year-feud-at-2025-met-gala-with-heartfelt-reunion-glbs-2720664-2025-05-07",
+      "headline": "Rihanna and Ciara end 14-year feud at 2025 Met Gala with heartfelt reunion Rihanna and Ciara ended their 14-year feud with a warm reunion at the 2025 Met Gala. The pop stars bonded over motherhood and fashion, celebrating Rihanna's third pregnancy.\r\n"
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/movies/hollywood/story/a24-taps-alex-garland-for-dark-fantasy-elden-ring-film-adaptation-glbs-2720651-2025-05-07",
       "headline": "A24 taps Alex Garland for dark fantasy Elden Ring film adaptationAlex Garland will direct a live-action Elden Ring film for A24, adapting the acclaimed fantasy RPG. Production is slated for 2026, marking Garland's next major cinematic project.\r\n"
@@ -291,11 +296,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/diljit-dosanjh-instagram-post-about-met-gala-2025-with-turban-culture-mother-tongue-main-hoon-punjab-2720259-2025-05-06",
       "headline": "Main hoon Punjab: Diljit wraps Met Gala with 'turban, culture, mother tongue'\u00a0For Diljit Dosanjh, heritage and culture came first and fashion later as he walked the blue carpet at the Met Gala 2025. The 41-year-old took a bit of Punjab's royal history in his Maharaja-inspired look at the fashion's biggest night. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/varun-tej-lavanya-tripathi-announce-pregnancy-2720246-2025-05-06",
-      "headline": "Telugu actors Varun Tej, Lavanya Tripathi announce pregnancyTelugu actors Varun Tej and Lavanya Tripathi announced that they are expecting their first child. They shared the announcement on their social media pages."
     }
   ],
   "general news": [
@@ -311,13 +311,18 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/indigo-flight-services-to-srinagar-jammu-and-amritsar-impacted-after-india-hits-terror-camps-in-pak-2720669-2025-05-07",
+      "headline": "IndiGo flights to Srinagar, Jammu impacted after India strikes terror camps in PakAfter India's Operation Sindoor against Pakistan, IndiGo flight services to and from Srinagar, Jammu, Amritsar, Leh, Chandigarh, Bikaner and Dharamshala have been impacted."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/us-president-donald-trump-indian-strikes-pakistan-occupied-kashmir-shame-operation-sindoor-2720657-2025-05-07",
       "headline": "Donald Trump says he knew India would retaliate, hopes it ends quicklyReacting to India's airstrikes under Operation Sindoor, US President Donald Trump called the situation \"a shame\" and urged India and Pakistan to de-escalate tensions, saying, \"Nobody wants to see two powerful nations going down that road.\""
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/operation-sindoor-joint-indian-army-air-force-precision-weapons-pakistan-terror-camps-agency-ani-2720665-2025-05-07",
-      "headline": "Operation Sindoor an Army-Air Force op, used precision weapons: ReportOperation Sindoor a joint Army-Air Force op, used precision weapons to hit terror camps:\u00a0News\u00a0agency\u00a0ANI"
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/what-is-operation-sindoor-indias-strikes-on-pak-terror-camps-to-retaliate-jk-attack-2720667-2025-05-07",
+      "headline": "What is Operation Sindoor? India's strikes on Pak terror camps to retaliate J&K attackUnder Operation Sindoor, the Indian Army and Air Force used precision strike weapons to hit terror camps in Pakistan and POK."
     },
     {
       "sentiment": "positive",
@@ -326,18 +331,13 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/india-uk-sign-free-trade-agreement-pm-modi-keir-starmer-2720501-2025-05-06",
+      "headline": "India and UK clinch trade pact, PM Modi says move to deepen bilateral tiesIndia and the UK signed a landmark free trade agreement in the shadow of US President Donald Trump's tariff warnings. Calling the deal a \"historic milestone\", PM Narendra Modi said the move will further deepen the comprehensive strategic partnership."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/pm-modi-indus-waters-treaty-suspension-pakistan-pahalgam-attack-baisaran-2720572-2025-05-06",
       "headline": "India's water used to go outside but now...: PM's first remark on Indus Treaty moveSpeaking about the move to suspend the Indus Waters Treaty with Pakistan, PM Modi asserted that water meant for India will now remain and be used within the country. He made the remark while addressing an ABP News event."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/donald-trump-india-tariff-cut-video-drop-to-nothing-pm-modi-2720630-2025-05-06",
-      "headline": "Weeks after tariff move, Trump says India has agreed to cut duties to 'nothing'During a bilateral meeting with Canadian Prime Minister Mark Carney, Donald Trump said India has agreed to drop tariffs to 'nothing'."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/delhi/story/khan-market-vasant-vihar-delhi-security-drills-pahalgam-pakistan-2720585-2025-05-06",
-      "headline": "Over 50 locations in Delhi to witness security drills from 4 pm todayIn New Delhi district, the drills will be held in Khan Market, NDMC office building, Palika Kendra, Charak Palika Hospital, Vasant Vihar, D-6, residential colony, Terminal-3 of IGI Airport and Kendriya Vidyalaya School, Delhi Cantt."
     },
     {
       "sentiment": "negative",
@@ -356,8 +356,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-mi-vs-gt-rohit-sharma-left-arm-pace-trap-arshad-khan-2720565-2025-05-06",
-      "headline": "Rohit Sharma flops in Mumbai as Gujarat Titans' left-arm pace plan worksIPL 2025, MI vs GT: Gujarat Titans were rewarded for their tactical move to bring in Arshad Khan for their game in Mumbai. The left-arm pacer dismissed Rohit Sharma cheaply in the powerplay on Tuesday, May 6. "
+      "url": "https://www.indiatoday.in/world/story/donald-trump-india-tariff-cut-video-drop-to-nothing-pm-modi-2720630-2025-05-06",
+      "headline": "Weeks after tariff move, Trump says India has agreed to cut duties to 'nothing'During a bilateral meeting with Canadian Prime Minister Mark Carney, Donald Trump said India has agreed to drop tariffs to 'nothing'."
     },
     {
       "sentiment": "positive",
@@ -366,8 +366,23 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/cities/delhi/story/khan-market-vasant-vihar-delhi-security-drills-pahalgam-pakistan-2720585-2025-05-06",
+      "headline": "Over 50 locations in Delhi to witness security drills from 4 pm todayIn New Delhi district, the drills will be held in Khan Market, NDMC office building, Palika Kendra, Charak Palika Hospital, Vasant Vihar, D-6, residential colony, Terminal-3 of IGI Airport and Kendriya Vidyalaya School, Delhi Cantt."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-mi-vs-gt-rohit-sharma-left-arm-pace-trap-arshad-khan-2720565-2025-05-06",
+      "headline": "Rohit Sharma flops in Mumbai as Gujarat Titans' left-arm pace plan worksIPL 2025, MI vs GT: Gujarat Titans were rewarded for their tactical move to bring in Arshad Khan for their game in Mumbai. The left-arm pacer dismissed Rohit Sharma cheaply in the powerplay on Tuesday, May 6. "
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/law-news/story/supreme-court-judges-make-their-assets-public-cji-sanjiv-khanna-br-gavai-2720621-2025-05-07",
       "headline": "Flats, lands, jewellery, cars: Supreme Court judges make their assets publicThe Supreme Court uploaded statements of assets of judges on its website, following a full-court decision to place the relevant details in the public domain."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india-today-insight/story/what-54-leopards-thriving-in-mumbais-green-lung-means-2720347-2025-05-06",
+      "headline": "What 54 leopards thriving in Mumbai's green lung meansThe survey count at the Sanjay Gandhi National Park is a marked jump from the 47 leopards detected in the habitat in 2018\r\n"
     },
     {
       "sentiment": "positive",
@@ -381,13 +396,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india-today-insight/story/what-54-leopards-thriving-in-mumbais-green-lung-means-2720347-2025-05-06",
-      "headline": "What 54 leopards thriving in Mumbai's green lung meansThe survey count at the Sanjay Gandhi National Park is a marked jump from the 47 leopards detected in the habitat in 2018\r\n"
+      "url": "https://www.indiatoday.in/movies/story/explained-donald-trump-100-per-cent-tariff-on-foreign-films-and-what-it-means-for-indian-cinema-2720474-2025-05-06",
+      "headline": "Trump's 100% tariff on foreign films, and what it means for Indian CinemaWill the Indian film industry be impacted by Donald Trump's policy involving a 100 per cent tariff on foreign films in the US? We spoke to the industry experts to understand the US President's decision, and the respective action to be taken. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/story/explained-donald-trump-100-per-cent-tariff-on-foreign-films-and-what-it-means-for-indian-cinema-2720474-2025-05-06",
-      "headline": "Trump's 100% tariff on foreign films, and what it means for Indian CinemaWill the Indian film industry be impacted by Donald Trump's policy involving a 100 per cent tariff on foreign films in the US? We spoke to the industry experts to understand the US President's decision, and the respective action to be taken. "
+      "url": "https://www.indiatoday.in/world/story/india-shuts-gates-bagligar-salal-dam-chenab-dry-pakistan-war-indus-system-kharif-water-scarcity-punjab-2720175-2025-05-06",
+      "headline": "Pakistan sweats, India's dam closure could hit its food bowlIndia has flushed and shut two dams on the Chenab to refill them within weeks of suspending the Indus Waters Treaty. The Chenab of the Indus Water System is Pakistan's lifeline. Pakistani authorities saw a dip in water levels in Chenab, coinciding with the crucial kharif season when food crops like paddy and maize are sown."
     },
     {
       "sentiment": "positive",
@@ -401,26 +416,16 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/india-shuts-gates-bagligar-salal-dam-chenab-dry-pakistan-war-indus-system-kharif-water-scarcity-punjab-2720175-2025-05-06",
-      "headline": "Pakistan sweats, India's dam closure could hit its food bowlIndia has flushed and shut two dams on the Chenab to refill them within weeks of suspending the Indus Waters Treaty. The Chenab of the Indus Water System is Pakistan's lifeline. Pakistani authorities saw a dip in water levels in Chenab, coinciding with the crucial kharif season when food crops like paddy and maize are sown."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/india-uk-sign-free-trade-agreement-pm-modi-keir-starmer-2720501-2025-05-06",
-      "headline": "India and UK clinch trade pact, PM Modi says move to deepen bilateral tiesIndia and the UK signed a landmark free trade agreement in the shadow of US President Donald Trump's tariff warnings. Calling the deal a \"historic milestone\", PM Narendra Modi said the move will further deepen the comprehensive strategic partnership."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/madhya-pradesh-librarian-principal-government-school-fistfights-hair-pulls-slaps-khargone-2720471-2025-05-06",
       "headline": "Slaps, hair pulls, smashed phones: Principal, librarian come to blows at schoolA principal and a librarian were involved in a heated argument over division work, which spiralled into a full-blown physical altercation - slapping, pulling hairs, landing blows and smashing each other's phones. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/friedrich-merz-german-chancellor-parliament-voting-2720552-2025-05-06",
-      "headline": "After initial shock defeat, Friedrich Merz elected German chancellorAfter initial shock defeat, Friedrich Merz elected German chancellor in second round of Parliament voting"
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/champions-league-inter-milan-vs-barcelona-semifinal-report-score-san-siro-2720671-2025-05-07",
+      "headline": "Champions League: Inter Milan break Barcelona hearts in thriller, reach finalInter Milan reached the Champions League final after a dramatic 4-3 extra-time win over Barcelona, in the semi-final second leg at San Siro. Late goals from Francesco Acerbi and Davide Frattesi completed Inter's comeback on a night of high drama."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-mi-vs-gt-match-report-rain-effected-playoffs-hopes-mumbai-2720640-2025-05-07",
@@ -473,8 +478,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-should-not-play-cricket-vs-pakistan-coach-gautam-gambhir-pahalgam-terror-attack-2720539-2025-05-06",
-      "headline": "India shouldn't play Pakistan in cricket till terrorism ends: Gautam GambhirAfter the Pahalgam terror attack, India coach Gautam Gambhir says there should be no cricket with Pakistan until peace is restored and justice is done, even if it means skipping ICC matches."
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-mi-vs-gt-rohit-sharma-left-arm-pace-trap-arshad-khan-2720565-2025-05-06",
+      "headline": "Rohit Sharma flops in Mumbai as Gujarat Titans' left-arm pace plan worksIPL 2025, MI vs GT: Gujarat Titans were rewarded for their tactical move to bring in Arshad Khan for their game in Mumbai. The left-arm pacer dismissed Rohit Sharma cheaply in the powerplay on Tuesday, May 6. "
     },
     {
       "sentiment": "positive",
@@ -500,6 +505,116 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-should-not-play-cricket-vs-pakistan-coach-gautam-gambhir-pahalgam-terror-attack-2720539-2025-05-06",
       "headline": "India shouldn't play Pakistan in cricket till terrorism ends: Gautam GambhirAfter the Pahalgam terror attack, India coach Gautam Gambhir says there should be no cricket with Pakistan until peace is restored and justice is done, even if it means skipping ICC matches."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-mi-vs-gt-kagiso-rabada-return-delayed-shubman-gill-2720523-2025-05-06",
+      "headline": "Kagiso Rabada return delayed: GT skipper Shubman Gill explains call for MI clashGT have decided not to rush Kagiso Rabada as the South African pacer was made to sit out the clash against MI at the Wankhede stadium on Tuesday, May 6. Rabada recently returned to GT squad after serving his suspension for a failed drug test. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-kkr-vs-csk-ms-dhoni-kolkata-return-chandrakant-pandit-2720496-2025-05-06",
+      "headline": "KKR know how to shut out noise around MS Dhoni craze: Chandrakant PanditKKR head coach Chandrakant Pandit feels that his side is capable of shutting out the noise around MS Dhoni's return to Kolkata as they face CSK at the Eden Gardens on May 7. Dhoni will be returning to the iconic ground as the captain of CSK. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/inter-milan-vs-fc-barcelona-uefa-champions-league-semi-final-2nd-leg-san-siro-livestreaming-2720488-2025-05-06",
+      "headline": "Inter vs Barcelona, Champions League semi-final 2nd Leg: All you need to knowAfter a pulsating 3-3 first leg in Spain, Inter Milan and Barcelona return for a decisive battle at the San Siro, each desperate to reclaim European glory and secure a coveted spot in the final."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-pakistan-sunil-gavaskar-pahalgam-terror-attack-reaction-2720486-2025-05-06",
+      "headline": "Too early to say if India vs Pakistan will happen in ICC events: Sunil GavaskarSunil Gavaskar, speaking to India Today, said it is too early to predict if India and Pakistan will face off in ICC tournaments amid rising tensions following the Pahalgam terror attack. He added that the IPL remains unaffected and assured that foreign players and commentators feel safe in India."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-srh-vs-dc-kl-rahul-form-aakash-chopra-2720433-2025-05-06",
+      "headline": "KL Rahul has gone off the boil: Aakash Chopra comments on DC's batting slumpAakash Chopra criticised the DC batting order's form and said that KL Rahul has gone completely off the boil in recent games. Rahul has struggled to get into form in the past few games for DC. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-rohit-sharma-79-runs-away-from-joining-virat-kohli-in-elite-list-2720402-2025-05-06",
+      "headline": "IPL 2025: Rohit Sharma 79 runs away from joining Virat Kohli in elite listIndia and Mumbai Indians' (MI) batter Rohit Sharma is 79 runs away from joining Virat Kohli in an elite list and becoming the second player in IPL to complete 7000 runs. Rohit has found form after a poor start to IPL 2025. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/inter-milan-vs-fc-barcelona-uefa-champions-league-semi-final-2nd-leg-san-siro-livestreaming-2720488-2025-05-06",
+      "headline": "Inter vs Barcelona, Champions League semi-final 2nd Leg: All you need to knowAfter a pulsating 3-3 first leg in Spain, Inter Milan and Barcelona return for a decisive battle at the San Siro, each desperate to reclaim European glory and secure a coveted spot in the final."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-pakistan-sunil-gavaskar-pahalgam-terror-attack-reaction-2720486-2025-05-06",
+      "headline": "Too early to say if India vs Pakistan will happen in ICC events: Sunil GavaskarSunil Gavaskar, speaking to India Today, said it is too early to predict if India and Pakistan will face off in ICC tournaments amid rising tensions following the Pahalgam terror attack. He added that the IPL remains unaffected and assured that foreign players and commentators feel safe in India."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-srh-vs-dc-kl-rahul-form-aakash-chopra-2720433-2025-05-06",
+      "headline": "KL Rahul has gone off the boil: Aakash Chopra comments on DC's batting slumpAakash Chopra criticised the DC batting order's form and said that KL Rahul has gone completely off the boil in recent games. Rahul has struggled to get into form in the past few games for DC. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-rohit-sharma-79-runs-away-from-joining-virat-kohli-in-elite-list-2720402-2025-05-06",
+      "headline": "IPL 2025: Rohit Sharma 79 runs away from joining Virat Kohli in elite listIndia and Mumbai Indians' (MI) batter Rohit Sharma is 79 runs away from joining Virat Kohli in an elite list and becoming the second player in IPL to complete 7000 runs. Rohit has found form after a poor start to IPL 2025. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/aipa-writes-letter-to-pm-modi-seeking-recognition-from-sports-ministry-2720378-2025-05-06",
+      "headline": "AIPA writes letter to PM Modi seeking recognition from Sports MinistryThe All India Pickleball Association has reached out to PM Narendra Modi, seeking intervention after the Ministry of Youth Affairs and Sports granted recognition to a newly formed pickleball body. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/kashvee-gautam-ruled-out-of-tri-series-due-to-injury-to-be-replaced-by-kranti-goud-2720363-2025-05-06",
+      "headline": "Kashvee Gautam ruled out of tri series due to injury, to be replaced by Kranti GoudIndia women's all-rounder Kashvee Gautam has been ruled out of the ongoing tri series due to an injury. Gautam made her debut during the first match of the series and has remained wicketless after three matches."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-virat-kohli-rcb-podcast-mark-boucher-impact-2720355-2025-05-06",
+      "headline": "He stunned me: Virat Kohli reveals ex-RCB star's massive impact on his young careerIPL 2025: Speaking to Mayanti Langer on an RCB podcast, Virat Kohli recalled how Mark Boucher's guidance helped him understand his potential and the work he needed to put in to make a seamless transition to international cricket."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/football/story/french-minister-apologises-to-liverpool-fans-for-2022-champions-league-final-blame-2720337-2025-05-06",
+      "headline": "French minister apologises to Liverpool fans over 2022 Champions League chaosFrance's Justice Minister G\u00e9rald Darmanin has issued an apology to Liverpool fans for wrongly blaming them for the chaotic scenes before the 2022 Champions League final at the Stade de France.\r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/virat-kohli-breaks-silence-on-quitting-india-rcb-captaincy-2720288-2025-05-06",
+      "headline": "Virat Kohli breaks silence on quitting as India, RCB captain: Needed to be happyVirat Kohli revealed that the relentless pressure of leadership eventually pushed him to step down as captain of both the Indian team and Royal Challengers Bangalore. He also admitted that, during that challenging period, he briefly considered leaving RCB.\r\n"
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/cricket/story/virat-kohli-recalls-2019-world-cup-heartbreak-it-was-a-horrible-hangover-2720278-2025-05-06",
+      "headline": "Virat Kohli recalls 2019 World Cup heartbreak: It was a horrible hangoverStar India batter Virat Kohli recalled India's heartbreaking loss in the 2019 World Cup semi-final against New Zealand and compared it to a 'horrible hangover'. India lost to New Zealand by 18 runs and got knocked out of the tournament."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/champions-league-hansi-flick-lamine-yamal-on-barcelona-vs-inter-milan-2720244-2025-05-06",
+      "headline": "Barcelona's Hansi Flick praises Lamine Yamal's impact ahead of Inter clashBarcelona manager Hansi Flick has praised 17-year-old Lamine Yamal ahead of their UEFA Champions League semifinal second leg against Inter Milan in Italy."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ab-de-villiers-slams-virat-kohlis-strike-rate-critics-gives-new-nickname-to-batting-star-2720234-2025-05-06",
+      "headline": "AB de Villiers slams Kohli's strike rate critics, gives new nickname to batterFormer South Africa cricketer AB de Villiers has slammed star India batter Virat Kohli's critics amid his prolific run in the Indian Premier League 2025 (IPL 2025). "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-sai-sudharsan-shubman-gill-gujarat-titans-captaincy-2720220-2025-05-06",
+      "headline": "Shubman Gill is a very competitive captain: Sai Sudharsan praises GT skipperGujarat Titans opener Sai Sudharsan praised skipper Shubman Gill as a competitive captain while highlighting the strong chemistry behind their successful opening partnership.\r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-mi-vs-gt-predicted-xi-team-news-head-to-head-mumbai-pitch-2720206-2025-05-06",
+      "headline": "Will Gujarat be able to stop Mumbai's winning juggernaut and claim top spot?Mumbai Indians (MI) are set to take on Gujarat Titans (GT) in Match 56 of the Indian Premier League 2025 (IPL 2025) at Wankhede Stadium in Mumbai. MI are on a six-match winning streak while Gujarat are also in fine form with both their batting and bowling firing."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/liverpool-fans-burn-alexander-arnold-jersey-after-defender-announces-departure-2720181-2025-05-06",
+      "headline": "Liverpool fans burn Alexander-Arnold's jersey after defender announces departureLiverpool fans burned Trent Alexander-Arnold's jersey in protest after the English defender announced his decision to leave the club at the end of the 2024\u201325 season."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/virat-kohli-always-said-i-will-be-next-sachin-tendulkar-reveals-school-teacher-2720170-2025-05-06",
+      "headline": "Virat Kohli always said I will be next Sachin Tendulkar, reveals school teacherStar India batter Virat Kohli's school teacher has recently revealed that he had the desire to be the next Sachin Tendulkar right from his childhood and worked hard to excel both in cricket and academics."
     }
   ],
   "education": [
@@ -562,21 +677,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/education/story/the-power-of-knowledge-educations-influence-on-real-estate-market-trends-2516316-2024-03-18",
       "headline": "The power of knowledge: Education's influence on real estate market trendsIn a dynamic sector like real estate, investing in continuing education is not simply an option; it is a requirement."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/jnu-students-body-election-on-march-22-after-4-years-2513140-2024-03-11",
-      "headline": "JNU students' body election on March 22 after 4 yearsThe Jawaharlal Nehru University Students' Union (JNUSU) polls will take place on March 22, more than four years after the last elections were held in September 2019."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/up-12th-board-exam-math-biology-question-papers-leaked-on-whatsapp-uttar-pradesh-2508890-2024-03-01",
-      "headline": "UP 12th board exam math, biology papers leaked on WhatsApp, complaint filedThe mathematics and biology question papers for the Uttar Pradesh class 12 board exam were allegedly leaked on a WhatsApp group."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/education/story/uttar-pradesh-police-constable-recruitment-exam-cancelled-after-paper-leak-re-examination-in-6-months-2506566-2024-02-24",
-      "headline": "UP Police Constable recruitment exam cancelled days after paper leakThe Uttar Pradesh Police Constable recruitment exam held on February 17 and 18 was canceled due to a paper leak. The Chief Minister has announced a re-examination within the next six months."
     }
   ]
 }
