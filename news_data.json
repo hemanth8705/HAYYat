@@ -1,6 +1,16 @@
 {
   "business": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/story/is-the-global-economy-breathing-easier-as-trump-eases-up-on-tariffs-2720249-2025-05-06",
+      "headline": "Is the worst over for global economy as Trump eases stance on tariffs?Even as Trump suggests deals are near with countries like India, Japan, and South Korea, and China reviews a fresh proposal from Washington, the global economy isn't breathing easy yet."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/personal-finance/story/opted-for-new-tax-regime-here-is-a-look-at-key-benefits-what-you-can-claim-itr-filing-2720230-2025-05-06",
+      "headline": "Opted for new tax regime? Here's a look at key benefits, what you can claimThe government brought in the new tax regime to make things simpler for taxpayers. It gives you more tax slabs with lower rates, which means you may end up paying less tax."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/ipo/story/ather-energy-gives-up-listing-gains-slides-4-after-weak-debut-hold-or-sell-2720209-2025-05-06",
       "headline": "Ather Energy gives up listing gains, slides 4% after weak debut. Hold or sell?Ather Energy's stock opened at Rs 328 on the NSE, up 2.2% over its issue price of Rs 321, but slipped over 4% to an intraday low of Rs 308.95 amid weak market sentiment."
@@ -49,19 +59,34 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/personal-finance/story/job-change-and-no-epf-transfer-you-might-be-losing-825-interest-earnings-2719834-2025-05-05",
       "headline": "Job change and no EPF transfer? You might be losing 8.25% interest earningsWhen you switch jobs, your Universal Account Number (UAN) stays the same, but your EPF account with your old employer doesn't automatically move to the new one. You have to transfer it yourself through the EPFO Member Sewa portal."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/escalation-in-tensions-with-india-would-likely-weigh-on-pakistans-growth-moodys-2719827-2025-05-05",
-      "headline": "Escalation in tensions with India would weigh on Pakistan's growth: Moody'sGlobal rating agency Moody's said on Monday that a sustained escalation in tensions with India would likely weigh on Pakistan's growth."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/market/story/sensex-ends-294-points-higher-nifty-above-24460-adani-enterprises-rises-over-7-2719815-2025-05-05",
-      "headline": "Sensex ends 294 points higher, Nifty above 24,460; Adani Enterprises jumps 7%The BSE Sensex climbed 294.85 points, or 0.37%, to close at 80,796.84, while the NSE Nifty50 advanced 114.45 points, or 0.47%, to settle at 24,461.15."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/diljit-dosanjh-instagram-post-about-met-gala-2025-with-turban-culture-mother-tongue-main-hoon-punjab-2720259-2025-05-06",
+      "headline": "Main hoon Punjab: Diljit wraps Met Gala with 'turban, culture, mother tongue'\u00a0For Diljit Dosanjh, heritage and culture came first and fashion later as he walked the blue carpet at the Met Gala 2025. The 41-year-old took a bit of Punjab's royal history in his Maharaja-inspired look at the fashion's biggest night. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/varun-tej-lavanya-tripathi-announce-pregnancy-2720246-2025-05-06",
+      "headline": "Telugu actors Varun Tej, Lavanya Tripathi announce pregnancyTelugu actors Varun Tej and Lavanya Tripathi announced that they are expecting their first child. They shared the announcement on their social media pages."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/shakira-shares-car-with-diljit-dosanjh-says-hi-india-in-viral-met-gala-clip-2720238-2025-05-06",
+      "headline": "Shakira shares car with Diljit Dosanjh, says 'Hi, India' in viral Met Gala clipDiljit Dosanjh reunited with Priyanka Chopra and Nick Jonas at the Met Gala. The singer even shared a car with Shakira while making his way to the prestigious event. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/sidharth-malhotra-wins-hearts-as-he-supports-mother-to-be-kiara-advani-at-met-gala-2025-2720222-2025-05-06",
+      "headline": "Sidharth Malhotra wins hearts as he supports mother-to-be Kiara at Met Gala 2025Sidharth Malhotra's support for pregnant wife Kiara Advani at Met Gala 2025 touched hearts, even without a red carpet appearance. A viral video and his heartfelt tribute online made their quiet moment the real\u00a0showstopper."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/squid-game-3-teaser-netflix-2720212-2025-05-06",
+      "headline": "Squid Game 3 teaser: No dialogue, just dread as final game resumesNetflix's teaser for 'Squid Game' Season 3 hints at a darker, more dramatic finale as Seong Gi-hun awakens in a coffin, sparking theories about new game dynamics and unseen threats. "
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/shah-rukh-khan-introduces-himself-at-met-gala-fans-say-foreign-media-failed-to-recognise-him-2720192-2025-05-06",
@@ -131,38 +156,33 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/kamal-haasan-thug-life-netflix-stream-after-theatrical-release-2719970-2025-05-05",
       "headline": "Kamal Haasan's Thug Life to stream on Netflix after theatrical releaseKamal Haasan's 'Thug Life', directed by Mani Ratnam, will be released in theatres on June 5, 2025. It will later stream on Netflix. The film features a star-studded cast and marks the duo's reunion\u00a0after\u00a0'Nayakan'."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/ajay-devgn-and-the-rise-of-bollywoods-franchise-hero-2719907-2025-05-05",
-      "headline": "One man, many universes: Ajay Devgn and the rise of Bollywood's\u00a0franchise\u00a0heroActor Ajay Devgn has achieved stardom by playing different roles in multiple film franchises across genres. With many sequels in the pipeline, he has become the industry's top (and most sought-after) franchise hero."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/hit-3-box-office-nanis-third-film-to-cross-rs-100-crore-mark-2719906-2025-05-05",
-      "headline": "HIT 3 box office: Nani's third film to cross Rs 100-crore markWith 'HIT 3', Nani continues his winning streak at the box office, delivering yet another blockbuster. The film has not only grossed over Rs 100 crore worldwide in just four days but also marked his third consecutive $2 million success in North America."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/story/met-gala-2025-date-time-theme-guest-list-and-where-to-watch-2719929-2025-05-05",
-      "headline": "Met Gala 2025: Date, time, theme, guest list, and where to watchThe Met Gala is almost here. The event, which will be taking place on May 5 in New York City, can be watched by Indians via live stream. Wondering when, where and how to watch it? Read on to know."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/ayushmann-khurrana-rashmika-mandanna-shoot-final-leg-of-thama-in-ooty-2719811-2025-05-05",
-      "headline": "Ayushmann Khurrana, Rashmika Mandanna shoot final leg of Thama in Ooty: ReportThe shoot of the highly-anticipated Ayushmann Khurrana and Rashmika Mandanna starrer 'Thama' has reached its final phase. Portions of the climax are reportedly being shot in Ooty currently."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/suits-la-episode-11-review-legal-drama-turns-legal-mess-case-of-identity-crisis-2719866-2025-05-05",
-      "headline": "Suits LA Episode 11 review: Legal drama turns legal mess - case of identity crisisReleased-Mon May 05, 2025Who even asked for so many individual stories and flashbacks to begin with? Where is this show heading now? 'Suits LA' just premiered its worst episode so far, and we are sure it's losing the plot fast. "
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/india-nationwide-mock-defence-security-drills-cash-torch-medical-kits-electronic-failure-focus-check-details-2720252-2025-05-06",
+      "headline": "Keep cash, torch, medical kits handy: What civil security drills will focus onCitizens will be trained in key civil defense measures, including how to respond to air raid sirens, conduct themselves during a blackout, and maintain basic emergency supplies. "
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/india-pakistan-tensions-mock-drills-defence-locations-up-delhi-bengal-mumbai-pahalgam-terror-attack-full-list-here-2720224-2025-05-06",
-      "headline": "Defence drills at 259 sites tomorrow, including Delhi, as tension with Pak mountsAs India-Pak tensions rise, mock drills to be held at 259 locations, including Delhi, UP, Bengal. Full list"
+      "headline": "Security drills at 259 sites tomorrow, including Delhi, as tension with Pak mountsAmid rising India-Pakistan tensions after the April 22 Pahalgam terror attack, the Centre has announced a nationwide civil defence drill on May 7 across 259 locations. The mock drill will include air raid sirens, blackout protocols, and public training, with officials urging citizens to keep torches, candles, and cash ready."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/pakistan-isolated-global-stage-allies-friends-china-gulf-nations-pahalgam-terror-attack-2720227-2025-05-06",
+      "headline": "Left out in the cold, Pakistan struggling to find friends as terror bitesWhile tensions between India and Pakistan after terror attacks are not new, what has changed this time is the reaction of some of Islamabad's allies to the April 22 massacre in Pahalgam."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/the-lowdown-was-operation-blue-star-a-mistake-2720147-2025-05-06",
+      "headline": "What was Operation Bluestar? Did Army walk into a trap?In response to a question on Operation Bluestar, Congress leader Rahul Gandhi acknowledged the historical wrongs committed by his party during the 1984 anti-Sikh riots. In this edition of The Lowdown, we take a look at the inside story of Operation Bluestar, the terrible fallout and its far-reaching ramifications.\r\n\r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/diljit-dosanjh-instagram-post-about-met-gala-2025-with-turban-culture-mother-tongue-main-hoon-punjab-2720259-2025-05-06",
+      "headline": "Main hoon Punjab: Diljit wraps Met Gala with 'turban, culture, mother tongue'\u00a0For Diljit Dosanjh, heritage and culture came first and fashion later as he walked the blue carpet at the Met Gala 2025. The 41-year-old took a bit of Punjab's royal history in his Maharaja-inspired look at the fashion's biggest night. "
     },
     {
       "sentiment": "positive",
@@ -176,13 +196,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/the-lowdown-was-operation-blue-star-a-mistake-2720147-2025-05-06",
-      "headline": "What was Operation Bluestar? Did Army walk into a trap?In response to a question on Operation Bluestar, Congress leader Rahul Gandhi acknowledged the historical wrongs committed by his party during the 1984 anti-Sikh riots. In this edition of The Lowdown, we take a look at the inside story of Operation Bluestar, the terrible fallout and its far-reaching ramifications.\r\n\r\n"
+      "url": "https://www.indiatoday.in/india/story/pahalgam-terror-attack-live-updates-un-security-council-india-pakistan-tensions-jk-attack-pm-modi-victims-air-force-army-navy-2720140-2025-05-06",
+      "headline": "Live: NSA Ajit Doval meets PM, Home Ministry convenes crucial meetingPahalgam terror attack live updates: Amid rising India-Pakistan tensions in the wake of the Pahalgam terror attack in which 26 people were killed by terrorists, the United Nations Security Council has held closed-door consultations where envoys called for restraint and dialogue. Meanwhile, a parliamentary panel has sought details from two key ministries overseeing information flow on the action they have planned against social media platforms and influencers who \"seem to be working against national interest\", following the Pahalgam terror attack. Follow indiatoday.in for more updates. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/shah-rukh-khan-introduces-himself-at-met-gala-fans-say-foreign-media-failed-to-recognise-him-2720192-2025-05-06",
-      "headline": "SRK introduces himself at Met Gala, fans say foreign media failed to recognise himShah Rukh Khan's Met Gala debut was nothing short of iconic. In one of the viral moments from the blue carpet, the actor was seen introducing himself to the foreign media and fans thought the media failed to recognise him. \r\n"
+      "url": "https://www.indiatoday.in/lifestyle/fashion/story/india-at-met-gala-2025-srk-kiara-advani-diljit-dosanjh-isha-ambani-priyanka-chopra-2720208-2025-05-06",
+      "headline": "India at the Met Gala 2025: The hits (and the misses)With a strong lineup of Indian celebrities in attendance, Met Gala 2025 gave us some memorable fashion moments."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/impact-feature/story/amazon-indias-great-summer-sale-2025-is-here-transform-your-garden-with-upto-60-off-on-lawn-garden-essentials-2718704-2025-05-02",
+      "headline": "Amazon India's Great Summer Sale 2025 is here: Transform your garden with upto 60% off on lawn & garden essentialsMake your Garden and Lawn summer ready with Amazon India's Great Summer Sale 2025 that is live now. Enjoy Up to 60% off on Lawn & Garden Essentials such as Plants, Solar Lights and more."
     },
     {
       "sentiment": "positive",
@@ -195,34 +220,9 @@
       "headline": "Secrecy and smoke signals: Vatican gears up for conclave to elect new popeThe Catholic Church will begin the secretive process of choosing a new pope on Wednesday. The cardinals eligible to vote will surrender their phones and be barred from outside contact during the conclave."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/us-news/story/us-california-san-diego-migrant-boat-indian-illegal-migrant-family-boat-capsizes-two-kids-missing-2720191-2025-05-06",
-      "headline": "Two Indian children missing in US as boat capsizes during illegal entryTwo children from India are missing as a boat with illegal immigrants capsized off the coast of San Diego, California, killing three people. The parents of the children had a miraculous escape, and are receiving treatment in hospital."
-    },
-    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/trending-news/story/prince-louis-hair-flick-moment-with-big-brother-george-goes-viral-video-2720189-2025-05-06",
       "headline": "Prince Louis' hair-flick moment with big brother George goes viral. Watch videoA video of Prince Louis' hilarious hair-flick moment with Prince George went viral on social media for all the right reasons. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/impact-feature/story/amazon-indias-great-summer-sale-2025-is-here-transform-your-garden-with-upto-60-off-on-lawn-garden-essentials-2718704-2025-05-02",
-      "headline": "Amazon India's Great Summer Sale 2025 is here: Transform your garden with upto 60% off on lawn & garden essentialsMake your Garden and Lawn summer ready with Amazon India's Great Summer Sale 2025 that is live now. Enjoy Up to 60% off on Lawn & Garden Essentials such as Plants, Solar Lights and more."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/law-news/story/sc-sets-aside-kerala-hc-ruling-which-made-void-cpim-contestant-raja-2021-devikulam-mla-election-2720201-2025-05-06",
-      "headline": "Supreme Court restores CPM MLA A Raja's post, overturns Kerala High Court rulingThe Supreme Court has set aside a Kerala High Court ruling that invalidated CPI(M) MLA A Raja's 2021 election, holding that his caste eligibility was wrongly assessed and dismissed."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/cleric-maulana-abdul-aziz-ghazi-lal-masjid-india-pak-tensions-pahalgam-terror-attack-2719988-2025-05-06",
-      "headline": "Would you support Pak if it fights India, Islamabad cleric asked, got no replyMaulana Abdul Aziz Ghazi, a controversial cleric of Islamabad's Lal Masjid, witnessed no people raising their hands when he asked the people whether they would support Pakistan in the event of a war with India."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/fashion/story/diljit-dosanjh-met-gala-debut-prabal-gurung-regal-tribute-punjab-map-2720110-2025-05-06",
-      "headline": "Diljit Dosanjh brings dandy royalty to life in Maharaja Bhupinder Singh-inspired lookDiljit Dosanjh arrived at the Met Gala exuding royalty in an all-ivory ensemble, featuring a cape embroidered with a map of Punjab and the Punjabi alphabet (Gurmukhi)."
     },
     {
       "sentiment": "positive",
@@ -231,28 +231,28 @@
     },
     {
       "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/us-news/story/us-california-san-diego-migrant-boat-indian-illegal-migrant-family-boat-capsizes-two-kids-missing-2720191-2025-05-06",
+      "headline": "Two Indian children missing in US as boat capsizes during illegal entryTwo children from India are missing as a boat with illegal immigrants capsized off the coast of San Diego, California, killing three people. The parents of the children had a miraculous escape, and are receiving treatment in hospital."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/law-news/story/sc-sets-aside-kerala-hc-ruling-which-made-void-cpim-contestant-raja-2021-devikulam-mla-election-2720201-2025-05-06",
+      "headline": "Supreme Court restores CPM MLA A Raja's post, overturns Kerala High Court rulingThe Supreme Court has set aside a Kerala High Court ruling that invalidated CPI(M) MLA A Raja's 2021 election, holding that his caste eligibility was wrongly assessed and dismissed."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/sidharth-malhotra-wins-hearts-as-he-supports-mother-to-be-kiara-advani-at-met-gala-2025-2720222-2025-05-06",
+      "headline": "Sidharth Malhotra wins hearts as he supports mother-to-be Kiara at Met Gala 2025Sidharth Malhotra's support for pregnant wife Kiara Advani at Met Gala 2025 touched hearts, even without a red carpet appearance. A viral video and his heartfelt tribute online made their quiet moment the real\u00a0showstopper."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/cleric-maulana-abdul-aziz-ghazi-lal-masjid-india-pak-tensions-pahalgam-terror-attack-2719988-2025-05-06",
+      "headline": "Would you support Pak if it fights India, Islamabad cleric asked, got no replyMaulana Abdul Aziz Ghazi, a controversial cleric of Islamabad's Lal Masjid, witnessed no people raising their hands when he asked the people whether they would support Pakistan in the event of a war with India."
+    },
+    {
+      "sentiment": "negative",
       "url": "https://www.indiatoday.in/world/story/maldives-president-muizzu-breaks-world-record-with-15-hour-press-conference-glbs-2720099-2025-05-06",
       "headline": "Maldives President Muizzu breaks world record with 15-hour press conferenceMaldives President Mohamed Muizzu set a world record with a nearly 15-hour press conference, answering public questions. He also softened his stance on India agreements, sparking criticism from the opposition.\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/pahalgam-terror-attack-live-updates-un-security-council-india-pakistan-tensions-jk-attack-pm-modi-victims-air-force-army-navy-2720140-2025-05-06",
-      "headline": "Live: NSA Ajit Doval meets PM Modi at his residencePahalgam terror attack live updates: Amid rising India-Pakistan tensions in the wake of the Pahalgam terror attack in which 26 people were killed by terrorists, the United Nations Security Council has held closed-door consultations where envoys called for restraint and dialogue. Meanwhile, a parliamentary panel has sought details from two key ministries overseeing information flow on the action they have planned against social media platforms and influencers who \"seem to be working against national interest\", following the Pahalgam terror attack. Follow indiatoday.in for more updates. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/fashion/story/isha-ambani-at-met-gala-2025-anamika-khanna-diamond-necklace-2720124-2025-05-06",
-      "headline": "Isha Ambani wows at Met Gala, again. This time in mom Nita Ambani's jewelleryIsha Ambani looked stunning at the 2025 Met Gala in an Anamika Khanna outfit. She styled it with striking jewels, including an unmissable diamond necklace from her mother Nita Ambani's collection."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/law-news/story/supreme-court-puts-judges-assets-appointment-details-online-in-transparency-push-cash-row-2720136-2025-05-06",
-      "headline": "Supreme Court makes its judges' assets public: FDs, PPF, houses, stocks and moreThe move comes in the wake of growing concerns over opacity in the judiciary, especially after a controversy surrounding the alleged discovery of burnt wads of cash at the residence of Delhi High Court judge Yashwant Varma following a fire incident.\u00a0"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-playoffs-scenarios-explained-rcb-top-2-worst-case-2720081-2025-05-06",
-      "headline": "IPL playoffs race explained: RCB in pole position as 7 teams in top 4 battleIPL 2025: Seven teams are in the race for four spots in the playoffs. While former champions CSK, SRH and RR are out of the race, RCB are in pole position as they look to finish in the top two for the first time since 2016. "
     },
     {
       "sentiment": "positive",
@@ -266,21 +266,31 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/harvard-university-donald-trump-us-freezes-federal-grants-research-2720164-2025-05-06",
-      "headline": "Defiant Harvard slams 'illegal overreach' as Trump freezes research grantsAfter weeks of sharp exchanges, the Donald Trump administration has announced that Harvard University will be barred from receiving any new federal research grants."
+      "url": "https://www.indiatoday.in/india/law-news/story/supreme-court-puts-judges-assets-appointment-details-online-in-transparency-push-cash-row-2720136-2025-05-06",
+      "headline": "Supreme Court makes its judges' assets public: FDs, PPF, houses, stocks and moreThe move comes in the wake of growing concerns over opacity in the judiciary, especially after a controversy surrounding the alleged discovery of burnt wads of cash at the residence of Delhi High Court judge Yashwant Varma following a fire incident.\u00a0"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/fashion/story/when-gara-met-gala-natasha-poonawallas-dazzling-ode-to-parsi-roots-2720133-2025-05-06",
-      "headline": "When Gara Met Gala: Natasha Poonawalla's dazzling ode to Parsi roots Natasha Poonawalla's Met Gala outfit prominently featured Parsi Gara embroidery, a craft very close to her roots."
+      "url": "https://www.indiatoday.in/lifestyle/fashion/story/isha-ambani-at-met-gala-2025-anamika-khanna-diamond-necklace-2720124-2025-05-06",
+      "headline": "Isha Ambani wows at Met Gala, again. This time in mom Nita Ambani's jewelleryIsha Ambani looked stunning at the 2025 Met Gala in an Anamika Khanna outfit. She styled it with striking jewels, including an unmissable diamond necklace from her mother Nita Ambani's collection."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/drdo-indian-navy-combat-firing-indigenous-multi-influence-ground-mine-2720076-2025-05-06",
-      "headline": "Video: India tests multi-influence mine to boost underwater defence capabilitiesThe indigenous Multi-Influence Ground Mine, an advanced underwater naval mine, was developed by the Naval Science & Technological Laboratory in Visakhapatnam."
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-playoffs-scenarios-explained-rcb-top-2-worst-case-2720081-2025-05-06",
+      "headline": "IPL playoffs race explained: RCB in pole position as 7 teams in top 4 battleIPL 2025: Seven teams are in the race for four spots in the playoffs. While former champions CSK, SRH and RR are out of the race, RCB are in pole position as they look to finish in the top two for the first time since 2016. "
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/champions-league-hansi-flick-lamine-yamal-on-barcelona-vs-inter-milan-2720244-2025-05-06",
+      "headline": "Barcelona's Hansi Flick praises Lamine Yamal's impact ahead of Inter clashBarcelona manager Hansi Flick has praised 17-year-old Lamine Yamal ahead of their UEFA Champions League semifinal second leg against Inter Milan in Italy."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ab-de-villiers-slams-virat-kohlis-strike-rate-critics-gives-new-nickname-to-batting-star-2720234-2025-05-06",
+      "headline": "AB de Villiers slams Kohli's strike rate critics, gives new nickname to batterFormer South Africa cricketer AB de Villiers has slammed star India batter Virat Kohli's critics amid his prolific run in the Indian Premier League 2025 (IPL 2025). "
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-sai-sudharsan-shubman-gill-gujarat-titans-captaincy-2720220-2025-05-06",
@@ -328,13 +338,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-srh-coach-daniel-vettori-sunrisers-hyderabad-knocked-out-2720142-2025-05-06",
-      "headline": "Coach Daniel Vettori blames lack of consistency for SRH's early eliminationSunrisers Hyderabad head coach Daniel Vettori lamented his team's inconsistency throughout the season after their hopes of reaching the IPL 2025 playoffs were dashed on Monday."
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-shubman-gill-captaincy-gujarat-titans-director-vikram-solanki-2720166-2025-05-06",
+      "headline": "Shubman Gill not affected by weight of captaincy: GT director Vikram SolankiIPL 2025, MI vs GT: Gujarat Titans' Director of Cricket, Vikram Solanki, said Shubman Gill has thrived in his role as captain of the former champions this season. He also shed light on the secret behind the successful opening partnership between Gill and Sai Sudharsan."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-ashutosh-sharma-delighted-with-being-delhi-capitals-rescue-man-2720139-2025-05-06",
-      "headline": "IPL 2025: Ashutosh Sharma delighted with being Delhi Capitals' rescue manDelhi Capitals' batter Ashutosh Sharma has said that he is happy to be his team's rescue man in the ongoing Indian Premier League 2025 (IPL 2025)  as he loves to perform under pressure."
+      "url": "https://www.indiatoday.in/sports/cricket/story/shai-hope-to-lead-west-indies-squad-for-odi-series-against-ireland-and-england-2720163-2025-05-06",
+      "headline": "Shai Hope to lead West Indies squad for ODI series against Ireland and EnglandShai Hope will lead West Indies's 15-member squad for six 50-over contests in Europe against Ireland and England, scheduled for later this month."
     },
     {
       "sentiment": "positive",
@@ -350,16 +360,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/video/need-3-more-wins-every-point-is-crucial-at-this-stage-dcs-ashutosh-sharma-2720143-2025-05-06",
       "headline": "Need 3 more wins, every point is crucial at this stage: DC's Ashutosh SharmaDelhi Capitals' Ashutosh Sharma said that their goal is to win the remaining three matches of the season after the washed-out fixture against Sunrisers Hyderabad (SRH). Delhi are ranked fifth on the points table with six wins from 11 matches."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-srh-coach-daniel-vettori-sunrisers-hyderabad-knocked-out-2720142-2025-05-06",
-      "headline": "Coach Daniel Vettori blames lack of consistency for SRH's early eliminationSunrisers Hyderabad head coach Daniel Vettori lamented his team's inconsistency throughout the season after their hopes of reaching the IPL 2025 playoffs were dashed on Monday."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-ashutosh-sharma-delighted-with-being-delhi-capitals-rescue-man-2720139-2025-05-06",
-      "headline": "IPL 2025: Ashutosh Sharma delighted with being Delhi Capitals' rescue manDelhi Capitals' batter Ashutosh Sharma has said that he is happy to be his team's rescue man in the ongoing Indian Premier League 2025 (IPL 2025)  as he loves to perform under pressure."
     }
   ],
   "education": [
