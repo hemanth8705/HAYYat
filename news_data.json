@@ -1,6 +1,11 @@
 {
   "business": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/story/imf-billion-dollar-loan-pakistan-criticims-india-abstains-from-voting-explained-2722671-2025-05-10",
+      "headline": "Explained: Why IMF is facing criticism for granting $1 billion loan to PakistanThe disbursement, approved on Friday under the Extended Fund Facility (EFF), raises total payouts under the programme to $2.1 billion. But the timing of the announcement has provoked a fierce backlash."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/market/story/stock-market-india-pakistan-tensions-what-it-means-for-dalal-street-investors-2722620-2025-05-10",
       "headline": "India\u2013Pakistan tensions escalate. What's next for Dalal Street investors?While the Sensex and Nifty ended over 1% lower in the previous session, experts suggest that the decline was far less than what could have been expected in such a volatile environment."
@@ -54,18 +59,18 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/market/story/yes-bank-share-price-jumped-over-7-percent-today-key-reasons-explained-2722110-2025-05-09",
       "headline": "Explained: Why Yes Bank share price jumped over 7% todayThe Yes Bank stock has now gained nearly 11% over the past five sessions, sparking investor curiosity."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/bitcoin-crosses-100000-dollars-again-as-us-uk-trade-deal-lifts-market-mood-2722020-2025-05-09",
-      "headline": "Bitcoin crosses $100,000 again, as US-UK trade deal lifts market moodThe announcement of a fresh trade deal between US President Donald Trump and UK Prime Minister Keir Starmer helped lift market mood across sectors and gave crypto investors an added reason to feel positive."
     }
   ],
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/ram-charan-warm-welcome-in-london-ahead-madame-tussauds-wax-statue-inauguration-pics-video-2722663-2025-05-10",
+      "headline": "Ram Charan receives warm welcome in London ahead of wax statue inauguration. PicsRam Charan's wax statue at Madame Tussauds London will be launched tomorrow. As he arrived in London, he received a loud cheers and warm welcome from his fans."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/television/story/hina-khan-strong-note-for-trolls-across-the-border-i-am-nothing-if-not-indian-2722641-2025-05-10",
-      "headline": "I'm nothing if not Indian: Hina Khan's strong note for trolls 'across the border'Hina Khan wrote a strongly-worded note against people 'across the border' who have been abusing her, cursing her and wishing the worst for her given her medical condition, after she expressed her support for her country following Operation Sindoor against Pakistan-backed terrorism. "
+      "headline": "I'm nothing if not Indian: Hina Khan's strong note for trolls 'across the border'Hina Khan wrote a strongly-worded note against people 'across the border' who have been abusing her, cursing her and wishing the worst for her given her medical condition. She earlier expressed support for her country and the armed forces following Operation Sindoor against Pakistan-backed terrorism. "
     },
     {
       "sentiment": "positive",
@@ -151,19 +156,9 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/paresh-rawal-dismisses-akshay-kumar-isnt-friend-statement-calls-him-cool-guy-2722235-2025-05-09",
       "headline": "Paresh Rawal dismisses 'Akshay isn't friend' statement, calls him 'cool guy'Paresh Rawal says 'maatha kharab ho gaya' after the interview in which he called Akshay Kumar 'a colleague' and 'not a friend'. The actor now comes clean on the statement. "
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/kim-soo-hyun-row-hits-back-files-new-lawsuit-against-kim-sae-ron-family-2722203-2025-05-09",
-      "headline": "Kim Soo-hyun row: Actor hits back, files new lawsuit against Kim Sae-ron's familyKorean actor Kim Soo-hyun filed a lawsuit against YouTuber Kim Se-eui and Kim Sae-ron's family for spreading false information against the actor. "
     }
   ],
   "general news": [
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/india-pakistan-tensions-live-update-operation-sindoor-blackout-india-pak-war-missile-drone-attack-pahalgam-terror-attack-air-strike-2721927-2025-05-09",
-      "headline": "Live: Pak used high-speed missile to target Punjab airbase at 1:40 amOperation Sindoor news: India launched precision strikes overnight on four key Pakistani airbases - Noor Khan in Rawalpindi, Murid in Chakwal, and Rafiqui in Shorkot - causing heavy damage to military infrastructure and assets, government sources confirmed on Saturday. \r\nThe operation followed a series of drone attacks from Pakistan across the border. In retaliation, India also hit terror launch pads and military posts in Pakistan-occupied Kashmir's Neelam Valley and Sialkot, which were being used to deploy tube-launched drones targeting Indian positions in Jammu, according to defence sources.\r\nMeanwhile, Pakistan fired a long-range missile aimed at a strategic Indian site. The missile was intercepted and destroyed by Indian Air Defence Systems in the Western Sector. A full battle assessment will be released after the Ministry of External Affairs briefing later today."
-    },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/pak-targeted-4-air-stations-used-high-speed-missiles-at-punjab-airbases-india-2722625-2025-05-10",
@@ -176,8 +171,13 @@
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/india-hits-key-pak-airbases-why-nur-khan-murid-rafiqui-were-targeted-operation-sindoor-2722572-2025-05-10",
-      "headline": "India hits key Pak airbases: Why Nur Khan, Murid, Rafiqui were targetedLocated just 10 km from Islamabad, Nur Khan air base is one of Pakistan's most sensitive military compounds and serves both air force operations and VIP transport."
+      "url": "https://www.indiatoday.in/india/story/india-pakistan-tensions-live-update-operation-sindoor-blackout-india-pak-war-missile-drone-attack-pahalgam-terror-attack-air-strike-2721927-2025-05-09",
+      "headline": "Live: Pak used high-speed missile to target Punjab airbase at 1:40 amOperation Sindoor news: India launched precision strikes overnight on four key Pakistani airbases - Noor Khan in Rawalpindi, Murid in Chakwal, and Rafiqui in Shorkot - causing heavy damage to military infrastructure and assets, government sources confirmed on Saturday. \r\nThe operation followed a series of drone attacks from Pakistan across the border. In retaliation, India also hit terror launch pads and military posts in Pakistan-occupied Kashmir's Neelam Valley and Sialkot, which were being used to deploy tube-launched drones targeting Indian positions in Jammu, according to defence sources.\r\nMeanwhile, Pakistan fired a long-range missile aimed at a strategic Indian site. The missile was intercepted and destroyed by Indian Air Defence Systems in the Western Sector. A full battle assessment will be released after the Ministry of External Affairs briefing later today."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/marco-rubio-s-jaishankar-talks-india-pakistan-rising-tensions-conflict-communicate-deescalate-2722633-2025-05-10",
+      "headline": "India's response always responsible, remains so, S Jaishankar tells USAfter speaking with US Secretary of State Marco Rubio, Dr S Jaishankar reaffirmed India's stance, stating that its approach amid rising Indo-Pak tensions \"has always been measured and responsible.\""
     },
     {
       "sentiment": "negative",
@@ -190,14 +190,14 @@
       "headline": "Pakistan's Operation Bunyan al-Marsoos: Why the name, what it meansPakistan has massively escalated the standoff with India by firing drones and missiles, including Fattah-1 ballistic missile. It has named its operation Bunyan al-Marsoos. This is a verse from the Quran. What does the name mean, and why has Pakistan named its military mission Bunyan al-Marsoos?  "
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/marco-rubio-s-jaishankar-talks-india-pakistan-rising-tensions-conflict-communicate-deescalate-2722633-2025-05-10",
-      "headline": "US asks India to communicate directly with Pakistan, ease tensionsEven as diplomatic channels remain active, the military situation on the ground has intensified. For the second night in a row, India retaliated and neutralised a wave of missile and drone attacks launched by Pakistan, which targeted 26 locations from Jammu and Kashmir to Gujarat."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/india-hits-key-pak-airbases-why-nur-khan-murid-rafiqui-were-targeted-operation-sindoor-2722572-2025-05-10",
+      "headline": "Why India hit 6 Pak air bases including Chaklala, Rafiqui and MuridLocated just 10 km from Islamabad, Chaklala air base is one of Pakistan's most sensitive military compounds and serves both air force operations and VIP transport."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/india-pakistan-conflict-debris-missiles-sirsa-barmer-jalandhar-fateh-2722597-2025-05-10",
-      "headline": "Missile debris found in Haryana, Rajasthan, Punjab as Pak ramps up strikesIndia-Pakistan conflict: The development coincides with reports that Pakistan fired its Fateh-II surface-to-surface missile at a strategic Indian location."
+      "url": "https://www.indiatoday.in/india/story/fareed-zakaria-india-pakistan-tensions-operation-sindoor-pahalgam-attack-retaliation-2722479-2025-05-09",
+      "headline": "India has moral high ground, should take strategic high ground too: Fareed ZakariaIn an interview with India Today TV, Fareed Zakaria stressed that India must act with long-term strategy in mind. \"India has the moral high ground but it has the most to lose from a massive escalation,\" he said."
     },
     {
       "sentiment": "negative",
@@ -205,9 +205,29 @@
       "headline": "Video: Army destroys Pak posts, drone launch pads in precision strikesIndia on Friday said Pakistan had launched between 300 and 400 Turkish drones across locations from Leh to Sir Creek in its failed attempt to target Indian military installations "
     },
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/virat-kohli-informs-bcci-he-wants-to-retire-from-tests-before-england-tour-sources-2722557-2025-05-10",
+      "headline": "Virat Kohli informs BCCI he wants to retire from Tests before England tour: SourcesA top BCCI official has urged Virat Kohli to reconsider his decision after the former captain informed the board of his willingness to retire from Test cricket. India are set to tour England for a five-Test series, starting on June 20. "
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/army-releases-photos-of-pakistani-drone-debris-after-neutralizing-threat-over-amritsar-2722598-2025-05-10",
       "headline": "Army releases photos of Pakistani drone debris after neutralizing threat over AmritsarArmy releases photos of Pakistani drone debris after neutralizing threat over Amritsar"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/omar-abdullah-pakistan-international-monetary-fund-loan-jammu-kashmir-attacks-2722560-2025-05-10",
+      "headline": "Reimbursements to devastate J&K: Omar Abdullah as IMF approves loan to PakIndia-Pakistan conflict: Taking a swipe at the global community over its persistent appeal for de-escalation, Omar Abdullah wondered how such moves, like the loan approval by the IMF to Pakistan, would aid the cause."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/operation-sindoor-pakistan-targets-civilians-in-jammu-houses-cars-damaged-videos-surface-2722542-2025-05-10",
+      "headline": "Videos: Pakistan targets civilians in Jammu, houses, cars damagedThe fresh escalation comes just hours after a Pakistani drone strike injured three members of a family in a civilian neighbourhood in Punjab's Ferozepur district. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/india-pakistan-conflict-debris-missiles-sirsa-barmer-jalandhar-fateh-2722597-2025-05-10",
+      "headline": "Missile debris found in Haryana, Rajasthan, Punjab as Pak ramps up strikesIndia-Pakistan conflict: The development coincides with reports that Pakistan fired its Fateh-II surface-to-surface missile at a strategic Indian location."
     },
     {
       "sentiment": "negative",
@@ -221,26 +241,6 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/operation-sindoor-pakistan-targets-civilians-in-jammu-houses-cars-damaged-videos-surface-2722542-2025-05-10",
-      "headline": "Videos: Pakistan targets civilians in Jammu, houses, cars damagedThe fresh escalation comes just hours after a Pakistani drone strike injured three members of a family in a civilian neighbourhood in Punjab's Ferozepur district. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/omar-abdullah-pakistan-international-monetary-fund-loan-jammu-kashmir-attacks-2722560-2025-05-10",
-      "headline": "Reimbursements to devastate J&K: Omar Abdullah as IMF approves loan to PakIndia-Pakistan conflict: Taking a swipe at the global community over its persistent appeal for de-escalation, Omar Abdullah wondered how such moves, like the loan approval by the IMF to Pakistan, would aid the cause."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/willing-to-play-constructive-role-says-china-as-india-pakistan-tensions-escalate-2722615-2025-05-10",
-      "headline": "Willing to play constructive role, says China as India-Pakistan tensions escalateCommenting on the India-Pakistan tension, Chinese Foreign Ministry spokesperson said China is closely following the ongoing situation between India and Pakistan and is deeply concerned about the escalation."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/trending-news/story/sam-altman-reacts-to-elon-musk-dig-at-old-trump-post-says-lets-be-friends-2722609-2025-05-10",
-      "headline": "Sam Altman reacts to Elon Musk's dig at old Trump post, says 'let's be friends'Amid a history of public disputes, Sam Altman offered a conciliatory note after Elon Musk shared a 2016 post about Donald Trump, saying it was time to move on."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/queer-representation-in-indian-cinema-kaathal-the-core-taps-my-son-is-gay-kadhal-enbadhu-podhu-udamai-2721698-2025-05-10",
       "headline": "Indian cinema's queer journey: From margins to mainstreamIndian cinema has gradually shifted from stereotypical portrayals of queer characters to more authentic and nuanced stories. This evolution reflects broader social shifts and growing acceptance of queer identities in India."
     },
@@ -251,13 +251,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/virat-kohli-informs-bcci-he-wants-to-retire-from-tests-before-england-tour-sources-2722557-2025-05-10",
-      "headline": "Virat Kohli informs BCCI he wants to retire from Tests before England tour: SourcesA top BCCI official has urged Virat Kohli to reconsider his decision after the former captain informed the board of his willingness to retire from Test cricket. India are set to tour England for a five-Test series, starting on June 20. "
+      "url": "https://www.indiatoday.in/world/story/willing-to-play-constructive-role-says-china-as-india-pakistan-tensions-escalate-2722615-2025-05-10",
+      "headline": "Willing to play constructive role, says China as India-Pakistan tensions escalateCommenting on the India-Pakistan tension, Chinese Foreign Ministry spokesperson said China is closely following the ongoing situation between India and Pakistan and is deeply concerned about the escalation."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/fareed-zakaria-india-pakistan-tensions-operation-sindoor-pahalgam-attack-retaliation-2722479-2025-05-09",
-      "headline": "India has moral high ground, should take strategic high ground too: Fareed ZakariaIn an interview with India Today TV, Fareed Zakaria stressed that India must act with long-term strategy in mind. \"India has the moral high ground but it has the most to lose from a massive escalation,\" he said."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/trending-news/story/sam-altman-reacts-to-elon-musk-dig-at-old-trump-post-says-lets-be-friends-2722609-2025-05-10",
+      "headline": "Sam Altman reacts to Elon Musk's dig at old Trump post, says 'let's be friends'Amid a history of public disputes, Sam Altman offered a conciliatory note after Elon Musk shared a 2016 post about Donald Trump, saying it was time to move on."
     },
     {
       "sentiment": "positive",
@@ -281,6 +281,11 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/ram-charan-warm-welcome-in-london-ahead-madame-tussauds-wax-statue-inauguration-pics-video-2722663-2025-05-10",
+      "headline": "Ram Charan receives warm welcome in London ahead of wax statue inauguration. PicsRam Charan's wax statue at Madame Tussauds London will be launched tomorrow. As he arrived in London, he received a loud cheers and warm welcome from his fans."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/queer-representation-in-indian-cinema-kaathal-the-core-taps-my-son-is-gay-kadhal-enbadhu-podhu-udamai-2721698-2025-05-10",
       "headline": "Indian cinema's queer journey: From margins to mainstreamIndian cinema has gradually shifted from stereotypical portrayals of queer characters to more authentic and nuanced stories. This evolution reflects broader social shifts and growing acceptance of queer identities in India."
     },
@@ -293,11 +298,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/raid-2-box-office-collection-day-9-detailed-report-ajay-devgn-film-smashes-rs-100-crore-actor-15th-in-the-club-2722626-2025-05-10",
       "headline": "Raid 2 box office Day 9: Ajay's film smashes Rs 100 crore, actor's 15th in the clubAjay Devgn's 'Raid 2' has surpassed the benchmark of Rs 100 crore at the box office. The film witnessed a drop in its collection during the weekdays, given the escalating tensions between India and Pakistan. However, it continued to perform decently. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/khloe-kardashian-shah-rukh-khan-snapchat-post-met-gala-2025-debut-calls-srk-amazing-2722588-2025-05-10",
-      "headline": "Khloe Kardashian 'loved seeing King Khan' at Met Gala, calls SRK 'amazing'Khloe Kardashian joined millions of those who think Shah Rukh Khan looked dashing in his Sabyasachi-designed look at Met Gala 2025. She shared a few photos of the superstar on Snapchat, and referred to him as 'King Khan' "
     }
   ],
   "sports": [
