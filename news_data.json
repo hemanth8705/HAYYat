@@ -63,6 +63,11 @@
   ],
   "entertainment": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/samantha-ruth-prabhu-divorce-health-issues-chickened-out-did-not-act-on-them-2723206-2025-05-11",
+      "headline": "Samantha on having 'worst thoughts' over divorce, health issues: Didn't act on themActor Samantha Ruth Prabhu, in a recent interview, talked about having the 'worst possible thoughts' for a year. She further added that she chickened out and didn't want to act on these thoughts."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/makeup-artist-vikram-gaikwad-dies-aamir-khan-ranveer-singh-anushka-sharma-2723195-2025-05-11",
       "headline": "Aamir Khan, Ranveer Singh and celebs remember makeup artist Vikram GaikwadPopular Bollywood makeup artist Vikram Gaikwad died on Saturday. Aamir Khan, Ranveer Singh, Anushka Sharma and several others paid tribute to him."
@@ -151,23 +156,43 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/amitabh-bachchan-breaks-silence-on-operation-sindoor-after-blank-posts-on-x-skips-pm-modi-mention-2722967-2025-05-11",
       "headline": "Big B breaks silence on Operation Sindoor after series of blank posts on XAmitabh Bachchan made a long, emotional, and empowering note about Operation Sindoor, mentioning the woman who lost her husband, asked a terrorist to kill her as well. The actor shared his father's poetry in the post. His post comes almost 20 days after the Pahalgam terrorist attack. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/rajkummar-rao-bhool-chuk-release-until-next-hearing-june-16-after-pvr-sued-maddock-films-2722850-2025-05-10",
-      "headline": "No Bhool Chuk Maaf's release till next hearing on June 16: Bombay courtPVR sued Maddock Films, the production house, for cancelling the release of 'Bhool Chuk Maaf' citing Indo-Pak conflict. Now, Bombay High Court has restrained the film's release till the next hearing, which will take place on June 16."
     }
   ],
   "general news": [
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/ic-814-hijackers-pulwama-attackers-operation-sindoor-pakistan-attack-2723200-2025-05-11",
-      "headline": "IC-814 hijackers, Pulwama attackers among 100 terrorists killed in Op Sindoor: ArmyIC-814 hijackers, Pulwama attackers among 100 terrorists killed in Op Sindoor: Armed Forces"
+      "url": "https://www.indiatoday.in/india/story/pak-planes-jets-downed-prevented-entering-border-wreckage-op-sindoor-2723228-2025-05-11",
+      "headline": "Few Pak jets downed, no wreckage as planes stopped from entering:\u00a0IndiaIndia shot down several advanced Pakistani jets and inflicted significant losses while thwarting a military escalation following Operation Sindoor. "
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/pakistan-violates-ceasefire-live-updates-india-pak-tension-conflict-breach-news-drone-attack-missile-blackout-operation-sindoor-pahalgam-terror-attack-2722944-2025-05-11",
-      "headline": "Live: We hit terrorists, they targeted civilians and military locations, says IndiaIndia-Pakistan Tension Live Updates: India accused Pakistan of ceasefire violation hours after foreign secretary Vikram Misri announced that India and Pakistan had reached an understanding to stop all firings and military actions on land, air and sea with immediate effect late on Saturday. However, the situation along the LoC is stable now while western border states are on high alert. PM Modi is currently having a security meeting with NSA Ajit Doval, Defence minister Rajnath Singh, CDS Anil Chauhan and military chiefs. India and Pakistan agreed to halt military actions hours after intense cross-border strikes. The escalation followed India's Operation Sindoor, launched in response to the April 22 Pahalgam terror attack that killed 26 people."
+      "headline": "Live: 5 Indian soldiers killed during Operation Sindoor, say Armed ForcesIndia-Pakistan Tension Live Updates: India accused Pakistan of ceasefire violation hours after foreign secretary Vikram Misri announced that India and Pakistan had reached an understanding to stop all firings and military actions on land, air and sea with immediate effect late on Saturday. However, the situation along the LoC is stable now while western border states are on high alert. PM Modi is currently having a security meeting with NSA Ajit Doval, Defence minister Rajnath Singh, CDS Anil Chauhan and military chiefs. India and Pakistan agreed to halt military actions hours after intense cross-border strikes. The escalation followed India's Operation Sindoor, launched in response to the April 22 Pahalgam terror attack that killed 26 people."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/ic-814-hijackers-pulwama-attackers-operation-sindoor-pakistan-attack-2723200-2025-05-11",
+      "headline": "IC-814 hijackers, Pulwama attackers among 100 terrorists killed in Op SindoorIndia's Operation Sindoor targeted Pakistani terror camps and eliminated several high-value terrorists, including those involved in the 1999 IC-814 hijacking and the 2019 Pulwama attack. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sunday-special/story/india-pakistan-ceasefire-dangerous-leadership-asymmetry-pm-narendra-modi-asim-munir-army-chief-shehbaz-sharif-2723132-2025-05-11",
+      "headline": "A dangerous India-Pak asymmetry amid fragile truceThere's a dangerous asymmetry between India and Pakistan. While India is led by a civilian leadership that will keep citizen's best interests in mind, Pakistan's real ruler is General Asim Munir, who could go to any extent to satisfy the deep state. This is crucial as a tenuous truce, tested within hours by Munir's men, takes effect."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/operation-sindoor-before-after-missile-impact-pak-terror-camps-2723218-2025-05-11",
+      "headline": "Watch: Before and after of India's missile impact at key terror camps in PakDuring the briefing, Air Marshal A K Bharti showcased detailed missile impact videos from the operation, including visuals of successful strikes on terror camps at Muridke and Bahawalpur, two of the most notorious terror hubs across the border."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/40-pak-army-personnel-killed-shelling-small-arms-fire-line-of-control-operation-sindoor-2723204-2025-05-11",
+      "headline": "Nearly 40 Pak soldiers killed in LoC strikes during Op Sindoor: IndiaAt least 35 to 40 soldiers from the Pakistani Army were killed between May 7 and 10, the Indian Army said in a press briefing on Sunday."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/targets-at-sea-and-on-land-including-karachi-navy-operation-sindoor-pakistan-2723209-2025-05-11",
+      "headline": "Navy was prepared to strike select targets, including Karachi: India on Op SindoorIndia launched Operation Sindoor on May 7 against the terror hideouts inside Pakistan and POK in retaliation to the Pahalgam attack. Indian forces destroyed major terror infrastructure in precision strikes."
     },
     {
       "sentiment": "positive",
@@ -176,18 +201,18 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/salman-khan-best-mothers-allu-arjun-wishes-celebrities-wishes-on-mothers-day-2723163-2025-05-11",
+      "headline": "Salman honours 'best mothers', Allu Arjun's sweet wishes: Celebs on Mother's DayIndian cinema's biggest stars, Salman Khan, Allu Arjun and several others honoured their mothers on Mother's Day on their respective social media pages. From heartfelt photos to emotional messages, the film fraternity celebrated the special day with love and gratitude."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/pm-modi-told-jd-vance-ceasefire-india-pak-drones-missiles-air-bases-2723138-2025-05-11",
       "headline": "If Pak attacks, we will retaliate harder: PM Modi to Vance\u00a0on\u00a0ceasefireDuring a phone call with US Vice President JD Vance over de-escalation with Pakistan, Prime Minister Narendra Modi said that India would respond strongly if attacked by Pakistan."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sunday-special/story/india-pakistan-ceasefire-dangerous-leadership-asymmetry-pm-narendra-modi-asim-munir-army-chief-shehbaz-sharif-2723132-2025-05-11",
-      "headline": "A dangerous India-Pak asymmetry amid fragile truceThere's a dangerous asymmetry between India and Pakistan. While India is led by a civilian leadership that will keep citizen's best interests in mind, Pakistan's real ruler is General Asim Munir, who could go to any extent to satisfy the deep state. This is crucial as a tenuous truce, tested within hours by Munir's men, takes effect."
-    },
-    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/cricket/story/australian-cricketers-escape-missile-strike-psl-postponed-pakistan-border-tensions-2723165-2025-05-11",
-      "headline": "Australian cricketers narrowly escape missile strike in Pakistan: ReportAustralian and international cricketers evacuated just before missile strikes hit Nur Khan airbase in Pakistan. India has alleged that Pakistan had used civilian flights as a shield amidst cross border firings between the countries."
+      "headline": "Australian cricketers narrowly escape missile strike in Pakistan: ReportAustralian and international cricketers evacuated just before missile strikes hit Nur Khan airbase in Pakistan. India has alleged that Pakistan had used civilian flights as a shield amidst cross-border firings between the countries."
     },
     {
       "sentiment": "negative",
@@ -196,13 +221,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/indus-treaty-suspension-operation-sindoor-india-3-point-objective-against-pakistan-2723156-2025-05-11",
-      "headline": "Indus treaty suspension, Op Sindoor: India's 3-point objective against PakWhen it came to serving its military purpose, government sources said that PM Modi set out with a clear objective of razing the terror camps operating from Pakistan to the ground. The May 7 strikes targeted their training and logistical infrastructure, thus achieving PM's \"mitti me mila denge\" objective.\r\n"
+      "url": "https://www.indiatoday.in/movies/story/ranveer-allahbadia-deleted-post-for-pakistani-brothers-sisters-faces-backlash-2723088-2025-05-11",
+      "headline": "Ranveer Allahbadia deletes post for 'Pakistani brothers-sisters' after backlashPodcaster Ranveer Allahbadia is at the centre of a new controversy for making an Instagram post addressed to 'dear Pakistani brothers and sisters' amid India's Operation Sindoor against terrorism. He deleted the post later following criticism on social media. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/salman-khan-best-mothers-allu-arjun-wishes-celebrities-wishes-on-mothers-day-2723163-2025-05-11",
-      "headline": "Salman honours 'best mothers', Allu Arjun's sweet wishes: Celebs on Mother's DayIndian cinema's biggest stars, Salman Khan, Allu Arjun and several others honoured their mothers on Mother's Day on their respective social media pages. From heartfelt photos to emotional messages, the film fraternity celebrated the special day with love and gratitude."
+      "url": "https://www.indiatoday.in/india/story/indus-treaty-suspension-operation-sindoor-india-3-point-objective-against-pakistan-2723156-2025-05-11",
+      "headline": "Indus treaty suspension, Op Sindoor: India's 3-point objective against PakWhen it came to serving its military purpose, government sources said that PM Modi set out with a clear objective of razing the terror camps operating from Pakistan to the ground. The May 7 strikes targeted their training and logistical infrastructure, thus achieving PM's \"mitti me mila denge\" objective.\r\n"
     },
     {
       "sentiment": "positive",
@@ -213,31 +238,6 @@
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/opinion/story/post-operation-sindoor-pakistan-claiming-victory-narrative-war-time-to-deploy-ins-tharoor-icbm-asaduddin-owaisi-2723063-2025-05-11",
       "headline": "Post-Op Sindoor: Time to Deploy INS Tharoor & ICBM OwaisiPost-Operation Sindoor, the battle has shifted from airbases to airwaves, and India is losing ground. Congress leader Shashi Tharoor's gravitas and Lok Sabha MP Asaduddin Owaisi's firepower could prove to be India's best shot at reclaiming the global narrative."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/talks-with-pak-only-on-pok-return-handing-over-of-terrorists-indias-message-2723145-2025-05-11",
-      "headline": "Talks with Pak only on POK return, handing over of terrorists: India's messageDialogue with Pakistan only on the return of PoK and the handing over of terrorists, India made its stand clear ahead of the decision to stop firing."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/story/ranveer-allahbadia-deleted-post-for-pakistani-brothers-sisters-faces-backlash-2723088-2025-05-11",
-      "headline": "Ranveer Allahbadia deletes post for 'Pakistani brothers-sisters' after backlashPodcaster Ranveer Allahbadia is at the centre of a new controversy for making an Instagram post addressed to 'dear Pakistani brothers and sisters' amid India's Operation Sindoor against terrorism. He deleted the post later following criticism on social media. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/india-pakistan-ceasefire-missile-debris-found-in-rajasthasn-sparks-speculation-about-use-of-brahmos-in-op-sindoor-2723074-2025-05-11",
-      "headline": "BrahMos hit Jaish headquarters in Pak during Op Sindoor? Booster debris foundThe debris, believed to be ejected components typically discarded shortly after a missile launch, was found in a remote area close to the Indo-Pak border, raising questions about whether the high-speed BrahMos missile was deployed in India's recent precision attacks on Pakistani military infrastructure."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-revised-dates-may-16-final-confirmed-bcci-2723129-2025-05-11",
-      "headline": "IPL 2025 set to resume by May 16, final likely on June 1: BCCI sourcesThe Indian Premier League 2025 is set to resume by May 16, a top BCCI official has told India Today. The final is expected to be held on either May 30, or June 1."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/satellite-image-shows-damage-to-paks-nur-khan-air-base-in-indian-strike-2723133-2025-05-11",
-      "headline": "Satellite image shows damage to Pak's Nur Khan air base in Indian strikeNur Khan air base is home to Pakistan's main transport squadrons and is used for logistical and strategic airlift operations. "
     },
     {
       "sentiment": "positive",
@@ -256,8 +256,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/indian-air-force-says-operation-sindoor-still-ongoing-after-india-pak-ceasefire-briefing-in-due-course-2723045-2025-05-11",
-      "headline": "Op Sindoor still ongoing, briefing soon: Air Force after India-Pak ceasefireThe Indian Air Force (IAF) on Sunday stated that Operation Sindoor -- launched as a counter-offensive against the dastardly attack by Pakistan-backed terrorists in Pahalgam -- is still in progress, a day after US President Donald Trump announced a ceasefire between New Delhi and Islamabad."
+      "url": "https://www.indiatoday.in/india/story/talks-with-pak-only-on-pok-return-handing-over-of-terrorists-indias-message-2723145-2025-05-11",
+      "headline": "Talks with Pak only on POK return, handing over of terrorists: India's messageDialogue with Pakistan only on the return of PoK and the handing over of terrorists, India made its stand clear ahead of the decision to stop firing."
     },
     {
       "sentiment": "positive",
@@ -266,18 +266,28 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/video/daughter-soldier-killed-pak-drone-attack-sergeant-surendra-moga-2723134-2025-05-11",
-      "headline": "I am proud, will avenge his death: Daughter of soldier killed in Pak drone attackMartyred Sergeant Surendra Singh Moga's daughter Vartika hailed his sacrifice and said that she is feeling proud that her father \"got martyred while killing the enemies and protecting the nation.\""
+      "url": "https://www.indiatoday.in/india/story/india-pakistan-ceasefire-missile-debris-found-in-rajasthasn-sparks-speculation-about-use-of-brahmos-in-op-sindoor-2723074-2025-05-11",
+      "headline": "BrahMos hit Jaish headquarters in Pak during Op Sindoor? Booster debris foundThe debris, believed to be ejected components typically discarded shortly after a missile launch, was found in a remote area close to the Indo-Pak border, raising questions about whether the high-speed BrahMos missile was deployed in India's recent precision attacks on Pakistani military infrastructure."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/jd-vance-call-pm-modi-us-role-limited-getting-india-pak-talk-cnn-2722975-2025-05-11",
-      "headline": "Vance had to call PM Modi, US role limited to getting India and Pak to talk: CNNAs per CNN, US Vice President JD Vance had to call Prime Minister Narendra Modi to inform him about a \"high probability of dramatic escalation\" over the weekend."
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-revised-dates-may-16-final-confirmed-bcci-2723129-2025-05-11",
+      "headline": "IPL 2025 set to resume by May 16, final likely on June 1: BCCI sourcesThe Indian Premier League 2025 is set to resume by May 16, a top BCCI official has told India Today. The final is expected to be held on either May 30, or June 1."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/satellite-image-shows-damage-to-paks-nur-khan-air-base-in-indian-strike-2723133-2025-05-11",
+      "headline": "Satellite image shows damage to Pak's Nur Khan air base in Indian strikeNur Khan air base is home to Pakistan's main transport squadrons and is used for logistical and strategic airlift operations. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/pope-leo-welcomes-india-pak-ceasefire-lasting-peace-vatican-2723123-2025-05-11",
-      "headline": "Pope Leo welcomes India-Pakistan ceasefire deal, hopes for lasting peaceHe also appealed to the world's major powers for \"no more war\" in his first Sunday message to crowds in St Peter's Square since his election as the 267th Pope."
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/mahesh-babu-ss-rajamouli-jr-ntr-ram-charan-rrr-live-keeravaani-event-london-royal-albert-hall-2723229-2025-05-11",
+      "headline": "Mahesh Babu to share stage with Rajamouli, Jr NTR, Ram Charan at RRR London eventMahesh Babu will join the 'RRR' team members SS Rajamouli, Jr NTR and Ram Charan at the Royal Albert Hall in London on Sunday. Composer MM Keeravaani will perform with a live orchestra at the 'RRR' screening."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/samantha-ruth-prabhu-divorce-health-issues-chickened-out-did-not-act-on-them-2723206-2025-05-11",
+      "headline": "Samantha on having 'worst thoughts' over divorce, health issues: Didn't act on themActor Samantha Ruth Prabhu, in a recent interview, talked about having the 'worst possible thoughts' for a year. She further added that she chickened out and didn't want to act on these thoughts."
     },
     {
       "sentiment": "positive",
@@ -288,19 +298,19 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/sanam-teri-kasam-directors-radhika-rao-vinay-sapru-no-pakistan-actors-operation-sindoor-2723182-2025-05-11",
       "headline": "Sanam Teri Kasam's directors say no more engagement with Pak actors: Nation first'Sanam Teri Kasam' directors Radhika Rao and Vinay Sapru, in an interview, stated that no one from India should work with Pakistan actors. The duo lashed out at Pakistan actors for their statements against Indian Armed Forces and Operation Sindoor."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/salman-khan-best-mothers-allu-arjun-wishes-celebrities-wishes-on-mothers-day-2723163-2025-05-11",
-      "headline": "Salman honours 'best mothers', Allu Arjun's sweet wishes: Celebs on Mother's DayIndian cinema's biggest stars, Salman Khan, Allu Arjun and several others honoured their mothers on Mother's Day on their respective social media pages. From heartfelt photos to emotional messages, the film fraternity celebrated the special day with love and gratitude."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/preity-zinta-is-finally-home-apologises-to-dharamsala-match-crowd-was-bit-curt-2723147-2025-05-11",
-      "headline": "Preity Zinta is 'finally home', apologises to Dharamshala match crowd: Was bit curt\u00a0Actor and Punjab Kings owner Preity Zinta shared a long note on X, announcing that she had reached home safely. She also apologised for turning down the crowd at the Dharamshala stadium when they asked for a picture. "
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/england-vs-india-jasprit-bumrah-test-team-captaincy-shubman-gill-rishabh-pant-2723230-2025-05-11",
+      "headline": "Jasprit Bumrah opts out of India Test captaincy race ahead of England tour: ReportJasprit Bumrah has opted out of the race to be India's Test team captain, according to a report from Sky Sports. Bumrah has been one of the names that was tipped for the post since Rohit Sharma announced his Test retirement. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/athletics/story/india-mens-mixed-4x400m-relay-miss-world-championships-qualification-2723217-2025-05-11",
+      "headline": "India's 4x400m teams miss out on World Championship qualificationIndia's men's and mixed 4x400m relay teams failed to qualify for the World Championships in Tokyo. The teams now aim to secure the remaining berths through upcoming qualification events."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/bundesliga-hamburg-pitch-invasion-fans-hospitalised-2723199-2025-05-11",
@@ -324,7 +334,7 @@
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/cricket/story/australian-cricketers-escape-missile-strike-psl-postponed-pakistan-border-tensions-2723165-2025-05-11",
-      "headline": "Australian cricketers narrowly escape missile strike in Pakistan: ReportAustralian and international cricketers evacuated just before missile strikes hit Nur Khan airbase in Pakistan. India has alleged that Pakistan had used civilian flights as a shield amidst cross border firings between the countries."
+      "headline": "Australian cricketers narrowly escape missile strike in Pakistan: ReportAustralian and international cricketers evacuated just before missile strikes hit Nur Khan airbase in Pakistan. India has alleged that Pakistan had used civilian flights as a shield amidst cross-border firings between the countries."
     },
     {
       "sentiment": "positive",
@@ -348,13 +358,13 @@
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/football/story/premier-league-manchester-city-ruben-dias-trolled-southampton-2723118-2025-05-11",
-      "headline": "Ruben Dias, Manchester City trolled by Southampton after post-match remarkRuben Dias and Manchester City were brutally trolled by Southampton after the defender criticised the Saints after 0-0 draw on Saturday, May 10. Dias slammed Southampton for their approach during the game on Saturday. "
+      "url": "https://www.indiatoday.in/sports/cricket/story/australian-cricketers-escape-missile-strike-psl-postponed-pakistan-border-tensions-2723165-2025-05-11",
+      "headline": "Australian cricketers narrowly escape missile strike in Pakistan: ReportAustralian and international cricketers evacuated just before missile strikes hit Nur Khan airbase in Pakistan. India has alleged that Pakistan had used civilian flights as a shield amidst cross-border firings between the countries."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/deepika-kumari-archery-world-cup-stage-2-bronze-medal-win-2723108-2025-05-11",
-      "headline": "Deepika Kumari wins Bronze medal in Archery World Cup stage 2Deepika Kumari showcased grit and composure to clinch a bronze at the Archery World Cup Stage 2, avenging her semifinal loss with a strong finish. Her podium return added to India's growing medal tally, led by compound archers' dominance."
+      "url": "https://www.indiatoday.in/sports/cricket/story/ricky-ponting-convinced-foreign-players-to-stay-back-in-india-pbks-ceo-satish-menon-2723157-2025-05-11",
+      "headline": "Ricky Ponting convinced foreign players to stay back in India: PBKS CEO Satish MenonPunjab Kings (PBKS) CEO Satish Menon revealed that head coach Ricky Ponting convinced the foreign players to stay back in India amid the rising border tensions between India and Pakistan."
     },
     {
       "sentiment": "positive",
@@ -370,16 +380,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-revised-dates-may-16-final-confirmed-bcci-2723129-2025-05-11",
       "headline": "IPL 2025 set to resume by May 16, final likely on June 1: BCCI sourcesThe Indian Premier League 2025 is set to resume by May 16, a top BCCI official has told India Today. The final is expected to be held on either May 30, or June 1."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/football/story/premier-league-manchester-city-ruben-dias-trolled-southampton-2723118-2025-05-11",
-      "headline": "Ruben Dias, Manchester City trolled by Southampton after post-match remarkRuben Dias and Manchester City were brutally trolled by Southampton after the defender criticised the Saints after 0-0 draw on Saturday, May 10. Dias slammed Southampton for their approach during the game on Saturday. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/deepika-kumari-archery-world-cup-stage-2-bronze-medal-win-2723108-2025-05-11",
-      "headline": "Deepika Kumari wins Bronze medal in Archery World Cup stage 2Deepika Kumari showcased grit and composure to clinch a bronze at the Archery World Cup Stage 2, avenging her semifinal loss with a strong finish. Her podium return added to India's growing medal tally, led by compound archers' dominance."
     }
   ],
   "education": [
@@ -442,21 +442,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/education/story/the-power-of-knowledge-educations-influence-on-real-estate-market-trends-2516316-2024-03-18",
       "headline": "The power of knowledge: Education's influence on real estate market trendsIn a dynamic sector like real estate, investing in continuing education is not simply an option; it is a requirement."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/jnu-students-body-election-on-march-22-after-4-years-2513140-2024-03-11",
-      "headline": "JNU students' body election on March 22 after 4 yearsThe Jawaharlal Nehru University Students' Union (JNUSU) polls will take place on March 22, more than four years after the last elections were held in September 2019."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/up-12th-board-exam-math-biology-question-papers-leaked-on-whatsapp-uttar-pradesh-2508890-2024-03-01",
-      "headline": "UP 12th board exam math, biology papers leaked on WhatsApp, complaint filedThe mathematics and biology question papers for the Uttar Pradesh class 12 board exam were allegedly leaked on a WhatsApp group."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/education/story/uttar-pradesh-police-constable-recruitment-exam-cancelled-after-paper-leak-re-examination-in-6-months-2506566-2024-02-24",
-      "headline": "UP Police Constable recruitment exam cancelled days after paper leakThe Uttar Pradesh Police Constable recruitment exam held on February 17 and 18 was canceled due to a paper leak. The Chief Minister has announced a re-examination within the next six months."
     }
   ]
 }
