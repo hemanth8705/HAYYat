@@ -1,6 +1,11 @@
 {
   "business": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/personal-finance/story/itr-1-sahaj-vs-itr-4-sugam-which-itr-form-should-you-use-tax-filing-2025-2727615-2025-05-20",
+      "headline": "ITR-1 Sahaj vs ITR-4 Sugam: Which ITR form should you use?ITR-1 is for straightforward income from salary or pension, while ITR-4 is suitable if you're into small business or freelance work and are using the presumptive taxation scheme. "
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/market/story/sensex-closes-873-points-lower-nifty-falls-below-25000-eternal-down-4-2727592-2025-05-20",
       "headline": "Sensex closes 873 points lower, Nifty falls below 25,000; Eternal down 4%The S&P BSE Sensex lost 872.98 points to end at 81,186.44, while the NSE Nifty50 was down by 261.55 points to close at\u00a024,683.90.\u00a0"
@@ -54,14 +59,14 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/market/story/pfizer-share-price-jump-12-percent-why-reason-q4-fy25-profit-rise-dividend-2727401-2025-05-20",
       "headline": "Pfizer share price rises 12% today. Here's whyPfizer stock: The stock jumped 11.91% during the day to touch a high of Rs 4,995.85 on the stock exchanges, after starting the day at Rs\u00a04,698.80."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/india-bangladesh-trade-route-curbs-economic-impact-explained-2727389-2025-05-20",
-      "headline": "Explained: How Bangladesh is hurting itself by curbing Indian exportsIndia's new import rules sharply limit Bangladesh's access through Northeast land ports, forcing key goods onto restricted sea routes. The move comes after Bangladesh imposed similar restrictions on Indian goods."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/mohanlal-portrait-made-of-jackfruits-ahead-of-birthday-2727628-2025-05-20",
+      "headline": "Mohanlal gets sweet tribute as Kerala artist creates his jackfruit portrait. WatchAhead of Mohanlal's birthday, a Kerala-based artist created a portrait of the actor using jackfruits. It took five hours and 20 jackfruits to create the art."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/even-akshay-is-clueless-suniel-shetty-reacts-to-paresh-rawals-exit-from-hera-pheri-3-2727570-2025-05-20",
@@ -151,28 +156,18 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/hollywood/story/mission-impossible-8-the-final-reckoning-box-office-collection-day-3-detailed-report-tom-cruise-film-sees-big-drop-on-monday-2727367-2025-05-20",
       "headline": "Mission Impossible 8 box office Day 3: Tom Cruise's film sees big drop on MondayWhile 'Mission: Impossible - The Final Reckoning' opened on a strong note at the Indian box office on Saturday, the film saw a huge drop on its first Monday. It is still looking at gathering solid numbers towards the second weekend. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/sharmila-tagore-simi-garewal-attend-cannes-screening-satyajit-rays-aranyer-din-ratri-2727360-2025-05-20",
-      "headline": "Sharmila Tagore, Simi Garewal attend Cannes screening of Ray's Aranyer Din RatriVeteran actors Sharmila Tagore and Simi Garewal attended the screening of Satyajit Ray's iconic film, 'Aranyer Din Ratri.' The pictures of the two walking the red carpet with the team have gone viral. "
     }
   ],
   "general news": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/ashoka-university-professor-ali-khan-mahmudabad-sent-to-14-day-judicial-custody-over-op-sindoor-post-2727617-2025-05-20",
+      "headline": "Ashoka University professor sent to jail for 14 days over Op Sindoor postAli Khan Mahmudabad was arrested on Sunday after his social media post was perceived as critical of the armed forces and disrespectful to women officers."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/trinamool-congress-names-abhishek-banerjee-for-operation-sindoor-delegation-after-yusuf-pathan-row-sources-2727496-2025-05-20",
       "headline": "Trinamool names Abhishek Banerjee for Op Sindoor delegation after Yusuf Pathan rowAfter Yusuf Pathan opted out of the Operation Sindoor delegation, the Trinamool Congress today named Abhishek Banerjee as its representative."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/pakistan-isi-spy-haryana-youtuber-jyoti-malhotra-identify-indian-agents-sources-2727474-2025-05-20",
-      "headline": "Pak's ISI was using 'spy' Haryana YouTuber to identify Indian agents: SourcesYouTuber Jyoti Malhotra is being interrogated by the National Investigation Agency, Intelligence Bureau and Haryana Police for her alleged involvement in cross-border influence operations."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/law-news/story/supreme-court-waqf-amendment-act-hearing-waqf-by-user-interim-order-2727384-2025-05-20",
-      "headline": "Supreme Court hears petitions challenging Waqf law, may pass interim orderWaqf law hearing: It was decided in the last hearing that only five leading petitions would be heard from among the raft of pleas filed against the law, which expands the government's role in regulating Waqf properties."
     },
     {
       "sentiment": "negative",
@@ -186,8 +181,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/youtuber-jyoti-malhotra-caught-spying-for-pakistan-whats-the-punishment-for-espionage-in-india-2727593-2025-05-20",
-      "headline": "11 caught 'spying' for Pak: What's the punishment for espionage in India?The recent arrests of eleven people, including popular travel blogger Jyoti Malhotra, have exposed a covert network leaking sensitive military and security information to foreign operatives. "
+      "url": "https://www.indiatoday.in/lifestyle/wellness/story/luke-coutinho-on-the-rise-of-heart-attacks-in-the-fit-and-young-2727572-2025-05-20",
+      "headline": "Luke Coutinho on the rise of heart attacks in the 'fit and young'In an exclusive interview, Luke Coutinho broke down how being 'fit' and working out isn't enough to keep your heart healthy; it's, at the end of the day, the overall lifestyle that counts."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/pakistan-isi-spy-haryana-youtuber-jyoti-malhotra-identify-indian-agents-sources-2727474-2025-05-20",
+      "headline": "Pak's ISI was using 'spy' Haryana YouTuber to identify Indian agents: SourcesYouTuber Jyoti Malhotra is being interrogated by the National Investigation Agency, Intelligence Bureau and Haryana Police for her alleged involvement in cross-border influence operations."
     },
     {
       "sentiment": "positive",
@@ -195,14 +195,14 @@
       "headline": "What's behind the sudden spike of Covid-19 cases in Asia?Covid-19 cases have surged in several Asian countries, including Hong Kong, Singapore, and Thailand. India, however, reports a mild increase."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/intelligence-bureau-chief-tapan-kumar-deka-gets-one-year-extension-till-june-2026-2727599-2025-05-20",
-      "headline": "Intelligence Bureau chief Tapan Kumar Deka gets one-year extension till June 2026Deka, a 1988 batch Himachal Pradesh cadre IPS officer, was initially appointed Director of Intelligence Bureau for a tenure of two years with effect from June 2022."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/youtuber-jyoti-malhotra-caught-spying-for-pakistan-whats-the-punishment-for-espionage-in-india-2727593-2025-05-20",
+      "headline": "11 caught 'spying' for Pak: What's the punishment for espionage in India?The recent arrests of eleven people, including popular travel blogger Jyoti Malhotra, have exposed a covert network leaking sensitive military and security information to foreign operatives. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/wellness/story/luke-coutinho-on-the-rise-of-heart-attacks-in-the-fit-and-young-2727572-2025-05-20",
-      "headline": "Luke Coutinho on the rise of heart attacks in the 'fit and young'In an exclusive interview, Luke Coutinho broke down how being 'fit' and working out isn't enough to keep your heart healthy; it's, at the end of the day, the overall lifestyle that counts."
+      "url": "https://www.indiatoday.in/movies/bollywood/story/even-akshay-is-clueless-suniel-shetty-reacts-to-paresh-rawals-exit-from-hera-pheri-3-2727570-2025-05-20",
+      "headline": "Even Akshay is clueless: Suniel Shetty reacts to Paresh Rawal's exit from Hera Pheri 3Actor Suniel Shetty spoke about the sudden announcement of Paresh Rawal's exit from 'Hera Pheri 3'. In an exclusive interview with us, the actor called it a 'big crisis.'"
     },
     {
       "sentiment": "positive",
@@ -211,18 +211,38 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/vj-aishwarya-hits-back-at-reporter-who-questioned-attire-film-event-slams-media-silence-2727515-2025-05-20",
-      "headline": "Tamil actor blasts reporter for 'sleeveless' comment, questions media silenceA woman anchor called out a reporter who questioned her attire at a film event and criticised the media's silence. She said such incidents affected her mentally and questioned the ethics of the film press."
+      "url": "https://www.indiatoday.in/business/market/story/stock-market-falls-after-positive-opening-reasons-behind-sensex-nifty-fall-explained-2727500-2025-05-20",
+      "headline": "Explained: Why Sensex tanked nearly 900 points todayAt today's closing, the Sensex had plunged 872.98 points to settle at 81,186.44, while the Nifty 50 fell 261.55 points to end at 24,683.90. All major sectoral indices closed in the red, with Auto, Media, Financial Services, and Healthcare stocks among the worst hit."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/video/indian-army-india-pakistan-drone-attack-air-defence-firepower-operation-sindoor-2727497-2025-05-20",
-      "headline": "'Kill enemy in the sky': Army flaunts firepower that crushed\u00a0Pak\u00a0threatsThe Indian Army's sophisticated arsenal successfully neutralised a barrage of Pakistani drones and projectiles that targeted civilian areas in retaliation to India's Operation Sindoor. In an exclusive interaction with India Today's Gaurav Sawant from the frontline, the Army showcased the range of ammunition deployed to counter the Pakistani threat between May 7 and 10.\r\n\r\n\"Our gunners delivered exceptional results. We live by the motto 'Akashe Shatrun Jahi' (Kill the enemy in the sky). We will not spare our enemies,\" a woman officer from the Air Defence Regiment told India Today.\u00a0"
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/intelligence-bureau-chief-tapan-kumar-deka-gets-one-year-extension-till-june-2026-2727599-2025-05-20",
+      "headline": "Intelligence Bureau chief Tapan Kumar Deka gets one-year extension till June 2026Deka, a 1988 batch Himachal Pradesh cadre IPS officer, was initially appointed Director of Intelligence Bureau for a tenure of two years with effect from June 2022."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/education-today/featurephilia/story/naani-ke-ghar-rasna-and-dark-room-the-indian-summer-vacation-in-the-90s-gave-us-2727541-2025-05-20",
       "headline": "The lost summers of 'Naani Ka Ghar': What 90s kids had that Gen Z doesn'tBack when summer meant a train to Naani's house, not a flight to a resort. When cousins were your first best friends, not just names on a family WhatsApp group. Let's rewind to the Great Indian summer vacation of the 90s-the kind that today's kids may never truly know.\r\n"
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/chinar-corps-of-indian-army-decimates-military-infrastructure-in-poks-leepa-valley-during-operation-sindoor-2727487-2025-05-20",
+      "headline": "Op Sindoor: How Army decimated Pak military infrastructure in PoK's Leepa ValleyThe military infrastructure in PoK was hit following Indian Army's response to ceasefire violations in the second week of May during Operation Sindoor. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/vj-aishwarya-hits-back-at-reporter-who-questioned-attire-film-event-slams-media-silence-2727515-2025-05-20",
+      "headline": "Tamil actor blasts reporter for 'sleeveless' comment, questions media silenceA woman anchor called out a reporter who questioned her attire at a film event and criticised the media's silence. She said such incidents affected her mentally and questioned the ethics of the film press."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/uttar-pradesh-looting-conwoman-bride-arrest-cheating-25-grooms-fake-marriages-2727549-2025-05-20",
+      "headline": "Lure, marry, flee with cash: UP's 'looteri dulhan' arrested for duping 25 menThe 'looteri dulhan', named Anuradha, was arrested in Bhopal in Madhya Pradesh. Anuradha was eventually trapped after the police tricked her into a fake marriage."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/health/story/alarm-snooze-disrupts-sleep-and-reduces-sleep-quality-harvard-study-reveals-2727590-2025-05-20",
+      "headline": "Why hitting the snooze button is not great for your sleepA global study reveals that hitting the snooze button disrupts important REM sleep stages. Experts warn this habit may lead to grogginess and poorer sleep quality."
     },
     {
       "sentiment": "positive",
@@ -231,23 +251,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/market/story/stock-market-falls-after-positive-opening-reasons-behind-sensex-nifty-fall-explained-2727500-2025-05-20",
-      "headline": "Explained: Why Sensex tanked nearly 900 points todayAt today's closing, the Sensex had plunged 872.98 points to settle at 81,186.44, while the Nifty 50 fell 261.55 points to end at 24,683.90. All major sectoral indices closed in the red, with Auto, Media, Financial Services, and Healthcare stocks among the worst hit."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/no-jobs-in-us-uk-canada-for-foreign-students-harvard-grad-warns-iitians-2727518-2025-05-20",
-      "headline": "No jobs in US, UK, Canada for foreign students: Harvard grad warns IITiansIndian entrepreneur Rajesh Sawhney has warned students, even IITians, about falling job opportunities in the US, UK, and Canada amid stricter immigration laws and a changing job market."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/indian-astrophysicist-jayant-narlikar-dies-pm-modi-calls-it-monumental-loss-2727528-2025-05-20",
-      "headline": "Jayant Narlikar, astrophysicist who challenged Big Bang Theory, diesDr. Narlikar's most celebrated contribution is the Hoyle-Narlikar theory, developed in collaboration with British astrophysicist Sir Fred Hoyle in the 1960s. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/harvey-weinstein-trial-actor-jessica-mann-testimony-erectile-injection-rape-2727506-2025-05-20",
-      "headline": "Ex-actor reveals Harvey Weinstein's 'monster side': Took erectile shot, raped meIn her testimony, Jessica Mann narrated how her consensual relationship with disgraced Hollywood mogul Harvey Weinstein spiralled into instances of rape."
+      "url": "https://www.indiatoday.in/business/personal-finance/story/itr-1-sahaj-vs-itr-4-sugam-which-itr-form-should-you-use-tax-filing-2025-2727615-2025-05-20",
+      "headline": "ITR-1 Sahaj vs ITR-4 Sugam: Which ITR form should you use?ITR-1 is for straightforward income from salary or pension, while ITR-4 is suitable if you're into small business or freelance work and are using the presumptive taxation scheme. "
     },
     {
       "sentiment": "positive",
@@ -256,31 +261,36 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/video/indian-army-india-pakistan-drone-attack-air-defence-firepower-operation-sindoor-2727497-2025-05-20",
+      "headline": "'Kill enemy in the sky': Army flaunts firepower that crushed\u00a0Pak\u00a0threatsThe Indian Army's sophisticated arsenal successfully neutralised a barrage of Pakistani drones and projectiles that targeted civilian areas in retaliation to India's Operation Sindoor. In an exclusive interaction with India Today's Gaurav Sawant from the frontline, the Army showcased the range of ammunition deployed to counter the Pakistani threat between May 7 and 10.\r\n\r\n\"Our gunners delivered exceptional results. We live by the motto 'Akashe Shatrun Jahi' (Kill the enemy in the sky). We will not spare our enemies,\" a woman officer from the Air Defence Regiment told India Today.\u00a0"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/law-news/story/supreme-court-waqf-amendment-act-hearing-waqf-by-user-interim-order-2727384-2025-05-20",
+      "headline": "Supreme Court hears petitions challenging Waqf law, may pass interim orderWaqf law hearing: It was decided in the last hearing that only five leading petitions would be heard from among the raft of pleas filed against the law, which expands the government's role in regulating Waqf properties."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/india-pakistan-missile-drone-attack-golden-temple-army-guns-head-granthi-operation-sindoor-2727358-2025-05-20",
       "headline": "Golden Temple gave rare go-ahead to deploy guns to counter Pak drones: OfficerIn an unprecedented move, the chief religious official of the Golden Temple permitted the Indian Army to deploy air defence systems within the shrine's premises to counter Pakistani drone and missile attacks amid India's Operation Sindoor. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/paresh-rawal-demanded-rs-25-crore-for-hera-pheri-3-akshay-kumar-legal-action-2727456-2025-05-20",
-      "headline": "Paresh Rawal quit Hera Pheri 3 over fee demand, tiff with Akshay Kumar: SourcesParesh Rawal demanded Rs 25 crore for his role as Babu Rao Apte in 'Hera Pheri 3', following which he made an exit from the franchise. This irked Akshay Kumar, who has now decided to take legal action against him. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/hundreds-of-kailash-yatra-pilgrims-stranded-after-landslide-in-uttarakhands-pithoragarh-2727502-2025-05-20",
-      "headline": "Landslide on Adi Kailash Yatra route, hundreds of pilgrims strandedThe landslide has blocked the route completely due to which both locals and pilgrims are stranded. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/india-pakistan-in-range-attack-ceasefire-pak-army-rawalpindi-lt-gen-sumer-ivan-dcunha-deep-hole-to-hide-2727342-2025-05-20",
-      "headline": "Top Army officer says India can strike all of Pak: They'll need deep hole to hideThe entire territory of Pakistan is within India's strike range, and if the Pakistani Army relocates its headquarters, it would need to find a very deep hole to hide, a top Indian Army officer underscored India's military prowess."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/india-bangladesh-new-delhi-bypass-bangladesh-trade-commerce-kaladan-multi-modal-project-myanmar-siliguri-corridor-2727179-2025-05-20",
-      "headline": "How India will bypass Bangladesh roads and roadblocksAfter Bangladeshi interim leader Muhammad Yunus referred to India's \"landlocked\" Northeast during a China visit, New Delhi responded by restricting Bangladeshi exports and fast-tracking alternative connectivity plans for the Northeast, bypassing Bangladesh. The key to that is the Kaladan Multi-Modal Transit Project, which will link Kolkata with Mizoram via Myanmar."
+      "url": "https://www.indiatoday.in/business/personal-finance/story/forget-crypto-gold-and-stocks-why-indias-ultra-rich-are-buying-land-2727378-2025-05-20",
+      "headline": "Forget crypto, gold and stocks: Why India's ultra-rich are buying landA luxury real estate advisor has said that India's top 0.001%, from unicorn founders to legacy dynasties, are quietly building Rs 75\u2013500 crore portfolios, but not in stocks or crypto. Their focus is on land and branded real estate."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-rishabh-pant-needs-a-break-kris-srikkanth-vs-srh-playoffs-race-2727621-2025-05-20",
+      "headline": "Rishabh Pant needs a break: Kris Srikkanth urges LSG to rest their skipperFormer India cricketer Kris Srikkanth believes Lucknow Super Giants should rest Rishabh Pant for the remainder of IPL 2025, citing the batter's prolonged slump in form and the team's exit from playoff contention."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/england-vs-india-brendon-mccullum-ashes-ben-stokes-wtc-2727606-2025-05-20",
+      "headline": "England coach Brendon McCullum aims for glory in decisive 2025: Time to shoot for starsEngland coach Brendon McCullum wants his side to chase glory with the India series and Ashes on the horizon. England will face India in a five-match Test series, starting from June 20. "
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-r-ashwin-tom-moody-csk-2727588-2025-05-20",
@@ -328,13 +338,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/us-open-arthur-ashe-stadium-modernise-transformation-2727471-2025-05-20",
-      "headline": "US Open's Ashe Stadium to undergo 800 million dollars transformationThe United States Tennis Association has self-funded the massive 800 million dollars project to transform and modernise the famed Arthur Ashe Stadium. \r\n"
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-ms-dhoni-landmark-csk-vs-rr-record-2727529-2025-05-20",
+      "headline": "MS Dhoni nears big six-hitting landmark as CSK look to salvage prideIPL 2025: MS Dhoni is on the cusp of becoming only the fourth Indian in Men's T20s to hit 350 or more sixes. The 42-year-old Dhoni has scored 180 runs from 12 matches in the competition. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-csk-vs-rr-preview-predicted-xi-delhi-pitch-conditions-2727458-2025-05-20",
-      "headline": "Battered Chennai, Rajasthan look to avoid wooden spoon finishIPL 2025, CSK vs RR: MS Dhoni's Chennai Super Kings and Sanju Samson's Rajasthan Royals will be looking for a win in a game that has no bearing as far as qualification for the playoffs is concerned. "
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-tour-of-england-new-test-captain-shubman-gill-rishabh-pant-selection-committee-2727513-2025-05-20",
+      "headline": "Indian selectors undecided about Test captaincy after Gill, Pant talks: ReportAccording to a latest report from Sky Sports, the Indian selection committee is still undecided about whom to name as the new Test captain after holding informal talks with both Shubman Gill and Rishabh Pant. "
     },
     {
       "sentiment": "positive",
@@ -350,16 +360,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-lsg-vs-srh-rishabh-pant-batting-spot-captaincy-mohammed-kaif-2727483-2025-05-20",
       "headline": "Rishabh Pant didn't know his own role as LSG captain in IPL 2025: Mohammed KaifMohammed Kaif feels that Rishabh Pant didn't know his own role as the skipper of LSG after his struggles with the bat continued on Monday, April 19. Pant was dismissed for just 7 runs during the match at the Ekana stadium. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/us-open-arthur-ashe-stadium-modernise-transformation-2727471-2025-05-20",
-      "headline": "US Open's Ashe Stadium to undergo 800 million dollars transformationThe United States Tennis Association has self-funded the massive 800 million dollars project to transform and modernise the famed Arthur Ashe Stadium. \r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-csk-vs-rr-preview-predicted-xi-delhi-pitch-conditions-2727458-2025-05-20",
-      "headline": "Battered Chennai, Rajasthan look to avoid wooden spoon finishIPL 2025, CSK vs RR: MS Dhoni's Chennai Super Kings and Sanju Samson's Rajasthan Royals will be looking for a win in a game that has no bearing as far as qualification for the playoffs is concerned. "
     }
   ],
   "education": [
@@ -422,21 +422,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/education/story/the-power-of-knowledge-educations-influence-on-real-estate-market-trends-2516316-2024-03-18",
       "headline": "The power of knowledge: Education's influence on real estate market trendsIn a dynamic sector like real estate, investing in continuing education is not simply an option; it is a requirement."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/jnu-students-body-election-on-march-22-after-4-years-2513140-2024-03-11",
-      "headline": "JNU students' body election on March 22 after 4 yearsThe Jawaharlal Nehru University Students' Union (JNUSU) polls will take place on March 22, more than four years after the last elections were held in September 2019."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/up-12th-board-exam-math-biology-question-papers-leaked-on-whatsapp-uttar-pradesh-2508890-2024-03-01",
-      "headline": "UP 12th board exam math, biology papers leaked on WhatsApp, complaint filedThe mathematics and biology question papers for the Uttar Pradesh class 12 board exam were allegedly leaked on a WhatsApp group."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/education/story/uttar-pradesh-police-constable-recruitment-exam-cancelled-after-paper-leak-re-examination-in-6-months-2506566-2024-02-24",
-      "headline": "UP Police Constable recruitment exam cancelled days after paper leakThe Uttar Pradesh Police Constable recruitment exam held on February 17 and 18 was canceled due to a paper leak. The Chief Minister has announced a re-examination within the next six months."
     }
   ]
 }
