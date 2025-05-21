@@ -160,29 +160,14 @@
   ],
   "general news": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/delhi-weather-heavy-rain-flights-delayed-cancelled-airport-dust-storm-hail-2728390-2025-05-21",
+      "headline": "8 flights delayed, one cancelled at Delhi airport amid bad weatherParts of Delhi-NCR witnessed massive storms, heavy rain and hailstorms and the city saw a 14 degrees Celsius drop in temperature."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/indigo-flight-srinagar-hailstorm-rain-damaged-nose-delhi-weather-emergency-landing-2728347-2025-05-21",
       "headline": "Panic, cries as IndiGo flight hits turbulence, lands in Srinagar with broken noseAn IndiGo flight 6E2142 encountered severe hailstorm turbulence while approaching Srinagar, damaging the aircraft's nose cone while attempting to land. All passengers and crew members were evacuated safely upon landing. "
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/massive-dust-storm-rain-in-parts-of-delhi-ncr-wind-speed-at-79-kmph-2728341-2025-05-21",
-      "headline": "Big storm, heavy rain and hailstorm in Delhi-NCR, metro lines affectedVisuals from Delhi-NCR showed trees swaying violently as winds whip through the streets. Visibilty reduced sharply due to dust storm."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/law-news/story/turkey-linked-aviation-firm-celebi-lost-clearance-tells-delhi-high-court-indian-employees-2728244-2025-05-21",
-      "headline": "We are Indian, employees are Indians, Turkey-linked Celebi Aviation tells courtThe security clearance of Celebi Aviation was revoked on May 15, days after Turkey backed Pakistan and condemned India's strikes on terror camps in the neighbouring country."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/india-declares-pak-high-commission-staffer-persona-non-grata-asks-official-to-leave-in-24-hours-2728320-2025-05-21",
-      "headline": "Another Pak High Commission staffer expelled by India, second in 8 daysThe Pakistani High Commission official was declared persona non grata and asked to leave India within 24 hours."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/video/watch-massive-turbulence-on-delhi-srinagar-flight-due-to-bad-weather-2728346-2025-05-21",
-      "headline": "Watch: Massive turbulence on Delhi-Srinagar flight due to bad weatherA Srinagar-bound IndiGo flight from Delhi with 227 passengers on board hit turbulence midair on Wednesday due to inclement weather, prompting the pilot to report the \"emergency\" to air traffic control at Srinagar."
     },
     {
       "sentiment": "positive",
@@ -191,13 +176,28 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/whos-next-bjp-chief-nadda-kharge-congress-rahul-gandhi-party-president-2728219-2025-05-21",
-      "headline": "Who's the next BJP chief? Naddaji, Khargeji, Kya farak padta jiThe answer to the question \u2014 who's the next BJP chief \u2014 is a question \u2014 does it really matter? The party president's post in both the BJP and the Congress comes with great responsibilities, and little power. In the BJP, the party chief is in the driving seat of a Tesla Autopilot, steered remotely. But at least, its present and future are safe."
+      "url": "https://www.indiatoday.in/india/story/india-declares-pak-high-commission-staffer-persona-non-grata-asks-official-to-leave-in-24-hours-2728320-2025-05-21",
+      "headline": "Another Pak High Commission staffer expelled by India, second in 8 daysThe Pakistani High Commission official was declared persona non grata and asked to leave India within 24 hours."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/why-there-is-no-hera-pheri-without-paresh-rawals-baburao-ganpatrao-apte-2728247-2025-05-21",
-      "headline": "Why there's no Hera Pheri without Paresh Rawal's Baburao Ganpatrao ApteParesh Rawal's portrayal of Baburao Ganpatrao Apte aka Babu Bhaiya in the 'Hera Pheri' franchise is considered one of his best performances. What makes it one of the most iconic cinematic portrayals in Hindi cinema? Why can nobody replace Rawal as Baburao? A glimpse at how the actor is an inevitable force of the 'Hera Pheri' franchise. "
+      "url": "https://www.indiatoday.in/lifestyle/fashion/story/aishwarya-rai-bachchan-cannes-2025-ivory-saree-sindoor-manish-malhotra-2728394-2025-05-21",
+      "headline": "Ivory saree and sindoor: Aishwarya Rai Bachchan's regal Cannes comebackAishwarya Rai Bachchan returned to Cannes red carpet, clad in an elegant ivory saree by designer Manish Malhotra."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/law-news/story/turkey-linked-aviation-firm-celebi-lost-clearance-tells-delhi-high-court-indian-employees-2728244-2025-05-21",
+      "headline": "We are Indian, employees are Indians, Turkey-linked Celebi Aviation tells courtThe security clearance of Celebi Aviation was revoked on May 15, days after Turkey backed Pakistan and condemned India's strikes on terror camps in the neighbouring country."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/massive-dust-storm-rain-in-parts-of-delhi-ncr-wind-speed-at-79-kmph-2728341-2025-05-21",
+      "headline": "Big storm, heavy rain and hailstorm in Delhi-NCR, metro lines affectedVisuals from Delhi-NCR showed trees swaying violently as winds whip through the streets. Visibilty reduced sharply due to dust storm."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/video/watch-massive-turbulence-on-delhi-srinagar-flight-due-to-bad-weather-2728346-2025-05-21",
+      "headline": "Watch: Massive turbulence on Delhi-Srinagar flight due to bad weatherA Srinagar-bound IndiGo flight from Delhi with 227 passengers on board hit turbulence midair on Wednesday due to inclement weather, prompting the pilot to report the \"emergency\" to air traffic control at Srinagar."
     },
     {
       "sentiment": "positive",
@@ -206,18 +206,23 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/whos-next-bjp-chief-nadda-kharge-congress-rahul-gandhi-party-president-2728219-2025-05-21",
+      "headline": "Who's the next BJP chief? Naddaji, Khargeji, Kya farak padta jiThe answer to the question \u2014 who's the next BJP chief \u2014 is a question \u2014 does it really matter? The party president's post in both the BJP and the Congress comes with great responsibilities, and little power. In the BJP, the party chief is in the driving seat of a Tesla Autopilot, steered remotely. But at least, its present and future are safe."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/governments-notice-to-uber-over-advance-tip-feature-sources-say-similar-move-likely-against-rapido-2728285-2025-05-21",
       "headline": "After Uber, government likely to probe Rapido over advance tips for rideThe government crackdown on ride-hailing apps urging advance tipping may soon widen. After Uber, Rapido could be next in line for a probe over the controversial feature."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/law-news/story/court-pauses-provision-granting-tamil-nadu-government-authority-to-appoint-vice-chancellors-to-universities-2728314-2025-05-21",
-      "headline": "Court pauses provision granting Tamil Nadu authority to appoint vice-chancellorsThe Madras High Court has stayed Tamil Nadu's amended Acts that gave the Chief Minister power to appoint vice-chancellors, reigniting the legal tussle between the Governor and the state government."
+      "url": "https://www.indiatoday.in/movies/bollywood/story/why-there-is-no-hera-pheri-without-paresh-rawals-baburao-ganpatrao-apte-2728247-2025-05-21",
+      "headline": "Why there's no Hera Pheri without Paresh Rawal's Baburao Ganpatrao ApteParesh Rawal's portrayal of Baburao Ganpatrao Apte aka Babu Bhaiya in the 'Hera Pheri' franchise is considered one of his best performances. What makes it one of the most iconic cinematic portrayals in Hindi cinema? Why can nobody replace Rawal as Baburao? A glimpse at how the actor is an inevitable force of the 'Hera Pheri' franchise. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/fashion/story/janhvi-kapoor-cannes-2025-back-necklace-anamika-khanna-2728282-2025-05-21",
-      "headline": "Necklace? Nah. Backlace is the hottest accessory of the seasonFrom Cannes to the Oscars and Grammys, all the coveted red carpets this year have testified to the rising craze for back necklaces."
+      "url": "https://www.indiatoday.in/india/law-news/story/court-pauses-provision-granting-tamil-nadu-government-authority-to-appoint-vice-chancellors-to-universities-2728314-2025-05-21",
+      "headline": "Court pauses provision granting Tamil Nadu authority to appoint vice-chancellorsThe Madras High Court has stayed Tamil Nadu's amended Acts that gave the Chief Minister power to appoint vice-chancellors, reigniting the legal tussle between the Governor and the state government."
     },
     {
       "sentiment": "positive",
@@ -231,13 +236,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/karnataka-sc-caste-census-congress-cm-siddaramaiah-president-mallikarjun-kharge-slams-survey-rahul-gandhi-2728212-2025-05-21",
-      "headline": "It's Congress vs Congress as Kharge slams Karnataka SC surveyCongress President Mallikarjun Kharge slammed the inclusion of an OBC group in the survey of Scheduled Castes, being conducted by CM Siddaramaiah in Karnataka. Ironically, Kharge's public rebuke came at an event to mark the second anniversary of the Congress government in the state, and in the presence of Rahul Gandhi."
+      "url": "https://www.indiatoday.in/trending-news/story/singapore-woman-meets-indian-origin-ceo-piyush-gupta-bali-plot-twist-it-was-not-him-dbs-bank-linkedin-post-2728243-2025-05-21",
+      "headline": "Woman meets Indian-origin CEO 'Piyush Gupta' in Bali. Plot twist: It wasn't himJanney Hujic, a Singapore-based professional, shared a detailed account of what she believed was a meaningful conversation with the Indian-origin CEO.   "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/singapore-woman-meets-indian-origin-ceo-piyush-gupta-bali-plot-twist-it-was-not-him-dbs-bank-linkedin-post-2728243-2025-05-21",
-      "headline": "Woman meets Indian-origin CEO 'Piyush Gupta' in Bali. Plot twist: It wasn't himJanney Hujic, a Singapore-based professional, shared a detailed account of what she believed was a meaningful conversation with the Indian-origin CEO.   "
+      "url": "https://www.indiatoday.in/india/story/karnataka-sc-caste-census-congress-cm-siddaramaiah-president-mallikarjun-kharge-slams-survey-rahul-gandhi-2728212-2025-05-21",
+      "headline": "It's Congress vs Congress as Kharge slams Karnataka SC surveyCongress President Mallikarjun Kharge slammed the inclusion of an OBC group in the survey of Scheduled Castes, being conducted by CM Siddaramaiah in Karnataka. Ironically, Kharge's public rebuke came at an event to mark the second anniversary of the Congress government in the state, and in the presence of Rahul Gandhi."
     },
     {
       "sentiment": "positive",
@@ -251,18 +256,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/law-news/story/supreme-court-waqf-law-hearing-waqf-by-user-principle-government-land-2728061-2025-05-21",
-      "headline": "Waqf is like charity, not an essential part of Islam: Centre to Supreme CourtThe Centre told the Supreme Court that the latest Waqf law amendments 'resolved problems' that the British and successive Indian governments could not settle."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/education-today/featurephilia/story/rise-in-uk-school-misogyny-as-boys-mimic-andrew-tate-bark-at-teachers-2728246-2025-05-21",
-      "headline": "Boys bark at teachers, treat girls as 'not human' as UK school misogyny risesMultiple surveys have revealed a disturbing rise in school misogyny and racism in the UK. Teachers speak of shocking classroom behaviour -- boys barking, blocking doors, and parroting misogynistic lines. Andrew Tate, social media and porn have been cited as key influences reshaping how boys see women."
+      "url": "https://www.indiatoday.in/lifestyle/fashion/story/janhvi-kapoor-cannes-2025-back-necklace-anamika-khanna-2728282-2025-05-21",
+      "headline": "Necklace? Nah. Backlace is the hottest accessory of the seasonFrom Cannes to the Oscars and Grammys, all the coveted red carpets this year have testified to the rising craze for back necklaces."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/golden-dome-over-america-how-this-trump-proposed-missile-shield-will-work-2728123-2025-05-21",
-      "headline": "Golden Dome over America: How Trump's new missile shield will workProposed by defense giant Lockheed Martin, the system aims to integrate ground and space-based technologies to detect, track, and intercept projectiles at every stage of flight, from launch to impact."
+      "url": "https://www.indiatoday.in/india/law-news/story/supreme-court-waqf-law-hearing-waqf-by-user-principle-government-land-2728061-2025-05-21",
+      "headline": "Waqf is like charity, not an essential part of Islam: Centre to Supreme CourtThe Centre told the Supreme Court that the latest Waqf law amendments 'resolved problems' that the British and successive Indian governments could not settle."
     },
     {
       "sentiment": "positive",
@@ -276,6 +276,21 @@
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/andrew-balbirnie-ireland-beat-west-indies-by-124-runs-in-1st-odi-2728399-2025-05-21",
+      "headline": "Balbirnie, bowlers set up historic 124-win for Ireland vs West Indies in 1st ODIIreland registered a historic 124-win over West Indies in the first ODI of the three-match series in Dublin. Andrew Balbirnie and Barry McCarthy were the top performers for the hosts. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/video/ipl-2025-gt-vs-lsg-gujarat-titans-assistant-coach-matthew-wade-press-conference-2728393-2025-05-21",
+      "headline": "Gujarat Titans opts for innovative training to keep middle order match-readyGujarat Titans assistant coach Matthew Wade revealed that the management has introduced a 'no nets up' training method to help the middle-order batters get accustomed to match situations."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/james-hopes-backs-arshdeep-singh-and-shreyas-iyer-to-be-picked-for-england-tests-2728377-2025-05-21",
+      "headline": "PBKS bowling coach backs Arshdeep and Shreyas to be picked for England TestsPunjab Kings' bowling coach James Hopes has backed Arshdeep Singh and Shreyas Iyer to be picked in the Indian Test squad for the upcoming series against England. "
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-gt-vs-lsg-matthew-wade-on-jos-buttler-absence-playoff-2728361-2025-05-21",
@@ -318,18 +333,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ben-stokes-on-virat-kohli-test-retirement-text-message-england-tour-2728239-2025-05-21",
-      "headline": "Ben Stokes reveals text message to Virat Kohli after India star's Test retirementEngland Test captain Ben Stokes said he enjoyed his battles with Virat Kohli and revealed he sent the Indian superstar a text message after he retired from the longest format of the game. "
+      "url": "https://www.indiatoday.in/sports/cricket/story/chris-woakes-rocky-flintoff-england-lions-squad-india-a-series-2025-2728321-2025-05-21",
+      "headline": "Chris Woakes and Rocky Flintoff in England Lions squad for India A seriesThe England Lions named its 14-member squad which will face India A in two four-day matches, starting on May 30 in Canterbury. Chris Woakes and Rocky Flintoff have been named in the England Lions squad. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/jofra-archer-suffers-injury-blow-weeks-ahead-of-india-test-series-2728235-2025-05-21",
-      "headline": "Jofra Archer suffers injury blow weeks ahead of India Test seriesEngland fast bowler Jofra Archer has suffered an injury blow ahead of the all-important Test series against India as he's been ruled out of the ODI series against West Indies."
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-mi-vs-dc-rohit-sharma-mumbai-cha-raja-jerseys-2728301-2025-05-21",
+      "headline": "Rohit Sharma tribute at Wankhede: 'Mumbai cha Raja' jerseys, masks distributedIPL 2025, MI vs DC: Special blue jerseys and masks bearing Rohit Sharma's face were distributed to fans at Wankhede Stadium as a tribute to the star cricketer's Test career. Rohit retired from Tests on 7 May."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-tour-of-england-virat-kohli-rohit-sharma-retirement-ben-stokes-2728203-2025-05-21",
-      "headline": "Can't take India lightly despite Virat Kohli, Rohit Sharma retirements: Ben StokesBen Stokes has said that India cannot be taken lightly despite the retirements of Virat Kohli and Rohit Sharma from Test cricket. The Indian team will have a young batting order for England this time in the absence of Kohli and Rohit. "
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/cricket/video/ipl-2025-rishabh-pant-is-trying-his-best-says-lsgs-himmat-singh-2728308-2025-05-21",
+      "headline": "Rishabh Pant is trying his best, the numbers don't show it: LSG's Himmat SinghLucknow Super Giants (LSG) Himmat Singh has said that their captain, Rishabh Pant is practicing very hard to come out of poor form, but the numbers don't show it. LSG will take on Gujarat Titans (GT) on May 22 at Narendra Modi Stadium in Ahmedabad. "
     },
     {
       "sentiment": "positive",
@@ -340,21 +355,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-tour-of-england-brendon-mccullum-player-comments-zimbabwe-test-2728251-2025-05-21",
       "headline": "England players need to be a bit smarter with comments: Coach Brendon McCullumEngland coach Brendon McCullum has said that his players need to be a bit smarter with their comments to the media after getting backlash. The England players' comments after losses have been heavily scrutinised by fans and pundits.  "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ben-stokes-on-virat-kohli-test-retirement-text-message-england-tour-2728239-2025-05-21",
-      "headline": "Ben Stokes reveals text message to Virat Kohli after India star's Test retirementEngland Test captain Ben Stokes said he enjoyed his battles with Virat Kohli and revealed he sent the Indian superstar a text message after he retired from the longest format of the game. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/jofra-archer-suffers-injury-blow-weeks-ahead-of-india-test-series-2728235-2025-05-21",
-      "headline": "Jofra Archer suffers injury blow weeks ahead of India Test seriesEngland fast bowler Jofra Archer has suffered an injury blow ahead of the all-important Test series against India as he's been ruled out of the ODI series against West Indies."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-tour-of-england-virat-kohli-rohit-sharma-retirement-ben-stokes-2728203-2025-05-21",
-      "headline": "Can't take India lightly despite Virat Kohli, Rohit Sharma retirements: Ben StokesBen Stokes has said that India cannot be taken lightly despite the retirements of Virat Kohli and Rohit Sharma from Test cricket. The Indian team will have a young batting order for England this time in the absence of Kohli and Rohit. "
     }
   ],
   "education": [
