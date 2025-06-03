@@ -1,6 +1,11 @@
 {
   "business": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/personal-finance/story/credit-score-made-easy-check-it-fix-it-boost-it-2735057-2025-06-03",
+      "headline": "Credit score made easy: Check it, fix it, boost itYour credit score is mostly shaped by how timely you are with payments, missing even one EMI or credit card due can bring it down.  A score of 750 or above is considered good by most banks and lending companies."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/market/story/market-closing-bell-sensex-closes-636-points-lower-nifty-below-24600-adani-ports-down-2-percent-2735021-2025-06-03",
       "headline": "Sensex closes 636 points lower, Nifty below 24,600; Adani Ports down 2%The S&P BSE Sensex was down by 636.24 points to close at\u00a080,737.51, while the NSE Nifty50 fell by 174.10 points to end at\u00a024,542.\u00a0"
@@ -54,11 +59,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/market/story/adani-ports-adani-enterprises-why-adani-group-shares-are-in-focus-today-wall-street-journal-report-links-iran-lpg-shipments-2734835-2025-06-03",
       "headline": "Adani Ports, Adani Enterprises: Why are Adani Group shares in focus today?As of 9:41 am, both Adani Ports and Adani Enterprises were the top losers on the NSE Nifty50, down 1.5% each. Other companies in the Adani portfolio also saw marginal declines in early trade."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/market/story/nse-shares-surge-in-unlisted-market-amid-ipo-buzz-heres-what-analysts-say-2734826-2025-06-03",
-      "headline": "NSE shares surge in unlisted market amid IPO buzz. Here's what analysts sayWith over one lakh retail shareholders, a record for any unlisted Indian company, NSE has become a hotspot in the grey market.\u00a0But analysts tracking the unlisted space suggest the rally may not be over just yet."
     }
   ],
   "entertainment": [
@@ -167,12 +167,17 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/pakistan-48-hour-strike-plan-collapsed-in-8-hours-sought-ceasefire-chief-of-defence-staff-general-anil-chauha-2735010-2025-06-03",
-      "headline": "Pak's 48-hour strike plan collapsed in 8 hours, sought ceasefire: Top generalGeneral Chauhan detailed the events of May 10, stating that Pakistan had launched multiple coordinated attacks with the intent of bringing India to its knees within two days."
+      "headline": "Why Pak had to end 48-hour strike plan in just 8 hours, top General revealsGeneral Chauhan detailed the events of May 10, stating that Pakistan had launched multiple coordinated attacks with the intent of bringing India to its knees within two days."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/indian-origin-man-gaurav-kundi-australia-arrest-coma-police-assault-george-floyd-2734845-2025-06-03",
-      "headline": "Indian-origin man in coma after Australian cop 'kneels on his neck' during arrestAn Indian-origin man in Australia is in coma with critical brain injuries after police allegedly knelt on his neck during his arrest, echoing the George Floyd case in the US.\r\n"
+      "url": "https://www.indiatoday.in/india/story/sharmistha-panoli-case-arrest-who-is-complainant-wajahat-khan-kolkata-police-fir-assam-delhi-police-2734995-2025-06-03",
+      "headline": "Wajahat Khan, who filed Sharmistha Panoli FIR, has cops chasing him nowKolkata's Wajahat Khan, whose complaint led to the arrest of influencer Sharmistha Panoli, has gone missing amid a flurry of FIRs against him for offensive posts allegedly by him against Hindu deities and customs. With FIRs against him in three states and the Assam Police ready to travel to Bengal to arrest him, Khan might find himself in the eye of a storm he unwittingly stirred."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-final-rcb-vs-pbks-weather-updates-rain-ahmedabad-2734842-2025-06-03",
+      "headline": "Ahmedabad Weather Live: Rain arrives hours before tossRCB vs PBKS weather Prediction report, IPL Final: The summit clash at the Narendra Modi Stadium in Ahmedabad is expected to be a cracker, but rain in Ahmedabad has raised concerns, as it could lead to delays and interruptions. "
     },
     {
       "sentiment": "positive",
@@ -181,8 +186,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-final-punjab-kings-pbks-vs-rcb-feature-2734957-2025-06-03",
-      "headline": "Can Punjab's uncapped superboys land the final blow?IPL 2025 Final, PBKS vs RCB: Prabhsimran Singh, Priyansh Arya, Nehal Wadhera, and Shashank Singh have chipped in with consistent performances, helping Punjab Kings qualify for the final for the first time in 11 years. "
+      "url": "https://www.indiatoday.in/india/story/bhagwant-mannone-nation-one-husband-jab-over-bjps-sindoor-politics-2734991-2025-06-03",
+      "headline": "Bhagwant Mann's 'one nation, one husband' jab over BJP's sindoor politicsPunjab Chief Minister Bhagwant Mann took swipes at the BJP and PM Modi for what he described as attempts to solicit votes in the name of 'sindoor'."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/indian-origin-man-gaurav-kundi-australia-arrest-coma-police-assault-george-floyd-2734845-2025-06-03",
+      "headline": "Indian-origin man in coma after Australian cop 'kneels on his neck' during arrestAn Indian-origin man in Australia is in coma with critical brain injuries after police allegedly knelt on his neck during his arrest, echoing the George Floyd case in the US.\r\n"
     },
     {
       "sentiment": "positive",
@@ -191,8 +201,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/law-news/story/freedom-of-speech-doesnt-mean-you-can-hurt-religious-sentiments-high-court-to-influencer-sharmishta-panoli-2734961-2025-06-03",
-      "headline": "Free speech doesn't mean hurting religious sentiments: Court to Sharmishta PanoliThe Calcutta High Court told Sharmista Panoli that freedom of speech is not absolute and her allegedly offensive video had hurt religious sentiments. "
+      "url": "https://www.indiatoday.in/sports/cricket/story/rcb-vs-pbks-ipl-final-weather-updates-match-rules-rain-washout-2734841-2025-06-03",
+      "headline": "RCB vs PBKS: What happens if IPL final gets washed out due to rain?RCB vs PBKS: The Indian Premier League final is likely to be affected by rain. What does the BCCI rules say in case the match does not get completed on Tuesday, June 3."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/tamil-nadu/story/anna-university-sex-assault-case-convict-gnanasekaran-annamalai-questions-dmk-link-despite-court-ruling-2735030-2025-06-03",
+      "headline": "Annamalai alleges cop, DMK leader aided Anna University assault case convictFormer BJP Tamil Nadu state president K Annamalai alleged a cover-up in the Anna University sexual assault case, a day after convict Gnanasekaran's sentencing. Annamalai demanded a probe into call records linking Minister Ma Subramanian, police officers and another local DMK leader to the accused."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-final-punjab-kings-pbks-vs-rcb-feature-2734957-2025-06-03",
+      "headline": "Can Punjab's uncapped superboys land the final blow?IPL 2025 Final, PBKS vs RCB: Prabhsimran Singh, Priyansh Arya, Nehal Wadhera, and Shashank Singh have chipped in with consistent performances, helping Punjab Kings qualify for the final for the first time in 11 years. "
     },
     {
       "sentiment": "positive",
@@ -200,9 +220,9 @@
       "headline": "RCB vs PBKS: Will Bengaluru miss 2 key players in the IPL Final?Royal Challengers Bengaluru might miss key overseas players Phil Salt and Tim David in the IPL final. Their absence could impact RCB's strategy and chances against Punjab Kings."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/with-love-from-lucknow-meet-indian-astronaut-shubhanshu-shukla-headed-to-space-2734916-2025-06-03",
-      "headline": "Meet Shuks: The IAF fighter pilot set to go to space on Ax-4 missionThe boy from Uttar Pradesh who once gazed at the skies will now live among the stars. A fighter pilot, a national pride, a space pioneer, Shubhanshu Shukla will become the first Indian astronaut to live and work on the Space Station."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/video/video-thar-driver-rams-man-in-noida-after-fight-throws-him-into-drain-2734951-2025-06-03",
+      "headline": "Video: Thar rams man in Noida after fight, throws him into drainA man was grievously injured after being hit by a Thar vehicle in Uttar Pradesh's Noida. The incident reportedly followed a prior fight, after which the accused allegedly attempted to run the victim over with the vehicle.\r\n\r\nThe victim was thrown off the road and fell into a nearby drain. A video capturing the incident has gone viral on social media, prompting police to take immediate notice.\r\n\r\nAuthorities have registered a case and formed a special team to apprehend the accused. Investigation is currently underway."
     },
     {
       "sentiment": "positive",
@@ -211,33 +231,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/bhagwant-mannone-nation-one-husband-jab-over-bjps-sindoor-politics-2734991-2025-06-03",
-      "headline": "Bhagwant Mann's 'one nation, one husband' jab over BJP's sindoor politicsPunjab Chief Minister Bhagwant Mann took swipes at the BJP and PM Modi for what he described as attempts to solicit votes in the name of 'sindoor'."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/uttarkhand-chief-minister-pushkar-singh-dhami-orders-suspension-district-magistrate-sdm-municipal-commissioner-12-officials-in-haridwar-land-scam-2734975-2025-06-03",
-      "headline": "Haridwar District Magistrate among 12 suspended in Rs 54-crore land scamThe unprecedented administrative shake-up took place after a probe led by Uttarakhand administration's Sachin Ranveer submitted a comprehensive 100-page report to the government, implicating 12 officers, including two IAS officers and one state civil services officer."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/video/video-thar-driver-rams-man-in-noida-after-fight-throws-him-into-drain-2734951-2025-06-03",
-      "headline": "Video: Thar driver rams man in Noida after fight, throws him into drainA man was grievously injured after being hit by a Thar vehicle in Uttar Pradesh's Noida. The incident reportedly followed a prior fight, after which the accused allegedly attempted to run the victim over with the vehicle.\r\n\r\nThe victim was thrown off the road and fell into a nearby drain. A video capturing the incident has gone viral on social media, prompting police to take immediate notice.\r\n\r\nAuthorities have registered a case and formed a special team to apprehend the accused. Investigation is currently underway."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/dmk-mp-kanimozhi-all-party-delegation-in-spain-replies-to-indias-national-language-question-2734735-2025-06-03",
-      "headline": "What is India's national language, Kanimozhi was asked in Spain. She said...DMK MP Kanimozhi, who is currently in Spain, was asked about the national language of India. Her response carried a message to the world."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/china-brahmaputra-water-flow-india-himanta-biswa-sarma-pakistan-threat-indus-waters-2734851-2025-06-03",
-      "headline": "Even if China reduces...: Himanta Sarma shuts down Pak's Brahmaputra threatThe Assam Chief Minister's remarks come after a senior aide to the Pakistani Prime Minister cautioned that China might also weaponise the Brahmaputra's waters in support of its 'all-weather friend'."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/agra-6-girls-drown-while-bathing-in-yamuna-river-4-die-two-are-in-critical-condition-2734976-2025-06-03",
-      "headline": "4 girls of a family drown while bathing in Yamuna, 2 in critical conditionAt least four girls died while bathing in the Yamuna river in Agra and two are in critical condition. All six girls belong to the same extended family."
+      "url": "https://www.indiatoday.in/world/story/prisoners-escape-karachi-malir-jail-amid-earthquake-chaos-pakistan-jailbreak-earthquake-2734878-2025-06-03",
+      "headline": "As earthquake rocks Pakistan, 200 prisoners break out of jail during evacuationOver 200 inmates of Karachi's Malir Jail took advantage of the panic during an earthquake and escaped. Videos showed absolute chaos with cops firing and inmates fleeing. One inmate died, and a probe has been launched into the massive jailbreak."
     },
     {
       "sentiment": "positive",
@@ -246,13 +241,33 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/prisoners-escape-karachi-malir-jail-amid-earthquake-chaos-pakistan-jailbreak-earthquake-2734878-2025-06-03",
-      "headline": "As earthquake rocks Pakistan, 200 prisoners break out of jail during evacuationOver 200 inmates of Karachi's Malir Jail took advantage of the panic during an earthquake and escaped. Videos showed absolute chaos with cops firing and inmates fleeing. One inmate died, and a probe has been launched into the massive jailbreak."
+      "url": "https://www.indiatoday.in/science/story/with-love-from-lucknow-meet-indian-astronaut-shubhanshu-shukla-headed-to-space-2734916-2025-06-03",
+      "headline": "Meet Shuks: The IAF fighter pilot set to go to space on Ax-4 missionThe boy from Uttar Pradesh who once gazed at the skies will now live among the stars. A fighter pilot, a national pride, a space pioneer, Shubhanshu Shukla will become the first Indian astronaut to live and work on the Space Station."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/teen-model-tijana-radonjic-plunges-to-death-parasailing-unbuckles-safety-harness-2734847-2025-06-03",
+      "headline": "Model plunges 150 ft to her death after unbuckling herself while parasailingA chilling video that has gone viral shows the 19-year-old woman frantically unzipping her life jacket and unbuckling her safety harness before falling into the Adriatic Sea."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/tamil-nadu/story/guv-rn-ravi-gives-assent-to-bill-allowing-nominating-persons-with-disabilities-to-local-state-municipalities-panchayats-2734908-2025-06-03",
-      "headline": "Maybe he was afraid of court: Stalin's dig at Governor Ravi after assent to billsTamil Nadu Governor RN Ravi has given assent to bills allowing the nomination of persons with disabilities (PwDs) to local municipal corporations and panchayats. The assent is significant in light of the Supreme Court ruling and marks a step toward greater representation in local bodies. "
+      "url": "https://www.indiatoday.in/india/story/uttarkhand-chief-minister-pushkar-singh-dhami-orders-suspension-district-magistrate-sdm-municipal-commissioner-12-officials-in-haridwar-land-scam-2734975-2025-06-03",
+      "headline": "Haridwar District Magistrate among 12 suspended in Rs 54-crore land scamThe unprecedented administrative shake-up took place after a probe led by Uttarakhand administration's Sachin Ranveer submitted a comprehensive 100-page report to the government, implicating 12 officers, including two IAS officers and one state civil services officer."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/dmk-mp-kanimozhi-all-party-delegation-in-spain-replies-to-indias-national-language-question-2734735-2025-06-03",
+      "headline": "What is India's national language, Kanimozhi was asked in Spain. She said...DMK MP Kanimozhi, who is currently in Spain, was asked about the national language of India. Her response carried a message to the world."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/pankaj-tripathi-denies-kamal-haasan-collaboration-language-concerns-2734970-2025-06-03",
+      "headline": "Pankaj Tripathi denies being part of Kamal Haasan's Thug LifeActor Pankaj Tripathi has dismissed rumours of working with Kamal Haasan in 'Thug Life'. He stresses his preference for Hindi-speaking roles citing difficulty with other languages."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/china-brahmaputra-water-flow-india-himanta-biswa-sarma-pakistan-threat-indus-waters-2734851-2025-06-03",
+      "headline": "Even if China reduces...: Himanta Sarma shuts down Pak's Brahmaputra threatThe Assam Chief Minister's remarks come after a senior aide to the Pakistani Prime Minister cautioned that China might also weaponise the Brahmaputra's waters in support of its 'all-weather friend'."
     },
     {
       "sentiment": "positive",
@@ -261,26 +276,16 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/kareena-kapoor-sleep-and-fitness-routine-dinner-by-6-pm-morning-workouts-2734819-2025-06-03",
-      "headline": "Kareena Kapoor, 44, lets in on fitness secrets: Dinner by 6 pm, early workoutsActor Kareena Kapoor Khan shared her sleep and fitness routine, which she follows at the age of 44. In a latest interview, she explained that she believes in early dinners and early morning workouts."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/after-air-chief-raps-delays-hal-to-hand-over-tejas-mk-1a-by-june-end-sources-2734929-2025-06-03",
       "headline": "After Air chief's rap on delays, HAL set to hand over Tejas Mk-1A this monthDelays in the supply of F404 engines from US-based GE Aerospace have pushed the Tejas Mk-1A programme over a year past its original timeline. Earlier this year too, IAF chief Air Chief Marshal AP Singh put HAL officials on blast over the delays. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/pakistan-tiktoker-social-media-influencer-sana-yousuf-shot-dead-2734829-2025-06-03",
-      "headline": "Teen Pakistani influencer shot dead at home, honour killing suspectedSana Yousuf, a well-known content creator from Upper Chitral who has over 4 lakh subscribers, was shot at close range by a relative who had come to visit her."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/teen-model-tijana-radonjic-plunges-to-death-parasailing-unbuckles-safety-harness-2734847-2025-06-03",
-      "headline": "Model plunges 150 ft to her death after unbuckling herself while parasailingA chilling video that has gone viral shows the 19-year-old woman frantically unzipping her life jacket and unbuckling her safety harness before falling into the Adriatic Sea."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ashes-australia-vs-england-test-series-tickets-sales-break-records-2735040-2025-06-03",
+      "headline": "AUS vs ENG: Ashes ticket sales hit record high as fans brave long queuesAUS vs ENG: Ashes 2025-26 is already breaking records as ticket sales skyrocket. With over 220,000 sold on Day 1, fans are braving long queues for what promises to be Australia's most electric cricket summer yet."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/real-madrid-psg-manchester-united-forbes-most-valueable-football-team-list-2735029-2025-06-03",
@@ -294,7 +299,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-final-drake-rcb-vs-pbks-bet-2734990-2025-06-03",
-      "headline": "Drake curse to hit RCB? Rapper bets on Bengaluru in IPL final vs PBKSCanadian rapper Drake has placed a massive Rs 76.4 crore bet on Royal Challengers Bengaluru ahead of the IPL final 2025. The superstition around the 'Drake Curse' adds intrigue to the high-stakes cricket showdown."
+      "headline": "Drake curse to hit RCB? Rapper bets on Bengaluru in IPL final vs PBKSCanadian rapper Drake has placed a massive Rs 6.4 crore bet on Royal Challengers Bengaluru ahead of the IPL final 2025. The superstition around the 'Drake Curse' adds intrigue to the high-stakes cricket showdown."
     },
     {
       "sentiment": "positive",
@@ -309,7 +314,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/french-open-day-10-live-aryna-sabalenka-iga-swiatek-carlos-alcaraz-qinwen-zheng-2734972-2025-06-03",
-      "headline": "French Open Day 10 LIVE: Aryna Sabalenka vs Qinwen Zheng underwayFrench Open Day 10 Live Updates: Aryna Sabalenka and Qinwen Zheng are up against each other in the first quarterfinal match on Tuesday. It will be followed by the match between four-time champion Iga Swiatek and Elina Svitolina, who is fresh from beating fourth seed Jasmine Paolini in the fourth round. "
+      "headline": "French Open Day 10 LIVE: Aryna Sabalenka wins 1st set vs Qinwen ZhengFrench Open Day 10 Live Updates: Aryna Sabalenka won the first set against Qinwen Zheng in the first quarterfinal match on Tuesday. It will be followed by the match between four-time champion Iga Swiatek and Elina Svitolina, who is fresh from beating fourth seed Jasmine Paolini in the fourth round. "
     },
     {
       "sentiment": "positive",
@@ -333,8 +338,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-final-rcb-vs-pbks-virat-kohli-feature-2734866-2025-06-03",
-      "headline": "The RCB remontada: How bowling, Kohli non-dependence have them on brink of IPL titleOnce considered to be two of their main weak points, RCB's bowling and non-dependence on big names have guided the franchise to their fourth IPL final. Can these two factors turn out to be the reasons for their first championship win?"
+      "url": "https://www.indiatoday.in/sports/tennis/story/french-open-day-10-live-aryna-sabalenka-iga-swiatek-carlos-alcaraz-qinwen-zheng-2734972-2025-06-03",
+      "headline": "French Open Day 10 LIVE: Aryna Sabalenka wins 1st set vs Qinwen ZhengFrench Open Day 10 Live Updates: Aryna Sabalenka won the first set against Qinwen Zheng in the first quarterfinal match on Tuesday. It will be followed by the match between four-time champion Iga Swiatek and Elina Svitolina, who is fresh from beating fourth seed Jasmine Paolini in the fourth round. "
     },
     {
       "sentiment": "positive",
@@ -355,11 +360,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/other-sports/story/pardeep-narwal-retirement-pkl-2025-unsold-auction-2734892-2025-06-03",
       "headline": "Pardeep Narwal retires after going unsold in Pro Kabaddi League auctionKabaddi star Pardeep Narwal confirmed his retirement after going unsold in the PKL 2025 auction. His next chapter focusses on coaching and nurturing future talent in kabaddi."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2025-final-rcb-vs-pbks-virat-kohli-feature-2734866-2025-06-03",
-      "headline": "The RCB remontada: How bowling, Kohli non-dependence have them on brink of IPL titleOnce considered to be two of their main weak points, RCB's bowling and non-dependence on big names have guided the franchise to their fourth IPL final. Can these two factors turn out to be the reasons for their first championship win?"
     }
   ],
   "education": [
@@ -422,21 +422,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/education/story/the-power-of-knowledge-educations-influence-on-real-estate-market-trends-2516316-2024-03-18",
       "headline": "The power of knowledge: Education's influence on real estate market trendsIn a dynamic sector like real estate, investing in continuing education is not simply an option; it is a requirement."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/jnu-students-body-election-on-march-22-after-4-years-2513140-2024-03-11",
-      "headline": "JNU students' body election on March 22 after 4 yearsThe Jawaharlal Nehru University Students' Union (JNUSU) polls will take place on March 22, more than four years after the last elections were held in September 2019."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/up-12th-board-exam-math-biology-question-papers-leaked-on-whatsapp-uttar-pradesh-2508890-2024-03-01",
-      "headline": "UP 12th board exam math, biology papers leaked on WhatsApp, complaint filedThe mathematics and biology question papers for the Uttar Pradesh class 12 board exam were allegedly leaked on a WhatsApp group."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/education/story/uttar-pradesh-police-constable-recruitment-exam-cancelled-after-paper-leak-re-examination-in-6-months-2506566-2024-02-24",
-      "headline": "UP Police Constable recruitment exam cancelled days after paper leakThe Uttar Pradesh Police Constable recruitment exam held on February 17 and 18 was canceled due to a paper leak. The Chief Minister has announced a re-examination within the next six months."
     }
   ]
 }
