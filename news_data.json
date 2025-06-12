@@ -63,6 +63,11 @@
   ],
   "entertainment": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/karisma-kapoor-ex-husband-sunjay-kapur-dies-of-heart-attack-at-53-2740002-2025-06-12",
+      "headline": "Karisma Kapoor's ex-husband Sunjay Kapur dies of heart attack at 53 Actor Karisma Kapoor's ex-husband, Sanjay Kapur, died of a heart attack. He was 53."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/music/story/dua-lipa-callum-turner-are-engaged-singer-reflects-on-growing-old-with-actor-2739915-2025-06-12",
       "headline": "Dua Lipa, Callum Turner are engaged, singer reflects on growing old with actorSinger Dua Lipa confirmed her engagement to British actor Callum Turner. She also opened up on her future plans with Turner, while reflecting on their bond."
@@ -151,11 +156,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/music/story/btss-suga-to-be-discharged-from-military-service-on-june-21-2739693-2025-06-12",
       "headline": "After BTS's Jimin and Jungkook, ARMY awaits Suga's returnK-pop's biggest boyband BTS is all set to reunite, as every member except for Suga has been discharged from the mandatory military service. Suga will be discharged later this month.\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/music/story/diljit-dosanjh-to-release-indian-version-of-shakiras-hips-dont-lie-read-details-2739619-2025-06-12",
-      "headline": "Diljit Dosanjh hints at desi Hips Don't Lie collaboration with Shakira. WatchSinger Diljit Dosanjh hinted at the possibility of a collaboration with pop sensation Shakira for the Indian version of her song 'Hips don't lie'. The duo met at the Met Gala earlier this month. "
     }
   ],
   "general news": [
@@ -176,18 +176,33 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/newlywed-from-rajasthan-on-way-to-meet-husband-in-uk-among-victims-of-gujarat-air-crash-2739949-2025-06-12",
+      "headline": "Newlywed on way to meet husband in UK among victims of Gujarat air crashKhushboo and Vipul married in January this year. While Vipul had left for UK shortly after the wedding, Khushboo was on her way to join him when the flight she was travelling on crashed in Ahmedabad."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/karisma-kapoor-ex-husband-sunjay-kapur-dies-of-heart-attack-at-53-2740002-2025-06-12",
+      "headline": "Karisma Kapoor's ex-husband Sunjay Kapur dies of heart attack at 53 Actor Karisma Kapoor's ex-husband, Sanjay Kapur, died of a heart attack. He was 53."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/wtc-final-2025-sa-vs-aus-day-2-score-alex-carey-pat-cummins-lungi-ngidi-2739984-2025-06-12",
+      "headline": "WTC final on a knife's edge as Australia, South Africa trade blows on Day 2WTC 2025 final, SA vs AUS: Alex Carey chipped in with a crucial 43 to rescue Australia from 73 for 7 and help them finish with 144 for 8 at Stumps on Day 2. 28 wickets have fallen in the first two days of the big final at Lord's and Australia have their noses ahead, only by a small margin. "
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/donald-trump-help-offer-after-air-india-plane-crash-reaction-terrible-worst-in-aviation-history-2739974-2025-06-12",
       "headline": "Anything we can do to help: Donald Trump after Air India plane crashUS President Donald Trump has offered his support following the Ahmedabad plane crash in which more than 200 people lost their lives. The Boeing 787-8 Dreamliner aircraft crashed five minutes after taking-off near Ahmedabad airport."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/air-india-plane-crash-ahmedabad-airport-banswara-family-death-toll-2739989-2025-06-12",
+      "headline": "Rajasthan couple headed to London with kids among Air India plane crash victimsThe family was traveling together when the ill-fated aircraft, operating as flight AI171, crashed into a medical college complex in Ahmedabad's Meghaninagar area and erupted into flames."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/video/video-explainer-how-ill-fated-air-india-171-crashed-2739913-2025-06-12",
       "headline": "Video explainer: How ill-fated Air India AI-171 crashedAn Air India plane with\u00a0242 people on board\u00a0crashed near Sardar Vallabhbhai Patel International Airport shortly after taking-off on Thursday in Ahmedabad."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/newlywed-from-rajasthan-on-way-to-meet-husband-in-uk-among-victims-of-gujarat-air-crash-2739949-2025-06-12",
-      "headline": "Newlywed from Rajasthan on way to meet husband in UK among victims of Gujarat air crashKhushboo and Vipul married in January this year. While Vipul had left for UK shortly after the wedding, Khushboo was on her way to join him when the flight she was travelling on crashed in Ahmedabad."
     },
     {
       "sentiment": "negative",
@@ -201,13 +216,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/former-gujrat-vijay-rupani-dies-air-india-crash-london-bound-ahmedabad-airport-abvp-2739829-2025-06-12",
-      "headline": "Vijay Rupani: How the Rangoon-born came to lead GujaratFormer Gujarat Chief Minister Vijay Rupani died in the Air India crash in Ahmedabad on Thursday, just five minutes after take-off. Born in Myanmar and raised in Rajkot, Rupani rose from a student activist to Gujarat's 16th CM, with deep roots in the BJP and strong ties to PM Narendra Modi."
+      "url": "https://www.indiatoday.in/india/story/british-nationals-last-video-air-india-flight-crash-ahmedabad-2739924-2025-06-12",
+      "headline": "Going back happily: British nationals in last video before Air India flight crashTwo tourists from Britain shot a video at the Ahmedabad airport, bidding goodbye to India. Shortly after, the flight crashed near the airport, with the fate of the two Britons unclear."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/british-nationals-last-video-air-india-flight-crash-ahmedabad-2739924-2025-06-12",
-      "headline": "Going back happily: British nationals in last video before Air India flight crashTwo tourists from Britain shot a video at the Ahmedabad airport, bidding goodbye to India. Shortly after, the flight crashed near the airport, with the fate of the two Britons unclear."
+      "url": "https://www.indiatoday.in/india/story/scenes-from-bj-medical-college-civil-hospital-hostel-site-of-air-india-flight-crash-ahmedabad-pics-2739804-2025-06-12",
+      "headline": "Plane tail, lunch on tables: Scenes from doctors' hostel, site of Air India crashAir India flight 171 en route to London crashed minutes after it took off from the Ahmedabad airport on Thursday afternoon."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/former-gujrat-vijay-rupani-dies-air-india-crash-london-bound-ahmedabad-airport-abvp-2739829-2025-06-12",
+      "headline": "Vijay Rupani: How the Rangoon-born came to lead GujaratFormer Gujarat Chief Minister Vijay Rupani died in the Air India crash in Ahmedabad on Thursday, just five minutes after take-off. Born in Myanmar and raised in Rajkot, Rupani rose from a student activist to Gujarat's 16th CM, with deep roots in the BJP and strong ties to PM Narendra Modi."
     },
     {
       "sentiment": "positive",
@@ -221,8 +241,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/scenes-from-bj-medical-college-civil-hospital-hostel-site-of-air-india-flight-crash-ahmedabad-pics-2739804-2025-06-12",
-      "headline": "Plane tail, lunch on tables: Scenes from doctors' hostel, site of Air India crashAir India flight 171 en route to London crashed minutes after it took off from the Ahmedabad airport on Thursday afternoon."
+      "url": "https://www.indiatoday.in/trending-news/story/bengaluru-techie-restarts-career-as-swiggy-delivery-agent-with-a-bigger-plan-ahead-2739950-2025-06-12",
+      "headline": "Bengaluru techie restarts career as Swiggy delivery agent with a bigger plan aheadNithin Kumar, a resident of Bengaluru, shared a powerful story on X about his interaction with Swiggy delivery agent Padmanaban Ebbas - a full-stack developer with over 19 years of experience in the tech industry. "
     },
     {
       "sentiment": "positive",
@@ -241,8 +261,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/bengaluru-techie-restarts-career-as-swiggy-delivery-agent-with-a-bigger-plan-ahead-2739950-2025-06-12",
-      "headline": "Bengaluru techie restarts career as Swiggy delivery agent with a bigger plan aheadNithin Kumar, a resident of Bengaluru, shared a powerful story on X about his interaction with Swiggy delivery agent Padmanaban Ebbas - a full-stack developer with over 19 years of experience in the tech industry. "
+      "url": "https://www.indiatoday.in/information/story/what-is-a-mayday-call-2739750-2025-06-12",
+      "headline": "What is Mayday call that Air India pilot issued moments before fatal crash?Following its Mayday call, Air India 171 tragically crashed just five minutes after take-off in Ahmedabad on Thursday. Here's what a Mayday call means and how it originated."
     },
     {
       "sentiment": "positive",
@@ -258,29 +278,24 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/air-india-ceo-campbell-wilson-reaction-to-ahmedabad-london-787-dreamliner-plane-crash-2739907-2025-06-12",
       "headline": "This is a difficult day for us: Air India CEO reacts to Ahmedabad plane crashAt least 204 people were killed and 41 injured after the London-bound Air India flight crashed just minutes after taking off from Ahmedabad's Sardar Vallabhbhai Patel International Airport on Thursday."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/information/story/what-is-a-mayday-call-2739750-2025-06-12",
-      "headline": "What is Mayday call that Air India pilot issued moments before fatal crash?Following its Mayday call, Air India 171 tragically crashed just five minutes after take-off in Ahmedabad on Thursday. Here's what a Mayday call means and how it originated."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/air-india-ahmedabad-gatwick-flight-gave-mayday-call-to-atc-crashed-outside-airport-perimeter-after-take-off-2739726-2025-06-12",
-      "headline": "Mayday, Mayday Air India declared, then radio silence: Tracing Ahmedabad crashThe Air India Ahmedabad-London flight gave a mayday call to ATC, moments before it crashed near the Ahmedabad airport, the DGCA said in a statement. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/video/video-part-of-air-india-plane-hangs-out-of-resident-doctors-hostel-after-crash-2739771-2025-06-12",
-      "headline": "Video: Part of Air India plane hangs out of resident doctors' hostel after crashA part of the Air India flight, which crashed shortly after take-off from Sardar Vallabhbhai Patel International Airport in Ahmedabad, fell on\u00a0BJ Medical College's resident doctors' hostel roof in Ahmedabad."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/who-is-indian-origin-doctor-bobby-mukkamala-head-us-american-medical-association-ama-healthcare-system-us-2739594-2025-06-12",
-      "headline": "Who is Indian-origin doctor Bobby Mukkamala to head US medical bodyAn Indian-origin doctor was sworn in as the president of the American Medical Association, becoming the first person of Indian-descent to lead America's most influential physician organisation. Bobby Mukkamala, who has roots in Andhra Pradesh, expressed concern about the US healthcare system and vowed to work on it as he took charge of the medical body."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/ultimate-table-tennis-u-mumba-qualify-for-semifinals-end-dabang-delhi-unbeaten-streak-2740001-2025-06-12",
+      "headline": "UTT Season 6: U Mumba qualify for semifinals, end Dabang Delhi's unbeaten streakU Mumba TT clinched the last available semi-final berth in Ultimate Table Tennis (UTT) Season 6 after defeating Dabang Delhi TTC 10-5 in a crucial match held in Ahmedabad on Thursday. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/wtc-final-lungi-ngidi-reaction-australia-218-run-lead-vs-south-africa-day-2-2739992-2025-06-12",
+      "headline": "South Africa well-placed in WTC final: Ngidi confident despite 218-run deficitLungi Ngidi was confident that South Africa's bowlers could finish the job early on the third day, removing the final two Australian wickets and keeping the target below 230\u2014a total he believes would give the Proteas a genuine chance of winning their first World Test Championship title.\r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/wtc-final-2025-sa-vs-aus-day-2-score-alex-carey-pat-cummins-lungi-ngidi-2739984-2025-06-12",
+      "headline": "WTC final on a knife's edge as Australia, South Africa trade blows on Day 2WTC 2025 final, SA vs AUS: Alex Carey chipped in with a crucial 43 to rescue Australia from 73 for 7 and help them finish with 144 for 8 at Stumps on Day 2. 28 wickets have fallen in the first two days of the big final at Lord's and Australia have their noses ahead, only by a small margin. "
+    },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/cricket/story/air-india-crash-tribute-t20-mumbai-league-final-wankhede-2739969-2025-06-12",
@@ -323,18 +338,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/wtc-final-sa-pacer-david-bedingham-handle-the-ball-controversy-vs-australia-2739839-2025-06-12",
-      "headline": "Out or not out? David Bedingham survives the handle-the-ball appeal in WTC finalSouth Africa batter David Bedingham found himself in the middle of a rare on-field controversy during the World Test Championship final against Australia."
+      "url": "https://www.indiatoday.in/sports/cricket/story/pakistan-sideline-babar-azam-muhammad-rizwan-shaheen-afridi-from-t20-plans-2739922-2025-06-12",
+      "headline": "Pakistan sideline Babar Azam, Muhammad Rizwan, Shaheen Afridi from T20 plansThe Pakistan selectors have decided to exclude senior players such as Babar Azam, Muhammad Rizwan, and Shaheen Shah Afridi from the upcoming T20 series against the West Indies and Bangladesh."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/world-test-championship-final-marnus-labuschagne-catch-temba-bavuma-pat-cummins-2739827-2025-06-12",
-      "headline": "Watch: Labuschagne's stunning two-handed catch helps Australia remove BavumaWTC final, Australia vs South Africa: Marnus Labuschagne took a blinder of a catch at covers to help remove South Africa's Temba Bavuma just when he looked to attack the Aussie bowlers. South Africa were reeling at 121 for 5 at Lunch on Day 2 in London. "
+      "url": "https://www.indiatoday.in/sports/story/pat-cummins-collision-kyle-verreynne-wtc-final-lords-2739872-2025-06-12",
+      "headline": "Watch: Pat Cummins collides with Kyle Verreynne before taking a successful reviewWTC Final, Australia vs South Africa: Pat Cummins collided with Kyle Verreynne during a dramatic LBW appeal, but that didn't stop the Australian skipper from going for the DRS \u2014 which ultimately resulted in the wicket."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/radha-yadav-replaces-injured-shuchi-upadhyay-for-upcoming-england-tour-2739803-2025-06-12",
-      "headline": "Radha Yadav replaces injured Shuchi Upadhyay in India squad for England tourRadha Yadav comes in as the injury replacement for Shuchi Upadhyay, who was ruled out due to a left shin injury ahead of India Women's upcoming white-ball tour of England. Radha Yadav has not played an international match since December 2024.\r\n"
+      "url": "https://www.indiatoday.in/sports/cricket/story/mehidy-hasan-miraz-bangladesh-odi-captain-2739904-2025-06-12",
+      "headline": "Mehidy Hasan Miraz named Bangladesh ODI captain for 12 monthsMehidy Hasan Miraz has replaced Najmul Hossain Shanto as Bangladesh's new ODI captain \"for the next 12 months\". Miraz has previously captained Bangladesh in four ODIs in Shanto's absence."
     },
     {
       "sentiment": "positive",
@@ -345,21 +360,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/wtc-final-2025-pat-cummins-world-record-five-wicket-haul-lords-2739871-2025-06-12",
       "headline": "Pat Cummins scripts world record, 1st captain to take 5-wicket haul in ICC finalPat Cummins made history by taking a five-wicket haul in the ICC World Test Championship final against South Africa at Lord's. He went past India's Bishan Singh Bedi in an all-time list of captains with most five-fers in Test cricket history. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/wtc-final-sa-pacer-david-bedingham-handle-the-ball-controversy-vs-australia-2739839-2025-06-12",
-      "headline": "Out or not out? David Bedingham survives the handle-the-ball appeal in WTC finalSouth Africa batter David Bedingham found himself in the middle of a rare on-field controversy during the World Test Championship final against Australia."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/world-test-championship-final-marnus-labuschagne-catch-temba-bavuma-pat-cummins-2739827-2025-06-12",
-      "headline": "Watch: Labuschagne's stunning two-handed catch helps Australia remove BavumaWTC final, Australia vs South Africa: Marnus Labuschagne took a blinder of a catch at covers to help remove South Africa's Temba Bavuma just when he looked to attack the Aussie bowlers. South Africa were reeling at 121 for 5 at Lunch on Day 2 in London. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/radha-yadav-replaces-injured-shuchi-upadhyay-for-upcoming-england-tour-2739803-2025-06-12",
-      "headline": "Radha Yadav replaces injured Shuchi Upadhyay in India squad for England tourRadha Yadav comes in as the injury replacement for Shuchi Upadhyay, who was ruled out due to a left shin injury ahead of India Women's upcoming white-ball tour of England. Radha Yadav has not played an international match since December 2024.\r\n"
     }
   ],
   "education": [
