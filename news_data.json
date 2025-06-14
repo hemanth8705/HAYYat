@@ -64,6 +64,11 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/bipasha-basu-slams-trolls-postpartum-weight-gain-husband-karan-singh-grover-shows-support-2740613-2025-06-14",
+      "headline": "Bipasha Basu slams trolls over postpartum weight gain, husband Karan shows supportActor Bipasha Basu addressed the online buzz about her weight gain post-motherhood in a recent Instagram post. She slammed trolls and wrote how they don't define her identity or self-worth.\r\n"
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/television/story/dipika-kakar-discharged-hospital-surgery-free-from-tumour-cancer-shaoib-ibrahim-2740598-2025-06-14",
       "headline": "Dipika Kakar discharged from hospital after surgery: Free from the tumourActor Dipika Kakar has been discharged from Kokilaben Hospital. In her health update, Kakar said that the tumour has been successfully removed. "
     },
@@ -146,23 +151,18 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/television/story/alia-bhatts-childhood-pic-with-paresh-rawal-goes-viral-fans-link-it-to-tamanna-sets-2740253-2025-06-13",
       "headline": "Munawar Faruqui hangs out with newlyweds Hina Khan and Rocky Jaiswal on show setsActors Hina Khan and Rocky Jaiswal met comedian Munawar Faruqui on the sets of their upcoming show, 'Pati Patni Aur Panga.' They were seen spending quality time on the sets of the show. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/alia-bhatt-sharvari-to-feature-in-special-dance-track-for-action-film-alpha-2740240-2025-06-13",
-      "headline": "Alia Bhatt, Sharvari to feature in special dance track for action film Alpha: ReportActors Alia Bhatt and Sharvari are working hard on a special dance song for their new action film 'Alpha'. The movie will release in theatres during Christmas 2025 and also stars Anil Kapoor and Bobby Deol."
     }
   ],
   "general news": [
     {
-      "sentiment": "positive",
+      "sentiment": "negative",
       "url": "https://www.indiatoday.in/world/story/israel-iran-tensions-conflict-benjamin-netanyahu-nuclear-sites-hit-2740505-2025-06-13",
       "headline": "Iranian missiles hit Tel Aviv as Tehran retaliates for deadly Israeli strikesIran and Israel targeted each other with airstrikes early on Saturday after Israel launched its biggest-ever offensive against its longtime foe in a bid to prevent it from developing a nuclear weapon."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/israel-airstrikes-iran-operation-rising-lion-retaliation-nuclear-programme-khamenei-netanyahu-middle-east-tensions-conflict-2740080-2025-06-13",
-      "headline": "Live: Fresh Israeli attack targets Tehran, Netanyahu says just a beginningIsrael Iran War News Live: Iran and Israel exchanged airstrikes early Saturday, marking a dangerous escalation after Israel launched its largest-ever offensive against its longtime rival in an effort to prevent it from developing nuclear weapons. Iranian missiles and rockets struck Tel Aviv and Jerusalem, Israel's two largest cities, before dawn, leaving multiple people injured. Israel had initiated the first wave of attacks on Iran on Friday, followed by several more rounds, including a fresh wave on Saturday morning.At least 80 people have been reported killed, with dozens more injured in the ongoing strikes."
+      "headline": "Live: Israeli military says fresh barrage of missiles fired from Iran, one deadIsrael Iran War News Live: Iran and Israel exchanged airstrikes early Saturday, marking a dangerous escalation after Israel launched its largest-ever offensive against its longtime rival in an effort to prevent it from developing nuclear weapons. Iranian missiles and rockets struck Tel Aviv and Jerusalem, Israel's two largest cities, before dawn, leaving multiple people injured. Israel had initiated the first wave of attacks on Iran on Friday, followed by several more rounds, including a fresh wave on Saturday morning.At least 80 people have been reported killed, with dozens more injured in the ongoing strikes."
     },
     {
       "sentiment": "positive",
@@ -226,8 +226,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/delhi/story/delhi-faces-widespread-water-crisis-as-yamuna-levels-dip-below-normal-2740575-2025-06-14",
-      "headline": "Delhi faces widespread water crisis as Yamuna levels dip below normalSeveral areas in Delhi are likely to experience water supply disruptions after a sharp drop in raw water availability forced the Wazirabad and Chandrawal water treatment plants."
+      "url": "https://www.indiatoday.in/world/us-news/story/trump-reveals-millions-in-crypto-earnings-217-million-from-florida-properties-glbs-2740582-2025-06-14",
+      "headline": "From crypto to golf resorts: Trump discloses diverse wealth sources in new filingUS President Donald Trump reported USD 57.35 million in crypto income and massive token holdings in World Liberty Financial, alongside USD 217.7 million earned from Florida resorts, in his latest financial disclosure filing.\r\n"
     },
     {
       "sentiment": "positive",
@@ -246,8 +246,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/health/story/dna-sampling-air-disaster-victim-identification-forensic-analysis-air-india-ahmedabad-2740486-2025-06-14",
-      "headline": "Air India crash: Why DNA sampling is crucialDNA sampling plays a crucial role in identifying victims after air disasters. At Ahmedabad's Civil Hospital, over 200 families have given their DNA samples to match with the remains of the victims of the Air India crash. \u00a0"
+      "url": "https://www.indiatoday.in/world/us-news/story/us-helping-intercept-iranian-missiles-aimed-at-israel-report-glbs-2740558-2025-06-14",
+      "headline": "US helping intercept Iranian missiles aimed at Israel: ReportThe US military assisted Israel in intercepting Iranian missiles launched in retaliation for Israeli strikes. US officials confirmed involvement but gave no details on the assets used in the operation."
     },
     {
       "sentiment": "positive",
@@ -261,21 +261,36 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/temba-bavuma-lion-heroics-wtc-final-sa-vs-aus-injury-hamstring-fifty-2740546-2025-06-13",
-      "headline": "Standing like a lion: Bavuma's heroic innings earns respect of fans in WTC FinalTemba Bavuma's lion-hearted stand at Lord's, battling injury and pressure in South Africa's record WTC chase, has become the emotional heartbeat of a nation dreaming of its first ICC men's trophy."
+      "url": "https://www.indiatoday.in/cities/delhi/story/delhi-faces-widespread-water-crisis-as-yamuna-levels-dip-below-normal-2740575-2025-06-14",
+      "headline": "Delhi faces widespread water crisis as Yamuna levels dip below normalSeveral areas in Delhi are likely to experience water supply disruptions after a sharp drop in raw water availability forced the Wazirabad and Chandrawal water treatment plants."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/pm-shares-indias-concerns-in-call-from-netanyahu-briefed-on-evolving-situation-with-iran-2740491-2025-06-13",
-      "headline": "PM shares India's concerns in call from Netanyahu, briefed on situation with IranPM Modi received a call from Israeli counterpart Benjamin Netanyahu, and briefed him on India's concerns. Besides, the PM was briefed on developments in the ongoing Israel-Iran conflict"
+      "url": "https://www.indiatoday.in/world/story/khamenei-appoints-general-amir-hatami-as-new-army-chief-glbs-2740583-2025-06-14",
+      "headline": "Iran's Khamenei names new Army chief after Israeli strike kills predecessorAyatollah Khamenei appointed Major General Amir Hatami as Iran's new Army Chief, urging a \"revolutionary approach\" to boost combat readiness, following a top command reshuffle after recent military tensions."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/trump-reveals-millions-in-crypto-earnings-217-million-from-florida-properties-glbs-2740582-2025-06-14",
-      "headline": "From crypto to golf resorts: Trump discloses diverse wealth sources in new filingUS President Donald Trump reported USD 57.35 million in crypto income and massive token holdings in World Liberty Financial, alongside USD 217.7 million earned from Florida resorts, in his latest financial disclosure filing.\r\n"
+      "url": "https://www.indiatoday.in/india/story/assam-issues-shoot-at-sight-order-at-night-amid-ongoing-communal-tension-in-dhubri-2740581-2025-06-14",
+      "headline": "Assam issues shoot-at-sight order at night amid ongoing communal tension in DhubriPeople protested in Dhubri town on Sunday after pieces of meat were found near a temple. Prohibitory orders were imposed in the town on Monday and it was withdrawn the next day."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/video/wtc-final-2025-sa-vs-aus-day-3-daniel-vettori-full-press-conference-2740622-2025-06-14",
+      "headline": "Big challenge awaits us on Day 4, need conditions to go our way: Daniel VettoriAustralia's spin bowling coach Daniel Vettori admitted that they face a challenging situation on Day 4 as South Africa require 69 runs to win the World Test Championship (WTC) final 2025 with eight wickets in hand. However, he didn't rule out the possibility of their bowlers triggering South Africa's collapse if they find conducive conditions to bowl in. "
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/cricket/video/wtc-final-sa-vs-aus-day-3-ashwell-prince-full-press-conference-2740618-2025-06-14",
+      "headline": "We understand the magnitude of the situation, but we must stay calm: Ashwell PrinceSouth Africa batting coach Ashwell Prince revealed that they understand the magnitude of the situation they've brought themselves into, but it's also crucial to remain in the moment and stay calm. South Africa are just 69 runs away from wining WTC Final 2025 against Australia and still have eight wickets in hand."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/shubman-gill-kl-rahul-and-shardul-thakur-shine-on-day-1-of-indias-intra-squad-game-2740614-2025-06-14",
+      "headline": "Gill, KL Rahul and Shardul Thakur shine on Day 1 of India's intra-squad gameIndia captain Shubman Gill and star batter KL Rahul scored half-centuries on Day 1 of their match simulation practice against India A in Beckenham."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/sa-vs-aus-wtc-final-day-4-rain-stands-between-south-africa-and-icc-glory-2740599-2025-06-14",
@@ -318,18 +333,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/wtc-final-aiden-markram-hundred-sa-vs-aus-2740531-2025-06-13",
-      "headline": "Clutch Aiden Markram becomes 3rd batter to hit WTC final hundredSouth Africa's Aiden Markram scored a sensational century in the World Test Championship final at Lord's on Friday. His innings put South Africa in a strong position to chase down a difficult target against Australia."
+      "url": "https://www.indiatoday.in/sports/story/wtc-final-lords-sa-vs-aus-matthew-hayden-steyn-cummins-2740552-2025-06-14",
+      "headline": "Huge error: Matthew Hayden, Dale Steyn slam Australia's tactics in WTC FinalFormer cricketers Matthew Hayden and Dale Steyn questioned Australia's defensive approach with the ball on Day 3 of the WTC Final. Australia now have just 69 runs to defend after Day 3."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/kalyan-chaubey-aiff-monolo-marquez-strikers-u23-key-points-oci-players-2740504-2025-06-13",
-      "headline": "Kalyan Chaubey, AIFF address rising criticism of Indian football: Key pointsWith India's football future in flux, AIFF president Kalyan Chaubey outlined a multi-pronged revival plan\u2014promising decisive action on coach Manolo Marquez, a striker development push, and fresh hope through potential OCI player inclusion."
+      "url": "https://www.indiatoday.in/sports/other-sports/story/ultimate-table-tennis-jaipur-patriots-vs-dabang-delhi-semi-final-2740579-2025-06-14",
+      "headline": "Jaipur Patriots edge Dabang Delhi to reach first-ever UTT Grand FinalIn a nail-biting -final, Jaipur Patriots held their nerve to edge past Dabang Delhi TTC 8-7, with Sreeja Akula sealing the deal after Yashansh Malik's stunning upset over Delhi skipper Sathiyan Gnanasekaran."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/wtc-final-steve-smith-picks-up-nasty-injury-at-slips-on-day-3-trying-to-dismiss-temba-bavuma-2740495-2025-06-13",
-      "headline": "Steve Smith dislocates finger on Day 3, likely out of WTC Final vs SAIn a big blow for Australia in the WTC final, the experienced Steve Smith walked off the field with a dislocated finger, after attempting a risky catch at slips tp dismiss South Africa skipper Temba Bavuma on Day 3 at Lord's."
+      "url": "https://www.indiatoday.in/sports/story/wtc-final-sa-vs-aus-dale-steyn-day-4-prediction-2740551-2025-06-13",
+      "headline": "SA will be chasing their hardest 69 runs vs AUS on Day 4: SteynSouth Africa are on the verge of a historic win in the World Test Championship Final, but Dale Steyn believes the side will face the toughest 69 runs they've ever had to score on Saturday."
     },
     {
       "sentiment": "positive",
@@ -340,21 +355,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/story/wtc-final-australia-vs-south-africa-aiden-markram-temba-bavuma-2740538-2025-06-13",
       "headline": "Markram's flair, Bavuma's grit bring South Africa on the cusp of historyAiden Markram and Temba Bavuma showed remarkable resilience on day 3 of the World Test Championship final. Their fightback against Australia has brought South Africa on the cusp of history."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/wtc-final-aiden-markram-hundred-sa-vs-aus-2740531-2025-06-13",
-      "headline": "Clutch Aiden Markram becomes 3rd batter to hit WTC final hundredSouth Africa's Aiden Markram scored a sensational century in the World Test Championship final at Lord's on Friday. His innings put South Africa in a strong position to chase down a difficult target against Australia."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/kalyan-chaubey-aiff-monolo-marquez-strikers-u23-key-points-oci-players-2740504-2025-06-13",
-      "headline": "Kalyan Chaubey, AIFF address rising criticism of Indian football: Key pointsWith India's football future in flux, AIFF president Kalyan Chaubey outlined a multi-pronged revival plan\u2014promising decisive action on coach Manolo Marquez, a striker development push, and fresh hope through potential OCI player inclusion."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/wtc-final-steve-smith-picks-up-nasty-injury-at-slips-on-day-3-trying-to-dismiss-temba-bavuma-2740495-2025-06-13",
-      "headline": "Steve Smith dislocates finger on Day 3, likely out of WTC Final vs SAIn a big blow for Australia in the WTC final, the experienced Steve Smith walked off the field with a dislocated finger, after attempting a risky catch at slips tp dismiss South Africa skipper Temba Bavuma on Day 3 at Lord's."
     }
   ],
   "education": [
