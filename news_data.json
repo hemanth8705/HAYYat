@@ -1,6 +1,16 @@
 {
   "business": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/market/story/oil-prices-dip-after-iran-israel-ceasefire-indian-stocks-mixed-gains-rbi-rate-cut-2745313-2025-06-24",
+      "headline": "Explained: Why are oil sector stocks rising today?The ceasefire announcement made by US President Donald Trump triggered a decline in oil prices, which had experienced a prior surge due to geopolitical tensions. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/market/story/explained-why-enviro-infra-engineers-share-price-jumped-11-in-early-trade-2745296-2025-06-24",
+      "headline": "Explained: Why Enviro Infra Engineers share price jumped 11% in early tradeAt around 9:48 am, the company's stock was trading at Rs 233.50 apiece on the Bombay Stock Exchange (BSE), up 10.43% from the previous close."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/market/story/sensex-jumps-900-points-why-is-the-stock-market-rising-today-2745287-2025-06-24",
       "headline": "Sensex jumps 900 points: Why is the stock market rising today?At around 9:22 am, the S&P BSE Sensex was up 869.86 points at 82,766.65, while the NSE Nifty50 jumped 262.75 points to 25,234.65. Broader markets also mirrored the upbeat sentiment, with volatility declining across the board."
@@ -59,9 +69,159 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/personal-finance/story/rs-6-lakh-in-taxes-on-a-rs-13-lakh-car-ca-reveals-the-hidden-cost-2744873-2025-06-23",
       "headline": "Rs 6 lakh in taxes on a Rs 13 lakh car? CA reveals the hidden costUpgrading or buying a new car used to be a moment of joy for many middle-class families, but today, it's overshadowed by the heavy financial pressure it brings."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/strait-of-hormuz-closure-iran-parliament-israel-us-attack-crude-oil-impact-price-rise-india-world-impact-2744885-2025-06-23",
+      "headline": "Will Iran close Hormuz Strait? What it means for oil prices in India and worldThe Strait of Hormuz is a narrow waterway connecting the Persian Gulf with the Arabian Sea. It is one of the most important oil transport routes in the world. Nearly 20% of all global crude oil passes through this strait."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/personal-finance/story/debt-disguised-as-achievement-financial-analyst-on-growing-emi-trap-2744876-2025-06-23",
+      "headline": "Debt disguised as achievement: Financial expert on India's deepening EMI trapA rising income shouldn't come at the cost of peace of mind. Financial freedom means having choices, not just things. And that starts with avoiding EMIs that quietly chip away at your future."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/personal-finance/story/filing-itr-5-common-errors-in-pre-filled-forms-and-how-to-fix-it-2744833-2025-06-23",
+      "headline": "Filing ITR? 5 common errors in pre-filled forms and how to fix itA pre-filled Income Tax Return (ITR) form is a partially completed form provided by the Income Tax Department to make filing easier for taxpayers. These forms are automatically filled with details taken from trusted sources such as your PAN, Aadhaar, Form 16, and bank data from Form 26AS and the AIS."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/personal-finance/story/explained-how-to-vacation-without-the-financial-hangover-2744803-2025-06-23",
+      "headline": "Explained: How to vacation without the financial hangoverA dream vacation should leave you with great memories, not months of financial stress. With a little planning, you can enjoy the trip and return home without breaking your budget."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/market/story/stock-markets-slide-after-us-iran-tensions-buy-the-dip-or-wait-it-out-2744790-2025-06-23",
+      "headline": "Stock markets slide amid US-Iran tensions: Buy the dip or wait it out?The Nifty 50 fell 257.25 points\u00a0to 24,855.15, and the BSE Sensex was down 863.78 points to 81,544.39 as of 9:49 am. Broader indices mirrored the decline, with both mid- and small-cap indices slipping sharply."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/market/story/sensex-tumbles-600-points-why-is-the-stock-market-down-falling-today-2744774-2025-06-23",
+      "headline": "Sensex tumbles 700 points: Why is the stock market falling today?At around 9:19 am, the BSE Sensex was down 580 points, trading at 81,828.11, while the NSE Nifty50 fell over 175 points to 24,937.25. Broader market indices mirrored the slide, and volatility indicators jumped sharply, signalling a bumpy trading session ahead."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/market/story/stock-market-crash-sensex-tanks-500-points-nifty-below-25000-infosys-down-2-percent-it-stocks-fall-2744771-2025-06-23",
+      "headline": "Sensex, Nifty sink in early trade as US-Iran conflict rattles investorsThe S&P BSE Sensex was down by 791.58 points to 81,616.59, while the NSE Nifty lost 244.25 points to 24,868.15 as of 9:53 am."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/ipo/story/arisinfra-solutions-ipo-allotment-status-out-how-to-check-latest-gmp-listing-date-bse-link-intime-india-2744763-2025-06-23",
+      "headline": "Arisinfra Solutions IPO allotment out: Here's how to check status and latest GMPInvestors who took part in the public issue can check their allotment status online through the Bombay Stock Exchange (BSE) website or the official registrar for the IPO, Link Intime India Private Ltd."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/market/story/stock-market-opening-june-23-trading-setup-sensex-nifty-crash-today-us-attack-iran-nse-bse-trading-key-levels-2744747-2025-06-23",
+      "headline": "Stock market opening: Sensex, Nifty to crash today after US attack on Iran?The Gift Nifty futures, as of 8:10 am, were trading at 25,015, indicating a lower opening compared to the previous close of 25,112.4. Benchmark indices rose about 1.6% last week, driven by gains in financial stocks, which provided some cushion against the geopolitical tensions."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/market/story/stocks-to-watch-today-shares-in-news-june-23-nse-bse-trading-iran-israel-share-market-news-tcs-waree-hal-bel-makemytrip-2744743-2025-06-23",
+      "headline": "Stocks to watch on June 23: TCS, Waree Renewable, HAL, BEL, MakeMyTripReports suggest the United States may have bombed a nuclear facility in Iran, triggering fresh concerns over the conflict with Israel. These developments could impact market sentiment on Dalal Street at the start of the week."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/story/india-oil-imports-strait-of-hormuz-iran-israel-conflict-us-strikes-nuclear-sites-2744663-2025-06-22",
+      "headline": "Why India may not feel the heat if Iran closes Strait of HormuzIndia, which has traditionally sourced its oil from the Middle East and more recently from Russia, is unlikely to see a major impact on its energy reserves if Iran decides to shut down the vital oil corridor of the Strait of Hormuz."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/digital-news-publishers-body-seeks-copyright-protection-in-ai-training-practices-2744532-2025-06-22",
+      "headline": "Generative AI must pay for using copyright content, says DNPAThe Digital News Publishers Association said it \"firmly believes that utilising the content of digital news publishers, without consent, for AI training and subsequent generative AI applications, such as search assistance and information purposes, constitutes an infringement of copyright.\""
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/two-new-gst-levies-health-and-clean-energy-may-replace-compensation-cess-but-at-what-cost-2744140-2025-06-21",
+      "headline": "Two new GST levies may replace compensation cess, but at what cost?Health and Clean Energy levies may replace the Compensation Cess, but tax experts warn of rising compliance burdens and fresh coordination challenges."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/tesla-debut-india-showroom-mumbai-july-china-made-model-y-ev-suvs-report-2743896-2025-06-20",
+      "headline": "Tesla to open first showroom in Mumbai next month, sell China-made EVs: ReportTesla is set to open its first showroom in Mumbai next month and sell\u00a0Model Y rear-wheel-drive SUVs shipped from Tesla's China factory as the company seeks expansion in the\u00a0world's third-biggest automobile market, Bloomberg News reported."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/indias-growth-lies-in-its-heartland-adani-enterprises-pranav-adani-2743714-2025-06-20",
+      "headline": "India's growth lies in its heartland: Adani Enterprises Director Pranav AdaniThe remarks came as part of a broader statement of intent from the newly launched Chintan Research Foundation, which Adani said would focus on three critical areas: climate change, trade, and geopolitics."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/market/story/stock-market-closing-bell-sensex-ends-1046-points-higher-nifty-above-25100-airtel-jumps-3-percent-2743705-2025-06-20",
+      "headline": "Sensex ends 1,046 points higher, Nifty above 25,100; Bharti Airtel jumps 3%The S&P BSE Sensex jumped 1,046.30 points to end at\u00a082,408.17, while the NSE Nifty50 added 319.50 points to close at\u00a025,112.40.\u00a0"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/is-lifestyle-inflation-fuelling-debt-among-indias-middle-class-2743647-2025-06-20",
+      "headline": "Is lifestyle inflation fuelling debt among India's middle class?Lifestyle inflation is no longer a silent threat. It is reshaping how India's middle class earns, spends and saves. It fuels debt, shrinks buffers and puts long-term financial goals at risk."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/personal-finance/story/early-retirement-age-40-savings-needed-corpus-inflation-fire-trend-financial-independence-2743639-2025-06-20",
+      "headline": "Planning to retire at 40? Here's what it really takesThe idea of retiring at 40 sounds almost rebellious. Stop working just when most people are hitting their career peak, and live the rest of your life on your own terms. No bosses, no Monday blues, no waiting for the weekend. But can you do it? "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/personal-finance/story/financial-clarity-money-management-wealth-mindset-abhishek-walia-2743570-2025-06-20",
+      "headline": "CA explains how Rs 80,000 per month income can beat Rs 2 lakhThe CA's insights suggest that intentional financial management is key to wealth building. A clear financial purpose can transform how resources are allocated, leading to sustainable growth."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/market/story/rbi-eases-infrastructure-financing-norms-sensex-nifty-rise-2743540-2025-06-20",
+      "headline": "Sensex jumps over 1,100 points: Why is the stock market rising today?The primary catalyst for this rally was the RBI's announcement concerning infrastructure financing. The central bank has implemented new norms that relax provisioning requirements for under-construction infrastructure projects."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/market/story/power-finance-corporation-share-price-rise-jumps-6-percent-today-reason-why-rbi-update-project-finance-2743503-2025-06-20",
+      "headline": "Power Finance Corporation share price jumps 6% today. Here's whyWhile PFC has faced some pressure in recent months, with its stock falling 9.14% in the last six months and 14.44% over the past year, Friday's gain marks a strong rebound following the regulatory update."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/market/story/stock-market-opening-bell-sensex-opens-228-points-higher-nifty-above-24800-nestle-gains-1-percent-2743481-2025-06-20",
+      "headline": "Sensex opens 228 points higher, Nifty above 24,800; Nestle gains 1%The S&P BSE Sensex was up 160.43 points to 81,522.30, while the NSE Nifty50 gained 36.45 points to 24,829.70 as of 9:23 am."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/market/story/sensex-nifty-open-lower-geopolitical-tensions-market-volatility-2743468-2025-06-20",
+      "headline": "Sensex, Nifty opening: Will stock market open higher? Check key levelsAs of 8:00 am, Gift Nifty futures were trading at 24,800. This suggests that the Nifty50 may open near its previous closing level of 24,793.25."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/market/story/stocks-to-watch-today-shares-in-news-june-20-oswal-pumps-biocon-united-spirits-sai-life-sciences-nestle-india-2743464-2025-06-20",
+      "headline": "Stocks to watch today: Oswal Pumps, Biocon, United Spirits, Sai Life SciencesShares of Nestle India could be in focus after the company announced that its Board of Directors will meet on June 26. They will consider a proposal to issue bonus shares."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/indian-funds-swiss-banks-triple-banking-routes-see-sharpest-surge-2743425-2025-06-20",
+      "headline": "Indian funds in Swiss banks triple, banking routes see sharpest surgeIndian funds in Swiss banks surged over threefold to CHF 3.5 billion (Rs 37,600 crore) in 2024, mainly due to a massive rise in holdings through financial institutions and banking channels. However, customer deposits rose by just 11%, making up only one-tenth of the total funds, which remain under tax scrutiny despite regular data sharing with Indian authorities."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/hardeep-singh-puri-oil-prices-israel-iran-conflict-situation-under-control-interview-2743301-2025-06-19",
+      "headline": "Oil prices stable, situation not alarming: Union Minister amid Middle East tensionsUnion Petroleum Minister Hardeep Singh Puri allayed concerns about a spike in oil prices amid the Israel-Iran conflict, saying the situation was manageable and energy rates were under control."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/exclusive-crushology-101-cast-roh-jeong-eui-lee-chae-min-call-india-warm-hearted-and-beautiful-2745307-2025-06-24",
+      "headline": "Exclusive: Crushology 101 cast thinks India is warm hearted and beautifulCrushology 101 is a heartfelt university romance drama now streaming on Channel K in India, capturing the essence of youthful emotions and campus chaos. The cast Roh Jeong-eui, Lee Chae-min and Cho Jun-young spoke to India Today about the drama and described India the best way they could. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/tom-cruise-brad-pitt-bromance-light-up-f1-london-premiere-pics-2745293-2025-06-24",
+      "headline": "Tom Cruise and Brad Pitt's bromance light up F1 London premiere. PicsActor Tom Cruise recently reunited with his 'Interview with the Vampire' (1994) co-star Brad Pitt in London. Cruise and Pitt hugged at the London premiere of the latter's upcoming film, 'F1'.\r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/aamir-khan-breaks-silence-on-what-went-wrong-with-dhoom-3-aditya-chopra-2745303-2025-06-24",
+      "headline": "Aamir Khan breaks silence on what went wrong with Dhoom 3Aamir Khan recently shared his views on what went wrong with 'Dhoom 3'. The actor explained what could have been done to the script to make it more relatable to fans. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/sitaare-zameen-par-box-office-collection-day-4-detailed-report-aamir-khan-film-smashes-taare-zameen-par-laal-singh-eyes-ghajini-2745301-2025-06-24",
+      "headline": "Sitaare Zameen Par box office Day 4: Aamir's film past TZP, Laal Singh, eyes Ghajini'Sitaare Zameen Par' has already surpassed its predecessor, 'Taare Zameen Par', in just four days at the box office. The film is now eyeing the benchmark of Rs 100 crore to beat 'Ghajini' next. "
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/nick-jonas-lucky-have-priyanka-chopra-actor-sweet-comment-wins-hearts-broadway-show-party-the-last-five-years-2745284-2025-06-24",
@@ -90,7 +250,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/panchayat-season-4-review-election-drama-underwhelms-scattered-plots-faded-charm-2745111-2025-06-24",
-      "headline": "Panchayat Season 4 review: Election drama overshadows emotional warmthReleased-Tue Jun 24, 2025Panchayat season 4 review: The TVF series returns with a focus on village elections but lacks the emotional depth of earlier seasons. Fans may find the scattered plots and unconvincing arcs disappointing despite strong performances from some characters."
+      "headline": "Panchayat Season 4 review: Election drama overshadows emotional warmthReleased-Tue Jun 24, 2025Panchayat season 4 review: The TVF series returns with a focus on village elections but lacks the emotional depth of earlier seasons. Fans may find the plot scattered and unconvincing arcs despite strong performances from some actors."
     },
     {
       "sentiment": "positive",
@@ -136,38 +296,18 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/amitabh-bachchan-reacts-to-cybercrime-caller-tune-complaints-ask-government-not-me-2745046-2025-06-23",
       "headline": "Ask government, not me: Amitabh Bachchan reacts to cybercrime caller tune complaintsActor Amitabh Bachchan responded to online trolls for mocking his cyber-crime awareness caller tune. He replied to some of the comments on X, where his awareness campaign over digital fraud was targeted."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/music/story/beyonce-dazzles-black-manish-malhotra-outfit-during-paris-concert-watch-viral-video-2745092-2025-06-23",
-      "headline": "Beyonce dazzles in black Manish Malhotra outfit during concert in Paris. WatchGlobal pop star Beyonce stunned the stage in a custom Manish Malhotra outfit at her Paris Cowboy Carter tour. The singer dazzled with thousands of crystals embroidered on her outfit. \r\n"
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/entertainment/music/story/bts-suga-donates-5-billion-won-autism-project-military-discharge-2745063-2025-06-23",
-      "headline": "BTS SUGA donates 5 billion won to autism project after military dischargeK-pop band BTS member SUGA, also known as Min Yoongi, pledged five billion Korean won to build a new centre focused on treating children and teenagers with autism spectrum disorders. \r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/varun-dhawan-leads-indian-army-cadets-50-push-ups-challenge-border-2-2744949-2025-06-23",
-      "headline": "Varun Dhawan joins Indian Army cadets for 50 push-ups challenge on Border 2 setsActor Varun Dhawan joined army cadets for a 50 push-ups challenge during the 'Border 2' shoot at National Defence Academy (NDA), Pune. He features in the upcoming action-drama, which is a sequel to Sunny Deol's 1997 war film 'Border'."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/kajol-silent-treatment-teenagers-proud-parenting-independent-thinking-2745027-2025-06-23",
-      "headline": "Kajol on challenges of parenting teens: No one prepares you for silent treatmentKajol opens up about the silent treatment she faces as a mother of teenagers. She expresses pride in her kids' independent thinking despite communication challenges."
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/iran-israel-conflict-live-updates-donald-trump-benjamin-netanyahu-nuclear-sites-air-strikes-in-tehran-tel-aviv-2744689-2025-06-23",
-      "headline": "Israel-Iran Live: Iran says ceasefire in effect after launching strikes on IsraelIsrael has claimed that Iran has launched continuous missile attacks despite US President Donald Trump announcing that the two countries had reached a ceasefire agreement early on Tuesday. Trump's announced that after nearly two weeks of military hostilities, Israel and Iran reached an agreement to stop an exchange of fire after what should be called a \"12-day war \". \r\n\r\nHowever, Iran rejected Trump's claim, saying that no such agreement had been reached, saying Tehran will only stop fire if Israel first does so. Later, Iran's Foreign Minister Seyed Abbas Araghchi hinted at a ceasefire as he thanked his armed forces for \"punishing Israel till the very last minute\" till 4 am on Tuesday. Follow IndiaToday.in for latest updates."
+      "url": "https://www.indiatoday.in/world/story/how-donald-trump-brokered-israel-iran-ceasefire-agreement-nuclear-program-2745306-2025-06-24",
+      "headline": "Get me Bibi, we are going to make peace: How Trump brokered Israel-Iran truceIsrael-Iran ceasefire: The eccentric US President took it upon himself to convince Netanyahu to agree to a ceasefire as the conflict was showing signs of engulfing the whole Middle East region.\u00a0"
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/israel-and-iran-have-agreed-to-a-total-ceasefire-says-donald-trump-glbs-2745228-2025-06-24",
-      "headline": "Trump claims total Israel-Iran ceasefire, Tehran denies, then hints at truceTrump claimed that the ceasefire would begin approximately six hours after the announcement, starting at 9:30 am (Indian time), once both Iran and Israel complete their 'final missions.' However, he did not elaborate on what those 'final missions' entailed. "
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/iran-israel-conflict-live-updates-donald-trump-benjamin-netanyahu-nuclear-sites-air-strikes-in-tehran-tel-aviv-2744689-2025-06-23",
+      "headline": "Live: Iran says ceasefire in effect after launching strikes on IsraelIsrael has claimed that Iran has launched continuous missile attacks despite US President Donald Trump announcing that the two countries had reached a ceasefire agreement early on Tuesday. Trump's announced that after nearly two weeks of military hostilities, Israel and Iran reached an agreement to stop an exchange of fire after what should be called a \"12-day war \". \r\n\r\nHowever, Iran rejected Trump's claim, saying that no such agreement had been reached, saying Tehran will only stop fire if Israel first does so. Later, Iran's Foreign Minister Seyed Abbas Araghchi hinted at a ceasefire as he thanked his armed forces for \"punishing Israel till the very last minute\" till 4 am on Tuesday. Follow IndiaToday.in for latest updates."
     },
     {
       "sentiment": "negative",
@@ -176,18 +316,43 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/england-vs-india-kl-rahul-hundred-redemption-test-opener-leeds-2745299-2025-06-24",
+      "headline": "KL Rahul takes the lead: A Headingley statement years in the makingYears of silence, shifting roles, and unanswered questions found their reckoning at Headingley. KL Rahul, India's quiet constant, didn't just score a century - he reaffirmed himself as the pillar of a Test team rediscovering its rhythm."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/panchayat-season-4-review-election-drama-underwhelms-scattered-plots-faded-charm-2745111-2025-06-24",
+      "headline": "Panchayat Season 4 review: Election drama overshadows emotional warmthReleased-Tue Jun 24, 2025'Panchayat Season 4' review: The TVF series returns with a focus on village elections but lacks the emotional depth of earlier seasons. Fans may find the plot scattered and unconvincing arcs despite strong performances from some actors."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/israel-and-iran-have-agreed-to-a-total-ceasefire-says-donald-trump-glbs-2745228-2025-06-24",
+      "headline": "Iran says ceasefire on after strikes on Israel, Trump calls it end of '12-day war'Iranian state-run media announced that the ceasefire had begun following 'four waves of Iranian attacks on Israeli-occupied territories'. Trump then took to his Truth Social platform, requesting both sides not to violate the ceasefire."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/kerala/story/congress-clinches-nilambur-in-high-stakes-by-election-left-front-faces-setback-2745297-2025-06-24",
+      "headline": "Congress's win in high-stakes Kerala bypoll warning for Pinarayi Vijayan?The Congress-led UDF's win in Nilambur by-election delivers a strong message ahead of Kerala's 2026 Assembly polls, exposing cracks within the ruling LDF and reaffirming growing anti-incumbency against the Pinarayi Vijayan government. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/diljit-dosanjh-sardaar-ji-3-makers-banned-sever-ties-pakistani-actor-hania-aamir-casting-row-2745253-2025-06-24",
+      "headline": "Sever ties with Diljit, Sardaar Ji 3 makers: Film body over Pak actor casting rowThe Federation of Western Indian Cine Employees (FWICE) issued a directive against Diljit Dosanjh and the makers of 'Sardaar Ji 3' for hiring Pakistani actor Hania Aamir. Calling it an anti-national act, the film body demanded an industry blacklist and cancellation of their passport."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/eng-vs-ind-1st-test-rishabh-pant-kl-rahul-headingley-leeds-2745217-2025-06-24",
       "headline": "A Song of Ice and Fire: Pant's bravado meets Rahul's composure in LeedsIndia batters Rishabh Pant and KL Rahul stitched together a marvellous partnership on Day 4 of the first Test against England at Headingley, Leeds. The duo recreated a 'song of Ice and Fire' at the crease, complementing each other beautifully as they navigated different phases of the innings with their contrasting styles."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/panchayat-season-4-review-election-drama-underwhelms-scattered-plots-faded-charm-2745111-2025-06-24",
-      "headline": "Panchayat Season 4 review: Election drama overshadows emotional warmthReleased-Tue Jun 24, 2025Panchayat season 4 review: The TVF series returns with a focus on village elections but lacks the emotional depth of earlier seasons. Fans may find the scattered plots and unconvincing arcs disappointing despite strong performances from some characters."
+      "url": "https://www.indiatoday.in/india/story/nsa-ajit-doval-meets-china-foreign-minister-wang-yi-beijing-sco-meeting-counter-terrorism-pakistan-operation-sindoor-galwan-diplomatic-relations-2745305-2025-06-24",
+      "headline": "NSA Ajit Doval meets Chinese Foreign Minister, calls for countering terrorismIndia's National Security Advisor, Ajit Doval, met\u00a0Chinese Foreign Minister Wang Yi in Beijing on Monday, and stressed the need for countering terrorism to maintain regional peace and stability, in what appeared to be an indirect message to China to pressurise Pakistan."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/news-menu-june-24-diljit-dosanjhs-sardaar-ji-3-row-monsoons-arrival-in-delhi-2745263-2025-06-24",
-      "headline": "News Menu, June 24: Diljit Dosanjh's Sardaar Ji 3 row; monsoon's arrival in DelhiIn today's News Menu: Israel-Iran agrees to ceasefire, claims Donald Trump; row over Diljit Dosanjh's Sardaar Ji 3 deepens, and monsoon likely to enter Delhi."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/sitaare-zameen-par-box-office-collection-day-4-detailed-report-aamir-khan-film-smashes-taare-zameen-par-laal-singh-eyes-ghajini-2745301-2025-06-24",
+      "headline": "Sitaare Zameen Par box office Day 4: Aamir's film past TZP, Laal Singh, eyes Ghajini'Sitaare Zameen Par' has already surpassed its predecessor, 'Taare Zameen Par', in just four days at the box office. The film is now eyeing the benchmark of Rs 100 crore to beat 'Ghajini' next. "
     },
     {
       "sentiment": "negative",
@@ -196,13 +361,8 @@
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/pakistan-will-go-to-war-bilawal-bhutto-threatens-india-over-indus-waters-treaty-fatf-2745132-2025-06-23",
-      "headline": "Share water fairly or...: Bilawal Bhutto threatens India over Indus Waters TreatyBilawal Bhutto warned of war if India denies Pakistan its water share under the Indus Waters Treaty, calling the suspension illegal. He also accused India of using terrorism and FATF pressure for political gains, while stressing the need for dialogue.\r\n\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/diljit-dosanjh-sardaar-ji-3-makers-banned-sever-ties-pakistani-actor-hania-aamir-casting-row-2745253-2025-06-24",
-      "headline": "Sever ties with Diljit, Sardaar Ji 3 makers: Film body over Pak actor casting rowThe Federation of Western Indian Cine Employees (FWICE) issued a directive against Diljit Dosanjh and the makers of 'Sardaar Ji 3' for hiring Pakistani actor Hania Aamir. Calling it an anti-national act, the film body demanded an industry blacklist and cancellation of their passport."
+      "url": "https://www.indiatoday.in/trending-news/story/doha-mall-viral-video-iran-targets-us-base-in-qatar-clip-shows-shoppers-fleeing-2745300-2025-06-24",
+      "headline": "Panic grips Doha mall as Iran targets US base in Qatar. Video shows shoppers fleeingA missile strike by Iran on a US base in Qatar triggered chaos in Doha. A now-viral video shows shoppers fleeing a mall in panic. "
     },
     {
       "sentiment": "negative",
@@ -211,38 +371,13 @@
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/market/story/stock-market-opening-bell-rally-sensex-jumps-800-points-nifty-goes-past-25200-adani-ports-up-4-percent-2745277-2025-06-24",
-      "headline": "Sensex jumps 800 points. Nifty goes past 25,200; Adani Ports up 4%The S&P BSE Sensex was up 576.42 points to\u00a082,473.21, while the NSE Nifty50 gained 194.05 points to\u00a025,165.95 as of 9:35 am.\u00a0"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/gujarat-punjab-bypoll-aam-aadmi-party-aap-return-of-arvind-kejriwal-rajya-sabha-seat-2744994-2025-06-23",
-      "headline": "Will Kejriwal make a big-bang return through Rajya Sabha?After months in political hibernation following the AAP's Delhi drubbing, its national convenor, Arvind Kejriwal, seems poised for a mega-comeback after the bypoll victories in Punjab and Gujarat. AAP leaders have declared his return to national politics, but Kejriwal quashed the buzz that he would make a Rajya Sabha entry."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/ranthambore-tigress-arrowhead-dies-cancer-t84-rajbagh-queen-2745161-2025-06-23",
-      "headline": "Farewell Arrowhead: The queen of Rajbagh leaves behind a roaring legacyArrowhead, the iconic Ranthambore tigress T-84, passed away on June 19 after battling cancer, marking the end of a majestic legacy. Known for her fierce spirit and lineage, she was one of the most photographed tigers in the reserve."
+      "url": "https://www.indiatoday.in/world/story/pakistan-will-go-to-war-bilawal-bhutto-threatens-india-over-indus-waters-treaty-fatf-2745132-2025-06-23",
+      "headline": "Share water fairly or...: Bilawal Bhutto threatens India over Indus Waters TreatyBilawal Bhutto warned of war if India denies Pakistan its water share under the Indus Waters Treaty, calling the suspension illegal. He also accused India of using terrorism and FATF pressure for political gains, while stressing the need for dialogue.\r\n\r\n"
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/trump-calls-irans-attack-on-us-bases-weak-says-13-of-14-missiles-shot-down-glbs-2745223-2025-06-24",
-      "headline": "Trump calls Iran's attack on US bases very weak, 13 of 14 missiles knocked downPresident Trump confirmed that no American or Qatari personnel were injured in Iran's missile attack on the Al Udeid Air Base in Qatar. Calling Iran's response weak, he said 13 of 14 missiles were intercepted. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/eng-vs-ind-leeds-test-kl-rahul-reaction-josh-tongue-bazball-remark-day-5-2745252-2025-06-24",
-      "headline": "KL Rahul promises blockbuster finish after England's bold Day 5 predictionIndia opener KL Rahul is confident his team can claim all ten wickets needed on Day 5. England pacer Josh Tongue has declared the hosts will go for a win chasing 371 runs, setting up a thrilling final day."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/uttar-pradesh/story/show-cause-notice-bjp-mla-rajeev-singh-parichha-vande-bharat-passenger-assault-video-viral-2745127-2025-06-23",
-      "headline": "Show cause notice to BJP MLA after Vande Bharat assault video goes viralThe now viral video shows Babina MLA Rajeev Singh Parichha standing to the side while a group of men, allegedly his supporters, thrash a passenger, leaving him visibly injured and bleeding."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/newsmo/video/why-the-b-2-and-gbu-57-combo-is-the-most-terrifying-thing-in-the-sky-words-of-war-2745182-2025-06-23",
-      "headline": "Why B-2 and GBU-57 combo is most terrifyingTogether, the B-2 Spirit stealth bomber and the GBU-57 Massive Ordnance Penetrator make the most devastating combo in modern warfare."
+      "url": "https://www.indiatoday.in/india/story/news-menu-june-24-diljit-dosanjhs-sardaar-ji-3-row-monsoons-arrival-in-delhi-2745263-2025-06-24",
+      "headline": "News Menu, June 24: Diljit Dosanjh's Sardaar Ji 3 row; monsoon's arrival in DelhiIn today's News Menu: Israel-Iran agrees to ceasefire, claims Donald Trump; row over Diljit Dosanjh's Sardaar Ji 3 deepens, and monsoon likely to enter Delhi."
     },
     {
       "sentiment": "positive",
@@ -251,13 +386,23 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india-today-insight/story/india-is-the-worlds-biggest-plastic-polluter-what-it-means-for-our-health-2745049-2025-06-23",
-      "headline": "India is the world's biggest plastic polluter: What it means for our healthHow to tackle plastic trash as its mismanagement makes the country the world's worst offender in plastic emissions"
+      "url": "https://www.indiatoday.in/india/story/ranthambore-tigress-arrowhead-dies-cancer-t84-rajbagh-queen-2745161-2025-06-23",
+      "headline": "Farewell Arrowhead: The queen of Rajbagh leaves behind a roaring legacyArrowhead, the iconic Ranthambore tigress T-84, passed away on June 19 after battling cancer, marking the end of a majestic legacy. Known for her fierce spirit and lineage, she was one of the most photographed tigers in the reserve."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/uttar-pradesh/story/show-cause-notice-bjp-mla-rajeev-singh-parichha-vande-bharat-passenger-assault-video-viral-2745127-2025-06-23",
+      "headline": "Show cause notice to BJP MLA after Vande Bharat assault video goes viralThe now viral video shows Babina MLA Rajeev Singh Parichha standing to the side while a group of men, allegedly his supporters, thrash a passenger, leaving him visibly injured and bleeding."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/andhra-pradeshs-dangeti-jahnavi-to-travel-to-space-in-2029-becomes-first-indian-to-complete-nasas-international-air-and-space-program-2745117-2025-06-23",
-      "headline": "Andhra woman becomes first Indian to complete Nasa program, to go to space in 2029Dangeti Jahnavi from Andhra Pradesh, will travel to space in 2029. She is the first Indian to complete Nasa's International Air and Space Program. Jahnavi is a STEM advocate and asteroid discoverer."
+      "url": "https://www.indiatoday.in/india/story/gujarat-punjab-bypoll-aam-aadmi-party-aap-return-of-arvind-kejriwal-rajya-sabha-seat-2744994-2025-06-23",
+      "headline": "Will Kejriwal make a big-bang return through Rajya Sabha?After months in political hibernation following the AAP's Delhi drubbing, its national convenor, Arvind Kejriwal, seems poised for a mega-comeback after the bypoll victories in Punjab and Gujarat. AAP leaders have declared his return to national politics, but Kejriwal quashed the buzz that he would make a Rajya Sabha entry."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/newsmo/video/why-the-b-2-and-gbu-57-combo-is-the-most-terrifying-thing-in-the-sky-words-of-war-2745182-2025-06-23",
+      "headline": "Why B-2 and GBU-57 combo is most terrifyingTogether, the B-2 Spirit stealth bomber and the GBU-57 Massive Ordnance Penetrator make the most devastating combo in modern warfare."
     },
     {
       "sentiment": "positive",
@@ -265,22 +410,17 @@
       "headline": "B-2 stealth bombers used to attack Iran have beds, toilets, microwavesOn a 37-hour mission from Missouri in the US to strike Iranian nuclear sites, six B-2 bombers refuelled multiple times midair. The B-2 stealth bombers, meant for long-distance missions, come with rare comforts: a microwave, mini-fridge, toilet, and space to rest."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/us-judge-halts-trumps-bid-to-close-harvards-doors-to-international-students-glbs-2745242-2025-06-24",
-      "headline": "US judge halts Trump's bid to close Harvard's doors to international studentsA federal judge has blocked the Trump administration's attempt to bar international students from attending Harvard, calling it a threat to core constitutional rights. The ruling protects nearly 6,800 foreign students as Harvard fights what it says is political retaliation by the White House."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/former-india-spinner-dilip-doshi-dies-at-the-age-of-77-2745216-2025-06-24",
-      "headline": "Former India spinner Dilip Doshi dies at the age of 77Former India spinner Dilip Doshi has passed away at the age of 77 on Monday, June 23 in London. Doshi played 33 Tests and 15 ODIs for India and was a stalwart in the domestic circuit. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/us-embassy-india-asks-visa-applicants-make-social-media-accounts-public-vetting-trump-indian-studetns-2745065-2025-06-23",
-      "headline": "Make social media accounts public for US visa: Embassy to IndiansThe US Embassy in New Delhi has directed all applicants for F, M, and J non-immigrant visas to make their social media accounts public to enable their thorough background checks. The directive follows the resumption of student visa processing after the Donald Trump administration temporarily halted it last month."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/market/story/stock-market-opening-bell-rally-sensex-jumps-800-points-nifty-goes-past-25200-adani-ports-up-4-percent-2745277-2025-06-24",
+      "headline": "Sensex jumps 800 points. Nifty goes past 25,200; Adani Ports up 4%The S&P BSE Sensex was up 576.42 points to\u00a082,473.21, while the NSE Nifty50 gained 194.05 points to\u00a025,165.95 as of 9:35 am.\u00a0"
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/england-vs-india-kl-rahul-hundred-redemption-test-opener-leeds-2745299-2025-06-24",
+      "headline": "KL Rahul takes the lead: A Headingley statement years in the makingYears of silence, shifting roles, and unanswered questions found their reckoning at Headingley. KL Rahul, India's quiet constant, didn't just score a century - he reaffirmed himself as the pillar of a Test team rediscovering its rhythm."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/england-vs-india-day-5-test-match-stuart-broad-jasprit-bumrah-2745285-2025-06-24",
@@ -333,8 +473,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/javelin-ostrava-golden-spike-neeraj-chopra-tokyo-world-championship-2745185-2025-06-23",
-      "headline": "Neeraj Chopra reveals main goal of 2025 season before Ostrava Golden SpikeNeeraj Chopra said that his main goal of the 2025 season will be the World Championships in Tokyo. Neeraj is all set to take part in the Ostrava Golden Spike meet on Tuesday, June 24. "
+      "url": "https://www.indiatoday.in/sports/cricket/story/eng-vs-ind-kl-rahul-press-conference-leeds-test-day-4-2745239-2025-06-24",
+      "headline": "KL Rahul savours hundred as Test opener vs England: Had forgotten my positionENG vs IND: KL Rahul said he was happy to return to opening for India in Tests after floating around the batting order over the past few years. His hundred helped India set a 371-run target for England in the Leeds Test."
     },
     {
       "sentiment": "positive",
@@ -398,8 +538,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-was-reluctant-to-become-test-captain-after-virat-kohli-sourav-ganguly-2745080-2025-06-23",
-      "headline": "Rohit Sharma was reluctant to become Test captain after Virat Kohli: Sourav GangulyFormer India captain and BCCI President Sourav Ganguly has revealed that Rohit Sharma was reluctant to become the Test captain after Virat Kohli and had to be convinced by the board. "
+      "url": "https://www.indiatoday.in/sports/cricket/story/eng-vs-ind-rishabh-pant-becomes-2nd-wicketkeeper-to-score-twin-centuries-in-a-test-2745134-2025-06-23",
+      "headline": "Rishabh Pant becomes 2nd wicketkeeper to score twin centuries in a TestIndia's Rishabh Pant etched his name in the record books as he became just the second wicketkeeper to score twin centuries in a Test match during Day 4 of the first Test against England in Leeds."
     },
     {
       "sentiment": "positive",
@@ -470,11 +610,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/eng-vs-ind-jasprit-bumrah-kohinoor-dinesh-karthik-5-wicket-haul-leeds-2744791-2025-06-23",
       "headline": "Bumrah as valuable as Kohinoor: Karthik praises pacer after Leeds heroicsFormer India cricketer Dinesh Karthik couldn't hide his admiration for Jasprit Bumrah, describing him as, valuable as the Kohinoor diamond\" while pointing out that the Indian pacer holds the best bowling average (19.33) among all 86 bowlers in Test history with 200 or more wickets.\""
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-england-jasprit-bumrah-injury-update-2744772-2025-06-23",
-      "headline": "Aided by cold England weather, Bumrah hints at playing more than 3 TestsEngland vs India: Jasprit Bumrah has indicated he might play more than 3 Tests in England as he feels fresh in cold conditions. His availability will be invaluable in overseas conditions. "
     }
   ],
   "education": [
