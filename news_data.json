@@ -63,6 +63,16 @@
   ],
   "entertainment": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/actor-joe-marinelli-known-for-general-hospital-dies-of-stomach-cancer-at-68-2746132-2025-06-25",
+      "headline": "Actor Joe Marinelli, known for General Hospital, dies of stomach cancer at 68Popular soap actor Joe Marinelli, best known for 'General Hospital' and 'Santa Barbara', has died at 68. He was diagnosed with throat and stomach cancer a few years ago. \r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/k-drama-actor-choi-yoon-ra-announces-pregnancy-flaunts-baby-bump-in-new-pics-2746091-2025-06-25",
+      "headline": "K-drama actor Choi Yoon-ra announces pregnancy, flaunts baby bump in new picsKorean actor Choi Yoon-ra recently shared heartwarming pregnancy pictures on social media. She also revealed that she is expecting a baby girl."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/lakshmi-manchu-art-and-politics-should-be-kept-separate-amid-sardaar-ji-3-row-2746088-2025-06-25",
       "headline": "Lakshmi Manchu says art and politics should be kept separate amid Sardaar Ji 3 rowActor Lakshmi Manchu recently shared her views on the ban on Pakistani actors. She stated that art and politics should not be mixed. "
@@ -146,83 +156,33 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/vishnu-manchu-visits-sri-sailam-temple-ahead-of-kannappa-release-2745933-2025-06-25",
       "headline": "Vishnu Manchu visits Sri Sailam temple ahead of Kannappa release, says heart is fullActor Vishnu Manchu recently visited the Sri Sailam Mallikarjuna Swamy Temple to seek blessings ahead of 'Kannappa' release. The film is scheduled to hit theatres on June 27. \r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/diljit-dosanjh-rejects-bollywood-says-he-lives-for-music-dont-need-superstar-approval-2745914-2025-06-25",
-      "headline": "Diljit's old video rejecting Bollywood goes viral: Don't need superstar's approvalIn a video from his old interview which is now going viral, Diljit Dosanjh expressed his disinterest in working in the Hindi film industry, citing his deep love for music. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/aamir-khan-emotional-letter-fan-thanking-him-for-sitaare-zameen-par-2745922-2025-06-25",
-      "headline": "Aamir Khan gets emotional fan letter: My brother kept staring at screen with tearsAamir Khan received an emotional letter from a fan who shared his story of watching the film 'Sitaare Zameen Par' in theatres with his family. The fans also thanked the makers for choosing such a sensitive subject and bringing it into mainstream cinema. "
     }
   ],
   "general news": [
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/iran-admits-us-strikes-badly-damaged-n-sites-days-after-saying-no-contamination-2746110-2025-06-25",
+      "headline": "Iran admits US strikes badly damaged N-sites days after saying no contaminationIran admitted its nuclear sites were \"badly damaged\" following the US's strikes on them and demanded Washington pay compensation or else it would file a complaint with the UN."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/science/story/shubhanshu-shukla-launches-into-space-india-on-space-station-sortie-2745861-2025-06-25",
       "headline": "Shubhanshu Shukla launches into space, feat by second Indian after 41 yearsBorn in 1985, a year after first Indian astronaut Rakesh Sharma's historic flight, Shubhanshu Shukla grew up not just under the stars \u2014 but aiming for them."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/iran-admits-us-strikes-badly-damaged-n-sites-days-after-saying-no-contamination-2746110-2025-06-25",
-      "headline": "Iran admits US strikes badly damaged N-sites days after saying no contaminationDays after saying there were no signs of radioactive contamination following the US's strikes on its nuclear installations, Tehran has now admitted that its nuclear sites were \"badly damaged\"."
-    },
-    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/shashi-tharoor-cryptic-post-rift-congress-row-praise-pm-modi-2746035-2025-06-25",
-      "headline": "Shashi Tharoor posts cryptic message minutes after taunt from Congress chiefCongress MP Shashi Tharoor shared a cryptic message amid differences with the Congress, minutes after Mallikarjun Kharge took a swipe at him for his repeated praise for Prime Minister Narendra Modi."
+      "headline": "Shashi Tharoor posts cryptic message minutes after Congress chief's tauntCongress MP Shashi Tharoor shared a cryptic message amid differences with the Congress, minutes after Mallikarjun Kharge took a swipe at him for his repeated praise for Prime Minister Narendra Modi."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/donald-trump-nato-summit-israel-iran-war-ceasefire-us-bombing-nuclear-sites-2746061-2025-06-25",
-      "headline": "Israel-Iran like kids, had to use strong language: Trump on dropping F-bombDonald Trump dropped the F-bomb on live TV while expressing frustration as Israel and Iran exchanged missiles despite a ceasefire being declared."
+      "headline": "Daddy has to use strong language: Nato chief's banter with Trump over F-bombDonald Trump dropped the F-bomb on live TV while expressing frustration as Israel and Iran exchanged missiles despite a ceasefire being declared."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/opinion/story/benjamin-netanyahu-khamenei-and-donald-trump-battle-for-top-honours-2746087-2025-06-25",
-      "headline": "Who won the 12-day Israel-Iran War?Netanyahu, Khamenei and Donald Trump battle for top honours"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/how-indira-gandhi-used-constitution-to-suspend-constitution-explained-50-years-of-emergency-1975-2746034-2025-06-25",
-      "headline": "How Indira Gandhi used Constitution to suspend ConstitutionFormer PM Indira Gandhi, who imposed an Emergency that suspended civil liberties, crushed dissent, and jailed lakhs of critics, was enabled by exploiting constitutional provisions like Articles 352, 356, and 359. Backed by controversial court rulings and draconian laws like MISA, Indian laws and constitutional provisions became the very tool Indira used to silence democracy 50 years ago."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/shiromani-akali-dal-bikram-majithia-arrested-after-raids-at-his-amritsar-house-2745972-2025-06-25",
-      "headline": "Akali Dal's Bikram Majithia laundered over Rs 540 crore drug money, finds SITMajithia and his wife claimed that members of the Vigilance Bureau barged into their house in Green Avenue in Amritsar. They claimed that a similar raid was conducted at their residence in Chandigarh."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/us-president-donald-trump-us-strikes-iran-to-1945-hiroshima-nagasaki-bombings-to-end-world-war-2-2746120-2025-06-25",
-      "headline": "US bombing of Iran's N-sites like Hiroshima, ended war with Israel: TrumpTrump's comments followed reports revealing that the US Defense Intelligence Agency had assessed that the strikes had set back Iran's nuclear program by just a few months, despite him and administration officials saying it had been obliterated."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/from-launch-to-docking-shubhanshu-shuklas-ax-4-flight-explained-in-graphics-2738050-2025-06-25",
-      "headline": "Shubhanshu Shukla in space: We show you what happens nextIndia's Shubhanshu Shukla, who is the mission pilot, is joined by Commander Peggy Whitson and Mission Specialists S\u0142awosz Uznanski-Wisniewski, and Tibor Kapu. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/impact-feature/story/meril-launches-myclip-indias-first-transcatheter-edge-to-edge-repair-teer-system-for-treatment-of-severe-mitral-regurgitation-2745354-2025-06-24",
-      "headline": "Meril Launches MyClip, India's First Transcatheter-Edge-to-Edge Repair (TEER) SystemThe launch of MyClip TEER System marks a transformative moment for structural heart therapy in India."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/shubhanshu-shukla-first-words-after-launch-to-space-kamaal-ki-ride-2745885-2025-06-25",
-      "headline": "What a ride: Watch Shubhanshu Shukla's message to India en route to spaceAxiom-4 mission: Group Captain Shubhanshu Shukla, the second Indian in space, will spend 14 days aboard the International Space Station, conducting experiments on India's behalf."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/israel-iran-war-tehran-thanks-indian-people-leaders-for-support-during-two-week-war-2746084-2025-06-25",
-      "headline": "Grateful to freedom-loving people: Iran thanks India for support during warThe Iranian Embassy in New Delhi thanked the political leadership, common citizens, and activists among others, who, it said, stood firmly and vocally with Tehran during the \"12-day war\", as US President Donald Trump called it."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/why-british-f35b-stranded-kerala-thiruvananthapuram-airport-hydraulic-failure-10-days-olx-fake-fighter-jet-sale-2745548-2025-06-25",
-      "headline": "Why UK's lethal F-35 jet, worth $110 million, is stranded in Kerala for 10 daysSince June 14, a $110-million British F-35B stealth jet has remained grounded at Kerala's Thiruvananthapuram airport after an emergency landing. Ten days on, with failed repair attempts, the jet remains in the monsoon-drenched tarmac. What will it take to get the F-35 to get it airborne?"
+      "headline": "Who won the 12-day Israel-Iran war?Netanyahu, Khamenei and Donald Trump battle for top honours"
     },
     {
       "sentiment": "negative",
@@ -231,8 +191,48 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/israel-iran-war-tehran-thanks-indian-people-leaders-for-support-during-two-week-war-2746084-2025-06-25",
+      "headline": "Grateful to freedom-loving people: Iran thanks India for support during warThe Iranian Embassy in New Delhi thanked the political leadership, common citizens, and activists among others, who, it said, stood firmly and vocally with Tehran during the \"12-day war\", as US President Donald Trump called it."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/shiromani-akali-dal-bikram-majithia-arrested-after-raids-at-his-amritsar-house-2745972-2025-06-25",
+      "headline": "Akali Dal's Bikram Majithia laundered over Rs 540 crore drug money, says SITMajithia and his wife claimed that members of the Vigilance Bureau barged into their house in Green Avenue in Amritsar. They claimed that a similar raid was conducted at their residence in Chandigarh."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/lifestyle/fashion/story/india-louis-vuitton-paris-pharrell-williams-prada-kolhapuri-ar-rahman-bijoy-jain-2746101-2025-06-25",
+      "headline": "Prada ignored India. Louis Vuitton put it center stage at Paris Fashion Week French luxury brand LV's creative director and rapper Pharrell Williams put on a show that openly celebrated India, a move that LV's contemporaries (hello, Prada) should certainly take cues from."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/impact-feature/story/meril-launches-myclip-indias-first-transcatheter-edge-to-edge-repair-teer-system-for-treatment-of-severe-mitral-regurgitation-2745354-2025-06-24",
+      "headline": "Meril Launches MyClip, India's First Transcatheter-Edge-to-Edge Repair (TEER) SystemThe launch of MyClip TEER System marks a transformative moment for structural heart therapy in India."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/us-president-donald-trump-us-strikes-iran-to-1945-hiroshima-nagasaki-bombings-to-end-world-war-2-2746120-2025-06-25",
+      "headline": "US bombing of Iran's N-sites like Hiroshima, ended war with Israel: TrumpTrump's comments followed reports revealing that the US Defense Intelligence Agency had assessed that the strikes had set back Iran's nuclear program by just a few months, despite him and administration officials saying it had been obliterated."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/shubhanshu-shukla-first-words-after-launch-to-space-kamaal-ki-ride-2745885-2025-06-25",
+      "headline": "What a ride: Watch Shubhanshu Shukla's message to India en route to spaceAxiom-4 mission: Group Captain Shubhanshu Shukla, the second Indian in space, will spend 14 days aboard the International Space Station, conducting experiments on India's behalf."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/opinion/story/iran-nuclear-programme-isnt-dead-but-can-it-recover-2746073-2025-06-25",
       "headline": "Iran's nuclear programme isn't dead, but can it recover?In the last 12 days, Israel has repeatedly targeted Natanz, Isfahan, and Arak, causing extensive damage to key nuclear sites and putting them out of service for a long time, if not permanently."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/how-indira-gandhi-used-constitution-to-suspend-constitution-explained-50-years-of-emergency-1975-2746034-2025-06-25",
+      "headline": "How Indira Gandhi used Constitution to suspend ConstitutionFormer PM Indira Gandhi, who imposed an Emergency that suspended civil liberties, crushed dissent, and jailed lakhs of critics, was enabled by exploiting constitutional provisions like Articles 352, 356, and 359. Backed by controversial court rulings and draconian laws like MISA, Indian laws and constitutional provisions became the very tool Indira used to silence democracy 50 years ago."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/why-british-f35b-stranded-kerala-thiruvananthapuram-airport-hydraulic-failure-10-days-olx-fake-fighter-jet-sale-2745548-2025-06-25",
+      "headline": "Why UK's lethal F-35 jet, worth $110 million, is stranded in Kerala for 10 daysSince June 14, a $110-million British F-35B stealth jet has remained grounded at Kerala's Thiruvananthapuram airport after an emergency landing. Ten days on, with failed repair attempts, the jet remains in the monsoon-drenched tarmac. What will it take to get the F-35 to get it airborne?"
     },
     {
       "sentiment": "negative",
@@ -255,32 +255,37 @@
       "headline": "Two CBSE Class 10 board exams from 2026; mandatory exam in Feb, May exam optionalThe CBSE Class 10 board exams will be held twice a year from 2026 onwards. The first exam which is mandatory will be held in mid-February while the second one will be in May. CBSE has shared full details at a press meet today."
     },
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/uk-news/story/indian-engineering-student-udkarsh-yadav-in-uk-northumbria-university-newcastle-masturbates-in-fellow-student-room-may-face-deportation-2745893-2025-06-25",
+      "headline": "Indian student in UK masturbates on girl's bed and toys, faces deportationAn 18-year-old Indian student in the UK has admitted to breaking into a fellow student's room and masturbating on her bed and soft toys. He may be deported as the university has said it would review his student visa status."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/president-droupadi-murmu-meets-sitaare-zameen-par-cast-aamir-khan-partner-gauri-spratt-2746049-2025-06-25",
+      "headline": "President Murmu meets Sitaare cast, Aamir Khan and partner Gauri SprattThe entire cast of 'Sitaare Zameen Par' met President Droupadi Murmu for a special screening held at the Rashtrapati Bhavan on Tuesday. They were joined by Aamir Khan and his partner Gauri Spratt. \r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/from-launch-to-docking-shubhanshu-shuklas-ax-4-flight-explained-in-graphics-2738050-2025-06-25",
+      "headline": "Shubhanshu Shukla in space: We show you what happens nextIndia's Shubhanshu Shukla, who is the mission pilot, is joined by Commander Peggy Whitson and Mission Specialists S\u0142awosz Uznanski-Wisniewski, and Tibor Kapu. "
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/trumps-fresh-warning-after-strikes-on-nuke-sites-will-hit-iran-again-if-it-tries-to-restore-nuke-programme-2746001-2025-06-25",
       "headline": "Trump threatens new strikes if Iran rebuilds nuclear programme: They won't enrichUS President Donald Trump warned Iran against trying to rebuild its nuclear programme, saying, 'Iran will not enrich \u2014 the last thing they want to do is enrich.'"
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/buying-house-real-estate-most-affordable-houses-pune-ahmedabad-knight-frank-report-affordability-index-2745971-2025-06-25",
-      "headline": "Planning to buy a house? This is India's most affordable city in 2025A report from Knight Frank India's latest Affordability Index highlights that RBI's decision to cut the repo rate by 100 basis points since February 2025 has played a key role in improving housing affordability across the country. "
-    },
-    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/cities/mumbai/story/mangalore-man-trespasses-in-iit-bombay-attends-lectures-without-admission-arrested-by-mumbai-police-2746064-2025-06-25",
       "headline": "Mangaluru man attends IIT-Bombay classes without valid admission, arrestedA man from Mangaluru was arrested by the Mumbai police for trespassing and attending classes at IIT-Bombay without getting admission. He had reportedly come to the campus to attend a one-day event. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/opinion/story/we-are-told-india-threw-out-indira-in-an-electoral-revolt-really-emergency-at-50-2745963-2025-06-25",
-      "headline": "We're told India threw out Indira in an electoral revolt. Really?Amidst the flood of \"never again\" proclamations, perhaps Indian society has collectively ignored \u2014 or rather avoided asking and trying to honestly answer \u2014 a question that would require uncomfortable introspection: What if Indira Gandhi had not lifted the Emergency; a sudden move that surprised even her fierce critics? "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/pakistan-secret-nuclear-intercontinental-ballistic-missile-india-united-states-2745844-2025-06-25",
-      "headline": "Pak working on long-range nuclear ballistic missile that can reach US: ReportA report, quoting US officials, said if Pakistan goes on to acquire an intercontinental ballistic missile, Washington would designate the country as a nuclear adversary."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/eng-vs-ind-shardul-thakurs-underutilisation-by-shubman-gill-in-leeds-2746104-2025-06-25",
+      "headline": "Shardul Thakur in Leeds Test: Misfiring or mismanaged? Numbers say it allIndia all-rounder Shardul Thakur was underutilised by captain Shubman Gill in the first innings despite Prasidh Krishna and Mohammed Siraj leaking runs consistently. The India captain did realise his mistake and made the India seamer deliver ten overs in the second innings, where he helped scalp two wickets."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/video/england-vs-india-shubman-gill-captaincy-gautam-gambhir-press-conference-2746111-2025-06-25",
@@ -333,8 +338,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/eng-vs-ind-kuldeep-yadav-shardul-thakur-dropped-sunil-gavaskar-leeds-test-defeat-2745878-2025-06-25",
-      "headline": "Kuldeep for Thakur: Gavaskar backs spinner to start in BirminghamSunil Gavaskar suggested that India go on and pick Kuldeep Yadav to start in the second Test at Birmingham in place of Shardul Thakur. Despite making his return to Test cricket after two years, the all-rounder failed to impress in the opening Test at Leeds."
+      "url": "https://www.indiatoday.in/sports/other-sports/story/aarit-kapil-vs-magnus-carlsen-online-chess-delhi-9-year-old-2746019-2025-06-25",
+      "headline": "Nine-year-old Delhi boy comes close to beating chess great Magnus CarlsenNine-year-old Aarit Kapil from Delhi nearly defeated reigning world champion Magnus Carlsen in an intense online chess match. The Indian wunderkind became the youngest from the country to defeat a Grandmaster last year. "
     },
     {
       "sentiment": "positive",
@@ -355,126 +360,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/england-vs-india-first-test-ravindra-jadeja-slammed-sanjay-manjrekar-leeds-2745928-2025-06-25",
       "headline": "Sanjay Manjrekar slams tactically inept Ravindra Jadeja after Leeds lossSanjay Manjrekar has slammed Ravindra Jadeja for not using the conditions on Day 5 to his favour in the Leeds Test loss to England on Tuesday, June 24. Jadeja picked up just one wicket across both innings in the first Test. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/eng-vs-ind-kuldeep-yadav-shardul-thakur-dropped-sunil-gavaskar-leeds-test-defeat-2745878-2025-06-25",
-      "headline": "Kuldeep for Thakur: Gavaskar backs spinner to start in BirminghamSunil Gavaskar suggested that India go on and pick Kuldeep Yadav to start in the second Test at Birmingham in place of Shardul Thakur. Despite making his return to Test cricket after two years, the all-rounder failed to impress in the opening Test at Leeds."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/shubman-gill-on-field-aura-nasser-hussain-assessment-eng-vs-ind-leeds-test-defeat-2745824-2025-06-25",
-      "headline": "Gill didn't have that on-field aura: Hussain delivers brutal assessmentNasser Hussain slammed Shubman Gill's debut Test as captain and feels that he has a long way to go when it comes to matching the legacy left by the likes of Virat Kohli and Rohit Sharma. The ex-England cricketer has also slammed Ravindra Jadeja for his poor display at Leeds."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/reason-behind-england-win-vs-india-2745874-2025-06-25",
-      "headline": "Stokes analyses Leeds win: Knocking over Indian tail turned out to be keyEngland captain Ben Stokes believes dismissing the Indian tail was crucial in their 1st Test victory at Headingley. The win gives England a 1-0 lead while exposing weaknesses in India's bowling attack."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/england-vs-india-first-test-ben-duckett-hundred-steve-harmison-leeds-2745856-2025-06-25",
-      "headline": "Not sure India believed they could get Leeds hero Ben Duckett out: Steve HarmisonSteve Harmison feels that India didn't believe they could get Ben Duckett after the England opener played a match-winning knock in the Leeds Test. Duckett scored 149 runs to guide England to the win. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/eng-vs-ind-indias-tailenders-performance-leeds-test-gautam-gambhir-2745721-2025-06-25",
-      "headline": "India's tail not wagging: Familiar problem resurfacing under Gambhir eraIndia's lower order had a disappointing outing in the first Test against England at Headingley, Leeds as they failed to capitalise on the good start by the top order. Head coach Gautam Gambhir must quickly find a solution to the problem or India will continue to be outscored against England's Bazballers."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/why-did-india-lost-leeds-test-match-vs-england-5-reasons-2745811-2025-06-25",
-      "headline": "Five reasons why India slipped ship in their Headingley Test loss vs EnglandIndia's promising start under new Test captain Shubman Gill ended in a frustrating five-wicket loss at Headingley, as collapses, dropped catches, and a one-dimensional bowling attack allowed England to script a memorable chase."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/athletics/story/neeraj-chopra-wins-ostrava-golden-spike-gold-85m-throw-2745793-2025-06-25",
-      "headline": "Neeraj Chopra not happy despite winning gold in Ostrava Golden SpikeNeeraj Chopra might have won gold at the Ostrava Golden Spike, but was unhappy with his performance. Neeraj said that he needed to do better for his idol Jan Zelenzy."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/fifa-club-world-cup-benfica-stun-bayern-munich-liam-delap-chelsea-win-2745785-2025-06-25",
-      "headline": "Club World Cup: Benfica stun Munich, Delap opens account in Chelsea's winBenfica caused a big upset after securing a 1-0 win over the reigning Bundesliga champions, Bayern Munich, in the FIFA Club World Cup. Meanwhile, Chelsea's latest addition, Liam Delap, scored his first goal for the club in their win over ES Tunis.\u00a0"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/eng-vs-ind-indias-tailenders-performance-leeds-test-gautam-gambhir-2745721-2025-06-25",
-      "headline": "India's tail not wagging: Familiar problem resurfacing under Gambhir eraIndia's lower order had a disappointing outing in the first Test against England at Headingley, Leeds as they failed to capitalise on the good start by the top order. Head coach Gautam Gambhir must quickly find a solution to the problem or India will continue to be outscored against England's Bazballers."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/why-did-india-lost-leeds-test-match-vs-england-5-reasons-2745811-2025-06-25",
-      "headline": "Five reasons why India slipped ship in their Headingley Test loss vs EnglandIndia's promising start under new Test captain Shubman Gill ended in a frustrating five-wicket loss at Headingley, as collapses, dropped catches, and a one-dimensional bowling attack allowed England to script a memorable chase."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/athletics/story/neeraj-chopra-wins-ostrava-golden-spike-gold-85m-throw-2745793-2025-06-25",
-      "headline": "Neeraj Chopra not happy despite winning gold in Ostrava Golden SpikeNeeraj Chopra might have won gold at the Ostrava Golden Spike, but was unhappy with his performance. Neeraj said that he needed to do better for his idol Jan Zelenzy."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/fifa-club-world-cup-benfica-stun-bayern-munich-liam-delap-chelsea-win-2745785-2025-06-25",
-      "headline": "Club World Cup: Benfica stun Munich, Delap opens account in Chelsea's winBenfica caused a big upset after securing a 1-0 win over the reigning Bundesliga champions, Bayern Munich, in the FIFA Club World Cup. Meanwhile, Chelsea's latest addition, Liam Delap, scored his first goal for the club in their win over ES Tunis.\u00a0"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-england-gautam-gambhir-on-bowling-attack-2745776-2025-06-25",
-      "headline": "Gambhir backs pacers despite Leeds disaster: Building a battery for futureIndia's head coach Gautam Gambhir has called for patience with the young bowling attack after a heavy defeat in Leeds. He stressed the need to back inexperienced pacers to build a strong pace battery for the future."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/england-vs-india-headingley-test-bumrah-gambhir-2745770-2025-06-25",
-      "headline": "India's Jasprit Bumrah plan won't change despite Leeds Test loss: GambhirENG vs IND: Despite India's defeat at Headingley, head coach Gautam Gambhir stood firm on their decision to manage Jasprit Bumrah's workload, confirming he will play only three Tests in the five-match series against England.\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/eng-vs-ind-shubman-gill-rishabh-pant-kl-rahul-jasprit-bumrah-2745715-2025-06-25",
-      "headline": "India lose Leeds Test despite 5 centuries: Anderson-Tendulkar series opener in statsHere's a look at top stats from India's crushing defeat against England in the first Test of the five-match series at Headingley, Leeds. England chased down 371 on Day 5 to hammer India by five wickets."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/olympique-lyon-relegated-ligue-1-financial-audit-dncg-2745752-2025-06-25",
-      "headline": "Olympique Lyon relegated due to financial irregularitiesOlympique Lyon has been relegated from Ligue 1 following a financial audit by the DNCG. The club plans to appeal, highlighting improved finances and recent player sales."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-test-series-england-dropped-catches-batting-collapse-gambhir-reaction-2745719-2025-06-25",
-      "headline": "Win together, lose together: Gambhir won't blame individuals after Leeds lossEngland vs India: Head coach Gautam Gambhir acknowledged India the batting collapses and the ordinary catching in the first Test in Leeds. However, he said he won't point fingers at anyone in this new-look Indian side. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/england-vs-india-shubman-gill-honest-analysis-batting-collapse-dropped-catches-headingley-test-2745714-2025-06-25",
-      "headline": "Shubman Gill honest after losing Leeds Test: Young team will improveShubman Gill's India fell short in the Leeds Test, but the young captain's composed, honest reflections after the loss showed maturity. With errors in fielding and collapses to address, the rebuilding process has officially begun."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/eng-vs-ind-england-beat-india-leeds-ben-duckett-2745707-2025-06-24",
-      "headline": "Bazball strikes again: England stun India with another record 4th innings chaseEngland once again stunned India with a historic run chase in the first Test at Headingley, Leeds as they chased down 371 having five wickets in hand. It was for the second time that India were at the receiving end of England's batting masterclass. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/athletics/story/neeraj-chopra-ostrava-golden-spike-2025-gold-85-29-metres-2745709-2025-06-24",
-      "headline": "Neeraj Chopra wins Gold in Ostrava Golden Spike event with best throw of 85.29mOstrava Golden Spike 2025: Two-time Olympic medalist continued his streak of finishing on the podium in competitions, winning gold in Czechia with a best effort of 85.29m. Neeraj finished ahead of Douw Smit of South Africa and Anderson Peters of Grenada.  "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/shubman-gill-captaincy-debut-england-chase-371-run-test-victory-2745696-2025-06-24",
-      "headline": "Shubman Gill's new India hurt by old flaws as England chase 371 in Leeds winEngland vs India, 1st Test: England rode on Ben Duckett's fourth innings 149 to script their second-highest successful chase in Test cricket history. India paid the price for their shoddy fielding and lower-order batting as Shubman Gill faced defeat in his captaincy debut in Leeds. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/shardul-thakur-two-wickets-england-chase-headingley-india-bowling-struggles-2745668-2025-06-24",
-      "headline": "Bow down to Lord: Shardul Thakur memes go viral after double strike in Leeds TestShardul Thakur took two wickets in as many balls to revive India's fading hopes at Headingley on Day 5 of the first Test. England rode on Ben Duckett's 149 to go for the mammoth target of 371 in the series opener. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/if-virat-kohli-was-playing-in-england-he-would-have-scored-runs-sourav-ganguly-2745669-2025-06-24",
-      "headline": "If Virat Kohli was playing in England, he would have scored runs: Sourav GangulyFormer India captain and BCCI President Sourav Ganguly feels Virat Kohli would've scored a lot of runs in the ongoing England tour, if he had continued playing Test cricket."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/cricket/story/england-vs-india-mohammed-siraj-angry-reaction-yashasvi-jaiswal-dropped-catch-ben-duckett-2745608-2025-06-24",
-      "headline": "Mohammed Siraj fumes in frustration after Yashasvi Jaiswal drops 4th catchENG vs IND: Mohammed Siraj's fury said it all as Yashasvi Jaiswal dropped his fourth catch of the match\u2014this time handing Ben Duckett a life on 97, compounding India's fielding woes on a tough Day 5 at Headingley."
     }
   ],
   "education": [
@@ -537,6 +422,21 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/education/story/the-power-of-knowledge-educations-influence-on-real-estate-market-trends-2516316-2024-03-18",
       "headline": "The power of knowledge: Education's influence on real estate market trendsIn a dynamic sector like real estate, investing in continuing education is not simply an option; it is a requirement."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/jnu-students-body-election-on-march-22-after-4-years-2513140-2024-03-11",
+      "headline": "JNU students' body election on March 22 after 4 yearsThe Jawaharlal Nehru University Students' Union (JNUSU) polls will take place on March 22, more than four years after the last elections were held in September 2019."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/up-12th-board-exam-math-biology-question-papers-leaked-on-whatsapp-uttar-pradesh-2508890-2024-03-01",
+      "headline": "UP 12th board exam math, biology papers leaked on WhatsApp, complaint filedThe mathematics and biology question papers for the Uttar Pradesh class 12 board exam were allegedly leaked on a WhatsApp group."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/education/story/uttar-pradesh-police-constable-recruitment-exam-cancelled-after-paper-leak-re-examination-in-6-months-2506566-2024-02-24",
+      "headline": "UP Police Constable recruitment exam cancelled days after paper leakThe Uttar Pradesh Police Constable recruitment exam held on February 17 and 18 was canceled due to a paper leak. The Chief Minister has announced a re-examination within the next six months."
     }
   ]
 }
