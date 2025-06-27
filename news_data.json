@@ -2,6 +2,11 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/personal-finance/story/epfo-may-soon-allow-direct-epf-withdrawals-via-atms-and-upi-2747195-2025-06-27",
+      "headline": "EPFO may soon allow direct EPF withdrawals via ATMs and UPIThe EPFO recently increased the auto-settlement limit from Rs 1 lakh to Rs 5 lakh. This means members can get up to Rs 5 lakh cleared automatically within three days for things like medical expenses, education, housing, or marriage."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/market/story/sensex-ends-300-points-higher-nifty-above-25600-jio-financial-shares-jump-4-2747184-2025-06-27",
       "headline": "Sensex ends 300 points higher, Nifty above 25,600; Jio Financial shares jump 4%The S&P BSE Sensex ended 303.03 points higher at 84,058.90, while the NSE Nifty50 rose 88.80 to settle at 25,637.80."
     },
@@ -54,11 +59,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/online-job-portals-careerbuilder-monster-file-for-bankruptcy-2746877-2025-06-27",
       "headline": "Once-dominant online job boards CareerBuilder, Monster go bankruptCreated through the September merger of CareerBuilder and Monster, the Chicago-based company said it agreed to sell its job board operations, its most recognisable business, to JobGet, which has an app for so-called gig workers."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/filed-the-wrong-itr-form-penalties-missed-refunds-and-what-to-do-next-2746644-2025-06-26",
-      "headline": "Filed the wrong ITR form? Penalties, missed refunds and what to do nextWhether you're a salaried professional, freelancer, or a business owner, choosing the right ITR (Income Tax Return) form is important. Getting it wrong might mean missed refunds, penalties, or worse, your return being treated as invalid."
     }
   ],
   "entertainment": [
@@ -70,7 +70,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/diljit-dosanjh-dropped-from-border-2-amid-row-over-casting-pakistani-actor-hania-amir-in-sardaar-ji-3-sources-2747180-2025-06-27",
-      "headline": "Diljit Dosanjh likely to be replaced in Border 2 amid Sardaar Ji 3 row: SourcesActor Diljit Dosanjh is likely to be dropped from 'Border 2' amid row surrounding his Punjabi film 'Sardaar Ji 3'. The film released overseas today (June 27). "
+      "headline": "Diljit Dosanjh likely to be replaced in Border 2 amid Sardaar Ji 3 row: SourcesActor Diljit Dosanjh is likely to be replaced by Ammy Virk in 'Border 2'. This comes amid a row surrounding his Punjabi film 'Sardaar Ji 3'. "
     },
     {
       "sentiment": "positive",
@@ -162,7 +162,7 @@
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/kolkata-law-college-gang-rape-case-three-arrested-including-staff-member-2747081-2025-06-27",
-      "headline": "Student gangraped in Kolkata law college, Trinamool leader, 2 students arrestedA 24-year-old law college student in south Kolkata was allegedly gangraped inside the campus premises. Three accused have been arrested in the case, including two students and a staffer - who is a Trinamool Congress student wing leader."
+      "headline": "Student gang-raped in Kolkata law college, Trinamool leader, 2 students arrestedA 24-year-old law student in south Kolkata was allegedly gang-raped inside the college premises. Three accused were arrested in the case, including two students and a staffer - who is a Trinamool Congress student wing leader."
     },
     {
       "sentiment": "positive",
@@ -171,8 +171,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/elderly-woman-tied-men-locked-in-basement-noida-sector-55-old-age-home-raid-reveals-abuse-2747086-2025-06-27",
-      "headline": "Urine and faeces on clothes, tied up, locked in rooms: Noida old age home horrorDuring the raid, a woman claiming to be a nurse was found, but investigation revealed she was only 12th-pass. Elderly residents were found in clothes soiled with urine and faeces.The residents were forced to care for themselves.\u00a0"
+      "url": "https://www.indiatoday.in/india/law-news/story/films-named-after-sita-ram-why-janaki-a-problem-kerala-high-court-pulls-up-censor-board-for-blocking-release-2747203-2025-06-27",
+      "headline": "Ram Lakhan okay, but not Janaki? Kerala High Court raps censor board over film rowThe Kerala High Court questioned the Central Board of Film Certification's objection to the name 'Janaki' in JSK \u2013 Janaki vs State of Kerala, starring Union Minister Suresh Gopi and actor Anupama Parameswaran, asking why similar names in older films never faced complaints."
     },
     {
       "sentiment": "positive",
@@ -181,23 +181,33 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/diljit-dosanjh-dropped-from-border-2-amid-row-over-casting-pakistani-actor-hania-amir-in-sardaar-ji-3-sources-2747180-2025-06-27",
-      "headline": "Diljit Dosanjh likely to be replaced in Border 2 amid Sardaar Ji 3 row: SourcesActor Diljit Dosanjh is likely to be replaced by Ammy Virk in 'Border 2'. This comes amid row surrounding his Punjabi film 'Sardaar Ji 3'. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/justice-will-be-served-trinamool-as-its-student-leader-2-students-arrested-for-gang-rape-of-law-student-2747174-2025-06-27",
-      "headline": "Justice will be served: Trinamool as its student leader arrested for gang-rapeAfter a leader of its student wing was named main accused in a gang-rape of a 24-year-old law college student, Trinamool Congress said that the full weight of the law will be brought to bear on the perpetrators."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/shubhanshu-shukla-international-space-station-iss-india-view-from-space-rakesh-sharma-first-indian-2746977-2025-06-27",
-      "headline": "From Sharma to Shukla, night lights reveal India's transformation over the yearsIf Rakesh Sharma, the first Indian to fly to space in 1984, were to travel to space once again, the view of India's night-time lights would leave him transfixed. Night-time lights as seen from space indicate economic progress and urbanisation. This is how the look of India has changed from Sharma to Shubhanshu Shukla in 2025."
+      "url": "https://www.indiatoday.in/opinion/story/the-gaza-grind-and-iranian-gambit-will-have-a-cost-for-israel-2747190-2025-06-27",
+      "headline": "The Gaza Grind and Iranian Gambit Will Have a Cost for IsraelIsrael's fan club is shrinking in the West. UK and European Parliaments are echoing public disgust with calls for ceasefire and arms embargoes. Enemies are emboldened, allies are wavering. And the Gaza grind is bleeding goodwill. Israel simply needs a new script."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/faridabad-murder-casewoman-killed-after-alleged-rape-by-father-in-law-2747130-2025-06-27",
-      "headline": "Faridabad murder: Woman was killed after rape by father-in-law, probe findsTannu, a 24-year-old woman, was raped by her father-in-law and later murdered, police investigation revealed"
+      "url": "https://www.indiatoday.in/india/story/trinamool-mp-kalyan-banerjee-avoid-bad-company-shocker-on-kolkata-law-student-gangrape-2747202-2025-06-27",
+      "headline": "Trinamool MP's 'avoid\u00a0bad\u00a0company' shocker on law student's gangrapeIn what appears to be a blatant case of survivor-shaming, Trinamool Congress MP Kalyan Banerjee said, 'Those who are roaming around with such people should understand whom they are accompanying.' He further asserted that no law or police force could stop rapes until the 'dirty mindsets' of some men are changed."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/diljit-dosanjh-dropped-from-border-2-amid-row-over-casting-pakistani-actor-hania-amir-in-sardaar-ji-3-sources-2747180-2025-06-27",
+      "headline": "Diljit Dosanjh likely to be replaced in Border 2 amid Sardaar Ji 3 row: SourcesActor Diljit Dosanjh is likely to be replaced by Ammy Virk in 'Border 2'. This comes amid a row surrounding his Punjabi film 'Sardaar Ji 3'. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/s-jaishankar-sco-summit-document-pakistan-veiled-dig-terrorism-reference-rajnath-singh-2747196-2025-06-27",
+      "headline": "No terror mention, no deal: S Jaishankar backs Rajnath Singh's Shanghai meet standBacking Defence Minister Rajnath Singh's stand to not sign the document at the SCO Defence Ministers' meeting, External Affairs Minister S Jaishankar took a veiled dig at Pakistan, saying it did not want a reference to terrorism in the communique."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/books/story/side-effects-to-surprises-dr-ambrish-mithal-on-indias-weight-loss-drug-revolution-2747188-2025-06-27",
+      "headline": "Side effects to surprises: Dr Ambrish Mithal on India's weight-loss drug revolutionIn this episode of 'Booked', top endocrinologist Dr. Ambrish Mithal unpacks the world of new-age weight-management drugs, their side effects, their benefits and what lies ahead in his new book The Weight Loss Revolution."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/impact-feature/story/meril-launches-myclip-indias-first-transcatheter-edge-to-edge-repair-teer-system-for-treatment-of-severe-mitral-regurgitation-2745354-2025-06-24",
+      "headline": "Meril Launches MyClip, India's First Transcatheter-Edge-to-Edge Repair (TEER) SystemThe launch of MyClip TEER System marks a transformative moment for structural heart therapy in India."
     },
     {
       "sentiment": "negative",
@@ -206,18 +216,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/impact-feature/story/meril-launches-myclip-indias-first-transcatheter-edge-to-edge-repair-teer-system-for-treatment-of-severe-mitral-regurgitation-2745354-2025-06-24",
-      "headline": "Meril Launches MyClip, India's First Transcatheter-Edge-to-Edge Repair (TEER) SystemThe launch of MyClip TEER System marks a transformative moment for structural heart therapy in India."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/the-lowdown/story/politics-and-history-of-inclusion-of-socialist-and-secular-in-the-preamble-the-lowdown-2747095-2025-06-27",
-      "headline": "Politics and history of inclusion of 'socialist' and 'secular' in the PreambleThe terms were added during a period of quasi-dictatorship, when the government's word was the law. Critics argue they were imposed without proper debate."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/india-rejects-united-nations-help-air-india-crash-probe-2746864-2025-06-27",
-      "headline": "India rejects UN help in Air India crash probe: ReportIndia declined a UN aviation investigator's offer to assist in the Air India crash probe that killed 274. Previously, the International Civil Aviation Organisation has deployed investigators to help with certain probe\r\n\r\n"
+      "url": "https://www.indiatoday.in/india/story/justice-will-be-served-trinamool-as-its-student-leader-2-students-arrested-for-gang-rape-of-law-student-2747174-2025-06-27",
+      "headline": "Justice will be served: Trinamool as its student leader arrested for gang-rapeAfter a leader of its student wing was named main accused in a gang-rape of a 24-year-old law college student, Trinamool Congress said that 'full weight of the law will be brought to bear' on the guilty."
     },
     {
       "sentiment": "positive",
@@ -226,8 +226,43 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/elderly-woman-tied-men-locked-in-basement-noida-sector-55-old-age-home-raid-reveals-abuse-2747086-2025-06-27",
+      "headline": "Urine and faeces on clothes, tied up, locked in rooms: Noida old age home horrorDuring the raid, a woman claiming to be a nurse was found, but investigation revealed she was only 12th-pass. Elderly residents were found in clothes soiled with urine and faeces.The residents were forced to care for themselves.\u00a0"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/shubhanshu-shukla-international-space-station-iss-india-view-from-space-rakesh-sharma-first-indian-2746977-2025-06-27",
+      "headline": "From Sharma to Shukla, night lights reveal India's transformation over the yearsIf Rakesh Sharma, the first Indian to fly to space in 1984, were to travel to space once again, the view of India's night-time lights would leave him transfixed. Night-time lights as seen from space indicate economic progress and urbanisation. This is how the look of India has changed from Sharma to Shubhanshu Shukla in 2025."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/the-lowdown/story/politics-and-history-of-inclusion-of-socialist-and-secular-in-the-preamble-the-lowdown-2747095-2025-06-27",
+      "headline": "Politics and history of inclusion of 'socialist' and 'secular' in the PreambleThe terms were added during a period of quasi-dictatorship, when the government's word was the law. Critics argue they were imposed without proper debate."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/health/story/thin-at-what-cost-the-mental-toll-of-the-weight-loss-race-wegovy-ozempic-weight-loss-2747147-2025-06-27",
+      "headline": "Thin at what cost? The mental toll of the weight-loss raceThe quest for weight loss has taken a dramatic turn. A wave of new-age solutions, from once-weekly injectables like Wegovy and Mounjaro to oral GLP-1 drugs and off-label prescriptions, has flooded global markets, including India. But as our bodies shrink, our minds may be buckling under pressure\u2026"
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/faridabad-murder-casewoman-killed-after-alleged-rape-by-father-in-law-2747130-2025-06-27",
+      "headline": "Faridabad murder: Woman was killed after rape by father-in-law, probe findsTannu, a 24-year-old woman, was raped by her father-in-law and later murdered, police investigation revealed"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/tamil-nadu/story/amit-shah-confirms-annamalai-will-take-key-national-role-while-staying-active-in-tamil-nadu-politics-2746991-2025-06-27",
+      "headline": "Annamalai to get national role but continue work in Tamil Nadu: Amit ShahUnion Home Minister Amit Shah revealed that former Tamil Nadu BJP state chief K Annamalai will be given national responsibilities, while playing key role in Tamil Nadu politics. Shah also asserted that the NDA will form the Tamil Nadu government in 2026."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/british-f35-jet-stranded-thiruvananthapuram-airport-repair-40-member-team-uk-tow-vehicle-airlift-repair-2746623-2025-06-27",
       "headline": "Tow trolley, 40 staffers from UK as F-35 refuses to leave Kerala even after 13 daysBraving rain on Thiruvananthapuram airport's tarmac, the British $110-million stealth F-35B jet remains grounded in Kerala, now to be towed into a hangar for repairs. A special tow vehicle and 40 UK engineers are flying in to fix the hydraulic snag that's kept the F-35B earthbound since June 14."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/information/story/channapatna-barbies-and-now-labubu-what-our-dolls-say-about-us-2747166-2025-06-27",
+      "headline": "Channapatna, barbies and now labubu: What our dolls say about usThey once wore hand-stitched sarees and sipped imaginary chai\u2014now they wear skull hoodies and go viral on TikTok. This is the strange, sentimental journey of our dolls."
     },
     {
       "sentiment": "positive",
@@ -240,47 +275,22 @@
       "headline": "$30 billion for civil nuclear programme: Report details US proposal for Iran dealAmerica is considering helping Iran access\u00a0USD 30 billion to\u00a0build a civilian-energy-producing nuclear programme, in a surprising twist in the diplomatic ties between the two nations, CNN reported."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/health/story/thin-at-what-cost-the-mental-toll-of-the-weight-loss-race-wegovy-ozempic-weight-loss-2747147-2025-06-27",
-      "headline": "Thin at what cost? The mental toll of the weight-loss raceThe quest for weight loss has taken a dramatic turn. A wave of new-age solutions, from once-weekly injectables like Wegovy and Mounjaro to oral GLP-1 drugs and off-label prescriptions, has flooded global markets, including India. But as our bodies shrink, our minds may be buckling under pressure\u2026"
-    },
-    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/cities/ahmedabad/video/video-elephant-loses-control-triggers-panic-during-rath-yatra-in-ahmedabad-2746967-2025-06-27",
       "headline": "Video: Elephant loses control, triggers panic during Rath Yatra in AhmedabadDuring the 148th Rath Yatra of Lord Jagannath in Ahmedabad, an elephant lost control in the Khadia area, causing panic. The animal lost balance but was soon brought under control with the help of doctors and the forest department. Prompt action by police to clear the area ensured no casualties occurred."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/reviews/story/maa-movie-review-kajol-salvages-striking-but-familiar-myth-meets-fantasy-horror-2746906-2025-06-27",
-      "headline": "Maa review: Kajol salvages striking but familiar myth-meets-fantasy horrorReleased-Fri Jun 27, 2025'Maa' movie review: 'Maa' features Kajol as a mother battling dark mythological forces in a visually rich horror setting. Despite impressive effects, the film struggles with predictable storytelling and emotional impact."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/gangster-jaggu-bhagwanpurias-mother-shot-dead-rival-group-claims-responsibility-2746935-2025-06-27",
-      "headline": "Caught on camera: Gangster Jaggu Bhagwanpuria's mother shot dead in PunjabThe attack occurred near a bakery on Kadian Road in Punjab, where unidentified assailants on a motorcycle opened fire on the Scorpio car. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/information/story/channapatna-barbies-and-now-labubu-what-our-dolls-say-about-us-2747166-2025-06-27",
-      "headline": "Channapatna, barbies and now labubu: What our dolls say about usThey once wore hand-stitched sarees and sipped imaginary chai\u2014now they wear skull hoodies and go viral on TikTok. This is the strange, sentimental journey of our dolls."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/delhi-swelters-in-unexpected-humidity-where-are-the-monsoon-rains-2747074-2025-06-27",
-      "headline": "Delhi swelters in unexpected humidity: Where are the monsoon\u00a0rains?The humidity impedes the body's natural cooling through sweat evaporation, making conditions dangerously uncomfortable."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/where-are-indias-ultra-rich-families-investing-in-2025-2747127-2025-06-27",
-      "headline": "Where are India's ultra-rich families investing in 2025?A new EY\u2013Julius Baer report, The Indian Family Office Playbook, reveals that many family offices are moving away from traditional wealth preservation and diving into global markets, private credit, and real assets."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/chennai-man-shares-landlord-veg-only-tenants-demand-viral-post-sparks-debate-2747124-2025-06-27",
-      "headline": "Chennai man shares landlord's 'veg-only tenants' demand, post sparks debateIn a now-viral post on X, a man searching for flats in Chennai sparked a debate on food-based housing bias after sharing a message he received online."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/wimbledon-2025-draw-carlos-alcaraz-jannik-sinner-novak-djokovic-2747199-2025-06-27",
+      "headline": "Wimbledon draw: Alcaraz faces tough test, Sinner and Djokovic in same halfThe Wimbledon 2025 draw promises drama as Carlos Alcaraz defends his crown, Novak Djokovic chases a 25th Slam, and Jannik Sinner eyes redemption \u2014 all while tennis braces for a thrilling generational shift on grass."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/premier-league-manchester-united-ruud-van-nistelrooy-sacked-leicester-city-2747198-2025-06-27",
+      "headline": "Manchester United legend Ruud van Nistlerooy sacked as Leicester City bossLeicester City have decided to part ways with Ruud van Nistelrooy on Friday, June 27 after the club was relegated from the Premier League last season. Van Nistelrooy joined the club in November last year. "
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/other-sports/story/javelin-neeraj-chopra-nc-classic-fan-request-vvip-experience-bengaluru-2747183-2025-06-27",
@@ -328,13 +338,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/new-zealand-t20i-squad-adam-milne-bevon-jacobs-announce-tri-series-zimbabwe-2746948-2025-06-27",
-      "headline": "No Williamson; Milne, Henry return as New Zealand announce tri-series squadNew Zealand have named Adam Milne and uncapped Bevon Jacobs in their T20I squad for next month's tri-series in Zimbabwe, but will be without Kane Williamson and Lockie Ferguson as new head coach Rob Walter begins preparations for the 2026 T20 World Cup."
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-england-mixed-disability-cricket-match-lords-london-2747079-2025-06-27",
+      "headline": "India win first-ever Mixed Disability match at Lord's, beat hosts EnglandAfter losing the first two matches of the Mixed Disability T20I series, India bounced back to beat England in a historic occasion at Lord's on Wednesday. The fourth match of the seven-match series will be played on Friday. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/european-teams-usa-weather-fifa-club-world-cup-heat-pitch-conditions-2746925-2025-06-27",
-      "headline": "European teams vs USA weather: FIFA Club World Cup is facing the heatSoaring heat and poor pitches at the 2025 Club World Cup in the U.S. left European teams struggling, raising serious concerns for FIFA ahead of next year's expanded World Cup across North America."
+      "url": "https://www.indiatoday.in/sports/other-sports/story/freestyle-chess-tours-india-cancelled-sponsors-delhi-2746980-2025-06-27",
+      "headline": "Freestyle Chess Tour's India-leg cancelled due to lack of sponsorsThe Freestyle Chess Tour's fifth edition that was to be held in Delhi now stands cancelled due to the lack of interest from sponsors. Now the tournament will likely resume with the next edition in Las Vegas later next month. "
     },
     {
       "sentiment": "positive",
@@ -350,16 +360,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/darren-sammy-clarity-adrian-holdstock-contentious-calls-bridgetown-test-wi-vs-aus-2746955-2025-06-27",
       "headline": "WI vs AUS: Coach Sammy meets referee Srinath over contentious TV umpiring decisionsWest Indies coach Darren Sammy spoke with match referee Javagal Srinath to express his apprehensions about Adrian Holdstock officiating in the ongoing Test series against Australia. The West Indies head coach had also raised similar concerns during the series against England."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/new-zealand-t20i-squad-adam-milne-bevon-jacobs-announce-tri-series-zimbabwe-2746948-2025-06-27",
-      "headline": "No Williamson; Milne, Henry return as New Zealand announce tri-series squadNew Zealand have named Adam Milne and uncapped Bevon Jacobs in their T20I squad for next month's tri-series in Zimbabwe, but will be without Kane Williamson and Lockie Ferguson as new head coach Rob Walter begins preparations for the 2026 T20 World Cup."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/european-teams-usa-weather-fifa-club-world-cup-heat-pitch-conditions-2746925-2025-06-27",
-      "headline": "European teams vs USA weather: FIFA Club World Cup is facing the heatSoaring heat and poor pitches at the 2025 Club World Cup in the U.S. left European teams struggling, raising serious concerns for FIFA ahead of next year's expanded World Cup across North America."
     }
   ],
   "education": [
