@@ -1,6 +1,11 @@
 {
   "business": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/personal-finance/story/filing-itr-for-the-first-time-7-common-errors-new-taxpayers-must-avoid-2751883-2025-07-07",
+      "headline": "Filing ITR for the first time? 7 common errors new taxpayers must avoidFiling your ITR is not enough. You must verify it too. If you forget, the tax department treats it as if you never filed it at all. You can e-verify using Aadhaar OTP, net banking, or by sending a signed physical copy. Without verification, your return stays incomplete."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/personal-finance/story/house-rent-above-rs-50000-heres-the-tds-rule-you-need-to-know-2751860-2025-07-07",
       "headline": "House rent above Rs 50,000? Here's the TDS rule you need to knowFor tenants living in high-rent homes, the line between a routine payment and a tax lapse can be thinner than it seems, and ignoring it can invite penalties that quickly snowball."
@@ -194,14 +199,24 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/hdfc-bank-ceo-sashidhar-jagdishan-moves-supreme-court-against-lilavati-hospital-fir-2749997-2025-07-03",
       "headline": "HDFC Bank CEO moves Supreme Court against Lilavati Hospital FIRThe clash between one of India's largest private banks and a big Mumbai hospital is linked to a financial transaction, but the exact details of the FIR or the amount involved were not shared in court."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/lost-your-itr-login-here-is-how-to-file-income-tax-using-net-banking-2749970-2025-07-03",
-      "headline": "Lost your ITR login? Here's how to file income tax using net bankingIf you can't remember your Income Tax portal password, you don't need to reset it straight away. Most major banks in India allow you to access the e-Filing portal through their net banking services. It's a safe and easy way to file your return on time."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/jennifer-aniston-says-the-morning-show-is-layered-complicated-nothing-like-friends-2751886-2025-07-07",
+      "headline": "Jennifer Aniston says The Morning Show is layered, complicatedJennifer Aniston shared insights into the demanding and emotionally charged production of Apple TV's 'The Morning Show'. She also highlighted its difference from her earlier work in 'Friends'. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/brad-pitt-f1-the-movie-review-opinion-brad-pitt-hans-zimmer-2751527-2025-07-07",
+      "headline": "Brad Pitt's F1 is a familiarly unfamiliar ride across your favourite racing circuit'F1 - The Movie' seemed to be like any other sports film that we have seen in the past with the same themes, moments and plot twists. Yet, the Brad Pitt-starrer leaves behind a fresh feeling for a viewer, who may or may not be an ardent fan of Formula One. "
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/nora-fatehi-in-tears-at-mumbai-airport-amid-cryptic-social-media-post-2751839-2025-07-07",
+      "headline": "Nora Fatehi in tears at Mumbai airport amid cryptic social media postBollywood actor Nora Fatehi was seen crying at Mumbai airport. Before the incident, she had shared a cryptic post on Instagram."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/abhishek-on-bollywood-rejection-nobody-wanted-to-launch-amitabh-bachchan-son-2751857-2025-07-07",
@@ -281,21 +296,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/karan-johar-wishes-lord-of-bling-ranveer-singh-shares-sweet-gesture-wife-deepika-padukone-2751577-2025-07-06",
       "headline": "KJo wishes lord of bling Ranveer Singh, shares his sweet gesture for wife DeepikaKaran Johar shared a special post to celebrate Ranveer Singh's 40th birthday. The filmmaker wrote a heartfelt note and praised the actor's style and what he does to make his wife Deepika Padukone smile. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/pushpa-reunion-us-allu-arjun-joins-sukumar-sreeleela-recites-iconic-dialogue-2751532-2025-07-06",
-      "headline": "Pushpa reunion in US: Allu Arjun joins Sukumar, Sreeleela, recites iconic dialogueAllu Arjun paid tribute to Telugu culture and cinema at the North American Telugu Society (NATS) with his iconic dialogue from 'Pushpa 2'. He also felicitated director K Raghvendra Rao at the event."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/dhurandhar-teaser-ranveer-singh-wreaks-havoc-fierce-new-avatar-r-madhavan-akshaye-khanna-arjun-rampal-aditya-dhar-2751546-2025-07-06",
-      "headline": "Dhurandhar first look: Ranveer Singh wreaks havoc in fierce new avatarRanveer Singh shared the gripping first look of his upcoming film 'Dhurandhar'. Also starring R Madhavan, Sanjay Dutt, Akshaye Khanna, and others in key roles, the movie will release in theatres on December 5."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/kaagaz-ke-phool-chronicle-of-guru-dutt-descent-from-hope-to-surrender-pyaasa-2751522-2025-07-06",
-      "headline": "Kaagaz Ke Phool: Chronicle of Guru Dutt's descent from hope to surrender'Kaagaz Ke Phool' (1959)explores the contrasting worldviews in Guru Dutt's iconic film 'Pyaasa' (1957). While 'Pyaasa' portrays the artist's defiance against a shallow society, embracing authenticity and love, 'Kaagaz Ke Phool' presents a tragic tale of surrender, loneliness, and despair. "
     }
   ],
   "general news": [
@@ -307,17 +307,12 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/china-disinformation-campaign-rafale-fighter-jets-india-operation-sindoor-pakistan-france-2751769-2025-07-07",
-      "headline": "China used its missions to foil Rafale jets' sales after Op Sindoor: ReportTo hammer the Rafale fighter jets' reputation, China's foreign missions sought to persuade countries that ordered the French-made fighter not to buy them and encourage others to go for Chinese-made planes."
+      "headline": "Why China ran disinformation campaign against Rafale jets after India's Op SindoorTo hammer the Rafale fighter jets' reputation, China's foreign missions sought to persuade countries that ordered the French-made fighter not to buy them and encourage others to go for Chinese-made planes."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/elon-musk-donald-trump-feud-america-party-jabs-back-and-forth-attacks-2751765-2025-07-07",
-      "headline": "What's Truth Social? Musk's swipe at Trump after he jabs him over his America PartyTech titan Elon Musk has hit back at US President Donald Trump over his attack on his America Party, questioning about Truth Social and claiming he had never heard of the platform."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/special-intensive-revision-sir-electoral-rolls-bihar-citizenship-verification-election-commission-opposition-rjd-congress-2750969-2025-07-07",
-      "headline": "Voter rolls revision is legal, moral and essential. So, what's the problem?An intensive vetting of electoral rolls is a must to ensure that only Indian citizens get to decide on the country's politics and policy. If the Election Commission (EC) is mandated to conduct a special intensive revision (SIR) of voter lists, why is there such opposition to the exercise in Bihar from political parties?"
+      "url": "https://www.indiatoday.in/india/story/suspicious-boat-another-country-spotted-maharashtra-off-raigad-coast-security-heightened-2751863-2025-07-07",
+      "headline": "Suspicious boat, likely from Pak, spotted off Maharashtra coast; state on alertSecurity was heightened after a suspicious boat, believed to bear Pakistani markings, was sighted near the Revdanda coast in Maharashtra's Raigad district."
     },
     {
       "sentiment": "positive",
@@ -326,8 +321,68 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/brad-pitt-f1-the-movie-review-opinion-brad-pitt-hans-zimmer-2751527-2025-07-07",
+      "headline": "Brad Pitt's F1 is a familiarly unfamiliar ride across your favourite racing circuit'F1 - The Movie' seemed to be like any other sports film that we have seen in the past with the same themes, moments and plot twists. Yet, the Brad Pitt-starrer leaves behind a fresh feeling for a viewer, who may or may not be an ardent fan of Formula One. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/pakistan-spy-jyoti-malhotra-was-invited-by-kerala-as-state-tourism-influencer-rti-2751875-2025-07-07",
+      "headline": "Pak 'spy' Jyoti Malhotra was invited by Kerala as state tourism influencer: RTIAn RTI has revealed that Jyoti Malhotra, now arrested for alleged espionage, toured Kerala as a state-sponsored influencer \u2014 raising questions about vetting in the state government's tourism outreach campaign."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/law-news/story/supreme-court-to-hear-pleas-challenging-bihar-voter-rolls-revision-on-thursday-2751870-2025-07-07",
+      "headline": "Supreme Court agrees to hear pleas against voter roll revision in poll-bound BiharThe Supreme Court agreed to hear petitions challenging the Special Intensive Revision (SIR) of electoral rolls in Bihar, which will head to polls later this year. The matter will be heard on Thursday (July 10)."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/extradition-process-begins-to-bring-happy-passia-terrorist-behind-punjab-attacks-to-india-from-us-sources-2751833-2025-07-07",
       "headline": "Extradition process begins to bring terrorist Happy Passia to India: SourcesPassia was arrested on April 17 in California's Sacramento by US Immigration and Customs Enforcement following sustained coordination with Indian agencies."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/special-intensive-revision-sir-electoral-rolls-bihar-citizenship-verification-election-commission-opposition-rjd-congress-2750969-2025-07-07",
+      "headline": "Voter rolls revision is legal, moral and essential. So, what's the problem?An intensive vetting of electoral rolls is a must to ensure that only Indian citizens get to decide on the country's politics and policy. If the Election Commission (EC) is mandated to conduct a special intensive revision (SIR) of voter lists, why is there such opposition to the exercise in Bihar from political parties?"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/magnus-carlsen-b-game-chess-win-zagreb-gukesh-2751866-2025-07-07",
+      "headline": "My B-game is enough: Magnus Carlsen after winning Grand Chess Tour ZagrebMagnus Carlsen clinched the SuperUnited Rapid and Blitz combined title in Croatia. Carlsen reacted to his win on social media, stating that his B-game was enough to beat the others."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/us-news/story/elon-musk-donald-trump-feud-america-party-jabs-back-and-forth-attacks-2751765-2025-07-07",
+      "headline": "What's Truth Social? Musk's swipe at Trump after he jabs him over his America PartyTech titan Elon Musk has hit back at US President Donald Trump over his attack on his America Party, questioning about Truth Social and claiming he had never heard of the platform."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/karnataka/story/canara-bank-faces-backlash-after-video-shows-staff-unable-to-speak-kannada-to-customer-2751848-2025-07-07",
+      "headline": "Don't know English, speak in Kannada: Woman's plea at Canara Bank goes viralA Kannada-speaking woman in Chikkamagaluru was unable to get help from a Canara Bank staffer who didn't speak the language. This triggered public outrage by pro-Kannada groups and renewed demands for Kannada-speaking personnel in rural bank branches."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/ghaziabad-woman-beats-elderly-mother-in-law-cctv-video-viral-uttar-pradesh-2751762-2025-07-07",
+      "headline": "Video: Elderly woman dragged, beaten by daughter-in-law, her mother in GhaziabadAn elderly woman was dragged and thrashed by her daughter-in-law and her mother in Ghaziabad. A case was registered after CCTV footage came to light."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/heavy-rains-flasg-floods-landslides-himachal-pradesh-uttarakhand-monsoon-2751877-2025-07-07",
+      "headline": "78 dead in Himachal, landslide alert in Uttarakhand as heavy rain continuesHeavy rainfall in Uttarakhand and Himachal Pradesh has led to widespread floods, landslides and road closures in several districts, prompting the weather department to issue alerts for more downpour."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/story/f1-nico-hulkenberg-podium-lando-norris-oscar-piastri-ignore-2751837-2025-07-07",
+      "headline": "Selfish Norris, Piastri slammed for ignoring Hulkenberg on British GP podiumNico Hulkenberg secured his first ever Formula 1 podium at the British Grand Prix. At the celebrations, he was ignored by both McLaren drivers."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/trump-tariff-us-trade-letters-india-deal-global-trade-what-to-expect-stock-market-2751802-2025-07-07",
+      "headline": "Trump reveals tariff letter plan with a twist: Here's what's coming nextTrump also said that any country supporting what he called the 'Anti-American policies' of the BRICS group will face an additional 10% tariff."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/trending-news/story/chinese-man-with-oxford-degree-now-works-as-food-delivery-rider-salary-viral-china-2751862-2025-07-07",
+      "headline": "Chinese man with Oxford degree now works as food delivery rider. His story is viralOn Chinese social media sites, Ding Yuanzhao, 39, has been dubbed \"the food delivery worker with the highest education level\" after it emerged that he holds degrees from some of the world's most prestigious institutions, including Oxford University. "
     },
     {
       "sentiment": "positive",
@@ -336,38 +391,23 @@
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/possibility-of-world-war-anytime-nitin-gadkari-warns-at-nagpur-event-2751823-2025-07-07",
-      "headline": "World on brink of third World War, warns Nitin Gadkari amid global conflictsNitin Gadkari said that the ongoing geopolitical conflicts risk a situation in which a World War could break out 'anytime' amid the ongoing Russia-Ukraine and Israel-Iran conflict. "
+      "url": "https://www.indiatoday.in/sports/tennis/story/wimbledon-line-calling-error-kartal-pavlyuchenkova-controversy-2751777-2025-07-07",
+      "headline": "Wimbledon organisers apologise after line-calling system failureWimbledon's decision to fully rely on automated line-calling came under sharp scrutiny on Sunday after a glaring malfunction denied Anastasia Pavlyuchenkova a crucial point during her last-16 clash against Britain's Sonay Kartal on Centre Court. The system, which controversially replaced human line judges this year, failed at a key moment, sparking confusion and outrage."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/f1-nico-hulkenberg-podium-lando-norris-oscar-piastri-ignore-2751837-2025-07-07",
-      "headline": "Selfish Norris, Piastri slammed for ignoring Hulkenberg on British GP podiumNico Hulkenberg secured his first ever Formula 1 podium at the British Grand Prix. At the celebrations, he was ignored by both McLaren drivers."
+      "url": "https://www.indiatoday.in/india/story/indore-woman-harassed-beef-religion-conversion-begusarai-love-jihad-facebook-2751758-2025-07-07",
+      "headline": "Forced to eat beef, convert religion: Indore woman accuses husband of 'love jihad'A woman from Indore alleged mental and physical harassment by her husband in Bihar over her refusal to eat beef and convert her religion. She approached police seeking to return home, while the husband denied all allegations.\r\n\r\n"
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/karnataka/story/canara-bank-faces-backlash-after-video-shows-staff-unable-to-speak-kannada-to-customer-2751848-2025-07-07",
-      "headline": "Canara Bank customer pleads 'I don't know English', staff can't speak KannadaA Kannada-speaking woman in Chikkamagaluru was unable to get help from a Canara Bank staffer who didn't speak the language. This triggered public outrage by pro-Kannada groups and renewed demands for Kannada-speaking personnel in rural bank branches."
+      "url": "https://www.indiatoday.in/movies/celebrities/story/nora-fatehi-in-tears-at-mumbai-airport-amid-cryptic-social-media-post-2751839-2025-07-07",
+      "headline": "Nora Fatehi in tears at Mumbai airport amid cryptic social media postBollywood actor Nora Fatehi was seen crying at Mumbai airport. Before the incident, she had shared a cryptic post on Instagram."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/bilawal-bhutto-pak-ready-extradite-hafiz-saeed-masood-azhar-india-talha-saeed-terrorists-2751673-2025-07-06",
-      "headline": "Bilawal Bhutto says ready to extradite Hafiz Saeed to India, draws his son's irePakistan was open to handing over terrorists Hafiz Saeed and Masood Azhar to India, former Foreign Minister Bilawal Bhutto Zardari said. However, Hafiz Saeed's son, Talha Saeed, hit back saying Bilawal's statement was wrong."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/eng-vs-ind-2nd-test-akash-deep-sister-cancer-emotional-tribute-2751720-2025-07-06",
-      "headline": "My sister has cancer: Emotional Akash Deep dedicates Edgbaston win to brave siblingEngland vs India, 2nd Test: Akash Deep played a match-winning role in India's 336-run victory over England in Birmingham. He dedicated his 10-wicket haul to his sister, who has been battling cancer for two months."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/sara-arjun-20-year-old-ranveer-singh-40-year-old-dhurandhar-20-year-age-gap-debate-2751768-2025-07-07",
-      "headline": "Sara Arjun, 20, romancing Ranveer Singh, 40, in Dhurandhar sparks age-gap debateRanveer Singh's pairing with Sara Arjun in their upcoming film, 'Dhurandhar', has sparked a social media debate about their 20-year age gap. Sara Arjun is a popular actor in Tamil cinema."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/pahalgam-attack-was-an-attack-on-all-of-humanity-pms-message-on-terrorism-at-brics-2751722-2025-07-06",
-      "headline": "It was an attack on all of humanity: PM condemns Pahalgam carnage at BricsPrime Minister Narendra Modi condemned the Pahalgam terror attack while addressing the issue of terrorism at 17th Brics Summit in Brazil."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/possibility-of-world-war-anytime-nitin-gadkari-warns-at-nagpur-event-2751823-2025-07-07",
+      "headline": "World on brink of third World War, warns Nitin Gadkari amid global conflictsNitin Gadkari said that the ongoing geopolitical conflicts risk a situation in which a World War could break out 'anytime' amid the ongoing Russia-Ukraine and Israel-Iran conflict. "
     },
     {
       "sentiment": "positive",
@@ -375,52 +415,27 @@
       "headline": "Patna businessman's murder accused detained when he came to attend funeralOne of the accused in the murder of Gopal Khemka in Bihar was detained as he arrived at the industrialist's funeral."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/kangana-ranaut-bjp-mp-himachal-cloudburst-mandi-floods-disaster-relief-funds-2751718-2025-07-06",
-      "headline": "I have no funds, no cabinet: Kangana Ranaut's bizarre recipe for disaster reliefIn shocking remarks, BJP MP Kangana Ranaut said she neither had disaster relief funds nor a Cabinet post, but stressed she was making efforts to get central assistance for rain-hit Himachal Pradesh."
-    },
-    {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/the-undertaker-reacts-boy-grand-entry-as-father-plays-theme-song-harmonium-viral-video-2751653-2025-07-06",
-      "headline": "Boy recreates The Undertaker's grand entry with father, WWE legend reacts to videoA father-son duo brought the spirit of World Wrestling Entertainment (WWE) home when the father recreated The Undertaker's legendary entrance for his young son, earning a nod from The Deadman himself."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/tennis/story/wimbledon-line-calling-error-kartal-pavlyuchenkova-controversy-2751777-2025-07-07",
-      "headline": "Wimbledon organisers apologise after line-calling system failureWimbledon's decision to fully rely on automated line-calling came under sharp scrutiny on Sunday after a glaring malfunction denied Anastasia Pavlyuchenkova a crucial point during her last-16 clash against Britain's Sonay Kartal on Centre Court. The system, which controversially replaced human line judges this year, failed at a key moment, sparking confusion and outrage."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/magnus-carlsen-wins-superunited-rapid-blitz-croatia-title-2751724-2025-07-06",
-      "headline": "Magnus Carlsen trolls haters after Grand Chess Tour Zagreb win, deletes post laterWorld No. 1 Magnus Carlsen won the SuperUnited Rapid and Blitz Croatia on Sunday, July 06, overcoming a poor Rapid section with a stellar show in the fastest format. He took a dig at his critics with a meme before deleting the post. D Gukesh finished third after slipping in Blitz rounds. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/sanjay-raut-takes-dig-at-raj-thackeray-uddhav-thackeray-reunion-rally-marathi-hindi-row-2751721-2025-07-06",
-      "headline": "Team Uddhav taunts Raj Thackeray day after reunion rally: Had tea with Amit ShahShiv Sena (UBT) MP Sanjay Raut took a sharp dig at Raj Thackeray in his weekly column 'Rokthok', questioning the political direction of the Maharashtra Navnirman Sena (MNS)."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/rashmika-mandanna-deepika-padukone-eight-hour-shift-debate-actor-and-film-team-2751789-2025-07-07",
-      "headline": "Rashmika Mandanna on Deepika's 8-hour shift debate: Up to actor and film's teamRashmika Mandanna, in a recent interview, talked about the eight-hour shift debate amid Deepika Padukone's exit from Sandeep Reddy Vanga's over fixed work timings. She explained the working hours in South and Hindi film industries."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/england-vs-india-2nd-test-score-shubman-gill-akash-deep-birmingham-2751704-2025-07-06",
-      "headline": "Body blow for Bazball as Shubman Gill's India storm Birmingham bastionEngland (ENG) vs India (IND), 2nd Test: Shubman Gill's record-breaking run with the bat and an inspired bowling show, sans Jasprit Bumrah, helped India hammer England by 336 runs in Birmingham. India recovered from the heartbreak of Leeds to win for the first time at Edgbaston. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/without-global-south-world-bodies-are-like-phone-with-sim-but-no-network-pm-calls-out-double-standards-2751698-2025-07-06",
-      "headline": "Global South a victim of double standards: PM bats for inclusion at BricsPrime Minister Narendra Modi strongly advocated for comprehensive reforms to ensure inclusion and better representation of the Global South, while addressing the Brics summit in Brazil."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/trump-tariff-us-trade-letters-india-deal-global-trade-what-to-expect-stock-market-2751802-2025-07-07",
-      "headline": "Trump reveals tariff letter plan with a twist: Here's what's coming nextTrump also said that any country supporting what he called the 'Anti-American policies' of the BRICS group will face an additional 10% tariff."
+      "url": "https://www.indiatoday.in/world/story/bilawal-bhutto-pak-ready-extradite-hafiz-saeed-masood-azhar-india-talha-saeed-terrorists-2751673-2025-07-06",
+      "headline": "Bilawal Bhutto says ready to extradite Hafiz Saeed to India, draws his son's irePakistan was open to handing over terrorists Hafiz Saeed and Masood Azhar to India, former Foreign Minister Bilawal Bhutto Zardari said. However, Hafiz Saeed's son, Talha Saeed, hit back saying Bilawal's statement was wrong."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/icc-appoints-sanjog-gupta-as-chief-executive-officer-2751872-2025-07-07",
+      "headline": "ICC appoints Sanjog Gupta as Chief Executive OfficerThe International Cricket Council (ICC) has appointed Sanjog Gupta as its new chief executive officer (CEO). He will assume office on July 7, 2025, becoming the seventh CEO in the history of the ICC."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/magnus-carlsen-b-game-chess-win-zagreb-gukesh-2751866-2025-07-07",
+      "headline": "My B-game is enough: Magnus Carlsen after winning Grand Chess Tour ZagrebMagnus Carlsen clinched the SuperUnited Rapid and Blitz combined title in Croatia. Carlsen reacted to his win on social media, stating that his B-game was enough to beat the others."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/eng-vs-ind-flat-tacks-in-england-a-missed-opportunity-for-virat-kohli-2751750-2025-07-07",
+      "headline": "Flat tracks on England tour a missed opportunity for Virat Kohli?Did Virat Kohli time his Test retirement right with flat decks on offer on the ongoing England tour? Kohli's childhood coach, Rajkumar Sharma, opened up on the batter's Test retirement in a conversation with India Today."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/shubman-gill-criticises-dukes-ball-quality-flat-pitches-england-test-series-2751861-2025-07-07",
@@ -435,6 +450,31 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/story/f1-nico-hulkenberg-podium-lando-norris-oscar-piastri-ignore-2751837-2025-07-07",
       "headline": "Selfish Norris, Piastri slammed for ignoring Hulkenberg on British GP podiumNico Hulkenberg secured his first ever Formula 1 podium at the British Grand Prix. At the celebrations, he was ignored by both McLaren drivers."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/wimbledon-day-8-schedule-novak-djokovic-jannik-sinner-iga-swiatek-key-matches-2751824-2025-07-07",
+      "headline": "Day 8 schedule: Novak Djokovic, Jannik Sinner, Iga Swiatek take center stageOlympic champion Novak Djokovic and world No. 1 Jannik Sinner headline a star-studded Centre Court line-up on Monday (7 July) as Wimbledon 2025 enters its second week at the All England Club."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/mexico-wins-10th-concacaf-gold-cup-beating-usa-2-1-2751799-2025-07-07",
+      "headline": "Mexico beat USA 2-1 to retain Gold Cup, clinches record-extending 10th titleMexico overcame the United States 2-1 on Sunday at NRG Stadium in Houston, Texas, to successfully defend their CONCACAF Gold Cup trophy and win their 10th title in a thrilling final that was filled with drama from start to finish."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-england-test-series-akash-deep-edgbaston-win-2751790-2025-07-07",
+      "headline": "Seam, skid and spirit: Akash Deep turns Edgbaston into spectacle of English mayhemEngland vs India, 2nd Test: Akash Deep turned Edgbaston into his personal crime scene, leaving behind a trail of shattered stumps and broken batting egos. Armed with skiddy seamers and a fearless heart, he's rewritten his story: from forgotten backup to India's dangerous weapon."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/akash-deep-musical-song-english-fan-edgbaston-win-england-vs-india-2751788-2025-07-07",
+      "headline": "Watch: English fan sings a song for Akash Deep after Edgbaston Test heroicsEngland vs India: After helping India crush England by 336 runs to level the series at Edgbaston, Akash Deep received a heartwarming tribute \u2014 an English fan singing a song in his honour outside the stadium."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-england-shubman-gill-sunil-gavaskar-most-runs-in-test-series-2751785-2025-07-07",
+      "headline": "Gill prepares to hunt down Gavaskar, Bradman after epic start to seriesShubman Gill has scored three centuries in the first two Tests against England. His exceptional form puts him on track to break historic records held by Gavaskar and Bradman."
     },
     {
       "sentiment": "positive",
@@ -478,28 +518,108 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/akash-deep-musical-song-english-fan-edgbaston-win-england-vs-india-2751788-2025-07-07",
-      "headline": "Watch: English fan sings a song for Akash Deep after Edgbaston Test heroicsEngland vs India: After helping India crush England by 336 runs to level the series at Edgbaston, Akash Deep received a heartwarming tribute \u2014 an English fan singing a song in his honour outside the stadium."
+      "url": "https://www.indiatoday.in/sports/cricket/story/england-vs-india-jofra-archer-ben-stokes-press-conference-2751727-2025-07-07",
+      "headline": "Jofra Archer to return at Lord's? Ben Stokes shares updateENG vs IND: Ben Stokes opened up on whether Jofra Archer would return to playing in the upcoming Lord's Test after England's 336-run defeat in the second Test at Edgbaston. \r\n"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-england-shubman-gill-sunil-gavaskar-most-runs-in-test-series-2751785-2025-07-07",
-      "headline": "Gill prepares to hunt down Gavaskar, Bradman after epic start to seriesShubman Gill has scored three centuries in the first two Tests against England. His exceptional form puts him on track to break historic records held by Gavaskar and Bradman."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/tennis/story/wimbledon-line-calling-error-kartal-pavlyuchenkova-controversy-2751777-2025-07-07",
-      "headline": "Wimbledon organisers apologise after line-calling system failureWimbledon's decision to fully rely on automated line-calling came under sharp scrutiny on Sunday after a glaring malfunction denied Anastasia Pavlyuchenkova a crucial point during her last-16 clash against Britain's Sonay Kartal on Centre Court. The system, which controversially replaced human line judges this year, failed at a key moment, sparking confusion and outrage."
+      "url": "https://www.indiatoday.in/sports/cricket/story/west-indies-vs-australia-grenada-test-series-victory-2751746-2025-07-07",
+      "headline": "Australia crush West Indies in Grenada to secure series victoryWI vs AUS: Australia took an unassailable 2-0 lead in the three-match series after winning the second Test by 133 runs in Grenada. \r\n\r\n"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/england-add-gus-atkinson-lords-test-squad-vs-india-2751767-2025-07-07",
-      "headline": "England add Gus Atkinson to bolster bowling after Edgbaston loss vs IndiaEngland vs India: England have added pacer Gus Atkinson to their squad ahead of their third Test match against India, set to be held at Lord's in the Anderson-Tendulkar Trophy."
+      "url": "https://www.indiatoday.in/sports/tennis/story/carlos-alcaraz-aryna-sabalenka-taylor-fritz-wimbledon-day-7-2751744-2025-07-07",
+      "headline": "Carlos Alcaraz survives Rublev scare, Sabalenka, Fritz into quartersWimbledon: Carlos Alcaraz and Aryna Sabalenka booked their berths in the quarterfinals of the grass court major after beating Andrey Rublev and Elise Mertens in straight sets on Sunday. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/eng-vs-ind-akash-deep-t20-skills-dismantle-bazball-birmingham-2751730-2025-07-07",
-      "headline": "How Akash Deep used T20 skills to dismantle Bazball in BirminghamIndia fast bowler Akash Deep successfully filled in the massive shoes of Jasprit Bumrah as he helped India register a historic win in the second Test at Edgbaston, Birmingham with a ten-wicket haul. He even used his T20 skills to outfox batters and dismantle England's Bazball strategy."
+      "url": "https://www.indiatoday.in/sports/cricket/video/sunil-gavaskar-interview-eng-vs-ind-edgbaston-shubman-gill-record-2751739-2025-07-07",
+      "headline": "Sunil Gavaskar backs Shubman Gill to score 1000 runs in England Test seriesSpeaking to IndiaToday.in, Sunil Gavaskar said he would be more than happy if Shubman Gill breaks his record for most runs by an Indian in a Test series. The batting great backed Gill to go past Donald Bradman's all-time tally of 974 runs and go for 100 in the Anderson-Tendulkar Trophy. Gill scored 430 runs in the second Test, which India won by 336 runs. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/eng-vs-ind-edgbaston-stats-shubman-gill-joke-press-conference-journalist-2751738-2025-07-07",
+      "headline": "Shubman Gill trolls stats talk after Edgbaston win: Where's my favourite journalist?England vs India, 2nd Test: Shubman Gill took a friendly swipe at talk of history and statistics after India ended their long wait for a win in Birmingham. India defeated England by 336 runs on Sunday to seal a memorable victory."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/west-indies-vs-australia-grenada-test-series-victory-2751746-2025-07-07",
+      "headline": "Australia crush West Indies in Grenada to secure series victoryWI vs AUS: Australia took an unassailable 2-0 lead in the three-match series after winning the second Test by 133 runs in Grenada. \r\n\r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/carlos-alcaraz-aryna-sabalenka-taylor-fritz-wimbledon-day-7-2751744-2025-07-07",
+      "headline": "Carlos Alcaraz survives Rublev scare, Sabalenka, Fritz into quartersWimbledon: Carlos Alcaraz and Aryna Sabalenka booked their berths in the quarterfinals of the grass court major after beating Andrey Rublev and Elise Mertens in straight sets on Sunday. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/video/sunil-gavaskar-interview-eng-vs-ind-edgbaston-shubman-gill-record-2751739-2025-07-07",
+      "headline": "Sunil Gavaskar backs Shubman Gill to score 1000 runs in England Test seriesSpeaking to IndiaToday.in, Sunil Gavaskar said he would be more than happy if Shubman Gill breaks his record for most runs by an Indian in a Test series. The batting great backed Gill to go past Donald Bradman's all-time tally of 974 runs and go for 100 in the Anderson-Tendulkar Trophy. Gill scored 430 runs in the second Test, which India won by 336 runs. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/eng-vs-ind-edgbaston-stats-shubman-gill-joke-press-conference-journalist-2751738-2025-07-07",
+      "headline": "Shubman Gill trolls stats talk after Edgbaston win: Where's my favourite journalist?England vs India, 2nd Test: Shubman Gill took a friendly swipe at talk of history and statistics after India ended their long wait for a win in Birmingham. India defeated England by 336 runs on Sunday to seal a memorable victory."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/magnus-carlsen-wins-superunited-rapid-blitz-croatia-title-2751724-2025-07-06",
+      "headline": "Magnus Carlsen trolls haters after Grand Chess Tour Zagreb win, deletes post laterWorld No. 1 Magnus Carlsen won the SuperUnited Rapid and Blitz Croatia on Sunday, July 06, overcoming a poor Rapid section with a stellar show in the fastest format. He took a dig at his critics with a meme before deleting the post. D Gukesh finished third after slipping in Blitz rounds. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/eng-vs-ind-2nd-test-akash-deep-sister-cancer-emotional-tribute-2751720-2025-07-06",
+      "headline": "My sister has cancer: Emotional Akash Deep dedicates Edgbaston win to brave siblingEngland vs India, 2nd Test: Akash Deep played a match-winning role in India's 336-run victory over England in Birmingham. He dedicated his 10-wicket haul to his sister, who has been battling cancer for two months."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/eng-vs-ind-2nd-test-akash-deep-10-wickets-stats-2751717-2025-07-06",
+      "headline": "Akash Deep goes past Jasprit Bumrah with 10-wicket match haul in BirminghamAkash Deep starred with a 10-wicket haul as India secured a historic Test victory over England at Edgbaston. His performance, combined with Shubman Gill's twin centuries, marked a landmark moment for Indian cricket abroad."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/shubman-gill-jasprit-bumrah-england-vs-india-2nd-test-2751719-2025-07-06",
+      "headline": "Definitely: Shubman Gill confirms Jasprit Bumrah's return at Lord'sENG vs IND: After missing the second Test at Edgbaston in Birmingham, Jasprit Bumrah will return to play when the Lord's Test starts on July 12.\r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/england-vs-india-stats-records-birmingham-test-shubman-gill-2751713-2025-07-06",
+      "headline": "India win historic Birmingham Test to end 63-year-long wait: Stat PackENG vs IND, 2nd Test: Shubman Gill's India set a plethora of records after beating Ben Stokes' England by 336 runs in the second Test at Edgbaston in Birmingham. India became the first Asian team to win a Test at the venue since 1962. \r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/eng-vs-ind-virat-kohli-hails-shubman-gill-for-indias-for-historic-edgbaston-win-2751712-2025-07-06",
+      "headline": "Virat Kohli hails Shubman Gill's 'fearless' India for historic Edgbaston triumphVirat Kohli was full of praise for India's new Test captain, Shubman Gill, following the team's historic victory in the second match against England at Edgbaston, Birmingham. India beat England by 336 runs to level the series 1-1."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/england-vs-india-2nd-test-score-shubman-gill-akash-deep-birmingham-2751704-2025-07-06",
+      "headline": "Body blow for Bazball as Shubman Gill's India storm Birmingham bastionEngland (ENG) vs India (IND), 2nd Test: Shubman Gill's record-breaking run with the bat and an inspired bowling show, sans Jasprit Bumrah, helped India hammer England by 336 runs in Birmingham. India recovered from the heartbreak of Leeds to win for the first time at Edgbaston. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/aiff-cash-prize-india-womens-football-team-afc-asia-cup-qualification-2751703-2025-07-06",
+      "headline": "India Women's team rewarded Rs 42.75 lakh for AFC Asia Cup qualificationThe AIFF have announced that they will reward the India women's football team with a prize of Rs 42.75 lakhs for their dominant performance leading to their qualification in the AFC Women's Asia Cup. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/zimbabwe-vs-south-africa-2nd-test-wiaan-mulder-test-captaincy-record-2751702-2025-07-06",
+      "headline": "Wiaan Mulder hits historic double century on Test captaincy debutZIM vs SA, 2nd Test: Wiaan Mulder scored an unbeaten 264 and set the record for being the first South African to score a double hundred on Test captaincy debut. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/shubman-gill-breaks-test-records-wearing-nike-vest-bcci-sponsorship-controversy-2751688-2025-07-06",
+      "headline": "Explained: Is Shubman Gill in trouble for sporting Nike vest in Birmingham Test?England vs India: Shubman Gill made history with record-breaking double centuries during the Edgbaston Test. But, his choice to wear a Nike vest amid BCCI's Adidas deal has sparked widespread debate."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/pakistan-unlikely-icc-world-club-championship-report-2751681-2025-07-06",
+      "headline": "No IPL teams, Pakistan unlikely to play in World Club Championship: ReportReports have suggested that the proposed World Club Championship will not feature teams from Pakistan. In addition, no teams from the Indian Premier League are also expected to feature in the inaugural edition set to be held in 2026. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/eng-vs-ind-2nd-test-day-5-washington-sundar-ravindra-jadeja-assist-ben-stokes-wicket-2751678-2025-07-06",
+      "headline": "Wicket Washington, assist Jadeja: How India outfoxed Ben Stokes on Day 5England vs India, 2nd Test: India had England reeling at 153 for 6 at Lunch on Day 5, chasing 608. Washington Sundar and Ravindra Jadeja combined brilliantly to dismiss Ben Stokes at the stroke of the break on Sunday in Birmingham."
     }
   ],
   "education": [
