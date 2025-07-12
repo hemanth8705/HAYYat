@@ -63,6 +63,11 @@
   ],
   "entertainment": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/kareena-kapoor-car-was-attacked-after-saif-ali-khan-stabbing-incident-ronit-roy-2754860-2025-07-12",
+      "headline": "Kareena's car was attacked after Saif Ali Khan's stabbing incident: Ronit RoyActor Ronit Roy shared that actor Kareena Kapoor's car was attacked after her actor-husband Saif Ali Khan's hospital discharge. The actor, who manages a security agency, said this further prompted enhanced security measures."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/tiger-shroff-elated-over-superman-baaghi-crossover-choti-bachi-ho-kya-dialogue-2754852-2025-07-12",
       "headline": "Choti Bachi Ho Kya: Tiger Shroff elated over Superman x Baaghi crossoverActor Tiger Shroff expressed excitement over a reference to his film 'Baaghi' in the new 'Superman' movie. The Hindi dubbed version of the film gave a shout-out to 'Baaghi' and used the dialogue 'Choti Bachi Ho Kya?'. "
@@ -151,14 +156,14 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/hollywood/story/coco-jones-and-donovan-mitchell-announce-engagement-after-secret-romance-glbs-2754644-2025-07-12",
       "headline": "Coco Jones and Donovan Mitchell announce engagement after secret romance Grammy winner Coco Jones and NBA star Donovan Mitchell announced their engagement after two years of dating, sharing a romantic video and photo while opening up about their formerly private relationship.\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/hollywood/story/paul-mccartney-announces-2025-got-back-tour-with-19-north-american-dates-glbs-2754636-2025-07-12",
-      "headline": "Paul McCartney announces 2025 'Got Back' tour with 19 North American datesPaul McCartney's 2025 Got Back Tour spans 19 North American cities, starting September 29. Presale access begins July 15. Major stops include Las Vegas, Nashville, Montreal, and Chicago.\r\n"
     }
   ],
   "general news": [
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/cities/kolkata/story/woman-alleges-rape-father-claims-accident-iim-calcutta-mba-student-arrested-2754879-2025-07-12",
+      "headline": "Woman alleges rape, father claims accident: Twists and turns in IIM-Calcutta caseA woman alleged that she was raped by an MBA student inside the boys' hostel of IIM-Calcutta. Her father, however, said she fell from an auto-rickshaw."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/air-india-ahmedabad-crash-report-aviation-minister-pilots-conversation-conclusions-2754767-2025-07-12",
@@ -166,8 +171,28 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/air-india-ahmedabad-crash-probe-report-pilots-tried-to-relight-engine-fuel-switches-2754702-2025-07-12",
-      "headline": "Seconds before Mayday, Air India fuel switches turned back from 'cutoff' to 'run'While the first engine's core deceleration stopped, reversed, and began to recover, the second engine could not arrest its deceleration, according to the Aircraft Accident Investigation Bureau's report released today, a month after the June 12 crash."
+      "url": "https://www.indiatoday.in/india/story/pilots-association-flag-presuming-guilt-direction-of-air-india-ahmedabad-crash-report-2754840-2025-07-12",
+      "headline": "Presumes guilt: Pilots' union claims crash report biased, questions 'secrecy'The pilots' association expressed surprise at the 'secrecy' surrounding the investigation into the June 12 Air India crash and questioned the qualifications of the investigators."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-england-3rd-test-day-3-live-score-updates-lords-pant-kl-rahul-archer-2754772-2025-07-12",
+      "headline": "3rd Test Day 3 Live: Jadeja and Nitish living dangerouslyIND vs ENG, 3rd Test Day 3 Live Score: KL Rahul scored a brilliant hundred to push India's batting charge. However, he fell right after, off spinner Shoaib Bashir. Nitish Reddy is at the crease with Ravindra Jadeja as India look to navigate the final 10 overs of the old ball."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/the-lowdown/story/air-india-crash-boeing-787-8-ahmedabad-fuel-failure-scenarios-the-lowdown-2754763-2025-07-12",
+      "headline": "Air India crash: The many scenarios that fuel cut-off throws upThe AAIB's July 11, 2025, report on the June 12 Air India Boeing 787-8 crash in Ahmedabad, killing 260, cites fuel control switches moving to 'Cutoff' post-takeoff. Pilot confusion, mechanical issues, or sabotage are under investigation, with a final report due by June 2026."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/us-news/story/trump-announces-30-tariff-on-goods-imported-from-mexico-eu-from-august-1-2754872-2025-07-12",
+      "headline": "Trump announces 30% tariff on goods imported from Mexico, EU from August 1US President Donald Trump announced a 30% tariff on goods imported from Mexico and European Union from August 1."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/eng-vs-ind-kl-rahul-becomes-2nd-indian-batter-with-multiple-test-hundreds-at-lords-2754848-2025-07-12",
+      "headline": "KL Rahul becomes 2nd Indian batter with multiple Test hundreds at Lord'sKL Rahul became the second India batter to have scored multiple Test hundreds at Lord's. Rahul achieved the feat on Day 3 of the third test against  England."
     },
     {
       "sentiment": "negative",
@@ -176,13 +201,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-england-3rd-test-day-3-live-score-updates-lords-pant-kl-rahul-archer-2754772-2025-07-12",
-      "headline": "3rd Test Day 3 Live: India lose Pant at stroke of LunchIND vs ENG, 3rd Test Day 3 Live Score: Rishabh Pant falls at the stroke of lunch over a needless run out. KL Rahul is still at the crease and is in touching distance of his hundred. England on the other hand have got a crucial breakthrough and would look to make it count."
+      "url": "https://www.indiatoday.in/movies/bollywood/story/what-is-the-formula-for-bringing-middle-class-audience-back-to-theatres-2754255-2025-07-12",
+      "headline": "What is the formula for bringing middle-class audience back to theatres?The Indian middle-class audience has long been the driving force behind theatrical success, but the shifting focus towards niche, urban content has left them disconnected. To bring them back to cinemas, filmmakers must offer relatable stories, strong characters, and value-for-money entertainment that reflects their everyday lives."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/the-lowdown/story/air-india-crash-boeing-787-8-ahmedabad-fuel-failure-scenarios-the-lowdown-2754763-2025-07-12",
-      "headline": "Air India crash: The many scenarios that fuel cut-off throws upThe AAIB's July 11, 2025, report on the June 12 Air India Boeing 787-8 crash in Ahmedabad, killing 260, cites fuel control switches moving to 'Cutoff' post-takeoff. Pilot confusion, mechanical issues, or sabotage are under investigation, with a final report due by June 2026."
+      "url": "https://www.indiatoday.in/india/story/cockpit-exchange-of-air-india-pilots-before-crash-didnt-cut-fuel-2754633-2025-07-12",
+      "headline": "'I didn't cut off fuel': Cockpit exchange of Air India pilots before crashAs per the report, one of the pilots aboard the ill-fated Air India Boeing 787 that crashed in Ahmedabad on June 12 asked, \"Why did you cutoff the fuel?\" The other pilot responded, \"I did not do so.\""
     },
     {
       "sentiment": "positive",
@@ -195,19 +220,14 @@
       "headline": "DK Shivakumar's cryptic 'fighting for chair' remark amid tussle with SiddaramaiahDeputy Chief Minister DK Shivakumar's comments about holding on to chairs drew laughter from the audience. However, the veiled remark\u2014coming amid an ongoing power tussle with Chief Minister Siddaramaiah\u2014has sparked fresh speculation over the future of Karnataka's leadership."
     },
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/cities/bengaluru/story/bengaluru-chicken-rice-plan-strays-outrage-karnataka-daily-meal-heres-why-how-bbmp-dogs-kukkir-tihar-2754382-2025-07-12",
+      "headline": "Why Bengaluru's chicken-rice for stray dogs is a bone of contentionBengaluru's civic body, Bruhat Bengaluru Mahanagara Palike (BBMP), plans to serve chicken-rice to 5,000 street dogs every day at an annual cost of Rs 2.88 crore. The plan is aimed at curbing the aggression of dogs. Supporters call it humane, while critics slam it as a misuse of taxpayer money. Here's the debate. "
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/student-claims-she-was-raped-inside-iim-calcutta-campus-one-in-custody-2754766-2025-07-12",
       "headline": "Woman claims she was raped inside IIM Calcutta campus, 1 arrested: ReportIIM Calcutta, in a statement, said it was aware of a 'serious complaint' involving one of its students. However, it clarified that the complainant was not of the institute."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/what-is-the-formula-for-bringing-middle-class-audience-back-to-theatres-2754255-2025-07-12",
-      "headline": "What is the formula for bringing middle-class audience back to theatres?The Indian middle-class audience has long been the driving force behind theatrical success, but the shifting focus towards niche, urban content has left them disconnected. To bring them back to cinemas, filmmakers must offer relatable stories, strong characters, and value-for-money entertainment that reflects their everyday lives."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/cockpit-exchange-of-air-india-pilots-before-crash-didnt-cut-fuel-2754633-2025-07-12",
-      "headline": "'I didn't cut off fuel': Cockpit exchange of Air India pilots before crashAs per the report, one of the pilots aboard the ill-fated Air India Boeing 787 that crashed in Ahmedabad on June 12 asked, \"Why did you cutoff the fuel?\" The other pilot responded, \"I did not do so.\""
     },
     {
       "sentiment": "negative",
@@ -221,13 +241,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/bengaluru/story/bengaluru-chicken-rice-plan-strays-outrage-karnataka-daily-meal-heres-why-how-bbmp-dogs-kukkir-tihar-2754382-2025-07-12",
-      "headline": "Why Bengaluru's chicken-rice for stray dogs is a bone of contentionBengaluru's civic body, Bruhat Bengaluru Mahanagara Palike (BBMP), plans to serve chicken-rice to 5,000 street dogs every day at an annual cost of Rs 2.88 crore. The plan is aimed at curbing the aggression of dogs. Supporters call it humane, while critics slam it as a misuse of taxpayer money. Here's the debate. "
+      "url": "https://www.indiatoday.in/lifestyle/travel/story/india-cruise-travel-trend-growing-domestic-international-2754469-2025-07-12",
+      "headline": "Floating hotels, silk trails and jungle safaris: India's cruise storyCruises - both domestic and international - are emerging as the next big travel trend in India. A new travel trend report by SOTC and Thomas Cook notes that Indians are increasingly opting for new and unique travel formats, with cruises topping the list."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/wimbledon-2025-novak-djokovic-vs-jannisk-sinner-reflection-2754690-2025-07-12",
-      "headline": "Wimbledon: Once time-proof, Novak Djokovic finally looked mortalWimbledon 2025: For nearly two decades, Novak Djokovic defied time with grit and brilliance. But on Centre Court, against a rising Jannik Sinner, he looked powerless to stop the clock. The warrior who once bent eras to his will finally appeared mortal."
+      "url": "https://www.indiatoday.in/interactive/quiz/entertainment/weekly-quiz-504-11-07-2025",
+      "headline": "Question Time: Weekly News QuizThink you read the headlines this week? Let's test that!"
     },
     {
       "sentiment": "negative",
@@ -236,18 +256,18 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/air-india-ahmedabad-crash-probe-report-pilots-tried-to-relight-engine-fuel-switches-2754702-2025-07-12",
+      "headline": "Seconds before Mayday, Air India fuel switches turned back from 'cutoff' to 'run'While the first engine's core deceleration stopped, reversed, and began to recover, the second engine could not arrest its deceleration, according to the Aircraft Accident Investigation Bureau's report released today, a month after the June 12 crash."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/anant-ambani-radhika-merchant-wedding-celebration-of-indian-heritage-2754802-2025-07-12",
+      "headline": "The cultural spectacle: Ambani wedding as a celebration of Indian heritageA grand showcase of India's cultural soul."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/china-debt-diplomacy-bangladesh-pakistan-convergence-concern-for-india-turkey-south-asian-geopolitics-explained-2753871-2025-07-12",
       "headline": "Concern for India as debt diplomacy sees Bangladesh, Pakistan converge with ChinaWith its debt diplomacy, China has turned Pakistan into its vassal state. Now, it is trying the same in Bangladesh, whose economy is in tatters. This has resulted in the convergence of the interests of Beijing with those of Islamabad and Dhaka in India's backyard, a concern which was recently flagged by CDS General Anil Chauhan."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/travel/story/india-cruise-travel-trend-growing-domestic-international-2754469-2025-07-12",
-      "headline": "Floating hotels, silk trails and jungle safaris: India's cruise storyCruises - both domestic and international - are emerging as the next big travel trend in India. A new travel trend report by SOTC and Thomas Cook notes that Indians are increasingly opting for new and unique travel formats, with cruises topping the list."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/interactive/quiz/entertainment/weekly-quiz-504-11-07-2025",
-      "headline": "Question Time: Weekly News QuizThink you read the headlines this week? Let's test that!"
     },
     {
       "sentiment": "negative",
@@ -260,24 +280,9 @@
       "headline": "Censor Board faces flak for cuts in Superman and F1, fans say grow upThe Censor Board has faced widespread criticism for cutting a romantic scene from the Hollywood film 'Superman', sparking debates on its inconsistent censorship standards compared to Bollywood movies. This controversy highlighted ongoing tensions over cultural sensitivity and film certification practices in India."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/anant-ambani-radhika-merchant-wedding-celebration-of-indian-heritage-2754802-2025-07-12",
-      "headline": "The cultural spectacle: Ambani wedding as a celebration of Indian heritageA grand showcase of India's cultural soul."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/iiit-bangalore-student-bags-record-package-of-rs-145-crore-silver-jubilee-year-2754839-2025-07-12",
-      "headline": "IIIT Bangalore student bags record package of Rs 1.45 crore in silver jubilee yearIIIT Bangalore celebrated its 25th convocation with a record Rs 1.45 crore package bagged by an iMTech student and strong placement figures across the board."
-    },
-    {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/tennis-player-radhika-yadav-did-not-own-academy-trained-aspirants-at-rented-courts-police-2754833-2025-07-12",
-      "headline": "Radhika Yadav didn't own academy, trained aspirants at rented courts: CopsRadhika Yadav, a 25-year-old tennis player, was shot dead at her home in Gurugram by allegedly her father, Deepak Yadav, using his licenced revolver on July 10."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/us-india-trade-deal-500-percent-tariff-donald-trump-russia-sanction-act-2025-2754768-2025-07-12",
-      "headline": "Will India be hit with a 500% tariff? Here's what we knowIndia remains one of the few countries still in talks with the US at a time when the Trump administration is preparing to enforce steep new tariffs on imports from several nations starting August 1."
+      "url": "https://www.indiatoday.in/movies/celebrities/story/kareena-kapoor-car-was-attacked-after-saif-ali-khan-stabbing-incident-ronit-roy-2754860-2025-07-12",
+      "headline": "Kareena's car was attacked after Saif Ali Khan's stabbing incident: Ronit RoyActor Ronit Roy shared that actor Kareena Kapoor's car was attacked after her actor-husband Saif Ali Khan's hospital discharge. The actor, who manages a security agency, said this further prompted enhanced security measures."
     },
     {
       "sentiment": "positive",
@@ -293,14 +298,14 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/hollywood/story/cbfc-censor-board-sparks-backlash-over-superman-and-f1-cuts-fans-slam-censorship-2754830-2025-07-12",
       "headline": "Censor Board faces flak for cuts in Superman and F1, fans say grow upThe Censor Board has faced widespread criticism for cutting a romantic scene from the Hollywood film 'Superman', sparking debates on its inconsistent censorship standards compared to Bollywood movies. This controversy highlighted ongoing tensions over cultural sensitivity and film certification practices in India."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/are-ashish-chanchlani-and-elli-avrram-dating-fans-think-so-after-latest-post-2754796-2025-07-12",
-      "headline": "Are Ashish Chanchlani and Elli AvrRam dating? Fans think so after latest postAshish Chanchlani and Elli AvRam shared a cryptic Instagram post on Saturday, fuelling dating rumours amongst fans. The caption \"Finally,\" added fuel to the already surfacing rumours."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/eng-vs-ind-kl-rahul-becomes-2nd-indian-batter-with-multiple-test-hundreds-at-lords-2754848-2025-07-12",
+      "headline": "KL Rahul becomes 2nd Indian batter with multiple Test hundreds at Lord'sKL Rahul became the second India batter to have scored multiple Test hundreds at Lord's. Rahul achieved the feat on Day 3 of the third test against  England."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/wwe/story/evolution-2025-preview-matchcard-venue-date-time-india-streaming-details-2754864-2025-07-12",
@@ -309,7 +314,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/england-vs-india-rishabh-pant-injury-bodyline-ben-stokes-gavaskar-2754861-2025-07-12",
-      "headline": "Gavaskar fumes at 'bodyline' tactic against injured Rishabh PantSunil Gavaskar criticised England's aggressive short ball tactics on injured Rishabh Pant during the Test. He called the approach unsportsmanlike and urged the ICC to enforce stricter fielding rules."
+      "headline": "Gavaskar fumes at 'bodyline' tactic against injured Rishabh PantSunil Gavaskar criticised England's aggressive short ball tactics on injured Rishabh Pant during Day 3 in Lord's. He called the approach unsportsmanlike and urged the ICC to enforce stricter fielding rules."
     },
     {
       "sentiment": "positive",
@@ -348,8 +353,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-england-3rd-test-day-3-live-score-updates-lords-pant-kl-rahul-archer-2754772-2025-07-12",
-      "headline": "3rd Test Day 3 Live: India lose Pant at stroke of LunchIND vs ENG, 3rd Test Day 3 Live Score: Rishabh Pant falls at the stroke of lunch over a needless run out. KL Rahul is still at the crease and is in touching distance of his hundred. England on the other hand have got a crucial breakthrough and would look to make it count."
+      "url": "https://www.indiatoday.in/sports/cricket/story/jasprit-bumrah-2021-partnership-with-shami-more-special-than-honours-board-2754841-2025-07-12",
+      "headline": "Bumrah calls 2021 stand with Shami more special than being on honours boardIndia fast bowler Jasprit Bumrah called his match-winning partnership with Mohammed Shami from 2021 more memorable than being on the Lord's honours board. Bumrah became the 15th Indian bowler to achieve the feat."
     },
     {
       "sentiment": "negative",
@@ -365,11 +370,6 @@
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/cricket/story/eng-vs-ind-mohammed-siraj-diogo-jota-tribute-lords-test-2754795-2025-07-12",
       "headline": "Siraj on his tribute to Jota: Life is unpredictable, tomorrow not guaranteedMohammed Siraj reveals why he decided to make a tribute to Diogo Jota, the Portuguese footballer who died in a car crash recently. The fast-bowler mentions that he is a big fan of Ronaldo and the Portugal national team and wanted to make a heartfelt tribute."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-england-3rd-test-day-3-live-score-updates-lords-pant-kl-rahul-archer-2754772-2025-07-12",
-      "headline": "3rd Test Day 3 Live: India lose Pant at stroke of LunchIND vs ENG, 3rd Test Day 3 Live Score: Rishabh Pant falls at the stroke of lunch over a needless run out. KL Rahul is still at the crease and is in touching distance of his hundred. England on the other hand have got a crucial breakthrough and would look to make it count."
     }
   ],
   "education": [
