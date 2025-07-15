@@ -63,6 +63,11 @@
   ],
   "entertainment": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/toronto-rapper-stabbed-in-london-hours-after-attending-drakes-uk-tour-show-glbs-2756360-2025-07-16",
+      "headline": "Toronto rapper stabbed in London hours after attending Drake's UK tour showToronto rapper Top5, recently cleared of murder charges, was stabbed in North London after attending a Drake concert. Police say his injuries are not life-threatening; no arrests have been made.\r\n"
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/kathy-bates-makes-emmy-history-with-matlock-drama-nomination-glbs-2756350-2025-07-16",
       "headline": "Kathy Bates makes Emmy history with 'Matlock' drama nominationNoah Wyle and Adam Scott earned their first Best Actor Emmy nominations. Kathy Bates made history with Matlock. The Emmy Awards will air live on September 14 from Los Angeles.\r\n"
@@ -151,11 +156,6 @@
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/entertainment/music/story/beyonce-unreleased-music-stolen-from-car-atlanta-cowboy-carter-tour-2756055-2025-07-15",
       "headline": "Unreleased Beyonce songs stolen from car during Atlanta Cowboy Carter tourPop star Beyonce's unreleased music was stolen from her choreographer and dancer's car. The incident happened 48 hours before her Atlanta concert."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/cinematographer-senthil-kumar-on-exit-from-ssmb29-it-was-rajamoulis-call-2756153-2025-07-15",
-      "headline": "Cinematographer Senthil Kumar on exit from SSMB29: It was Rajamouli's callCinematographer KK Senthil Kumar confirms he's not part of SS Rajamouli's next with Mahesh Babu, adding that it was Rajamouli's decision to work with a different technician for the highly anticipated pan-India film."
     }
   ],
   "general news": [
@@ -280,6 +280,11 @@
       "headline": "Apple signs $500 million rare Earth deal With Pentagon-backed MP MaterialsApple has signed a $500 million deal with MP Materials for China-free rare earth magnets, strengthening US supply chains after Chinese export curbs and boosting Pentagon-backed MP's market position.\r\n"
     },
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/toronto-rapper-stabbed-in-london-hours-after-attending-drakes-uk-tour-show-glbs-2756360-2025-07-16",
+      "headline": "Toronto rapper stabbed in London hours after attending Drake's UK tour showToronto rapper Top5, recently cleared of murder charges, was stabbed in North London after attending a Drake concert. Police say his injuries are not life-threatening; no arrests have been made.\r\n"
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/kiara-advani-sidharth-malhotra-blessed-with-baby-girl-2756276-2025-07-15",
       "headline": "Kiara Advani-Sidharth Malhotra welcome a baby girlKiara Advani and Sidharth Malhotra welcomed their first child today. The couple was blessed with a baby girl. "
@@ -293,11 +298,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/television/story/emmy-awards-2025-nominations-reality-and-talk-show-categories-announced-ahead-of-full-list-2756236-2025-07-15",
       "headline": "Emmys 2025 nominations: Reality, talk show categories announced ahead of full listThe nominations for two categories of the 2025 Emmy Awards have been unveiled, with CBS Mornings making the official announcement. Take a look at the nominations below."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/netflix-mandala-murders-trailer-vaani-kapoor-mythological-crime-thriller-yrf-2756228-2025-07-15",
-      "headline": "Mandala Murders trailer: Vaani Kapoor as detective is up against crime and sorceryActor Vaani Kapoor plays investigating officer Rea Thomas in Yash Raj Films' mythological-crime-thriller\u2014'Mandala Murders'. The upcoming Netflix show blends crime investigation with mystical elements."
     }
   ],
   "sports": [
@@ -380,126 +380,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/eng-vs-ind-king-charles-shubman-gill-mohammed-siraj-lords-test-wicket-2756172-2025-07-15",
       "headline": "Unfortunate: How King Charles reacted to Mohammed Siraj's Lord's Test dismissalIndia captain Shubman Gill and vice-captain Rishabh Pant met King Charles III on Tuesday. The King praised India's spirited fight and spoke about Mohammed Siraj's dismissal in the Lord's Test. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/womens-odi-world-cup-india-new-zealand-warm-ups-fixtures-2756152-2025-07-15",
-      "headline": "India to face England, New Zealand in Women's World Cup warm-upsIndia are set to lock horns with England and New Zealand in their two warm-up matches of the Women's ODI World Cup on September 25 and 27 in Bengaluru. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/england-vs-india-jofra-archer-blue-hat-johnathan-agnew-doubters-lords-test-2756143-2025-07-15",
-      "headline": "Jofra Archer dons commentator's hat after proving critics wrong at Lord'sJofra Archer made his Test return in style\u2014and with a smile\u2014by wearing Jonathan Agnew's blue hat on-air, cheekily completing a bet made years ago that he'd never play red-ball cricket again."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/jordan-henderson-premier-league-return-brentford-ajax-2756144-2025-07-15",
-      "headline": "Henderson returns to Premier League with Brentford after Ajax exitFormer Liverpool captain Jordan Henderson makes his return to the Premier League as he joins Brentford on a two-year deal. After a brief stint outside Engalnd, the Premier League and Champions League winner makes his return to English top-flight."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/england-vs-india-ben-stokes-greatest-captain-michael-vaughan-ashesh-win-2756137-2025-07-15",
-      "headline": "Ben Stokes doesn't need Ashes for greatest England captain tag: VaughanMichael Vaughan called Ben Stokes one of England's finest Test captains. He emphasised Stokes doesn't need an Ashes win to prove his greatness as a captain."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/liam-dawson-shoaib-bashir-england-vs-india-manchester-test-2756122-2025-07-15",
-      "headline": "Liam Dawson returns to Tests after 8 years, replaces Shoaib BashirENG vs IND: Liam Dawson has replaced the injured Shoaib Bashir for the Manchester Test, scheduled to begin on July 23. On Monday, England took a 2-1 series lead after beating India by 22 runs. \r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-suryavanshi-archie-vaughan-beckhenam-youth-test-2756073-2025-07-15",
-      "headline": "All-round Suryavanshi takes spotlight, Vaughan takes three in Youth TestIndia U19's Vaibhav Suryavanshi was back amongst the runs as he smashed a quickfire fifty while England U19's Archie Vaughan was the pick of the bowlers with three wickets on Day 3 of the Youth Test in Beckenham.\u00a0"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/icc-womens-two-rankings-shafali-verma-top-10-batters-arundhati-2756100-2025-07-15",
-      "headline": "ICC Women's T20I rankings: Shafali Verma returns to top 10 after England heroicsIndia opener Shafali Verma has returned to the top 10 in the ICC Women's T20I Batting Rankings, as per the latest update released on Tuesday. Shafali was the second-highest run-getter behind fellow opener Smriti Mandhana."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/james-anderson-wildcard-pick-manchester-originals-the-hundred-2024-2756085-2025-07-15",
-      "headline": "Fast bowler James Anderson bags major T20 league contract at 42James Anderson has been selected by Manchester Originals as a wildcard for The Hundred 2025 season. Anderson retired from Test cricket, but the 42-year-old has been playing domestic cricket. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/liam-dawson-shoaib-bashir-england-vs-india-manchester-test-2756122-2025-07-15",
-      "headline": "Liam Dawson returns to Tests after 8 years, replaces Shoaib BashirENG vs IND: Liam Dawson has replaced the injured Shoaib Bashir for the Manchester Test, scheduled to begin on July 23. On Monday, England took a 2-1 series lead after beating India by 22 runs. \r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-suryavanshi-archie-vaughan-beckhenam-youth-test-2756073-2025-07-15",
-      "headline": "All-round Suryavanshi takes spotlight, Vaughan takes three in Youth TestIndia U19's Vaibhav Suryavanshi was back amongst the runs as he smashed a quickfire fifty while England U19's Archie Vaughan was the pick of the bowlers with three wickets on Day 3 of the Youth Test in Beckenham.\u00a0"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/icc-womens-two-rankings-shafali-verma-top-10-batters-arundhati-2756100-2025-07-15",
-      "headline": "ICC Women's T20I rankings: Shafali Verma returns to top 10 after England heroicsIndia opener Shafali Verma has returned to the top 10 in the ICC Women's T20I Batting Rankings, as per the latest update released on Tuesday. Shafali was the second-highest run-getter behind fellow opener Smriti Mandhana."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/james-anderson-wildcard-pick-manchester-originals-the-hundred-2024-2756085-2025-07-15",
-      "headline": "Fast bowler James Anderson bags major T20 league contract at 42James Anderson has been selected by Manchester Originals as a wildcard for The Hundred 2025 season. Anderson retired from Test cricket, but the 42-year-old has been playing domestic cricket. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-england-lords-test-trott-reaction-anderson-tendulkar-trophy-2755975-2025-07-15",
-      "headline": "Great for Test cricket: Jonathan Trott praises Lord's red-ball classicEngland vs India: Former England batsman Jonathan Trott has hailed the thrilling third Test in the Anderson-Tendulkar Trophy, saying it was great for red-ball cricket."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/cricket-olympics-games-la-2028-dates-medal-matches-2755961-2025-07-15",
-      "headline": "Cricket at LA Olympics to begin on July 12, medal matches on July 20 and 29Cricket's highly anticipated return to the Olympic Games at LA 2028 will begin on July 12, with medal matches scheduled for the 20th and 29th of the month."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/eng-vs-ind-jofra-archer-silences-keyboard-warriors-with-heroic-test-return-for-england-2755941-2025-07-15",
-      "headline": "Jofra Archer silences keyboard warriors with heroic Test return for EnglandJofra Archer helped England seal a thrilling 22-run victory over India in the third Test \u2014 silencing the \"keyboard warriors\" who had written him off during his long absence from red-ball cricket."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/real-madrid-alvaro-carreras-signing-sl-benfica-transfer-laliga-2755909-2025-07-15",
-      "headline": "Real Madrid complete full-back Alvaro Carreras signing from SL BenficaReal Madrid have re-signed Alvaro Carreras from Benfica for \u20ac50 million, bringing the 22-year-old full-back back to his boyhood club as part of Xabi Alonso's defensive rebuild ahead of the new season."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/roston-chase-reaction-west-indies-27-vs-australia-3rd-test-2755901-2025-07-15",
-      "headline": "Heartbreaking, embarrassing: Chase after WI fold for 27 in shocking collapseWest Indies skipper Roston Chase has labelled his team's dramatic batting collapse against Australia in Jamaica as \"heartbreaking\" and \"embarrassing\", after they were dismissed for 27, one of the lowest scores in Test cricket history."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/mitchell-starc-fastest-five-wicket-haul-test-history-australia-sweep-west-indies-2755880-2025-07-15",
-      "headline": "Mitchell Starc cherishes special week after historic spell in his 100th TestMitchell Starc starred in Australia's thumping win over the West Indies with a sensational six-wicket haul in the pink-ball Test. Celebrating his 100th Test, Starc became the fastest bowler to take a five-wicket haul in Test cricket."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/england-vs-india-ben-stokes-heart-soul-statistics-beyond-lords-test-2755868-2025-07-15",
-      "headline": "Ben Stokes, England's heart and soul, is beyond the statsEngland captain Ben Stokes gave a jaw dropping performance in the Lord's Test match. Braving pain, Stokes bowled a total of 44 overs, in an effort that once again furthered his legacy as a true leader in world cricket."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/england-vs-india-rishabh-pant-run-out-sunil-gavaskar-biggest-turning-point-lords-test-2755861-2025-07-15",
-      "headline": "Rishabh Pant's run-out the biggest turning point of Lord's Test: GavaskarSunil Gavaskar pinpointed Rishabh Pant's run-out as the key turning point in India's heartbreaking 22-run loss to England at Lord's, highlighting how it derailed a dominant partnership and ultimately cost India the match."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/video/england-vs-india-sunil-gavaskar-test-series-prediction-lords-loss-2755859-2025-07-15",
-      "headline": "India could still win the Test series 3-2 against England: Sunil GavaskarIndia great Sunil Gavaskar has backed the Shubman Gill-led young side to bounce back from the Lord's Test heartbreak and win the five-match series 3-2 with victories in Manchester and at the Oval.\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/england-vs-india-sledging-battle-win-lords-test-gill-crawley-siraj-duckett-2755853-2025-07-15",
-      "headline": "India stoked the fire, but England doused it and won sledging battle at Lord'sThe Lord's Test took on a life of its own when India decided to escalate the sledging battle at the end of Day 3. However, on the decisive days that followed, it was England who counter-punched-winning both the match and the war of words."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-eng-jofra-archer-sourav-ganguly-waving-shirt-stokes-win-lords-2755846-2025-07-15",
-      "headline": "How Ganguly's iconic shirt-waving act inspired Jofra Archer's heroic spellJofra Archer drew inspiration from Sourav Ganguly's famous shirt-swinging celebration at the 2002 NatWest Trophy final to deliver a match-winning spell for England on day five of the third Test against India at Lord's on Monday, revealed England captain Ben Stokes."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/cricket/story/mohammed-siraj-fined-celebration-gavaskar-hussain-defend-2755834-2025-07-15",
-      "headline": "Mohammed Siraj fined: Cricket legends back India pacer after match fees deductionEngland vs India: Sunil Gavaskar and Nasser Hussain felt it was harsh for Mohammed Siraj to be fined for his celebrations after dismissing Ben Duckett on Day 4 of the Lord's Test."
     }
   ],
   "education": [
