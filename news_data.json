@@ -23,7 +23,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/real-estate-homes-under-rs-1-crore-metro-city-property-price-rs-1-crore-new-delhi-mumbai-bangalore-2759033-2025-07-21",
-      "headline": "Affordable homes are vanishing. Can you still get a 2BHK for Rs 1 crore?Real estate prices across major metros have surged due to strong demand, high construction costs, and a steady flow of luxury housing projects. Yet, there are still locations in both Tier-1 and Tier-2 cities where a 2BHK under Rs 1 crore is within reach."
+      "headline": "Affordable homes are vanishing. Can you still get a 2BHK under Rs 1 crore?Real estate prices across major metros have surged due to strong demand, high construction costs, and a steady flow of luxury housing projects. Yet, there are still locations in both Tier-1 and Tier-2 cities where a 2BHK under Rs 1 crore is within reach."
     },
     {
       "sentiment": "positive",
@@ -203,6 +203,26 @@
   ],
   "entertainment": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/television/story/mannara-chopra-returns-to-work-after-father-death-shares-emotional-note-2759003-2025-07-21",
+      "headline": "Mannara Chopra returns to work after father's death, shares emotional noteMannara Chopra returned to work and social media after the recent death of her father, sharing an emotional note about grief and strength. Despite the pain, she expressed gratitude for the support and said she's posting again as part of her professional journey."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/kriti-sanon-dreamy-cruise-holiday-with-rumoured-boyfriend-kabir-bahia-2758893-2025-07-21",
+      "headline": "Kriti Sanon enjoys dreamy cruise vacation - with Kabir Bahia?Kriti Sanon shared stunning photos from her French cruise holiday, and the internet took notice after entrepreneur Kabir Bahia posted similar pictures from the same location. Though they didn't appear together, fans quickly connected the dots, sparking fresh buzz online."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/actor-silambarasan-offers-financial-aid-to-late-stuntman-mohan-rajs-family-2759128-2025-07-21",
+      "headline": "Actor Silambarasan offers financial aid to late stuntman Mohan Raj's familyAfter veteran stuntman Mohan Raj tragically lost his life while performing a dangerous car stunt for Pa. Ranjith's 'Vettuvam', actor Silambarasan TR stepped in with a heartfelt gesture. Even though he wasn't associated with the film, Silambarasan quietly extended financial help to the late stuntman's family. "
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/entertainment/music/story/bts-v-and-jungkook-sojang-defamation-case-trial-2759037-2025-07-21",
+      "headline": "BTS' V and Jungkook's Sojang defamation case moves to trialThe defamation suit filed by BTS members V and Jungkook against YouTuber Sojang is now set to undergo court-led mediation. However, chances of arriving at a mutually agreeable resolution appear slim."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/5-most-popular-anime-villains-with-tragic-backstories-naruto-attack-on-titan-2758974-2025-07-21",
       "headline": "5 most popular anime villains with tragic backstories that deserve tears, not hateFrom Naruto to Attack on Titan, these anime villains prove that evil isn't always black and white; sometimes, it's heartbreak in disguise. See which anime villain's backstory is your favourite.  "
@@ -276,26 +296,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/rashmika-mandanna-launches-her-fragrance-brand-vijay-deverakonda-cheers-2758913-2025-07-21",
       "headline": "Rashmika Mandanna launches perfume brand, Vijay Deverakonda gives a shout-outActor Rashmika Mandanna launched her fragrance line, Dear Diary, on Monday, calling the project very close to her heart. On the occasion, actor Vijay Deverakonda showed his support on social media."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/saiyaara-worldwide-box-office-collection-day-3-detailed-report-yrf-smashes-rs-100-crore-biggest-ever-for-debutants-2759011-2025-07-21",
-      "headline": "Saiyaara worldwide box office Day 3: Rs 100 crore done, biggest ever for debutants'Saiyaara' is on its way to being a clean blockbuster at the box office. The YRF biggie has recorded the biggest opening weekend worldwide for a Hindi film starring debutants, and a Bollywood love story. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/akshay-kumar-confronts-fan-for-filming-without-permission-later-agrees-to-selfie-2758972-2025-07-21",
-      "headline": "Akshay Kumar confronts fan for filming without permission, later agrees to selfieAkshay Kumar confronted a fan in London for recording him without permission but later calmed down and posed for a selfie. The incident sparked debate online about respecting celebrities' privacy in public spaces."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/vir-das-netflix-special-fool-volume-indian-freelancers-creative-control-2758975-2025-07-21",
-      "headline": "Vir Das's Fool Volume spotlights Indian crew in global Netflix specialVir Das's Netflix special Fool Volume features 65 Indian freelancers earning first credits. The special challenges western narratives by focusing on Indian creative control and talent."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/jeethu-joseph-delays-hindi-drishyam-3-to-prioritise-malayalam-version-2758937-2025-07-21",
-      "headline": "Drishyam director recalls issuing warning to makers of Ajay Devgn starrerJeethu Joseph, director of the Mohanlal starrer 'Drishyam' movies, recently revealed having to prevent the makers of Ajay Devgn's Hindi version from getting an early start. "
     }
   ],
   "general news": [
@@ -310,9 +310,9 @@
       "headline": "India hit Pak N-warheads depot Kirana Hills during Op Sindoor, claims OSINT expertIndia hit Pakistan's Kirana Hills, which is believed to be one of the storage sites for its nuclear warheads, in a \"warning strike\" during Operation Sindoor, renowned OSINT expert Damien Symon has claimed. He cited updated Google Earth data to back his claim. The Indian military has denied striking Kirana Hills."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/monsoon-session-of-parliament-pm-modi-holds-key-parliament-meet-with-top-cabinet-ministers-2759101-2025-07-21",
-      "headline": "PM holds key meet with top ministers amid chaotic start to Monsoon SessionAs the\u00a0first day of the Monsoon Session witnessed a stormy beginning, Prime Minister Narendra Modi held a key meeting in Parliament complex along with top ministers, including Home Minister Amit Shah,\u00a0Defence Minister Rajnath Singh, and Health Minister and BJP chief JP Nadda."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/karnataka/story/siddaramaiah-supreme-court-rejects-ed-appeal-against-wife-in-muda-case-karnataka-congress-centre-2758968-2025-07-21",
+      "headline": "Centre misused ED, CBI for vendetta: Siddaramaiah after Supreme Court clears wifeSiddaramaiah hailed Supreme Court's dismissal of the ED's appeal to probe Siddaramaiah's wife over the Mysuru Urban Development Authority (Muda) site case as justice and slammed BJP's misuse of agencies. He demanded apologies from BJP and JD(S) leaders.\r\n"
     },
     {
       "sentiment": "negative",
@@ -321,38 +321,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/karnataka-vegetable-vendor-hit-with-rs-29-lakh-gst-notice-here-is-why-2758841-2025-07-21",
-      "headline": "Karnataka vegetable vendor hit with Rs 29 lakh GST notice. Here's whySelling veggies for four years and accepting UPI has landed Shankargouda with a Rs 29 lakh GST notice on Rs 1.63 crore turnover."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/former-kerala-chief-minister-vs-achuthanadan-dies-at-101-2759060-2025-07-21",
-      "headline": "Ex-Kerala Chief Minister and veteran communist leader VS Achuthanadan dies at 101Veteran communist leader and former Kerala Chief Minister VS Achuthanandan passed away at 101. He led CPI(M) to power in 2006 and fought for workers, environment, and the poor. Known for his integrity, he inspired generations of Left activists.\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/parliament-monsoon-session-updates-pm-modi-speech-opposition-sindoor-trump-bihar-voter-list-2758725-2025-07-21",
-      "headline": "Parliament's Monsoon storm: 16 hours to debate Op Sindoor, 12 for new tax billThe Prime Minister touched upon a host of issues, ranging from India setting foot on the space station to the government's resolve of a 'Naxalism-free' country by 2026.\u00a0"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india-today-insight/story/how-digitisation-can-bridge-indias-rs-20-lakh-cr-kirana-credit-gap-2759022-2025-07-21",
-      "headline": "How digitisation can bridge India's Rs 20 lakh cr kirana credit gapFormal credit remains dry for the 13 million-strong kirana network, with shopkeepers largely reliant on costly loans from local moneylenders or distributors"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/uorfi-javed-gets-lip-fillers-dissolved-after-9-years-shares-video-of-swollen-face-2759104-2025-07-21",
-      "headline": "Uorfi Javed gets lip fillers dissolved after 9 years, shares video\u00a0of\u00a0swollen\u00a0faceUorfi Javed shared a video of her swollen face after getting her lip fillers removed, sharing the pain and challenges of the procedure. Fans praised her honesty, while others expressed concern and urged empathy for her choices."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/impact-feature/story/ssvm-institutions-from-cradle-to-cosmos-2754432-2025-07-11",
-      "headline": "SSVM Institutions: From Cradle to CosmosForging Futures with Foresight, Flair, and Faith"
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/impeachment-of-justice-varma-moves-ahead-145-mps-submit-memorandum-to-speaker-2759034-2025-07-21",
-      "headline": "Cash row: Impeachment of Justice Varma moves ahead as over 200 MPs submit motionMore than 200 MPs have submitted notices to Lok Sabha Speaker Om Birla and Rajya Sabha chairman Jagdeep Dhankhar seeking the removal of Justice Yashwant Varma, who is accused of misconduct after piles of unaccounted cash were found at his residence."
+      "url": "https://www.indiatoday.in/india/story/comrade-vs-achuthanandan-working-class-heartthrob-hero-cm-82-cpim-people-champion-communist-party-kerala-2759125-2025-07-21",
+      "headline": "How Comrade VS, working-class heartthrob, became a CM at 82Former Kerala Chief Minister and veteran Communist leader VS Achuthanandan passed away at 101, marking the end of an era. A lifelong crusader for workers' rights and social justice, he rose from a tailor's shop to lead the state at 82. Revered as the \"people's champion\", VS was the last surviving founding member of CPI(M)."
     },
     {
       "sentiment": "negative",
@@ -361,13 +331,43 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/books/story/mango-millionaire-makes-money-feel-relatable-radhika-gupta-niranjan-awasthi-2758912-2025-07-21",
-      "headline": "From Bollywood to dal-chawal, Mango Millionaire makes money feel relatable'Mango Millionaire' turns personal finance into a relatable conversation, using Bollywood, family meals, and everyday metaphors to explain money matters. It's simple, practical, and feels more like advice from a friend than a finance manual."
+      "url": "https://www.indiatoday.in/world/us-news/story/donald-trump-administration-weighed-h1b-indians-visa-system-ending-lottery-based-model-maga-2758931-2025-07-21",
+      "headline": "Weighted H-1B visa system might end lottery-based model after DHS proposalThe Trump administration has proposed a weighted selection system for H-1B visas, moving away from the current random lottery model. The change would affect the 85,000 statutorily capped visas and prioritise factors like salary or qualifications. Indians, who make up the majority of H-1B recipients, might be impacted."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/donald-trump-administration-weighed-h1b-indians-visa-system-ending-lottery-based-model-maga-2758931-2025-07-21",
-      "headline": "Weighted H-1B visa system might end lottery-based model after DHS proposalThe Trump administration has proposed a weighted selection system for H-1B visas, moving away from the current random lottery model. The change would affect the 85,000 statutorily capped visas and prioritise factors like salary or qualifications. Indians, who make up the majority of H-1B recipients, might be impacted."
+      "url": "https://www.indiatoday.in/india-today-insight/story/how-digitisation-can-bridge-indias-rs-20-lakh-cr-kirana-credit-gap-2759022-2025-07-21",
+      "headline": "How digitisation can bridge India's Rs 20 lakh cr kirana credit gapFormal credit remains dry for the 13 million-strong kirana network, with shopkeepers largely reliant on costly loans from local moneylenders or distributors"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/lifestyle/society/story/dog-lovers-vs-the-rest-supreme-court-remark-on-dogs-stray-dog-divide-now-harder-to-bridge-2759106-2025-07-21",
+      "headline": "'Feed them at home?' That one line has dog lovers fuming and whyThe Supreme Court on Tuesday, while hearing a plea alleging harassment over the feeding of community dogs in Noida, asked the petitioner, \"Why don't you feed them in your own house?\" Can the remark widen the divide between dog lovers and 'the rest'?"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/impact-feature/story/ssvm-institutions-from-cradle-to-cosmos-2754432-2025-07-11",
+      "headline": "SSVM Institutions: From Cradle to CosmosForging Futures with Foresight, Flair, and Faith"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/karnataka-vegetable-vendor-hit-with-rs-29-lakh-gst-notice-here-is-why-2758841-2025-07-21",
+      "headline": "Karnataka vegetable vendor hit with Rs 29 lakh GST notice. Here's whySelling veggies for four years and accepting UPI has landed Shankargouda with a Rs 29 lakh GST notice on Rs 1.63 crore turnover."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/parliament-monsoon-session-updates-pm-modi-speech-opposition-sindoor-trump-bihar-voter-list-2758725-2025-07-21",
+      "headline": "Parliament's Monsoon storm: 16 hours to debate Op Sindoor, 12 for new tax billThe Prime Minister touched upon a host of issues, ranging from India setting foot on the space station to the government's resolve of a 'Naxalism-free' country by 2026.\u00a0"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/uorfi-javed-gets-lip-fillers-dissolved-after-9-years-shares-video-of-swollen-face-2759104-2025-07-21",
+      "headline": "Uorfi Javed gets lip fillers dissolved after 9 years, shares video\u00a0of\u00a0swollen\u00a0faceUorfi Javed shared a video of her swollen face after getting her lip fillers removed, sharing the pain and challenges of the procedure. Fans praised her honesty, while others expressed concern and urged empathy for her choices."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/impeachment-of-justice-varma-moves-ahead-145-mps-submit-memorandum-to-speaker-2759034-2025-07-21",
+      "headline": "Cash row: Impeachment of Justice Varma moves ahead as over 200 MPs submit motionMore than 200 MPs have submitted notices to Lok Sabha Speaker Om Birla and Rajya Sabha chairman Jagdeep Dhankhar seeking the removal of Justice Yashwant Varma, who is accused of misconduct after piles of unaccounted cash were found at his residence."
     },
     {
       "sentiment": "positive",
@@ -376,33 +376,13 @@
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/karnataka/story/siddaramaiah-supreme-court-rejects-ed-appeal-against-wife-in-muda-case-karnataka-congress-centre-2758968-2025-07-21",
-      "headline": "Centre misused ED, CBI for vendetta: Siddaramaiah after Supreme Court clears wifeSiddaramaiah hailed Supreme Court's dismissal of the ED's appeal to probe Siddaramaiah's wife over the Mysuru Urban Development Authority (Muda) site case as justice and slammed BJP's misuse of agencies. He demanded apologies from BJP and JD(S) leaders.\r\n"
-    },
-    {
-      "sentiment": "negative",
       "url": "https://www.indiatoday.in/trending-news/story/gujarat-stunt-goes-horribly-wrong-as-mercedes-gets-stuck-in-surat-beach-swamp-viral-video-2759069-2025-07-21",
       "headline": "Video: Mercedes gets stuck in Surat beach swamp as stunt goes wrongIn a video of the moment that went viral on social media, the car's occupants are seen standing helplessly, unsure how to retrieve it.  "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india-today-insight/story/when-shinde-sena-mla-sanjay-gaikwad-spewed-a-south-slur-2759004-2025-07-21",
-      "headline": "When Shinde Sena MLA spewed a 'South' slurThe protagonist, Sanjay Gaikwad, it appears was harking back to the old nativist credo as a cover for a mess of his own making"
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/trending-news/story/mumbai-man-shreds-lehenga-with-knife-after-fiance-dispute-with-shopkeeper-viral-video-2758988-2025-07-21",
-      "headline": "Video: Mumbai man shreds lehenga with knife after fiancee's dispute with shopkeeperA man from Mumbai shredded a Rs 32,000 bridal lehenga with a knife inside a store in Kalyan after his fiancee had a heated argument with the shopkeeper."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/prithvi-shaw-kevin-pietersen-sarfaraz-khan-weightloss-transformation-2759083-2025-07-21",
-      "headline": "Shaw should see this: Pietersen praises Sarfaraz's stunning transformationKevin Pietersen shared a cheeky dig at Prithvi Shaw as he reacted to Sarfaraz Khan's insane weightloss transformation"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/giant-mysterious-circles-seen-in-saudi-desert-heres-what-they-are-2759109-2025-07-21",
-      "headline": "Mysterious circles seen in Saudi desert. Here's the full truthMysterious circles have been seen popping up in the deserts of Saudi Arabia in satellite images. Here's the truth behind these pictures.  "
+      "url": "https://www.indiatoday.in/books/story/mango-millionaire-makes-money-feel-relatable-radhika-gupta-niranjan-awasthi-2758912-2025-07-21",
+      "headline": "From Bollywood to dal-chawal, Mango Millionaire makes money feel relatable'Mango Millionaire' turns personal finance into a relatable conversation, using Bollywood, family meals, and everyday metaphors to explain money matters. It's simple, practical, and feels more like advice from a friend than a finance manual."
     },
     {
       "sentiment": "positive",
@@ -411,8 +391,28 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/prithvi-shaw-kevin-pietersen-sarfaraz-khan-weightloss-transformation-2759083-2025-07-21",
+      "headline": "Shaw should see this: Pietersen praises Sarfaraz's stunning transformationKevin Pietersen shared a cheeky dig at Prithvi Shaw as he reacted to Sarfaraz Khan's insane weightloss transformation"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india-today-insight/story/when-shinde-sena-mla-sanjay-gaikwad-spewed-a-south-slur-2759004-2025-07-21",
+      "headline": "When Shinde Sena MLA spewed a 'South' slurThe protagonist, Sanjay Gaikwad, it appears was harking back to the old nativist credo as a cover for a mess of his own making"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/giant-mysterious-circles-seen-in-saudi-desert-heres-what-they-are-2759109-2025-07-21",
+      "headline": "Mysterious circles seen in Saudi desert. Here's the full truthMysterious circles have been seen popping up in the deserts of Saudi Arabia in satellite images. Here's the truth behind these pictures.  "
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/law-news/story/supreme-court-rejects-plea-seeking-exclusive-use-of-indigenous-cow-milk-at-tirupati-temple-suggests-petitioner-approach-high-court-2759038-2025-07-21",
       "headline": "Cow is a cow: Supreme Court rejects hearing plea on desi milk at Tirupati templeThe Supreme Court refused to hear a plea demanding only indigenous cow milk for rituals at Tirupati temple. The bench questioned the necessity of such distinctions in worship. The petitioner was allowed to approach the High Court."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/cities/bengaluru/story/two-women-caught-in-bengaluru-with-cocaine-worth-rs-1469-crore-in-soap-boxes-2759132-2025-07-21",
+      "headline": "Two women caught in Bengaluru with cocaine worth Rs 14.69 crore in soap boxesTwo women, identified as Laljamluvai from Manipur and Lalthangliani from Mizoram, were arrested near Cottonpet in connection with the case. A preliminary probe revealed that the operation was part of a high-level interstate smuggling racket."
     },
     {
       "sentiment": "positive",
@@ -420,27 +420,32 @@
       "headline": "Is he your friend? Chief Justice pulls up lawyer for calling cash row judge 'Varma'A bench comprising Chief Justice of India BR Gavai and Justice K Vinod Chandran expressed strong disapproval as lawyer Mathews Nedumpara repeatedly referred to Allahabad High Court judge Yashwant Varma as just 'Varma'."
     },
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/television/story/mannara-chopra-returns-to-work-after-father-death-shares-emotional-note-2759003-2025-07-21",
+      "headline": "Mannara Chopra returns to work after father's death, shares emotional noteMannara Chopra returned to work and social media after the recent death of her father, sharing an emotional note about grief and strength. Despite the pain, she expressed gratitude for the support and said she's posting again as part of her professional journey."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/kriti-sanon-dreamy-cruise-holiday-with-rumoured-boyfriend-kabir-bahia-2758893-2025-07-21",
+      "headline": "Kriti Sanon enjoys dreamy cruise vacation - with Kabir Bahia?Kriti Sanon shared stunning photos from her French cruise holiday, and the internet took notice after entrepreneur Kabir Bahia posted similar pictures from the same location. Though they didn't appear together, fans quickly connected the dots, sparking fresh buzz online."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/actor-silambarasan-offers-financial-aid-to-late-stuntman-mohan-rajs-family-2759128-2025-07-21",
+      "headline": "Actor Silambarasan offers financial aid to late stuntman Mohan Raj's familyAfter veteran stuntman Mohan Raj tragically lost his life while performing a dangerous car stunt for Pa. Ranjith's 'Vettuvam', actor Silambarasan TR stepped in with a heartfelt gesture. Even though he wasn't associated with the film, Silambarasan quietly extended financial help to the late stuntman's family. "
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/samantha-ruth-prabhu-return-telugu-cinema-nandini-reddy-social-drama-2759085-2025-07-21",
       "headline": "Samantha to return to Telugu cinema with Nandini Reddy's film: ReportSamantha Ruth Prabhu, who was last seen in a full-fledged role in Telugu cinema in 2023's 'Khushi' starring Vijay Deverakonda, will be making a comeback with a project backed by her production company, Tralala Moving Pictures."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/ahaan-panday-dating-shruti-chauhan-saiyaara-review-fuels-rumours-2759061-2025-07-21",
-      "headline": "Is Ahaan Panday dating Shruti Chauhan? Her Saiyaara review fuels rumours'Saiyaara' actor Ahaan Panday is reportedly dating actor-model Shruti Chauhan. Their relationship came under scrutiny after Chauhan shared an emotional message for Panday. The couple is yet to confirm their relationship. "
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/movies/hollywood/story/james-gunn-explains-confusion-around-henry-cavill-superman-exit-return-calls-it-unfair-2758878-2025-07-21",
-      "headline": "James Gunn regrets confusion around Henry Cavill's Superman return, calls it unfairDirector James Gunn recently revealed the confusion around actor Henry Cavill's Superman return was unfair. He praised Cavill's professionalism and hinted at future collaborations."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/movies/hollywood/story/mcu-reset-iron-man-captain-america-recast-robert-downey-jr-dr-doom-2758934-2025-07-21",
-      "headline": "Captain America, Iron Man to be recast as Kevin Feige confirms MCU resetAs actor Robert Downey Jr transcends from playing Iron Man to portraying Dr Doom in the upcoming 'Avengers' film, Marvel plans to reset the Marvel Cinematic Universe with the recasting of Tony Stark and Captain Steve Rogers."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/eng-vs-ind-harry-brook-india-were-scared-manchester-test-2759138-2025-07-21",
+      "headline": "India were scared: Brook reveals why England hold advantage in 4th TestHarry Brook believes India's fearful tactics have only boosted England's confidence ahead of the crucial fourth Test in Manchester."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/england-vs-india-jasprit-bumrah-to-play-manchester-test-mohammed-siraj-2759112-2025-07-21",
@@ -493,8 +498,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/mitchell-owen-t20i-debut-reaction-fifty-wicket-australia-win-west-indies-2758920-2025-07-21",
-      "headline": "Mitchell Owen calls dream Australia debut against West Indies really specialMitchell Owen described his dream T20I debut for Australia against the West Indies as \"really special\" after delivering a match-winning all-round performance in Jamaica."
+      "url": "https://www.indiatoday.in/sports/story/nepal-cricket-team-bcci-centre-of-excellence-bengaluru-t20-world-cup-qualifiers-2758998-2025-07-21",
+      "headline": "Nepal to train at BCCI's Centre of Excellence for T20 World Cup qualifiersThe Nepal men's cricket team will take part in a 15-day camp at the BCCI's Centre of Excellence (COE) as part of their preparations for the T20 World Cup qualifiers. "
     },
     {
       "sentiment": "positive",
@@ -515,11 +520,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/wi-vs-aus-mitchell-owen-emulates-ricky-ponting-and-david-warner-2758950-2025-07-21",
       "headline": "Mitchell Owen emulates Ponting and Warner's feat after remarkable debut vs WIAustralia batter Mitchell Owen emulated Ricky Ponting and David Warner's feat after his remarkable debut in the first T20I against West Indies in Jamaica."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/mitchell-owen-t20i-debut-reaction-fifty-wicket-australia-win-west-indies-2758920-2025-07-21",
-      "headline": "Mitchell Owen calls dream Australia debut against West Indies really specialMitchell Owen described his dream T20I debut for Australia against the West Indies as \"really special\" after delivering a match-winning all-round performance in Jamaica."
     }
   ],
   "education": [
