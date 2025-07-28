@@ -1,6 +1,11 @@
 {
   "business": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/should-you-be-paying-house-rent-with-credit-card-2762579-2025-07-28",
+      "headline": "Should you be paying rent with credit card?More and more people are using credit cards to pay rent. But does the benefit of extra days to pay and cashback outweigh the fees and credit score impact? Let's break it down."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/market/story/stock-market-closing-bell-sensex-ends-572-points-lower-nifty-below-24700-kotak-bank-down-7-percent-2762509-2025-07-28",
       "headline": "Sensex ends 572 points lower, Nifty below 24,700; Kotak Bank down 7%The S&P BSE Sensex lost 572.07 points to end at 80,891.02, while the NSE Nifty50 was down by 156.10 points to close at 24,680.90."
@@ -54,14 +59,24 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/samsung-chip-deal-tesla-usd-165-billion-deal-share-price-jump-ai-2762270-2025-07-28",
       "headline": "Samsung to power Tesla's future with $16.5 billion chip deal: ReportThis long-term contract comes at a crucial time for Samsung. While the company is one of the world's biggest makers of memory chips, its foundry business, which produces chips for other companies, has struggled to keep up with demand and competition."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/krutrim-layoffs-bhavish-aggarwal-ola-100-employees-second-round-job-cuts-report-2762254-2025-07-28",
-      "headline": "Bhavish Aggarwal's Krutrim lays off over 100 employees in fresh job cuts: ReportThe layoffs at Krutrim affected a large part of the firm's linguistics team, which had only recently joined the company."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/television/story/rupali-ganguly-seeks-blessings-from-lord-shiva-at-mahakaleshwar-temple-shares-pics-2762593-2025-07-28",
+      "headline": "Rupali Ganguly seeks blessings from Lord Shiva at Mahakaleshwar temple, shares\u00a0pics\u00a0Rupali Ganguly visited the Mahakaleshwar temple in Ujjain with her husband to seek Lord Shiva's blessings on Sawan Somvar. The 'Anupamaa' star shared pictures from the spiritual visit, which are now going viral on social media."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/kaantha-teaser-dulquer-salmaan-revives-golden-age-cinema-in-tense-period-drama-2762569-2025-07-28",
+      "headline": "Kaantha teaser: Dulquer Salmaan revives golden age cinema in tense period dramaThe teaser of 'Kaantha', starring Dulquer Salmaan and released on his birthday, offers a glimpse into a gripping 1950s Madras tale of artistic rivalry and ego clashes. The film will release in September. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/saiyaara-hits-global-top-50-on-spotify-krish-dreamt-it-the-world-played-it-ahaan-panday-aneet-padda-mohit-suri-2762540-2025-07-28",
+      "headline": "Saiyaara hits global top 50 on Spotify - Krish dreamt it, the world played itSpoiler ahead! Krish Kapoor (played by Ahaan Panday) vows to make the 'Saiyaara' song so big that it reaches his love, Vaani Batra (Aneet Padda). It seems like fiction has become reality as the song has shot to the No. 1 spot on Spotify's Top 50 India and climbed to No. 4 on the Global Top 50 list.\u00a0"
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/music/story/beyonce-ends-cowboy-carter-tour-vegas-watch-2762418-2025-07-28",
@@ -141,21 +156,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/sanjay-dutt-on-bond-with-salman-khan-arshad-warsi-2762444-2025-07-28",
       "headline": "Sanjay Dutt opens up about bond with Salman Khan and Arshad Warsi: I can't detachSanjay Dutt talked about his friendship with Salman Khan and Arshad Warsi. He called Salman his brother and praised Arshad's comedy. He will soon be seen with Arshad in 'Welcome to the Jungle'."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/hollywood/story/pride-prejudice-returns-to-theatres-keira-knightley-matthew-macfadyen-2761695-2025-07-28",
-      "headline": "Pride & Prejudice returns to theatres and it still says everything about love'Pride & Prejudice' re-release: Don't miss the iconic 2005 adaptation that defined the modern rom-coms and proved Jane Austen is still the queen of feminist love stories."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/sunny-deol-meets-dalai-lama-during-unforgettable-ladadkh-trip-with-son-rajveer-2762372-2025-07-28",
-      "headline": "Sunny Deol meets Dalai Lama during unforgettable Ladakh trip with son RajveerBollywood actor Sunny Deol met the Dalai Lama during a trip to Ladakh with his son, Rajveer. The actor shared the encounter on social media, expressing gratitude and admiration."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/kajol-channels-kabhi-khushi-kabhie-gham-anjali-at-daughter-nysa-devgn-graduation-2762339-2025-07-28",
-      "headline": "Kajol channels K3G's Anjali at daughter Nysa's graduation. Video\u00a0goes\u00a0viralNysa Devgn and Raheema Rahman, daughters of Kajol-Ajay Devgn and AR Rahman, graduated from the Glion Institute of Higher Education in Switzerland. A video of Kajol cheering for Nysa during the ceremony caught fans' attention online."
     }
   ],
   "general news": [
@@ -167,7 +167,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/parliament-monsoon-session-live-lok-sabha-op-sindoor-debate-opposition-pahalgam-centre-2762255-2025-07-28",
-      "headline": "Live: Gaurav Gogoi says Amit Shah must take moral responsibility for J&K attackParliament Session 2025 Live Updates: After a week of disruptions, Parliament's Monsoon Session is witnessing a high-stakes debate, with the focus on the Pahalgam terror attack and Operation Sindoor \u2014 two issues deeply tied to national security and foreign policy. Both the ruling BJP-led NDA and the INDIA bloc are preparing for an intense face-off in the Lok Sabha and Rajya Sabha. The Congress has issued a three-line whip, directing its Lok Sabha MPs to remain present in the House for the next three days. In a rare show of consensus, the two sides have agreed to a 16-hour debate in each House \u2014 though such sessions typically spill over beyond the allotted time. Stay tuned to IndiaToday.in as we bring you the latest updates."
+      "headline": "Live: 56-inch chest reduced to 36 inches in front of Trump, Trinamool MP jabs PMParliament Session 2025 Live Updates: After a week of disruptions, Parliament's Monsoon Session is witnessing a high-stakes debate, with the focus on the Pahalgam terror attack and Operation Sindoor \u2014 two issues deeply tied to national security and foreign policy. Both the ruling BJP-led NDA and the INDIA bloc are preparing for an intense face-off in the Lok Sabha and Rajya Sabha. The Congress has issued a three-line whip, directing its Lok Sabha MPs to remain present in the House for the next three days. In a rare show of consensus, the two sides have agreed to a 16-hour debate in each House \u2014 though such sessions typically spill over beyond the allotted time. Stay tuned to IndiaToday.in as we bring you the latest updates."
     },
     {
       "sentiment": "positive",
@@ -181,6 +181,11 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/mahadev-hill-peak-kashmir-srinagar-sacred-to-hindus-shiva-pilgrimage-pahalgam-attack-terror-encounter-2762470-2025-07-28",
+      "headline": "Why Mahadev Hill of Kashmir, a living legend, is sacred to HindusSecurity forces killed three terrorists involved in the April 22 Pahalgam terror attack, near Kashmir's Mahadev Hill. They were killed in Operation Mahadev. The peak is a sacred site which finds mentions in ancient scriptures and Kashmiri folklore. This is the story of Mahadev Peak, whose ice was once sold in Srinagar."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/other-sports/story/chess-divya-deshmukh-womens-world-cup-2025-koneru-humpy-2762521-2025-07-28",
       "headline": "Divya Deshmukh creates history, beats Koneru Humpy to win Women's World Cup 2025Divya Deshmukh created history as she defeated Koneru Humpy to win the Women's World Cup 2025 crown on Monday, July 28. "
     },
@@ -191,18 +196,33 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/constitution-club-of-india-secretary-election-bjp-vs-bjp-rajeev-pratap-rudy-vs-sanjeev-balyan-congress-2762338-2025-07-28",
-      "headline": "BJP vs BJP turns Constitution Club election into a thrillerA club election in the heart of New Delhi has turned into a BJP vs BJP thriller. After 25 years of uncontested reign as Secretary of the Constitution Club of India, BJP MP Rajiv Pratap Rudy is facing a surprise challenge from fellow party leader and former MP Sanjeev Balyan. The battle for the key post at the elite MPs' club has split loyalties across caste, region, and even party lines."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india-today-insight/story/why-bjp-old-guard-in-punjab-national-leadership-arent-buying-the-sad-reunion-talk-2761653-2025-07-26",
-      "headline": "Why BJP old guard in Punjab, national leadership aren't buying the SAD reunion talkFor the BJP, the goal isn't just to win elections in the state but build a political identity that resonates with Sikhs independently of the Akali Dal"
+      "url": "https://www.indiatoday.in/india-today-insight/story/siddaramaiahs-survival-trick-2762592-2025-07-28",
+      "headline": "Siddaramaiah's survival trickA favourable Supreme Court verdict caps a good run for the beleaguered Karnataka chief minister\r\n"
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/cities/hyderabad/story/heart-attack-hyderabad-25-year-old-man-from-khammam-dies-of-heart-attack-while-playing-shuttle-at-nagole-stadium-2762530-2025-07-28",
-      "headline": "25-year-old Hyderabad man dies of heart attack while playing badmintonA 25-year-old man from Hyderabad's Khammam collapsed while playing shuttle. He was rushed to the hospital but declared dead on arrival. He worked for a private company in the city."
+      "headline": "Caught on CCTV: Hyderabad man, 25, dies after he collapsed while playing badmintonA 25-year-old man from Hyderabad's Khammam collapsed while playing shuttle. He was rushed to the hospital but declared dead on arrival. He worked for a private company in the city."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/bihar-rjd-mla-bhai-virendra-viral-audio-threaten-panchayat-sachiv-hit-with-shoes-2762242-2025-07-28",
+      "headline": "RJD MLA's Panchayat-style threat gets Bihar Sachiv's 'not scared of you' responseAn audio clip, allegedly featuring RJD MLA Bhai Virendra, has gone viral, in which he is heard threatening a panchayat secretary who failed to recognise him during a call about a death certificate request."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/khalid-jamil-favourite-indian-men-football-head-coach-aiff-financial-2762575-2025-07-28",
+      "headline": "Indian football team to get new head coach on August 1, Jamil front-runnerThe AIFF executive committee will announce the new Indian men's football head coach on August 1. Khalid Jamil emerges as the frontrunner amid financial challenges and competition from experienced candidates."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/hasim-musa-suleiman-shah-pahalgam-mastermind-pakistan-commando-operation-mahadev-2762601-2025-07-28",
+      "headline": "Who was Hashim Musa, Pahalgam mastermind killed while napping in J&K?Suleiman Shah alias Hashim Musa, a former Pakistani special forces soldier and top Lashkar-e-Taiba commander behind the brutal Pahalgam tourist killings, was eliminated during Operation Mahadev while napping in his Dachigam hideout."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/trending-news/story/bengaluru-women-claim-they-were-followed-chased-by-group-of-men-record-video-from-rapido-auto-2762550-2025-07-28",
+      "headline": "Bengaluru women claim they were followed by group of men, record video from autoIn a video recap of the incident, the women described how the day began with a visit to Bengaluru's Rameswaram Cafe. As they later walked near JP Nagar, they noticed that some men, whom they had seen earlier at the cafe, appeared to be following them.   "
     },
     {
       "sentiment": "negative",
@@ -216,23 +236,28 @@
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/rajnath-singh-parliament-operation-sindoor-trump-claim-ceasefire-pakistan-nuclear-threat-2762478-2025-07-28",
-      "headline": "Op Sindoor not stopped under any pressure: Rajnath Singh snubs Trump claimDefence Minister Rajnath Singh underlined that the armed forces halted their strikes on Pakistan as the objectives of Operation Sindoor had been fully achieved."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/bengaluru-women-claim-they-were-followed-chased-by-group-of-men-record-video-from-rapido-auto-2762550-2025-07-28",
-      "headline": "Bengaluru women claim they were followed by group of men, record video from autoIn a video recap of the incident, the women described how the day began with a visit to Bengaluru's Rameswaram Cafe. As they later walked near JP Nagar, they noticed that some men, whom they had seen earlier at the cafe, appeared to be following them.   "
-    },
-    {
-      "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/kerala-nuns-arrested-in-chhattisgarh-for-alleged-conversion-rahul-gandhi-blames-bjp-for-minority-persecution-pinarayi-vijayan-2762517-2025-07-28",
       "headline": "Kerala nuns arrested in Chhattisgarh for alleged conversion, Rahul Gandhi slams BJPTwo Catholic nuns from Kerala were arrested in Chhattisgarh over alleged conversion charges, sparking political outrage. Rahul Gandhi and Kerala Chief Minister Pinarayi Vijayan demanded their release, calling it persecution of minorities under BJP rule.\r\n"
     },
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/lifestyle/what-s-hot/story/crochet-forever-flowers-are-in-and-theyre-handmade-with-love-2762454-2025-07-28",
+      "headline": "Crochet 'forever' flowers are in and they're handmade with loveYou don't have to worry about that flower from your special someone wilting any more, as crochet 'forever' flowers are blooming everywhere, and they're here to stay."
+    },
+    {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/law-news/story/what-is-wrong-supreme-court-expresses-concern-iit-kharagpur-sharda-university-over-student-suicides-2762551-2025-07-28",
-      "headline": "What is wrong? Supreme Court pulls up IIT Kharagpur over student suicidesExpressing deep concern over the rising number of student suicides at IIT Kharagpur and Sharda University, the Supreme Court wondered whether the institutions had taken any steps to address the issue."
+      "url": "https://www.indiatoday.in/india/video/op-sindoor-roka-kyun-rahul-gandhi-questions-rajnath-singh-in-lok-sabha-2762566-2025-07-28",
+      "headline": "Op Sindoor roka kyun?: Rahul Gandhi questions Rajnath Singh in Lok SabhaLeader of Opposition in Lok Sabha Rahul Gandhi interjected Union Defence Minister Rajnath Singh when he was responding to why India stopped Operation Sindoor against Pakistan. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/constitution-club-of-india-secretary-election-bjp-vs-bjp-rajeev-pratap-rudy-vs-sanjeev-balyan-congress-2762338-2025-07-28",
+      "headline": "BJP vs BJP turns Constitution Club election into a thrillerA club election in the heart of New Delhi has turned into a BJP vs BJP thriller. After 25 years of uncontested reign as Secretary of the Constitution Club of India, BJP MP Rajiv Pratap Rudy is facing a surprise challenge from fellow party leader and former MP Sanjeev Balyan. The battle for the key post at the elite MPs' club has split loyalties across caste, region, and even party lines."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india-today-insight/story/gadgets-foldable-unforgettable-2762574-2025-07-28",
+      "headline": "Gadgets: Foldable, unforgettableA new smartphone that survives fall, the sun, rough handling, and looks great while doing it\r\n"
     },
     {
       "sentiment": "positive",
@@ -241,28 +266,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/fashion/story/manish-malhotra-india-first-couture-party-broke-from-the-fashion-week-script-2762121-2025-07-28",
-      "headline": "Manish Malhotra broke from the fashion week script, and it workedIt wasn't the conventional showcase, as is the ritual for most designers. Manish Malhotra eschewed the traditional runway format and hosted an exclusive couture party at the Taj Palace in New Delhi on July 26."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/dhyaansh-young-survivor-june-12-air-india-crash-mother-shield-skin-grafting-ic171-boeing-bj-medical-college-ahmedabad-2762361-2025-07-28",
       "headline": "With mother as shield and skin, 8-month-old Air India crash victim survivesEight-month-old Dhyaansh is the youngest survivor of the June 12 Air India crash. The infant's mother, Manisha Kachhadiya, shielded him as fire engulfed BJ Medical College's residential complex as the IC171 crashed into the building. As both battled burns, Manisha donated her skin to Dhyaansh for grafting. Now, mother and son have been discharged from the hospital."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/bihar-rjd-mla-bhai-virendra-viral-audio-threaten-panchayat-sachiv-hit-with-shoes-2762242-2025-07-28",
-      "headline": "RJD MLA's Panchayat-style threat gets Bihar Sachiv's 'not scared of you' responseAn audio clip, allegedly featuring RJD MLA Bhai Virendra, has gone viral, in which he is heard threatening a panchayat secretary who failed to recognise him during a call about a death certificate request."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/shashi-tharoor-refused-to-toe-party-line-on-op-sindoor-declined-to-take-part-in-lok-sabha-discussion-sources-2762389-2025-07-28",
-      "headline": "Shashi Tharoor declined to speak on Op Sindoor, refused to toe party line: SourcesShashi Tharoor declined to take part in the Operation Sindoor discussion as he could not align with the party's current line of criticism against the government over the operation."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/health/story/is-my-child-autistic-the-new-age-panic-thats-robbing-kids-of-just-being-kids-2762543-2025-07-28",
-      "headline": "Is my child autistic? The new-age panic that's robbing kids of just being kidsParents today are more watchful than ever, sometimes too much. Normal toddler quirks are being mistaken for signs of serious disorders."
     },
     {
       "sentiment": "positive",
@@ -276,8 +281,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-england-manchester-test-ben-stokes-vs-ravindra-jadeja-fight-2762241-2025-07-28",
-      "headline": "India refuse early draw in Manchester, Stokes explodes. Who was right?India vs England: Shubman Gill's India pulled off a heroic draw in the Manchester Test match. Ravindra Jadeja got into a verbal tussle with Ben Stokes in the late hours of the final day."
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/kaantha-teaser-dulquer-salmaan-revives-golden-age-cinema-in-tense-period-drama-2762569-2025-07-28",
+      "headline": "Kaantha teaser: Dulquer Salmaan revives golden age cinema in tense period dramaThe teaser of 'Kaantha', starring Dulquer Salmaan and released on his birthday, offers a glimpse into a gripping 1950s Madras tale of artistic rivalry and ego clashes. The film will release in September. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/saiyaara-hits-global-top-50-on-spotify-krish-dreamt-it-the-world-played-it-ahaan-panday-aneet-padda-mohit-suri-2762540-2025-07-28",
+      "headline": "Saiyaara hits global top 50 on Spotify - Krish dreamt it, the world played itSpoiler ahead! Krish Kapoor (played by Ahaan Panday) vows to make the 'Saiyaara' song so big that it reaches his love, Vaani Batra (Aneet Padda). It seems like fiction has become reality as the song has shot to the No. 1 spot on Spotify's Top 50 India and climbed to No. 4 on the Global Top 50 list.\u00a0"
     },
     {
       "sentiment": "positive",
@@ -288,19 +298,34 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/music/story/cha-eun-woo-becomes-jinu-arden-cho-free-song-cover-k-pop-demon-hunters-2762547-2025-07-28",
       "headline": "Island actor Cha Eun-woo becomes real-life Jinu with Arden Cho in Free tributeK-pop stars Cha Eun-woo and Arden Cho embody Jinu and Rumi in an emotional 'KPop Demon Hunters' cover of 'Free'. The 'True Beauty' actor has enlisted himself for 2025 military service. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/farah-khan-introduced-domestic-nepotism-with-cook-dilip-says-influencer-director-responds-2762327-2025-07-28",
-      "headline": "Farah introduced domestic nepotism with cook Dilip, says influencer. Director reactsInfluencer Freddy Birdy applauded filmmaker Farah Khan for her vlog series featuring her cook Dilip. He stated that Khan is promoting a new kind of \"domestic nepotism\". She responded to the praise in the comment section of the post. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/anirudh-ravichander-chennai-concert-new-venue-kuvathur-august-23-2762548-2025-07-28",
-      "headline": "Anirudh Ravichander's Chennai concert postponed to August 23 at a new venueComposer Anirudh Ravichander's concert was scheduled to take place on July 26 in Chennai, but was postponed one week before its scheduled date. The new concert date and venue have been listed on District app, although an official announcement is awaited."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/england-vs-india-stuart-broad-urges-rest-for-jofra-archer-final-test-oval-2762623-2025-07-28",
+      "headline": "Archer should not play Oval Test, Gus Atkinson can replace him: Stuart BroadEngland vs India: Stuart Broad has called for caution over Jofra Archer's workload, urging England not to risk the injury-prone pacer in the fifth and final Test against India at the Kia Oval."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/england-vs-india-shubman-gill-best-knock-manchester-test-2762587-2025-07-28",
+      "headline": "Shubman Gill picks best knock from historic England series: Most pleasing to meShubman Gill rates his Manchester Test hundred as his best knock in the England series. His innings helped India secure a crucial draw and matched a historic Bradman record."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/divya-deshmukh-wins-womens-world-cup-2025-koneru-humpy-tie-break-2762576-2025-07-28",
+      "headline": "Watch: Divya Deshmukh in tears, hugs mother after Chess World Cup winDivya Deshmukh, 19, won the Women's World Cup 2025 title by defeating veteran Koneru Humpy in a dramatic tie-break. Divya also achieved the Grandmaster title after becoming the first Indian to win the crown."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/khalid-jamil-favourite-indian-men-football-head-coach-aiff-financial-2762575-2025-07-28",
+      "headline": "Indian football team to get new head coach on August 1, Jamil front-runnerThe AIFF executive committee will announce the new Indian men's football head coach on August 1. Khalid Jamil emerges as the frontrunner amid financial challenges and competition from experienced candidates."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/rishabh-pant-foot-injury-ruled-out-final-test-jurel-replacement-2762567-2025-07-28",
+      "headline": "Rishabh Pant provides update on foot injury, to begin rehab soonIndia vice-captain Rishabh Pant has thanked fans for their support and confirmed that he will begin rehabilitation once the fracture in his right foot heals."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/other-sports/story/chess-divya-deshmukh-womens-world-cup-2025-koneru-humpy-2762521-2025-07-28",
@@ -333,53 +358,28 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/formula-one/story/oscar-piatsri-formula-one-win-overtake-lando-norris-belgian-gp-2762333-2025-07-28",
-      "headline": "Watch Piastri's audacious overtake on Norris that won him Belgian GPOscar Piastri won the rain-delayed Belgian Grand Prix with a bold move on teammate Lando Norris. This victory extends his championship lead and adds to McLaren's dominance this season."
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-england-should-jasprit-bumrah-play-5th-test-2762501-2025-07-28",
+      "headline": "Should India push Jasprit Bumrah to play 5th Test vs England?India vs England: Jasprit Bumrah has already played his promised 3 Tests in England. Should he push for one more with the series on the line?"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/england-vs-india-manchester-test-washington-sundar-mantra-century-2762337-2025-07-28",
-      "headline": "Fight for entire day: Sundar on mantra after brave hundred in 4th Test drawWashington Sundar revealed his mantra while batting on Day 5 when he scored a brave hundred in the Manchester Test. Sundar played a valiant role in securing the draw in the 4th Test. "
+      "url": "https://www.indiatoday.in/sports/cricket/story/england-vs-india-manchester-test-draw-shubman-gill-sachin-tendulkar-yuvraj-singh-2762494-2025-07-28",
+      "headline": "Indian Legends applaud resilient India fightback in Manchester Test drawIndia's remarkable fightback at Old Trafford has kept the five-match Test series alive. With standout performances from KL Rahul, Shubman Gill, Ravindra Jadeja, and Washington Sundar, the team displayed exceptional resilience, drawing praise from cricketing legends ahead of the series decider."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/injury-replacement-ben-stokes-gautam-gambhir-injury-replacement-2762316-2025-07-28",
-      "headline": "Gambhir bats for injury replacements, Ben Stokes slams ridiculous ideaEngland captain Ben Stokes has voiced strong opposition to injury replacements in Test cricket. The debate follows Rishabh Pant's injury and contrasting views from India's coach Gautam Gambhir."
+      "url": "https://www.indiatoday.in/sports/cricket/story/england-vs-india-squad-jamie-overton-addition-oval-test-2762465-2025-07-28",
+      "headline": "ENG vs IND: England add all-rounder to squad for Oval Test against IndiaEngland announced their squad for the Oval Test and decided to add Jamie Overton to the side for the upcoming clash. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/england-vs-india-manchester-test-rishabh-pant-injury-parting-message-2762300-2025-07-28",
-      "headline": "Injured Pant sends parting message to Team India after heroic Manchester drawRishabh Pant sent a parting message to the Indian team after their heroic draw in the Manchester Test. Pant showed grit and fought through pain to score a valiant fifty in the first innings of the fourth Test. "
+      "url": "https://www.indiatoday.in/sports/cricket/story/england-vs-india-manchester-test-anshul-kamboj-debut-kapil-dev-2762443-2025-07-28",
+      "headline": "You expect him to take 10 wickets? Kapil Dev defends Anshul Kamboj after debutKapil Dev has jumped to the defence of young pacer Anshul Kamboj after his lacklustre debut in the Manchester Test for India. Kamboj failed to make a mark in his first match in India colours. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/england-vs-india-manchester-test-draw-shubman-gill-ben-stokes-2762284-2025-07-28",
-      "headline": "Manchester Test: A draw that felt like a winFrom 0 for 2 to 425 for 4 in the second innings, India turned what looked a defeat into a stirring draw in Manchester. A performance built on grit and defiance, it felt like a win and a momentum shift before the Oval finale."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/formula-one/story/oscar-piatsri-formula-one-win-overtake-lando-norris-belgian-gp-2762333-2025-07-28",
-      "headline": "Watch Piastri's audacious overtake on Norris that won him Belgian GPOscar Piastri won the rain-delayed Belgian Grand Prix with a bold move on teammate Lando Norris. This victory extends his championship lead and adds to McLaren's dominance this season."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/england-vs-india-manchester-test-washington-sundar-mantra-century-2762337-2025-07-28",
-      "headline": "Fight for entire day: Sundar on mantra after brave hundred in 4th Test drawWashington Sundar revealed his mantra while batting on Day 5 when he scored a brave hundred in the Manchester Test. Sundar played a valiant role in securing the draw in the 4th Test. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/injury-replacement-ben-stokes-gautam-gambhir-injury-replacement-2762316-2025-07-28",
-      "headline": "Gambhir bats for injury replacements, Ben Stokes slams ridiculous ideaEngland captain Ben Stokes has voiced strong opposition to injury replacements in Test cricket. The debate follows Rishabh Pant's injury and contrasting views from India's coach Gautam Gambhir."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/england-vs-india-manchester-test-rishabh-pant-injury-parting-message-2762300-2025-07-28",
-      "headline": "Injured Pant sends parting message to Team India after heroic Manchester drawRishabh Pant sent a parting message to the Indian team after their heroic draw in the Manchester Test. Pant showed grit and fought through pain to score a valiant fifty in the first innings of the fourth Test. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/england-vs-india-manchester-test-draw-shubman-gill-ben-stokes-2762284-2025-07-28",
-      "headline": "Manchester Test: A draw that felt like a winFrom 0 for 2 to 425 for 4 in the second innings, India turned what looked a defeat into a stirring draw in Manchester. A performance built on grit and defiance, it felt like a win and a momentum shift before the Oval finale."
+      "url": "https://www.indiatoday.in/sports/cricket/story/england-vs-india-manchester-test-draw-fiasco-ben-stokes-r-ashwin-2762387-2025-07-28",
+      "headline": "Want a hundred against Brook? Of course! Ashwin slams Stokes for 4th Test fiascoR Ashwin slammed Ben Stokes and England for the fiasco they created by trying to end the Manchester Test early and deny Ravindra Jadeja and Washington Sundar hundreds on Sunday, July 27. "
     }
   ],
   "education": [
