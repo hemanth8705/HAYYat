@@ -1,6 +1,16 @@
 {
   "business": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/trump-tariffs-us-consumers-face-price-hikes-across-major-brands-2767858-2025-08-07",
+      "headline": "Trump tariffs: US consumers face price hikes across major brandsIn the household goods sector, Procter & Gamble said it plans to raise prices on 25% of its North American products due to the impact of tariffs and product innovation."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/despite-war-and-warnings-us-traded-more-with-russia-than-ally-ukraine-2767831-2025-08-07",
+      "headline": "Despite war and warnings, US traded more with Russia than ally UkraineUS President Donald Trump alleges that India has been financing the Russian invasion of Ukraine by importing oil. However, data by the US Census Bureau presents a different picture."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/story/how-india-plans-to-tackle-trump-tariff-threat-2767785-2025-08-07",
       "headline": "How India plans to tackle Trump's tariff threatIndia has already held five rounds of trade talks with the US, but no deal has been reached. The talks failed mainly because of disagreements over opening India's farm and dairy sectors, and the issue of buying oil from Russia."
@@ -11,7 +21,7 @@
       "headline": "Indian refiners hit pause on Russian oil imports after 50% tariff blow: ReportRefiners like Indian Oil Corporation, Bharat Petroleum Corporation and Hindustan Petroleum Corporation have decided not to buy Russian oil on the spot market in the upcoming buying cycle."
     },
     {
-      "sentiment": "negative",
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/market/story/stock-market-closing-bell-sensex-nifty-end-in-green-as-d-street-investors-ignore-trumps-50-tariffs-2767779-2025-08-07",
       "headline": "Sensex, Nifty end in green as D-Street investors ignore Trump's 50% tariffsThe S&P BSE Sensex added 79.27 points to end at 80,623.26, while the NSE Nifty50 gained 21.95 points to close at\u00a024,596.15.\u00a0"
     },
@@ -49,19 +59,54 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/donald-trump-us-tariffs-50-percent-impact-on-india-key-sectors-what-nex-2767626-2025-08-07",
       "headline": "Trump hits India with 50% tariffs: What's at stake and what next?A sweeping 50% tariff could significantly impact India's export economy, threatening jobs and trade ties. As Donald Trump ramps up pressure, all eyes are now on New Delhi's next move.\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/trump-tariff-news-impact-india-economy-sectors-hardest-hit-gem-jewellery-auto-labour-textile-seafood-export-2767607-2025-08-07",
-      "headline": "From seafood to auto: How will Trump's 50% tariff impact different sectorsThe tariff hike, set to take effect from August 27, follows a warning issued by Trump earlier over India's continued oil imports from Russia."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/skipped-your-itr-for-years-here-is-how-it-can-impact-you-legally-and-financially-itr-filing-2767583-2025-08-07",
-      "headline": "Skipped your ITR for years? Here's how it can impact you legally and financiallyIt might feel harmless to skip filing your Income Tax Return once or twice, but if you've been ignoring it for years, you could be heading for serious trouble. From steep penalties to even jail time, here's what you need to know before it's too late."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/films-shows-to-watch-on-netflix-this-weekend-2767736-2025-08-07",
+      "headline": "Top 6 films and shows to watch on Netflix this weekendSeveral shows, including actor Jenna Ortega's 'Wednesday' Season 2, premiered on Netflix this week. The new episodes of 'The Great Indian Kapil Show Season 3' and 'Perfect Match Season 3' will also be released on the OTT platform."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/rashmika-mandanna-opens-up-on-online-negativity-2767867-2025-08-07",
+      "headline": "Rashmika Mandanna opens up on online negativity: Let people breatheRashmika Mandanna opened up about dealing with trolls, negative PR, and how her genuine kindness is often seen as fake. Despite the criticism, she continues to choose kindness and focuses on her work across multiple film industries."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/isha-koppikar-recalls-being-humiliated-by-south-choreographer-2767674-2025-08-07",
+      "headline": "Isha Koppikar recalls being humiliated by south choreographer: Took it as challengeIsha Koppikar shared that she was publicly humiliated by a choreographer early in her career for not knowing how to dance, which left her in tears. Motivated by the incident, she trained hard and later rose to fame with hit songs like 'Khallas', becoming a celebrated dancer in Bollywood."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/shruti-haasan-says-coolie-with-rajinikanth-is-her-full-circle-moment-exclusive-2767842-2025-08-07",
+      "headline": "Shruti Haasan says Coolie with Rajinikanth is her full-circle moment: ExclusiveActor Shruti Haasan calls working on Coolie a \"full-circle moment,\" highlighting the emotional weight of her character and the thrill of sharing screen space with Rajinikanth in one of the biggest movies of the year. "
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/story/bombay-hc-directs-cbfc-to-clarify-objectionable-scenes-in-ajey-biopic-2767818-2025-08-07",
+      "headline": "Censor board under fire for denying certificate to Ajey, decision due in a weekThe Bombay High Court has directed the Central Board of Film Certification (CBFC) to clearly specify the objectionable scenes in the film 'Ajey'. The court criticised the censor board for creating unnecessary hurdles and asked for a transparent certification process."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/summer-i-turned-pretty-season-3-episode-5-belly-body-language-around-conrad-jeremiah-2767786-2025-08-07",
+      "headline": "Summer I Turned Pretty: What Belly's body language says about Conrad vs JeremiahA deep dive into Belly's voice, body language, and subtle behaviour in 'The Summer I Turned Pretty' reveals more about her true feelings for Conrad and the emotional security he provides, without needing to say a word."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/ranbir-kapoor-sister-riddhima-kapoor-sahni-raksha-bandhan-2025-exclusive-interview-2763615-2025-08-07",
+      "headline": "Ranbir is the pillar of our family now, always dependable: Riddhima KapoorIn an exclusive chat with India Today.in Riddhima Kapoor Sahni said, \"No matter where he is, my Rakhi always finds him.\" From shared secrets to long-distance rakhis, Ranbir Kapoor and Riddhima prove that some sibling bonds are always box-office hits!"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/project-tiger-review-roaring-tale-power-loss-redemption-2767700-2025-08-07",
+      "headline": "Project Tiger review: A roaring tale of power, loss and redemption'Project Tiger' highlights India's fight to save its fiercest predator and the challenges behind this landmark conservation effort."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/top-films-and-shows-to-watch-on-jiohotstar-this-weekend-mickey-17-love-hurts-2767813-2025-08-07",
+      "headline": "Top films and shows to watch on JioHotstar\u00a0this\u00a0weekendJioHotstar's weekend lineup (August 4\u20137) has something for everyone, from horror and true crime to fun reality shows and action-packed films. Must-watch titles include 'Vina: Before 7 Days', 'India's Biggest Foodie', and 'Mickey 17'."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/television/story/bigg-boss-19-promo-salman-khan-unveils-new-theme-season-will-be-democrazy-2767817-2025-08-07",
@@ -111,51 +156,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/television/story/kyunki-saas-bhi-kabhi-bahu-thi-reboot-tops-ratings-beats-anupamaa-2767720-2025-08-07",
       "headline": "Kyunki Saas Bhi Kabhi Bahu Thi reboot tops ratings chart, beats AnupamaaKyunki Saas Bhi Kabhi Bahu Thi reboot has returned strongly on Star Plus, leading the TV ratings. The show surpassed Anupamaa, which slipped to the second spot. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/anupam-kher-tanvi-the-great-box-office-competition-saiyaara-ahaan-panday-aneet-padda-2767564-2025-08-07",
-      "headline": "Tanvi The Great is still priceless: Anupam Kher on competition with SaiyaaraAfter the release of 'Tanvi: The Great', actor Anupam Kher spoke about his film's box office competition with 'Saiyaara'. He emphasised that commercial success is not the sole measure of a film's worth. The actor said 'Tanvi The Great' didn't mint much money, but it is still priceless. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/video/confidence-queen-star-park-min-young-on-bollywood-fan-meeting-in-india-interview-eng-sub-2767618-2025-08-07",
-      "headline": "Confidence Queen star Park Min-young on Bollywood, fan-meeting in India | Interview [Eng Sub]The lead trio of Confidence Queen- Park Min-young, Park Hee-soon and Joo Jong-hyuk, spoke to India Today's Bhavna Agarwal during a global roundtable chat about bonding behind the scenes, and their surprising wish to someday take on Bollywood. Min-young also promises to visit India for a fan-meet in the future. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/lokesh-kanagaraj-visits-tiruvannamalai-temple-before-coolie-release-rajinikanth-gets-angry-at-paparazzi-2767710-2025-08-07",
-      "headline": "Lokesh Kanagaraj visits Tiruvannamalai temple before Coolie release, snaps at paps'Coolie' director Lokesh Kanagaraj visited Tiruvannamalai temple ahead of the film's release. In one of the viral videos, the filmmaker was seen getting angry at the photographers. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/coolie-advance-booking-kerala-early-shows-6-am-tamil-nadu-at-9-am-2767706-2025-08-07",
-      "headline": "Coolie advance booking: Kerala shows to begin at 6 am, Tamil Nadu shows at 9 amRajinikanth's 'Coolie', directed by Karthik Subbaraj, is all set to release in theatres on August 14. The advance booking has begun in selected theatres with early shows in Kerala at 6 am and 5 am shows in the United Kingdom."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/netflix-announces-new-film-inspector-zende-with-manoj-bajpayee-jim-sarbh-2767677-2025-08-07",
-      "headline": "Netflix announces new film Inspector Zende with Manoj Bajpayee, Jim Sarbh'Inspector Zende', a crime drama inspired by true events, will premiere in September. Starring Manoj Bajpayee and Jim Sarbh, the film celebrates the gritty, instinct-driven detective work of a determined police officer chasing the notorious 'Swimsuit Killer'."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/hollywood/story/angelina-jolie-reveal-brad-pitt-secrets-memoir-amid-legal-battle-report-2767670-2025-08-07",
-      "headline": "Angelina Jolie may reveal Brad Pitt secrets in memoir amid legal battle: ReportActor Angelina Jolie has reportedly warned that she's ready to reveal explosive details about her ex-husband Brad Pitt. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/television/story/ankita-lokhande-house-help-daughter-found-safe-after-fir-actor-thanks-mumbai-police-2767634-2025-08-07",
-      "headline": "Ankita Lokhande's house help's daughter found safe after FIR, actor thanks policeAnkita Lokhande shared that two missing girls, including her house help's daughter, have been found safe after she filed a complaint and sought public help. She thanked the Mumbai Police and Mumbaikars for their swift support and prayers.\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/vijay-deverakonda-kingdom-release-in-tamil-in-sri-lanka-amid-protests-over-tamil-representation-2767659-2025-08-07",
-      "headline": "Kingdom to release in Sri Lanka amid protests over Tamil representationVijay Deverakonda's action drama 'Kingdom' is set to release in Sri Lanka on August 8. This comes amid protests against the film over the misrepresentation of Sri Lankan Tamils."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/ahaan-panday-aneet-padda-saiyaara-success-grateful-nervous-what-lies-ahead-2767588-2025-08-07",
-      "headline": "Ahaan and Aneet on Saiyaara success: Grateful, but nervous about what lies aheadActors Ahaan Panday and Aneet Padda thanked fans and shared their apprehensions after the massive success of 'Saiyaara'. In an emotional note, the actors said they fear what's next and if they'd be enough."
     }
   ],
   "general news": [
@@ -171,13 +171,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/vladimir-putin-will-visit-india-later-this-month-reports-russias-interfax-news-agency-2767777-2025-08-07",
-      "headline": "Putin to visit India later this year, dates being finalised: Ajit Doval in MoscowIn talks with Russian Security Council Secretary Sergei Shoigu, National Security Adviser Ajit Doval confirmed that the visit is on track and said New Delhi is \"excited and delighted\" about the upcoming engagement. "
+      "url": "https://www.indiatoday.in/india/story/nda-leaders-meet-to-finalise-veep-pick-after-jagdeep-dhankhars-shock-resignation-2767824-2025-08-07",
+      "headline": "NDA likely to announce Veep pick on August 12; PM, JP Nadda to decide nomineeThe meeting comes just days after Vice President Jagdeep Dhankhar resigned from his post due to health reasons, vacating the position on the first day of the Monsoon Session."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/us-tariffs-on-indian-goods-tharoor-calls-for-reciprocal-duties-and-trade-diversification-2767685-2025-08-07",
-      "headline": "Tit for tat: Shashi Tharoor wants India to match Trump's 50% tariff hikeCongress MP Shashi Tharoor criticises US tariff hike on Indian exports citing unfair targeting. He urges Modi government to impose reciprocal duties and explore alternative trade markets."
+      "url": "https://www.indiatoday.in/world/story/vladimir-putin-will-visit-india-later-this-month-reports-russias-interfax-news-agency-2767777-2025-08-07",
+      "headline": "Putin to visit India later this year, dates being finalised: Ajit Doval in MoscowIn talks with Russian Security Council Secretary Sergei Shoigu, National Security Adviser Ajit Doval confirmed that the visit is on track and said New Delhi is \"excited and delighted\" about the upcoming engagement. "
     },
     {
       "sentiment": "positive",
@@ -186,13 +186,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/nda-leaders-meet-to-finalise-veep-pick-after-jagdeep-dhankhars-shock-resignation-2767824-2025-08-07",
-      "headline": "NDA leaders meet to finalise Veep pick after Jagdeep Dhankhar's shock resignationThe meeting comes days after Vice President Jagdeep Dhankhar tendered his resignation due to health issues, leaving the post vacant. Jagdeep Dhankhar resigned on the first day of the Monsoon session of Parliament."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/delhi-assembly-vidhan-sabha-phansi-ghar-secret-tunnel-red-fort-kejriwal-rekha-gupta-monsoon-session-historian-explain-2767675-2025-08-07",
-      "headline": "Delhi Assembly's mysterious chamber really a phansi ghar?The previous Aam Aadmi Party government in Delhi claimed that two underground chambers and a tunnel beneath the Assembly building were British-era gallows, possibly connected to the Red Fort. The BJP junked AAP's claims that the chamber was a 'phansi ghar' and called out its spend of Rs 1 crore to turn it into an exhibit. This is what historians and archaeologists have to say about the mysterious chamber."
+      "url": "https://www.indiatoday.in/india/law-news/story/high-court-pauses-punjabs-land-pooling-policy-in-big-jolt-to-aap-2767856-2025-08-07",
+      "headline": "High Court pauses Punjab's land-pooling policy in big jolt to AAPThe Punjab and Haryana High Court put an interim stay on the operation of the Punjab government's Land Pooling Policy 2025 in response to a petition that challenged the legality and constitutionality of the policy. "
     },
     {
       "sentiment": "negative",
@@ -200,9 +195,14 @@
       "headline": "Rajasthan horror: Man chases, shoots dead 25 dogs in 2 days; video sparks outrageTwo men on motorcycle were seen chasing stray dogs through a village in Rajasthan while one of them shot them dead. A video of the incident has gone viral, sparking massive outrage."
     },
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/delhi-assembly-vidhan-sabha-phansi-ghar-secret-tunnel-red-fort-kejriwal-rekha-gupta-monsoon-session-historian-explain-2767675-2025-08-07",
+      "headline": "Delhi Assembly's mysterious chamber really a phansi ghar?The previous Aam Aadmi Party government in Delhi claimed that two underground chambers and a tunnel beneath the Assembly building were British-era gallows, possibly connected to the Red Fort. The BJP junked AAP's claims that the chamber was a 'phansi ghar' and called out its spend of Rs 1 crore to turn it into an exhibit. This is what historians and archaeologists have to say about the mysterious chamber."
+    },
+    {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/kartavya-bhavan-common-central-secretariat-central-vistas-no-cabin-no-cry-cabin-office-bureaucrats-new-delhi-2767218-2025-08-07",
-      "headline": "Open office, closed minds? Why babus feel exposed in Kartavya BhavanPrime Minister Narendra Modi inaugurated the Kartavya Bhavan-3, which will house several ministries of the Central government. However, top Central government officers have written to the PMO over the lack of private cabins in the building. They say the open-seating arrangement compromises confidentiality, affects efficiency and is demoralising."
+      "url": "https://www.indiatoday.in/opinion/story/trumping-the-india-us-strategic-partnership-2767846-2025-08-07",
+      "headline": "Trumping the India-US strategic partnershipPresident Trump's tariff regime threatens the edifice of the India-US strategic partnership, but the relationship with Pakistan is causing the most consternation.  "
     },
     {
       "sentiment": "positive",
@@ -216,8 +216,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/karnataka/story/ktaka-former-hassan-mp-prajwal-revanna-sentenced-to-life-for-rape-as-hidden-saree-with-dna-evidence-proves-crucial-2767587-2025-08-07",
-      "headline": "How a saree hidden in Prajwal Revanna's farmhouse sealed his fate in rape caseA hidden saree helped convict former MP Prajwal Revanna for raping a 47-year-old domestic worker. The forensic evidence on it proved crucial to the case. He was sentenced to life imprisonment and fined Rs 11 lakh."
+      "url": "https://www.indiatoday.in/india/story/kartavya-bhavan-common-central-secretariat-central-vistas-no-cabin-no-cry-cabin-office-bureaucrats-new-delhi-2767218-2025-08-07",
+      "headline": "Open office, closed minds? Why babus feel exposed in Kartavya BhavanPrime Minister Narendra Modi inaugurated the Kartavya Bhavan-3, which will house several ministries of the Central government. However, top Central government officers have written to the PMO over the lack of private cabins in the building. They say the open-seating arrangement compromises confidentiality, affects efficiency and is demoralising."
     },
     {
       "sentiment": "positive",
@@ -226,8 +226,23 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/shubman-gill-north-zone-team-duleep-strophy-arshdeep-singh-2767806-2025-08-07",
-      "headline": "Shubman Gill to captain star-studded North Zone side in Duleep TrophyIndia Test captain Shubman Gill will lead North Zone in the Duleep Trophy 2025. The team will have the services of Arshdeep Singh and Harshit Rana."
+      "url": "https://www.indiatoday.in/india/story/us-tariffs-on-indian-goods-tharoor-calls-for-reciprocal-duties-and-trade-diversification-2767685-2025-08-07",
+      "headline": "Tit for tat: Shashi Tharoor wants India to match Trump's 50% tariff hikeCongress MP Shashi Tharoor criticises US tariff hike on Indian exports citing unfair targeting. He urges Modi government to impose reciprocal duties and explore alternative trade markets."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/karnataka/story/ktaka-former-hassan-mp-prajwal-revanna-sentenced-to-life-for-rape-as-hidden-saree-with-dna-evidence-proves-crucial-2767587-2025-08-07",
+      "headline": "How a saree hidden in Prajwal Revanna's farmhouse sealed his fate in rape caseA hidden saree helped convict former MP Prajwal Revanna for raping a 47-year-old domestic worker. The forensic evidence on it proved crucial to the case. He was sentenced to life imprisonment and fined Rs 11 lakh."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/trump-tariffs-us-consumers-face-price-hikes-across-major-brands-2767858-2025-08-07",
+      "headline": "Trump tariffs: US consumers face price hikes across major brandsIn the household goods sector, Procter & Gamble said it plans to raise prices on 25% of its North American products due to the impact of tariffs and product innovation."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/information/story/trump-tariffs-country-list-rates-2767683-2025-08-07",
+      "headline": "Over 90 countries affected by Trump's tariffs \u2014 See full list hereFrom allies to rivals, over 90 countries faced tariffs during Donald Trump's presidency. Here's a detailed look at which nations were impacted, how much duty was imposed, and what it meant for global trade dynamics."
     },
     {
       "sentiment": "positive",
@@ -236,28 +251,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/television/story/bigg-boss-19-promo-salman-khan-unveils-new-theme-season-will-be-democrazy-2767817-2025-08-07",
-      "headline": "BB 19 promo: Salman Khan unveils new theme, says this season will be democrazy'Bigg Boss 19' makers released the new promo of the upcoming season that gives a glimpse of what fans can expect from the show. The Salman Khan-hosted season will premiere on August 24. "
+      "url": "https://www.indiatoday.in/india/story/china-pakistan-military-integration-intelligence-gathering-centaic-pak-air-force-concern-india-explained-2763996-2025-08-07",
+      "headline": "China-Pak military integration: What is CENTAIC and should India be concerned?CENTAIC, a China-backed AI and computing centre in Pakistan, aims to transform the Pakistan Air Force (PAF) into a network-centric force integrated with China's military systems. Congress MP Rahul Gandhi mentioned CENTAIC in his Op Sindoor speech. Here's more about CENTAIC and if it should be a concern for India."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/information/story/trump-tariffs-country-list-rates-2767683-2025-08-07",
-      "headline": "Over 90 countries affected by Trump's tariffs \u2014 See full list hereFrom allies to rivals, over 90 countries faced tariffs during Donald Trump's presidency. Here's a detailed look at which nations were impacted, how much duty was imposed, and what it meant for global trade dynamics."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/jammu-and-kashmir-crpf-jawans-killed-many-injured-as-bus-carrying-23-personnel-plunges-into-deep-gorge-in-udhampur-2767606-2025-08-07",
-      "headline": "3 CRPF jawans killed, many injured as bus with 23 plunges into gorge in J&KThree CRPF personnel died and 16 were injured after a bunker vehicle overturned in Jammu and Kashmir's Udhampur. The vehicle was carrying 23 jawans. Rescue efforts were launched immediately."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/why-us-singled-out-india-over-russia-trade-trumps-8-hour-dodge-fuels-suspense-2767731-2025-08-07",
-      "headline": "Why US singled out India over Russia trade? Trump's 8-hour dodge fuels suspenseAfter imposing double tariffs on India for its oil trade with Russia, President Trump was asked why India was being singled out while others, like China, were not. He gave a vague response, hinting at the possibility of more sanctions to come."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/jobs-and-careers/story/is-pip-the-new-pink-slip-for-it-companies-experts-on-silent-exit-door-trend-2767673-2025-08-07",
-      "headline": "Is PIP the new pink slip for IT companies? Experts on 'silent exit door' trendWhen performance improvement plans (PIP) in organisations become sudden ultimatums after months of silence, they risk being seen as punishment rather than support. But what happens when this perception is already rooted in an organisation's culture? A deeper look reveals why timing, clarity, and intent matter more than policy. Behind closed cabins and templated HR emails, the PIP has quietly changed shape.\r\n"
+      "url": "https://www.indiatoday.in/entertainment/television/story/kyunki-saas-bhi-kabhi-bahu-thi-reboot-tops-ratings-beats-anupamaa-2767720-2025-08-07",
+      "headline": "Kyunki Saas Bhi Kabhi Bahu Thi reboot tops ratings chart, beats AnupamaaKyunki Saas Bhi Kabhi Bahu Thi reboot has returned strongly on Star Plus, leading the TV ratings. The show surpassed Anupamaa, which slipped to the second spot. "
     },
     {
       "sentiment": "positive",
@@ -271,36 +271,66 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/health/story/india-always-on-lifestyle-is-damaging-our-heart-health-cardiac-surgeon-dr-shriram-nene-2767323-2025-08-07",
-      "headline": "'Always on' lifestyle is damaging our hearts: Dr Shriram NeneThere's a growing heart disease crisis in India and inactive habits and digital overload are mostly to blame. Renowned cardiac surgeon Dr Shriram Nene warns how young professionals are especially vulnerable to the dangers of the \"always on\" culture."
+      "url": "https://www.indiatoday.in/sports/cricket/story/shubman-gill-north-zone-team-duleep-strophy-arshdeep-singh-2767806-2025-08-07",
+      "headline": "Shubman Gill to captain star-studded North Zone side in Duleep TrophyIndia Test captain Shubman Gill will lead North Zone in the Duleep Trophy 2025. The team will have the services of Arshdeep Singh and Harshit Rana."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/television/story/kyunki-saas-bhi-kabhi-bahu-thi-reboot-tops-ratings-beats-anupamaa-2767720-2025-08-07",
-      "headline": "Kyunki Saas Bhi Kabhi Bahu Thi reboot tops ratings chart, beats AnupamaaKyunki Saas Bhi Kabhi Bahu Thi reboot has returned strongly on Star Plus, leading the TV ratings. The show surpassed Anupamaa, which slipped to the second spot. "
+      "url": "https://www.indiatoday.in/business/story/despite-war-and-warnings-us-traded-more-with-russia-than-ally-ukraine-2767831-2025-08-07",
+      "headline": "Despite war and warnings, US traded more with Russia than ally UkraineUS President Donald Trump alleges that India has been financing the Russian invasion of Ukraine by importing oil. However, data by the US Census Bureau presents a different picture."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/malayalam-director-joe-baby-questions-national-film-awards-kerala-story-propaganda-2767739-2025-08-07",
-      "headline": "Malayalam director Jeo Baby questions National Film Award for The Kerala StoryThe National Film Awards have been widely criticised for biased selections and propaganda films. This has sparked debate over the awards' credibility and merit in the industry."
+      "url": "https://www.indiatoday.in/movies/celebrities/story/rashmika-mandanna-opens-up-on-online-negativity-2767867-2025-08-07",
+      "headline": "Rashmika Mandanna opens up on online negativity: Let people breatheRashmika Mandanna opened up about dealing with trolls, negative PR, and how her genuine kindness is often seen as fake. Despite the criticism, she continues to choose kindness and focuses on her work across multiple film industries."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/rani-mukerji-national-award-win-mrs-chatterjee-vs-norway-director-exclusive-interview-2767690-2025-08-07",
-      "headline": "Rani Mukerji's award win was always destined, says director Ashima ChibberRani Mukerji won the Best Actress at the 71st National Awards for 'Mrs Chatterjee vs Norway'. The film's director, Ashima Chibber, reveals her confidence in Rani's performance and the film's international acclaim."
+      "url": "https://www.indiatoday.in/movies/celebrities/story/isha-koppikar-recalls-being-humiliated-by-south-choreographer-2767674-2025-08-07",
+      "headline": "Isha Koppikar recalls being humiliated by south choreographer: Took it as challengeIsha Koppikar shared that she was publicly humiliated by a choreographer early in her career for not knowing how to dance, which left her in tears. Motivated by the incident, she trained hard and later rose to fame with hit songs like 'Khallas', becoming a celebrated dancer in Bollywood."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/radhika-apte-recalls-wear-tight-clothes-during-early-pregnancy-days-2767784-2025-08-07",
-      "headline": "Radhika Apte recalls lack of empathy in Bollywood during early pregnancy daysActor Radhika Apte recalled early pregnancy days when she was asked to wear tight clothes by a producer despite her discomfort. She also opened up about her emotional and physical challenges in the entertainment industry. "
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/shruti-haasan-says-coolie-with-rajinikanth-is-her-full-circle-moment-exclusive-2767842-2025-08-07",
+      "headline": "Shruti Haasan says Coolie with Rajinikanth is her full-circle moment: ExclusiveActor Shruti Haasan calls working on Coolie a \"full-circle moment,\" highlighting the emotional weight of her character and the thrill of sharing screen space with Rajinikanth in one of the biggest movies of the year. "
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/jr-ntr-on-how-fatherhood-changed-his-approach-in-life-wanted-roles-that-pushed-me-2767734-2025-08-07",
-      "headline": "Wanted roles that pushed me: Jr NTR on how fatherhood changed his approach in lifeTelugu superstar Jr NTR shared heartfelt insights on his journey through fatherhood and legacy. He emphasised giving his children freedom to choose their paths while preparing for new cinematic challenges ahead."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/story/bombay-hc-directs-cbfc-to-clarify-objectionable-scenes-in-ajey-biopic-2767818-2025-08-07",
+      "headline": "Censor board under fire for denying certificate to Ajey, decision due in a weekThe Bombay High Court has directed the Central Board of Film Certification (CBFC) to clearly specify the objectionable scenes in the film 'Ajey'. The court criticised the censor board for creating unnecessary hurdles and asked for a transparent certification process."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/joe-root-nightmares-hazlewood-ashes-david-warner-england-australia-2767885-2025-08-07",
+      "headline": "Joe Root will have nightmares about Josh Hazlewood before Ashes: David WarnerWith the Ashes set to take place in Australia later this year, David Warner has once again taken a dig at Joe Root, suggesting the England batter still struggles against Josh Hazlewood \u2014 and might already be thinking about it."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/bcci-coaching-vacancies-centre-of-excellence-bowling-batting-roles-2767871-2025-08-07",
+      "headline": "With Cooley leaving, BCCI starts hunt for new coaches at Centre of ExcellenceThe BCCI's Centre of Excellence is gearing up for a major overhaul of its coaching staff, with applications invited for key positions in the bowling, batting, and sports science and medicine departments."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/jasprit-bumrah-didnt-perform-like-no-1-bowler-in-england-irfan-pathan-2767849-2025-08-07",
+      "headline": "Bumrah didn't perform like no 1 bowler in England, should've pushed harder: PathanFormer India all rounder Irfan Pathan has said that Jasprit Bumrah didn't perform like the number one bowler in England and should've pushed himself harder."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/athletics/story/world-athletics-continental-tour-bhubnashwar-odisha-all-you-need-to-know-2767845-2025-08-07",
+      "headline": "What is Continental Tour? World Athletics event being held in India for the first timeIndia will host the World Athletics Continental Tour Bronze event for the first time. Set to be hosted in Bhubaneshwar's Kalinga Stadium, several top Indian athletes will be in focus at the one-day event."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/tottenham-james-maddison-acl-injury-pre-season-2767844-2025-08-07",
+      "headline": "Tottenham's James Maddison sidelined from action after pre-season ACL tearJames Maddison will be out of action for most of the 2024-25 season after picking up an ACL injury during their pre-season game against Newcastle United. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/world-test-championship-two-tier-system-england-cricket-board-2767835-2025-08-07",
+      "headline": "England not in favour of two-tier World Test Championship and their reason is bizarreECB chairman Richard Thompson has raised concerns over the proposed two-tier Test cricket structure. He fears relegation could prevent England from regularly playing top teams like India and Australia, urging for better scheduling instead."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/jannik-sinner-cincinnati-open-defence-wimbledon-rest-2767821-2025-08-07",
@@ -328,48 +358,28 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/hoping-to-have-isl-this-year-aiff-will-not-interfere-in-clubs-operations-kalyan-chaubey-2767788-2025-08-07",
-      "headline": "Hoping to hold ISL, AIFF will not interfere in clubs' operations: Kalyan ChaubeyAll India Football Federation (AIFF) president Kalyan Chaubey on Thursday expressed hope that the Indian Super League (ISL) will be held later this year, even if it requires adjustments to the format or schedule.\r\n\r\n"
+      "url": "https://www.indiatoday.in/sports/tennis/story/jannik-sinner-cincinnati-open-defence-wimbledon-rest-2767821-2025-08-07",
+      "headline": "Jannik Sinner eyes Cincinnati title defence after much-needed recoveryWorld number one Jannik Sinner said he made the right decision by taking an extended break after his Wimbledon triumph, and the recharged Italian is now ready to defend his title at the Cincinnati Open."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/joe-root-will-break-sachin-tendulkars-record-score-18000-runs-monty-panesar-2767757-2025-08-07",
-      "headline": "Joe Root will break Tendulkar's record and score 18000 Test runs: Former spinnerStar England batter Joe Root has been backed by former England spinner Monty Panesar to break Sachin Tendulkar's record for most Test runs and score 18000 runs in Tests."
+      "url": "https://www.indiatoday.in/sports/cricket/story/shubman-gill-north-zone-team-duleep-strophy-arshdeep-singh-2767806-2025-08-07",
+      "headline": "Shubman Gill to captain star-studded North Zone side in Duleep TrophyIndia Test captain Shubman Gill will lead North Zone in the Duleep Trophy 2025. The team will have the services of Arshdeep Singh and Harshit Rana."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/lovlina-borgohain-boxing-federation-india-offical-sexist-remarks-humilation-2767800-2025-08-07",
+      "headline": "BFI official told me to shut up and lower my head, Lovlina Borgohain saysLovlina Borgohain has reportedly levelled accusations against a BFI official for gender-discriminatory behaviour during a TOPS meeting. The matter is being invesigated by a three-member panel on the Sports Ministry's instructions."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/why-did-kuldeep-yadav-not-play-in-england-gautam-gambhir-2767747-2025-08-07",
-      "headline": "When Gautam Gambhir explained Kuldeep Yadav's omission in England Test seriesSpecialist spinner Kuldeep Yadav did not play a single Test match in England. Former cricketer Deep Dasgupta revealed that Gautam Gambhir and the Indian team management explained to him why they were not able to find a spot for him in the playing XI."
+      "url": "https://www.indiatoday.in/sports/cricket/story/sam-konstas-mcsweeney-named-in-australia-a-squad-for-india-tour-in-september-2767798-2025-08-07",
+      "headline": "Konstas, McSweeney named in Australia A squad for India tour in SeptemberAustralia A has announced a 14-member men's squad for the upcoming tour of India in September. The selection focuses on developing young talent and spin options ahead of the 2027 Test series in India."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ms-dhoni-praises-virat-kohli-singing-dancing-skills-leadership-bond-2767722-2025-08-07",
-      "headline": "MS Dhoni talks 'ultimate package' Virat Kohli: Sings well, good dancerLegendary MS Dhoni has opened up on a very different side of Virat Kohli. Dhoni says that off the field, Kohli is a proper entertainer, a full package, who can dance and sing."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-england-chris-woakes-injury-replacement-ben-stokes-2767707-2025-08-07",
-      "headline": "Chris Woakes sides Ben Stokes on injury replacements: You have to find a wayEngland seamer Chris Woakes came out to bat on Day 5 of the final Test, despite having a dislocated shoulder. Asked if there should be injury replacements for freak accidents, Woakes did not seem to be keen about the idea."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/joe-root-will-break-sachin-tendulkars-record-score-18000-runs-monty-panesar-2767757-2025-08-07",
-      "headline": "Joe Root will break Tendulkar's record and score 18000 Test runs: Former spinnerStar England batter Joe Root has been backed by former England spinner Monty Panesar to break Sachin Tendulkar's record for most Test runs and score 18000 runs in Tests."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/why-did-kuldeep-yadav-not-play-in-england-gautam-gambhir-2767747-2025-08-07",
-      "headline": "When Gautam Gambhir explained Kuldeep Yadav's omission in England Test seriesSpecialist spinner Kuldeep Yadav did not play a single Test match in England. Former cricketer Deep Dasgupta revealed that Gautam Gambhir and the Indian team management explained to him why they were not able to find a spot for him in the playing XI."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ms-dhoni-praises-virat-kohli-singing-dancing-skills-leadership-bond-2767722-2025-08-07",
-      "headline": "MS Dhoni talks 'ultimate package' Virat Kohli: Sings well, good dancerLegendary MS Dhoni has opened up on a very different side of Virat Kohli. Dhoni says that off the field, Kohli is a proper entertainer, a full package, who can dance and sing."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-england-chris-woakes-injury-replacement-ben-stokes-2767707-2025-08-07",
-      "headline": "Chris Woakes sides Ben Stokes on injury replacements: You have to find a wayEngland seamer Chris Woakes came out to bat on Day 5 of the final Test, despite having a dislocated shoulder. Asked if there should be injury replacements for freak accidents, Woakes did not seem to be keen about the idea."
+      "url": "https://www.indiatoday.in/sports/cricket/story/eng-vs-ind-monty-panesar-on-shubman-gill-jasprit-bumrah-2767790-2025-08-07",
+      "headline": "Gill doesn't need Jasprit Bumrah, India can win Tests without him: PanesarMonty Panesar praised Shubman Gill's leadership in first series as India's Test captain. He also applauded Mohammed Siraj and hailed him to be the key for India's bowling attack."
     }
   ],
   "education": [
