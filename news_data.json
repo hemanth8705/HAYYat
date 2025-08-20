@@ -63,6 +63,11 @@
   ],
   "entertainment": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/host-ashneer-grover-rejects-5-contestants-on-rise-fall-for-being-too-boring-2774138-2025-08-20",
+      "headline": "Host Ashneer Grover rejects 5 contestants on Rise & Fall for being boring: Source'Rise & Fall' host Ashneer Grover took charge of the show's casting and rejected five contestants, citing them boring. The show will premiere on MX Player. "
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/after-coolie-nagarjuna-teams-up-with-tamil-director-ra-karthik-for-100th-film-2773996-2025-08-20",
       "headline": "After Coolie, Nagarjuna teams up with Tamil director Ra Karthik for 100th filmNagarjuna, who recently impressed audiences as Simon in Rajinikanth's 'Coolie', has now revealed details of his milestone 100th film, tentatively titled 'King 100'."
@@ -151,11 +156,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/priyanka-chopra-nairobi-ssmb29-shoot-mahesh-babu-safari-2773926-2025-08-20",
       "headline": "Priyanka Chopra in Nairobi for SSMB 29 shoot, enjoys safari outingActor Priyanka Chopra has joined Mahesh Babu in Nairobi for 'SSMB 29'. The film marks Chopra's return to Indian cinema, with a March 2027 release likely."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/coolie-makers-move-madras-high-court-against-a-certificate-for-rajinikanth-film-2773895-2025-08-20",
-      "headline": "Coolie makers approach Madras High Court against A tag for Rajinikanth's filmThe legal tussle over Rajinikanth's film 'Coolie' has reached the Madras High Court as Sun Pictures challenges the CBFC's 'A' certificate, arguing for a U/A rating akin to other big releases. The film is currently running in theatres. "
     }
   ],
   "general news": [
@@ -175,14 +175,24 @@
       "headline": "Attacker pushed Rekha Gupta, pulled her hair: How 1-minute chaos unfoldedDelhi CM Rekha Gupta attack: India Today has pieced together the sequence of the events that happened at the Delhi Chief Minister's new Civil Lines residence shortly after 8 am."
     },
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/russian-diplomat-roman-babushkin-hindi-remark-oil-purchase-moscow-us-tariff-2774107-2025-08-20",
+      "headline": "Shree Ganesh karte hain: Russian diplomat mixes humour with oil assuranceRussian envoy Roman Babushkin said India's oil imports from Russia will remain stable, adding that President Vladimir Putin's New Delhi visit is planned for later this year."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/sack-arrested-cm-government-exception-law-amit-shah-monsoon-session-article-356-president-rule-ed-cbi-arvind-kejriwal-2774096-2025-08-20",
+      "headline": "Why govt's turning an exception into law has critics alarmedIn 75 years of Independent India's history, only one chief minister went to jail and ran a government from there. Now, the Centre is bringing in a law that seems to address this exception. The law could become Article 356 through the backdoor, and used to force CMs to toe the line or sack elected governments.\u00a0"
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/cities/ahmedabad/story/ahmedabad-student-stabbed-to-death-gujarat-police-school-vandalised-protests-2774012-2025-08-20",
       "headline": "Ahmedabad Class 10 student stabbed to death by junior; anger, school vandalisedA 15-year-old student was fatally stabbed by a junior at an Ahmedabad school, triggering protests, vandalism, and police action."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/sack-arrested-cm-government-exception-law-amit-shah-monsoon-session-article-356-president-rule-ed-cbi-arvind-kejriwal-2774096-2025-08-20",
-      "headline": "Sack arrested CMs: How govt is turning an exception into lawIn 75 years of Independent India's history, only one chief minister went to jail and ran a government from there. Now, the Centre is bringing in a law that seems to address this exception. The law could become Article 356 through the backdoor, and used to force CMs to toe the line or sack elected governments.\u00a0"
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/parliament-monsoon-session-live-update-lok-sabha-opposition-bihar-sir-protest-bills-vice-president-2773889-2025-08-20",
+      "headline": "Live: Bills to remove arrested PM, chief ministers sent to parliamentary panelParliament Session Live: Union Home Minister Amit Shah introduced three contentious bills in the Lok Sabha today which mandates ouster of a Union Minister, Chief Minister, or even the Prime Minister if they remain under arrest or detention for 30 consecutive days in cases carrying a minimum sentence of five years. The Oppostion parties strongly protested against the bills, calling it \"destructive of the basic structure of the Constitution\". Electronics and IT Minister Ashwini Vaishnaw also tabled the Promotion and Regulation of Online Gaming Bill. With the exception of brief discussions on Operation Sindoor in both Houses, parliamentary business has largely stalled since the Monsoon session opened on July 21, repeatedly disrupted by adjournments amid opposition protests. Stay tuned to IndiaToday.in for the latest updates."
     },
     {
       "sentiment": "negative",
@@ -190,9 +200,14 @@
       "headline": "Is Russia giving India a 5% secret discount on oil amid Trump tariffs?Russia and India seem to have dug in their heels despite punitive tariffs and penalties from the Trump regime over energy trade. Russia might be giving a 5% discount on crude, which a top official termed \"commerce secret\", amid America's punitive 50% taxes on Indian exporters. "
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/parliament-monsoon-session-live-update-lok-sabha-opposition-bihar-sir-protest-bills-vice-president-2773889-2025-08-20",
-      "headline": "Live: Bills to remove arrested PM, chief ministers sent to parliamentary panelParliament Session Live: Union Home Minister Amit Shah introduced three contentious bills in the Lok Sabha today which mandates ouster of a Union Minister, Chief Minister, or even the Prime Minister if they remain under arrest or detention for 30 consecutive days in cases carrying a minimum sentence of five years. The Oppostion parties strongly protested against the bills, calling it \"destructive of the basic structure of the Constitution\". Electronics and IT Minister Ashwini Vaishnaw also tabled the Promotion and Regulation of Online Gaming Bill. With the exception of brief discussions on Operation Sindoor in both Houses, parliamentary business has largely stalled since the Monsoon session opened on July 21, repeatedly disrupted by adjournments amid opposition protests. Stay tuned to IndiaToday.in for the latest updates."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/trending-news/story/mumbai-rain-vasai-swimmer-mural-rain-flood-viral-photo-2774070-2025-08-20",
+      "headline": "Swimmer's mural in Vasai becomes stunning optical illusion amid Mumbai floodsIn the photo, floodwater rises perfectly to the level of the swimmer's painted body, creating an illusion as if the swimmer is gliding through the water on the street.\r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/us-news/story/indian-origin-ketamine-queen-jasveen-sangha-friends-matthew-perry-death-drug-lifestyle-louis-vuitton-chanel-hollywood-los-angeles-2773971-2025-08-20",
+      "headline": "Indian-origin Ketamine Queen linked to FRIENDS actor's death | 5 key pointsIndian-origin \"Ketamine Queen\" Jasveen Sangha, who once flaunted her LV and Chanel collections while on lavish foreign trips, has pleaded guilty in the drug overdose case linked to Friends actor Matthew Perry's death. Sangha, who operated a \"drug-selling emporium\" from her LA home, supplied ketamine to the actor days before his death. Sangha's story reveals the sinister world of LA's drugs underbelly."
     },
     {
       "sentiment": "positive",
@@ -201,8 +216,38 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/indian-origin-ketamine-queen-jasveen-sangha-friends-matthew-perry-death-drug-lifestyle-louis-vuitton-chanel-hollywood-los-angeles-2773971-2025-08-20",
-      "headline": "Indian-origin Ketamine Queen linked to FRIENDS actor's death | 5 key pointsIndian-origin \"Ketamine Queen\" Jasveen Sangha, who once flaunted her LV and Chanel collections while on lavish foreign trips, has pleaded guilty in the drug overdose case linked to Friends actor Matthew Perry's death. Sangha, who operated a \"drug-selling emporium\" from her LA home, supplied ketamine to the actor days before his death. Sangha's story reveals the sinister world of LA's drugs underbelly."
+      "url": "https://www.indiatoday.in/sports/cricket/story/asia-cup-2025-as-shubman-gill-ascends-as-the-next-big-star-sanju-samsons-t20i-dream-slips-away-2774083-2025-08-20",
+      "headline": "Does Shubman Gill's return come at the cost of Sanju Samson's T20I career?Sanju Samson will likely become the sacrificial lamb as selectors bring back Shubman Gill into the T20I fold. With Gill rising as India's next all-format star, Samson's chances of establishing his legacy in T20 internationals look slimmer despite his explosive recent form."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/lifestyle/wellness/story/steamed-fried-or-tandoori-are-momo-truly-healthy-kareena-kapoor-nutritionist-rujuta-diwekar-answers-2774052-2025-08-20",
+      "headline": "Steamed, fried or tandoori, are momo truly healthy? Rujuta Diwekar answersFrom the mountains to street corners, momos have travelled across borders to become a soul snack for many. But beyond flavour, are they really healthy? Celebrity nutritionist Rujuta Diwekar has an opinion."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/study-abroad/story/why-more-indian-students-are-choosing-canada-over-the-us-in-2025-2774128-2025-08-20",
+      "headline": "Why more Indian students are choosing Canada over the US in 2025Indian students are rethinking their global study destinations. With the US losing ground over rising costs and tougher visa rules, Canada is fast reclaiming its spot as the top choice.\r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/scientists-successfully-3d-print-metal-atom-by-atom-customise-its-microstructure-2774133-2025-08-20",
+      "headline": "Scientists 3D print metal atom by atom, customise its microstructureThis method enables scientists to customise not only the alloy's chemical makeup but also its microstructure, significantly enhancing metal strength and resilience."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india-today-insight/story/narendra-modi-set-for-sco-summit-how-fragile-border-peace-tests-india-china-thaw-2773605-2025-08-19",
+      "headline": "Modi set for SCO Summit, how fragile border peace tests India-China thaw\"Differences must not become disputes nor competition conflicts,\" external affairs minister S. Jaishankar has emphasised to his visiting Chinese counterpart Wang Yi"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/opinion/story/india-stray-romance-love-lies-rabies-solutions-dogs-cows-2773984-2025-08-20",
+      "headline": "India's Stray Romance: Love, lies, rabies, solutionsIndia's romance with strays is a tragic farce - sacred cows choking, dogs biting - when proven fixes like sterilisation, shelters, and accountability could turn chaos into compassion. But our rage is just bark without bite."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/china-building-megaconstellation-to-rival-spacexs-starlink-network-2774123-2025-08-20",
+      "headline": "China building megaconstellation to rival SpaceX's Starlink networkChina's initiative, sometimes called \"Guowang\" or \"China's national network,\" seeks to emulate and compete with this success by launching its own megaconstellation."
     },
     {
       "sentiment": "negative",
@@ -216,18 +261,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/game-over-for-online-gaming-firms-industry-in-shock-over-proposed-blanket-ban-2773881-2025-08-20",
-      "headline": "Game over for money-based online gaming? Industry in shock over proposed banIf passed in Parliament, the bill will outlaw all money-based online games (irrespective of whether they involve skill or chance), ban advertisements promoting such platforms, and bar banks and financial institutions from processing related transactions."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/opinion/story/india-stray-romance-love-lies-rabies-solutions-dogs-cows-2773984-2025-08-20",
-      "headline": "India's Stray Romance: Love, lies, rabies, solutionsIndia's romance with strays is a tragic farce - sacred cows choking, dogs biting - when proven fixes like sterilisation, shelters, and accountability could turn chaos into compassion. But our rage is just bark without bite."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/ashvir-singh-johal-first-sikh-youngest-manager-morecambe-fc-british-football-2774076-2025-08-20",
-      "headline": "Who is Ashvir Singh Johal? The first Sikh and youngest manager in English footballAshvir Singh Johal has made history as the first Sikh to manage a professional British football club following his appointment at Morecambe. At 30, he also became the youngest manager across the top five tiers of English football."
+      "url": "https://www.indiatoday.in/sports/cricket/story/shubman-gill-vice-captain-india-asia-cup-t20i-squad-return-2773904-2025-08-20",
+      "headline": "Why Shubman Gill for Asia Cup T20? With Virat Kohli gone, his idea enduresSanju Samson and Abhishek Sharma symbolise India's new brand of T20 audacity, yet selectors have turned to Shubman Gill for balance. His return, signals not just a tactical switch but also the renewal of an insurance policy that Virat Kohli once provided to the T20I side."
     },
     {
       "sentiment": "positive",
@@ -236,48 +271,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india-today-insight/story/narendra-modi-set-for-sco-summit-how-fragile-border-peace-tests-india-china-thaw-2773605-2025-08-19",
-      "headline": "Modi set for SCO Summit, how fragile border peace tests India-China thaw\"Differences must not become disputes nor competition conflicts,\" external affairs minister S. Jaishankar has emphasised to his visiting Chinese counterpart Wang Yi"
+      "url": "https://www.indiatoday.in/business/story/game-over-for-online-gaming-firms-industry-in-shock-over-proposed-blanket-ban-2773881-2025-08-20",
+      "headline": "Game over for money-based online gaming? Industry in shock over proposed banIf passed in Parliament, the bill will outlaw all money-based online games (irrespective of whether they involve skill or chance), ban advertisements promoting such platforms, and bar banks and financial institutions from processing related transactions."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/travel/story/why-indians-are-taking-their-long-weekends-abroad-2773627-2025-08-20",
-      "headline": "Why Indians are taking their long weekends abroadThis Independence Day long weekend, Indians skipped the usual road trips to the hills and staycations nearby. Instead, the new-age traveller packed their bags for international getaways."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/bills-removal-prime-minister-chief-minister-asaduddin-owaisi-manish-tewari-opposition-uproar-parliament-2774080-2025-08-20",
-      "headline": "'Gestapo boom': Opposition up in arms over bills to oust arrested PM, ministersOpposition uproar rocked the Lok Sabha as Amit Shah introduced three bills mandating removal of top elected officials arrested on serious charges. Asaduddin Owaisi warned of a \"police state,\" while Congress's Manish Tewari termed the bills \"squarely destructive\" to the Constitution."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/health/story/stress-buster-anxiety-the-rise-of-adult-pacifiers-chewing-gum-2773983-2025-08-20",
-      "headline": "Stress got you sucking? The rise of adult pacifiersOn platforms like Weibo, videos featuring adult pacifier use have amassed billions of views. On Taobao, sellers report shipping thousands every month."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/thaw-india-china-ties-part-of-process-not-sudden-fling-xi-jinping-narendra-modi-wang-yi-dokhlam-galwan-jaishankar-2773501-2025-08-20",
-      "headline": "Thaw in India-China ties is part of a process, tariff doesn't deserve the tareefChinese Foreign Minister Wang Yi was in India for talks to shore up ties after a difficult phase in relations marked by border clashes. Wang met PM Narendra Modi ahead of his China visit after seven years. Though the meetings come amid Trump's tariff turbulence, they are part of a process, not a sudden swing. This is how the two sides worked to mend ties, with pragmatism as the pivot."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/shubman-gill-vice-captain-india-asia-cup-t20i-squad-return-2773904-2025-08-20",
-      "headline": "Why Shubman Gill for Asia Cup T20? With Virat Kohli gone, his idea enduresSanju Samson and Abhishek Sharma symbolise India's new brand of T20 audacity, yet selectors have turned to Shubman Gill for balance. His return, signals not just a tactical switch but also the renewal of an insurance policy that Virat Kohli once provided to the T20I side."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/james-webb-telescope-discovers-unknown-moon-orbiting-uranus-2773936-2025-08-20",
-      "headline": "James Webb Telescope discovers unknown moon orbiting UranusEstimated to be about 10 kilometres wide, the moon has remained invisible for decades after the Voyager-2 spacecraft conducted the lunar survey around Uranus. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/the-map-that-leads-to-you-review-kj-apa-madelyn-cline-2774042-2025-08-20",
-      "headline": "The Map That Leads to You review: An addictive romance that feels like coming homeRelease Date:Wed Aug 20, 2025The Map That Leads to You movie review: 'The Map That Leads To You' is a heartfelt romance that captures the unpredictable, all-consuming nature of love through a journey across Europe. With stunning visuals and genuine chemistry between the leads, this film feels like a fresh, soul-stirring experience that resonates deeply with anyone who's ever fallen hard."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/bills-to-remove-prime-minister-chief-minister-ministers-arrest-parliament-explained-2773918-2025-08-20",
-      "headline": "PM, chief ministers can go if arrested for 30 days. Why the uproar over new bills?With the bills, the government ended a rather tepid Parliament session with a bang, even as the opposition has gone on a warpath, terming them 'draconian'. What are the bills, and why have they hit a nerve with the opposition?"
+      "url": "https://www.indiatoday.in/sports/football/story/ashvir-singh-johal-first-sikh-youngest-manager-morecambe-fc-british-football-2774076-2025-08-20",
+      "headline": "Who is Ashvir Singh Johal? The first Sikh and youngest manager in English footballAshvir Singh Johal has made history as the first Sikh to manage a professional British football club following his appointment at Morecambe. At 30, he also became the youngest manager across the top five tiers of English football."
     },
     {
       "sentiment": "positive",
@@ -303,6 +303,16 @@
   "sports": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/asia-cup-shreyas-iyer-snub-robin-uthappa-surprise-t20-world-cup-deserving-2774151-2025-08-20",
+      "headline": "Shreyas Iyer deserves T20 World Cup spot: Robin Uthappa after Asia Cup snubRobin Uthappa has backed Shreyas Iyer for a T20 World Cup 2026 return after his surprise exclusion from India's Asia Cup squad, calling the omission strange despite Iyer's IPL success and consistent domestic form."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/golf/story/india-golf-league-igpl-women-olympics-la-2774056-2025-08-20",
+      "headline": "What is IGPL? League that is set to swing a new era for Indian golfThe Indian Golf Premier League is set to change the landscape of the sport in the country. Amateurs and professionals will compete together, giving young talent a stage, bringing excitement to fans, and making the sport visible and inspiring in the country."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/other-sports/story/clutch-chess-exhibition-viswanathan-anand-gukesh-magnus-carlsen-reunion-2774118-2025-08-20",
       "headline": "Vishwanathan Anand-Kasparov reunion, Gukesh vs Carlsen clash confirmedViswanathan Anand will renew his rivalry with Garry Kasparov in St Louis this October, while world champion D Gukesh takes on Magnus Carlsen in the Clutch Chess exhibition. With USD 412,000 at stake, it's set to be one of the year's biggest events."
     },
@@ -319,7 +329,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-virat-kohli-icc-odi-rankings-disappear-2774065-2025-08-20",
-      "headline": "Rohit Sharma, Virat Kohli disappear from ICC ODI rankingsRohit Sharma and Virat Kohli disappeared from the ICC ODI rankings. The development comes only a week after they were placed at the 2nd and 4th spot. The disappearance is likely a glitch in the ICC system."
+      "headline": "ICC admits technical glitch after Kohli, Rohit vanish from ODI rankingsRohit Sharma and Virat Kohli disappeared from the ICC ODI rankings. The development comes only a week after they were placed at the 2nd and 4th spot. The disappearance is likely a glitch in the ICC system."
     },
     {
       "sentiment": "positive",
@@ -348,13 +358,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/kylian-mbappe-penalty-real-madrid-vs-osasuna-laliga-2773916-2025-08-20",
-      "headline": "Madrid off to underwhelming start as Mbappe penalty earns 1-0 win over OsasunaReal Madrid were off to a stuttering start against Osasuna in their LaLiga opener. The last year's runner-ups earned a 1-0 win owing to a penalty from Kylian Mbappe."
+      "url": "https://www.indiatoday.in/sports/other-sports/story/chess-d-gukesh-abdusattorov-praggnanandhaa-sinquefield-cup-2774008-2025-08-20",
+      "headline": "Sinquefield Cup: D Gukesh bounces back with superb win over AbdusattorovSinquefield Cup: D Gukesh bounced back from his opening-round setback with a fine win over former world rapid champion Nodirbek Abdusattorov of Uzbekistan in the second round. Meanwhile, R Praggnanandhaa drew quietly with Fabiano Caruana of the United States."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/shubman-gill-vice-captain-india-asia-cup-t20i-squad-return-2773904-2025-08-20",
-      "headline": "Why Shubman Gill for Asia Cup T20? With Virat Kohli gone, his idea enduresSanju Samson and Abhishek Sharma symbolise India's new brand of T20 audacity, yet selectors have turned to Shubman Gill for balance. His return, signals not just a tactical switch but also the renewal of an insurance policy that Virat Kohli once provided to the T20I side."
+      "url": "https://www.indiatoday.in/sports/wwe/story/wwe-monday-night-raw-naomi-pregnancy-2773960-2025-08-20",
+      "headline": "From Shock to Celebration: Fans React to Naomi's Emotional RAW MomentWWE's Naomi shocked fans on Monday Night RAW with a heartfelt pregnancy reveal. The WWE Universe, Reddit fans, and superstars like Becky Lynch, Bayley, Rhea Ripley, and Triple H reacted with joy, support, and emotion to this unforgettable real-life moment."
     },
     {
       "sentiment": "positive",
@@ -370,16 +380,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/story/shreyas-iyer-asia-cup-2025-exclusion-questioned-abhishek-nayar-2773927-2025-08-20",
       "headline": "Shreyas Iyer is not liked as much as someone else: Ex-coach questions Asia Cup snubFormer India assistant coach Abhishek Nayar has questioned Shreyas Iyer's exclusion from the Asia Cup 2025 squad. Shubman Gill, meanwhile, has been named vice-captain of the 15-man India team."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/kylian-mbappe-penalty-real-madrid-vs-osasuna-laliga-2773916-2025-08-20",
-      "headline": "Madrid off to underwhelming start as Mbappe penalty earns 1-0 win over OsasunaReal Madrid were off to a stuttering start against Osasuna in their LaLiga opener. The last year's runner-ups earned a 1-0 win owing to a penalty from Kylian Mbappe."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/shubman-gill-vice-captain-india-asia-cup-t20i-squad-return-2773904-2025-08-20",
-      "headline": "Why Shubman Gill for Asia Cup T20? With Virat Kohli gone, his idea enduresSanju Samson and Abhishek Sharma symbolise India's new brand of T20 audacity, yet selectors have turned to Shubman Gill for balance. His return, signals not just a tactical switch but also the renewal of an insurance policy that Virat Kohli once provided to the T20I side."
     }
   ],
   "education": [
