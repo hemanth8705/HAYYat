@@ -64,6 +64,11 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/ekta-kapoor-cautions-actors-against-fake-audition-calls-balaji-telefilms-casting-director-scam-2777808-2025-08-27",
+      "headline": "Ekta Kapoor cautions actors against fake audition calls for Balaji TelefilmsProducer Ekta Kapoor issued an official statement through the social media handle of Balaji Telefilms warning actors against fraudulent casting directors impersonating their staff. The alert aims to protect aspiring actors from scams and misuse of the company's name."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/harry-potter-hagrid-shop-diagon-alley-new-set-pics-from-hbo-show-jk-rowling-2777660-2025-08-27",
       "headline": "Harry Potter shops with Hagrid at Diagon Alley and more in new pics from HBO showThe pictures from the new 'Harry Potter' series surfaced on the internet. The upcoming show is based on the original book while also introducing new elements like the full Weasley family."
     },
@@ -151,18 +156,13 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/music/story/exclusive-rahul-vaidya-reacts-to-virat-kohli-avneet-kaur-row-says-dont-care-about-fragile-relations-2776948-2025-08-27",
       "headline": "Rahul Vaidya reacts to Virat Kohli row, says don't care about fragile relationsSinger Rahul Vaidya recently made history as he became the first artiste to perform live at the Lalbaugcha Raja Ganpati celebrations. He spoke about Maharashtrian festivities, singing regional songs, the controversy with Virat Kohli and more, in an exclusive interview with IndiaToday.in."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/television/story/shehbaz-badesha-shehnaaz-gill-brother-denies-bigg-boss-19-secret-room-speculation-2777493-2025-08-27",
-      "headline": "Shehbaz Badesha shuts down rumours of being in Bigg Boss 19 secret roomActor Shehnaaz Gill's brother, Shehbaz Badesha, clarified in a recent video that he is not locked inside the secret room in 'Bigg Boss 19'. His clarification came after an image surfaced on social media showing Badesha seated in an undisclosed location. "
     }
   ],
   "general news": [
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/world/us-news/story/multiple-casualties-feared-after-shooting-at-catholic-school-in-uss-minneapolis-us-media-reports-2777781-2025-08-27",
-      "headline": "Two children dead, 17 injured in Minneapolis school shooting; gunman kills selfMinnesota Governor Tim Walz posted on social media that he has been briefed about a shooting incident at the Annunciation Catholic School in Minneapolis."
+      "headline": "2 children killed, 17 injured in Minneapolis school shooting; gunman shoots selfMinnesota Governor Tim Walz posted on social media that he has been briefed about a shooting incident at the Annunciation Catholic School in Minneapolis."
     },
     {
       "sentiment": "positive",
@@ -187,7 +187,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/us-open-2025-day-4-updates-novak-djokovic-carlos-alcaraz-aryna-sabalenka-2777783-2025-08-27",
-      "headline": "Day 4 Live Updates: Shaky start for Djokovic, Raducanu takes easy winUS Open 2025 Day 4 Live Updates: Emma Raducanu has begun her second-round match at Louis Amstrong Stadium on a strong note. Novak Djokovic will begin action at Arthur Ashe on Wednesday against an American qualifier. "
+      "headline": "Day 4 Live Updates: Djokovic loses 1st set, Raducanu takes easy winUS Open 2025 Day 4 Live Updates: Emma Raducanu has begun her second-round match at Louis Amstrong Stadium on a strong note. Novak Djokovic will begin action at Arthur Ashe on Wednesday against an American qualifier. "
     },
     {
       "sentiment": "positive",
@@ -304,7 +304,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/us-open-2025-day-4-updates-novak-djokovic-carlos-alcaraz-aryna-sabalenka-2777783-2025-08-27",
-      "headline": "Day 4 Live Updates: Shaky start for Djokovic, Raducanu takes easy winUS Open 2025 Day 4 Live Updates: Emma Raducanu has begun her second-round match at Louis Amstrong Stadium on a strong note. Novak Djokovic will begin action at Arthur Ashe on Wednesday against an American qualifier. "
+      "headline": "Day 4 Live Updates: Djokovic loses 1st set, Raducanu takes easy winUS Open 2025 Day 4 Live Updates: Emma Raducanu has begun her second-round match at Louis Amstrong Stadium on a strong note. Novak Djokovic will begin action at Arthur Ashe on Wednesday against an American qualifier. "
     },
     {
       "sentiment": "positive",
@@ -422,21 +422,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/education/story/the-power-of-knowledge-educations-influence-on-real-estate-market-trends-2516316-2024-03-18",
       "headline": "The power of knowledge: Education's influence on real estate market trendsIn a dynamic sector like real estate, investing in continuing education is not simply an option; it is a requirement."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/jnu-students-body-election-on-march-22-after-4-years-2513140-2024-03-11",
-      "headline": "JNU students' body election on March 22 after 4 yearsThe Jawaharlal Nehru University Students' Union (JNUSU) polls will take place on March 22, more than four years after the last elections were held in September 2019."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/up-12th-board-exam-math-biology-question-papers-leaked-on-whatsapp-uttar-pradesh-2508890-2024-03-01",
-      "headline": "UP 12th board exam math, biology papers leaked on WhatsApp, complaint filedThe mathematics and biology question papers for the Uttar Pradesh class 12 board exam were allegedly leaked on a WhatsApp group."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/education/story/uttar-pradesh-police-constable-recruitment-exam-cancelled-after-paper-leak-re-examination-in-6-months-2506566-2024-02-24",
-      "headline": "UP Police Constable recruitment exam cancelled days after paper leakThe Uttar Pradesh Police Constable recruitment exam held on February 17 and 18 was canceled due to a paper leak. The Chief Minister has announced a re-examination within the next six months."
     }
   ]
 }
