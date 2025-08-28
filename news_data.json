@@ -1,6 +1,11 @@
 {
   "business": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/indigo-gets-another-six-month-extension-to-lease-turkish-airlines-planes-glbs-2778448-2025-08-29",
+      "headline": "IndiGo gets another six-month extension to lease Turkish Airlines planesThe extension will help IndiGo cut losses caused by geopolitical restrictions, the airline said, referring to an airspace ban imposed by Pakistan on Indian airlines earlier this year that has led to longer routes and higher costs."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/story/india-to-boost-russian-oil-imports-in-september-despite-us-pressure-report-2778293-2025-08-28",
       "headline": "India to boost Russian oil imports in September despite US pressure: ReportIndia has become Russia's biggest oil customer since Western sanctions forced Moscow to redirect supplies in 2022. Cheaper Russian crude has helped Indian refiners keep costs down, but the trade has also attracted criticism. "
@@ -54,11 +59,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/gst-rate-cut-textile-fertiliser-us-tariff-rate-rationalisation-low-cost-tax-free-nil-slab-festive-season-2778026-2025-08-28",
       "headline": "GST 2.0 boost for textile, fertiliser sectors as Trump's 50% tariff kicks inThe textile and fertiliser industries are expected to be among the biggest beneficiaries of the upcoming GST 2.0 rationalisation amid US President Donald Trump's 50% tariff. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/dividend-mismatch-with-ais-here-is-how-taxpayers-should-report-it-2778019-2025-08-28",
-      "headline": "Dividend mismatch with AIS? Here's how taxpayers should report itFiling ITR often becomes confusing when dividend income in your personal records doesn't match what appears in AIS. Here's how to handle it while filing ITR."
     }
   ],
   "entertainment": [
@@ -177,7 +177,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/athletics/story/diamond-league-final-zurich-live-updates-neeraj-chopra-javelin-julian-weber-2778402-2025-08-28",
-      "headline": "Diamond League Live: Julian Weber takes lead with 91.51m throw, Neeraj strugglesDiamond League Final Live updates: Julian Weber has started things off in massive fashion as he initially took the world lead with a 91.37m throw on his very first chance, and bested it with a 91.51m in his second. Meanwhile, Neeraj is on third after hitting 84.35m in his first throw, and 82.00m on his second."
+      "headline": "Diamond League Highlights: Julian Weber wins with 91.51m throw, Neeraj Chopra finishes 2ndDiamond League Final Highlights: Julian Weber took the win with a world lead throw of 91.37m on his very first chance, and bested it with a 91.51m in his second. Meanwhile, Neeraj is scraped the 2nd position with his final throw, resulting in 85.01m."
     },
     {
       "sentiment": "positive",
@@ -187,7 +187,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/us-open-day-5-live-tennis-score-iga-swiatek-jannik-sinner-zverev-coco-gauff-2778346-2025-08-28",
-      "headline": "Day 5 Live Score: Jannik Sinner in action, Osaka in Round 3US Open 2025 Day 5 live: Naomi Osaka defeated Hailey Baptiste 6-3, 6-1. Jannik Sinner is in action, taking on Alexei Popyrin. Iga Swiatek moves to Round 3 after defeating World No. 66 Suzan Lamens 6-1, 4-6, 6-4, in the morning session of Arthur Ashe Stadium. "
+      "headline": "Day 5 Live Score: Jannik Sinner, Swiatek, Osaka in Round 3US Open 2025 Day 5 live: Jannik Sinner moves to Round 3, beating Alwxei Popyrin 6-3, 6-2, 6-2. Naomi Osaka defeated Hailey Baptiste 6-3, 6-1. Iga Swiatek moves to Round 3 after defeating World No. 66 Suzan Lamens 6-1, 4-6, 6-4, in the morning session of Arthur Ashe Stadium. "
     },
     {
       "sentiment": "positive",
@@ -270,17 +270,27 @@
       "headline": "Trump in incredible health, but I'm ready to lead if tragedy strikes, says VanceJD Vance praised Trump's \"incredible energy\" and health in a USA Today interview but acknowledged he is prepared to assume the presidency if tragedy strikes, while also weighing in on global and cultural headlines."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/dubai-princess-sheikha-mahra-engaged-to-rapper-french-montana-instagram-divorce-post-2778101-2025-08-28",
-      "headline": "Dubai princess, who divorced husband on Instagram, engaged to rapper French MontanaDubai princess Sheikha Mahra Mohammed Rashed Al Maktoum is engaged to Moroccan-American rapper French Montana. "
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/pilot-dies-as-f-16-fighter-jet-crashes-at-poland-airshow-rehearsal-glbs-2778450-2025-08-29",
+      "headline": "Pilot dies as F-16 fighter jet crashes at Poland airshow rehearsalA Polish F-16 crashed during airshow practice in Radom, killing its pilot. The accident damaged the runway, forcing cancellation of the August 30\u201331 Radom Airshow."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/donald-trump-administration-h1b-student-visa-green-card-new-front-against-india-howard-lutnick-governor-ron-desantis-2778078-2025-08-28",
-      "headline": "Is Trump now targeting India's soft exports with H-1B, student visa crackdown?The H-1B visa, which has got the US some of its top engineers and CEOs, is now being branded a \"scam\" by the Trump administration. After the 50% tariffs on Indian products, is President Donald Trump now targeting India's soft exports with a crackdown on H-1B, student visas and Green Cards?"
+      "url": "https://www.indiatoday.in/trending-news/story/dubai-princess-sheikha-mahra-engaged-to-rapper-french-montana-instagram-divorce-post-2778101-2025-08-28",
+      "headline": "Dubai princess, who divorced husband on Instagram, engaged to rapper French MontanaDubai princess Sheikha Mahra Mohammed Rashed Al Maktoum is engaged to Moroccan-American rapper French Montana. "
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/badminton/story/bwf-world-championships-2778446-2025-08-29",
+      "headline": "Satwik and Chirag storm into quarters on dream day for Indian shuttlersBWF World Championships: Satwiksairaj Rankireddy and Chirag Shetty outclassed higher-ranked Liang Wei Keng and Wang Chang of China 19-21, 21-15, 21-17 to book a place in the quarterfinals. Earlier in the day, PV Sindhu and the mixed doubles duo of Dhruv Kapila and Tanisha Crasto also made it to the last-eight in Paris. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/athletics/story/diamond-league-final-neeraj-chopra-second-julain-weber-91m-wins-2778447-2025-08-29",
+      "headline": "Diamond League Final: Neeraj extends 4-year streak, but red-hot Weber wins crownNeeraj Chopra salvaged second place in Zurich with a last-throw effort, but Julian Weber's dominance left the Indian ace chasing shadows. With the World Championships looming, the stage is set for a high-voltage showdown next month."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/danish-malewar-duleep-trophy-central-zone-vidharbha-ranji-trophy-stats-2778409-2025-08-28",
@@ -289,7 +299,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/athletics/story/diamond-league-final-zurich-live-updates-neeraj-chopra-javelin-julian-weber-2778402-2025-08-28",
-      "headline": "Diamond League Live: Julian Weber takes lead with 91.51m throw, Neeraj strugglesDiamond League Final Live updates: Julian Weber has started things off in massive fashion as he initially took the world lead with a 91.37m throw on his very first chance, and bested it with a 91.51m in his second. Meanwhile, Neeraj is on third after hitting 84.35m in his first throw, and 82.00m on his second."
+      "headline": "Diamond League Highlights: Julian Weber wins with 91.51m throw, Neeraj Chopra finishes 2ndDiamond League Final Highlights: Julian Weber took the win with a world lead throw of 91.37m on his very first chance, and bested it with a 91.51m in his second. Meanwhile, Neeraj is scraped the 2nd position with his final throw, resulting in 85.01m."
     },
     {
       "sentiment": "positive",
@@ -328,13 +338,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/badminton/story/bwf-world-championships-pv-sindhu-wang-tanisha-dhruv-kapila-2778248-2025-08-28",
-      "headline": "PV Sindhu rediscovers vintage touch, stuns World No. 2 to enter quartersBWF World Championships: PV Sindhu showed glimpses of her vintage attacking game as she decimated World No. 2 Wang Zhi Yi of China 21-17, 21-15. Sindhu is a win away from securing her sixth world meet medal. "
+      "url": "https://www.indiatoday.in/sports/cricket/story/womens-world-cup-2025-south-africa-coach-confirms-dane-van-niekerk-wont-feature-despite-retirement-u-turn-2778340-2025-08-28",
+      "headline": "South Africa coach confirms Dane van Niekerk won't feature in Women's World CupDane van Niekerk will not feature in South Africa's Women's World Cup 2025 squad despite reversing her retirement. Coach Mandla Mashimbyi confirmed she must work her way back into contention, though she remains in plans for future series."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/virat-kohli-rohit-sharma-cheteshwar-pujara-test-retirement-kris-srikkanth-bcci-2778234-2025-08-28",
-      "headline": "Virat Kohli, Rohit and Pujara deserved better send-offs: Srikkanth slams BCCIFormer India chief selector Kris Srikkanth has voiced his disappointment over the manner in which Virat Kohli, Rohit Sharma, and Cheteshwar Pujara bid farewell to Test cricket. He criticised the BCCI for lapses in communication, saying that the lack of proper coordination overshadowed the send-offs of these stalwarts."
+      "url": "https://www.indiatoday.in/sports/cricket/story/cheteshwar-pujara-retirement-virat-kohli-insta-message-reaction-2778313-2025-08-28",
+      "headline": "A nice compliment: Pujara on Virat Kohli's Insta message on retirementCheteshwar Pujara has retired from all formats of cricket after a notable 103-Test career. His retirement has sparked warm tributes, especially from Virat Kohli, highlighting Pujara's vital role in the Indian team and his future potential in coaching and broadcasting."
     },
     {
       "sentiment": "positive",
@@ -350,16 +360,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/duleep-trophy-2025-rajat-patidar-central-zone-century-mohammad-shami-bowling-east-zone-2778284-2025-08-28",
       "headline": "Duleep Trophy: Rajat Patidar hits quickfire ton, Mohammed Shami puts solid shiftRajat Patidar smashed a 96-ball century and Danish Malewar struck an unbeaten 198 to put Central Zone on top against North East Zone in the Duleep Trophy. Mohammed Shami also returned with a wicket for the East Zone against the North Zone."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/badminton/story/bwf-world-championships-pv-sindhu-wang-tanisha-dhruv-kapila-2778248-2025-08-28",
-      "headline": "PV Sindhu rediscovers vintage touch, stuns World No. 2 to enter quartersBWF World Championships: PV Sindhu showed glimpses of her vintage attacking game as she decimated World No. 2 Wang Zhi Yi of China 21-17, 21-15. Sindhu is a win away from securing her sixth world meet medal. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/virat-kohli-rohit-sharma-cheteshwar-pujara-test-retirement-kris-srikkanth-bcci-2778234-2025-08-28",
-      "headline": "Virat Kohli, Rohit and Pujara deserved better send-offs: Srikkanth slams BCCIFormer India chief selector Kris Srikkanth has voiced his disappointment over the manner in which Virat Kohli, Rohit Sharma, and Cheteshwar Pujara bid farewell to Test cricket. He criticised the BCCI for lapses in communication, saying that the lack of proper coordination overshadowed the send-offs of these stalwarts."
     }
   ],
   "education": [
