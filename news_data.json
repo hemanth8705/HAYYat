@@ -63,6 +63,11 @@
   ],
   "entertainment": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/television/story/vijay-sethupathi-to-host-bigg-boss-tamil-9-makers-reveal-neon-logo-2780320-2025-09-01",
+      "headline": "Vijay Sethupathi to host Bigg Boss Tamil 9, makers reveal neon logoAfter eight successful seasons, 'Bigg Boss Tamil' returns for its ninth edition. Actor Vijay Sethupathi will once again be at the helm."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/movies/celebrities/story/sonu-sood-to-shilpa-shetty-bollywood-celebs-extend-support-to-punjab-flood-victims-2780301-2025-09-01",
       "headline": "Sonu Sood to Shilpa Shetty, Bollywood celebs extend support to Punjab flood victimsPunjab is battling one of its worst flood crises, leaving thousands displaced and homes destroyed. Celebrities like Sonu Sood, Sanjay Dutt, Shilpa Shetty, and Himanshi Khurana have stepped forward with prayers, support, and aid for the affected families."
@@ -151,11 +156,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/your-name-the-body-swap-love-story-by-makoto-shinkai-that-changed-anime-forever-2780028-2025-09-01",
       "headline": "Your Name: The body-swap love story by Makoto Shinkai that changed anime foreverIn this week's Animania, we discuss how Makoto Shinkai's 'Your Name' became a global phenomenon, blending romance, comedy, and tragedy into the anime that turned him into a household name.\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/kalki-2898-ad-sequel-delay-focus-karna-ashwatthama-2780073-2025-09-01",
-      "headline": "Director Nag Ashwin on Kalki 2898 AD sequel's production: Everyone is busyThe director of 2024's blockbuster film 'Kalki 2898 AD', Nag Ashwin, spoke about the timeline for the highly anticipated sequel to the Prabhas, Amitabh Bachchan and Deepika Padukone-starrer. The second part is yet to go on floors."
     }
   ],
   "general news": [
@@ -170,14 +170,14 @@
       "headline": "Rahul Gandhi says will drop 'vote chori hydrogen bomb', BJP calls it dudRahul Gandhi said Prime Minister Modi will not be able to face the people after the Congress party's 'hydrogen bomb' on vote chori. "
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/nda-vice-presidential-election-preparations-full-mp-attendance-strategic-alliances-2780227-2025-09-01",
-      "headline": "Dinner with PM, special seminar: NDA's strategy for 100% voting in\u00a0Veep\u00a0electionThe NDA is preparing for the Vice Presidential election on 9 September, aiming for full participation of its MPs. Their strategy includes workshops, state monitoring, and securing additional support to increase vote share."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/cities/delhi/story/delhi-ncr-weather-flood-alert-delhi-after-heavy-rain-waterlogged-roads-choke-gurugram-traffic-2780303-2025-09-01",
+      "headline": "Flood alert in Delhi after heavy rain, waterlogged roads choke Gurugram trafficExtended spells of rain brought the mercury down in Delhi-NCR, with temperatures hovering around 24 to 25 degrees Celsius on Monday evening."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/ride-or-die-pm-modi-putin-make-a-statement-with-carpool-sco-summit-tianjin-aurus-car-china-india-russia-ties-donald-trump-tariffs-2779910-2025-09-01",
-      "headline": "Ride or die: PM Modi, Putin make a statement with carpoolPrime Minister Narendra Modi and Russian President Vladimir Putin shared a ride in a 'made in Russia' Aurus sedan to their bilateral meeting in Tianjin, with Modi later calling the exchange \"insightful\" in a post on X. The gestures highlighted the depth of India-Russia ties ahead of their bilateral talks."
+      "url": "https://www.indiatoday.in/india/story/nda-vice-presidential-election-preparations-full-mp-attendance-strategic-alliances-2780227-2025-09-01",
+      "headline": "Dinner with PM, special seminar: NDA's strategy for 100% voting in\u00a0Veep\u00a0electionThe NDA is preparing for the Vice Presidential election on 9 September, aiming for full participation of its MPs. Their strategy includes workshops, state monitoring, and securing additional support to increase vote share."
     },
     {
       "sentiment": "positive",
@@ -186,8 +186,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/reading-between-sco-visuals-modi-xi-putin-huddle-shehbaz-sharif-blank-gaze-and-more-2780173-2025-09-01",
-      "headline": "Reading between SCO visuals: Modi-Xi-Putin huddle, Shehbaz's blank gaze, and moreOn the final day of the SCO summit, the pictures spoke louder than words. A one-and-a-half-minute huddle between Modi, Putin, and Xi became a defining moment, leaving other leaders watching with curiosity.\r\n"
+      "url": "https://www.indiatoday.in/india/story/ride-or-die-pm-modi-putin-make-a-statement-with-carpool-sco-summit-tianjin-aurus-car-china-india-russia-ties-donald-trump-tariffs-2779910-2025-09-01",
+      "headline": "Ride or die: PM Modi, Putin make a statement with carpoolPrime Minister Narendra Modi and Russian President Vladimir Putin shared a ride in a 'made in Russia' Aurus sedan to their bilateral meeting in Tianjin, with Modi later calling the exchange \"insightful\" in a post on X. The gestures highlighted the depth of India-Russia ties ahead of their bilateral talks."
     },
     {
       "sentiment": "positive",
@@ -196,8 +196,8 @@
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/gst-cut-low-tax-shampoo-tv-hybrid-car-175-items-festive-season-pm-modi-consumption-boost-2780246-2025-09-01",
-      "headline": "Shampoos, TVs, hybrid cars to get cheaper as government plans GST cutThe biggest reform of the goods and services tax system in nearly a decade comes amid\u00a0strained\u00a0trade ties\u00a0with the US, with PM Modi making repeated calls for increased use of\u00a0Indian products."
+      "url": "https://www.indiatoday.in/india/story/pm-dials-punjab-chief-minister-to-discuss-flood-situation-after-returning-from-sco-meet-assures-help-sources-2780312-2025-09-01",
+      "headline": "PM calls Bhagwant Mann after China trip, assures help on Punjab floods: SourcesFloods have ravaged large parts of Punjab, claiming at least 29 lives across 12 severely affected districts after heavy rainfall in upper catchment areas caused the Sutlej, Beas and Ravi rivers, along with seasonal rivulets, to swell."
     },
     {
       "sentiment": "negative",
@@ -207,7 +207,22 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/us-open-day-9-updates-jannik-sinner-iga-swiatek-coco-gauff-2780281-2025-09-01",
-      "headline": "Day 9 Live Updates:  De Minaur vs Riedi underway, Rublev vs Felix up nextUS Open 2025 Day 9 Live Updates: Alex de Minaur is currently up against Switzerland's Leandro Riedi in the first match of the day. Andrey Rublev will be up against Felix Auger-Aliassime on Centre Court. Later in the day, Iga Swiatek, Coco Gauff, Amanda Ansimova and Jannik Sinner will be in action. \r\n"
+      "headline": "Day 9 Live Updates: De Minaur wins 2nd set vs Riedi, Rublev vs Felix underwayUS Open 2025 Day 9 Live Updates: Alex de Minaur is currently up against Switzerland's Leandro Riedi in the first match of the day. Andrey Rublev is up against Felix Auger-Aliassime on Centre Court. Later in the day, Iga Swiatek, Coco Gauff, Amanda Ansimova and Jannik Sinner will be in action. \r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/reading-between-sco-visuals-modi-xi-putin-huddle-shehbaz-sharif-blank-gaze-and-more-2780173-2025-09-01",
+      "headline": "Reading between SCO visuals: Modi-Xi-Putin huddle, Shehbaz's blank gaze, and moreOn the final day of the SCO summit, the pictures spoke louder than words. A one-and-a-half-minute huddle between Modi, Putin, and Xi became a defining moment, leaving other leaders watching with curiosity.\r\n"
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/personal-finance/story/gst-cut-low-tax-shampoo-tv-hybrid-car-175-items-festive-season-pm-modi-consumption-boost-2780246-2025-09-01",
+      "headline": "Shampoos, TVs, hybrid cars to get cheaper as government plans GST cutThe biggest reform of the goods and services tax system in nearly a decade comes amid\u00a0strained\u00a0trade ties\u00a0with the US, with PM Modi making repeated calls for increased use of\u00a0Indian products."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/avneet-kaur-breaks-silence-on-virat-kohli-viral-moment-i-try-not-to-get-distracted-2780174-2025-09-01",
+      "headline": "Avneet Kaur breaks silence on Virat Kohli viral moment: I try not to get distractedAvneet Kaur has finally spoken up about the recent Virat Kohli Instagram 'like' that sent social media into a frenzy. The actor-influencer, who enjoys a massive online following, said she refuses to get distracted by such viral chatter. \r\n"
     },
     {
       "sentiment": "positive",
@@ -221,13 +236,33 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/avneet-kaur-breaks-silence-on-virat-kohli-viral-moment-i-try-not-to-get-distracted-2780174-2025-09-01",
-      "headline": "Avneet Kaur breaks silence on Virat Kohli viral moment: I try not to get distractedAvneet Kaur has finally spoken up about the recent Virat Kohli Instagram 'like' that sent social media into a frenzy. The actor-influencer, who enjoys a massive online following, said she refuses to get distracted by such viral chatter. \r\n"
+      "url": "https://www.indiatoday.in/sports/hockey/story/asia-cup-hockey-2025-india-vs-kazakhstan-result-abhishek-sukhjeet-hat-trick-2780313-2025-09-01",
+      "headline": "Forwards fire as Abhishek, Sukhjeet hat-tricks help India demolish KazakhstanThe Indian forwards finally found their A-game as India decimated Kazakhstan 15-0 to finish the pool phase of the Asia up 2025 unbeaten and with maximum points. "
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/john-abraham-tehran-director-arun-gopalan-doubts-his-survival-in-bollywood-2780165-2025-09-01",
+      "headline": "Exclusive: John Abraham's Tehran director doubts his survival in BollywoodArun Gopalan's 'Tehran' challenges typical Bollywood spy films with a sensitive political story. The film highlights the India-Iran-Israel conflict while focusing on human perspectives beyond politics."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sunday-special/story/nikki-bhati-dowry-case-greater-noida-news-viral-reel-making-family-society-instagram-reels-women-violence-patriarchy-2778950-2025-08-31",
+      "headline": "How women with risqu\u00e9 content have India reelingSocial media shorts and Instagram Reels are creating dangerous friction in Indian society. The technology of the 21st century is clashing with the mores of a society still in the 19th century. While men opt for risky, women are getting into risque and vulgar content in an economy where eyeballs convert to hard cash. The Nikki Bhati case is just the tip of the iceberg. Here's how Indian society is reeling from the reel-making tornado."
+    },
+    {
+      "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/trinamool-congress-attacks-bjp-removal-of-bhasha-andolan-protest-stage-kolkata-indian-army-2780186-2025-09-01",
       "headline": "Dirty political game: Mamata Banerjee fumes after Army removes protest stageThe temporary structure was removed by the Indian Army. The demonstrations were held at the site to protest against the alleged atrocities on Bengali-speaking migrant workers in BJP-ruled states."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india-today-insight/story/how-indias-78-q1-gdp-growth-has-strong-rural-bharat-roots-2780155-2025-09-01",
+      "headline": "How India's 7.8% Q1 GDP growth has strong rural Bharat rootsQ1 FY25-26 numbers signal an Indian economy firing on multiple engines and rural demand surge providing a cushion against global trade shocks caused by Donald Trump's tariff war\r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/lifestyle/travel/story/millennials-and-gen-z-make-culture-tourism-the-latest-travel-trend-of-2025-2780088-2025-09-01",
+      "headline": "Millennials and Gen Z make culture the hottest travel trend of 2025Travel trends are shifting again and Indian travellers are all set to soak in the immersive cultural diversity. 7 in 10 travellers are excited to explore international and local festivals, traditions and heritage. "
     },
     {
       "sentiment": "positive",
@@ -241,46 +276,21 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/john-abraham-tehran-director-arun-gopalan-doubts-his-survival-in-bollywood-2780165-2025-09-01",
-      "headline": "Exclusive: John Abraham's Tehran director doubts his survival in BollywoodArun Gopalan's 'Tehran' challenges typical Bollywood spy films with a sensitive political story. The film highlights the India-Iran-Israel conflict while focusing on human perspectives beyond politics."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sunday-special/story/nikki-bhati-dowry-case-greater-noida-news-viral-reel-making-family-society-instagram-reels-women-violence-patriarchy-2778950-2025-08-31",
-      "headline": "How women with risqu\u00e9 content have India reelingSocial media shorts and Instagram Reels are creating dangerous friction in Indian society. The technology of the 21st century is clashing with the mores of a society still in the 19th century. While men opt for risky, women are getting into risque and vulgar content in an economy where eyeballs convert to hard cash. The Nikki Bhati case is just the tip of the iceberg. Here's how Indian society is reeling from the reel-making tornado."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/donald-trump-sacrificed-india-ties-for-family-pakistan-deals-former-biden-era-us-nsa-jake-sullivan-2780258-2025-09-01",
       "headline": "Trump sacrificed India ties for family's Pak deals: Ex-US NSA Jake SullivanUS President Donald Trump has sacrificed India ties for his family's business deals with Pakistan, said Biden-era NSA Jake Sullivan. In an outright conflict of interest, the Trump family is involved in a crypto venture in Pakistan even as the US President mollycoddles Pakistani army chief Asim Munir. The US should have boosted technology, talent and economic ties with India, said Sullivan."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india-today-insight/story/how-indias-78-q1-gdp-growth-has-strong-rural-bharat-roots-2780155-2025-09-01",
-      "headline": "How India's 7.8% Q1 GDP growth has strong rural Bharat rootsQ1 FY25-26 numbers signal an Indian economy firing on multiple engines and rural demand surge providing a cushion against global trade shocks caused by Donald Trump's tariff war\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/travel/story/millennials-and-gen-z-make-culture-tourism-the-latest-travel-trend-of-2025-2780088-2025-09-01",
-      "headline": "Millennials and Gen Z make culture the hottest travel trend of 2025Travel trends are shifting again and Indian travellers are all set to soak in the immersive cultural diversity. 7 in 10 travellers are excited to explore international and local festivals, traditions and heritage. "
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/science/story/600-dead-over-1500-injured-decoding-afghanistans-deadly-earthquake-2780016-2025-09-01",
-      "headline": "800 dead, over 2,800 injured: Decoding Afghanistan's deadly earthquakeThis region lies at the convergence of the Indian and Eurasian tectonic plates, which are continuously pushing against each other at a rate of approximately 39 millimetres per year. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/one-who-can-fool-people-nitin-gadkaris-definition-of-best-leader-sparks-row-2780062-2025-09-01",
-      "headline": "One who can fool is best leader: Nitin Gadkari says truth discouraged in politicsUnion minister Nitin Gadkari stirred debate with his remarks, saying the leader who can best fool people often succeeds, though he stressed that honesty, credibility and truth ultimately remain the most important values in society."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/educate-girls-first-indian-ngo-to-win-ramon-magsaysay-award-details-safeena-husain-details-explained-in-5-points-2780169-2025-09-01",
-      "headline": "Educate Girls is first Indian NGO to win Magsaysay Award | Full story in 5 pointsAn Indian NGO, Educate Girls, has scripted history by becoming the first Indian non-profit organisation to win the prestigious Ramon Magsaysay Award 2025, often dubbed Asia's Nobel Prize. The honour recognises the transformative work of the NGO, which has so far enroled over 2 million girls and improved learning outcomes for 2.4 million children across 30,000 Indian villages."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/bangladesh-t20i-win-netherlands-nine-wickets-nasum-ahmed-sylhet-2780315-2025-09-01",
+      "headline": "Bangladesh warm up for Asia Cup with T20I series win over NetherlandsBAN vs NED: Bangladesh sealed a commanding 2-0 lead against the Netherlands with a nine-wicket win in Sylhet. Nasum Ahmed picked up three wickets while opener Tanzid Hasan Tamim scored an unbeaten half-century."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/manchester-united-sign-senne-lemmes-emi-martinez-deal-off-deadline-day-2780318-2025-09-01",
+      "headline": "Manchester United complete Senne Lammens signing after snubbing Emi Martinez dealManchester United have sealed the signing of Belgian goalkeeper Senne Lammens from Royal Antwerp for 21 million euros plus add-ons. The move ends their pursuit of Emiliano Martinez and provides Ruben Amorim a fresh option in goal."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/liverpool-sign-alexander-isak-newcastle-united-british-record-fee-deadline-day-2780298-2025-09-01",
@@ -289,7 +299,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/us-open-day-9-updates-jannik-sinner-iga-swiatek-coco-gauff-2780281-2025-09-01",
-      "headline": "Day 9 Live Updates: Alex de Minaur vs Leandro Riedi to kick off actionUS Open 2025 Day 9 Live Updates: Alex de Minaur will be up against Switzerland's Leandro Riedi in the first match of the day. Andrey Rublev will be up against Felix Auger-Aliassime on Centre Court. Later in the day, Iga Swiatek, Coco Gauff, Amanda Ansimova and Jannik Sinner will be in action. \r\n"
+      "headline": "Day 9 Live Updates: De Minaur wins 1st set vs Riedi, Rublev vs Felix underwayUS Open 2025 Day 9 Live Updates: Alex de Minaur is currently up against Switzerland's Leandro Riedi in the first match of the day. Andrey Rublev is up against Felix Auger-Aliassime on Centre Court. Later in the day, Iga Swiatek, Coco Gauff, Amanda Ansimova and Jannik Sinner will be in action. \r\n"
     },
     {
       "sentiment": "positive",
@@ -323,13 +333,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/us-open-2025-maaya-rajeshwaran-hitesh-chauhan-kriish-tyagi-2780224-2025-09-01",
-      "headline": "Maaya Rajeshwaran storms into Round 2, heartbreak for Hitesh, TyagiMaaya Rajeshwaran marked her Grand Slam main-draw debut with a straight-sets win to enter the US Open girls' singles second round. Meanwhile, Kriish Tyagi and Hitesh Chauhan exited early.\r\n"
+      "url": "https://www.indiatoday.in/sports/football/story/india-defeat-iran-cafa-nations-cup-khalid-jamil-match-report-hisor-2780288-2025-09-01",
+      "headline": "Iran hand harsh reality check to India with 3-0 humbling in CAFA Nations CupIndia's bright start under Khalid Jamil ended with a 3-0 loss to Iran at the CAFA Nations Cup. The defeat exposed India's gaps against Asia's elite ahead of their crucial clash with Afghanistan.\r\n"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ms-dhoni-india-mentor-gautam-gambhir-pair-worth-watching-manoj-tiwary-2780202-2025-09-01",
-      "headline": "MS Dhoni, Gautam Gambhir as mentor-coach pair will be worth watching: Manoj TiwaryThe possible reunion of MS Dhoni and Gautam Gambhir in India's coaching setup for the T20 World Cup 2026 could blend tactical brilliance with championship experience, promising a coaching partnership that cricket fans worldwide will eagerly watch."
+      "url": "https://www.indiatoday.in/sports/hockey/story/asia-cup-hockey-2025-china-vs-japan-korea-vs-bangladesh-malaysia-vs-taipei-results-2780269-2025-09-01",
+      "headline": "Asia Cup: China, Korea join India in Super 4s, Malaysia rout Chinese TaipeiChina secured a hard-fought draw against Japan while Korea secured a big win over Bangladesh to join India and Malaysia in the Super 4 stages of the Asia Cup. Malaysia routed Chinese Taipei 15-0 to go into the next round with a 100 percent record. "
     },
     {
       "sentiment": "positive",
@@ -345,16 +355,6 @@
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/cricket/story/ravi-bishnoi-on-virat-kohli-rohit-sharma-retirement-farewell-2780199-2025-09-01",
       "headline": "Virat Kohli and Rohit Sharma not getting farewell was shocking: Ravi BishnoiRavi Bishnoi expressed disappointment over the sudden retirement of Virat Kohli and Rohit Sharma from Test cricket. He hopes they receive a proper farewell as Indian cricket enters a new phase under Shubman Gill."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/us-open-2025-maaya-rajeshwaran-hitesh-chauhan-kriish-tyagi-2780224-2025-09-01",
-      "headline": "Maaya Rajeshwaran storms into Round 2, heartbreak for Hitesh, TyagiMaaya Rajeshwaran marked her Grand Slam main-draw debut with a straight-sets win to enter the US Open girls' singles second round. Meanwhile, Kriish Tyagi and Hitesh Chauhan exited early.\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ms-dhoni-india-mentor-gautam-gambhir-pair-worth-watching-manoj-tiwary-2780202-2025-09-01",
-      "headline": "MS Dhoni, Gautam Gambhir as mentor-coach pair will be worth watching: Manoj TiwaryThe possible reunion of MS Dhoni and Gautam Gambhir in India's coaching setup for the T20 World Cup 2026 could blend tactical brilliance with championship experience, promising a coaching partnership that cricket fans worldwide will eagerly watch."
     }
   ],
   "education": [
