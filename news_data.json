@@ -1,6 +1,16 @@
 {
   "business": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/lockheed-martin-secures-record-patriot-missile-order-from-us-army-glbs-2781650-2025-09-04",
+      "headline": "Lockheed Martin secures largest-ever Patriot missile order from US ArmyThe Patriot system has long been a cornerstone of US and allied defence strategy. In recent years, its profile has grown after being supplied to Ukraine to counter Russia."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/5-per-cent-gst-too-low-montek-singh-ahluwalia-bats-for-single-14-per-cent-slab-glbs-2781648-2025-09-04",
+      "headline": "5% GST too low: Montek Singh Ahluwalia bats for single 14% slabEx-Planning Commission deputy chairman Montek Singh Ahluwalia said the GST has too many slabs and cess distortions. He called the 5 per cent slab unsustainable, urging a single 14 per cent rate split between Centre, states and urban local bodies as a \"true reform\"."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/video/gst-rates-slashed-big-relief-for-common-man-cars-tvs-food-items-cheaper-2781608-2025-09-03",
       "headline": "GST rates slashed: Big relief for common man; cars, TVs, food items cheaperUnion Finance Minister Nirmala Sitharaman announced a major GST overhaul following a council meeting, terming it a structural reform for \"ease of living\". "
@@ -49,16 +59,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/market/story/amanta-healthcare-ipo-latest-subscription-80-times-gmp-final-day-allotment-listing-date-2781470-2025-09-03",
       "headline": "Amanta Healthcare IPO booked 80x: Check GMP, subscription status on final dayAmanta Healthcare launched its book-built issue of Rs 126 crore, entirely a fresh issue of 1 crore shares. The bidding window opened on September 1 and closed on September 3."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/market/video/gold-or-stock-market-where-to-put-money-now-record-high-price-equity-gst-cut-2781430-2025-09-03",
-      "headline": "Gold vs stock market: Where should you put your money now?Market expert explained that gold and silver are usually considered when there is fear of a big market collapse."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/jane-street-appeals-against-sebis-market-ban-2781407-2025-09-03",
-      "headline": "Jane Street appeals against Sebi's market banThe dispute began in July when Sebi temporarily restricted Jane Street from trading in Indian markets. The regulator had accused the firm of manipulating key stock indexes, one of its strongest actions against a foreign investor in recent years."
     }
   ],
   "entertainment": [
@@ -187,12 +187,12 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/us-open-2025-day-11-quarterfinal-live-updates-iga-swiatek-jannik-sinner-new-york-2781540-2025-09-03",
-      "headline": "US Open Live: Swiatek in action, Felix storms into semis after epic de MinaurUS Open 2025, Day 11 Live Updates: Felix Auger-Aliassime stormed into the men's singles semi-final after a four-hour epic battle with Alex di Minaur. Iga Swiatek will be taking on Amanda Anisimova in the women's singles quarterfinals to start things off. Meanwhile, Jannik Sinner will be in action later on as he takes on Lorenzo Musetti."
+      "headline": "US Open Live: Anasimova thumps Swiatek to reach semis, Sinner next in actionUS Open 2025, Day 11 Live Updates: Felix Auger-Aliassime stormed into the men's singles semi-final after a four-hour epic battle with Alex di Minaur. Iga Swiatek was knocked out by Amanda Anisimova in the women's singles quarterfinals. Meanwhile, Jannik Sinner will be in action later on as he takes on Lorenzo Musetti."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/gst-new-rules-what-items-taxed-at-40-percent-nirmala-sitharaman-announcements-cigarette-tobacco-drinks-2781600-2025-09-03",
-      "headline": "GST 2.0: Check the complete list of goods under 40% sin taxThe new system, called GST 2.0, introduces a simpler two-slab structure and makes several changes to the way goods are taxed. These changes will take effect from 22 September 2025."
+      "url": "https://www.indiatoday.in/business/story/5-per-cent-gst-too-low-montek-singh-ahluwalia-bats-for-single-14-per-cent-slab-glbs-2781648-2025-09-04",
+      "headline": "5% GST too low: Montek Singh Ahluwalia bats for single 14% slabEx-Planning Commission deputy chairman Montek Singh Ahluwalia said the GST has too many slabs and cess distortions. He called the 5 per cent slab unsustainable, urging a single 14 per cent rate split between Centre, states and urban local bodies as a \"true reform\"."
     },
     {
       "sentiment": "positive",
@@ -206,6 +206,11 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/personal-finance/story/gst-new-rules-what-items-taxed-at-40-percent-nirmala-sitharaman-announcements-cigarette-tobacco-drinks-2781600-2025-09-03",
+      "headline": "GST 2.0: Check the complete list of goods under 40% sin taxThe new system, called GST 2.0, introduces a simpler two-slab structure and makes several changes to the way goods are taxed. These changes will take effect from 22 September 2025."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/us-news/story/trump-snaps-at-polish-reporter-cites-india-sanctions-as-action-against-russia-glbs-2781640-2025-09-04",
       "headline": "Trump snaps at Polish reporter, cites India sanctions as action against RussiaTrump's remarks came during a bilateral meeting in the Oval Office with Polish President Karol Nawrocki. Trump appeared visibly irked when a Polish reporter questioned him about showing frustration with Russian President Vladimir Putin but not taking action."
     },
@@ -216,38 +221,33 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/maratha-quota-protest-mumbai-is-manoj-jarange-patil-really-a-achievement-big-historic-win-explained-voices-2781290-2025-09-03",
-      "headline": "Has Jarange Patil really won the Maratha quota battle?Maratha quota activist Manoj Jarange Patil called the Maharashtra government's nod to accord the Kunbi status a breakthrough. However, the gains are narrowly tailored for only those Marathas with traceable records and would leave out millions. Is this victory big enough for Patil, who was turned away empty-handed several times?"
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/trending-news/story/bengaluru-couple-spends-rs-59-lakh-monthly-shares-expense-list-in-viral-video-2781135-2025-09-03",
       "headline": "Bengaluru couple spends Rs 5.9 lakh monthly, shares expense list in viral videoIn a now-viral video, a Bengaluru-based couple broke down their expenses for the month of August in detail.\r\n"
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/north-korea-kim-jong-un-train-slow-moving-beijing-russia-foreign-trips-secrets-specifications-explained-what-is-inside-2781489-2025-09-03",
+      "headline": "Why North Korea's Kim prefers his slow-moving train for trips, what's inside?North Korea's leader Kim Jong Un prefers his slow-moving, green armoured train, The Sun, because it is far safer than the country's aging planes. It doubles as a secure office on wheels, and continues a family tradition from his grandfather's time. It even has space to carry his luxury limousines."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/maratha-quota-protest-mumbai-is-manoj-jarange-patil-really-a-achievement-big-historic-win-explained-voices-2781290-2025-09-03",
+      "headline": "Has Jarange Patil really won the Maratha quota battle?Maratha quota activist Manoj Jarange Patil called the Maharashtra government's nod to accord the Kunbi status a breakthrough. However, the gains are narrowly tailored for only those Marathas with traceable records and would leave out millions. Is this victory big enough for Patil, who was turned away empty-handed several times?"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/predictability-has-a-huge-premium-says-jaishankar-on-indias-foreign-policy-glbs-2781645-2025-09-04",
+      "headline": "Predictability has huge premium in global politics: Jaishankar amid US tariff rowExternal Affairs Minister S. Jaishankar said predictability carries \"huge premium\" in world politics, stressing India's steady ties with Germany and the EU as global turbulence reshapes foreign policy choices."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/china-victory-day-military-parade-weapons-hypersonic-missiles-fighter-jets-drones-all-details-2781446-2025-09-03",
+      "headline": "Hypersonic missiles to under-sea drones: China parades its military muscleWith 20 world leaders in attendance, including Russia's Putin, Xi Jinping paraded an impressive array of drones and advanced hypersonic missiles as China hosted its Victory Day parade."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/death-toll-rises-to-37-as-punjab-sees-worst-floods-since-1988-over-35-lakh-impacted-2781533-2025-09-03",
       "headline": "37 dead, over 3.5 lakh impacted as Punjab sees worst floods since 1988Ongoing floods in Punjab have claimed 37 lives, as continued heavy rainfall and rising river levels disrupt daily life across several districts. The worst-affected districts include Gurdaspur, Pathankot, Fazilka, Kapurthala, Tarn Taran, Ferozepur, Hoshiarpur and Amritsar."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/donald-trump-targes-india-trade-repeats-zero-tariff-claims-2781459-2025-09-03",
-      "headline": "India kills us with tariffs: Trump repeats claim of 'no duty' offer from New DelhiDonald Trump claimed that India, like China and Brazil, \"kills\" the US with tariffs. He said that the tariff gives the US \"tremendous negotiating power.\""
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/hockey/story/asia-cup-hockey-2025-india-vs-korea-rain-delay-malaysia-japan-results-2781571-2025-09-03",
-      "headline": "Asia Cup: South Korea halts India's momentum with 2-2 draw in rain-hit Super 4s openerHockey Asia Cup: India's winning momentum at the Asia Cup 2025 came to an end as Korea held them to a 2-2 draw in Rajgir. Hardik and Mandeep Singh's goals helped India gain a valuable point in the end. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/auto/cars/story/maruti-suzuki-victoris-unveiled-new-mid-size-suv-with-5-star-bncap-rating-adas-2781271-2025-09-03",
-      "headline": "Maruti Suzuki Victoris unveiled: New mid-size SUV with 5-Star BNCAP Rating, ADASMaruti Suzuki has unveiled the Victoris, a new mid-size SUV for its Arena network. Positioned above the Brezza and Grand Vitara, it boasts premium features, multiple powertrains, and a 5-star BNCAP rating."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/hot-mic-captures-vladimir-putin-xi-jinping-musing-on-immortality-kim-jong-un-beijing-parade-2781534-2025-09-03",
-      "headline": "'Longer you live...': Hot mic catches Putin, Xi musing on immortality, Kim looks onA hot microphone captured a rare unscripted exchange between Russian President Vladimir Putin and Chinese President Xi Jinping \u2014 a conversation about organ transplants, longevity, and even the prospect of immortality."
     },
     {
       "sentiment": "positive",
@@ -261,23 +261,23 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/my-life-with-walter-boys-season-2-review-love-loss-and-the-rise-of-cole-as-the-real-hero-2781464-2025-09-03",
-      "headline": "My Life With Walter Boys 2 review: Love, loss and Cole's rise as the real heroRelease Date:Thu Aug 28, 2025Netflix's teen drama 'My Life With Walter Boys Season 2' takes Jackie's story forward with more heartbreak, complicated romances, and the ever-intense love triangle between Alex and Cole."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/sending-resignation-as-brs-member-says-k-kavitha-day-after-being-suspended-over-alleged-anti-party-activities-2781244-2025-09-03",
-      "headline": "Conspiracies against me: K Kavitha quits BRS, drops bombshells after suspensionK Kavitha resigned from her MLC post a day after being suspended from the party, intensifying the turmoil within the KCR-led outfit. She accused her cousins Harish Rao and Santosh Kumar of conspiring against her father, weakening the party, and plotting to divide their family. "
+      "url": "https://www.indiatoday.in/auto/cars/story/maruti-suzuki-victoris-unveiled-new-mid-size-suv-with-5-star-bncap-rating-adas-2781271-2025-09-03",
+      "headline": "Maruti Suzuki Victoris unveiled: New mid-size SUV with 5-Star BNCAP Rating, ADASMaruti Suzuki has unveiled the Victoris, a new mid-size SUV for its Arena network. Positioned above the Brezza and Grand Vitara, it boasts premium features, multiple powertrains, and a 5-star BNCAP rating."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/north-korea-kim-jong-un-train-slow-moving-beijing-russia-foreign-trips-secrets-specifications-explained-what-is-inside-2781489-2025-09-03",
-      "headline": "Why North Korea's Kim prefers his slow-moving train for trips, what's inside?North Korea's leader Kim Jong Un prefers his slow-moving, green armoured train, The Sun, because it is far safer than the country's aging planes. It doubles as a secure office on wheels, and continues a family tradition from his grandfather's time. It even has space to carry his luxury limousines."
+      "url": "https://www.indiatoday.in/world/story/hot-mic-captures-vladimir-putin-xi-jinping-musing-on-immortality-kim-jong-un-beijing-parade-2781534-2025-09-03",
+      "headline": "'Longer you live...': Hot mic catches Putin, Xi musing on immortality, Kim looks onA hot microphone captured a rare unscripted exchange between Russian President Vladimir Putin and Chinese President Xi Jinping \u2014 a conversation about organ transplants, longevity, and even the prospect of immortality."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/tv-actor-ashish-kapoor-arrested-on-rape-charges-in-pune-2781566-2025-09-03",
-      "headline": "TV actor Ashish Kapoor arrested on rape charges in PuneTelevision actor Ashish Kapoor was arrested on rape charges after a woman, who met him through Instagram, accused him of sexually assaulting her during a house party in Delhi."
+      "url": "https://www.indiatoday.in/sports/hockey/story/asia-cup-hockey-2025-india-vs-korea-rain-delay-malaysia-japan-results-2781571-2025-09-03",
+      "headline": "Asia Cup: South Korea halts India's momentum with 2-2 draw in rain-hit Super 4s openerHockey Asia Cup: India's winning momentum at the Asia Cup 2025 came to an end as Korea held them to a 2-2 draw in Rajgir. Hardik and Mandeep Singh's goals helped India gain a valuable point in the end. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/donald-trump-targes-india-trade-repeats-zero-tariff-claims-2781459-2025-09-03",
+      "headline": "India kills us with tariffs: Trump repeats claim of 'no duty' offer from New DelhiDonald Trump claimed that India, like China and Brazil, \"kills\" the US with tariffs. He said that the tariff gives the US \"tremendous negotiating power.\""
     }
   ],
   "sports": [
@@ -324,7 +324,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/us-open-2025-day-11-quarterfinal-live-updates-iga-swiatek-jannik-sinner-new-york-2781540-2025-09-03",
-      "headline": "US Open Live: Swiatek in action, Felix storms into semis after epic de MinaurUS Open 2025, Day 11 Live Updates: Felix Auger-Aliassime stormed into the men's singles semi-final after a four-hour epic battle with Alex di Minaur. Iga Swiatek will be taking on Amanda Anisimova in the women's singles quarterfinals to start things off. Meanwhile, Jannik Sinner will be in action later on as he takes on Lorenzo Musetti."
+      "headline": "US Open Live: Anasimova thumps Swiatek to reach semis, Sinner next in actionUS Open 2025, Day 11 Live Updates: Felix Auger-Aliassime stormed into the men's singles semi-final after a four-hour epic battle with Alex di Minaur. Iga Swiatek was knocked out by Amanda Anisimova in the women's singles quarterfinals. Meanwhile, Jannik Sinner will be in action later on as he takes on Lorenzo Musetti."
     },
     {
       "sentiment": "positive",
@@ -349,7 +349,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/us-open-2025-day-11-quarterfinal-live-updates-iga-swiatek-jannik-sinner-new-york-2781540-2025-09-03",
-      "headline": "US Open Live: Swiatek in action, Felix storms into semis after epic de MinaurUS Open 2025, Day 11 Live Updates: Felix Auger-Aliassime stormed into the men's singles semi-final after a four-hour epic battle with Alex di Minaur. Iga Swiatek will be taking on Amanda Anisimova in the women's singles quarterfinals to start things off. Meanwhile, Jannik Sinner will be in action later on as he takes on Lorenzo Musetti."
+      "headline": "US Open Live: Anasimova thumps Swiatek to reach semis, Sinner next in actionUS Open 2025, Day 11 Live Updates: Felix Auger-Aliassime stormed into the men's singles semi-final after a four-hour epic battle with Alex di Minaur. Iga Swiatek was knocked out by Amanda Anisimova in the women's singles quarterfinals. Meanwhile, Jannik Sinner will be in action later on as he takes on Lorenzo Musetti."
     },
     {
       "sentiment": "positive",
