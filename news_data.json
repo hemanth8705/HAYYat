@@ -63,6 +63,11 @@
   ],
   "entertainment": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/manisha-koirala-condemns-deadly-nepal-protests-social-media-ban-2784090-2025-09-09",
+      "headline": "Manisha Koirala reacts to deadly Nepal protests, calls it a black dayActor Manisha Koirala reacts strongly to deadly protests in Nepal following a social media ban. The unrest highlights growing public anger over corruption and government actions."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/story/anuparna-roy-bags-best-director-in-venice-film-festival-parents-thrilled-2784005-2025-09-08",
       "headline": "Purulia girl Anuparna Roy bags Best Director in Venice, parents thrilled with winPurulia-born Anuparna Roy won Best Director at the 82nd Venice Film Festival for her debut film. She became the first Indian to win the award at the prestigious global film festival. "
@@ -151,18 +156,13 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/story/a-silent-voice-anime-most-powerful-exploration-of-bullying-and-mental-health-2783650-2025-09-08",
       "headline": "A Silent Voice, anime's most powerful exploration of bullying and mental healthIn this week's Animania, we discuss how, in a world of flashy battles, 'A Silent Voice' won hearts by confronting bullying, disability and mental health with raw honesty and unforgettable emotion."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/rukmini-vasanth-defends-sandalwood-against-comparisons-with-other-indian-film-industries-2783763-2025-09-08",
-      "headline": "Rukmini Vasanth defends Sandalwood against comparisons with other film industriesActor Rukmini Vasanth defended Sandalwood against the perception that it does not measure up to Bollywood, Kollywood, Mollywood, and Tollywood. At the India Today Conclave South 2025, she cited the massive success of 'KGF' and 'Kantara' to support her point."
     }
   ],
   "general news": [
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/world/story/gen-z-protests-nepal-kp-sharma-oli-corruption-social-media-restrictions-2783683-2025-09-08",
-      "headline": "Nepal lifts social media ban after 20 killed in huge Gen Z protests Live UpdatesAt least 20 people were killed and over 250 were injured in Nepal as thousands of Gen Z protesters, angered by corruption and a government ban on 26 social media platforms, launched a massive agitation."
+      "headline": "Nepal lifts social media ban after 20 killed in huge Gen Z protests Live UpdatesThe Nepal government has announced that it has withdrawn its ban on 26 social media platforms after massive protests by Gen Z demonstrators, which left at least 20 people dead and over 300 injured amid outrage over corruption and online restrictions."
     },
     {
       "sentiment": "positive",
@@ -200,11 +200,6 @@
       "headline": "GST 2.0: As Modi govt bets on consumption to power growth, mind the bumps tooThe GST revamp, paired with income-tax relief earlier, aims to unleash middle-class spending. But state revenue risks, private investment stagnation and global headwinds loom as pain points"
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/nepal-gen-z-protests-social-media-ban-parliament-casualties-violence-oli-india-border-security-2783727-2025-09-08",
-      "headline": "Won't bow down to 'Gen Z troublemakers': Nepal PM refuses to lift social media banAt least 20 people were killed and more than 250 were injured in violent clashes in Nepal's Kathmandu and other cities as Gen Z protestors took to the streets to protest against corruption and the government's ban on several media apps."
-    },
-    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/terminal-4-of-londons-heathrow-airport-evacuated-over-possible-hazardous-material-news-agency-ap-2784079-2025-09-08",
       "headline": "Terminal 4 of London's Heathrow Airport evacuated over possible hazardous materialHeathrow Airport's Terminal 4 was evacuated on Monday over a possible hazardous material. Emergency crews responded, and passengers waited outside. The London Fire Brigade called it precautionary, while other terminals remained open."
@@ -221,13 +216,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/bangladesh-hilsa-export-to-india-bengal-durga-puja-2784065-2025-09-08",
-      "headline": "Bangladesh to export 1,200 tonnes of hilsa to India, half of last year's quotaBangladesh has traditionally permitted limited shipments of hilsa\u00a0\u2014 the most sought-after fish during Durga Puja\u00a0\u2014 mainly to West Bengal, where demand soars during the festive season."
+      "url": "https://www.indiatoday.in/world/story/french-pm-francois-bayrou-who-took-office-9-months-ago-loses-no-trust-motion-over-debt-crisis-to-resign-2784073-2025-09-08",
+      "headline": "French PM Francois Bayrou to resign after losing no-trust vote over debt crisisBayrou himself had triggered the confidence vote in a bid to secure backing for his strategy to cut the deficit, which has ballooned to nearly twice the European Union's 3 per cent ceiling. France's debt pile now stands at around 114 per cent of GDP."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/french-pm-francois-bayrou-who-took-office-9-months-ago-loses-no-trust-motion-over-debt-crisis-to-resign-2784073-2025-09-08",
-      "headline": "French PM Francois Bayrou to resign after losing no-trust vote over debt crisisBayrou himself had triggered the confidence vote in a bid to secure backing for his strategy to cut the deficit, which has ballooned to nearly twice the European Union's 3 per cent ceiling. France's debt pile now stands at around 114 per cent of GDP."
+      "url": "https://www.indiatoday.in/india/story/bangladesh-hilsa-export-to-india-bengal-durga-puja-2784065-2025-09-08",
+      "headline": "Bangladesh to export 1,200 tonnes of hilsa to India, half of last year's quotaBangladesh has traditionally permitted limited shipments of hilsa\u00a0\u2014 the most sought-after fish during Durga Puja\u00a0\u2014 mainly to West Bengal, where demand soars during the festive season."
     },
     {
       "sentiment": "negative",
@@ -241,13 +236,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/why-mp-need-training-presidential-vice-president-election-cp-radhakrishnan-b-sudershan-reddy-jagdeep-dhankhar-complicated-explained-2783832-2025-09-08",
-      "headline": "Why MPs need training for Vice-Presidential election? It's complicatedThe Vice-President election is scheduled for September 9, and MPs from both the Lok Sabha and Rajya Sabha are undergoing training to understand the complex voting process. Here's a closer look at how both Presidential and Vice Presidential elections are conducted and why MPs need training."
+      "url": "https://www.indiatoday.in/world/story/why-nepal-banned-social-media-whatsapp-tiktok-facebook-genz-revolution-2783741-2025-09-08",
+      "headline": "Why Nepal banned social media? All about the move that sparked GenZ revolutionNepal's sweeping ban on major social media platforms has triggered a massive youth-led uprising, with thousands of Gen Z protesters flooding the streets of Kathmandu. Clashes with security forces have left one dead, dozens injured, and the army deployed as the government scrambles to contain the unrest."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/why-nepal-banned-social-media-whatsapp-tiktok-facebook-genz-revolution-2783741-2025-09-08",
-      "headline": "Why Nepal banned social media? All about the move that sparked GenZ revolutionNepal's sweeping ban on major social media platforms has triggered a massive youth-led uprising, with thousands of Gen Z protesters flooding the streets of Kathmandu. Clashes with security forces have left one dead, dozens injured, and the army deployed as the government scrambles to contain the unrest."
+      "url": "https://www.indiatoday.in/india/story/why-mp-need-training-presidential-vice-president-election-cp-radhakrishnan-b-sudershan-reddy-jagdeep-dhankhar-complicated-explained-2783832-2025-09-08",
+      "headline": "Why MPs need training for Vice-Presidential election? It's complicatedThe Vice-President election is scheduled for September 9, and MPs from both the Lok Sabha and Rajya Sabha are undergoing training to understand the complex voting process. Here's a closer look at how both Presidential and Vice Presidential elections are conducted and why MPs need training."
     },
     {
       "sentiment": "negative",
@@ -261,6 +256,11 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/the-lowdown/story/rajasthan-si-exam-2021-scam-the-big-fish-in-the-pond-2783824-2025-09-08",
+      "headline": "When dreams were sold: The big fish in Rajasthan's SI-exam scam pondThe 2021 Rajasthan Sub-Inspector recruitment exam, revealed a rotten system where power, politics, and greed conspired to crush dreams. Beyond the leaked papers and fake candidates lies a deeper story about how corruption festers when oversight fails, and how justice finally struck a decisive blow\u2014cancelling the entire exam and shattering numerous lives.\u00a0"
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/lifestyle/travel/story/the-100-million-goan-villa-that-makes-you-wish-white-lotus-season-4-was-filmed-here-2783836-2025-09-08",
       "headline": "The $100 million Goan villa that makes you wish White Lotus was filmed hereLocated between dense jungle and 1,600 feet of private oceanfront, Palacio Aguada is not just a home, it's a slice of history. This estate sits beside a centuries-old Portuguese fort, giving it an unmatched old-world charm fused with contemporary luxury. "
     },
@@ -271,13 +271,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/the-lowdown/story/rajasthan-si-exam-2021-scam-the-big-fish-in-the-pond-2783824-2025-09-08",
-      "headline": "When dreams were sold: The big fish in Rajasthan's SI-exam scam pondThe 2021 Rajasthan Sub-Inspector recruitment exam, revealed a rotten system where power, politics, and greed conspired to crush dreams. Beyond the leaked papers and fake candidates lies a deeper story about how corruption festers when oversight fails, and how justice finally struck a decisive blow\u2014cancelling the entire exam and shattering numerous lives.\u00a0"
+      "url": "https://www.indiatoday.in/sports/football/story/cafa-nations-cup-india-finish-3rd-beat-oman-khalid-jamil-2784008-2025-09-08",
+      "headline": "India edge Oman on penalties to finish 3rd in CAFA Nations CupIndia ended a challenging stretch on a high, beating Oman 3-2 on penalties to claim third in the CAFA Nations Cup. Gurpreet Singh Sandhu's heroics and Jamil's attacking plan sparked renewed hope for Indian football."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/cafa-nations-cup-india-finish-3rd-beat-oman-khalid-jamil-2784008-2025-09-08",
-      "headline": "India edge Oman on penalties to finish 3rd in CAFA Nations CupIndia ended a challenging stretch on a high, beating Oman 3-2 on penalties to claim third in the CAFA Nations Cup. Gurpreet Singh Sandhu's heroics and Jamil's attacking plan sparked renewed hope for Indian football."
+      "url": "https://www.indiatoday.in/world/story/red-sea-cable-cut-who-lays-internet-beneath-sea-global-network-connectivity-houthis-yemen-war-mumbai-andaman-cochin-2783722-2025-09-08",
+      "headline": "Red Sea cable cut: Who lays internet line under the sea?A cut in the Red Sea cable disrupted internet services across India, Pakistan, and the Middle East. These vital undersea cables are laid and maintained by private companies and international consortiums. In India, around 17 international undersea cables emerge at 14 stations across Mumbai, Chennai, Cochin, Tuticorin, and Trivandrum."
     }
   ],
   "sports": [
@@ -360,6 +360,126 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/chris-gayle-on-sarfaraz-khans-place-in-the-indian-test-team-2783863-2025-09-08",
       "headline": "Sarfaraz Khan should be in Indian Test team, no issues with his weight: GayleChris Gayle has said that middle order batter Sarfaraz Khan deserves to be a part of the Indian Test team. The vintage West Indian opener advocates for a consistent run for Khan in the longest format, applauding his performance in domestic cricket."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/conclave-south-2025/video/narayan-karthikeyan-conclave-south-indian-racing-ajith-le-mans-2783777-2025-09-08",
+      "headline": "India's motorsport scene will soon be back on track: Narain KarthikeyanSpeaking at India Today's South Conclave on Monday, September 8, India's first-ever Formula One driver and Padma Shri awardee Narain Karthikeyan said interest in racing is growing, fuelled by the popularity of shows like Drive to Survive, which put F1 on the global map and made motorsport more accessible to the public."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/mohammed-siraj-icc-player-month-august-2025-england-series-performance-2783837-2025-09-08",
+      "headline": "Siraj nominated for ICC Player of the Month for August after England heroicsMohammed Siraj has been nominated as ICC Player of the Month for August 2025 after a brilliant England Test series. He's been shortlisted alongside New Zealand's Matt Henry and West Indies' Jayden Seales in the men's category."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/other-sports/video/vishal-tk-kalaivani-boxer-push-up-challenge-india-today-conclave-2783823-2025-09-08",
+      "headline": "Watch: Vishal TK, Kalaivani get into push-up challenge at South Conclave400m national record holder Vishal TK and boxer Kalaivani Srinivasan got into a fun push-up contest at the India Today South Conclave. Before that, the duo passionately spoke about the changing landscape of athletics in India."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/athletics/story/vishal-tk-india-running-revolution-schools-conclave-south-2783816-2025-09-08",
+      "headline": "Indian schools need to play big part in country's sporting revolution: Vishal TKIndia's 400m specialist Vishal TK believes that schools need to play a big part in promoting sports culture in India. Speaking at the India Today South Conclave, Vishal said that India has a lot of potential in the world of athletics."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/cricket/story/wasim-jaffer-on-suryakumar-yadavs-poor-form-asia-cup-2025-2783798-2025-09-08",
+      "headline": "Suryakumar Yadav not scoring runs while leading India is a concern: Wasim JafferWasim Jaffer has expressed concern over Suryakumar Yadav's poor batting form while leading India's T20I side. The Asia Cup 2025 will be a crucial test for Surya's captaincy and batting in a major event."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/conclave-south-2025/story/kalaivani-srinivasan-conclave-south-india-boxing-family-pressure-2783797-2025-09-08",
+      "headline": "How Kalaivani Srinivasan punched past gender stereotypes to achieve boxing gloryBoxer Kalaivani Srinivasan, speaking at the India Today South Conclave 2025, shared how her relatives were initially doubtful of her career but gradually came to support her as she began winning medals."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/hockey/video/asia-cup-hockey-title-drought-ends-india-eye-success-2026-world-cup-wrap-2783666-2025-09-08",
+      "headline": "Asia Cup hockey title drought ends: Can India repeat their success at 2026 World Cup?The Indian men's hockey team ended their Asia Cup title drought and now turn their focus to the 2026 World Cup. How will India shape up for next year's tournament in Belgium and the Netherlands?\r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/chris-gayle-disrespected-punjab-kings-ipl-depression-exit-2783729-2025-09-08",
+      "headline": "I was disrespected at Punjab Kings, felt like getting into depression: GayleChris Gayle revealed he was disrespected during his time with Punjab Kings in the IPL. This mistreatment led to depression and an early exit from the tournament."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/cricket/story/wasim-jaffer-on-suryakumar-yadavs-poor-form-asia-cup-2025-2783798-2025-09-08",
+      "headline": "Suryakumar Yadav not scoring runs while leading India is a concern: Wasim JafferWasim Jaffer has expressed concern over Suryakumar Yadav's poor batting form while leading India's T20I side. The Asia Cup 2025 will be a crucial test for Surya's captaincy and batting in a major event."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/conclave-south-2025/story/kalaivani-srinivasan-conclave-south-india-boxing-family-pressure-2783797-2025-09-08",
+      "headline": "How Kalaivani Srinivasan punched past gender stereotypes to achieve boxing gloryBoxer Kalaivani Srinivasan, speaking at the India Today South Conclave 2025, shared how her relatives were initially doubtful of her career but gradually came to support her as she began winning medals."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/hockey/video/asia-cup-hockey-title-drought-ends-india-eye-success-2026-world-cup-wrap-2783666-2025-09-08",
+      "headline": "Asia Cup hockey title drought ends: Can India repeat their success at 2026 World Cup?The Indian men's hockey team ended their Asia Cup title drought and now turn their focus to the 2026 World Cup. How will India shape up for next year's tournament in Belgium and the Netherlands?\r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/chris-gayle-disrespected-punjab-kings-ipl-depression-exit-2783729-2025-09-08",
+      "headline": "I was disrespected at Punjab Kings, felt like getting into depression: GayleChris Gayle revealed he was disrespected during his time with Punjab Kings in the IPL. This mistreatment led to depression and an early exit from the tournament."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/coach-shukri-conrad-slams-south-africa-after-record-odi-loss-vs-england-2783723-2025-09-08",
+      "headline": "Embarrassing: Coach Shukri Conrad slams South Africa after record ODI lossDespite sealing the series 2-0, South Africa crashed to a record-breaking 342-run defeat against England in the third ODI. Head coach Shukri Conrad labelled the display 'embarrassing,' while captain Temba Bavuma conceded it 'wasn't good enough,' especially in contrast to their recent heroics in Australia."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/formula-one/story/narayan-karthikeyan-conclave-south-india-formula-one-2783724-2025-09-08",
+      "headline": "How can India build its next F1 star? Narain Karthikeyan explainsIndia's first-ever Formula One driver Narain Karthikeyan, speaking at the India Today South Conclave, explained what the country needs to do to produce its next F1 star. Since Karthikeyan's debut, no other Indian racer has competed in motorsport's most prestigious race."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/pakistan-ready-for-asia-cup-salman-agha-2783665-2025-09-08",
+      "headline": "Pakistan in good shape before Asia Cup: Skipper Salman AghaPakistan T20I captain Salman Agha has said that his team is in good shape ahead of the Asia Cup 2025. Pakistan beat Afghanistan in the final of the tri-series and are coming into the tournament with good momentum."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/afghanistan-asia-cup-team-preview-rashid-khan-spin-bowling-2783606-2025-09-08",
+      "headline": "Spin-powered Afghanistan are no longer just challengers, but contendersAsia Cup 2025: After their success in the 2024 T20 World Cup, Afghanistan have evolved from being mere challengers to genuine contenders for the ACC Asia Men's T20 Cup, which begins on September 9."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/sanju-samson-opener-india-asia-cup-t20-ravi-shastri-shubman-gill-2783584-2025-09-08",
+      "headline": "Even Shubman will find it tough to displace Samson as opener: Ravi ShastriFormer India coach Ravi Shastri thinks wicketkeeper Sanju Samson's success as a T20I opener might push the new vice-captain, Shubman Gill, to bat lower in the Asia Cup."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/asia-cup-2025-afghanistan-hong-kong-oman-uae-previews-2783374-2025-09-08",
+      "headline": "Asia Cup 2025: What to expect from Oman, UAE and Hong Kong?Asia Cup 2025 begins with Afghanistan and Hong Kong opening the tournament in Abu Dhabi. The event features debutants Oman and returning UAE, creating fresh competition dynamics."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/wwe/story/aj-lee-wwe-comeback-chicago-fan-excitement-2783164-2025-09-08",
+      "headline": "AJ Lee make WWE return after a decade, joins Punk vs Seth and Becky feudAJ Lee makes her WWE return after a decade, thrilling fans in Chicago. Her comeback adds new intensity to the Punk, Seth and Becky storyline."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/hockey/story/india-win-asia-cup-2025-world-cup-qualification-2783473-2025-09-08",
+      "headline": "Asia Cup conquered: India's transitioning side ready to chase World Cup gloryIndia have finally slayed the dragon and secured their first Asia Cup title in 8 years with a thumping win in Rajgir. Now with continental success and momentum, the young and transitioning Indian team get ready for the big mission in 2026, the World Cup. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/harbhajan-singh-punjab-flood-relief-boats-ambulances-funds-2783464-2025-09-08",
+      "headline": "Harbhajan Singh aids Punjab flood relief with boats and fundsFormer India spinner Harbhajan Singh steps up flood relief efforts in Punjab by providing boats and ambulances. His mobilisation of funds and resources highlights urgent community support amid ongoing monsoon challenges."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/e-sports/story/battlegrounds-masters-series-season-4-top-teams-qualify-grand-finals-2783483-2025-09-08",
+      "headline": "Revenant XSpark tops BGMS Season 4 points table after 84 matchesThe league stage of Battlegrounds Masters Series Season 4 has concluded, with the top four teams securing direct spots in the grand finals. The remaining teams will now battle it out in the semi-finals and playoffs, raising the stakes and intensifying the competition."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/us-open-final-carlos-alcaraz-plan-against-jannik-sinner-2783529-2025-09-08",
+      "headline": "How Alcaraz devised masterplan to dethrone Sinner after Wimbledon heartbreakCarlos Alcaraz defeated Jannik Sinner to reclaim the title of World No.1 at the US Open 2025. After the match, Alcaraz explained how he devised a masterplan to defeat Sinner after his Wimbledon heartbreak."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/wwe/story/aj-lee-wwe-next-appearance-2783478-2025-09-08",
+      "headline": "AJ Lee to return to WWE in Monday Night Raw match against Becky LynchWWE star AJ Lee returned after a decade to support her husband, CM Punk. Her in-ring comeback on Monday Night Raw ushers in an exciting new chapter for WWE's women's division."
     }
   ],
   "education": [
