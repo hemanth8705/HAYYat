@@ -2,6 +2,16 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/inox-siddharth-jain-buys-india-inc-first-tesla-ev-cars-elon-musk-2787917-2025-09-16",
+      "headline": "INOX's Siddharth Jain buys India Inc's first Tesla EVSiddharth Jain's purchase follows the earlier delivery of India's first Tesla Model Y to Maharashtra Transport Minister Pratap Sarnaik."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/india-us-trade-agreement-talks-resume-trump-tariffs-shift-modi-commerce-ministry-2787907-2025-09-16",
+      "headline": "India, US back at table for trade talks, eye breakthrough amid tariffsThe trade talks come after Trump softened his tone, saying he was optimistic about finalising a trade agreement with India. Government officials see the shift as a chance to rescue a free trade deal that had been thrown into doubt by punitive tariffs."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/deadline-for-filing-income-tax-returns-extended-by-one-day-until-tuesday-government-glbs-2787853-2025-09-16",
       "headline": "Income tax return deadline extended by one day, till TuesdayTo facilitate necessary updates and changes in the filing utilities, the department also announced that the e-filing portal will undergo maintenance from 12:00 am to 2:30 am on September 16, 2025."
     },
@@ -49,16 +59,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/personal-finance/story/itr-2025-deadline-know-penalties-and-benefits-you-lose-for-missing-the-due-date-2787482-2025-09-15",
       "headline": "ITR 2025 deadline: Know penalties and benefits you lose for missing the due dateThe deadline to file Income Tax Returns (ITR) for 2025 is here, and missing it can cost more than just a late fee. From penalties to lost tax perks, here's what you need to know."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/advance-tax-deadline-today-september-15-how-much-to-pay-and-penalty-for-delay-2787458-2025-09-15",
-      "headline": "Advance tax deadline today: How much to pay and penalty for delayThe second instalment of advance tax for financial year 2026 is due on 15 September. Here's what individuals need to pay, who is liable, and the consequences of missing the deadline."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/market/video/value-stocks-to-buy-on-dalal-street-top-picks-auto-psu-railways-nbfc-bajaj-finance-2787450-2025-09-15",
-      "headline": "Looking for value-based stocks to buy on Dalal Street? Here are the top picksExperts believe the current market offers good opportunities, especially in sectors that have seen recent corrections and are expected to benefit from domestic demand, GST reforms, and a good monsoon."
     }
   ],
   "entertainment": [
@@ -161,8 +161,13 @@
   "general news": [
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/pakistan-threaten-to-pull-out-of-asia-cup-2025-referee-handshake-row-2787776-2025-09-15",
-      "headline": "Pak threaten to walk out of Asia Cup over India's handshake snubAsia Cup 2025: Pakistan have threatened to pull out of the tournament if match referee Andy Pycroft is not removed for the remainder of the competition. The move comes after India's decision to avoid handshakes with the Pakistani team during Sunday's match in Dubai."
+      "url": "https://www.indiatoday.in/business/story/india-us-trade-agreement-talks-resume-trump-tariffs-shift-modi-commerce-ministry-2787907-2025-09-16",
+      "headline": "India, US back at table for trade talks, eye breakthrough amid tariffsThe trade talks come after Trump softened his tone, saying he was optimistic about finalising a trade agreement with India. Government officials see a chance to rescue a free trade deal that had been thrown into doubt by punitive tariffs."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/us-news/story/indian-mans-beheading-in-texas-was-completely-preventable-us-homeland-security-glbs-2787878-2025-09-16",
+      "headline": "Was preventable if...: US Homeland Security after Indian man beheaded in DallasChandra Nagamalliah was attacked last week at the Downtown Suites motel in Dallas, where he and the Cuban murderer Yordanis Cobos-Martinez worked."
     },
     {
       "sentiment": "positive",
@@ -170,9 +175,24 @@
       "headline": "Income tax return deadline extended by one day, till TuesdayTo facilitate necessary updates and changes in the filing utilities, the department also announced that the e-filing portal will undergo maintenance from 12:00 am to 2:30 am on September 16, 2025."
     },
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/heavy-rain-triggers-cloudburst-in-uttarakhands-dehradun-cars-shops-washed-away-2-people-missing-2787900-2025-09-16",
+      "headline": "2 missing as heavy rain triggers cloudburst in Dehradun, washes away cars and shopsA cloudburst in Dehradun triggered by heavy rain washed away cars and shops and resulted in two people going missing. Rescue personnel are at the spot to search and rescue the missing persons."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/athletics/story/india-speed-skating-golds-anandkumar-velkumar-krish-sharma-world-championships-2787831-2025-09-15",
       "headline": "India script history with two gold medals at Speed Skating World ChampionshipsAnandkumar Velkumar made history by clinching India's first-ever World Championship title in the senior men's 1000m speed skating event in China. Krish Sharma also secured gold in the junior 1000m sprint, marking a memorable day for Indian speed skating."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/several-feared-dead-as-truck-rams-into-crowd-in-indore-another-vehicle-catches-fire-2787788-2025-09-15",
+      "headline": "2 dead, vehicles catch fire as drunk driver rams truck into crowd in IndoreA speeding truck lost control and ploughed into a crowd and multiple vehicles on Indore's Airport Road, killing at least two people and injuring several others, with the toll likely to rise."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/icc-match-referee-pycroft-asia-cup-pakistan-protest-handshake-controversy-2787843-2025-09-15",
+      "headline": "ICC likely to reject Pakistan's request to replace match referee Pycroft: SourcesThe International Cricket Council (ICC) has yet to issue an official response to the Pakistan Cricket Board's (PCB) request for a change of match referee. However, sources suggest that the ICC rarely entertains such demands and is expected to stand by its appointed official."
     },
     {
       "sentiment": "positive",
@@ -186,38 +206,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/trump-netanyahu-didnt-inform-him-of-qatar-strike-vows-israel-wont-hit-again-glbs-2787890-2025-09-16",
-      "headline": "Trump says Netanyahu didn't inform him of Qatar strike, vows Israel won't hit againThe US President denied having prior knowledge of Israel's strike in Qatar that killed Hamas leaders. Netanyahu said the attack was a \"wholly independent\" Israeli operation."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/jd-vance-hosts-charlie-kirks-show-vows-to-honor-him-by-being-a-better-father-glbs-2787866-2025-09-16",
-      "headline": "JD Vance hosts Charlie Kirk's show, vows to honour him by being a better fatherUS Vice President JD Vance hosted Charlie Kirk's radio show, saying he'll honour his slain friend by being a better husband and father. He praised Kirk as a \"joyful warrior\" and urged national unity."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/us-news/story/indian-mans-beheading-in-texas-was-completely-preventable-us-homeland-security-glbs-2787878-2025-09-16",
-      "headline": "Indian man's beheading in Texas was completely preventable: US Homeland SecurityChandra Nagamalliah was attacked Wednesday at the Downtown Suites motel in Dallas, where the 50-year-old victim and Cuban murder suspect Yordanis Cobos-Martinez worked."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/r-vaishali-wins-fide-womens-grand-swiss-qualifies-for-candidates-2787728-2025-09-15",
-      "headline": "R Vaishali wins Women's Grand Swiss for 2nd consecutive time, qualifies for CandidatesGrand Swiss 2025: R Vaishali of India scripted history by becoming the first player to defend her title in the prestigious tournament. With her win, the Chennai Grandmaster also secured her place in the Candidates next year. "
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/impact-feature/story/the-80-gap-why-most-indians-are-underinsured-and-why-its-time-to-act-2787740-2025-09-15",
       "headline": "The 80% gap: Why most Indians are underinsured and why it's time to actThe solution lies in choosing a comprehensive life cover that reflects modern realities."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/us-news/story/charlie-kirks-alleged-killer-tyler-robinson-confessed-in-discord-group-chat-glbs-2787874-2025-09-16",
-      "headline": "It was me: Charlie Kirk's alleged killer reportedly confessed in Discord group chatTyler Robinson was arrested on Thursday after a 33-hour manhunt. Video from the event showed Kirk being struck in the neck while addressing students at an outdoor gathering of Turning Point USA."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-pakistan-how-can-salman-agha-team-exit-asia-cup-2787867-2025-09-16",
+      "headline": "Asia Cup: Even without boycott, Pakistan can exit early. Here's howPakistan faces a crucial test in Asia Cup 2025 after a heavy defeat to India and a controversial handshake incident. The team's qualification hopes hinge on their next match against the UAE amid several controversies."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/icc-match-referee-pycroft-asia-cup-pakistan-protest-handshake-controversy-2787843-2025-09-15",
-      "headline": "ICC likely to reject Pakistan's request to replace match referee Pycroft: SourcesThe International Cricket Council (ICC) has yet to issue an official response to the Pakistan Cricket Board's (PCB) request for a change of match referee. However, sources suggest that the ICC rarely entertains such demands and is expected to stand by its appointed official."
+      "url": "https://www.indiatoday.in/world/story/trump-netanyahu-didnt-inform-him-of-qatar-strike-vows-israel-wont-hit-again-glbs-2787890-2025-09-16",
+      "headline": "Trump says Netanyahu didn't inform him of Qatar strike, vows Israel won't hit againThe US President denied having prior knowledge of Israel's strike in Qatar that killed Hamas leaders. Netanyahu said the attack was a \"wholly independent\" Israeli operation."
     },
     {
       "sentiment": "positive",
@@ -225,49 +225,14 @@
       "headline": "India's Ravi floods Lahore after 40 years, triggers blame gameThe River Ravi returned to Lahore after almost 40 years, causing severe floods, and reminding the Pakistani city of its historical connection to the river. The floods of August and September exposed vulnerabilities from unchecked urban development and ecological neglect. This came even as India kept the Indus Waters Treaty in abeyance."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/us-news/story/us-military-strike-kills-three-venezuelan-narcoterrorists-drug-trafficking-glbs-2787868-2025-09-16",
-      "headline": "3 killed in 2nd US strike on vessel moving drugs from Venezuela, says TrumpThe US President said American forces carried out a second strike in Venezuela, killing three terrorists transporting drugs in international waters. Trump said the strike was necessary to counter threats to US national security. "
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/jd-vance-hosts-charlie-kirks-show-vows-to-honor-him-by-being-a-better-father-glbs-2787866-2025-09-16",
+      "headline": "JD Vance hosts Charlie Kirk's show, vows crackdown on far-left violenceUS Vice President JD Vance hosted Charlie Kirk's radio show, saying he'll honour his slain friend by being a better husband and father. He praised Kirk as a \"joyful warrior\" and urged national unity."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/auto/cars/story/maruti-suzuki-victoris-launched-at-rs-1050-lakh-arenas-new-flagship-suv-2787693-2025-09-15",
-      "headline": "Maruti Suzuki Victoris launched at Rs 10.50 lakh, Arena's new flagship SUVMaruti Suzuki has launched the Victoris at Rs 10.50 lakh, a new flagship mid-size SUV in its Arena lineup, combining advanced features, multiple powertrains, and top-notch safety."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/several-feared-dead-as-truck-rams-into-crowd-in-indore-another-vehicle-catches-fire-2787788-2025-09-15",
-      "headline": "Two dead, nine injured as truck rams into crowd in Indore, catches\u00a0fireA speeding truck lost control and ploughed into a crowd and multiple vehicles on Indore's Airport Road, killing at least two people and injuring several others, with the toll likely to rise."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/opinion/story/new-pixel-and-iphone-are-here-so-is-the-beginning-of-an-end-for-smartphones-2787476-2025-09-15",
-      "headline": "New Pixel and iPhone are here, so is the beginning of an end for smartphonesAfter close to 20 years of glorious run, smartphones as technology have become stagnant and are ripe to be replaced with something else. At least that is the impression the latest Google Pixels and Apple iPhones offer given how incremental they are with their updates. "
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/elections/assembly/story/when-bihar-progresses-congress-and-rjd-get-busy-insulting-the-state-pm-modi-rips-into-bidi-bihar-remark-2787694-2025-09-15",
-      "headline": "When Bihar progresses, Congress, RJD insult state: PM slams 'bidi-Bihar' remarkAddressing a rally in Purnea, PM Modi hit out at RJD and Congress, saying that the opposition parties start heaping insults on Bihar as soon as the state shows signs of progress. "
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/bmw-driver-took-finance-ministry-official-to-own-hospital-20-km-away-victims-son-2787517-2025-09-15",
-      "headline": "BMW driver took my husband to hospital 19 km away despite appeals: Victim's wifeThe victim, Navjot Singh, Deputy Secretary in the Department of Economic Affairs, was returning from Bangla Sahib Gurdwara with his wife Sandeep Kaur on Sunday afternoon when their motorcycle was hit by a speeding BMW near Dhaula Kuan on Ring Road. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-qualifies-for-asia-cup-2025-super-4-uae-defeats-oman-2787811-2025-09-15",
-      "headline": "Asia Cup: India qualify for Super 4 after UAE thrash OmanAsia Cup 2025: India have qualified for the Super 4s race after the UAE produced a sensational all-round performance to open their account with a comprehensive win over Oman in match 7 of the Asia Cup 2025."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/charlie-kirks-alleged-killer-was-radicalised-over-the-internet-donald-trump-2787880-2025-09-16",
-      "headline": "Charlie Kirk's alleged killer was radicalised over the internet: Donald TrumpPresident Trump said Charlie Kirk's accused killer was \"radicalised over the internet,\" blaming left-wing influence online while praising Kirk's TikTok strategy and confirming he'll speak at Sunday's funeral."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/no-national-unity-with-those-celebrating-conservative-charlie-kirks-death-vance-glbs-2787873-2025-09-16",
-      "headline": "No national unity with those celebrating conservative Charlie Kirk's death: VanceVice President JD Vance, hosting Charlie Kirk's radio show, mourned his slain friend while condemning those who celebrated the killing, declaring national unity impossible without rejecting political violence.\r\n"
+      "url": "https://www.indiatoday.in/sports/cricket/story/pakistan-threaten-to-pull-out-of-asia-cup-2025-referee-handshake-row-2787776-2025-09-15",
+      "headline": "Pak threaten to walk out of Asia Cup over India's handshake snubAsia Cup 2025: Pakistan have threatened to pull out of the tournament if match referee Andy Pycroft is not removed for the remainder of the competition. The move comes after India's decision to avoid handshakes with the Pakistani team during Sunday's match in Dubai."
     },
     {
       "sentiment": "positive",
@@ -276,11 +241,56 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/auto/cars/story/maruti-suzuki-victoris-launched-at-rs-1050-lakh-arenas-new-flagship-suv-2787693-2025-09-15",
+      "headline": "Maruti Suzuki Victoris launched at Rs 10.50 lakh, Arena's new flagship SUVMaruti Suzuki has launched the Victoris at Rs 10.50 lakh, a new flagship mid-size SUV in its Arena lineup, combining advanced features, multiple powertrains, and top-notch safety."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/us-news/story/charlie-kirks-alleged-killer-tyler-robinson-confessed-in-discord-group-chat-glbs-2787874-2025-09-16",
+      "headline": "It was me: Charlie Kirk's alleged killer reportedly confessed in Discord group chatTyler Robinson was arrested on Thursday after a 33-hour manhunt. Video from the event showed Kirk being struck in the neck while addressing students at an outdoor gathering of Turning Point USA."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/law-news/story/supreme-court-upholds-five-year-muslim-practising-requirement-waqf-act-stays-implementation-2787840-2025-09-15",
       "headline": "Possibility of conversion to claim Waqf protection cannot be ruled out: Top courtThe Court said that the law aims to prevent misuse, noting concerns that non-Muslims might convert to Islam solely to claim protection under the Waqf Act and use waqf as a means to evade creditors and legal obligations under the guise of dedication."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/us-news/story/us-military-strike-kills-three-venezuelan-narcoterrorists-drug-trafficking-glbs-2787868-2025-09-16",
+      "headline": "3 killed in 2nd US strike on vessel moving drugs from Venezuela, says TrumpThe US President said American forces carried out a second strike in Venezuela, killing three terrorists transporting drugs in international waters. Trump said the strike was necessary to counter threats to US national security. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/opinion/story/new-pixel-and-iphone-are-here-so-is-the-beginning-of-an-end-for-smartphones-2787476-2025-09-15",
+      "headline": "New Pixel and iPhone are here, so is the beginning of an end for smartphonesAfter close to 20 years of glorious run, smartphones as technology have become stagnant and are ripe to be replaced with something else. At least that is the impression the latest Google Pixels and Apple iPhones offer given how incremental they are with their updates. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/ed-files-7000-page-chargesheet-against-chaitanya-baghel-chhattisgarh-liquor-scam-2787797-2025-09-15",
+      "headline": "ED files chargesheet against Bhupesh Baghel's son in Chhattisgarh liquor\u00a0scam\u00a0caseThe Enforcement Directorate has filed a comprehensive chargesheet against Chaitanya Baghel, son of former Chhattisgarh Chief Minister Bhupesh Baghel, in the ongoing liquor scam probe."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/athletics/story/world-athletics-day-4-full-schedule-timings-sarvesh-kushare-high-jump-final-2787896-2025-09-16",
+      "headline": "World Athletics Champs Day 4 schedule: How to watch Sarvesh in high jump finalWorld Athletics Championships 2025: After a riveting Monday that saw Mondo Duplantis capture Tokyo's heart, several big names are set to take the stage on Tuesday. India's Sarvesh Kushare will aim to make his mark in the men's high jump final, which will notably be without two of the sport's biggest stars - Mutaz Barshim and Gianmarco Tamberi. Here's the full schedule of events for Day 4 of the world meet in the Japanese capital."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/bihar-woman-claims-cheated-of-rs-200-in-welfare-scheme-names-rjd-leader-tejashwi-yadav-in-fir-2787908-2025-09-16",
+      "headline": "Woman claims cheated of Rs 200 in welfare scheme, names Tejashwi Yadav in FIRThe FIR was filed on the complaint of Gudiya Devi, a resident of Ward No. 7 under Singhwara police station. She alleged that she was duped of Rs 200 while applying for benefits under the Mai-Bahan Yojana, which promised women Rs 2,500."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-pakistan-how-can-salman-agha-team-exit-asia-cup-2787867-2025-09-16",
+      "headline": "Asia Cup: Even without boycott, Pakistan can exit early. Here's howPakistan faces a crucial test in Asia Cup 2025 after a heavy defeat to India and a controversial handshake incident. The team's qualification hopes hinge on their next match against the UAE amid several controversies."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/athletics/story/world-athletics-day-4-full-schedule-timings-sarvesh-kushare-high-jump-final-2787896-2025-09-16",
+      "headline": "World Athletics Champs Day 4 schedule: How to watch Sarvesh in high jump finalWorld Athletics Championships 2025: After a riveting Monday that saw Mondo Duplantis capture Tokyo's heart, several big names are set to take the stage on Tuesday. India's Sarvesh Kushare will aim to make his mark in the men's high jump final, which will notably be without two of the sport's biggest stars - Mutaz Barshim and Gianmarco Tamberi. Here's the full schedule of events for Day 4 of the world meet in the Japanese capital."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/e-sports/story/k9-esports-slug-bgms-2025-victory-rs-60-lakh-prize-2787842-2025-09-16",
@@ -328,13 +338,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/video/asia-cup-india-vs-pakistan-handshake-controversy-sunil-gavaskar-reaction-2787802-2025-09-15",
-      "headline": "Indian cricketers perfectly within their rights: Sunil Gavaskar on handshake rowFormer India captain Sunil Gavaskar downplayed the controversy surrounding the handshake snub following India's Asia Cup win against Pakistan. The issue arose when Indian players refused to shake hands with their Pakistani counterparts, a gesture that quickly escalated into a major flashpoint."
+      "url": "https://www.indiatoday.in/sports/athletics/story/noah-lyles-bronze-world-athletics-championships-tokyo-2025-2787319-2025-09-15",
+      "headline": "Noah Lyles embraces bronze in Tokyo, admits reinvention still ongoingOlympic champion Noah Lyles clinched the bronze medal in the 100m at the 2025 World Athletics Championships in Tokyo. Despite injury setbacks and a tough season, he showed resilience but was outpaced by Jamaican sprinters Oblique Seville and Kishane Thompson."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/cricket/video/sourav-ganguly-on-india-vs-pakistan-terrorism-suryakumar-yadav-2787792-2025-09-15",
-      "headline": "India vs Pakistan no more a contest, huge difference between teams: GangulyFormer India cricketer Sourav Ganguly has said that the gap between India and Pakistan has widened in the past ten years, and the arch-rivals are no match for India. India beat Pakistan by seven wickets in the Asia Cup 2025."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/video/sports-politics-have-never-been-separate-sunil-gavaskar-on-handshake-controversy-2787841-2025-09-15",
+      "headline": "Sports, politics have never been separate: Sunil Gavaskar on handshake controversyFormer India captain Sunil Gavaskar, while talking to consulting editor of the India Today group, downplayed the handshake controversy after India's Asia Cup win over Pakistan."
     },
     {
       "sentiment": "positive",
@@ -350,16 +360,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-qualifies-for-asia-cup-2025-super-4-uae-defeats-oman-2787811-2025-09-15",
       "headline": "Asia Cup: India qualify for Super 4 after UAE thrash OmanAsia Cup 2025: India have qualified for the Super 4s race after the UAE produced a sensational all-round performance to open their account with a comprehensive win over Oman in match 7 of the Asia Cup 2025."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/video/asia-cup-india-vs-pakistan-handshake-controversy-sunil-gavaskar-reaction-2787802-2025-09-15",
-      "headline": "Indian cricketers perfectly within their rights: Sunil Gavaskar on handshake rowFormer India captain Sunil Gavaskar downplayed the controversy surrounding the handshake snub following India's Asia Cup win against Pakistan. The issue arose when Indian players refused to shake hands with their Pakistani counterparts, a gesture that quickly escalated into a major flashpoint."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/cricket/video/sourav-ganguly-on-india-vs-pakistan-terrorism-suryakumar-yadav-2787792-2025-09-15",
-      "headline": "India vs Pakistan no more a contest, huge difference between teams: GangulyFormer India cricketer Sourav Ganguly has said that the gap between India and Pakistan has widened in the past ten years, and the arch-rivals are no match for India. India beat Pakistan by seven wickets in the Asia Cup 2025."
     }
   ],
   "education": [
@@ -422,6 +422,21 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/education/story/the-power-of-knowledge-educations-influence-on-real-estate-market-trends-2516316-2024-03-18",
       "headline": "The power of knowledge: Education's influence on real estate market trendsIn a dynamic sector like real estate, investing in continuing education is not simply an option; it is a requirement."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/jnu-students-body-election-on-march-22-after-4-years-2513140-2024-03-11",
+      "headline": "JNU students' body election on March 22 after 4 yearsThe Jawaharlal Nehru University Students' Union (JNUSU) polls will take place on March 22, more than four years after the last elections were held in September 2019."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/up-12th-board-exam-math-biology-question-papers-leaked-on-whatsapp-uttar-pradesh-2508890-2024-03-01",
+      "headline": "UP 12th board exam math, biology papers leaked on WhatsApp, complaint filedThe mathematics and biology question papers for the Uttar Pradesh class 12 board exam were allegedly leaked on a WhatsApp group."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/education/story/uttar-pradesh-police-constable-recruitment-exam-cancelled-after-paper-leak-re-examination-in-6-months-2506566-2024-02-24",
+      "headline": "UP Police Constable recruitment exam cancelled days after paper leakThe Uttar Pradesh Police Constable recruitment exam held on February 17 and 18 was canceled due to a paper leak. The Chief Minister has announced a re-examination within the next six months."
     }
   ]
 }
