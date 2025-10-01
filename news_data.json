@@ -2,6 +2,11 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/market/story/stock-market-opening-bell-sensex-opens-nearly-100-points-higher-nifty-above-24500-sun-pharma-up-2-percent-2796011-2025-10-01",
+      "headline": "Sensex opens nearly 100 points higher, Nifty above 24,500; Sun Pharma up 2%The S&P BSE Sensex was up 58.51 points to\u00a080,326.13, while the NSE NIfty50 added 25.65 points to\u00a024,636.75 as of 9:24 am.\u00a0"
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/rbi-mpc-decision-today-repo-rate-cut-governor-sanjay-malhotra-us-tariff-trade-talk-headwinds-gst-reform-2795987-2025-10-01",
       "headline": "RBI MPC decision today: Will there be a surprise rate cut?India has seen supportive fiscal measures this year, including changes in income tax slabs and GST cuts, which are expected to boost consumption during the festive season. "
     },
@@ -194,11 +199,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/market/story/sensex-tumbles-733-points-nifty-below-24700-pharma-it-stocks-hit-hard-2793901-2025-09-26",
       "headline": "Sensex tumbles 733 points as pharma, IT stocks hitThe sell-off came after the United States announced a steep 100% tariff on imports of branded and patented pharmaceutical products, effective October 1."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/story/indian-air-passengers-rise-to-1317-lakh-in-august-2025-amid-rising-costs-icra-report-2793857-2025-09-26",
-      "headline": "Indian air passengers rise to 131.7 lakh in August 2025 amid rising costs: ReportIndia's aviation sector is bouncing back, but the journey isn't without turbulence. Rising fuel costs, operational challenges, and financial pressures are testing airlines, even as passenger traffic shows steady growth."
     }
   ],
   "entertainment": [
@@ -302,37 +302,12 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/us-news/story/us-shutdown-looms-as-trump-democrats-clash-over-health-care-and-spending-glbs-2795943-2025-10-01",
-      "headline": "US faces government shutdown after Senate vote fails, Trump threatens layoffsThe US faces a looming government shutdown as Democrats and Republicans clash over health care and spending. With a midnight deadline, both sides trade blame, leaving hundreds of thousands of federal workers at risk."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/donald-trump-lost-bigger-picture-by-targeting-india-over-russian-oil-ex-nsa-john-bolton-glbs-2795959-2025-10-01",
-      "headline": "Trump lost bigger picture by targeting India over Russian oil: Ex-NSA John BoltonFormer US NSA John Bolton blasted Donald Trump for sanctioning India over Russian oil, accusing him of losing strategic focus, sparing Russia and China, and undermining US-India ties amid escalating trade tensions."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/zubeen-garg-death-manager-north-east-india-festival-organiser-custody-arrest-investigation-assam-2795982-2025-10-01",
-      "headline": "Zubeen Garg's manager, fest organiser arrested in death case; on way to GuwahatiNEIF organiser Shyamkanu Mahanta was detained in Singapore and first brought to Delhi before being flown to Guwahati. Zubeen Garg's aide Siddharth Sharma was detained in Gurugram."
+      "headline": "US government shuts down after Senate vote fails; Trump threatens layoffsThe shutdown clock ran out at 12:01 a.m. Wednesday. Agencies are now preparing to suspend \"nonessential\" services, a move that could disrupt air travel, delay economic reports, and shutter everything from research labs to small-business loan offices."
     },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/cricket/story/mohsin-naqvi-refuses-to-hand-over-asia-cup-trophy-to-india-2795969-2025-10-01",
-      "headline": "Collect Asia Cup trophy in person: PCB chief's directive to Suryakyumar YadavPakistan Cricket Board chief and Asian Cricket Council head Mohsin Naqvi has refused to give the Asia Cup trophy to India. He has directed Indian captain Suryakuar Yadav to collect it in person from the ACC office."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/opinion/story/rss-at-100-a-century-of-sewa-sangathan-and-sacrifice-2795965-2025-10-01",
-      "headline": "RSS at 100: A century of sewa, sangathan and sacrificeThe RSS centenary is a testament to sacrifice, devotion, and resilience. Despite hardships and bans, swayamsevaks, families, and saints kept the mission alive. Rooted in public support, the Sangh's work now seeks deeper societal participation for nation-building."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/rbi-mpc-decision-today-repo-rate-cut-governor-sanjay-malhotra-us-tariff-trade-talk-headwinds-gst-reform-2795987-2025-10-01",
-      "headline": "RBI MPC decision today: Will there be a surprise rate cut?India has seen supportive fiscal measures this year, including changes in income tax slabs and GST cuts, which are expected to boost consumption during the festive season. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/aimim-chief-asaduddin-owaisi-dismisses-hypothetical-pm-role-during-pahalgam-terror-attack-focuses-on-current-duties-2795917-2025-09-30",
-      "headline": "What would you have done if you were PM during Pahalgam attack? Owaisi repliesAsaduddin Owaisi refuses to entertain a question about his actions as a hypothetical Prime Minister during the Pahalgam terror attack, saying he concentrates on reality and his current political responsibilities instead of speculation.\r\n"
+      "headline": "Collect Asia Cup trophy in person, PCB chief directs Suryakumar Yadav: ReportPakistan Cricket Board chief and Asian Cricket Council head Mohsin Naqvi has refused to give the Asia Cup trophy to India. Pakistani news channel Geo Super reported that has directed Indian captain Suryakuar Yadav to collect it in person from the ACC office."
     },
     {
       "sentiment": "positive",
@@ -341,8 +316,33 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/womens-world-cup-ind-vs-sl-deepti-sharma-amanjot-kaur-rescue-act-guwahati-2795906-2025-09-30",
-      "headline": "IND vs SL: Amanjot, Deepti's all-round rescue act gets India off to winning startAmanjot Kaur and Deepti Sharma delivered heroic all-round performances to help India win their Women's World Cup opener against Sri Lanka. "
+      "url": "https://www.indiatoday.in/world/story/67-magnitude-earthquake-rattles-philippines-leyte-island-2795846-2025-09-30",
+      "headline": "69 killed as massive 6.9-magnitude quake hits Philippines; over 150 injuredBogo, one of the hardest-hit areas, reported at least 14 deaths, though officials warned the toll could climb higher as rescue operations are underway. The intense tremors also brought down a historic church."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/opinion/story/rss-at-100-a-century-of-sewa-sangathan-and-sacrifice-2795965-2025-10-01",
+      "headline": "RSS at 100: A century of sewa, sangathan and sacrificeThe RSS centenary is a testament to sacrifice, devotion, and resilience. Despite hardships and bans, swayamsevaks, families, and saints kept the mission alive. Rooted in public support, the Sangh's work now seeks deeper societal participation for nation-building."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/zubeen-garg-death-manager-north-east-india-festival-organiser-custody-arrest-investigation-assam-2795982-2025-10-01",
+      "headline": "Zubeen Garg's manager, fest organiser arrested; sent to 14-day police custodyNEIF organiser Shyamkanu Mahanta was detained in Singapore and first brought to Delhi before being flown to Guwahati. Zubeen Garg's aide Siddharth Sharma was detained in Gurugram."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/aimim-chief-asaduddin-owaisi-dismisses-hypothetical-pm-role-during-pahalgam-terror-attack-focuses-on-current-duties-2795917-2025-09-30",
+      "headline": "What would you have done if you were PM during Pahalgam attack? Owaisi repliesAsaduddin Owaisi refuses to entertain a question about his actions as a hypothetical Prime Minister during the Pahalgam terror attack, saying he concentrates on reality and his current political responsibilities instead of speculation.\r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/rbi-mpc-decision-today-repo-rate-cut-governor-sanjay-malhotra-us-tariff-trade-talk-headwinds-gst-reform-2795987-2025-10-01",
+      "headline": "RBI MPC decision today: Will there be a surprise rate cut?India has seen supportive fiscal measures this year, including changes in income tax slabs and GST cuts, which are expected to boost consumption during the festive season. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/india-bhutan-first-rail-links-kokrajhar-gelephu-banarhat-samtse-strategic-chickens-neck-siliguri-corridor-trade-tourism-security-2795781-2025-10-01",
+      "headline": "Near Chicken's Neck, India launches two rail lines to connect BhutanIndia has announced its first-ever railway links to Bhutan, which will enhance trade, tourism, and strategic connectivity. The Kokrajhar-Gelephu and Banarhat-Samtse lines near the strategic Chicken's Neck will integrate Bhutan with India's rail network while strengthening Northeast India's security and supply chains."
     },
     {
       "sentiment": "positive",
@@ -351,8 +351,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/67-magnitude-earthquake-rattles-philippines-leyte-island-2795846-2025-09-30",
-      "headline": "Massive 6.9 magnitude quake jolts Philippines, deaths rise to 31, over 140 injuredPhilippine seismology agency Phivolcs had warned of aftershocks and damage from the offshore tremor. It also warned that strong currents and rapid changes of seawater level are expected."
+      "url": "https://www.indiatoday.in/cities/story/delhi-molester-scandal-swami-chaitanyananda-saraswati-chats-reveal-sex-demands-dubai-sheikh-trafficking-angle-2795968-2025-10-01",
+      "headline": "Delhi molester baba's chats reveal sex demands, 'Dubai Sheikh' trafficking angleSwami Chaitanyananda Saraswati, the former head of a management institute in Vasant Kunj, was arrested in Agra last week after more than 15 women students accused him of molestation, blackmail and intimidation."
     },
     {
       "sentiment": "positive",
@@ -361,18 +361,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/buffet-vs-la-carte-all-you-can-eat-bbq-nation-the-gt-road-profit-business-model-2795755-2025-09-30",
-      "headline": "Behind the buffet: How restaurants profit from all-you-can-eat deals'All you can eat.' That is how buffets work. But then how do famous buffets such as BBQ Nation, The GT Road, and Pirates of Grill, with prices ranging from Rs 900-1400, make a profit serving unlimited food?"
+      "url": "https://www.indiatoday.in/sports/cricket/story/womens-world-cup-ind-vs-sl-amanjot-kaur-all-guwahati-bcci-says-2796010-2025-10-01",
+      "headline": "Rockstar Amanjot Kaur wows Guwahati with bat and Rajinikanth-style punchlinesWomen's World Cup 2025: Amanjot Kaur, the daughter of a Chandigarh carpenter, stole the show in Guwahati with a fearless all-round performance. She rescued India in the World Cup opener while delivering Rajinikanth-style punchlines in the press, signalling that the next rockstar of Indian cricket is here. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/us-news/story/donald-trump-lost-bigger-picture-by-targeting-india-over-russian-oil-ex-nsa-john-bolton-glbs-2795959-2025-10-01",
+      "headline": "Trump lost bigger picture by targeting India over Russian oil: Ex-NSA John BoltonFormer US NSA John Bolton blasted Donald Trump for sanctioning India over Russian oil, accusing him of losing strategic focus, sparing Russia and China, and undermining US-India ties amid escalating trade tensions."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/us-news/story/donald-trump-calls-tariff-his-most-beautiful-word-says-its-making-america-rich-glbs-2795934-2025-10-01",
       "headline": "Trump calls 'tariff' his most beautiful word, says it's making America richUS President Donald Trump on Tuesday said that his favourite word in the English dictionary is \"tariff,\" calling it the \"most beautiful\" word and crediting it for making the United States \"rich.\" "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/story/delhi-molester-scandal-swami-chaitanyananda-saraswati-chats-reveal-sex-demands-dubai-sheikh-trafficking-angle-2795968-2025-10-01",
-      "headline": "Delhi molester baba's chats reveal sex demands, 'Dubai Sheikh' trafficking angleSwami Chaitanyananda Saraswati, the former head of a management institute in Vasant Kunj, was arrested in Agra last week after more than 15 women students accused him of molestation, blackmail and intimidation."
     },
     {
       "sentiment": "positive",
@@ -432,6 +432,16 @@
   ],
   "sports": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/womens-world-cup-ind-vs-sl-amanjot-kaur-all-guwahati-bcci-says-2796010-2025-10-01",
+      "headline": "Rockstar Amanjot Kaur wows Guwahati with bat and Rajinikanth-style punchlines Women's World Cup 2025: Amanjot Kaur, the daughter of a Chandigarh carpenter, stole the show in Guwahati with a fearless all-round performance. She rescued India in the World Cup opener while delivering Rajinikanth-style punchlines in the press, signalling that the next rockstar of Indian cricket is here. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-sri-lanka-women-analysis-world-cup-guwahati-2795990-2025-10-01",
+      "headline": "Reality check: India learn about early flaws before Pakistan clash, bigger tests India were able to overcome Sri Lanka with a few hiccups along the way, but the hosts will need to iron out major issues if they're to win home World Cup. With Pakistan and bigger tests looming, India need to focus on key areas and address issues."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-pakistan-noc-t20-leagues-pcb-2795983-2025-10-01",
       "headline": "After Asia Cup debacle, Pakistan Cricket Board suspends NOCs for T20 leagues After their debacle in the Asia Cup 2025, Pakistan Cricket Board has refused to provide No Objection Certificates to Pakistani players who wish to play in overseas T20 leagues. The move comes after Pakistan lost thrice to India in a space of 15 days."
@@ -478,13 +488,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/sophie-devine-retirement-odi-world-cup-2025-new-zealand-2795891-2025-09-30",
-      "headline": "Haven't retired yet: NZ skipper Sophie Devine's cheeky remark on retirement question New Zealand skipper Sophie Devine reminded a reporter that she is yet to retire from the game fully. Devine will retire from ODIs at the end of the ongoing tournament but will continue to play T20Is for the White Ferns. "
+      "url": "https://www.indiatoday.in/sports/cricket/video/world-cup-ready-tahlia-mcgrath-says-australias-squad-spoilt-for-choice-2795931-2025-10-01",
+      "headline": "World Cup ready: Tahlia McGrath says Australia's squad spoilt for choice Australia's Tahlia McGrath believes that the Australian women's squad is spoilt for choice as they eye a win against New Zealand to kickstart their World Cup title defence."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/cricket/story/afghanistan-refugee-women-cricketers-womens-world-cup-ind-vs-sl-guwahati-2795883-2025-09-30",
-      "headline": "Afghanistan's refugee women's cricket team attends World Cup opener in Guwahati Afghanistan's refugee women's cricket team attended the Women's World Cup 2025 opening fixture between India and Sri Lanka in Guwahati. A group of Afghanistan's women's cricketers are currently living in exile, having fled their country to escape the Taliban government."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/australia-tahlia-mcgrath-focus-challenge-not-records-womens-odi-world-cup-opener-2795913-2025-09-30",
+      "headline": "In World Cups, stats don't matter: Tahlia McGrath on Australia vs New Zealand opener Australia's Tahlia McGrath is focused on the upcoming ODI World Cup opener against New Zealand in Indore. She stresses the importance of preparation and adaptability over past records in this high-pressure tournament."
     },
     {
       "sentiment": "positive",
@@ -500,126 +510,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/kuldeep-yadav-coach-reveals-secret-behind-asia-cup-2025-pakistan-dominance-2795895-2025-09-30",
       "headline": "Kuldeep's blood boils the moment he sees Pakistan, reveals childhood coach Kuldeep Yadav shone with four wickets against Pakistan in Asia Cup 2025 final. His childhood coach credits fierce rivalry and discipline for his outstanding performance."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/sophie-devine-retirement-odi-world-cup-2025-new-zealand-2795891-2025-09-30",
-      "headline": "Haven't retired yet: NZ skipper Sophie Devine's cheeky remark on retirement question New Zealand skipper Sophie Devine reminded a reporter that she is yet to retire from the game fully. Devine will retire from ODIs at the end of the ongoing tournament but will continue to play T20Is for the White Ferns. "
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/cricket/story/afghanistan-refugee-women-cricketers-womens-world-cup-ind-vs-sl-guwahati-2795883-2025-09-30",
-      "headline": "Afghanistan's refugee women's cricket team attends World Cup opener in Guwahati Afghanistan's refugee women's cricket team attended the Women's World Cup 2025 opening fixture between India and Sri Lanka in Guwahati. A group of Afghanistan's women's cricketers are currently living in exile, having fled their country to escape the Taliban government."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-wi-test-series-preparation-gambhir-gill-bumrah-ahmedabad-2795872-2025-09-30",
-      "headline": "India begin prep for West Indies: Bumrah, Kuldeep, Axar restedIndia started their Test series preparations against West Indies shortly after their Asia Cup triumph. The team focused on managing player workload amid a tight schedule and pitch assessments."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/athletics/story/sumit-antil-gold-world-para-athletics-championships-2025-delhi-2795861-2025-09-30",
-      "headline": "World Para Athletics C'ships: Sumit Antil misses world record by a whisker, wins goldSumit Antil missed out on breaking his own world record by a whisker but won gold with a 71.37 m throw in Delhi at the World Para Athletics Championships on Tuesday, September 30. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/kuldeep-yadav-duleep-trophy-rhythm-asia-cup-2025-india-2795843-2025-09-30",
-      "headline": "How Duleep trophy helped Kuldeep find rhythm for Asia Cup? Spinners revealsKuleep Yadav revealed how bowling in the Duleep trophy helped him to get back into the groove for the Asia Cup, where he emerged as one of India's star players. Kuldeep ended the tournament as the leading wicket-taker in the tournament. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/asia-cup-trophy-fiasco-mohsin-naqvi-bcci-icc-complaint-2795826-2025-09-30",
-      "headline": "BCCI grills PCB chief Naqvi over Asia Cup trophy fiasco, to complain to ICCThe BCCI on Tuesday, September 30, grilled PCB chief and ACC chairman Mohsin Naqvi for his role in the Asia Cup trophy fiasco after the final between India and Pakistan. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/carlos-alcaraz-wins-japan-open-2025-beating-taylor-fritz-2795779-2025-09-30",
-      "headline": "Carlos Alcaraz continues winning spree, thumps Taylor Fritz to win Japan OpenWorld No. 1 Carlos Alcaraz defeated Taylor Fritz to win the Japan Open final. The victory marked his eighth title of the year despite a foot injury scare."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/who-is-tilak-varma-profile-india-vs-pakistan-asia-cup-final-2795723-2025-09-30",
-      "headline": "Wired for greatness: How Tilak Varma, an electrician's son, became Asia Cup hero22-year-old Tilak Varma turned out to be the hero for India in the Asia Cup Final. From modest beginnings to cricketing greatness, here is the story of a youngster who was never supposed to play cricket in the first place."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/deepesh-devendran-five-wicket-haul-india-youth-test-australia-2795743-2025-09-30",
-      "headline": "Five-star Devendran: India U-19's young gun rattles Australia in Youth TestDeepesh Devendran's brilliant bowling helped India gain the upper hand in the Youth Test against Australia. His five-wicket haul set the tone for a strong Indian performance with the ball."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/asia-cup-trophy-fiasco-mohsin-naqvi-bcci-icc-complaint-2795826-2025-09-30",
-      "headline": "BCCI grills PCB chief Naqvi over Asia Cup trophy fiasco, to complain to ICCThe BCCI on Tuesday, September 30, grilled PCB chief and ACC chairman Mohsin Naqvi for his role in the Asia Cup trophy fiasco after the final between India and Pakistan. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/carlos-alcaraz-wins-japan-open-2025-beating-taylor-fritz-2795779-2025-09-30",
-      "headline": "Carlos Alcaraz continues winning spree, thumps Taylor Fritz to win Japan OpenWorld No. 1 Carlos Alcaraz defeated Taylor Fritz to win the Japan Open final. The victory marked his eighth title of the year despite a foot injury scare."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/who-is-tilak-varma-profile-india-vs-pakistan-asia-cup-final-2795723-2025-09-30",
-      "headline": "Wired for greatness: How Tilak Varma, an electrician's son, became Asia Cup hero22-year-old Tilak Varma turned out to be the hero for India in the Asia Cup Final. From modest beginnings to cricketing greatness, here is the story of a youngster who was never supposed to play cricket in the first place."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/deepesh-devendran-five-wicket-haul-india-youth-test-australia-2795743-2025-09-30",
-      "headline": "Five-star Devendran: India U-19's young gun rattles Australia in Youth TestDeepesh Devendran's brilliant bowling helped India gain the upper hand in the Youth Test against Australia. His five-wicket haul set the tone for a strong Indian performance with the ball."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/dinesh-karthik-joins-sharjah-warriorz-ilt20-batting-finisher-season-4-2795747-2025-09-30",
-      "headline": "Dinesh Karthik set for ILT20 debut, joins Sharjah Warriorz for fourth seasonFormer India wicketkeeper Dinesh Karthik will make his ILT20 debut with Sharjah Warriorz. Karthik replaces Sri Lanka's Kusal Mendis in the JP Duminy-coached Sharjah side."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/rishabh-pant-cheeky-retirement-message-chris-woakes-england-career-2795737-2025-09-30",
-      "headline": "Pant's cheeky retirement wish for Woakes: Definitely left a mark on meRishabh Pant sent a cheeky message to Chris Woakes after the England pacer announced his retirement from all formats of the game on September 29. Woakes played a total of 217 international games for England. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/video/india-vs-west-indies-gautam-gambhir-kuldeep-yadav-ahmedabad-2795706-2025-09-30",
-      "headline": "No rest for Gambhir: Coach arrives early in Ahmedabad for India vs West Indies TestIndia vs West Indies: No rest for coach Gautam Gambhir. Two days after the Asia Cup final, the head coach was in Ahmedabad. Spinner Kuldeep Yadav also travelled with the coach. The first Test of the two-match series will get underway on Thursday, October 2 at the Narendra Modi Stadium."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/video/tilak-varma-echoes-suryakumar-india-vs-pakistan-rivalry-no-longer-worth-the-hype-2795687-2025-09-30",
-      "headline": "Tilak Varma echoes Suryakumar: India vs Pakistan rivalry no longer worth the hypeAsia Cup 2025: Tilak Varma addressed the press upon his arrival in Hyderabad on Tuesday. From playing down the buzzword Operation Tilak to echoing Suryakumar Yadav's hot take on the India vs Pakistan rivalry, the young batter fielded a variety of questions. Tilak hit a match-winning 69 in the final against Pakistan in Dubai on Sunday. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/tilak-varma-india-vs-pakistan-asia-cup-final-operation-tilak-press-conference-2795673-2025-09-30",
-      "headline": "Tilak Varma refuses to call India's Asia Cup win over Pakistan Operation TilakSpeaking to the press in Hyderabad on Tuesday, Tilak Varma said he was thrilled to have made the country proud with his match-winning knock against Pakistan in the Asia Cup final. The 22-year-old struck an unbeaten 69 to guide India to a successful chase of 147 in Dubai on Sunday."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/icc-women-world-cup-2025-opening-ceremony-india-vs-sri-lanka-live-score-2795664-2025-09-30",
-      "headline": "IND vs SL Highlights: Deepti Sharma, Sneh Rana star in India's 59-run winWomen's Cricket World Cup Highlights: India secured a comprehensive 59-run win over Sri Lanka to kickstart their World Cup campaign on a positive with Deepti Sharma and Sneh Rana playing key roles in the tournament-opener."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/womens-world-cup-india-vs-sri-lanka-livestream-pitch-report-2795570-2025-09-30",
-      "headline": "Women's World Cup: IND vs SL livestreaming details, pitch and weather reportThe 2025 ICC Women's ODI World Cup kicks off on September 30, with India facing Sri Lanka in Guwahati. Here's everything you need to know about the fixture."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/royal-challengers-bengaluru-sale-ipl-title-2024-diageo-valuation-2795612-2025-09-30",
-      "headline": "RCB for sale? Lalit Modi fuels speculation, predicts record valuationLalit Modi's social media post, along with ongoing reports, suggests that Royal Challengers Bengaluru, fresh from their maiden IPL title, may soon change ownership, as Diageo explores a sale that could establish new valuation benchmarks for the league."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/pakistan-saim-ayub-asia-cup-test-squad-vs-south-africa-2795613-2025-09-30",
-      "headline": "Pakistan punish Saim Ayub, all rounder loses place in Test squadPakistan have pusnished Saim Ayub for his horrid run in the Asia Cup. The young all-rounder has been left out of the team's Test squad vs South Africa."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/nepal-vs-west-indies-ian-bishop-captian-rohit-paudel-presentation-ceremony-2795561-2025-09-30",
-      "headline": "Watch: West Indies great inspires Nepal captain with touching words after T20I upsetFormer West Indies pacer Ian Bishop came up with a heartwarming gesture after Nepal's historic T20I win, pausing during the presentation to praise captain Rohit Paudel.  Nepal outclassed West Indies by 90 runs on Monday in Sharjah to win a T20I series against the former world champions. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/mohun-bagan-afc-champions-league-withdraw-2795547-2025-09-30",
-      "headline": "Mohun Bagan withdraw from ACL 2 as foreign players refuse to travel to IranIndian football giant Mohun Bagan has withdrawn from the AFC Champions League 2 after six foreign players refused to travel to Iran due to safety concerns. The club has approached the Court of Arbitration for Sport seeking a fair resolution amid potential sanctions."
     }
   ],
   "education": [
