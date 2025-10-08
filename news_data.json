@@ -104,6 +104,11 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/music/story/travis-kelce-celebrates-taylor-swift-the-life-of-a-showgirl-music-album-2800070-2025-10-08",
+      "headline": "Travis Kelce celebrates Taylor Swift's The Life of a Showgirl: I'm a lucky man NFL star Travis Kelce expressed pride as pop star Taylor Swift's new album 'The Life of a Showgirl' took the Internet by storm. He denied being the main creative muse behind the album. "
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/mohit-suri-karan-johar-thanked-south-directors-praised-saiyaara-ahaan-panday-aneet-padda-2800036-2025-10-08",
       "headline": "Mohit Suri says Karan Johar thanked, South directors called to praise Saiyaara Director Mohit Suri opened up about how the film industry reacted to Ahaan Panday and Aneet Padda starrer 'Saiyaara' at FICCI Frames on Wednesday. Yash Raj Films CEO Akshaye Wadhwani, who was also present, shared why the lead pair maintained a low profile before the film's release."
     },
@@ -191,19 +196,9 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/music/story/rajvir-jawanda-dies-at-33-bike-accident-ammy-virk-sonam-bajwa-punjabi-celebs-pay-tribute-2799875-2025-10-08",
       "headline": "Rajvir Jawanda dies: Ammy Virk, Sonam Bajwa, Punjabi celebs mourn singer's death Punjabi singer Rajvir Jawanda has died at the age of 11 days after a serious motorcycle accident in Himachal Pradesh. He had been hospitalised in critical condition since late September. Friends, celebrities, and fans paid tribute to the late artist as condolences poured in."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/maintenance-required-review-madelaine-petsch-jacob-scipio-vintage-cars-modern-mess-no-spark-2799848-2025-10-08",
-      "headline": "Maintenance Required review: Vintage cars, modern mess with too much confusionRelease Date:Wed Oct 08, 2025 Actors Madelaine Petsch and Jacob Scipio's film 'Maintenance Required' is now streaming on Prime Video. However, is the film worth your time? Read our movie review here. "
     }
   ],
   "general news": [
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/ensure-proper-testing-of-cough-syrup-batches-drug-regulator-in-fresh-letter-to-states-uts-after-20-child-dea-2799981-2025-10-08",
-      "headline": "Ensure testing of cough syrups: Drug regulator to states, UTs after 20 deathsThe drug regulator emphasised that manufacturers must comply with the Drugs Rules, conduct thorough batch testing of both raw materials and finished products, and source ingredients only from approved vendors."
-    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/your-actions-strained-relation-with-india-take-immediate-steps-to-repair-ties-19-us-lawmakers-write-to-trump-2800029-2025-10-08",
@@ -211,13 +206,18 @@
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/exclusive-tmc-workers-said-they-were-didis-men-wanted-to-kill-me-bjps-khagen-murmu-recalls-bengal-attack-2800022-2025-10-08",
-      "headline": "TMC workers said they were Didi's men, wanted to kill me: BJP MP on Bengal attackSpeaking to India Today TV from his hospital bed despite a fracture below his left eye, Murmu said the attackers openly told him BJP leaders would not be allowed in the area and that they intended to kill him."
+      "url": "https://www.indiatoday.in/india/story/ensure-proper-testing-of-cough-syrup-batches-drug-regulator-in-fresh-letter-to-states-uts-after-20-child-dea-2799981-2025-10-08",
+      "headline": "Ensure testing of cough syrups: Drug regulator to states, UTs after 20 deathsThe drug regulator emphasised that manufacturers must comply with the Drugs Rules, conduct thorough batch testing of both raw materials and finished products, and source ingredients only from approved vendors."
     },
     {
-      "sentiment": "positive",
+      "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/6-injured-after-explosion-in-scooter-in-kanpur-forensics-team-at-the-spot-2800025-2025-10-08",
-      "headline": "8 injured as powerful scooter explosion rocks Kanpur, forensics\u00a0team\u00a0at\u00a0spotA blast from two parked scooters on Kanpur's Mestern Road injured six people, including a woman, on Wednesday evening. Police and forensic teams are probing whether the explosion was accidental or deliberate."
+      "headline": "Kanpur scooter blast caused by illegal firecrackers, says top\u00a0cop;\u00a08\u00a0injuredA low-intensity explosion in two parked scooters in Kanpur's Mishri Bazaar injured eight people, including a seriously hurt female waste collector. Police investigations reveal the blast was caused by illegally stored firecrackers, possibly under the protection of some officers. "
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/exclusive-tmc-workers-said-they-were-didis-men-wanted-to-kill-me-bjps-khagen-murmu-recalls-bengal-attack-2800022-2025-10-08",
+      "headline": "Workers were Didi's men, came to kill me: BJP MP on Bengal flood-trip attackSpeaking to India Today TV from his hospital bed despite a fracture below his left eye, Murmu said the attackers openly told him BJP leaders would not be allowed in the area and that they intended to kill him."
     },
     {
       "sentiment": "positive",
@@ -255,14 +255,39 @@
       "headline": "Amit Shah goes desi with Zoho mail, reveals in Trump-styleAmit Shah is the latest minister to embrace Zoho-based platforms amid the government's 'swadeshi' push on the backdrop of US tariffs."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/tamil-nadu/story/no-criminal-charges-licence-not-cancelled-government-sources-fire-back-at-tamil-nadu-over-cough-syrup-row-2799883-2025-10-08",
-      "headline": "No blame game, Tamil Nadu has failed to act: Government sources on cough syrup rowGovernment sources said the Coldrif syrup deaths issue is \"not a blame game\" but questioned Tamil Nadu Food and Drug Administration (TN-FDA) inaction. Tamil Nadu halted production, issued showcause notices, and initiated steps for criminal action against Sresan Pharmaceuticals."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/gandhinagar-vande-bharat-special-gurgaon-reroute-longer-route-high-ohe-pantograph-double-stack-freight-indian-railways-2799634-2025-10-08",
+      "headline": "How a blunder created a Vande Bharat recordSemi-high-speed Vande Bharat trains have a tall acclaim, but for once they fell short, not in stature but in height. The Sabarmati\u2013Gurgaon Vande Bharat Special had to be sent on a longer route recently after the Indian Railways found that the train's pantograph couldn't reach the overhead wires. A record was created because of a blunder."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/zoho-sridhar-vembu-government-support-arattai-criticism-india-self-reliance-trump-tariffs-2799657-2025-10-08",
       "headline": "Zoho has government backing. So what's the problem?Zoho is back in the spotlight after several ministers endorsed the desi tech company amid a 'swadeshi' push fuelled by rising US tariff tensions. However, fault-finding against Zoho has already begun. India need not look further than China and see how it built its own internet ecosystem."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/uk-news/story/tory-mp-shadow-justice-secretary-brands-multicultural-soho-road-dominated-by-indian-pakistani-origin-slum-birmingham-uk-2799646-2025-10-08",
+      "headline": "Like a slum in UK: MP brands area with Indian, Pakistani residents, sparks rowBritish MP and shadow minister Robert Jenrick labelled Birmingham's multicultural Soho Road, home to Indian and Pakistani communities, a \"slum\" and \"one of the worst integrated places\" in the UK. His remarks triggered a backlash with locals, business leaders, and politicians fiercely defending the area."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/tata-history-from-opium-wars-to-boardroom-battles-the-making-of-an-indian-empire-2799916-2025-10-08",
+      "headline": "Tata history: From opium wars to boardroom battles, the making of an Indian empireThe history of Tata Group, caught in a boardroom war, is a remarkable tale of ambition, daring ventures, and resilience. This three-part series will explore how a humble family business evolved into India's largest industrial conglomerate, navigating fortunes made from the opium trade and wartime cotton booms, and the enduring challenges that defined its legacy.\r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/health/story/eli-lilly-mounjaro-second-highest-selling-drug-india-diabetes-obesity-treatment-whats-driving-its-rise-2799644-2025-10-08",
+      "headline": "Mounjaro becomes India's second-highest selling drug: What's driving its rise?Mounjaro clocked in Rs 80 crore in sales in September, becoming India's second-highest selling drug within six months of launch. Its rise highlights growing demand amid the country's obesity and diabetes challenges."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/pat-cummins-travis-head-reject-10-million-ipl-team-deal-to-quit-australian-cricket-2799852-2025-10-08",
+      "headline": "Cummins, Head reject Rs 58 crore deal from IPL team to quit Australian cricketPat Cummins and Travis Head have turned down lucrative offers worth AUD 10 million (Rs 58.46 crore) per year from an IPL team group to quit international cricket and play in T20 leagues across the globe. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india-today-insight/story/how-the-bihar-polls-feel-different-this-time-2799860-2025-10-08",
+      "headline": "How the Bihar polls feel different this timeWith its timeline reduced to two phases, from six in 2010, the assembly election promises sharper drama and a likely triangular contest after years.\r\n\r\n"
     },
     {
       "sentiment": "negative",
@@ -280,31 +305,6 @@
       "headline": "Deposit money first: Court to Shilpa Shetty for foreign work tripThe Bombay High Court stipulated that if Shilpa Shetty and her husband Raj Kundra intend to travel overseas for work purposes, she must deposit Rs 60 crore as a precondition."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/pat-cummins-travis-head-reject-10-million-ipl-team-deal-to-quit-australian-cricket-2799852-2025-10-08",
-      "headline": "Cummins, Head reject 10 million deal from IPL team to quit Australian cricketPat Cummins and Travis Head have turned down lucrative offers worth $10 million per year from an IPL team group to quit international cricket and play in T20 leagues across the globe. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india-today-insight/story/how-the-bihar-polls-feel-different-this-time-2799860-2025-10-08",
-      "headline": "How the Bihar polls feel different this timeWith its timeline reduced to two phases, from six in 2010, the assembly election promises sharper drama and a likely triangular contest after years.\r\n\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/health/story/eli-lilly-mounjaro-second-highest-selling-drug-india-diabetes-obesity-treatment-whats-driving-its-rise-2799644-2025-10-08",
-      "headline": "Mounjaro becomes India's second-highest selling drug: What's driving its rise?Mounjaro clocked in Rs 80 crore in sales in September, becoming India's second-highest selling drug within six months of launch. Its rise highlights growing demand amid the country's obesity and diabetes challenges."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/mamata-banerjee-amit-shah-acting-pm-warning-narendra-modi-bengal-politics-2799913-2025-10-08",
-      "headline": "Mamata Banerjee calls Amit Shah 'acting PM', warns PM Modi to be carefulWest Bengal Chief Minister Mamata Banerjee slammed Home Minister Amit Shah, accusing him of acting like an \"acting Prime Minister\" and warning PM Modi to be cautious of his intentions. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/arbaaz-khan-and-sshura-khan-introduce-newborn-daughter-sipaara-with-quranic-name-2799938-2025-10-08",
-      "headline": "Sipaara Khan: Arbaaz-Sshura reveal daughter's name. Here's what it meansArbaaz Khan and wife Sshura Khan have named their baby girl Sipaara. Married in December 2023, the couple is embracing parenthood and revealing the meaningful religious significance behind their daughter's name."
-    },
-    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/india-today-insight/story/why-the-raebareli-dalit-lynching-is-a-political-flashpoint-2799801-2025-10-08",
       "headline": "Why the Raebareli Dalit lynching is a political flashpointAlleged references to Rahul Gandhi and Yogi Adityanath, caught on camera during the killing of a Dalit by a mob that falsely accused him of being a thief, make the incident potentially explosive.\r\n"
@@ -316,11 +316,66 @@
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/2-soldiers-missing-snowstorm-kishtwar-range-south-kashmir-mountains-search-ops-2800024-2025-10-08",
-      "headline": "2 soldiers missing amid snowstorm in South Kashmir mountains, search ops underwayThe soldiers, who are part of an elite para unit, lost contact with their team during an anti-terror operation. The Army said intense search and rescue operations have been launched, but efforts are being hampered by adverse weather conditions."
+      "url": "https://www.indiatoday.in/trending-news/story/blinkit-worker-horrific-experience-in-dark-store-earns-him-just-rs-89-and-trauma-panic-attack-2799957-2025-10-08",
+      "headline": "Blinkit worker's horrific experience in dark store earns him just Rs 89 and traumaA Blinkit worker said he had signed up for a two-hour stint inside a Blinkit dark store after seeing an Instagram advertisement that promised Rs 1,000 - Rs 2,000 a week for four-hour shifts. "
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-wi-delhi-test-sai-sudharsan-confident-modest-returns-2800117-2025-10-08",
+      "headline": "IND vs WI: India confident Sudharsan can crack the Test code despite modest returns India remains confident in Sai Sudharsan's Test potential despite early inconsistency. The team believes his domestic form and backing will help him succeed amid tough competition."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-to-retain-same-xi-second-test-west-indies-nitish-kumar-reddy-2800108-2025-10-08",
+      "headline": "India to remain unchanged for Delhi Test, Nitish to get another go: Assistant coach India are set to field the same playing XI for the second Test against West Indies at Arun Jaitley Stadium. The team management aims to develop Nitish Kumar Reddy as a seam-bowling all-rounder by providing him more game time, revealed assistant coach Ryan Ten Doeschate."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/south-africa-world-cup-comeback-against-india-early-wickets-spin-attack-2800091-2025-10-08",
+      "headline": "South Africa over England collapse, confident ahead of India clash: Nadine de Klerk Nadine de Klerk believes that South Africa have moved past their poor showing in the tournament-opener and fancy their chances of taking on the hosts, India on Thursday."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/badminton/story/tharun-mannepalli-stuns-popov-arctic-open-badminton-comeback-win-2800085-2025-10-08",
+      "headline": "Tharun Mannepalli upsets Toma Junior Popov as Lakshya Sen suffers another early exit Unseeded Tharun Mannepalli produced a stunning comeback to defeat world No 14 Toma Popov at the Arctic Open. His victory keeps India's men's singles hopes alive amid other early exits by Indian shuttlers."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/video/going-to-back-ourselves-to-keep-smriti-mandhana-under-pressure-nadine-de-klerk-2800080-2025-10-08",
+      "headline": "Going to back ourselves to keep Smriti Mandhana under pressure: Nadine de Klerk Women's World Cup 2025: South Africa's Nadine de Klerk remains confident in the side's chances against the tournament-hosts India and will be backing themselves to come up with plans to take down Smriti Mandhana in their highly anticipated encounter. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/video/ind-vs-wi-team-india-shubman-gill-gautam-gambhirs-dinner-party-ahead-of-2nd-test-2800068-2025-10-08",
+      "headline": "Gill makes fashion statement as Team India arrive at Gambhir's dinner party The Indian men's cricket team arrived at head coach Gautam Gambhir's residence in Delhi for dinner ahead of the 2nd Test against the West Indies scheduled to be played at the Arun Jaitley Stadium from October 10\u201314."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/beth-mooney-alana-king-australia-win-pakistan-womens-world-cup-colombo-2800026-2025-10-08",
+      "headline": "Beth Mooney's rescue act powers Australia to dominant win against Pakistan Women's World Cup, AUS vs PAK: Australia hammered Pakistan by 107 runs on Wednesday, October 8 to reclaim the top spot in the table. Beth Mooney starred for them with a hundred while Kim Garth picked up three wickets. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/joe-root-snaps-back-at-australian-critics-ashes-2025-26-century-2799950-2025-10-08",
+      "headline": "Joe Root snaps back at Australian critics: This Ashes is not about me Joe Root, England's senior batter, has responded to the ongoing scrutiny about his absence of a Test hundred on Australian soil, saying that the upcoming Ashes is about the squad's performance, not his personal milestones."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/video/womens-world-cup-2025-ind-vs-sa-jemimah-rodrigues-full-pre-match-press-conference-2800001-2025-10-08",
+      "headline": "Scary for opponents that we're winning without playing a perfect match: Jemimah India batter Jemimah Rodrigues has said that it must be scary for opponents that they're winning despite not playing a perfect match in the tournament so far. The Women in Blue will next take on South Africa in their third fixture of the ICC Women's Cricket World Cup 2025 after beating Sri Lanka and Pakistan."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/jemimah-rodrigues-addresses-form-concerns-ind-vs-sa-womens-world-cup-2025-2799990-2025-10-08",
+      "headline": "Jemimah Rodrigues addresses form concerns: Not thinking about individual scores Jemimah Rodrigues remains optimistic despite a slow start in the Women's World Cup 2025. The right-handed batter has registered scores of 0 and 32 in the two innings so far in the tournament."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/cristiano-ronaldo-first-footballer-billionaire-al-nassr-contract-2799984-2025-10-08",
+      "headline": "Cristiano Ronaldo hits historic feat, becomes first billionaire footballer: Report Cristiano Ronaldo achieves billionaire status, setting new financial records with his latest Al-Nassr contract and joining a select group of athlete billionaires."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/beth-mooney-alana-king-australia-win-pakistan-womens-world-cup-colombo-2800026-2025-10-08",
@@ -349,62 +404,52 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/alana-king-half-century-boosts-australia-womens-world-cup-innings-against-pakistan-2799954-2025-10-08",
-      "headline": "King makes Pakistan pay as Australia flaunt batting depth Women's World Cup: Alana King's unbeaten 51 and a record 106-run stand with Beth Mooney rescued Australia from collapse to 221 for nine, showcasing their trademark batting depth against Pakistan in Colombo."
+      "headline": "King makes Pakistan pay as Australia flaunt batting depthWomen's World Cup: Alana King's unbeaten 51 and a record 106-run stand with Beth Mooney rescued Australia from collapse to 221 for nine, showcasing their trademark batting depth against Pakistan in Colombo."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-west-indies-2nd-test-mohammed-siraj-jasprit-bumrah-team-selection-2799934-2025-10-08",
-      "headline": "Will India rest Mohammed Siraj in Delhi Test vs West Indies? India vs West Indies: Former India wicketkeeper-batter Parthiv Patel has said India might rest Mohammed Siraj instead of Jasprit Bumrah for the second and final Test of the series, starting October 10 in New Delhi. Siraj has been picked in the ODI squad for a three-match series in Australia, starting October 19. "
+      "headline": "Will India rest Mohammed Siraj in Delhi Test vs West Indies?India vs West Indies: Former India wicketkeeper-batter Parthiv Patel has said India might rest Mohammed Siraj instead of Jasprit Bumrah for the second and final Test of the series, starting October 10 in New Delhi. Siraj has been picked in the ODI squad for a three-match series in Australia, starting October 19. "
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/womens-world-cup-india-vs-south-africa-jemimah-rodrigues-harmanpreet-kaur-training-2799894-2025-10-08",
-      "headline": "Determined Jemimah trains hard in rain-hit nets before South Africa clash Jemimah Rodrigues sweated it out hard for nearly an hour at the rain-delayed nets, while skipper Harmanpreet Kaur first went through catching drills before having a light 20-minute batting session on the eve of India's Women's World Cup clash against South Africa.\r\n"
+      "headline": "Determined Jemimah trains hard in rain-hit nets before South Africa clashJemimah Rodrigues sweated it out hard for nearly an hour at the rain-delayed nets, while skipper Harmanpreet Kaur first went through catching drills before having a light 20-minute batting session on the eve of India's Women's World Cup clash against South Africa.\r\n"
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ravindra-jadeja-worlds-best-all-rounder-ben-stokes-parthiv-patel-2799898-2025-10-08",
-      "headline": "Jadeja is World No 1 all-rounder, far better than Stokes and Cummins: Parthiv Former India cricketer Parthiv Patel has declared Ravindra Jadeja as the best all-rounder in the world, ahead of Ben Stokes, Pat Cummins and Shakib al Hasan. Jadeja scored a magnificent 104* and picked up 4/54 in the first Test against West Indies to set up a comprehensive win by an innings and 140 runs."
+      "headline": "Jadeja is World No 1 all-rounder, far better than Stokes and Cummins: ParthivFormer India cricketer Parthiv Patel has declared Ravindra Jadeja as the best all-rounder in the world, ahead of Ben Stokes, Pat Cummins and Shakib al Hasan. Jadeja scored a magnificent 104* and picked up 4/54 in the first Test against West Indies to set up a comprehensive win by an innings and 140 runs."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/indian-football-afc-asian-cup-qualifier-india-singapore-key-players-return-2799887-2025-10-08",
-      "headline": "Indian football aims for crucial win against Singapore in Asian Cup qualifier The Indian football team faces Singapore in a decisive AFC Asian Cup qualifier. The match outcome could significantly impact India's hopes of a third consecutive Asian Cup appearance."
+      "headline": "Indian football aims for crucial win against Singapore in Asian Cup qualifierThe Indian football team faces Singapore in a decisive AFC Asian Cup qualifier. The match outcome could significantly impact India's hopes of a third consecutive Asian Cup appearance."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/aus-vs-ind-india-odi-squad-travel-batches-october-15-australia-series-2799878-2025-10-08",
-      "headline": "Virat Kohli, Rohit Sharma to reach New Delhi before flying to Australia: Report The Indian ODI squad will depart for Australia in two batches starting October 15. Shubman Gill takes over as captain, signalling a new leadership phase amid Rohit Sharma and Virat Kohli's continued presence."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-west-indies-2nd-test-mohammed-siraj-jasprit-bumrah-team-selection-2799934-2025-10-08",
-      "headline": "Will India rest Mohammed Siraj in Delhi Test vs West Indies? India vs West Indies: Former India wicketkeeper-batter Parthiv Patel has said India might rest Mohammed Siraj instead of Jasprit Bumrah for the second and final Test of the series, starting October 10 in New Delhi. Siraj has been picked in the ODI squad for a three-match series in Australia, starting October 19. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/womens-world-cup-india-vs-south-africa-jemimah-rodrigues-harmanpreet-kaur-training-2799894-2025-10-08",
-      "headline": "Determined Jemimah trains hard in rain-hit nets before South Africa clash Jemimah Rodrigues sweated it out hard for nearly an hour at the rain-delayed nets, while skipper Harmanpreet Kaur first went through catching drills before having a light 20-minute batting session on the eve of India's Women's World Cup clash against South Africa.\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ravindra-jadeja-worlds-best-all-rounder-ben-stokes-parthiv-patel-2799898-2025-10-08",
-      "headline": "Jadeja is World No 1 all-rounder, far better than Stokes and Cummins: Parthiv Former India cricketer Parthiv Patel has declared Ravindra Jadeja as the best all-rounder in the world, ahead of Ben Stokes, Pat Cummins and Shakib al Hasan. Jadeja scored a magnificent 104* and picked up 4/54 in the first Test against West Indies to set up a comprehensive win by an innings and 140 runs."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/indian-football-afc-asian-cup-qualifier-india-singapore-key-players-return-2799887-2025-10-08",
-      "headline": "Indian football aims for crucial win against Singapore in Asian Cup qualifier The Indian football team faces Singapore in a decisive AFC Asian Cup qualifier. The match outcome could significantly impact India's hopes of a third consecutive Asian Cup appearance."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/aus-vs-ind-india-odi-squad-travel-batches-october-15-australia-series-2799878-2025-10-08",
-      "headline": "Virat Kohli, Rohit Sharma to reach New Delhi before flying to Australia: Report The Indian ODI squad will depart for Australia in two batches starting October 15. Shubman Gill takes over as captain, signalling a new leadership phase amid Rohit Sharma and Virat Kohli's continued presence."
+      "headline": "Virat Kohli, Rohit Sharma to reach New Delhi before flying to Australia: ReportThe Indian ODI squad will depart for Australia in two batches starting October 15. Shubman Gill takes over as captain, signalling a new leadership phase amid Rohit Sharma and Virat Kohli's continued presence."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/pat-cummins-travis-head-reject-10-million-ipl-team-deal-to-quit-australian-cricket-2799852-2025-10-08",
-      "headline": "Cummins, Head reject 10 million deal from IPL team to quit Australian cricketPat Cummins and Travis Head have turned down lucrative offers worth $10 million per year from an IPL team group to quit international cricket and play in T20 leagues across the globe. "
+      "headline": "Cummins, Head reject Rs 58 crore deal from IPL team to quit Australian cricketPat Cummins and Travis Head have turned down lucrative offers worth AUD 10 million (Rs 58.46 crore) per year from an IPL team group to quit international cricket and play in T20 leagues across the globe. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/indian-football-afc-asian-cup-qualifier-india-singapore-key-players-return-2799887-2025-10-08",
+      "headline": "Indian football aims for crucial win against Singapore in Asian Cup qualifierThe Indian football team faces Singapore in a decisive AFC Asian Cup qualifier. The match outcome could significantly impact India's hopes of a third consecutive Asian Cup appearance."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/aus-vs-ind-india-odi-squad-travel-batches-october-15-australia-series-2799878-2025-10-08",
+      "headline": "Virat Kohli, Rohit Sharma to reach New Delhi before flying to Australia: ReportThe Indian ODI squad will depart for Australia in two batches starting October 15. Shubman Gill takes over as captain, signalling a new leadership phase amid Rohit Sharma and Virat Kohli's continued presence."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/pat-cummins-travis-head-reject-10-million-ipl-team-deal-to-quit-australian-cricket-2799852-2025-10-08",
+      "headline": "Cummins, Head reject Rs 58 crore deal from IPL team to quit Australian cricketPat Cummins and Travis Head have turned down lucrative offers worth AUD 10 million (Rs 58.46 crore) per year from an IPL team group to quit international cricket and play in T20 leagues across the globe. "
     },
     {
       "sentiment": "positive",
@@ -438,26 +483,6 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-wi-darren-sammy-west-indies-test-cancer-decline-2799815-2025-10-08",
-      "headline": "It's a cancer in the system: Darren Sammy on causes of West Indies' prolonged declineIND vs WI: Darren Sammy believes that the West Indies' decline in cricket is a result of deep-rooted issues within their system"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/south-africa-india-tour-2025-26-world-test-championship-new-zealand-lessons-2799789-2025-10-08",
-      "headline": "Temba Bavuma's warning: Inspired by New Zealand, South Africa hope to conquer IndiaTemba Bavuma urged South Africa to take inspiration from New Zealand's successful India tour, citing their smart use of spin. The Proteas will tour India in November and December. \r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/jordi-alba-retirement-sergio-ramos-tribute-barcelona-mls-2799768-2025-10-08",
-      "headline": "Once bitter rival, Ramos pens heartfelt letter on Alba's retirementJordi Alba is set to retire from professional football at the end of this season. His longtime rival, Sergio Ramos paid a touching tribute to the former Barcelona player."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/mohammed-siraj-career-best-12th-icc-test-bowling-rankings-west-indies-win-2799752-2025-10-08",
-      "headline": "Mohammed Siraj rises to career-best spot, Yashasvi Jaiswal slips out of top 5Mohammed Siraj achieved a career-best 12th rank in ICC Test bowling after a match-winning performance against West Indies in Ahmedabad. Jasprit Bumrah continues to lead the bowling charts while Ravindra Jadeja retains the No. 1 spot in the all-rounder rankings."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-virat-kohli-odi-world-cup-2027-2799724-2025-10-08",
       "headline": "DRS: Will Rohit Sharma and Virat Kohli play in 2027 ODI World Cup?With the tour of Australia in October-November, India officially begin the preparation for the 2027 ODI World Cup. As India gear up for the tournament, we try to address the elephant in the room \u2013 will Rohit and Virat play the World Cup?"
     },
@@ -465,36 +490,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-pakistan-womens-cricket-world-cup-live-score-colombo-alyssa-healy-fatima-sana-2799730-2025-10-08",
       "headline": "AUS vs PAK Highlights: Australia secure comprehensive win by 107 runsAUS vs PAK Highlights, Women's World Cup: Just when you think you saw Australia on the verge of losing, a comprehensive bowling display helped them take a whopping 107-run win over Pakistan. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-u19-dominate-australia-u19-youth-test-series-seven-wicket-win-2799709-2025-10-08",
-      "headline": "India U19 hammer Australia U19 to sweep Youth Test seriesIndia U19 defeated Australia U19 by seven wickets in the second Youth Test at the Great Barrier Reef Arena in Mackay to complete a 2-0 series sweep. \r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/womens-world-cup-ind-vs-sa-vizag-stadium-rain-eve-training-2799684-2025-10-08",
-      "headline": "Vizag rain dampens India's preparations for crucial South Africa clashWomen's World Cup 2025: The pitch and the outfield were covered hours before India's scheduled training session as heavy rain lashed Visakhapatnam on Wednesday. India will take on South Africa in their third game of the tournament on Thursday. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/abhishek-sharma-ceat-awards-brian-lara-2799661-2025-10-08",
-      "headline": "Special Abhishek Sharma wants to play Test cricket for India: Brian LaraAfter taking T20 cricket by storm, Abhishek Sharma is targetting Test cricket, revealed former SRH head coach Brian Lara. Speaking at the CEAT Awards, Lara spoke about what makes Abhishek special."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-virat-kohli-world-cup-selection-2027-aakash-chopra-2799658-2025-10-08",
-      "headline": "Indispensable no more? Rohit and Virat will be judged on ODI form, says ex-openerFormer India opener Aakash Chopra said Rohit Sharma and Virat Kohli will come under scrutiny for their performances, adding that consistency will be key to retaining their places in the ODI squad in the lead-up to the 2027 World Cup."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/chess-hikaru-vs-gukesh-checkmate-tournament-controversy-2799624-2025-10-08",
-      "headline": "Hikaru throwing Gukesh's king was rehearsed: BTS video goes viralThe chess world was taken by storm after Hikaru Nakamura threw away D Gukesh's king after checkmating him. A BTS video now shows that the move was probably rehearsed."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/varun-chakravarthy-omitted-india-odi-squad-champions-trophy-success-2799603-2025-10-08",
-      "headline": "Varun Chakravarthy addresses ODI selection snub: I expect to be in every teamDespite his standout performances in the Champions Trophy and Asia Cup, Varun Chakravarthy was not included in India's ODI squad for the Australia tour. The spinner discussed his omission and conversations with head coach Gautam Gambhir. "
     }
   ],
   "education": [
