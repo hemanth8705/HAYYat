@@ -104,6 +104,11 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/amitabh-bachchan-turns-83-prabhas-to-farhan-akhtar-celebs-share-birthday-wishes-2801479-2025-10-11",
+      "headline": "Amitabh Bachchan turns 83: Prabhas to Farhan Akhtar, celebs share\u00a0birthday\u00a0wishes Bollywood legend Amitabh Bachchan turned 83 today, with celebrities like Shatrughan Sinha, Farhan Akhtar, Prabhas, and Srijit Mukherji sharing heartfelt birthday wishes for the megastar."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/atlee-calls-new-film-with-allu-arjun-addictive-hollywood-finds-it-challenging-2801445-2025-10-11",
       "headline": "Atlee calls new film with Allu Arjun addictive: Hollywood finds\u00a0it\u00a0challenging Director Atlee, said his upcoming film with Allu Arjun will be something very new, very intriguing, addictive to watch, promising a visually striking and innovative experience. The high-profile project, tentatively titled 'AA22 x A6', also stars Deepika Padukone, with speculation about other big names joining the cast."
     },
@@ -186,11 +191,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/aryan-khan-the-bads-of-bollywood-respectful-satire-netflix-india-top-2801216-2025-10-10",
       "headline": "Wanted to be self-deprecating, not disrespectful: Aryan Khan on Ba***ds of Bollywood Aryan Khan's directorial debut, 'The Ba***ds of Bollywood', delivered a sharp yet respectful satire on the Hindi film industry. Speaking about the show's tone, the young filmmaker said the team was careful to keep the humour self-deprecating without ever crossing into disrespect."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/trisha-krishnan-shuts-down-marriage-rumours-with-a-witty-instagram-post-2801199-2025-10-10",
-      "headline": "Plan my honeymoon too: Trisha Krishnan shuts down marriage rumours with wit Trisha Krishnan addressed rumours about her marriage plans with wit and clarity, dismissing speculations of an impending wedding to a Chandigarh businessman. The actor shared a clever post on Instagram to hit back at those speculating. "
     }
   ],
   "general news": [
@@ -207,12 +207,12 @@
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/world/story/pakistan-violence-tehreek-i-labbaik-pakistan-protest-march-lahore-islamabad-police-open-fire-2801461-2025-10-11",
-      "headline": "Pak bleeds as Islamist group's march turns violent, 11 dead in police firing11 killed in Pak violence as Islamists march to capital for pro-Palestine rally"
+      "headline": "Pak bleeds as Islamist group's march turns violent, 11 dead in police firingThe protests by Tehreek-i-Labbaik Pakistan, which began against the killings in Gaza by Israel, turned violent as the agitators clashed with police. It paralysed life in Islamabad and Rawalpindi for a second day."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-west-indies-2nd-test-day-2-live-score-commentary-scorecard-yashasvi-jaiswal-new-delhi-2801349-2025-10-11",
-      "headline": "Day 2 Live: Campbell, Chanderpaul begin for visitorsIndia vs West Indies Live score, 2nd Test Day 2: India have declared their innings at 518 for four after Shubman Gill hit yet another Test hundred. The onus is now on the Indian bowlers to put pressure on the Caribbean batting lineup. "
+      "headline": "Day 2 Live: Spin test for West Indies after early Jadeja strikeIndia vs West Indies Live score, 2nd Test Day 2: India have got their first breakthrough wicket in John Campbell, due to a wild catch from Sai Sudharsan at short-leg, which even left the fielder injured."
     },
     {
       "sentiment": "positive",
@@ -292,7 +292,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/education-today/news/story/mastering-ai-backfires-man-lost-job-to-tool-he-perfected-2801459-2025-10-11",
-      "headline": "He trained AI to boost his work. It ended up replacing himA New Mexico researcher lost his job after using ChatGPT to improve his performance \u2014 a stark reminder of how AI efficiency can make even skilled workers replaceable, reports say."
+      "headline": "He trained AI to boost his work. It ended up replacing himA New Mexico researcher mastered ChatGPT to improve his performance, only to be replaced by the very AI he helped perfect. This is a stark reminder of how AI efficiency can make even skilled workers replaceable."
     },
     {
       "sentiment": "positive",
@@ -316,16 +316,31 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/atlee-calls-new-film-with-allu-arjun-addictive-hollywood-finds-it-challenging-2801445-2025-10-11",
-      "headline": "Atlee calls new film with Allu Arjun addictive: Hollywood finds\u00a0it\u00a0challengingDirector Atlee, said his upcoming film with Allu Arjun will be something very new, very intriguing, addictive to watch, promising a visually striking and innovative experience. The high-profile project, tentatively titled 'AA22 x A6', also stars Deepika Padukone, with speculation about other big names joining the cast."
+      "url": "https://www.indiatoday.in/movies/celebrities/story/amitabh-bachchan-turns-83-prabhas-to-farhan-akhtar-celebs-share-birthday-wishes-2801479-2025-10-11",
+      "headline": "Amitabh Bachchan turns 83: Prabhas to Farhan Akhtar, celebs share\u00a0birthday\u00a0wishesBollywood legend Amitabh Bachchan turned 83 today, with celebrities like Shatrughan Sinha, Farhan Akhtar, Prabhas, and Srijit Mukherji sharing heartfelt birthday wishes for the megastar."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/kareena-kapoor-shares-taimur-ali-khan-chooses-sports-over-acting-2801406-2025-10-11",
-      "headline": "Kareena Kapoor shares Taimur chooses sports over acting: He has no clue about actorsKareena Kapoor shared that her son Taimur Ali Khan has no interest in acting and prefers sports and other activities instead. Despite being the child of Bollywood superstars, Taimur is exploring his own passions at school."
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/atlee-calls-new-film-with-allu-arjun-addictive-hollywood-finds-it-challenging-2801445-2025-10-11",
+      "headline": "Atlee calls new film with Allu Arjun addictive: Hollywood finds\u00a0it\u00a0challengingDirector Atlee, said his upcoming film with Allu Arjun will be something very new, very intriguing, addictive to watch, promising a visually striking and innovative experience. The high-profile project, tentatively titled 'AA22 x A6', also stars Deepika Padukone, with speculation about other big names joining the cast."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/athletics/story/parth-singh-national-junior-athletics-champs-tyson-gay-interview-2801478-2025-10-11",
+      "headline": "From Taipei to Kalinga: Parth Singh's run for India, the legacy of Tyson Gay Living in Taipei but representing India, Parth Singh impressed at the National Junior Championships in Kalinga, winning the U20 100m and qualifying for the long jump final. Inspired by Tyson Gay, the 18-year-old balances dual events while aiming for the World Championships and keeping his Olympic dreams in sight."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/shubman-gill-century-viral-fan-placard-india-west-indies-test-delhi-proposal-2801466-2025-10-11",
+      "headline": "Love you Shubman Gill: Fan goes viral after proposing to India captain in Delhi Test Indian captain Shubman Gill stole the spotlight both on and off the field during the second Test against the West Indies in Delhi, going viral after a fan held up a \"I love you Shubman\" placard. \r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/shubman-gill-captaincy-praised-gautam-gambhir-england-series-performance-2801465-2025-10-11",
+      "headline": "I will protect Shubman Gill, unfair things have been said about him: Gautam Gambhir Head coach Gautam Gambhir backed Shubman Gill, praising the 25-year-old for handling pressure with composure during India's England tour. Gambhir said Gill had passed his toughest test as captain and promised to support him fully, highlighting the young leader's strong start."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-wi-shubman-gill-5th-test-hundred-captain-ms-dhoni-rohit-sharma-2801451-2025-10-11",
@@ -358,43 +373,63 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/womens-world-cup-india-missing-shefali-verma-batting-struggles-smriti-mandhana-indw-vs-saw-2801399-2025-10-11",
+      "headline": "Are India missing the Shafali Verma firepower amid batting woes? Women's World Cup: India's batting options are limited, yet they chose to overlook Shafali Verma for the mega event. On Thursday, India tasted their first defeat in Vizag at the hands of Laura Wolvaardt's South Africa. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/gary-kasparov-vs-viswanathan-anand-clutch-chess-st-louis-reaction-2801417-2025-10-11",
+      "headline": "Garry Kasparov beats old rival Vishy Anand, exceeds own expectations at 62 Garry Kasparov defeated Viswanathan Anand 13\u201311 at the Clutch Chess: The Legends exhibition in St Louis. The 62-year-old expressed surprise at his own performance but stopped short of declaring a comeback. The event reunited the two former rivals, 30 years after their World Championships match in New York. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/nonkululeko-mlaba-reprimanded-icc-sendoff-womens-world-cup-south-africa-india-harleen-deol-2801413-2025-10-11",
+      "headline": "South Africa spinner reprimanded for Harleen Deol send-off The ICC reprimanded South African left-arm spinner Nonkululeko Mlaba after she gave Harleen Deol a send-off in Thursday's clash at the Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium in Visakhapatnam. \r\n"
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-wi-2nd-test-yashasvi-jaiswal-run-out-video-shubman-gill-2801396-2025-10-11",
+      "headline": "Yashasvi Jaiswal distraught after mix-up with Shubman Gill, run out for 175 India vs West Indies, 2nd Test: Yashasvi Jaiswal was run-out for 175 as early as the second over of the day's play in New Delhi. The left-handed opener was involved in a horrible mix-up with captain Shubman Gill. "
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/athletics/story/vedanta-delhi-half-marathon-prashant-saxena-cancer-survivor-story-2801370-2025-10-11",
-      "headline": "Beating cancer twice, running strong: Prashant Saxena's Delhi Half Marathon tale After beating cancer twice, Prashant Saxena is now aiming to inspire others by continuing to conquer the Delhi half marathon. Thee 51-year-old opens up on his fight with cancer, how running became his passion and goals for future. "
+      "headline": "Beating cancer twice, running strong: Prashant Saxena's Delhi Half Marathon taleAfter beating cancer twice, Prashant Saxena is now aiming to inspire others by continuing to conquer the Delhi half marathon. Thee 51-year-old opens up on his fight with cancer, how running became his passion and goals for future. "
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-west-indies-2nd-test-day-2-live-score-commentary-scorecard-yashasvi-jaiswal-new-delhi-2801349-2025-10-11",
-      "headline": "Day 2 Live: Campbell, Chanderpaul begin for visitors India vs West Indies Live score, 2nd Test Day 2: India have declared their innings at 518 for four after Shubman Gill hit yet another Test hundred. The onus is now on the Indian bowlers to put pressure on the Caribbean batting lineup. "
+      "headline": "Day 2 Live: Spin test for West Indies after early Jadeja strikeIndia vs West Indies Live score, 2nd Test Day 2: India have got their first breakthrough wicket in John Campbell, due to a wild catch from Sai Sudharsan at short-leg, which even left the fielder injured."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/kl-rahul-india-vs-west-indies-dismissal-curse-himself-sanjay-bangar-2801345-2025-10-11",
-      "headline": "KL Rahul will curse himself for his dismissal vs WI in Delhi Test: Sanjay Bangar Former India coach Sanjay Bangar believes KL Rahul will be furious with himself after his stumping in the Delhi Test. Bangar praised Rahul's start but highlighted technical lapses that cost him a bigger score."
+      "headline": "KL Rahul will curse himself for his dismissal vs WI in Delhi Test: Sanjay BangarFormer India coach Sanjay Bangar believes KL Rahul will be furious with himself after his stumping in the Delhi Test. Bangar praised Rahul's start but highlighted technical lapses that cost him a bigger score."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-scold-security-young-fan-shivaji-park-training-session-viral-video-2801343-2025-10-11",
-      "headline": "Watch: Rohit Sharma scolds security for stopping young fan from meeting him Rohit Sharma's training session at Shivaji Park took an emotional turn when he stopped security from blocking a young fan. The Indian star's protective reaction quickly went viral, as he continues to prepare for Australia ODIs."
+      "headline": "Watch: Rohit Sharma scolds security for stopping young fan from meeting himRohit Sharma's training session at Shivaji Park took an emotional turn when he stopped security from blocking a young fan. The Indian star's protective reaction quickly went viral, as he continues to prepare for Australia ODIs."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/athletics/story/vedanta-delhi-half-marathon-prashant-saxena-cancer-survivor-story-2801370-2025-10-11",
-      "headline": "Beating cancer twice, running strong: Prashant Saxena's Delhi Half Marathon tale After beating cancer twice, Prashant Saxena is now aiming to inspire others by continuing to conquer the Delhi half marathon. Thee 51-year-old opens up on his fight with cancer, how running became his passion and goals for future. "
+      "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-wi-yashasvi-jaiswal-eyes-record-innings-india-test-cricket-highest-score-sehwag-2801298-2025-10-11",
+      "headline": "Jaiswal eyeing uncharted territory: Ex-IND opener hints at record-breaking knockIND vs WI: Yashasvi Jaiswal impressed with unbeaten 173 on Day 1 against West Indies in Delhi. His disciplined approach hints at a possible record-breaking innings for India."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-west-indies-2nd-test-day-2-live-score-commentary-scorecard-yashasvi-jaiswal-new-delhi-2801349-2025-10-11",
-      "headline": "Day 2 Live: Campbell, Chanderpaul begin for visitors India vs West Indies Live score, 2nd Test Day 2: India have declared their innings at 518 for four after Shubman Gill hit yet another Test hundred. The onus is now on the Indian bowlers to put pressure on the Caribbean batting lineup. "
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-west-indies-yashasvi-jaiswal-test-cricket-versatility-delhi-knock-2801268-2025-10-11",
+      "headline": "Zen mode in Tests: Yashasvi Jaiswal shows verstality is his strong suit in DelhiYashasvi Jaiswal has always been known to be a player who has excelled as an aggressive opener in Test cricket. But during the second match of the series against the West Indies, Jaiswal showed that versatility is actually his biggest feature while batting. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/kl-rahul-india-vs-west-indies-dismissal-curse-himself-sanjay-bangar-2801345-2025-10-11",
-      "headline": "KL Rahul will curse himself for his dismissal vs WI in Delhi Test: Sanjay Bangar Former India coach Sanjay Bangar believes KL Rahul will be furious with himself after his stumping in the Delhi Test. Bangar praised Rahul's start but highlighted technical lapses that cost him a bigger score."
+      "url": "https://www.indiatoday.in/sports/athletics/story/ankita-dhyani-steeplechase-silver-university-games-world-athletics-aims-2028-olympics-2801322-2025-10-10",
+      "headline": "Ankita Dhyani: Learning from 2025, aiming for Asian Games and beyondAnkita Dhyani had a mixed 2025 with successes and setbacks in steeplechase events. She remains focused on upcoming Asian and Commonwealth Games as she targets the 2028 Olympics."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-scold-security-young-fan-shivaji-park-training-session-viral-video-2801343-2025-10-11",
-      "headline": "Watch: Rohit Sharma scolds security for stopping young fan from meeting him Rohit Sharma's training session at Shivaji Park took an emotional turn when he stopped security from blocking a young fan. The Indian star's protective reaction quickly went viral, as he continues to prepare for Australia ODIs."
+      "url": "https://www.indiatoday.in/sports/cricket/story/womens-world-cup-2025-sophie-devine-new-zealand-comeback-india-shock-defeat-south-africa-2801311-2025-10-10",
+      "headline": "Anything can happen: Devine eyes NZ World Cup comeback after India's shock defeatSophie Devine believes that New Zealand can put together a comeback charge, reflecting on how South Africa turned the tides in their favour to take down the tournament hosts, India earlier."
     },
     {
       "sentiment": "positive",
@@ -438,26 +473,6 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/wwe/story/wwe-crown-jewel-2025-perth-five-headline-matches-global-streaming-2801308-2025-10-10",
-      "headline": "WWE Crown Jewel: Match card, when and where to watch and all you need to knowWWE Crown Jewel 2025 is all set to emanate from Perth, Australia with a stacked card featuring some of the biggest stars. With the Crown Jewel championships set to be defended and John Cena in action, the event is expected to be a blockbuster. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/video/england-will-be-desperate-to-dismiss-chamari-athapaththu-tammy-beaumont-2801309-2025-10-10",
-      "headline": "England will be desperate to dismiss Chamari Athapaththu: Tammy BeaumontEngland batter Tammy Beaumont said that they would be desperate to get the wicket of Chamari Athapaththu during the clash between both sides on Saturday, October 11. Athapaththu has been the star player for Sri Lanka over the past few years."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-wi-2nd-test-day-1-tough-day-west-indies-floyd-reifer-delhi-2801299-2025-10-10",
-      "headline": "Tough day for West Indies, but key lessons in bowling long spells: Floyd ReiferWest Indies batting coach Floyd Reifer acknowledged the challenges faced by his bowlers but emphasised the opportunity for growth and learning in sub-continental conditions."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/athletics/story/gulveer-singh-2025-asian-gold-world-athletics-heartbreak-2026-goals-2801302-2025-10-10",
-      "headline": "Gulveer calls 2025 a good year despite World Athletics Championships heartbreakGulveer Singh said that he finds 2025 a good year for him personally, despite the World Athletics Championships heartbreak. Gulveer just missed out on making it to the final of the 5,000m event by a whisker. "
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/other-sports/story/kasparov-jokes-anand-chess-children-indian-chess-academy-gukesh-2801288-2025-10-10",
       "headline": "Kasparov quips Anand's real challenge is managing India's chess childrenGarry Kasparov talked about Viswanathan Anand's influence on young Indian chess players. Anand's academy continues to nurture talent even as the rivalry heats up on the board."
     },
@@ -475,26 +490,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/video/ind-vs-wi-sai-sudharsan-mentally-tough-never-under-pressure-sitanshu-kotak-2801234-2025-10-10",
       "headline": "Sai Sudharsan is someone who's mentally tough, never under pressure: Sitanshu KotakIndia's batting coach, Sitanshu Kotak, believes that Sai Sudharsan is a player who has the mental resilience and never comes to bat under pressure. This comes after his splendid knock against the West Indies in Delhi on Day 1. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/sai-sudharsan-patient-innings-india-west-indies-test-cricket-no-3-position-2801213-2025-10-10",
-      "headline": "The art of letting it go: How Sai Sudharsan broke the shackles in Test cricketSai Sudharsan showcased patience and maturity in India's second Test against West Indies, building a 193-run stand with Yashasvi Jaiswal. Learning from past experiences, he reacted calmly, making a strong case for the number three spot."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/kerala-ranji-trophy-2025-26-sanju-samson-azharuddeen-2801222-2025-10-10",
-      "headline": "Sanju Samson to play for Kerala vs Maharashtra in Ranji Trophy opener: ReportIndia wicket-keeper Sanju Samson is all set to play for Kerala in their Ranji Trophy opener against Maharashtra, which will begin on October 15. Kerala have named Mohammed Azharudeen as their new captain. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/bangladesh-pacer-marufa-akter-cricket-journey-hardship-international-success-2801206-2025-10-10",
-      "headline": "Marufa Akter breaks down recalling dark times: Couldn't even afford new clothesWomen's World Cup: Bangladesh pacer Marufa Akter said she overcame a childhood of financial struggles and social exclusion, and is now proud to make her mark on the international stage. \r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-west-indies-yashasvi-jaiswal-173-not-out-second-test-delhi-2025-2801210-2025-10-10",
-      "headline": "Won't play bad shots: Yashasvi Jaiswal's tea time message revealed by batting coachIndia batting coach Sithanshu Kothak heaped praise on Yashasvi Jaiswal and revealed the tea-time chat he had with the southpaw during Day one of the second Test against the West Indies. Jaiswal scored his 7th century on Friday, October 10. "
     }
   ],
   "education": [
