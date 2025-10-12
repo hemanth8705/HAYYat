@@ -103,6 +103,11 @@
   ],
   "entertainment": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/entertainment/television/story/bigg-boss-tamil-9-vijay-sethupathi-rips-apart-kamrudin-vj-parvathy-2801753-2025-10-12",
+      "headline": "Bigg Boss Tamil 9: Vijay Sethupathi rips apart Kamrudin, VJ Parvathy\u00a0 Bigg Boss Tamil 9 host Vijay Sethupathi called out contestants for their gameplay and failure to manage the week's tasks, especially targeting Kamrudin and VJ Parvathy. His tough comments left Aurora and Parvathy upset, with Sethupathi advising them to maintain dignity while highlighting areas for improvement."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/diane-keaton-dies-at-79-leonardo-dicaprio-jane-fonda-michael-douglas-kate-hudson-pay-tribute-2801745-2025-10-12",
       "headline": "Diane Keaton dies at 79, Leonardo, Jane Fonda and other Hollywood celebs pay tribute Hollywood legend Diane Keaton, famous for 'Annie Hall' and 'The Godfather', passed away at 79. Celebrities like Leonardo DiCaprio, Jane Fonda, and Michael Douglas paid heartfelt tributes, remembering her iconic performances and unique personality."
@@ -191,11 +196,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/amitabh-bachchan-turns-83-prabhas-to-farhan-akhtar-celebs-share-birthday-wishes-2801479-2025-10-11",
       "headline": "Amitabh Bachchan turns 83: Prabhas to Farhan Akhtar, celebs share\u00a0birthday\u00a0wishes Bollywood legend Amitabh Bachchan turned 83 today, with celebrities like Shatrughan Sinha, Farhan Akhtar, Prabhas, and Srijit Mukherji sharing heartfelt birthday wishes for the megastar."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/atlee-calls-new-film-with-allu-arjun-addictive-hollywood-finds-it-challenging-2801445-2025-10-11",
-      "headline": "Creating something with Allu Arjun, reveals Atlee Director Atlee, said his upcoming film with Allu Arjun will be something very new, very intriguing, addictive to watch, promising a visually striking and innovative experience. The high-profile project, tentatively titled 'AA22 x A6', also stars Deepika Padukone, with speculation about other big names joining the cast."
     }
   ],
   "general news": [
@@ -205,19 +205,14 @@
       "headline": "Op Blue Star was wrong, Indira Gandhi paid with life for it: P ChidambaramP Chidambaram also said the decision to launch Operation Blue Star was a collective one, involving the Army, police, intelligence, and civil service, and could not be blamed solely on Indira Gandhi."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/taliban-seize-pakistani-army-outposts-along-durand-line-afghanistans-ministry-of-defense-glbs-2801660-2025-10-12",
-      "headline": "Taliban kill 12 Pakistani soldiers in cross-border clashes, seize army outpostsTaliban forces seized multiple Pakistani outposts along the Durand Line, killing 12 soldiers, in retaliatory cross-border clashes after a Pakistani airstrike in Kabul this week."
-    },
-    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/three-men-arrested-durgapur-medical-student-gang-rape-bengal-hospital-police-2801685-2025-10-12",
       "headline": "3 arrested for medical student's rape near Bengal hospital; hunt on for 2 moreWest Bengal police have arrested three men in connection with the gang-rape of a medical student near the hospital. Two others remain on the run."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/pakistan-india-afghanistan-joint-statement-jammu-kashmir-taliban-amir-khan-muttaqi-2801680-2025-10-12",
-      "headline": "Pakistan fumes over India-Afghan statement, objects to Kashmir mentionPakistan also rejected Taliban leader Amir Khan Muttaqi's claim that terrorism is solely Pakistan's internal problem, insisting that terrorist elements operate from Afghan soil."
+      "url": "https://www.indiatoday.in/world/story/taliban-seize-pakistani-army-outposts-along-durand-line-afghanistans-ministry-of-defense-glbs-2801660-2025-10-12",
+      "headline": "Taliban kill 12 Pakistani soldiers in cross-border clashes, seize army outpostsTaliban forces seized multiple Pakistani outposts along the Durand Line, killing 12 soldiers, in retaliatory cross-border clashes after a Pakistani airstrike in Kabul this week."
     },
     {
       "sentiment": "positive",
@@ -226,8 +221,13 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/pakistan-india-afghanistan-joint-statement-jammu-kashmir-taliban-amir-khan-muttaqi-2801680-2025-10-12",
+      "headline": "Pakistan fumes over India-Afghan statement, objects to Kashmir mentionPakistan also rejected Taliban leader Amir Khan Muttaqi's claim that terrorism is solely Pakistan's internal problem, insisting that terrorist elements operate from Afghan soil."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-west-indies-2nd-test-day-3-live-score-commentary-ravindra-jadeja-new-delhi-2801687-2025-10-12",
-      "headline": "Day 3 Live: WI (217/8) at Lunch, Kuldeep helps India dominateIND vs WI Live score, 2nd Test Day 3: India dominate the morning session on Day 3. Kuldeep Yadav brings about his skills and dents the Windies batting line-up once again. The visitors still need a 100 runs to avoid follow-on."
+      "headline": "Day 3 Live: WI (238/9) Bumrah up and running in 2nd sessionIND vs WI Live score, 2nd Test Day 3: Jasprit Bumrah opened his account by getting rid of Khary Pierre in the first over after the second session. Meanwhile, Kuldeep Yadav will look to get his five-wicket haul. "
     },
     {
       "sentiment": "positive",
@@ -235,14 +235,14 @@
       "headline": "Likely espionage: Nobel institute flags leak before Maria Machado prize revealThe Nobel Institute has flagged unusual betting activity ahead of Maria Corina Machado's Peace Prize win, with officials saying espionage is \"highly likely\", though no internal leak has been confirmed."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/no-violence-against-hindus-in-bangladesh-its-indian-fake-news-muhammad-yunus-2801699-2025-10-12",
-      "headline": "No violence against Hindus in Bangladesh, it's Indian fake news: YunusMuhammad Yunus dismissed several international reports of communal violence against Hindus in Bangladesh following the fall of the Sheikh Hasina government last year, calling them \"fake news\" floated by India."
-    },
-    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/lifestyle/interviews/story/from-teen-bride-to-having-princess-diana-as-client-the-shahnaz-husain-story-2800862-2025-10-12",
       "headline": "From teen bride to having Princess Diana as client: The Shahnaz Husain storyFrom marrying at 15 to building a global beauty legacy and even counting Princess Diana as a client, we sit down with Shahnaz Husain to talk motherhood, family, Ayurveda, and giving back, basically, Anything But work."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/no-violence-against-hindus-in-bangladesh-its-indian-fake-news-muhammad-yunus-2801699-2025-10-12",
+      "headline": "Fake news is India's speciality: Yunus denies attacks on Hindus in BangladeshMuhammad Yunus dismissed several international reports of communal violence against Hindus in Bangladesh following the fall of the Sheikh Hasina government last year, calling them \"fake news\" floated by India."
     },
     {
       "sentiment": "positive",
@@ -256,13 +256,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/nobel-economists-abhijit-banerjee-and-esther-duflo-to-leave-us-for-switzerland-glbs-2801320-2025-10-10",
-      "headline": "Nobel economists Abhijit Banerjee and Esther Duflo to leave US amid funding cutsNobel laureates Esther Duflo and Abhijit Banerjee will join the University of Zurich in 2026 to lead a new Lemann Center for Development Economics, marking a major global academic milestone."
+      "url": "https://www.indiatoday.in/entertainment/ott/story/the-woman-in-cabin-10-review-keira-knightley-guy-pearce-high-seas-whodunit-hits-choppy-waters-2801723-2025-10-12",
+      "headline": "The Woman In Cabin 10 review: Keira Knightley's high-seas whodunit hits rough watersRelease Date:Fri Oct 10, 2025Netflix's latest thriller, 'The Woman in Cabin 10', follows a troubled investigative journalist aboard a luxurious yacht, unravelling a mystery that ultimately feels predictable and lacking in suspense. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/the-woman-in-cabin-10-review-keira-knightley-guy-pearce-high-seas-whodunit-hits-choppy-waters-2801723-2025-10-12",
-      "headline": "The Woman In Cabin 10 review: Keira Knightley's high-seas whodunit hits rough watersRelease Date:Fri Oct 10, 2025Netflix's latest thriller, 'The Woman in Cabin 10', follows a troubled investigative journalist aboard a luxurious yacht, unravelling a mystery that ultimately feels predictable and lacking in suspense. "
+      "url": "https://www.indiatoday.in/world/story/nobel-economists-abhijit-banerjee-and-esther-duflo-to-leave-us-for-switzerland-glbs-2801320-2025-10-10",
+      "headline": "Nobel economists Abhijit Banerjee and Esther Duflo to leave US amid funding cutsNobel laureates Esther Duflo and Abhijit Banerjee will join the University of Zurich in 2026 to lead a new Lemann Center for Development Economics, marking a major global academic milestone."
     },
     {
       "sentiment": "positive",
@@ -273,11 +273,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/reinspect-rat-emergency-dgca-air-india-fleet-stowage-787-dreamliner-scare-report-from-boeing-2801705-2025-10-12",
       "headline": "Reinspect emergency system: Aviation body to Air India after Dreamliner scareThe aviation regulator has ordered Air India to reinspect Ram Air Turbine (RAT) systems on Boeing 787s days after an 'uncommanded' deployment took place on Flight AI 117 from Amritsar to Birmingham earlier this month. "
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/hamas-to-skip-official-gaza-peace-deal-signing-in-egypt-calls-trumps-proposals-absurd-reports-afp-2801647-2025-10-11",
-      "headline": "Hamas to skip Gaza peace deal signing, calls Trump's proposals absurd: ReportHamas will skip the Gaza peace deal signing in Egypt, calling proposals for its members' departure from Gaza \"absurd\". "
     },
     {
       "sentiment": "positive",
@@ -296,13 +291,18 @@
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/delhi/story/man-climbs-jain-temple-roof-using-electric-wires-steals-rs-40-lakh-gold-plated-kalash-in-delhi-jyoti-nagar-2801676-2025-10-12",
-      "headline": "Man climbs Jain temple roof using wires, steals 'kalash' worth Rs 40 lakh in DelhiThe 'kalash', made of copper with gold lamination and weighing nearly 30 kg, was found missing on Saturday morning. The incident follows a similar theft reported days earlier from a Jain religious event near the Red Fort."
+      "url": "https://www.indiatoday.in/world/story/hamas-to-skip-official-gaza-peace-deal-signing-in-egypt-calls-trumps-proposals-absurd-reports-afp-2801647-2025-10-11",
+      "headline": "Hamas to skip Gaza peace deal signing, calls Trump's proposals absurd: ReportHamas will skip the Gaza peace deal signing in Egypt, calling proposals for its members' departure from Gaza \"absurd\". "
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/lifestyle/wellness/story/how-you-hold-your-phone-posture-can-reveal-a-lot-about-your-mental-health-anxiety-stress-2801141-2025-10-12",
       "headline": "How you hold your phone can reveal a lot about your mental healthLooking down at your screens or reading the most interesting book in a slouched manner can actually weigh heavily on your mental health. Science and experts back it up."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/cities/delhi/story/man-climbs-jain-temple-roof-using-electric-wires-steals-rs-40-lakh-gold-plated-kalash-in-delhi-jyoti-nagar-2801676-2025-10-12",
+      "headline": "Man climbs Jain temple roof using wires, steals 'kalash' worth Rs 40 lakh in DelhiThe 'kalash', made of copper with gold lamination and weighing nearly 30 kg, was found missing on Saturday morning. The incident follows a similar theft reported days earlier from a Jain religious event near the Red Fort."
     },
     {
       "sentiment": "positive",
@@ -313,11 +313,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/filmfare-awards-2025-winners-full-list-laapata-ladies-zeenat-aman-nitanshi-goel-lakshya-shah-rukh-khan-karan-johar-2801633-2025-10-11",
       "headline": "Filmfare Awards 2025 winners: Who took home the big trophies? Full list inside'Laapataa Ladies', starring Pratibha Ranta and Nitanshi Goel, clinched the majority of awards at the 71st Filmfare Awards 2025. The star-studded ceremony is being held in Ahmedabad."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/lucknow/story/five-men-rape-class-11-student-beat-her-friend-in-lucknow-2-detained-2801668-2025-10-12",
-      "headline": "Five men gang-rape Dalit girl, beat her friend in Lucknow; 4 arrestedA 17-year-old girl was allegedly raped by five unidentified men in Lucknow on Saturday. Police have begun an investigation, formed special teams to trace the suspects, and are conducting the survivor's medical examination."
     },
     {
       "sentiment": "positive",
@@ -354,7 +349,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-west-indies-2nd-test-day-3-live-score-commentary-ravindra-jadeja-new-delhi-2801687-2025-10-12",
-      "headline": "Day 3 Live: WI (217/8) at Lunch, Kuldeep helps India dominate IND vs WI Live score, 2nd Test Day 3: India dominate the morning session on Day 3. Kuldeep Yadav brings about his skills and dents the Windies batting line-up once again. The visitors still need a 100 runs to avoid follow-on."
+      "headline": "Day 3 Live: WI (238/9) Bumrah up and running in 2nd session IND vs WI Live score, 2nd Test Day 3: Jasprit Bumrah opened his account by getting rid of Khary Pierre in the first over after the second session. Meanwhile, Kuldeep Yadav will look to get his five-wicket haul. "
     },
     {
       "sentiment": "positive",
@@ -379,7 +374,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-west-indies-2nd-test-day-3-live-score-commentary-ravindra-jadeja-new-delhi-2801687-2025-10-12",
-      "headline": "Day 3 Live: WI (217/8) at Lunch, Kuldeep helps India dominate IND vs WI Live score, 2nd Test Day 3: India dominate the morning session on Day 3. Kuldeep Yadav brings about his skills and dents the Windies batting line-up once again. The visitors still need a 100 runs to avoid follow-on."
+      "headline": "Day 3 Live: WI (238/9) Bumrah up and running in 2nd session IND vs WI Live score, 2nd Test Day 3: Jasprit Bumrah opened his account by getting rid of Khary Pierre in the first over after the second session. Meanwhile, Kuldeep Yadav will look to get his five-wicket haul. "
     },
     {
       "sentiment": "positive",
