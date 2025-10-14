@@ -200,6 +200,11 @@
   ],
   "general news": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/over-10-injured-as-bus-travelling-from-jaisalmer-to-jodhpur-catches-fire-2803003-2025-10-14",
+      "headline": "20 dead after bus travelling from Jaisalmer to Jodhpur\u00a0catches\u00a0fireA private bus travelling from Jaisalmer to Jodhpur caught fire near Thaiyat village on Tuesday afternoon, causing panic among passengers."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/duragapur-rape-survivors-friend-arrested-had-molested-her-when-she-went-out-with-him-2803121-2025-10-14",
       "headline": "Durgapur survivor's classmate arrested, raped her when she went\u00a0out\u00a0with\u00a0himThe male classmate who accompanied the Durgapur rape survivor on the night of the incident has been arrested after cops gathered several pieces of evidence against him. This marks the sixth arrest in this case."
@@ -215,14 +220,14 @@
       "headline": "GRAP-1 anti-pollution curbs imposed in Delhi-NCR as air quality dipsThe Central Air Quality Management (CAQM) has imposed GRAP-1 measures across Delhi-NCR following a surge in air pollution, with the AQI reaching 211 today."
     },
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/trump-sharm-naak-gaza-circus-leaves-shehbaz-sharif-grinning-pm-modi-grinning-away-2803062-2025-10-14",
+      "headline": "PM Modi stays away from Trump's 'Sharm-naak' Gaza circus, Shehbaz stays stagedCongress MP Shashi Tharoor questioned whether PM Modi's absence from a historic global event was a missed opportunity for India. Yet, had Modi been pulled alongside Sharif on stage as Trump played peacemaker, it's Tharoor's party that would have been crying 'Sharm-naak'."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/world/us-news/story/they-disappeared-my-hair-trump-fumes-at-time-magazine-over-his-pic-on-its-cover-2803123-2025-10-14",
       "headline": "They disappeared my hair: Trump fumes at Time Magazine over his pic on its coverUS President Donald Trump criticised Time Magazine for its choice of his photograph on its cover, saying he had his hair \"disappeared\" and called it the \"worst photo of all time\"."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/trump-sharm-naak-gaza-circus-leaves-shehbaz-sharif-grinning-pm-modi-grinning-away-2803062-2025-10-14",
-      "headline": "PM Modi stays away from Trump's 'Sharm-naak' Gaza circus, Shehbaz stays stagedCongress MP Shashi Tharoor questioned whether PM Modi's absence from a historic global event was a missed opportunity for India. Yet, had Modi been pulled alongside Sharif on stage as Trump played peacemaker, it's Tharoor's party that would have been crying 'Sharm-naak' instead."
     },
     {
       "sentiment": "positive",
@@ -230,19 +235,19 @@
       "headline": "Rajiv Shukla denies rumours of Rohit, Kohli's retirement during Australia tourBCCI Vice President Rajiv Shukla has denied rumours of Virat Kohli and Rohit Sharma's retirements after the upcoming tour of Australia, beginning on October 19 with a three-match ODI series."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/haryana-cop-shoots-self-fearing-arrest-in-top-cop-suicide-case-calls-y-puran-singh-corrupt-in-bombshell-note-2802938-2025-10-14",
-      "headline": "Another Haryana cop suicide and bombshell note add twist to IPS officer's suicideAssistant Sub-Inspector Sandeep Kumar, who shot himself dead, made serious allegations against IPS officer Y Puran Kumar, who himself died by suicide on October 7 in Chandigarh."
-    },
-    {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/naxal-leader-malloujula-venugopal-rao-surrenders-with-60-cadres-in-maharashtra-2803122-2025-10-14",
-      "headline": "Naxal leader Malloujula Venugopal Rao surrenders with 60 cadres\u00a0in\u00a0MaharashtraMalloujula Venugopal Rao, known as Sonu, a senior Polit Bureau member of the CPI/Maoist, surrendered along with 60 cadres in Gadhchiroli, Maharashtra."
+      "url": "https://www.indiatoday.in/india/story/haryana-cop-suicide-video-accuses-late-ips-officer-y-puran-kumar-his-cronies-of-graft-sex-abuse-2803066-2025-10-14",
+      "headline": "Graft, sex abuse, torture: What Haryana cop said in bombshell video before suicideHaryana Assistant Sub-Inspector (ASI) Sandeep Kumar, who killed himself on Tuesday, accused late senior IPS officer Y Puran Kumar of graft and bribery."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/law-news/story/bombay-high-court-approver-quip-shilpa-shetty-husband-raj-kundra-cheating-case-2803124-2025-10-14",
       "headline": "Why don't you turn approver against Raj Kundra, High Court asks Shilpa ShettyThe remark was made by the Bombay High Court bench while hearing actor Shilpa Shetty's plea to temporarily suspend LOC issued against her in Rs 60-crore cheating case involving her husband Raj Kundra."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/naxal-leader-malloujula-venugopal-rao-surrenders-with-60-cadres-in-maharashtra-2803122-2025-10-14",
+      "headline": "Naxal leader Malloujula Venugopal Rao surrenders with 60 cadres\u00a0in\u00a0MaharashtraMalloujula Venugopal Rao, known as Sonu, a senior Polit Bureau member of the CPI/Maoist, surrendered along with 60 cadres in Gadhchiroli, Maharashtra."
     },
     {
       "sentiment": "positive",
@@ -256,23 +261,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/featurephilia/story/six-pocket-syndrome-india-kbc-kid-confidence-parenting-entitlement-2802939-2025-10-14",
-      "headline": "KBC's viral kid and the six-pocket syndrome: A mirror to modern parentingA KBC contestant's confident interruption has ignited a debate on modern parenting styles in India. Experts link this behaviour to 'Six-Pocket Syndrome,' highlighting the risks of overindulgence and entitlement among children."
+      "url": "https://www.indiatoday.in/world/story/italy-pm-giorgia-meloni-viral-moments-gaza-summit-trump-erdogan-shehbaz-sharif-2802942-2025-10-14",
+      "headline": "Meloni and her aww reaction. How Italy PM stole spotlight at Gaza peace summitEven as top world leaders like Trump gathered for the Gaza peace summit, it was Italian Prime Minister Giorgia Meloni who grabbed the spotlight. Here is how she became the unexpected star of the event."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/italy-pm-giorgia-meloni-viral-moments-gaza-summit-trump-erdogan-shehbaz-sharif-2802942-2025-10-14",
-      "headline": "Meloni and her aww reaction. How Italy PM stole spotlight at Gaza peace summitEven as top world leaders like Trump gathered for the Gaza peace summit, it was Italian Prime Minister Giorgia Meloni who grabbed the spotlight. Here is how she became the unexpected star of the event."
+      "url": "https://www.indiatoday.in/education-today/featurephilia/story/six-pocket-syndrome-india-kbc-kid-confidence-parenting-entitlement-2802939-2025-10-14",
+      "headline": "KBC's viral kid and the six-pocket syndrome: A mirror to modern parentingA KBC contestant's confident interruption has ignited a debate on modern parenting styles in India. Experts link this behaviour to 'Six-Pocket Syndrome,' highlighting the risks of overindulgence and entitlement among children."
     },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/hockey/story/india-vs-pakistan-hockey-sultan-of-johor-cup-handshake-malaysia-2803083-2025-10-14",
       "headline": "After Asia Cup handshake snub, India-Pak's high-five at hockey tournamentIndia and Pakistan under-21 hockey players exchanged high-fives before their Sultan of Johor Cup match in Malaysia on Tuesday, October 14. The gesture came after cricket teams snubbed handshakes at the Women's World Cup and the Asia Cup.  "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/haryana-cop-suicide-video-accuses-late-ips-officer-y-puran-kumar-his-cronies-of-graft-sex-abuse-2803066-2025-10-14",
-      "headline": "Graft, sex abuse, torture: What Haryana cop said in bombshell video before suicideHaryana Assistant Sub-Inspector (ASI) Sandeep Kumar, who killed himself on Tuesday, accused late senior IPS officer Y Puran Kumar of graft and bribery."
     },
     {
       "sentiment": "positive",
@@ -285,6 +285,11 @@
       "headline": "Bira 91 went poof! And the name change was just the beer headWhile several news reports said that a change in the name of Indian beer Bira 91 spelt doom for the craft beer brand, it was just the tip of the iceberg. The company is facing a Rs 80-crore loss, supply-chain disruption, and most importantly, internal unrest, with employees demanding the ouster of founder Ankur Jain. This is what industry insiders have to say about the mess at Bira 91."
     },
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/haryana-cop-shoots-self-fearing-arrest-in-top-cop-suicide-case-calls-y-puran-singh-corrupt-in-bombshell-note-2802938-2025-10-14",
+      "headline": "Another Haryana cop suicide and bombshell note add twist to IPS officer's suicideAssistant Sub-Inspector Sandeep Kumar, who shot himself dead, made serious allegations against IPS officer Y Puran Kumar, who himself died by suicide on October 7 in Chandigarh."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/opinion/story/bangladesh-interim-government-muhammad-yunus-election-crisis-july-charter-referendum-constitutional-impasse-2802789-2025-10-14",
       "headline": "Why are Bangladesh's July Movement leaders talking of safe exit?The Muhammad Yunus-led interim setup in Bangladesh is bound by the country's Constitution. There is no provision for a referendum, as is being demanded by fundamentalist and students' parties, in the Constitution. Is that why 'safe exit' is on the lips of July Movement leaders?"
@@ -295,14 +300,14 @@
       "headline": "Madagascar military seizes power as Gen Z protests force President to fleeThe dramatic takeover by Madagascar's military came after President Andry Rajoelina attempted to dissolve the National Assembly by decree in a last-ditch bid to block impeachment proceedings. "
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/information/story/what-is-grap-i-how-does-it-help-control-delhi-pollution-2803076-2025-10-14",
-      "headline": "Delhi AQI hits 211, GRAP-1 activated. Here's what it meansDelhi's air quality has slipped into the 'poor' category, prompting the CAQM to enforce GRAP-1 measures, including restrictions on construction and emissions, to prevent further pollution rise."
-    },
-    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/television/story/exclusive-smriti-irani-on-8-hour-work-shifts-gender-based-rules-in-industry-2802963-2025-10-14",
       "headline": "Exclusive: Smriti Irani on 8-hour work shifts, gender-based rules in industrySmriti Irani reflected on returning as Tulsi after two decades, sharing candid thoughts on work ethics, motherhood, and the evolving TV industry."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/information/story/what-is-grap-i-how-does-it-help-control-delhi-pollution-2803076-2025-10-14",
+      "headline": "Delhi AQI hits 211, GRAP-1 activated. Here's what it meansDelhi's air quality has slipped into the 'poor' category, prompting the CAQM to enforce GRAP-1 measures, including restrictions on construction and emissions, to prevent further pollution rise."
     },
     {
       "sentiment": "positive",
@@ -316,11 +321,6 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/pathans-vow-to-retaliate-after-pakistan-punjab-cuts-wheat-supplies-khyber-pakhtunkhwa-pmln-mariyam-nawaz-2802502-2025-10-14",
-      "headline": "Pathans vow to retaliate after Pak Punjab cuts wheat suppliesThe blockade of wheat supply by the PMLN-led Punjab government of Maryan Nawaz has sparked a fierce backlash in the Khyber Pakhtunkhwa (KP) province. Flour dealers in the Pathan-dominated northern province have threatened to stop mineral-laden trucks plying to Punjab. Because of the blockade, flour prices have soared in the KP, forcing 90% of flour mills to shut operations."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/salman-khans-da-bangg-the-tour-reloaded-set-to-rock-qatar-this-november-2803147-2025-10-14",
       "headline": "Salman Khan's Da-Bangg: The Tour Reloaded set to rock Qatar this NovemberSalman Khan will bring his mega stage show 'Da-Bangg: The Tour Reloaded' to Doha on November 14, 2025, at the Asian Town Amphitheatre. Featuring stars like Sonakshi Sinha, Jacqueline Fernandez, and Prabhu Deva, the event promises a night of music, dance, and Bollywood glamour."
     },
@@ -331,6 +331,21 @@
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/sri-lanka-new-zealand-womens-world-cup-rain-washout-nilakshi-de-silva-fastest-fifty-2803179-2025-10-14",
+      "headline": "Women's World Cup: Colombo rain keeps SL winless, adds to New Zealand's woes Rain forced the abandonment of the Sri Lanka vs New Zealand Women's World Cup 2025 match in Colombo. Sri Lanka posted a good total of 258/6 in first innings before rain washed out the entire second innings."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/atiqa-mir-wins-minimax-rmc-uae-championship-2803182-2025-10-14",
+      "headline": "10-year-old Atiqa Mir bosses male pack for memorable win in RMC UAE Championship Ten-year-old Atiqa Mir made history by becoming the first female winner in the Minimax category at the RMC UAE Championship. Her victory highlights rising talent from India and marks a significant milestone in a male-dominated sport."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/india-afc-asian-cup-2027-qualification-ends-after-2-1-loss-to-singapore-2803170-2025-10-14",
+      "headline": "India's AFC Asian Cup 2027 qualification hopes shut down with 1-2 defeat to Singapore India's hopes of qualifying for the 2027 AFC Asian Cup ended with a 2-1 loss to Singapore. The defeat highlights missed chances and defensive lapses that cost India dearly in the qualifiers."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/hockey/story/indian-junior-hockey-team-draws-3-3-pakistan-sultan-of-johor-cup-comeback-2803167-2025-10-14",
@@ -372,19 +387,19 @@
       "headline": "Gautam Gambhir demands fast bowler friendly pitches after guelling Delhi Test India clinched a 2-0 series victory over West Indies, yet head coach Gautam Gambhir expressed concern regarding the Arun Jaitley Stadium surface, urging for pitches that have better support for fast bowlers."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/hockey/story/india-vs-pakistan-hockey-sultan-of-johor-cup-handshake-malaysia-2803083-2025-10-14",
-      "headline": "After Asia Cup handshake snub, India-Pak's high-five at hockey tournament India and Pakistan under-21 hockey players exchanged high-fives before their Sultan of Johor Cup match in Malaysia on Tuesday, October 14. The gesture came after cricket teams snubbed handshakes at the Women's World Cup and the Asia Cup.  "
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/athletics/story/pratik-maharana-wins-national-u20-200m-title-odisha-sprinter-breaks-meet-record-2803112-2025-10-14",
+      "headline": "Teenager Pratik Maharana smashes 200m record, carries Odisha's sprinting baton From a chance discovery to a national junior champion, Odisha's Pratik Maharana has made heads turn. Training under Siba Mishra, former coach of Dutee Chand, the 200m sprinter \u2014 tipped to win continental medals soon \u2014 is already on the radar of top athletics academies."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/shubman-gill-mental-conditioning-coach-gautam-gambhir-press-conference-2803067-2025-10-14",
-      "headline": "I need one: Gautam Gambhir jokes after mental coach suggestion for Shubman Gill India tour of Australia: Head coach Gautam Gambhir praised Shubman Gill for earning the trust of the dressing room. Gill, who is being groomed as India's next all-format captain, will lead the ODI side for the first time in a three-match series in Australia, starting on 19 October."
+      "url": "https://www.indiatoday.in/sports/cricket/story/gautam-gambhirs-stirring-speech-in-west-indies-dressing-room-after-delhi-test-2803111-2025-10-14",
+      "headline": "Watch: Gambhir's stirring speech in West Indies dressing room after Delhi Test India head coach Gautam Gambhir praised West Indies' strong fightback despite their Test defeat in Delhi. He emphasised that world cricket needs West Indies and urged them to build a solid Test team for future success."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/la-liga-robert-lewandowski-fc-barcelona-thigh-injury-setback-2803054-2025-10-14",
-      "headline": "FC Barcelona dealt major setback as Robert Lewandowski sidelined with thigh injury La Liga 2025: FC Barcelona have suffered a major blow with Robert Lewandowski expected to be out of action due to a thigh injury he picked up. "
+      "url": "https://www.indiatoday.in/sports/cricket/story/bcci-rajeev-shukla-supports-gautam-gambhir-harshit-rana-selection-controversy-2803105-2025-10-14",
+      "headline": "BCCI stands by Gautam Gambhir in support of Harshit Rana: Make comments responsibly BCCI vice-president Rajeev Shukla has backed Gautam Gambhir amid criticism over Harshit Rana's selection for the India ODI squad. Both leaders emphasise responsible criticism to protect young players' morale and uphold team unity."
     },
     {
       "sentiment": "positive",
@@ -399,17 +414,17 @@
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/hockey/story/india-vs-pakistan-hockey-sultan-of-johor-cup-handshake-malaysia-2803083-2025-10-14",
-      "headline": "After Asia Cup handshake snub, India-Pak's high-five at hockey tournament India and Pakistan under-21 hockey players exchanged high-fives before their Sultan of Johor Cup match in Malaysia on Tuesday, October 14. The gesture came after cricket teams snubbed handshakes at the Women's World Cup and the Asia Cup.  "
+      "headline": "After Asia Cup handshake snub, India-Pak's high-five at hockey tournamentIndia and Pakistan under-21 hockey players exchanged high-fives before their Sultan of Johor Cup match in Malaysia on Tuesday, October 14. The gesture came after cricket teams snubbed handshakes at the Women's World Cup and the Asia Cup.  "
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/shubman-gill-mental-conditioning-coach-gautam-gambhir-press-conference-2803067-2025-10-14",
-      "headline": "I need one: Gautam Gambhir jokes after mental coach suggestion for Shubman Gill India tour of Australia: Head coach Gautam Gambhir praised Shubman Gill for earning the trust of the dressing room. Gill, who is being groomed as India's next all-format captain, will lead the ODI side for the first time in a three-match series in Australia, starting on 19 October."
+      "headline": "I need one: Gautam Gambhir jokes after mental coach suggestion for Shubman GillIndia tour of Australia: Head coach Gautam Gambhir praised Shubman Gill for earning the trust of the dressing room. Gill, who is being groomed as India's next all-format captain, will lead the ODI side for the first time in a three-match series in Australia, starting on 19 October."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/la-liga-robert-lewandowski-fc-barcelona-thigh-injury-setback-2803054-2025-10-14",
-      "headline": "FC Barcelona dealt major setback as Robert Lewandowski sidelined with thigh injury La Liga 2025: FC Barcelona have suffered a major blow with Robert Lewandowski expected to be out of action due to a thigh injury he picked up. "
+      "headline": "FC Barcelona dealt major setback as Robert Lewandowski sidelined with thigh injuryLa Liga 2025: FC Barcelona have suffered a major blow with Robert Lewandowski expected to be out of action due to a thigh injury he picked up. "
     },
     {
       "sentiment": "positive",
@@ -428,18 +443,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/mohammed-shami-fitness-indian-team-management-ranji-trophy-omission-2802893-2025-10-14",
-      "headline": "If I can play Ranji, why can't I play ODIs? Shami's dig at Indian team managementMohammed Shami contradicted chief selector Ajit Agarkar's remarks on his fitness, asserting that if he is fit enough to play four-day Ranji Trophy matches, he is equally capable of handling the demands of 50-over cricket."
+      "url": "https://www.indiatoday.in/sports/cricket/story/ian-botham-questions-england-ashes-preparations-australia-borderline-arrogance-2802961-2025-10-14",
+      "headline": "Ian Botham slams England's lack of preparation for Ashes 2025: Borderline arroganceFormer England all-rounder Ian Botham has raised concerns over England's limited Ashes preparations, highlighting the risks of minimal warm-up matches and fitness management ahead of the Test series in Australia."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-virat-kohli-australia-odis-shubman-gill-captain-message-2802881-2025-10-14",
-      "headline": "Do your magic: Rohit Sharma and Virat Kohli get cool message from Shubman GillIndia tour of Australia: Shubman Gill backed Virat Kohli and Rohit Sharma to continue their prolific run in one-day internationals as they return to international cricket in a three-match ODI series starting on 19 October. Gill will lead the ODI side for the first time after taking over from Rohit as captain.\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/video/border-clashes-spill-onto-pitch-afghanistan-to-boycott-pak-tri-series-ytvd-2802876-2025-10-14",
-      "headline": "Border Clashes Spill Onto Pitch: Afghanistan To Boycott Pak Tri-Series?The upcoming T20I triangular cricket series between Pakistan, Afghanistan, and Sri Lanka is in jeopardy following intense military conflict between Islamabad and Kabul. According to reports, Pakistan Cricket Board (PCB) Chairperson Mohsin Naqvi has asked the International Cricket Council to 'start working on an alternate plan as he wants the Tri-Series to go ahead'. The series is scheduled from November 17 to 29. However, with deadly clashes reported along the Durand Line, there are serious doubts over Afghanistan's participation. This development also comes just a week after Afghanistan's Foreign Minister, Amir Khan Muttaqi, concluded a high-profile visit to India. The PCB is reportedly already mulling alternative plans, including a bilateral series with Sri Lanka, to ensure the cricketing window is utilized."
+      "url": "https://www.indiatoday.in/sports/video/shami-vs-agarkar-pacer-slams-no-communication-over-aus-tour-snub-ytvd-2802931-2025-10-14",
+      "headline": "Shami vs Agarkar: Pacer Slams 'No Communication' Over Aus Tour SnubThis special report focuses on the escalating controversy between senior Indian pacer Mohammed Shami and the BCCI's selection committee, headed by chief selector Ajit Agarkar. Shami is quoted in the bulletin as saying, 'The Indian team did not communicate with me regarding fitness. I am not the one who should inform them about my fitness.' The pacer has publicly questioned his exclusion from the upcoming tour of Australia, stating that if he is fit enough to play four-day Ranji Trophy matches for Bengal, he should be considered for the 50-over format. This comes after Agarkar had reportedly raised concerns about Shami's lack of consistent match practice. Shami refutes any fitness concerns, asserting he is ready to play for the Indian team whenever called upon, creating a standoff between the veteran player and the national selectors."
     },
     {
       "sentiment": "positive",
@@ -485,16 +495,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/virat-kohli-arrives-new-delhi-airport-video-black-white-style-australia-tour-2802818-2025-10-14",
       "headline": "Watch: Virat Kohli rocks black and white as he arrives in Delhi ahead of Australia tourFormer captain Virat Kohli arrived in New Delhi from London on Tuesday. He, along with Rohit Sharma, will depart with a batch of Indian cricketers for Australia on Wednesday ahead of a three-match ODI series, starting October 19 in Perth. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/virat-kohli-rohit-sharma-future-2027-odi-world-cup-gautam-gambhir-india-australia-2802816-2025-10-14",
-      "headline": "Gautam Gambhir pragmatic on Rohit Sharma, Virat Kohli's 2027 World Cup chancesIndia head coach Gautam Gambhir has broken his silence on the prospects of Virat Kohli and Rohit Sharma featuring in the 2027 ODI World Cup in South Africa."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-west-indies-match-report-2nd-test-delhi-2802762-2025-10-14",
-      "headline": "Shubman Gill's India stamp authority, win first Test series under new captainShubman Gill won his first Test series as captain after India hammered West Indies 2-0 at home. On the final day of the 2nd Test, Gill's India won with 7 wickets in hand."
     }
   ],
   "education": [
