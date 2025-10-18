@@ -104,6 +104,11 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/zaira-wasim-announces-marriage-intimate-nikaah-ceremony-photos-2804975-2025-10-18",
+      "headline": "Dangal actor Zaira Wasim gets married, shares post with husband Zaira Wasim, who left Bollywood in 2019 for religious reasons, announced her marriage with images from her nikaah ceremony.The former actor, known for her acclaimed roles in 'Dangal' and 'Secret Superstar', posted her first personal update in years.\r\n"
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/television/story/amaal-mallik-bigg-boss-19-arc-singing-sensation-anti-hero-2804771-2025-10-18",
       "headline": "From singing sensation to anti-hero: Decoding Amaal Mallik's Bigg Boss 19 arc Singer Amaal Mallik entered 'Bigg Boss 19' with a lot of promise. However, instead of emerging as a hero, his stint in the 'Bigg Boss 19' house has made him an anti-hero. Here's why.  "
     },
@@ -191,11 +196,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/television/story/rise-fall-arbaz-patel-admits-friendship-with-dhanashree-verma-was-not-real-2804700-2025-10-17",
       "headline": "Rise & Fall: Arbaz Patel admits friendship with Dhanashree Verma was not real Despite being close friends with 'Rise & Fall', actor Arbaz Patel has now clarified that his connection with choreographer Dhanashree Verma was just for the game. He also shared his thoughts on Arjun Bijlani winning the reality show. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/television/story/bigg-boss-19-weekend-ka-vaar-no-elimination-diwali-cheer-for-contestants-2804680-2025-10-17",
-      "headline": "Bigg Boss 19 Weekend Ka Vaar: No elimination, Diwali cheer for contestants 'Bigg Boss 19' gears up for a festive Weekend Ka Vaar with no eliminations and Diwali celebrations hosted by Salman Khan. Ayushmann Khurrana, Rashmika Mandanna, and singer Shaan join the episode, while inside the house, Farrhana Bhatt's explosive captaincy move and Amaal Malik's outburst keep the drama alive."
     }
   ],
   "general news": [
@@ -245,19 +245,24 @@
       "headline": "Can exercise counteract the effects of alcohol?Regular exercise cannot fully counteract the harmful effects of alcohol on the body. In fact, alcohol might be the reason why your recovery time after workout is getting hampered."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/diplomatic-row-as-india-says-3-bangladeshi-smugglers-killed-local-then-killed-2804822-2025-10-17",
-      "headline": "3 Bangladeshis killed in Tripura after attacking locals, Delhi-Dhaka row eruptsDismissing Bangladesh's 'human rights violation' narrative, India stated that the incident occurred three kilometres inside Indian territory, where the illegal immigrants attempted to steal cattle from Bidyabil village. When confronted by locals, they attacked with sharp weapons, prompting the locals to defend themselves."
-    },
-    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/rashid-khan-statement-afghanistan-cricketers-killed-pakistan-aerial-strikes-2804961-2025-10-18",
       "headline": "Rashid Khan slams 'barbaric' Pakistan airstrikes killing 3 Afghan cricketersAfghanistan captain Rashid Khan has strongly condemned Pakistan's air strikes that killed three young cricketers on Afghan soil. The Afghanistan Cricket Board (ACB) has also announced its decision to withdraw from the upcoming tri-nation T20 series involving Pakistan and Sri Lanka."
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/us-news/story/donald-trump-pakistan-afghanistan-conflict-nobel-peace-prize-war-2804971-2025-10-18",
+      "headline": "I understand Pak attacked: Trump says it's easy for him to solve Afghan conflictUS President Donald Trump said it would be \"easy\" for him to solve the ongoing Pakistan-Afghanistan conflict, claiming he has already resolved multiple global wars and \"saved millions of lives.\" "
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/television/story/amaal-mallik-bigg-boss-19-arc-singing-sensation-anti-hero-2804771-2025-10-18",
       "headline": "From singing sensation to anti-hero: Decoding Amaal Mallik's Bigg Boss 19 arcSinger Amaal Mallik entered 'Bigg Boss 19' with a lot of promise. However, instead of emerging as a hero, his stint in the 'Bigg Boss 19' house has made him an anti-hero. Here's why.  "
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/diplomatic-row-as-india-says-3-bangladeshi-smugglers-killed-local-then-killed-2804822-2025-10-17",
+      "headline": "3 Bangladeshis killed in Tripura after attacking locals, Delhi-Dhaka row eruptsDismissing Bangladesh's 'human rights violation' narrative, India stated that the incident occurred three kilometres inside Indian territory, where the illegal immigrants attempted to steal cattle from Bidyabil village. When confronted by locals, they attacked with sharp weapons, prompting the locals to defend themselves."
     },
     {
       "sentiment": "positive",
@@ -271,11 +276,6 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/trump-compliments-zelenskyys-stylish-jacket-at-white-house-says-he-looks-beautiful-glbs-2804946-2025-10-18",
-      "headline": "He looks beautiful: Trump compliments Zelenskyy's stylish jacket at White HousePresident Trump praised Zelenskyy's stylish jacket at the White House before discussing a potential drone-for-missile deal, saying the US won't give up weapons it needs to protect itself."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/opinion/story/elections-hit-by-inflation-democracy-in-danger-2804673-2025-10-17",
       "headline": "Elections Hit by Inflation, Democracy in DangerCorruption is a feature, not a bug of the system of democracy. But reasonable restrictions must apply to prevent it from becoming an out and out kleptocracy. "
     },
@@ -286,13 +286,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/indians-abroad/story/leicester-sikh-community-mourns-joginder-singh-fatal-collision-council-road-sweeper-2804936-2025-10-18",
-      "headline": "Elderly Indian-origin Sikh man dies after road-sweeper vehicle hits him in UKAn elderly British Sikh man died after being struck by a council road-sweeper vehicle near a Leicester gurdwara. Police are investigating the incident, which has caused shock and grief in the local Sikh community."
+      "url": "https://www.indiatoday.in/world/us-news/story/trump-compliments-zelenskyys-stylish-jacket-at-white-house-says-he-looks-beautiful-glbs-2804946-2025-10-18",
+      "headline": "He looks beautiful: Trump compliments Zelenskyy's stylish jacket at White HousePresident Trump praised Zelenskyy's stylish jacket at the White House before discussing a potential drone-for-missile deal, saying the US won't give up weapons it needs to protect itself."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/story/fake-voter-list-with-names-of-samantha-prabhu-tamannaah-bhatia-emerge-case-filed-hyderabad-bypoll-2804926-2025-10-17",
-      "headline": "Fake voter list with names of Samantha Prabhu, Tamannaah Bhatia emerge, case filedA fake voter list featuring the names of some of the top south actors has gone viral. Officials confirmed that the viral entries were fabricated using doctored images."
+      "url": "https://www.indiatoday.in/world/indians-abroad/story/leicester-sikh-community-mourns-joginder-singh-fatal-collision-council-road-sweeper-2804936-2025-10-18",
+      "headline": "Elderly Indian-origin Sikh man dies after road-sweeper vehicle hits him in UKAn elderly British Sikh man died after being struck by a council road-sweeper vehicle near a Leicester gurdwara. Police are investigating the incident, which has caused shock and grief in the local Sikh community."
     },
     {
       "sentiment": "positive",
@@ -301,31 +301,41 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/elections/story/fake-voter-list-with-names-of-samantha-prabhu-tamannaah-bhatia-emerge-case-filed-hyderabad-bypoll-2804926-2025-10-17",
+      "headline": "Fake voter list with names of Samantha Prabhu, Tamannaah Bhatia emerge, case filedA fake voter list featuring the names of some of the top south actors has gone viral. Officials confirmed that the viral entries were fabricated using doctored images."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/south/story/karnataka-fires-government-official-for-attending-rss-event-2804972-2025-10-18",
+      "headline": "Karnataka suspends government official for attending RSS eventA Karnataka government employee was suspended for participating in RSS centenary celebrations in Lingasugur."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/health/story/exclusive-its-a-peoples-win-says-hyderabad-doctor-behind-ors-label-ban-fssai-directive-2804642-2025-10-17",
       "headline": "Exclusive: It's a people's win, says Hyderabad doctor behind ORS label banIndia's food regulator issued a ban on using 'ORS' label for sugary drinks after an eight-year campaign by a Hyderabad paediatrician. Dr. Sivaranjani Santosh calls it a \"people's win.\""
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/mamata-banerjee-claims-her-constituency-being-filled-by-outsiders-draws-bjps-ire-2804941-2025-10-18",
-      "headline": "Mamata Banerjee claims her constituency being filled by outsiders, draws BJP's ireWest Bengal Chief Minister Mamata Banerjee on Friday clarified her remarks on \"outsiders\" in her Bhowanipore assembly constituency, stressing that her comments were about electoral manipulation, not targeting any community or language group."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/south/story/deleted-to-avoid-distraction-achievements-cited-are-factual-karnataka-minister-on-cms-world-record-post-2804886-2025-10-17",
-      "headline": "Deleted to avoid distraction: Minister on Siddaramaiah's 'world record' postThe clarification came after users flagged that the \"London Book of World Records\" company had been dissolved in the UK, prompting a community note on X and criticism from the opposition Janata Dal (Secular)."
+      "url": "https://www.indiatoday.in/movies/bollywood/story/zaira-wasim-announces-marriage-intimate-nikaah-ceremony-photos-2804975-2025-10-18",
+      "headline": "Dangal actor Zaira Wasim gets married, shares post with husbandZaira Wasim, who left Bollywood in 2019 for religious reasons, announced her marriage with images from her nikaah ceremony.The former actor, known for her acclaimed roles in 'Dangal' and 'Secret Superstar', posted her first personal update in years.\r\n"
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/shah-rukh-khan-adorably-calls-salman-khan-family-his-own-at-joy-forum-2025-2804925-2025-10-17",
       "headline": "Shah Rukh Khan adorably calls Salman Khan's family his own at Joy Forum 2025Bollywood's three Khans - Shah Rukh, Salman, and Aamir, came together on the same stage at Joy Forum 2025, entertaining fans with their fun banter and friendly vibes."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/zaheer-iqbal-reacts-to-sonakshi-sinha-jatadhara-trailer-2804917-2025-10-17",
-      "headline": "Little devil: Zaheer Iqbal reacts to Sonakshi Sinha's Jatadhara\u00a0trailerZaheer Iqbal praised his wife Sonakshi Sinha after watching the trailer of her upcoming supernatural thriller 'Jatadhara', calling her a \"little devil.\""
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/aus-vs-ind-can-australia-spoil-virat-kohli-rohit-sharma-comeback-party-2804976-2025-10-18",
+      "headline": "Know your opponent: Can Australia spoil Virat Kohli-Rohit Sharma's comeback party Australia vs India: With Mitchell Starc, Travis Head, and a strong supporting cast, Australia will be eager to spoil Rohit Sharma and Virat Kohli's highly anticipated return in the ODI series starting on October 19."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/suryakumar-yadav-india-t20i-captain-shubman-gill-fear-motivation-2804973-2025-10-18",
+      "headline": "Fear of losing T20I captaincy amid Shubman's rise motivates me: Suryakumar Yadav Suryakumar Yadav admitted that the fear of losing the T20I captaincy-especially with Shubman Gill rising to captaincy in ODIs and Tests and becoming his vice-captain in T20Is-keeps him motivated to perform even better."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/kiran-navgire-shatters-world-record-for-fastest-t20-century-by-in-womens-cricket-2804962-2025-10-18",
@@ -373,13 +383,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/badminton/story/tanvi-sharma-historic-bwf-world-junior-championships-medal-badminton-2804902-2025-10-17",
-      "headline": "Tanvi Sharma first Indian woman since 2008 to bag World Junior Championships medal Tanvi Sharma defeated Japan's Saki Matsumoto 13-15, 15-9, 15-10 in the quarterfinal and secured India's first medal in the BWF World Junior Championships since 2008. \r\n"
+      "url": "https://www.indiatoday.in/sports/cricket/story/inside-rohit-sharma-training-before-australia-tour-abhishek-nayar-2804919-2025-10-18",
+      "headline": "Inside Rohit's transformation: How gruelling sessions prepped him for comeback Former India assistant coach Abhishek Nayar detailed Rohit Sharma's three-month training regimen aimed at preparing him for the upcoming ODI series in Australia. The former captain was spotted training alongside Nayar in Mumbai, participating in a variety of sessions focused on fitness and form."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/wta-250-chennai-open-wildcards-sahaja-yamalapalli-maaya-rajeshwaran-2804881-2025-10-17",
-      "headline": "Maaya Rajeshwaran, Sahaja Yamalapalli get wildcard entry for Chennai Open Sahaja Yamalapalli and Maaya Rajeshwaran have received wildcard entries for the WTA 250 Chennai Open. Yamalapalli recently made the headlines after beating US Open 2017 champion Sloane Stephens."
+      "url": "https://www.indiatoday.in/sports/badminton/story/satwik-chirag-denmark-open-semis-lakshya-sen-exits-2804940-2025-10-17",
+      "headline": "Denmark Open: Satwik-Chirag in semi-finals, Lakshya Sen crashes out India's Satwik-Chirag reached the semi-finals of the Denmark Open with a hard-fought win over Indonesia's Rian Ardianto and Rahmat Hidayat. Lakshya Sen crashed out of the tournament in the quarters after a crushing loss. "
     },
     {
       "sentiment": "positive",
@@ -399,12 +409,12 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/badminton/story/tanvi-sharma-historic-bwf-world-junior-championships-medal-badminton-2804902-2025-10-17",
-      "headline": "Tanvi Sharma first Indian woman since 2008 to bag World Junior Championships medal Tanvi Sharma defeated Japan's Saki Matsumoto 13-15, 15-9, 15-10 in the quarterfinal and secured India's first medal in the BWF World Junior Championships since 2008. \r\n"
+      "headline": "Tanvi Sharma first Indian woman since 2008 to bag World Junior Championships medalTanvi Sharma defeated Japan's Saki Matsumoto 13-15, 15-9, 15-10 in the quarterfinal and secured India's first medal in the BWF World Junior Championships since 2008. \r\n"
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/wta-250-chennai-open-wildcards-sahaja-yamalapalli-maaya-rajeshwaran-2804881-2025-10-17",
-      "headline": "Maaya Rajeshwaran, Sahaja Yamalapalli get wildcard entry for Chennai Open Sahaja Yamalapalli and Maaya Rajeshwaran have received wildcard entries for the WTA 250 Chennai Open. Yamalapalli recently made the headlines after beating US Open 2017 champion Sloane Stephens."
+      "headline": "Maaya Rajeshwaran, Sahaja Yamalapalli get wildcard entry for Chennai OpenSahaja Yamalapalli and Maaya Rajeshwaran have received wildcard entries for the WTA 250 Chennai Open. Yamalapalli recently made the headlines after beating US Open 2017 champion Sloane Stephens."
     },
     {
       "sentiment": "positive",
@@ -438,13 +448,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/sanju-samson-ranji-trophy-fifty-kerala-vs-maharashtra-after-australia-odi-snub-2804845-2025-10-17",
-      "headline": "After Australia ODI series snub, Sanju Samson shines on Ranji return for KeralaAfter being snubbed from the Australia ODI series squad, Sanju Samson made a sparkling return to Ranji Trophy with a valiant fifty against Maharashtra. Samson's score helped Kerala recover from a rough spot against Maharashtra. "
+      "url": "https://www.indiatoday.in/sports/cricket/story/ayush-badoni-five-wicket-haul-delhi-dominate-hyderabad-ranji-trophy-2804871-2025-10-17",
+      "headline": "Ayush Badoni shines with five wickets, but Delhi vs Hyderabad clash heads towards drawAyush Badoni starred for Delhi on Day 3 of the Ranji Trophy clash against Hyderabad, taking a five-wicket haul, keeping Hyderabad under pressure at 400 for seven at the NexGen Cricket Ground in Hyderabad. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/virat-kohli-rohit-sharma-test-retirement-rumours-ajit-agarkar-2804832-2025-10-17",
-      "headline": "Were Virat and Rohit asked to retire from Tests? Agarkar responds to rumoursAjit Agarkar has set the record straight on Rohit Sharma and Virat Kohli's Test retirements, confirming the decision was entirely theirs. Kohli and Rohit retired from Test cricket before India's tour of England earlier in 2025."
+      "url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-odi-series-where-to-watch-rohit-sharma-virat-kohli-comeback-livestreaming-2804870-2025-10-17",
+      "headline": "AUS vs IND, 1st ODI in Perth Live-streaming: When and where to watch RoKo's comebackVirat Kohli and Rohit Sharma will return to international cricket for India in the three-match ODI series against Australia starting October 19 in Perth."
     },
     {
       "sentiment": "positive",
@@ -495,16 +505,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/vishmi-gunaratne-injury-update-no-fracture-womens-world-cup-south-africa-2804783-2025-10-17",
       "headline": "Watch: Sri Lanka batter cries in extreme pain after nasty blow against South AfricaWomen's World Cup 2025, SA vs SL: Sri Lanka batter Vishmi Gunaratne was stretchered off after she was struck on her left leg while trying to complete a single. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-new-odi-jersey-odi-series-vs-australia-fans-mixed-response-apollo-tyres-sponsor-logo-2804786-2025-10-17",
-      "headline": "India's new ODI jersey with new sponsor logo draws mixed reactions from fansIndia unveiled its new ODI jersey featuring the Apollo Tyres logo ahead of the Perth series. Fans praised the design but criticized the logo size and placement, noting the \"INDIA\" tag sits lower than before."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/martin-odegaard-sidelined-weeks-mcl-injury-arsenal-critical-fixture-2804706-2025-10-17",
-      "headline": "Arsenal captain Martin Odegaard out for weeks after fresh injury blowArsenal captain Martin Odegaard faces a lengthy spell on the sidelines with an MCL injury, as confirmed by manager Mikel Arteta. While Odegaard's absence continues, the Gunners receive positive updates on Piero Hincapie and Noni Madueke, who are edging closer to full fitness. "
     }
   ],
   "education": [
