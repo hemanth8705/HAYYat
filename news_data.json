@@ -98,6 +98,11 @@
   ],
   "entertainment": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/sunny-deol-turns-68-bobby-karan-esha-and-ameesha-send-warm-birthday-wishes-2805564-2025-10-19",
+      "headline": "Sunny Deol turns 68: Bobby, Karan, Esha and Ameesha send warm birthday wishes Actor Sunny Deol celebrated his 68th birthday with warm wishes from family and co-stars. He also unveiled the first look of his upcoming film Gabru, set to release in March 2026."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/entertainment/television/story/bigg-boss-19-salman-khan-says-he-is-still-bearing-burden-of-things-he-never-did-2805547-2025-10-19",
       "headline": "Bigg Boss 19: Salman Khan says he is still bearing burden of things he never did Actor Salman Khan advised Amaal Mallik to manage his temper after a heated conflict with Farhana Bhatt. The caution highlights the importance of mental strength in handling public criticism and personal behaviour."
@@ -186,18 +191,18 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/music/story/travis-scott-lights-up-delhi-crowd-with-goosebumps-sicko-mode-and-pure-madness-2805290-2025-10-19",
       "headline": "Travis Scott lights up Delhi crowd with Goosebumps, Sicko Mode and pure madness American rapper Travis Scott set Delhi's Jawaharlal Nehru (JLN) Stadium ablaze with an electrifying concert. The high-energy show sparked excitement among fans, with many trying to breach the security at the mega event."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/ayushmann-sharvari-to-begin-shoot-for-sooraj-barjatya-film-in-november-report-2805262-2025-10-18",
-      "headline": "Ayushmann, Sharvari to begin shoot for Sooraj Barjatya's film in November: Report Ayushmann Khurrana and Sharvari will start shooting a new family entertainer directed by Sooraj Barjatya in November 2025. The collaboration signals another promising project following the success of 'Uunchai' and highlights Mahaveer Jain's expanding production ventures."
     }
   ],
   "general news": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/cities/delhi/story/grap-2-anti-pollution-curbs-imposed-in-delhi-ncr-as-air-quality-worsens-a-day-before-diwali-2805584-2025-10-19",
+      "headline": "GRAP-2 anti-pollution curbs imposed in Delhi-NCR as air quality dips before DiwaliAuthorities have implemented GRAP-2 restrictions across Delhi-NCR, including curbs on construction and industrial emissions, to combat rising pollution. Out of 38 monitoring stations, 12 reported \"very poor\" air quality on Sunday evening. "
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/river-of-26-lakh-diyas-chorus-of-aarti-ayodhyas-diwali-celebration-makes-two-guinness-world-records-2805558-2025-10-19",
-      "headline": "River of diyas, chorus of aarti, 2 world records: Ayodhya's Diwali makes history againAyodhya created two records, the lighting of 26,17,215 diyas along with the record for the most people simultaneously performing diya rotation."
+      "headline": "River of diyas, chorus of aarti, 2 world records: Ayodhya's Diwali makes historyAyodhya created two records, the lighting of 26,17,215 diyas along with the record for the most people simultaneously performing diya rotation."
     },
     {
       "sentiment": "positive",
@@ -211,18 +216,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/akhilesh-yadav-diwali-diyas-vhp-controversy-christmas-comparison-2805337-2025-10-19",
-      "headline": "Akhilesh Yadav suggests not to spend on diyas in Diwali, BJP calls him 'Anthony'Samajwadi Party chief Akhilesh Yadav faced backlash from the VHP after suggesting that the UP government should avoid \"wasting money\" on Diwali diyas, drawing parallels with Christmas celebrations. "
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/diwali-2025-string-lights-ladi-purchase-online-chinese-vs-made-in-india-imports-manufacturing-gap-led-2805335-2025-10-19",
       "headline": "How Diwali lights tell a dark India-China storyIndian Diwali string lights and a Chinese connector reveal the disconnect in India's manufacturing ecosystem. Even good quality Indian products rely on jugaad, exposing the risk to Make in India and Buy Swadeshi campaigns. Will Indians ever be able to switch on Diwali lights and make India, not China, shine bright?"
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/womens-world-cup-ind-vs-eng-live-score-harmanpreet-kaur-smriti-mandhana-2805431-2025-10-19",
-      "headline": "IND vs ENG live: England on top as Harleen departs in 289 chaseWomen's World Cup, India (IND) vs England (ENG) live score: Harleen Deol and Smriti Mandhana have steadied the ship for India after Pratika Rawal lost her wicket to Lauren Bell while chasing 289 at the Holkar Stadium in Indore. "
+      "headline": "IND vs ENG live: Smriti, Harman fifties keep India afloat in chaseWomen's World Cup, India (IND) vs England (ENG) live score: Harmanpreet Kaur and Smriti Mandhana have recovered India's innings after Harleen Deol and Pratika Rawal departed early. England will be looking for more wickets to keep the pressure on India. "
     },
     {
       "sentiment": "positive",
@@ -231,13 +231,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-australia-rohit-sharma-virat-kohli-out-starc-hazlewood-2805527-2025-10-19",
-      "headline": "How Virat Kohli and Rohit Sharma failed against Australia, once againIndia vs Australia: Australia fast bowlers once again had the number of the Indian top-order. Rohit Sharma, Virat Kohli and Shubman Gill failed in India's return to the ODI format."
+      "url": "https://www.indiatoday.in/india/story/akhilesh-yadav-diwali-diyas-vhp-controversy-christmas-comparison-2805337-2025-10-19",
+      "headline": "Akhilesh Yadav suggests not to spend on diyas in Diwali, BJP calls him 'Anthony'Samajwadi Party chief Akhilesh Yadav faced backlash from the VHP after suggesting that the UP government should avoid \"wasting money\" on Diwali diyas, drawing parallels with Christmas celebrations. "
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sunday-special/story/coconut-crisis-making-nariyal-chutney-runny-oil-price-tender-online-wholesale-cost-today-crisis-kerala-bengaluru-goa-2805078-2025-10-19",
       "headline": "How a coconut crisis is changing the taste of IndiaCoconut prices have exploded across India, leaving households and hawkers equally stunned. The coconut crisis is reflected in crispy banana chips to everyday curries and chutneys. What's causing this steep surge, and how long will the naryial crunch last?"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-australia-rohit-sharma-virat-kohli-out-starc-hazlewood-2805527-2025-10-19",
+      "headline": "How Virat Kohli and Rohit Sharma failed against Australia, once againIndia vs Australia: Australia fast bowlers once again had the number of the Indian top-order. Rohit Sharma, Virat Kohli and Shubman Gill failed in India's return to the ODI format."
     },
     {
       "sentiment": "negative",
@@ -251,23 +256,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/aus-vs-ind-1st-odi-score-rohit-sharma-virat-kohli-flop-rain-perth-2805520-2025-10-19",
-      "headline": "Australia spoil Gill's ODI captaincy debut as Rohit, Kohli flop on comebackAustralia vs India, 1st ODI: Rohit Sharma and Virat Kohli looked rusty on their return to international cricket, while the rest of India's batting line-up appeared undercooked as the pace and bounce in Perth proved too hot to handle. Australia cruised to a seven-wicket win, chasing 131 with ease in a rain-affected match on Sunday to take a 1\u20130 lead in the three-match series."
+      "url": "https://www.indiatoday.in/movies/bollywood/story/30-years-after-dilwale-dulhania-le-jayenge-how-patriarchal-fathers-still-rule-bollywood-2804823-2025-10-19",
+      "headline": "30 years after DDLJ: How patriarchal fathers still rule BollywoodEven 30 years after 'Dilwale Dulhania Le Jayenge', Bollywood continues to show fathers who control their daughters' marriage choices, reflecting persistent patriarchal norms. Later films like 'Kabir Singh' and '2 States' highlight how toxic fatherhood still influences women's autonomy in love and marriage on screen."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/30-years-after-dilwale-dulhania-le-jayenge-how-patriarchal-fathers-still-rule-bollywood-2804823-2025-10-19",
-      "headline": "30 years after DDLJ: How patriarchal fathers still rule BollywoodEven 30 years after 'Dilwale Dulhania Le Jayenge', Bollywood continues to show fathers who control their daughters' marriage choices, reflecting persistent patriarchal norms. Later films like 'Kabir Singh' and '2 States' highlight how toxic fatherhood still influences women's autonomy in love and marriage on screen."
+      "url": "https://www.indiatoday.in/sports/cricket/story/aus-vs-ind-1st-odi-score-rohit-sharma-virat-kohli-flop-rain-perth-2805520-2025-10-19",
+      "headline": "Australia spoil Gill's ODI captaincy debut as Rohit, Kohli flop on comebackAustralia vs India, 1st ODI: Rohit Sharma and Virat Kohli looked rusty on their return to international cricket, while the rest of India's batting line-up appeared undercooked as the pace and bounce in Perth proved too hot to handle. Australia cruised to a seven-wicket win, chasing 131 with ease in a rain-affected match on Sunday to take a 1\u20130 lead in the three-match series."
     },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/world/story/israel-strikes-gazas-rafah-amid-fragile-truce-accuses-hamas-of-violating-deal-2805540-2025-10-19",
       "headline": "Israel strikes Gaza's Rafah amid fragile truce, accuses Hamas of violating dealThe Israeli military said air force jets struck an area in Rafah after \"terrorists\" opened fire on troops. It also said that Hamas's actions \"blatantly violated\" the US-brokered ceasefire agreement."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-virat-kohli-rohit-sharma-comeback-adelaide-odi-not-surprising-sunil-gavaskar-2805555-2025-10-19",
-      "headline": "Virat Kohli and Rohit Sharma's comeback in Adelaide ODI won't surprise me: GavaskarSunil Gavaskar believes Virat Kohli and Rohit Sharma can recover after their Perth ODI flop. Despite challenging conditions, the experience of Virat Kohli and Rohit Sharma could make the Adelaide ODI a thrilling comeback."
     },
     {
       "sentiment": "negative",
@@ -285,6 +285,21 @@
       "headline": "Question Time: Weekly News QuizThink you read the headlines this week? Let's test that!"
     },
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-virat-kohli-rohit-sharma-comeback-adelaide-odi-not-surprising-sunil-gavaskar-2805555-2025-10-19",
+      "headline": "Virat Kohli and Rohit Sharma's comeback in Adelaide ODI won't surprise me: GavaskarSunil Gavaskar believes Virat Kohli and Rohit Sharma can recover after their Perth ODI flop. Despite challenging conditions, the experience of Virat Kohli and Rohit Sharma could make the Adelaide ODI a thrilling comeback."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/controversy-sadhvi-pragya-singh-thakur-remarks-daughters-marrying-outside-hindu-faith-2805532-2025-10-19",
+      "headline": "Break legs of disobedient daughters who visit non-Hindus: Pragya Thakur's shockerFormer Bhopal MP Pragya Thakur urged parents to physically punish their daughters, claiming it was for their own better future. She also called upon parents to be \"more vigilant\" towards \"girls who do not follow values\" and \"are ready to run away from home.\""
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/gk-current-affairs/story/steve-jobs-his-daughter-lisa-and-the-apple-computer-named-after-her-2805432-2025-10-19",
+      "headline": "Steve Jobs named a computer after his daughter, but denied she existedIn 1978, Steve Jobs denied that he was the father of his newborn daughter, Lisa, even as Apple secretly developed a $50 million computer with the same name. Decades later, Lisa Brennan-Jobs's memoir Small Fry revealed how her father's denial, cruelty, and late confession became Silicon Valley's most human story."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/world/story/uk-prince-andrew-asked-police-to-find-dirt-on-sexual-abuse-accuser-claims-report-2805515-2025-10-19",
       "headline": "Prince Andrew 'asked police to find dirt' on sexual abuse accuser, report claimsThe revelation comes days after the British royal relinquished his Duke of York title amid renewed scrutiny over his links to the late US financier Jeffrey Epstein. London's Metropolitan Police said it was \"actively looking into\" the allegations."
@@ -296,36 +311,36 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/gk-current-affairs/story/steve-jobs-his-daughter-lisa-and-the-apple-computer-named-after-her-2805432-2025-10-19",
-      "headline": "Steve Jobs named a computer after his daughter, but denied she existedIn 1978, Steve Jobs denied that he was the father of his newborn daughter, Lisa, even as Apple secretly developed a $50 million computer with the same name. Decades later, Lisa Brennan-Jobs's memoir Small Fry revealed how her father's denial, cruelty, and late confession became Silicon Valley's most human story."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/health/story/crackers-coughs-and-chaos-doctor-flags-diwali-triggers-for-asthma-kids-2805092-2025-10-19",
       "headline": "Crackers, coughs, and chaos: Doctor flags Diwali triggers for asthma kidsAs Diwali fills the air with lights and fireworks, paediatric pulmonologist warns that smoke, dust, and festive foods can trigger allergies, asthma, and eczema in children and shares how parents can keep celebrations safe and joyful."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-australia-mitchell-starc-fastest-ball-rohit-sharma-2805393-2025-10-19",
-      "headline": "Did Mitchell Starc just bowl the fastest ball in ODI history to Rohit Sharma?India vs Australia: Australia fast bowler Mitchell Starc bowled a brilliant morning spell against the India batters. One of his deliveries was clocked at 176.5 kmph."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/trump-posts-ai-video-of-himself-in-king-trump-jet-bombing-protesters-with-liquid-2805370-2025-10-19",
-      "headline": "Trump posts AI video of himself in KING TRUMP jet, bombing protesters with liquidThe clip, shared on both his personal and official social media accounts, shows Trump flying a fighter jet labelled \"KING TRUMP\" above what appears to be Times Square, dumping brown liquid on demonstrators as Kenny Loggins' 'Danger Zone'\u00a0blares, a clear nod to the Top Gun films."
+      "url": "https://www.indiatoday.in/movies/celebrities/story/sunny-deol-turns-68-bobby-karan-esha-and-ameesha-send-warm-birthday-wishes-2805564-2025-10-19",
+      "headline": "Sunny Deol turns 68: Bobby, Karan, Esha and Ameesha send warm birthday wishesActor Sunny Deol celebrated his 68th birthday with warm wishes from family and co-stars. He also unveiled the first look of his upcoming film Gabru, set to release in March 2026."
     },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/entertainment/television/story/bigg-boss-19-salman-khan-says-he-is-still-bearing-burden-of-things-he-never-did-2805547-2025-10-19",
       "headline": "Bigg Boss 19: Salman Khan says he is still bearing burden of things he never didActor Salman Khan advised Amaal Mallik to manage his temper after a heated conflict with Farhana Bhatt. The caution highlights the importance of mental strength in handling public criticism and personal behaviour."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/squid-game-lee-byung-hun-poses-with-srk-aamir-fans-cant-stay-calm-2805530-2025-10-19",
-      "headline": "Squid Game's Lee Byung-hun poses with SRK, Aamir; fans can't stay calmShah Rukh Khan posed with 'Squid Game' star Lee Byung Hun and other global celebrities. Fans reacted to Shah Rukh and Aamir Khan's meeting with the South Korean actor."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/virat-kohli-dont-argue-with-yourself-australia-vs-india-perth-odi-flop-matthew-hayden-2805583-2025-10-19",
+      "headline": "Virat Kohli, don't argue with yourself after Perth ODI flopshow: Matthew Hayden AUS vs IND: Matthew Hayden urged Virat Kohli to trust his technique after the Perth ODI setback. He stressed that one poor innings shouldn't undermine Kohli's confidence as India head into the Adelaide ODI against Australia."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/video/shubman-gill-is-like-rohit-sharma-both-are-bowlers-captains-arshdeep-singh-2805580-2025-10-19",
+      "headline": "Shubman Gill is like Rohit Sharma, both are bowler's captains: Arshdeep Singh Arshdeep Singh reflected on how both Shubman Gill and Rohit Sharma are as captains, suggesting that both are leaders who give total freedom to their bowlers to execute their plans.\u00a0"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/aus-vs-ind-1st-odi-virat-kohli-will-perform-series-arshdeep-singh-2805574-2025-10-19",
+      "headline": "Virat Kohli will score runs vs Australia, form is just a word to him: Arshdeep Singh Arshdeep Singh expresses strong belief in Virat Kohli's ability to perform in the ongoing ODI series against Australia. Despite Kohli's early dismissal, the team expects him to rebound and lead India's batting charge."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-virat-kohli-rohit-sharma-comeback-adelaide-odi-not-surprising-sunil-gavaskar-2805555-2025-10-19",
@@ -368,18 +383,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/womens-world-cup-ind-vs-eng-live-score-harmanpreet-kaur-smriti-mandhana-2805431-2025-10-19",
-      "headline": "IND vs ENG live: England on top as Harleen departs in 289 chase Women's World Cup, India (IND) vs England (ENG) live score: Harleen Deol and Smriti Mandhana have steadied the ship for India after Pratika Rawal lost her wicket to Lauren Bell while chasing 289 at the Holkar Stadium in Indore. "
+      "url": "https://www.indiatoday.in/sports/cricket/story/aus-vs-ind-1st-odi-perth-harshit-rana-slammed-poor-bowling-gautam-gambhir-2805534-2025-10-19",
+      "headline": "AUS vs IND: Harshit Rana faces the wrath of social media after poor show in Perth Harshit Rana faced heavy criticism for his bowling in the ODI opener against Australia in Perth. His loose deliveries and lack of wickets raised doubts about his place in the Indian team."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-fitness-training-full-details-vadapav-reps-abhishek-nayar-2805396-2025-10-19",
-      "headline": "No vadapav, 800 reps daily: Rohit trained like a bodybuilder for ODI comeback After months away from international cricket, Rohit Sharma returned leaner, lighter and hungrier. Under the watchful eye of Abhishek Nayar, the former India captain endured a punishing three-hour daily routine, swapping his beloved vadapav for 800-rep workouts in a bid to extend his career to the 2027 World Cup."
+      "url": "https://www.indiatoday.in/sports/cricket/story/aus-vs-ind-1st-odi-score-rohit-sharma-virat-kohli-flop-rain-perth-2805520-2025-10-19",
+      "headline": "Australia spoil Gill's ODI captaincy debut as Rohit, Kohli flop on comeback Australia vs India, 1st ODI: Rohit Sharma and Virat Kohli looked rusty on their return to international cricket, while the rest of India's batting line-up appeared undercooked as the pace and bounce in Perth proved too hot to handle. Australia cruised to a seven-wicket win, chasing 131 with ease in a rain-affected match on Sunday to take a 1\u20130 lead in the three-match series."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-virat-kohli-told-to-take-ms-dhoni-route-after-flopping-on-odi-return-2805394-2025-10-19",
-      "headline": "Rohit, Kohli told to take MS Dhoni route after flopping on ODI return Rohit Sharma and Virat Kohli have been advised to draw inspiration from MS Dhoni and play domestic cricket for better match practice after failing on their ODI return against Australia. "
+      "url": "https://www.indiatoday.in/sports/cricket/story/aus-vs-ind-1st-odi-rain-delay-dls-confusion-fans-outraged-india-total-reduced-5-runs-2805514-2025-10-19",
+      "headline": "Rain, chaos and DLS confusion: Fans outraged as India's total slashed by 5 runs Fans were left outraged by how India's first-innings total was slashed down by five runs despite the innings being delayed due to rain on four occasions with many questioning whether the DLS method is legitimate or not."
     },
     {
       "sentiment": "positive",
@@ -394,17 +409,17 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/womens-world-cup-ind-vs-eng-live-score-harmanpreet-kaur-smriti-mandhana-2805431-2025-10-19",
-      "headline": "IND vs ENG live: England on top as Harleen departs in 289 chase Women's World Cup, India (IND) vs England (ENG) live score: Harleen Deol and Smriti Mandhana have steadied the ship for India after Pratika Rawal lost her wicket to Lauren Bell while chasing 289 at the Holkar Stadium in Indore. "
+      "headline": "IND vs ENG live: Smriti, Harman fifties keep India afloat in chaseWomen's World Cup, India (IND) vs England (ENG) live score: Harmanpreet Kaur and Smriti Mandhana have recovered India's innings after Harleen Deol and Pratika Rawal departed early. England will be looking for more wickets to keep the pressure on India. "
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-fitness-training-full-details-vadapav-reps-abhishek-nayar-2805396-2025-10-19",
-      "headline": "No vadapav, 800 reps daily: Rohit trained like a bodybuilder for ODI comeback After months away from international cricket, Rohit Sharma returned leaner, lighter and hungrier. Under the watchful eye of Abhishek Nayar, the former India captain endured a punishing three-hour daily routine, swapping his beloved vadapav for 800-rep workouts in a bid to extend his career to the 2027 World Cup."
+      "headline": "No vadapav, 800 reps daily: Rohit trained like a bodybuilder for ODI comebackAfter months away from international cricket, Rohit Sharma returned leaner, lighter and hungrier. Under the watchful eye of Abhishek Nayar, the former India captain endured a punishing three-hour daily routine, swapping his beloved vadapav for 800-rep workouts in a bid to extend his career to the 2027 World Cup."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-virat-kohli-told-to-take-ms-dhoni-route-after-flopping-on-odi-return-2805394-2025-10-19",
-      "headline": "Rohit, Kohli told to take MS Dhoni route after flopping on ODI return Rohit Sharma and Virat Kohli have been advised to draw inspiration from MS Dhoni and play domestic cricket for better match practice after failing on their ODI return against Australia. "
+      "headline": "Rohit, Kohli told to take MS Dhoni route after flopping on ODI returnRohit Sharma and Virat Kohli have been advised to draw inspiration from MS Dhoni and play domestic cricket for better match practice after failing on their ODI return against Australia. "
     },
     {
       "sentiment": "positive",
@@ -428,18 +443,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/aus-vs-ind-1st-odi-rohit-sharma-virat-kohli-nitish-reddy-debut-playing-xi-2805334-2025-10-19",
-      "headline": "Rohit Sharma, Virat Kohli return in Perth, Nitish Reddy makes ODI debutIndian stalwarts Rohit Sharma and Virat Kohli made their return to international cricket at Perth. The Indian team also handed an ODI debut to Nitish Kumar Reddy."
+      "url": "https://www.indiatoday.in/sports/cricket/story/rashid-khan-removes-lahore-qalandars-from-bio-after-pakistani-airstrikes-kill-afghan-cricketers-2805368-2025-10-19",
+      "headline": "Rashid Khan removes PSL team Lahore Qalandars from X profile after Pak airstrikesAfghanistan T20I skipper Rashid Khan has taken Lahore Qalandars out of his Twitter bio, objecting to Pakistani airstrikes that killed Afghan civilians, including three young cricketers. Afghanistan have also pulled out from the tri-series involving Pakistan."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-women-face-england-spin-challenge-preview-world-cup-2805283-2025-10-19",
-      "headline": "Struggling India look for redemption against spin-heavy EnglandWomen's World Cup, IND vs ENG: India aim to bounce back from consecutive defeats, while England look to secure a semi-final berth when they face each other on Sunday in Indore."
+      "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-aus-1st-odi-rohit-sharma-8-virat-kohli-0-perth-2805355-2025-10-19",
+      "headline": "Sunday ruined: Virat Kohli out for 0, Rohit Sharma flops on ODI comebacks in PerthIndia tour of Australia: The much-anticipated ODI comebacks of Virat Kohli and Rohit Sharma didn't go as planned. Former captain Rohit managed just 8 runs, while Kohli fell for a duck after Australia opted to bowl in the series opener in Perth on Sunday, October 19."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/jannik-sinner-beats-carlos-alcaraz-win-six-kings-slam-6-million-prize-2805313-2025-10-19",
-      "headline": "Six Kings slam: Jannik Sinner thrashes Carlos Alcaraz to win 2nd successive titleJannik Sinner defeated Carlos Alcaraz 6-2, 6-4 in the Six Kings Slam final, reversing his US Open defeat and earning a record-setting $6 million. Sinner's enhanced serve made the difference, while both players showed mutual respect throughout a match streamed globally."
+      "url": "https://www.indiatoday.in/sports/cricket/story/virat-kohli-london-break-india-vs-australia-1st-odi-2805349-2025-10-19",
+      "headline": "Why Virat Kohli opted to spend time in London after Test retirementLegendary Virat Kohli opened up on his six-month-long break in London where he stayed away from the eyes of the media. Kohli said that he was enjoying this new phase of life."
     },
     {
       "sentiment": "positive",
@@ -480,21 +495,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/mohun-bagan-clinches-21st-ifa-shield-title-penalty-win-east-bengal-2805271-2025-10-18",
       "headline": "Mohun Bagan beat East Bengal in shootout to claim first IFA Shield title in 22 yearsMohun Bagan Super Giant overcame arch-rivals East Bengal 5-4 on penalties after a 1-1 draw in the 125th IFA Shield final at Salt Lake Stadium, bringing home their 21st title and ending a 22-year wait."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/cricket/story/zimbabwe-replaces-afghanistan-in-pakistan-tri-series-t20i-november-2025-2805258-2025-10-18",
-      "headline": "After Afghanistan pull out, PCB name Zimbabwe as replacement for T20I tri-seriesZimbabwe will replace Afghanistan in the upcoming T20I tri-series hosted by Pakistan. Afghanistan's withdrawal follows tragic airstrikes in Afghanistan that killed three young cricketers, sparking widespread condemnation."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/sophie-devine-frustrated-rain-abandons-new-zealand-vs-pakistan-womens-world-cup-2025-2805259-2025-10-18",
-      "headline": "New Zealand captain Sophie Devine left fuming as Pakistan clash in Colombo called offNew Zealand captain Sophie Devine admitted her frustration after seeing the clash against Pakistan in Colombo was called off due to rain on Saturday, October 18. New Zealand semi-final chances took a hit with the game being called off on Saturday. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/pakistan-new-zealand-womens-world-cup-match-abandoned-rain-colombo-south-africa-2805255-2025-10-18",
-      "headline": "South Africa qualify for semis after rain washes off Pakistan vs New Zealand clashWomen's World Cup: With the washout game between Pakistan and New Zealand at the R Premadasa Stadium in Colombo, South Africa became the second team after Australia to qualify for the semis."
     }
   ],
   "education": [
