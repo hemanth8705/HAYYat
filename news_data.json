@@ -2,6 +2,11 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/market/story/reliance-shares-jump-q2-results-diwali-portfolio-buy-sell-explained-2805722-2025-10-20",
+      "headline": "Reliance shares jump 3% after Q2 results. Should it be in your Diwali portfolio?Around 10:20 am, shares of Reliance Industries rose 3.22% to Rs 1,462.60 on the Bombay Stock Exchange (BSE). The stock's sharp upmove added to the broader market rally on Dalal Street as sentiment turned upbeat following a string of solid earnings reports."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/market/story/sensex-surges-over-650-points-nifty-above-25900-reliance-banking-stocks-rally-2805697-2025-10-20",
       "headline": "Diwali cheer on Dalal Street as Sensex jumps nearly 700 pointsAt around 9:23 am, the S&P BSE Sensex jumped 673.90 points to 84,626.09, while the NSE Nifty50 surged 202.50 points to 25,912.35. Broader market indices also witnessed sharp gains, and volatility dropped, indicating strong investor confidence."
     },
@@ -89,14 +94,24 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/personal-finance/story/gold-silver-price-today-record-high-dhanteras-shopping-should-you-buy-bullion-expert-view-2804469-2025-10-17",
       "headline": "Big bullion days: Why are gold and silver reaching record highs every day?In India, the timing for the gold and silver rally could not have been more interesting, as the surge comes just ahead of Dhanteras, when buying gold is considered auspicious."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/gold-rs-130000-silver-doubles-safe-investment-festive-season-dhanteras-diwali-2025-2804452-2025-10-17",
-      "headline": "Gold at Rs 1.3 lakh, silver doubles: Is it safe to invest this Diwali?With prices soaring to record highs, the question everyone is asking is whether this Diwali is the right time to buy or if investors are chasing a fleeting festive rally."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/parvathy-thiruvothu-wraps-filming-malayalam-feature-i-nobody-prithviraj-sukumaran-2805712-2025-10-20",
+      "headline": "Actor Parvathy Thiruvothu wraps i Nobody shoot, shares heartfelt note Actor Parvathy Thiruvothu wrapped up the shoot for the Malayalam film, 'i, Nobody'. The actor reflected on her experience with co-star Prithviraj Sukumaran and the crew."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/ibrahim-ali-khan-admits-nadaaniyan-was-a-bad-film-debuted-with-ho-jayega-attitude-reflects-on-trolling-and-future-projects-2805710-2025-10-20",
+      "headline": "Ibrahim Ali Khan admits Nadaaniyan was a bad film: Debuted with ho jayega attitude Ibrahim Ali Khan opened up about the backlash to his Netflix debut 'Nadaaniyan', admitting the film was \"really bad\" and that he entered Bollywood with a casual \"ho jaayega\" attitude. The actor reflected on the trolling, the emotional toll it took, and how the failure reshaped his approach to acting."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/dude-box-office-collection-rs-30-crore-nett-leads-diwali-tamil-films-2805705-2025-10-20",
+      "headline": "Dude vs Bison box office: Pradeep's film hits Rs 30 crore, Dhruv film at Rs 10 crore Diwali witnessed a box office clash among three Tamil films, with 'Dude' leading collections. The holiday period is expected to boost ticket sales further, setting up a record opening weekend."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/television/story/bigg-boss-tamil-9-apsara-evicted-vijay-sethupathi-addresses-fights-captaincy-bias-2805693-2025-10-20",
@@ -176,21 +191,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/parineeti-chopra-admitted-to-hospital-for-delivery-2805422-2025-10-19",
       "headline": "Parineeti Chopra admitted to hospital for delivery of her first child: Sources Actor Parineeti Chopra was admitted to the hospital for the delivery of her first child with husband Raghav Chadha. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/soha-ali-khan-pre-diwali-family-festivities-fitness-cleaning-routine-2805406-2025-10-19",
-      "headline": "Kareena, Karisma and Saif at Soha Ali Khan's pre-Diwali celebrations. See pics Soha Ali Khan offered a look into her pre-Diwali festivities with family members, including Saif Ali Khan and Kareena Kapoor Khan. The actor demonstrated a unique approach to Diwali cleaning through her workout routine in the gym. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/smriti-mandhana-to-become-indores-daughter-in-law-palash-muchhal-confirms-wedding-plans-2805400-2025-10-19",
-      "headline": "Palash Muchhal confirms wedding with cricketer Smriti Mandhana Filmmaker and musician Palash Muchhal confirms Smriti Mandhana as his bride-to-be, set to become Indore's daughter-in-law. The couple's relationship has been the subject of speculation for a while, and this announcement marks the first official confirmation.\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/music/story/punjabi-artists-exploitation-bollywood-ap-dhillon-fair-collaboration-solidarity-2805389-2025-10-19",
-      "headline": "AP Dhillon shares why he stays away from Bollywood's music industry Singer AP Dhillon has criticised current industry practices, claiming Bollywood exploits Punjabi artists for profit. He stresses the importance of solidarity among senior Punjabi artists to prevent exploitation of younger talent.\r\n"
     }
   ],
   "general news": [
@@ -210,19 +210,24 @@
       "headline": "Harmony, happiness, prosperity and swadeshi push: PM's Diwali message to nationFrom Prime Minister Narendra Modi's call to embrace 'Swadeshi' to record-breaking celebrations in Ayodhya, political leaders marked Diwali with messages of harmony, prosperity, and national pride."
     },
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/cities/chennai/story/tamil-nadu-chennai-rain-mk-stalin-diwali-monsoon-bay-of-bengal-imd-2805726-2025-10-20",
+      "headline": "Heavy rain hits Chennai as Diwali celebrations begin, MK Stalin reviews readinessHeavy rain lashed several parts of Tamil Nadu's Chennai on Monday. IMD forecast widespread rainfall across Tamil Nadu and warned of a low-pressure formation over the Bay of Bengal around October 21."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/cricket/story/indian-cricket-team-hatre-twitter-kitchen-troll-smriti-mandhana-harmanpreet-2805698-2025-10-20",
-      "headline": "Is the criticism of Indian women's cricket team layered with misogyny?The Indian women's cricket team suffered their third loss in a row in the Women's World Cup. A wave of criticism hit the team, which was majorly sexist in nature."
+      "headline": "Is the criticism of Indian women's cricket team layered with misogyny?Women's ODI World Cup: The Indian women's cricket team suffered their third loss in a row in the Women's World Cup. A wave of criticism hit the team, which was majorly sexist in nature."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/river-of-26-lakh-diyas-chorus-of-aarti-ayodhyas-diwali-celebration-makes-two-guinness-world-records-2805558-2025-10-19",
-      "headline": "Ayodhya glows in divine splendour, over 26 lakh lamps light up Deepotsav 2025Ayodhya achieved two Guinness World Records: one for the record number of lamps and another for 2,128 priests and devotees performing Maa Saryu Aarti simultaneously, verified through drone counts and official certification."
+      "url": "https://www.indiatoday.in/business/market/story/sensex-surges-over-650-points-nifty-above-25900-reliance-banking-stocks-rally-2805697-2025-10-20",
+      "headline": "Diwali cheer on Dalal Street as Sensex jumps nearly 700 pointsAt around 9:23 am, the S&P BSE Sensex jumped 673.90 points to 84,626.09, while the NSE Nifty50 surged 202.50 points to 25,912.35. Broader market indices also witnessed sharp gains, and volatility dropped, indicating strong investor confidence."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/cargo-plane-crash-hong-kong-airport-two-killed-runway-accident-glbs-2805670-2025-10-20",
-      "headline": "Two killed after Turkish cargo plane skids off Hong Kong runway, plunges into seaA Turkish cargo plane skidded off the runway and plunged into the sea at Hong Kong International Airport early Monday killing two people."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/cities/mumbai/story/cuff-parade-fire-minor-killed-injured-mumbai-maharashtra-fire-tenders-2805731-2025-10-20",
+      "headline": "15-year-old boy killed, three injured after fire breaks out at chawl in Mumbai's Cuffe Parade area15-year-old boy killed, three injured after fire breaks out at chawl in Mumbai's Cuffe Parade area"
     },
     {
       "sentiment": "negative",
@@ -231,28 +236,23 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/market/story/sensex-surges-over-650-points-nifty-above-25900-reliance-banking-stocks-rally-2805697-2025-10-20",
-      "headline": "Diwali cheer on Dalal Street as Sensex jumps nearly 700 pointsAt around 9:23 am, the S&P BSE Sensex jumped 673.90 points to 84,626.09, while the NSE Nifty50 surged 202.50 points to 25,912.35. Broader market indices also witnessed sharp gains, and volatility dropped, indicating strong investor confidence."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/silver-price-falls-after-dhanteras-diwali-but-is-precious-metal-still-a-good-bet-explained-2805622-2025-10-20",
       "headline": "Silver prices fall after Diwali buying. Is it still a good bet?Silver has surged nearly 98% in a year, breaching Rs 2 lakh/kg in parts of India before a post-Diwali dip. But is investing in the precious metal still a good bet? With industrial demand booming and supply tightening, reports suggest silver's shine might just be getting started."
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/gk-current-affairs/story/steve-jobs-his-daughter-lisa-and-the-apple-computer-named-after-her-2805432-2025-10-19",
+      "headline": "Steve Jobs named a computer after his daughter, but denied she existedIn 1978, Steve Jobs denied that he was the father of his newborn daughter, Lisa, even as Apple secretly developed a $50 million computer with the same name. Decades later, Lisa Brennan-Jobs's memoir Small Fry revealed how her father's denial, cruelty, and late confession became Silicon Valley's most human story."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/cargo-plane-crash-hong-kong-airport-two-killed-runway-accident-glbs-2805670-2025-10-20",
+      "headline": "Two killed after Turkish cargo plane skids off Hong Kong runway, plunges into seaA Turkish cargo plane skidded off the runway and plunged into the sea at Hong Kong International Airport early Monday killing two people."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/yogi-adityanath-attacks-on-india-bloc-from-ayodhya-diwali-they-fired-on-ram-devotees-we-light-lamps-2805544-2025-10-19",
       "headline": "They fired on devotees, we light lamps: Yogi Adityanath jabs Opposition in AyodhyaTaking a dig at the Samajwadi Party and the INDIA bloc at large, Adityanath said those who had \"fired bullets\" at karsevaks during the Ram Mandir movement never attended the temple's grand opening in 2024."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/aus-vs-ind-1st-odi-virat-kohli-rohit-sharma-fail-indias-future-plans-gambhir-2805699-2025-10-20",
-      "headline": "Not on trial, but on a tightrope: Should India worry about rusty Rohit and Virat?Rohit Sharma and Virat Kohli face a rare test: proving they belong while adapting to changing conditions and limited opportunities. One poor outing won't define them. If they trust their instincts, stay match-ready, and let experience guide them, India's legends could still shine en route to 2027."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/tej-pratap-yadav-violates-model-code-of-conduct-for-his-nomination-ride-on-police-vehicle-2805689-2025-10-20",
-      "headline": "Nomination ride on police vehicle: Case against Tej Pratap for poll code violationAccording to a statement issued by the district police, the Circle Officer of Mahua lodged a complaint with the police station concerned after a video, which went viral on social media, showed Yadav using a SUV, bearing a police logo and a beacon light, during a procession for submitting his documents on October 16."
     },
     {
       "sentiment": "positive",
@@ -266,18 +266,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/england-edge-india-four-runs-womens-world-cup-indore-report-2805625-2025-10-19",
-      "headline": "India implode in Indore, lose three in a row as England reach semisWomen's World Cup, IND vs ENG: India slipped to their third successive defeat in the tournament after losing to England by just four runs on Sunday at the Holkar Stadium in Indore. Heather Knight starred for England, scoring a century in her 300th international appearance."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/kuldeep-yadav-dropped-india-odi-australia-ashwin-questions-selection-2805685-2025-10-20",
-      "headline": "Ashwin slams selection: Where will Kuldeep play, how many all-rounders needed?Former spinner Ravichandran Ashwin criticised India for dropping Kuldeep Yadav in the first ODI against Australia. He highlighted the importance of playing the best bowlers rather than prioritising batting depth."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/aus-vs-ind-kuldeep-yadav-indias-wicket-taking-answer-for-adelaide-odi-2805675-2025-10-20",
-      "headline": "AUS vs IND: Kuldeep Yadav, India's obvious wicket-taking answer for Adelaide ODIAUS vs IND: After India's 1st ODI loss in Perth exposed a lack of wicket-taking options, the focus turns to Kuldeep Yadav. With 31 wickets against Australia in 23 matches, his inclusion in the 2nd ODI could provide the attacking edge India desperately needs."
+      "url": "https://www.indiatoday.in/sports/cricket/story/smriti-mandhana-womens-world-cup-india-vs-england-press-conference-2805661-2025-10-20",
+      "headline": "Smriti Mandhana takes blame for India's defeat to England: I should have been smarterWomen's World Cup: Smriti Mandhana said that she should have been smarter with her shot selection after India lost to England by four wickets. Mandhana scored 88, but India failed to chase down 289.\u00a0"
     },
     {
       "sentiment": "positive",
@@ -286,13 +276,23 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/controversy-sadhvi-pragya-singh-thakur-remarks-daughters-marrying-outside-hindu-faith-2805532-2025-10-19",
-      "headline": "Break legs of disobedient daughters who visit non-Hindus: Pragya Thakur's shockerFormer Bhopal MP Pragya Thakur urged parents to physically punish their daughters, claiming it was for their own better future. She also called upon parents to be \"more vigilant\" towards \"girls who do not follow values\" and \"are ready to run away from home.\""
+      "url": "https://www.indiatoday.in/india/story/river-of-26-lakh-diyas-chorus-of-aarti-ayodhyas-diwali-celebration-makes-two-guinness-world-records-2805558-2025-10-19",
+      "headline": "Ayodhya glows in divine splendour, over 26 lakh lamps light up Deepotsav 2025Ayodhya achieved two Guinness World Records: one for the record number of lamps and another for 2,128 priests and devotees performing Maa Saryu Aarti simultaneously, verified through drone counts and official certification."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/israel-halts-aid-gaza-until-further-notice-renewed-fighting-tests-ceasefire-glbs-2805656-2025-10-19",
-      "headline": "Israel to resume ceasefire, aid after retaliatory strikes on Hamas kill 26 in GazaThe flare-up came the first major test of the ceasefire since it came into effect earlier this month. On Sunday, Israel's military said its troops came under fire from Hamas fighters in southern Gaza, resulting in the deaths of two Israeli soldiers."
+      "url": "https://www.indiatoday.in/sports/cricket/story/aus-vs-ind-1st-odi-virat-kohli-rohit-sharma-fail-indias-future-plans-gambhir-2805699-2025-10-20",
+      "headline": "Not on trial, but on a tightrope: Should India worry about rusty Rohit and Virat?Rohit Sharma and Virat Kohli face a rare test: proving they belong while adapting to changing conditions and limited opportunities. One poor outing won't define them. If they trust their instincts, stay match-ready, and let experience guide them, India's legends could still shine en route to 2027."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/tej-pratap-yadav-violates-model-code-of-conduct-for-his-nomination-ride-on-police-vehicle-2805689-2025-10-20",
+      "headline": "Nomination ride on police vehicle: Case against Tej Pratap for poll code violationAccording to a statement issued by the district police, the Circle Officer of Mahua lodged a complaint with the police station concerned after a video, which went viral on social media, showed Yadav using a SUV, bearing a police logo and a beacon light, during a procession for submitting his documents on October 16."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/23-indian-crew-members-rescued-cameroon-flagged-lpg-tanker-after-explosion-off-yemen-coast-2805702-2025-10-20",
+      "headline": "23 Indian crew members rescued from LPG tanker after blast off Yemen coastThe incident took place on October 18, when the vessel heading to Djibouti, Cameroon, from Oman was sailing near the coast of Aden. As a result of the explosion, about 15 per cent of the ship was on fire while remaining adrift."
     },
     {
       "sentiment": "positive",
@@ -301,35 +301,40 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/smriti-mandhana-womens-world-cup-india-vs-england-press-conference-2805661-2025-10-20",
-      "headline": "Smriti Mandhana takes blame for India's defeat to England: I should have been smarterWomen's World Cup: Smriti Mandhana said that she should have been smarter with her shot selection after India lost to England by four wickets. Mandhana scored 88, but India failed to chase down 289.\u00a0"
+      "url": "https://www.indiatoday.in/sports/cricket/story/kuldeep-yadav-dropped-india-odi-australia-ashwin-questions-selection-2805685-2025-10-20",
+      "headline": "Ashwin slams selection: Where will Kuldeep play, how many all-rounders needed?Former spinner Ravichandran Ashwin criticised India for dropping Kuldeep Yadav in the first ODI against Australia. He highlighted the importance of playing the best bowlers rather than prioritising batting depth."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/putin-will-destroy-you-trump-cursed-threw-map-zelenskyy-russia-deal-glbs-2805664-2025-10-20",
-      "headline": "He will destroy you: Trump cursed, threw map urging Zelenskyy to accept Putin dealDonald Trump reportedly pressed Volodymyr Zelenskyy to accept Russia's terms to end the war, warning that Vladimir Putin would destroy Ukraine if it refused. In a tense White House meeting, Trump reportedly cursed, threw maps, and echoed Putin's proposals."
+      "url": "https://www.indiatoday.in/world/us-news/story/mystery-object-hits-us-planes-cockpit-at-36000-feet-forces-emergency-landing-2805718-2025-10-20",
+      "headline": "Mystery object hits US plane's cockpit at 36,000 feet, forces emergency landingThe plane, flying at 36,000 feet, was suddenly struck by an unidentified object that smashed through the multilayered glass window, leaving the pilot bloodied and bruised. Tiny, shattered glass reportedly covered the cockpit."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/pregnant-woman-shalini-fatally-attacked-by-former-partner-in-delhis-nabi-karim-husband-fights-back-2805503-2025-10-19",
-      "headline": "Pregnant woman stabbed by lover in Delhi; husband snatches knife, kills attackerAccording to police, the pregnant woman, Shalini, was attacked multiple times with a knife by her former live-in partner, Aashu, in Delhi's Nabi Karim area late on Saturday night. In a desperate bid to save his wife, the husband intervened and fatally injured the attacker, who was declared dead on arrival at the hospital."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/trending-news/story/delhi-woman-shares-how-she-overcame-anxiety-during-cat-exam-post-goes-viral-2805630-2025-10-20",
+      "headline": "Delhi woman shares how she overcame anxiety during CAT exam, post goes viralIn a now-viral post on LinkedIn, a woman shared how she managed to stay composed during her CAT exam, even after realising she had underperformed in her strongest section."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/ibrahim-ali-khan-admits-nadaaniyan-was-a-bad-film-debuted-with-ho-jayega-attitude-reflects-on-trolling-and-future-projects-2805710-2025-10-20",
-      "headline": "Ibrahim Ali Khan admits Nadaaniyan was a bad film: Debuted with ho jayega attitudeIbrahim Ali Khan opened up about the backlash to his Netflix debut 'Nadaaniyan', admitting the film was \"really bad\" and that he entered Bollywood with a casual \"ho jaayega\" attitude. The actor reflected on the trolling, the emotional toll it took, and how the failure reshaped his approach to acting."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/maltis-diwali-party-was-lit-priyanka-chopra-shares-adorable-glimpse-from-bash-2805725-2025-10-20",
+      "headline": "Malti's Diwali party was lit: Priyanka Chopra shares adorable glimpse from bashPriyanka Chopra marked Diwali with a cosy family celebration featuring daughter Malti's first festive party. She shared an adorable picture on Monday."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/dude-box-office-collection-rs-30-crore-nett-leads-diwali-tamil-films-2805705-2025-10-20",
-      "headline": "Dude vs Bison box office: Pradeep's film hits Rs 30 crore, Dhruv film at Rs 10 croreDiwali witnessed a box office clash among three Tamil films, with 'Dude' leading collections. The holiday period is expected to boost ticket sales further, setting up a record opening weekend."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/parvathy-thiruvothu-wraps-filming-malayalam-feature-i-nobody-prithviraj-sukumaran-2805712-2025-10-20",
+      "headline": "Actor Parvathy Thiruvothu wraps i Nobody shoot, shares heartfelt noteActor Parvathy Thiruvothu wrapped up the shoot for the Malayalam film, 'i, Nobody'. The actor reflected on her experience with co-star Prithviraj Sukumaran and the crew."
     }
   ],
   "sports": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-england-women-match-social-media-troll-2805724-2025-10-20",
+      "headline": "Aakash Chopra slams trolls for abusing Indian women's team after loss vs England Former cricketer Aakash Chopra came in the defence of the Indian women's team after they were trolled on social media. A wave of criticism came in the team's way after their loss against England in the Women's ODI World Cup."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/cricket/story/indian-cricket-team-hatre-twitter-kitchen-troll-smriti-mandhana-harmanpreet-2805698-2025-10-20",
-      "headline": "Is the criticism of Indian women's cricket team layered with misogyny? The Indian women's cricket team suffered their third loss in a row in the Women's World Cup. A wave of criticism hit the team, which was majorly sexist in nature."
+      "headline": "Is the criticism of Indian women's cricket team layered with misogyny? Women's ODI World Cup: The Indian women's cricket team suffered their third loss in a row in the Women's World Cup. A wave of criticism hit the team, which was majorly sexist in nature."
     },
     {
       "sentiment": "positive",
@@ -373,13 +378,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/indw-vs-engw-womens-world-cup-india-batting-collapse-smriti-mandhana-deepti-sharma-2805650-2025-10-19",
-      "headline": "India's Indore collapse: Mandhana, Deepti under fire for poor judgement calls vs ENG India came agonisingly close to a record chase but lost by four runs to England. Crucial batting errors under pressure proved costly in the Women's World Cup match."
+      "url": "https://www.indiatoday.in/sports/cricket/story/ravichandran-ashwin-fake-adam-zampa-scam-hilarious-chat-jasprit-bumrah-number-2805658-2025-10-20",
+      "headline": "Fake Adam Zampa exposed: R Ashwin leaves fans in laughs after chat with scammer Former India spinner Ravichandran Ashwin left fans in splits after trolling a scammer pretending to be Australian spinner Adam Zampa, who attempted to get the numbers of India stars like Jasprit Bumrah and Abhishek Sharma."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/smriti-mandhana-wicket-turning-point-india-loss-england-womens-world-cup-harmanpreet-kaur-2805645-2025-10-19",
-      "headline": "Smriti Mandhana's wicket was the turning point vs England: Harmanpreet Kaur Women's World Cup, IND vs ENG: Harmanpreet Kaur said that losing Smriti Mandhana's wicket was a key moment in their clash against England where the Women in Blue lost by four runs at the Holkar Stadium in Indore. "
+      "url": "https://www.indiatoday.in/sports/cricket/story/aus-vs-ind-kuldeep-yadav-indias-wicket-taking-answer-for-adelaide-odi-2805675-2025-10-20",
+      "headline": "AUS vs IND: Kuldeep Yadav, India's obvious wicket-taking answer for Adelaide ODI AUS vs IND: After India's 1st ODI loss in Perth exposed a lack of wicket-taking options, the focus turns to Kuldeep Yadav. With 31 wickets against Australia in 23 matches, his inclusion in the 2nd ODI could provide the attacking edge India desperately needs."
     },
     {
       "sentiment": "positive",
@@ -399,12 +404,12 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/indw-vs-engw-womens-world-cup-india-batting-collapse-smriti-mandhana-deepti-sharma-2805650-2025-10-19",
-      "headline": "India's Indore collapse: Mandhana, Deepti under fire for poor judgement calls vs ENG India came agonisingly close to a record chase but lost by four runs to England. Crucial batting errors under pressure proved costly in the Women's World Cup match."
+      "headline": "India's Indore collapse: Mandhana, Deepti under fire for poor judgement calls vs ENGIndia came agonisingly close to a record chase but lost by four runs to England. Crucial batting errors under pressure proved costly in the Women's World Cup match."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/smriti-mandhana-wicket-turning-point-india-loss-england-womens-world-cup-harmanpreet-kaur-2805645-2025-10-19",
-      "headline": "Smriti Mandhana's wicket was the turning point vs England: Harmanpreet Kaur Women's World Cup, IND vs ENG: Harmanpreet Kaur said that losing Smriti Mandhana's wicket was a key moment in their clash against England where the Women in Blue lost by four runs at the Holkar Stadium in Indore. "
+      "headline": "Smriti Mandhana's wicket was the turning point vs England: Harmanpreet KaurWomen's World Cup, IND vs ENG: Harmanpreet Kaur said that losing Smriti Mandhana's wicket was a key moment in their clash against England where the Women in Blue lost by four runs at the Holkar Stadium in Indore. "
     },
     {
       "sentiment": "positive",
@@ -438,13 +443,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/aus-vs-ind-1st-odi-virat-kohli-will-perform-series-arshdeep-singh-2805574-2025-10-19",
-      "headline": "Virat Kohli will score runs vs Australia, form is just a word to him: Arshdeep SinghArshdeep Singh expresses strong belief in Virat Kohli's ability to perform in the ongoing ODI series against Australia. Despite Kohli's early dismissal, the team expects him to rebound and lead India's batting charge."
+      "url": "https://www.indiatoday.in/sports/cricket/story/england-edge-india-four-runs-womens-world-cup-indore-report-2805625-2025-10-19",
+      "headline": "India implode in Indore, lose three in a row as England reach semisWomen's World Cup, IND vs ENG: India slipped to their third successive defeat in the tournament after losing to England by just four runs on Sunday at the Holkar Stadium in Indore. Heather Knight starred for England, scoring a century in her 300th international appearance."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-virat-kohli-rohit-sharma-comeback-adelaide-odi-not-surprising-sunil-gavaskar-2805555-2025-10-19",
-      "headline": "Virat Kohli and Rohit Sharma's comeback in Adelaide ODI won't surprise me: GavaskarSunil Gavaskar believes Virat Kohli and Rohit Sharma can recover after their Perth ODI flop. Despite challenging conditions, the experience of Virat Kohli and Rohit Sharma could make the Adelaide ODI a thrilling comeback."
+      "url": "https://www.indiatoday.in/sports/cricket/story/australia-perth-odi-win-india-capable-of-comeback-matthew-kuhnemann-press-conference-2805603-2025-10-19",
+      "headline": "Perth ODI win was solid, but India still capable of a comeback: Matthew KuhnemannAustralia's Matthew Kuhnemann lauded his team's dominant Perth ODI win but warned against complacency, acknowledging India's proven ability to fight back. The left-arm spinner said Rohit Sharma and Virat Kohli's experience makes India dangerous ahead of the Adelaide clash."
     },
     {
       "sentiment": "positive",
@@ -495,16 +500,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/pakistan-lashes-out-at-icc-for-biased-statement-in-solidarity-with-afghanistan-2805452-2025-10-19",
       "headline": "Pakistan lashes out at ICC for biased statement in solidarity with AfghanistanThe ICC and BCCI on Saturday condoled the deaths of Afghan cricketers in an aerial attack in Paktika Province, without mentioning Pakistan. Pakistan's Information Minister dismissed the statements, saying Afghanistan had claimed the deaths of three local cricketers without providing evidence."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/aus-vs-ind-perth-rohit-sharma-shubman-gill-popcorn-bucket-rain-2805448-2025-10-19",
-      "headline": "Rohit, Gill share popcorn bucket during rain break, commentator has a laughAustralia vs India, 1st ODI: During one of the multiple rain breaks on Sunday, Rohit Sharma and Virat Kohli were seen having a lengthy chat in the dressing room, sharing a bucket of popcorn. Both Rohit and Shubman Gill were dismissed cheaply in the series opener in Perth."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/womens-world-cup-ind-vs-eng-live-score-harmanpreet-kaur-smriti-mandhana-2805431-2025-10-19",
-      "headline": "IND vs ENG Highlights: England beat India to qualify for semisWomen's World Cup, India (IND) vs England (ENG) Highlights: England have sealed their spot in the semi-final, and that came after a brilliant win over India by just 4 runs. India looked poised to grab the win, but yet again their lower-order mishaps cost them the match."
     }
   ],
   "education": [
