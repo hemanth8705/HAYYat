@@ -98,6 +98,31 @@
   ],
   "entertainment": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/entertainment/music/story/taylor-swift-travis-kelce-denied-funding-no-kings-protests-misinformation-2806377-2025-10-22",
+      "headline": "Did Taylor Swift and Travis Kelce really fund the anti-Trump No Kings protest? Claims that Taylor Swift and Travis Kelce funded the 'No Kings' protests have been debunked. Taylor Swift has been public about her political views and has endorsed former Vice President of the US Kamala Harris in the 2024 US Elections."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/mari-selvaraj-films-caste-oppression-bison-kaalamaadan-kabaddi-social-justice-2806048-2025-10-22",
+      "headline": "Why Mari Selvaraj's films matter in the age of reels Director Mari Selvaraj's films highlight caste atrocities and resilience in rural India. His cinema educates and provokes thought in an era dominated by fleeting social media narratives."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/music/story/shakira-revisits-iconic-albums-celebrates-latin-musics-rise-new-collaborations-2806375-2025-10-22",
+      "headline": "Shakira says it's the perfect time for Bad Bunny's Super Bowl takeover Pop star Shakira reimagines her landmark albums 'Pies Descalzos' and 'Fijacion Oral' for Spotify's Anniversary Series. The artist voices pride in Bad Bunny's Super Bowl headline performance and comments on the acceptance of Spanish-language music.\r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/bugonia-bald-only-screening-los-angeles-early-movie-preview-2806373-2025-10-22",
+      "headline": "Are fans shaving their heads for Emma Stone's Bugonia screening? Fans in Los Angeles shave heads to attend early screening of sci-fi comedy 'Bugonia' starring Emma Stone. The cinema enforced a 'bald only' entry policy, with a barber on site for last-minute shaves.\r\n\r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/the-julia-set-film-begins-production-in-london-with-chase-infiniti-and-gillian-anderson-2806370-2025-10-22",
+      "headline": "Chase Infiniti, Christopher Briney, Gillian Anderson join The Julia Set Actors Chase Infiniti, Christopher Briney, Gillian Anderson and Jason Isaacs start work on 'The Julia Set' in London.  The film follows a young mathematician entering a highly competitive academic contest."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/vignesh-shivan-on-life-family-love-insurance-kompany-missing-diwali-release-2806347-2025-10-21",
       "headline": "Vignesh Shivan on life, family; Love Insurance Kompany missing Diwali release Director Vignesh Shivan shared emotional reflections on love and family during Diwali. He highlighted simple happiness with loved ones amid the unexpected delay of his film 'Love Insurance Company', which was supposed to release on Diwali."
@@ -166,31 +191,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/would-you-marry-me-review-jung-so-min-choi-woo-shik-make-predictability-look-good-2806191-2025-10-21",
       "headline": "Would You Marry Me review: Jung So-min, Choi Woo-shik make predictability look goodRelease Date:Fri Oct 10, 2025 'Would You Marry Me' is a light-hearted K-drama starring Jung So-min and Choi Woo-shik that combines revenge, romance, and comedy with charm and sincerity. Despite its familiar tropes of fake marriage and second chances, the show's sharp humour, performances, and self-aware writing make it engaging."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/south-indian-stars-diwali-celebrations-2023-family-moments-yash-allu-arjun-trisha-2806178-2025-10-21",
-      "headline": "Yash, Allu Arjun to Trisha: Here's how South Indian stars celebrated Diwali 2025 As Diwali 2025 flares up across the country, South Indian stars like Yash, Allu Arjun, Trisha and Varun Tej shared glimpses from their celebrations with friends and family on social media."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/why-asrani-wanted-to-keep-his-funeral-private-away-from-the-spotlight-2806153-2025-10-21",
-      "headline": "Why Asrani wanted to keep his funeral private, away from the spotlight Veteran actor Govardhan Asrani passed away quietly at 84 after a brief hospitalisation. His family respected his wish for a private farewell, sparking reflection on his remarkable cinematic legacy."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/story/asrani-heartfelt-role-in-abhiman-beyond-comedy-2806154-2025-10-21",
-      "headline": "Beyond comedy: Asrani's soulful streak in Abhiman Asrani, known for his comic genius, gave a soulful performance in Abhiman. His role as Chandar Kripalani showcased his emotional depth beyond comedy and left a lasting impact."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/dude-leads-diwali-box-office-collection-tamil-telugu-films-2025-2806144-2025-10-21",
-      "headline": "South cinema's Diwali box office battle: Which star sparkles brightest this year? This Diwali saw six films from Tamil and Telugu cinema featuring next-gen stars hit theatres. 'Dude' emerged as the clear box office winner, nearing Rs 100 crore worldwide, signalling a promising trend for youthful cinema."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/ranbir-kapoor-alia-bhatt-diwali-had-love-light-and-rahas-hand-painted-diyas-pics-2806149-2025-10-21",
-      "headline": "Ranbir-Alia's Diwali had love, light and Raha's hand-painted diyas. Pics Alia Bhatt and Ranbir Kapoor celebrated a cozy, intimate Diwali with family and close friends. From daughter Raha painting diyas to Alia's elegant festive look, the celebration radiated warmth and togetherness. "
     }
   ],
   "general news": [
@@ -212,7 +212,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/saudi-arabia-abolishes-kafala-system-to-improve-migrant-worker-rights-glbs-2806350-2025-10-22",
-      "headline": "Saudi Arabia ends 50-year Kafala system in landmark labour reform for migrantsSaudi Arabia has abolished its decades-old Kafala labour sponsorship system. This reform grants migrant workers greater freedoms and aligns labour laws with international standards."
+      "headline": "Saudi Arabia ends 50-year-old Kafala system in landmark labour reform for migrantsSaudi Arabia has abolished its decades-old Kafala labour sponsorship system. This reform grants migrant workers greater freedoms and aligns labour laws with international standards."
     },
     {
       "sentiment": "positive",
@@ -221,8 +221,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/us-clarifies-on-h1b-visa-fee-big-relief-for-students-techies-l1-f1-company-transferee-student-visa-holders-2806028-2025-10-21",
-      "headline": "US clarifies on H-1B visa fee, big relief for students, techiesThe Donald Trump administration has clarified the exemptions to the controversial $100,000 H-1B visa fee introduced via a presidential proclamation in September. Employers can now proceed with change-of-status filings. The proclamation's scope is limited to new petitions for individuals outside the country."
+      "url": "https://www.indiatoday.in/india/story/francesca-orsini-deported-india-visa-violations-academic-travel-dispute-glbs-2806369-2025-10-22",
+      "headline": "UK-based Hindi scholar Francesca Orsini deported from India over visa violationsFrancesca Orsini was deported to Hong Kong within hours because her purpose of travel did not match her visa category. Orsini, however, told officials she had a valid five-year visa and was entering India to meet friends."
     },
     {
       "sentiment": "negative",
@@ -231,18 +231,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/story/openai-launches-atlas-browser-to-challenge-google-chrome-glbs-2806362-2025-10-22",
-      "headline": "OpenAI launches Atlas browser to challenge Google's ChromeOpenAI has launched its new web browser, Atlas, directly challenging Google Chrome. The launch comes just months after an OpenAI executive told lawmakers the company might be interested in buying Chrome, if a federal court forced Google to sell it. That never happened."
+      "url": "https://www.indiatoday.in/world/us-news/story/us-clarifies-on-h1b-visa-fee-big-relief-for-students-techies-l1-f1-company-transferee-student-visa-holders-2806028-2025-10-21",
+      "headline": "US clarifies on H-1B visa fee, big relief for students, techiesThe Donald Trump administration has clarified the exemptions to the controversial $100,000 H-1B visa fee introduced via a presidential proclamation in September. Employers can now proceed with change-of-status filings. The proclamation's scope is limited to new petitions for individuals outside the country."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/how-thamma-makes-way-for-shakti-shalini-is-maddock-bringing-a-modern-day-kali-2806225-2025-10-21",
-      "headline": "How Thamma makes way for Shakti Shalini: Is Maddock bringing a modern-day Kali?'Thamma' sets the stage for 'Shakti Shalini', Maddock Films' next horror-comedy that could mark the rise of a divine feminine force. With hints of Goddess Kali's mythology and a powerful new heroine at its core, 'Shakti Shalini' might just be the universe's most intriguing chapter yet."
+      "url": "https://www.indiatoday.in/movies/celebrities/story/diwali-dump-kareena-saif-ananya-suhana-navya-glam-up-social-media-with-photos-2806250-2025-10-21",
+      "headline": "Diwali Dump! Kareena-Saif, Ananya, Suhana, Navya glam up social media with photosActors Kareena Kapoor, Ananya Panday and Suhana Khan, among others, shared glimpses of their Diwali celebration on social media. A mix of family moments, traditional attire and festival wishes marked their celebrations."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/trump-putin-summit-paused-ukraine-peace-talks-stall-territorial-demands-glbs-2806360-2025-10-22",
-      "headline": "Trump-Putin Budapest meeting on Ukraine war put on hold days after proposalThe planned Trump-Putin meeting in Budapest has been halted amid deadlocked Ukraine peace talks. The White House cited \"no plans\" for a summit as Kyiv resisted territorial deals."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/us-news/story/guru-tegh-bahadur-street-renamed-new-york-sikh-heritage-sacrifice-glbs-2806368-2025-10-22",
+      "headline": "New York City names street after Guru Tegh Bahadur to honour 9th Sikh Guru's legacyThe intersection of 114th Street and 101st Avenue in Richmond Hill, Queens -- home to the historic Gurdwara Makhan Shah Lubana -- will now be known as Guru Tegh Bahadur Ji Marg Way. "
     },
     {
       "sentiment": "positive",
@@ -260,14 +260,14 @@
       "headline": "Watch: Chinese rocket crashes dangerously close to residential areaThe first stage of the rocket fell back uncontrollably to Earth, creating alarm due to the impact and toxic fumes released upon crash.\u200b"
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/diwali-2025-india-diwali-fireworks-set-off-alarm-in-pakistan-delhi-aqi-lahore-pollution-smog-2806007-2025-10-21",
-      "headline": "India's Diwali fireworks set off alarm in PakistanAs Diwali fireworks lit up skies across India, toxic air and pollutants drifted across the border into Pakistan. Lahore's air quality plunged to alarming levels, trailing only Delhi as the most-polluted city in the world. Pakistan's Punjab government has blamed cross-border pollution for worsening the existing smog crisis."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/trump-putin-summit-paused-ukraine-peace-talks-stall-territorial-demands-glbs-2806360-2025-10-22",
+      "headline": "Trump-Putin Budapest meeting on Ukraine war put on hold days after proposalThe planned Trump-Putin meeting in Budapest has been halted amid deadlocked Ukraine peace talks. The White House cited \"no plans\" for a summit as Kyiv resisted territorial deals."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/new-zealand-born-navjot-singh-loses-bid-for-residency-citizenship-faces-deportation-auckland-india-immigration-laws-2806141-2025-10-21",
-      "headline": "Born in New Zealand, facing deportation to India: Punished for parents' past?An 18-year-old, born and raised in Auckland to Indian parents who were undocumented immigrants, is now facing deportation after his residency bid was denied. Having never attended school or left New Zealand, Navjot Singh fears for his survival in India, where he has no support. Community leaders and politicians have condemned the decision."
+      "url": "https://www.indiatoday.in/technology/story/openai-launches-atlas-browser-to-challenge-google-chrome-glbs-2806362-2025-10-22",
+      "headline": "OpenAI launches Atlas browser to challenge Google's ChromeOpenAI has launched its new web browser, Atlas, directly challenging Google Chrome. The launch comes just months after an OpenAI executive told lawmakers the company might be interested in buying Chrome, if a federal court forced Google to sell it. That never happened."
     },
     {
       "sentiment": "negative",
@@ -276,23 +276,23 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/diwali-dump-kareena-saif-ananya-suhana-navya-glam-up-social-media-with-photos-2806250-2025-10-21",
-      "headline": "Diwali Dump! Kareena-Saif, Ananya, Suhana, Navya glam up social media with photosActors Kareena Kapoor, Ananya Panday and Suhana Khan, among others, shared glimpses of their Diwali celebration on social media. A mix of family moments, traditional attire and festival wishes marked their celebrations."
+      "url": "https://www.indiatoday.in/movies/hollywood/story/bugonia-bald-only-screening-los-angeles-early-movie-preview-2806373-2025-10-22",
+      "headline": "Are fans shaving their heads for Emma Stone's Bugonia screening?Fans in Los Angeles shave heads to attend early screening of sci-fi comedy 'Bugonia' starring Emma Stone. The cinema enforced a 'bald only' entry policy, with a barber on site for last-minute shaves.\r\n\r\n"
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/chandigarh-former-dgp-son-akeel-akhtar-murder-mohammad-mustafa-affair-daughter-in-law-punjab-police-2806037-2025-10-21",
-      "headline": "Death of Punjab ex-DGP's son gets more intriguing as second video emergesPolice have registered a case against former Punjab DGP Mohammad Mustafa, his wife, and family members after their late son alleged abuse and a murder conspiracy in a pre-recorded video. In another video that has surfaced, the son gave a clean chit to his family, dismissing his earlier allegations as a figment of his imagination caused by schizophrenia."
+      "url": "https://www.indiatoday.in/india/story/ahmedabad-man-severely-burned-as-wife-pours-boiling-water-acid-on-him-on-diwali-2806354-2025-10-21",
+      "headline": "Woman pours boiling water, throws acid on husband on Diwali over suspected\u00a0affairOn Diwali morning in Ahmedabad, a 33-year-old man was brutally attacked by his wife, who poured boiling water and later threw acid on him, leaving him severely injured. Sources said the wife often suspected him of infidelity, which led to repeated arguments over trivial matters."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india-today-insight/story/as-cbi-probes-karur-stampede-is-vijay-at-an-electoral-crossroads-2806235-2025-10-21",
-      "headline": "As CBI probes Karur stampede, is Vijay at an electoral crossroads?The tragedy has shifted the narrative from Vijay's star power to his party TVK's organisational unpreparedness, the probe leaving him vulnerable to the BJP's ploys"
+      "url": "https://www.indiatoday.in/entertainment/television/story/bill-gates-to-discuss-women-health-issues-in-upcoming-kyunki-episode-report-2806339-2025-10-21",
+      "headline": "Bill Gates to discuss women's health issues in upcoming Kyunki... episode: ReportBill Gates will make a special virtual appearance on 'Kyunki Saas Bhi Kabhi Bahu Thi' to promote maternal health. The show highlights progressive social issues including body image and ageing challenges faced by women."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/india-does-not-have-a-week-long-holiday-and-this-this-the-only-time-it-can-have-one-diwali-celebrations-2806143-2025-10-21",
-      "headline": "Can India have a 5-day national holiday for Diwali?India celebrates together, yet it doesn't. Countries across the world pause for week-long holidays, but India's fragmented festival calendar does not allow a national breather. Diwali might be the one festival that could be our chance to pause, recharge, and celebrate together."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/indians-abroad/story/32-year-old-telangana-mans-body-found-hanging-from-a-tree-in-south-africa-family-suspects-foul-play-2806330-2025-10-21",
+      "headline": "Telangana man found hanging from tree in South Africa, family suspects\u00a0foul\u00a0playA 32-year-old Telangana man, Battula Srinivas, was found dead hanging from a tree in South Africa on Diwali. His family suspects foul play, alleging he was murdered and the scene staged as a suicide."
     },
     {
       "sentiment": "positive",
@@ -301,28 +301,28 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india-today-insight/story/your-post-diwali-pollution-playbook-risks-remedies-2806192-2025-10-21",
-      "headline": "Your post-Diwali pollution playbook: Risks, remediesNew studies strongly link air pollution to metabolic disorders, cancer and poor brain performance. Protection must go beyond N-95 masks"
+      "url": "https://www.indiatoday.in/india/story/india-in-talks-with-russia-to-buy-rs-10000-crore-missiles-for-s-400-air-defence-2806313-2025-10-21",
+      "headline": "India in talks with Russia to buy Rs 10,000 crore missiles for S-400\u00a0air\u00a0defenceIndia is in talks with Russia to buy missiles worth Rs 10,000 crore for its S-400 air defence system. The system, hailed as a \"game changer,\" reportedly downed 5\u20136 Pakistani fighter jets and a spy plane over 300 km inside Pakistan during a recent conflict."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/assembly/story/prashant-kishor-alleges-bjp-forced-3-jan-suraaj-candidates-to-withdraw-from-polls-2806251-2025-10-21",
-      "headline": "Prashant Kishor alleges BJP forced 3 Jan Suraaj candidates to withdraw from pollsPrashant Kishor alleged that three of his party's candidates in the upcoming Bihar Assembly elections were forced to withdraw their nominations under pressure from the BJP.\u00a0"
+      "url": "https://www.indiatoday.in/trending-news/story/passengers-jaw-dislocates-mid-journey-indian-railway-doctor-saves-him-in-minutes-2806306-2025-10-21",
+      "headline": "Watch: Passenger's jaw dislocates mid-journey, Railway doctor saves\u00a0him\u00a0in\u00a0minutesA 24-year-old passenger on the Kanniyakumari\u2013Dibrugarh Vivek Express suffered a jaw dislocation mid-journey. Alerted by his relative, the railway authorities at Palakkad acted swiftly."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/south-africa-beat-pakistan-crash-out-dls-womens-world-cup-2806345-2025-10-21",
-      "headline": "South Africa knock Pakistan out in rain-hit clash, storm to top of tableWomen's World Cup: South Africa extended their impressive ICC Women's World Cup run, defeating Pakistan via the Duckworth-Lewis-Stern (DLS) method to climb to the top of the points table. Pakistan, meanwhile, crashed out of the semi-final race as their winless streak in Colombo continued."
+      "url": "https://www.indiatoday.in/india-today-insight/story/how-chinas-renewable-push-is-indias-strategic-challenge-2806205-2025-10-21",
+      "headline": "How China's renewable push is India's strategic challengeThe pressing concern is Beijing's plan to build the world's largest solar farm in Tibet, a region that acts as a climate regulator, water source and security buffer for India"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/vignesh-shivan-on-life-family-love-insurance-kompany-missing-diwali-release-2806347-2025-10-21",
-      "headline": "Vignesh Shivan on life, family; Love Insurance Kompany missing Diwali releaseDirector Vignesh Shivan shared emotional reflections on love and family during Diwali. He highlighted simple happiness with loved ones amid the unexpected delay of his film 'Love Insurance Company', which was supposed to release on Diwali."
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/mari-selvaraj-films-caste-oppression-bison-kaalamaadan-kabaddi-social-justice-2806048-2025-10-22",
+      "headline": "Why Mari Selvaraj's films matter in the age of reelsDirector Mari Selvaraj's films highlight caste atrocities and resilience in rural India. His cinema educates and provokes thought in an era dominated by fleeting social media narratives."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/television/story/bill-gates-to-discuss-women-health-issues-in-upcoming-kyunki-episode-report-2806339-2025-10-21",
-      "headline": "Bill Gates to discuss women's health issues in upcoming Kyunki... episode: ReportBill Gates will make a special virtual appearance on 'Kyunki Saas Bhi Kabhi Bahu Thi' to promote maternal health. The show highlights progressive social issues including body image and ageing challenges faced by women."
+      "url": "https://www.indiatoday.in/movies/hollywood/story/bugonia-bald-only-screening-los-angeles-early-movie-preview-2806373-2025-10-22",
+      "headline": "Are fans shaving their heads for Emma Stone's Bugonia screening?Fans in Los Angeles shave heads to attend early screening of sci-fi comedy 'Bugonia' starring Emma Stone. The cinema enforced a 'bald only' entry policy, with a barber on site for last-minute shaves.\r\n\r\n"
     }
   ],
   "sports": [
