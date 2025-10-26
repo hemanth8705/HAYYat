@@ -103,6 +103,16 @@
   ],
   "entertainment": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/entertainment/television/story/bigg-boss-19-episode-64-baseer-ali-and-nehal-chudasama-exit-show-in-double-eviction-2808739-2025-10-26",
+      "headline": "BB 19 Episode 64: Baseer Ali and Nehal Chudasama exit show in double eviction 'Bigg Boss 19' shocked fans with a double eviction as Baseer Ali and Nehal Chudasama were eliminated in a dramatic Weekend Ka Vaar episode, shaking up alliances and adding fresh twists to the race for the trophy."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/television/story/deven-bhojani-opens-up-on-sarabhai-team-farewell-to-satish-shah-2808729-2025-10-26",
+      "headline": "He was with us: Deven Bhojani opens up on Sarabhai team's farewell to Satish Shah The farewell to veteran actor Satish Shah was both emotional and unique, as the 'Sarabhai vs Sarabhai' team sang the show's title track around his pyre. Director Deven Bhojani shared that it felt like a final tribute from Indravadan Sarabhai himself, a perfect goodbye to the beloved actor."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/kriti-sanon-enjoys-fight-night-with-rumoured-boyfriend-kabir-bahia-varun-dhawan-2808719-2025-10-26",
       "headline": "Kriti Sanon enjoys fight night with rumoured boyfriend Kabir Bahia, Varun Dhawan Kriti Sanon enjoyed UFC 321 in Abu Dhabi with rumoured boyfriend Kabir Bahia and Varun Dhawan, fuelling fresh dating buzz. Her post with Kabir has reignited chatter about their relationship."
@@ -186,24 +196,9 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/thamma-box-office-collection-crosses-rs-78-crore-in-five-days-rashmika-mandanna-injury-challenges-2808457-2025-10-26",
       "headline": "Thamma box office Day 5: Ayushmann's film shows growth, eyes Rs 100 crore Ayushmann Khurrana's 'Thamma' achieved over Rs 78 crore at the box office after five days, showing sustained growth. The film is now eyeing Rs 100 crore. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/story/yeh-jo-hai-zindagi-satish-shah-comedy-template-2808438-2025-10-26",
-      "headline": "Yeh Jo Hai Zindagi: How Satish Shah's comedy found its template in the '80s show Catering to middle-class homes, 'Yeh Jo Hai Zindagi' let Satish Shah balance a different ditzy character in each episode with the art of keeping it real"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/bhuvan-bam-bollywood-debut-dharma-productions-2808412-2025-10-25",
-      "headline": "Bhuvan Bam announces Bollywood debut with Dharma Productions Bhuvan Bam officially announced his Bollywood debut with Dharma Productions. He shared his excitement and gratitude with a post on Instagram."
     }
   ],
   "general news": [
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/story/poll-body-to-announce-dates-for-nationwide-poll-roll-revision-on-monday-10-15-states-likely-in-1st-phase-2808690-2025-10-26",
-      "headline": "Poll body to announce pan-India SIR dates, 10-15 states likely in 1st phaseThe poll body is expected to unveil the first phase of the SIR, covering 10 to 15 states, including those scheduled for Assembly elections in 2026. Tamil Nadu, West Bengal, Kerala, Assam, and Puducherry are among the states set to go to the polls next year."
-    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/us-seeks-to-strengthen-strategic-ties-with-pakistan-without-affecting-historic-india-relations-marco-rubio-2808718-2025-10-26",
@@ -211,8 +206,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/india-china-direct-flights-resume-after-5-year-freeze-amid-thaw-in-ties-2808646-2025-10-26",
-      "headline": "India, China direct flights resume after 5-year freeze amid\u00a0thaw\u00a0in\u00a0tiesDirect flights between India and China have resumed after over five years, marking a significant step in restoring connectivity. This move is expected to boost trade, tourism, and diplomatic relations between the two nations."
+      "url": "https://www.indiatoday.in/elections/story/poll-body-to-announce-dates-for-nationwide-poll-roll-revision-on-monday-10-15-states-likely-in-1st-phase-2808690-2025-10-26",
+      "headline": "Poll body to announce pan-India SIR dates, 10-15 states likely in 1st phaseThe poll body is expected to unveil the first phase of the SIR, covering 10 to 15 states, including those scheduled for Assembly elections in 2026. Tamil Nadu, West Bengal, Kerala, Assam, and Puducherry are among the states set to go to the polls next year."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/law-students-head-slashed-stomach-ripped-open-fingers-cut-over-payment-dispute-in-kanpur-2808738-2025-10-26",
+      "headline": "Law student's head slashed, stomach ripped open, fingers cut over\u00a0payment\u00a0disputeIn Kanpur, 22-year-old LLB student Abhijeet Singh Chandel was brutally attacked with a cleaver by a medical store owner and his associates over a payment dispute. The assault left his head slashed, stomach ripped open, intestines exposed, and fingers severed."
     },
     {
       "sentiment": "positive",
@@ -221,13 +221,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sunday-special/story/techies-engineers-by-day-cab-drivers-at-night-bengaluru-enginneers-driving-ola-uber-rapido-namma-yatri-it-jobs-2808284-2025-10-26",
-      "headline": "Techies by day, cabbies at night: Why Bengaluru engineers are driving Ola, UberEver had cab drivers in Bengaluru answer your call in fluent corporate lingo? Chances are, they might have been techies. It's not just for the money. Software engineers are driving cabs to beat loneliness at home and drudgery at the office, revealing a problem in our corporate culture."
+      "url": "https://www.indiatoday.in/sports/cricket/story/womens-world-cup-ind-vs-ban-pratika-rawal-radha-yadav-shree-charani-2808737-2025-10-26",
+      "headline": "Pratika Rawal's injury mars India's washed-out group finale against BangladeshIndia's group stage campaign came to an end with an abandoned fixture against Bangladesh in Navi Mumbai. A game which saw 36.4 overs in total was dominated by India before incessant rain denied them a win, which was just 69 runs away. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/womens-world-cup-ind-vs-ban-live-score-smriti-mandhana-harmanpreet-kaur-2808598-2025-10-26",
-      "headline": "IND vs BAN Highlights: Match abandoned in Navi Mumbai due to rainIndia (IND) vs Bangladesh (BAN) Highlights, Women's World Cup: Rain has had the last laugh at the DY Patil Stadium in Navi Mumbai as the match between India and Bangladesh has been called off due to rain. "
+      "url": "https://www.indiatoday.in/india/story/kailash-vijayvargiya-remarks-australian-women-cricketers-molestation-indore-icc-womens-cricket-world-cup-2025-2808753-2025-10-26",
+      "headline": "Lesson for them: Madhya Pradesh minister's shocker on cricketers' molestationKailash Vijayvargiya faces intense backlash for his remarks on the molestation of Australian women cricketers in Indore, suggesting that players should exercise caution while travelling and notify local authorities or security personnel in advance."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/india-china-direct-flights-resume-after-5-year-freeze-amid-thaw-in-ties-2808646-2025-10-26",
+      "headline": "India, China direct flights resume after 5-year freeze amid\u00a0thaw\u00a0in\u00a0tiesDirect flights between India and China have resumed after over five years, marking a significant step in restoring connectivity. This move is expected to boost trade, tourism, and diplomatic relations between the two nations."
     },
     {
       "sentiment": "positive",
@@ -236,13 +241,28 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sunday-special/story/techies-engineers-by-day-cab-drivers-at-night-bengaluru-enginneers-driving-ola-uber-rapido-namma-yatri-it-jobs-2808284-2025-10-26",
+      "headline": "Techies by day, cabbies at night: Why Bengaluru engineers are driving Ola, UberEver had cab drivers in Bengaluru answer your call in fluent corporate lingo? Chances are, they might have been techies. It's not just for the money. Software engineers are driving cabs to beat loneliness at home and drudgery at the office, revealing a problem in our corporate culture."
+    },
+    {
+      "sentiment": "negative",
       "url": "https://www.indiatoday.in/cities/story/delhi-university-student-injured-in-acid-attack-near-lakshmibai-college-police-launch-manhunt-2808699-2025-10-26",
       "headline": "Acid attack on Delhi University student near college; stalker, 2 others on the runPolice said her stalker, Jitender, and two associates threw acid on her as she walked to class. The victim suffered burns on both hands and is being treated at a local hospital."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/womens-world-cup-ind-vs-ban-pratika-rawal-radha-yadav-shree-charani-2808737-2025-10-26",
-      "headline": "Pratika Rawal's injury mars India's washed-out group finale against BangladeshIndia reached the semi-final of the ICC Women's Cricket World Cup 2025 after their group match against Bangladesh was abandoned due to rain. The early end came with India in a strong position, highlighting their dominance despite weather disruptions."
+      "url": "https://www.indiatoday.in/india/story/cyclone-montha-andhra-pradesh-coast-odisha-tamil-nadu-puducherry-heavy-rain-alerts-imd-2808488-2025-10-26",
+      "headline": "Cyclone Montha to hit Andhra on Oct 28, Odisha cancels officials'\u00a0leavesCyclone Montha is expected to make landfall on the Andhra Pradesh coast near Kakinada, between Machilipatnam and Kalingapatnam, on Tuesday evening or night (October 28)."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/technology/news/story/aravind-srinivas-says-internet-is-too-important-to-leave-in-hands-of-google-internet-gives-him-quick-reality-check-2808638-2025-10-26",
+      "headline": "Aravind Srinivas says internet is too important to leave in hands of GooglePerplexity CEO Aravind Srinivas takes a dig at Google's monopoly, saying the internet is too important to leave in the hands of Google. But, he also knows that his AI-powered web browser, Comet, cannot beat Google Chrome just yet."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-rohit-sharma-farewell-post-departure-2808660-2025-10-26",
+      "headline": "One last time: Rohit Sharma signs off from Australia, heads back to IndiaIndia's star batter Rohit Sharma signed off for one last time from Australia after his heroics during the recently-concluded ODI series. Rohit was adjudged as the Player Of The Series for his heroics with the bat.  "
     },
     {
       "sentiment": "negative",
@@ -261,26 +281,6 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/house-of-dynamite-political-thriller-review-kathryn-bigelow-netflix-idris-elba-2808615-2025-10-26",
-      "headline": "House of Dynamite review: Kathryn Bigelow crafts a smart but inconsistent thrillerRelease Date:Fri Oct 24, 2025Kathryn Bigelow's 'A House of Dynamite' is a gripping Netflix political thriller exploring the fallout of a mysterious warhead launch through a Rashomon-style lens. With strong turns by Idris Elba and Rebecca Ferguson, it's a tense study of power and fear, though its pacing and emotional depth occasionally falter."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-rohit-sharma-farewell-post-departure-2808660-2025-10-26",
-      "headline": "One last time: Rohit Sharma signs off from Australia, heads back to IndiaIndia's star batter Rohit Sharma signed off for one last time from Australia after his heroics during the recently-concluded ODI series. Rohit was adjudged as the Player Of The Series for his heroics with the bat.  "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/cyclone-montha-andhra-pradesh-coast-odisha-tamil-nadu-puducherry-heavy-rain-alerts-imd-2808488-2025-10-26",
-      "headline": "Cyclone Montha to hit Andhra on Oct 28, Odisha cancels officials'\u00a0leavesCyclone Montha is expected to make landfall on the Andhra Pradesh coast near Kakinada, between Machilipatnam and Kalingapatnam, on Tuesday evening or night (October 28)."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/kurnool-bus-fire-case-filed-against-drunk-biker-shivashankar-for-negligence-reckless-driving-2808607-2025-10-26",
-      "headline": "Biker killed in Andhra bus fire was drunk, case against him for reckless drivingPolice have booked deceased biker Shivashankar for negligent and reckless driving that led to the Kurnool bus fire killing 20 people. The FIR states he was drunk and lost control before the fatal crash."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ajinkya-rahane-advice-sarfaraz-khan-india-test-squad-snub-bcci-gautam-gambhir-2808708-2025-10-26",
       "headline": "Rahane's message to Sarfaraz Khan amid selection row: Keep your head down and focusAjinkya Rahane scored a commanding 159 in the Ranji Trophy and shared advice for Sarfaraz Khan. His message stresses patience and focus amid ongoing national team selection challenges."
     },
@@ -291,18 +291,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/netanyahu-israel-control-foreign-troops-gaza-force-us-peace-plan-2808716-2025-10-26",
-      "headline": "Israel will decide which foreign forces enter Gaza: Netanyahu on ceasefireThe Israeli Prime Minister confirmed Israel's authority to approve foreign troops in the planned international Gaza force under the US peace plan. The US supports Israel's position, but troop contributions from Arab states remain uncertain amid the ongoing Gaza conflict.\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/interviews/story/soha-ali-khan-inaaya-parenting-taimur-gen-alpha-social-media-saif-ali-khan-kareena-kapoor-2808429-2025-10-26",
-      "headline": "Soha Ali Khan on raising Inaaya, paparazzi culture, and social media boundariesSoha Ali Khan opens up about raising daughter Inaaya, handling fame, and setting social media boundaries on 'Anything But'."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/who-is-mystery-man-in-detective-suit-in-viral-louvre-heist-probe-photo-2808494-2025-10-26",
-      "headline": "Internet obsessed with 'detective' in viral Louvre heist photo, but who's he really?A photo taken outside the Louvre during an ongoing heist investigation is going viral because a sharply dressed man who looked straight out of a detective film has become the centre of attention. The internet believes he's one of the investigators involved in the case, but is he really? Here's what we know:"
+      "url": "https://www.indiatoday.in/entertainment/ott/story/house-of-dynamite-political-thriller-review-kathryn-bigelow-netflix-idris-elba-2808615-2025-10-26",
+      "headline": "House of Dynamite review: Kathryn Bigelow crafts a smart but inconsistent thrillerRelease Date:Fri Oct 24, 2025Kathryn Bigelow's 'A House of Dynamite' is a gripping Netflix political thriller exploring the fallout of a mysterious warhead launch through a Rashomon-style lens. With strong turns by Idris Elba and Rebecca Ferguson, it's a tense study of power and fear, though its pacing and emotional depth occasionally falter."
     },
     {
       "sentiment": "negative",
@@ -311,20 +301,80 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/bengaluru-woman-praises-rapido-driver-who-messaged-on-gpay-and-returned-her-earphones-2808620-2025-10-26",
-      "headline": "Bengaluru woman praises Rapido driver who messaged on GPay, returned her earphonesA woman from Bengaluru appreciated a Rapido driver who contacted her through Google Pay (GPay) and returned her lost earphones."
+      "url": "https://www.indiatoday.in/lifestyle/interviews/story/soha-ali-khan-inaaya-parenting-taimur-gen-alpha-social-media-saif-ali-khan-kareena-kapoor-2808429-2025-10-26",
+      "headline": "Soha Ali Khan on raising Inaaya, paparazzi culture, and social media boundariesSoha Ali Khan opens up about raising daughter Inaaya, handling fame, and setting social media boundaries on 'Anything But'."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/jharkhand-cm-suspends-doctor-orders-probe-after-hiv-infected-blood-transfusions-at-chaibasa-hospital-compensation-announced-for-affected-children-2808698-2025-10-26",
-      "headline": "Jharkhand CM suspends doctor, officials over HIV-infected blood\u00a0transfusionsJharkhand faces a grave health crisis as several children with thalassaemia were transfused with HIV-infected blood at Chaibasa Sadar Hospital. The state government has launched an immediate probe and promised compensation and treatment for affected families."
+      "url": "https://www.indiatoday.in/world/story/netanyahu-israel-control-foreign-troops-gaza-force-us-peace-plan-2808716-2025-10-26",
+      "headline": "Israel will decide which foreign forces enter Gaza: Netanyahu on ceasefireThe Israeli Prime Minister confirmed Israel's authority to approve foreign troops in the planned international Gaza force under the US peace plan. The US supports Israel's position, but troop contributions from Arab states remain uncertain amid the ongoing Gaza conflict.\r\n"
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/kurnool-bus-fire-case-filed-against-drunk-biker-shivashankar-for-negligence-reckless-driving-2808607-2025-10-26",
+      "headline": "Biker killed in Andhra bus fire was drunk, case against him for reckless drivingPolice have booked deceased biker Shivashankar for negligent and reckless driving that led to the Kurnool bus fire killing 20 people. The FIR states he was drunk and lost control before the fatal crash."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/trending-news/story/who-is-mystery-man-in-detective-suit-in-viral-louvre-heist-probe-photo-2808494-2025-10-26",
+      "headline": "Internet obsessed with 'detective' in viral Louvre heist photo, but who's he really?A photo taken outside the Louvre during an ongoing heist investigation is going viral because a sharply dressed man who looked straight out of a detective film has become the centre of attention. The internet believes he's one of the investigators involved in the case, but is he really? Here's what we know:"
     }
   ],
   "sports": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/indian-chess-players-candidates-spots-chess-world-cup-2025-2808752-2025-10-26",
+      "headline": "Why the Chess World Cup 2025 could shape the future of Indian chess The Chess World Cup 2025 is a crucial tournament for India's players. With the home advantage, they must make the most of this opportunity to ensure the continued strength and depth of Indian chess in the coming years."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/arsenal-lead-premier-league-eberechi-eze-goal-aston-villa-end-manchester-city-unbeaten-run-2808745-2025-10-26",
+      "headline": "Premier League: Arsenal extend lead at the top, Manchester City suffer loss Arsenal secured a narrow victory over Crystal Palace, thanks to Eberechi Eze's first league goal for the club on Sunday, October 26. Manchester City's winning run came to an end against Aston Villa as Matty Cash's goal proved to be decisive. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/real-madrid-vs-barcelona-el-clasico-2025-mbappe-bellingham-goals-result-2808743-2025-10-26",
+      "headline": "El Clasico: Real Madrid down Barcelona 2-1 to extend lead at top of LaLiga Kylian Mbappe and Jude Bellingham were on target as Real Madrid beat Barcelona 2-1 to strengthen their spot at the top of the LaLiga points table. Barca were left to rue their chances and lost Pedri to a red card in the final moments of the game. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/pratika-rawal-injury-update-bcci-recovery-india-bangladesh-womens-world-cup-2808741-2025-10-26",
+      "headline": "Pratika Rawal freak injury: Harmanpreet Kaur shares an update on India opener Women's World Cup, IND vs BAN: Indian captain Harmanpreet Kaur shared an update on Pratika Rawal, who sustained an injury during the clash against Bangladesh at the DY Patil Stadium in Navi Mumbai."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/chess-world-cup-2025-format-explained-2808740-2025-10-26",
+      "headline": "Chess World Cup 2025: Decoding the format of the tournament The Chess World Cup 2025 will be played from October 31, 2025 to November 27, 2025 and this represents a golden chance for the Indian Chess grandmasters to seal their spot in the Candidates 2026 tournament. "
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/womens-world-cup-ind-vs-ban-pratika-rawal-radha-yadav-shree-charani-2808737-2025-10-26",
-      "headline": "Pratika Rawal's injury mars India's washed-out group finale against Bangladesh India reached the semi-final of the ICC Women's Cricket World Cup 2025 after their group match against Bangladesh was abandoned due to rain. The early end came with India in a strong position, highlighting their dominance despite weather disruptions."
+      "headline": "Pratika Rawal's injury mars India's washed-out group finale against Bangladesh India's group stage campaign came to an end with an abandoned fixture against Bangladesh in Navi Mumbai. A game which saw 36.4 overs in total was dominated by India before incessant rain denied them a win, which was just 69 runs away. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/video/amy-jones-lauds-england-spin-depth-as-focus-shifts-to-semi-final-showdown-2808735-2025-10-26",
+      "headline": "Amy Jones lauds England spin-depth as focus shifts to semi-final showdown Amy Jones praised England's spinners for a brilliant collective performance that helped restrict New Zealand, highlighting the team's depth and adaptability. With the semi-final against South Africa in Guwahati next, she emphasised focus and confidence heading into the clash."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/video/womens-world-cup-new-zealand-vs-england-sophie-devine-press-conference-2808732-2025-10-26",
+      "headline": "Sophie Devine on ODI retirement after NZ vs ENG: Proud of making this decision Sophie Devine said that she is proud to call time on her career after retiring from ODIs after New Zealand's final game of the Women's World Cup 2025 against England. Devine played 159 ODIs for the White Ferns."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/womens-world-cup-2025-pratika-rawal-freak-injury-scare-indw-vs-banw-2808725-2025-10-26",
+      "headline": "Pratika Rawal suffers freak injury in big blow for India before semis Women's World Cup 2025: India has suffered a big injury scare ahead of the semifinal clash against Australia, with their star opener, Pratika Rawak, suffering an injury during the final league match against Bangladesh."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/karun-nair-unbeaten-174-leads-karnataka-to-371-against-goa-rain-halts-play-bengaluru-2808717-2025-10-26",
+      "headline": "After India Test team snub, Nair makes statement with 25th first-class hundred Karun Nair sent a message to the selectors by scoring his 25th first-class century during the Ranji trophy clash against Goa on Sunday, October 26. Nair remained unbeaten on 174 as Karnataka put up 371 runs in the first innings. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ajinkya-rahane-advice-sarfaraz-khan-india-test-squad-snub-bcci-gautam-gambhir-2808708-2025-10-26",
+      "headline": "Rahane's message to Sarfaraz Khan amid selection row: Keep your head down and focus Ajinkya Rahane scored a commanding 159 in the Ranji Trophy and shared advice for Sarfaraz Khan. His message stresses patience and focus amid ongoing national team selection challenges."
     },
     {
       "sentiment": "positive",
@@ -354,52 +404,47 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/womens-world-cup-new-zealand-vs-england-sophie-devine-guard-of-honour-odi-retirement-2808702-2025-10-26",
-      "headline": "Why Sophie Devine denied teammates from giving guard honour before England tie New Zealand captain Sophie Devine explained why she refused her teammates from giving a guard of honour before the England tie on Sunday, October 26. Devine called time on her ODI career with the game in Vizag. "
+      "headline": "Why Sophie Devine denied teammates from giving guard honour before England tieNew Zealand captain Sophie Devine explained why she refused her teammates from giving a guard of honour before the England tie on Sunday, October 26. Devine called time on her ODI career with the game in Vizag. "
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/sophie-ecclestone-injury-update-england-womens-world-cup-spinner-rested-semi-final-2808696-2025-10-26",
-      "headline": "Sophie Ecclestone injured before semis? Nat Sciver-Brunt updates on England spinner Women's World Cup, ENG vs NZ: Left-arm spinner Sophie Ecclestone bowled only four balls in her spell in New Zealand's innings in Visakhapatnam before she went off the park due to a shoulder injury."
+      "headline": "Sophie Ecclestone injured before semis? Nat Sciver-Brunt updates on England spinnerWomen's World Cup, ENG vs NZ: Left-arm spinner Sophie Ecclestone bowled only four balls in her spell in New Zealand's innings in Visakhapatnam before she went off the park due to a shoulder injury."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ranji-trophy-2025-riyan-parag-assam-shortest-game-defeat-services-2808689-2025-10-26",
-      "headline": "Riyan Parag leads Assam to script unwanted record in Ranji Trophy history Riyan Parag starred with the ball as Assam fell to a heavy defeat against Services, scripting an unwanted Ranji Trophy record despite his valiant efforts."
+      "headline": "Riyan Parag leads Assam to script unwanted record in Ranji Trophy historyRiyan Parag starred with the ball as Assam fell to a heavy defeat against Services, scripting an unwanted Ranji Trophy record despite his valiant efforts."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ab-de-villiers-urges-fans-to-celebrate-virat-kohli-career-2025-2808688-2025-10-26",
-      "headline": "Celebrate Virat Kohli, let him find balance in life at end of career: AB de Villiers AB de Villiers has urged the fans to celebrate Virat Kohli and support him, irrespective of what decision he makes in terms of his career. Kohli came back into form during the third ODI against Australia. "
+      "headline": "Celebrate Virat Kohli, let him find balance in life at end of career: AB de VilliersAB de Villiers has urged the fans to celebrate Virat Kohli and support him, irrespective of what decision he makes in terms of his career. Kohli came back into form during the third ODI against Australia. "
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/video/harmanpreet-kaur-sobhana-mostary-interview-exclusive-bangladesh-womens-world-cup-2808687-2025-10-26",
-      "headline": "Harmanpreet Kaur is my idol, 171 against Australia inspired me: Sobhana Mostary Women's World Cup 2025: In an exclusive interview with India Today Digital, Bangladesh batter Sobhana Mostary said that she idolises Harmanpreet Kaur and started following her since the 171-run knock against Australia in the semi-finals of the 2017 edition in Derby. "
+      "headline": "Harmanpreet Kaur is my idol, 171 against Australia inspired me: Sobhana MostaryWomen's World Cup 2025: In an exclusive interview with India Today Digital, Bangladesh batter Sobhana Mostary said that she idolises Harmanpreet Kaur and started following her since the 171-run knock against Australia in the semi-finals of the 2017 edition in Derby. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/womens-world-cup-new-zealand-vs-england-sophie-devine-guard-of-honour-odi-retirement-2808702-2025-10-26",
-      "headline": "Why Sophie Devine denied teammates from giving guard honour before England tie New Zealand captain Sophie Devine explained why she refused her teammates from giving a guard of honour before the England tie on Sunday, October 26. Devine called time on her ODI career with the game in Vizag. "
+      "url": "https://www.indiatoday.in/sports/football/story/liverpool-arne-slot-bizarre-reason-brentford-poor-form-premier-league-2808686-2025-10-26",
+      "headline": "Arne Slot gives bizarre reason for Liverpool's pricey yet poor formLiverpool's Premier League title defence has hit a worrying slump after four straight defeats. Arne Slot blamed the team's away-heavy schedule and rival tactics for their poor form, calling it a key reason behind the slide."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/video/world-cup-shame-australian-cricketers-molested-on-indore-street-ytvd-2808681-2025-10-26",
+      "headline": "Australian Cricketers Molested On Indore Street | Molester ArrestedThis special report covers the shocking incident in Indore where two Australian women cricketers, in India for the ICC Women's World Cup, were stalked and molested. According to the Board of Control for Cricket in India (BCCI) Secretary Devajit Saikia, 'It is a very unfortunate incident that brings disrepute'. The incident occurred when the players were walking from their hotel to a cafe, prompting immediate police action. An FIR was lodged and the accused, identified as Akil Khan, was arrested based on a bystander's tip. The report delves into the political fallout and the serious questions raised about the safety of international athletes and women in India, an act that has brought global shame during a major tournament."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/sophie-ecclestone-injury-update-england-womens-world-cup-spinner-rested-semi-final-2808696-2025-10-26",
-      "headline": "Sophie Ecclestone injured before semis? Nat Sciver-Brunt updates on England spinner Women's World Cup, ENG vs NZ: Left-arm spinner Sophie Ecclestone bowled only four balls in her spell in New Zealand's innings in Visakhapatnam before she went off the park due to a shoulder injury."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ranji-trophy-2025-riyan-parag-assam-shortest-game-defeat-services-2808689-2025-10-26",
-      "headline": "Riyan Parag leads Assam to script unwanted record in Ranji Trophy history Riyan Parag starred with the ball as Assam fell to a heavy defeat against Services, scripting an unwanted Ranji Trophy record despite his valiant efforts."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ab-de-villiers-urges-fans-to-celebrate-virat-kohli-career-2025-2808688-2025-10-26",
-      "headline": "Celebrate Virat Kohli, let him find balance in life at end of career: AB de Villiers AB de Villiers has urged the fans to celebrate Virat Kohli and support him, irrespective of what decision he makes in terms of his career. Kohli came back into form during the third ODI against Australia. "
+      "url": "https://www.indiatoday.in/sports/cricket/story/womens-world-cup-2025-nz-vs-eng-sophie-devine-guard-of-honour-odi-farewell-retirement-2808670-2025-10-26",
+      "headline": "England and New Zealand give Sophie Devine guard of honour in emotional ODI farewellWomen's World Cup 2025: Sophie Devine received a guard of honour from both teams in her final ODI, capped by a special jersey from England, closing a stellar career that included 4,000+ runs and a T20 World Cup triumph as New Zealand captain."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/video/harmanpreet-kaur-sobhana-mostary-interview-exclusive-bangladesh-womens-world-cup-2808687-2025-10-26",
-      "headline": "Harmanpreet Kaur is my idol, 171 against Australia inspired me: Sobhana Mostary Women's World Cup 2025: In an exclusive interview with India Today Digital, Bangladesh batter Sobhana Mostary said that she idolises Harmanpreet Kaur and started following her since the 171-run knock against Australia in the semi-finals of the 2017 edition in Derby. "
+      "headline": "Harmanpreet Kaur is my idol, 171 against Australia inspired me: Sobhana MostaryWomen's World Cup 2025: In an exclusive interview with India Today Digital, Bangladesh batter Sobhana Mostary said that she idolises Harmanpreet Kaur and started following her since the 171-run knock against Australia in the semi-finals of the 2017 edition in Derby. "
     },
     {
       "sentiment": "positive",
@@ -438,21 +483,6 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/england-crush-new-zealand-sophie-devine-farewell-odi-womens-world-cup-2808651-2025-10-26",
-      "headline": "Devine's farewell ODI ends in heartbreak as New Zealand lose tamely to EnglandWomen's World Cup, ENG vs NZ: Sophie Devine scored 23 runs and a wicket in her farewell ODI, but New Zealand finished their campaign with an eight-wicket defeat to Nat Sciver-Brunt's England in Visakhapatnam. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/chess-world-cup-2025-india-player-list-gukesh-pragg-vidit-2808639-2025-10-26",
-      "headline": "Chess World Cup 2025: How many Indians are playing in the tournament?D Gukesh headlines the list of stars battling it out for the Chess World Cup title as the tournament returns to India after a gap of 23 years. Arjun Erigaisi, Praggnanandhaa, Vidit Gujrathi are among the other big names in the tournament. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/womens-world-cup-uma-chetry-odi-debut-ind-vs-ban-assam-cricket-milestone-2808626-2025-10-26",
-      "headline": "Who is Uma Chetry? All you need to know about India's ODI debutant from AssamUma Chetry made her ODI debut for India against Bangladesh in the Women's World Cup. Meanwhile, India have won the toss and chose to bowl first."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/aakash-chopra-bilateral-odi-cricket-india-vs-australia-2808627-2025-10-26",
       "headline": "Are ODIs boring? Ex-cricketer calls for more multi-laterals after IND vs AUSFormer cricketer Aakash Chopra believes that bilateral ODIs have lost their charm and hold no meaning at all. Chopra wants the boards to come together and play multi-lateral series more."
     },
@@ -460,31 +490,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/belinda-bencic-wins-2025-pan-pacific-open-tokyo-linda-noskova-2808621-2025-10-26",
       "headline": "Belinda Bencic puts behind 10-year-old heartbreak to claim titleSwiss star Belinda Bencic capped her comeback with a fairytale triumph at the 2025 Pan Pacific Open, defeating Czech rising star Linda Noskova 6\u20132, 6\u20133 in Tokyo to claim her 10th WTA title."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/nz-vs-eng-1st-odi-kane-williamson-flops-kohli-duck-return-international-cricket-2808606-2025-10-26",
-      "headline": "Same same but different: Kane Williamson goes Virat Kohli route on ODI returnKane Williamson returned to ODI cricket but was dismissed for a duck as New Zealand edged England by four wickets. It had a similar parallel to Virat Kohli, who had recently made his return to international cricket."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/womens-world-cup-ind-vs-ban-live-score-smriti-mandhana-harmanpreet-kaur-2808598-2025-10-26",
-      "headline": "IND vs BAN Live: Match abandoned in Navi Mumbai due to rainIndia (IND) vs Bangladesh (BAN) Live Score, Women's World Cup: Rain has had the last laugh at the DY Patil Stadium in Navi Mumbai as the match between India and Bangladesh has been called off due to rain. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/real-madrid-vs-fc-barcelona-el-clasico-live-streaming-laliga-kylian-mbappe-lamine-yamal-2808593-2025-10-26",
-      "headline": "Real Madrid vs Barcelona Live streaming: Yamal's ego vs Mbappe's redemptionLamine Yamal has dominated Real Madrid in four games last season, while Kylian Mbapp\u00e9 aims to secure his first Clasico win with Madrid on October 26. Stakes are high at the Bernabeu."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/abhishek-nayar-appointed-kkr-head-coach-ipl-auction-2025-2808550-2025-10-26",
-      "headline": "Abhishek Nayar set to be named as KKR head coach : ReportFormer India assistant coach Abhishek Nayar is set to take over the Kolkata Knight Riders. Nayar, who coached UP Warriorz last season in the WPL is reportedly communicated the decision last week by the franchise."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/sophie-devine-odi-retirement-tears-world-cup-2808541-2025-10-26",
-      "headline": "Emotional Sophie Devine breaks down in tears in final ODINew Zealand captain Sophie Devine was moved to tears at the start of her final ODI match. Devine said that she would try to play the game with a smile on her face."
     }
   ],
   "education": [
