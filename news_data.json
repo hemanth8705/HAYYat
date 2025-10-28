@@ -1,6 +1,11 @@
 {
   "business": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/amazon-to-cut-14000-jobs-in-biggest-ever-layoffs-amid-ai-driven-cost-cuts-glbs-2809914-2025-10-29",
+      "headline": "Amazon to cut 14,000 corporate jobs amid company's AI push to slash costsAmazon will cut about 14,000 corporate jobs, its biggest layoffs since 2023, as it ramps up artificial intelligence investments and trims costs under CEO Andy Jassy's ongoing restructuring plan."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/companies/story/apple-becomes-third-company-to-cross-4-trillion-dollar-market-value-2809787-2025-10-28",
       "headline": "Apple joins Microsoft, Nvidia in exclusive $4 trillion market-cap clubApple is now the third member of the $4 trillion market-cap club, joining Nvidia\u2014currently valued above $4.5 trillion\u2014and Microsoft, which re-entered the group following gains linked to its partnership with OpenAI."
@@ -94,11 +99,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/personal-finance/story/credit-card-spending-diwali-2025-paisabazaar-survey-festive-shopping-trends-2808978-2025-10-27",
       "headline": "How credit cards fuelled India's Diwali shopping partyA new survey has revealed how Indians turned to credit cards for high-value festive buys this Diwali, planning purchases smartly around cashback offers, no-cost EMIs and online deals."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/gold-silver-prices-fall-buy-now-or-wait-expert-strategy-decoded-2808959-2025-10-27",
-      "headline": "Gold, silver prices are falling. Should you buy now or wait?Gold and silver prices are slipping as global optimism rises and profit-taking kicks in. Experts explain what's driving the fall and whether buyers should wait before investing."
     }
   ],
   "entertainment": [
@@ -202,7 +202,7 @@
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/cyclone-montha-lanfall-process-has-begun-will-cross-andhra-coast-during-next-3-4-hours-weather-department-2809786-2025-10-28",
-      "headline": "Cyclone Montha landfall process underway, to cross Andhra coast after midnightThe landfall process of Cyclone Montha, which turned into a severe cyclonic storm, is underway and the system will cross the Andhra Pradesh coast after midnight. As the cyclone neared, several parts of Andhra Pradesh and neighbouring Odisha witnessed heavy rain."
+      "headline": "Cyclone Montha crosses Andhra coast after midnight, IMD says storm to weaken soonThe severe cyclonic storm Montha made landfall between Machilipatnam and Kalingapatnam in the early hours of Wednesday, bringing heavy rain and strong winds to Andhra Pradesh and Yanan before beginning to weaken into a cyclonic storm."
     },
     {
       "sentiment": "positive",
@@ -322,6 +322,11 @@
   ],
   "sports": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/south-africa-beat-pakistan-rawalpindi-t20i-babar-azam-report-2809912-2025-10-29",
+      "headline": "Babar Azam flops as South Africa crush Pakistan by 55 runs in Rawalpindi PAK vs SA: South Africa crushed Pakistan by 55 runs in the first T20I at Rawalpindi, with George Linde starring in an all-round show. Babar Azam's return ended in disappointment as he fell for a duck, deepening Pakistan's batting woes.\r\n"
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/cricket/story/babar-azam-duck-t20i-comeback-pakistan-vs-south-africa-rawalpindi-2809883-2025-10-28",
       "headline": "Finished Kohli > Prime Babar: Fans tear into Pakistan batter after 0 on T20I return Babar Azam was heavily trolled after failing to open his account against South Africa, where Corbin Bosch dismissed him for a duck. Fans criticised the comparisons with Virat Kohli, saying Babar should not be measured against a player of Kohli's class and calibre.\r\n"
@@ -368,8 +373,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/mohammad-rizwan-declines-pcb-central-contract-over-demands-2809785-2025-10-28",
-      "headline": "Rizwan declines Pakistan central contract over dispute with PCB: Reports Mohammad Rizwan has reportedly declined the PCB's 2025\u201326 central contract, a development that follows his removal as ODI captain and exclusion from the T20I series against South Africa."
+      "url": "https://www.indiatoday.in/sports/cricket/story/irfan-pathan-hardik-pandya-injury-india-three-pacer-plan-australia-t20-2025-2809812-2025-10-28",
+      "headline": "Hardik Pandya's injury shifts India's balance for Australia T20Is, says Irfan Pathan Former India all-rounder Irfan Pathan says Hardik Pandya's injury will affect India's balance in the T20I series against Australia. He backs a three-pacer strategy and picks Varun Chakravarthy over Kuldeep Yadav for his mystery spin in Australian conditions."
     },
     {
       "sentiment": "positive",
@@ -389,7 +394,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/mohammad-rizwan-declines-pcb-central-contract-over-demands-2809785-2025-10-28",
-      "headline": "Rizwan declines Pakistan central contract over dispute with PCB: Reports Mohammad Rizwan has reportedly declined the PCB's 2025\u201326 central contract, a development that follows his removal as ODI captain and exclusion from the T20I series against South Africa."
+      "headline": "Rizwan declines Pakistan central contract over dispute with PCB: ReportsMohammad Rizwan has reportedly declined the PCB's 2025\u201326 central contract, a development that follows his removal as ODI captain and exclusion from the T20I series against South Africa."
     },
     {
       "sentiment": "positive",
@@ -428,8 +433,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/gukesh-d-revenge-on-hikaru-nakamura-clutch-chess-2025-2809722-2025-10-28",
-      "headline": "Gukesh gets his revenge on Hikaru Nakamura, but plays it cool to win over internetGukesh Dommaraju kept his cool to beat Hikaru Nakamura at the 2025 Clutch Chess Showdown, just weeks after their viral Checkmate controversy. His calm revenge win and quiet composure won over fans and the internet alike."
+      "url": "https://www.indiatoday.in/sports/cricket/story/womens-world-cup-alyssa-healy-fitness-update-for-semi-final-clash-against-india-2809737-2025-10-28",
+      "headline": "Alyssa Healy on track to return for semi-final clash against IndiaAustralian skipper Alyssa Healy edges closer to a comeback in the Women's World Cup 2025 semi-final versus India after clearing a demanding fitness assessment in Mumbai. Her return will be a huge cause of concern for India as Healy earlier slammed a century in group stage clash against the hosts."
     },
     {
       "sentiment": "positive",
@@ -485,11 +490,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/sophie-ecclestone-injury-update-england-womens-world-cup-semi-final-south-africa-2809610-2025-10-28",
       "headline": "England sweat over Sophie Ecclestone's fitness ahead of South Africa semi-finalEngland are sweating over spinner Sophie Ecclestone's fitness ahead of their Women's World Cup semi-final against South Africa, after she sustained a shoulder injury in the last group match against New Zealand."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/mohammed-shami-ranji-india-comeback-2809598-2025-10-28",
-      "headline": "Mohammed Shami's statement spell hands Bengal 141-run win over GujaratBengal hammered Gujarat by 141 runs in the second round of the Ranji Trophy. Mohammed Shami bowled a riveting spell on the final day of the match, rescuing the hosts from a perilous position."
     }
   ],
   "education": [
