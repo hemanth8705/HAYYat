@@ -1,6 +1,11 @@
 {
   "business": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/companies/story/apple-becomes-third-company-to-cross-4-trillion-dollar-market-value-2809787-2025-10-28",
+      "headline": "Apple joins Microsoft, Nvidia in exclusive $4 trillion market-cap clubApple is now the third member of the $4 trillion market-cap club, joining Nvidia\u2014currently valued above $4.5 trillion\u2014and Microsoft, which re-entered the group following gains linked to its partnership with OpenAI."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/market/story/sensex-nifty-end-slightly-lower-amid-volatility-and-profit-booking-2809612-2025-10-28",
       "headline": "Sensex, Nifty end slightly lower amid volatility and profit bookingThe S&P BSE Sensex slipped 75.11 points to close at 84,703.73 and the NSE Nifty50 fell 29.85 points to settle at 25,936.20."
@@ -94,14 +99,14 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/personal-finance/story/gold-silver-prices-fall-buy-now-or-wait-expert-strategy-decoded-2808959-2025-10-27",
       "headline": "Gold, silver prices are falling. Should you buy now or wait?Gold and silver prices are slipping as global optimism rises and profit-taking kicks in. Experts explain what's driving the fall and whether buyers should wait before investing."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/medical-inflation-health-insurance-premium-cost-affordable-tips-2808930-2025-10-27",
-      "headline": "Hospital bills are rising. Here's how to make your health insurance smarterAs medical inflation pushes treatment and hospital costs higher, insurers are reworking pricing and policies. Here's how flexible plans, wellness incentives, and smart choices can help you keep your cover affordable."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/fwice-appeals-to-pm-narendra-modi-to-posthumously-confer-padma-shri-to-satish-shah-2809802-2025-10-28",
+      "headline": "Film body urges PM Modi to confer Padma Shri posthumously on Satish Shah The Federation of Western India Cine Employees (FWICE) appealed to Prime Minister Narendra Modi to posthumously confer Padma Shri to late actor Satish Shah for his contribution to cinema and television."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/music/video/enrique-iglesias-arrives-in-india-for-his-two-day-concert-in-mumbai-watch-2809790-2025-10-28",
@@ -191,18 +196,13 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/television/story/rupali-ganguly-all-hearts-tears-over-amul-tribute-to-her-kaka-satish-shah-2809539-2025-10-28",
       "headline": "Rupali Ganguly is all hearts and tears over Amul's tribute to her kaka Satish Shah Amul has honoured late actor Satish Shah with a special tribute campaign, recognising his decades-long contribution to Indian entertainment after his recent passing. The gesture drew responses from industry colleagues, including Rupali Ganguly. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/baseer-ali-hurt-that-nehal-used-me-in-bigg-boss-19-still-under-contract-2809522-2025-10-28",
-      "headline": "Baseer Ali: I am hurt that Nehal used me in Bigg Boss 19 After his eviction from 'Bigg Boss 19', Baseer Ali opened up about feeling sidelined by the makers, claiming he received no feedback while others were guided. In an exclusive chat with India Today, he addressed his bond with Nehal Chudasama and Farrhana Bhatt."
     }
   ],
   "general news": [
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/cyclone-montha-lanfall-process-has-begun-will-cross-andhra-coast-during-next-3-4-hours-weather-department-2809786-2025-10-28",
-      "headline": "Cyclone Montha landfall process begins, to cross Andhra coast in 3-4 hoursCyclone Montha on Tuesday approached near the Andhra Pradesh coast as the landfall process began, and it would take three to four hours to cross the state late at night, the weather department said."
+      "headline": "Cyclone Montha landfall process begins, to cross Andhra coast in 4 hoursThe landfall process of Cyclone Montha, which turned into a severe cyclonic storm, has begun and the system is expected to cross the Andhra Pradesh coast in the next four hours. As the cyclone neared, several parts of Andhra Pradesh and neighbouring Odisha witnessed heavy rain."
     },
     {
       "sentiment": "positive",
@@ -215,9 +215,9 @@
       "headline": "1 job per family, Rs 2,500 for women: Mahagathbandhan goes with populist playbookWith just days left for the Bihar elections, the Mahagathbandhan released its poll manifesto, outlining a wide-ranging agenda focusing on employment, welfare, and governance reforms."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/assembly/story/election-commission-notice-to-prashant-kishor-over-two-voter-enrollments-asked-to-explain-reasons-in-3-days-2809592-2025-10-28",
-      "headline": "Election Commission asks Prashant Kishor to explain 2 voter enrolments in 2 statesThe notice, served by the Returning Officer of Bihar's Kargahar constituency, cites Section 17 of the Representation of the People Act, which prohibits dual registration, and asks Kishor to respond within three days."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/storm-of-the-century-hurricane-melissa-barrels-toward-jamaica-catastrophe-feared-caribbean-nations-worst-storm-latest-updates-2809671-2025-10-28",
+      "headline": "Storm of the century: Hurricane Melissa barrels toward Jamaica, catastrophe fearedJamaica and eastern Cuba are bracing for the impact of Category 5 Hurricane Melissa, which the US National Hurricane Centre warns could be the strongest storm ever to hit the region. The Cuban military has been deployed for rescue and cleanup efforts as Jamaicans rush to secure homes and supplies.\r\n"
     },
     {
       "sentiment": "positive",
@@ -225,14 +225,29 @@
       "headline": "Delhi HC ruling, and alimony law firestorm ignited by Yuzvendra ChahalThe Chahal divorce and a recent Delhi High Court ruling have ignited a nationwide debate on the future of alimony in India. This discussion centers on financial independence, fairness, and legal expectations in modern marriages."
     },
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/elections/assembly/story/election-commission-notice-to-prashant-kishor-over-two-voter-enrollments-asked-to-explain-reasons-in-3-days-2809592-2025-10-28",
+      "headline": "Election Commission asks Prashant Kishor to explain 2 voter enrolments in 2 statesThe notice, served by the Returning Officer of Bihar's Kargahar constituency, cites Section 17 of the Representation of the People Act, which prohibits dual registration, and asks Kishor to respond within three days."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/companies/story/mehli-mistry-set-to-exit-tata-trusts-after-trustees-block-reappointment-2809599-2025-10-28",
       "headline": "Mehli Mistry set to exit Tata Trusts after trustees block reappointmentMehli Mistry, who joined both trusts in 2022, has been regarded as a close associate of the late Ratan Tata. The Sir Dorabji Tata Trust and the Sir Ratan Tata Trust together hold the largest shareholding in Tata Sons and play a central role in board nominations and governance across the Tata Group."
     },
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/us-news/story/outrage-sikh-trucker-who-killed-3-us-ontario-california-freeway-crash-brought-court-without-turban-punjab-sukhbir-badal-2809760-2025-10-28",
+      "headline": "Outrage as Sikh trucker who killed 3 in US crash brought in court without turbanA 21-year-old Indian-origin truck driver, Jashanpreet Singh, accused of causing a crash that killed three in California, appeared in a US court without his turban, sparking outrage among Sikh community and leaders, including Shiromani Akali Dal chief Sukhbir Singh Badal. A petition has also been created seeking authorities to \"restore his religious rights\"."
+    },
+    {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/delhi/story/delhi-cloud-seeding-trial-post-diwali-smog-reduction-2809575-2025-10-28",
-      "headline": "Cloud seeding conducted over parts of Delhi, artificial rain likely soonThe first full-scale cloud seeding trial has taken place in Delhi to tackle severe post-Diwali smog. The success of the effort could significantly lower the city's hazardous air pollution levels."
+      "url": "https://www.indiatoday.in/world/us-news/story/here-is-what-it-felt-like-in-eye-of-hurricane-melissa-jaw-dropping-but-poignant-jeremy-dehart-us-meteorologist-2809757-2025-10-28",
+      "headline": "What it felt on the plane in eye of Hurricane Melissa: Jaw-dropping, but poignantA Hurricane Hunter aircraft pierced Hurricane Melissa's eye, capturing rare cockpit footage of its 22-mile-wide clear centre. The Category 5 storm, packing 175 mph winds, is heading towards Jamaica. Here is what those on the plane felt while they were in the eye of the storm, literally."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/nrc-fear-triggers-political-confrontation-in-west-bengal-after-pradeep-kars-suicide-2809764-2025-10-28",
+      "headline": "Bengal man dies by suicide over NRC fear, triggers Mamata Banerjee-BJP spatA 57-year-old man's death in West Bengal's North 24 Parganas district allegedly over fears related to NRC has led to a heated exchange between Chief Minister Mamata Banerjee and BJP's Amit Malviya."
     },
     {
       "sentiment": "negative",
@@ -245,24 +260,14 @@
       "headline": "Plane flies into Hurricane Melissa, goosebump-inducing video reveals nature's mightThe stunning footage was captured by a US Air Force crew, known as \"Hurricane Hunters.\" They flew directly into the eye of the Category 5 storm scheduled to make landfall in\u00a0Jamaica as the\u00a0strongest to hit the island since record-keeping began in 1851."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/nrc-fear-triggers-political-confrontation-in-west-bengal-after-pradeep-kars-suicide-2809764-2025-10-28",
-      "headline": "Bengal man dies by suicide over NRC fear, triggers Mamata Banerjee-BJP spatA 57-year-old man's death in West Bengal's North 24 Parganas district allegedly over fears related to NRC has led to a heated exchange between Chief Minister Mamata Banerjee and BJP's Amit Malviya."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/storm-of-the-century-hurricane-melissa-barrels-toward-jamaica-catastrophe-feared-caribbean-nations-worst-storm-latest-updates-2809671-2025-10-28",
-      "headline": "Storm of the century: Hurricane Melissa barrels toward Jamaica, catastrophe fearedJamaica and eastern Cuba are bracing for the impact of Category 5 Hurricane Melissa, which the US National Hurricane Centre warns could be the strongest storm ever to hit the region. The Cuban military has been deployed for rescue and cleanup efforts as Jamaicans rush to secure homes and supplies.\r\n"
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/donald-trump-clueless-stroll-as-he-reviews-guard-of-honour-in-tokyo-video-is-viral-2809793-2025-10-28",
+      "headline": "Trump's clueless stroll as he reviews guard of honour in Tokyo, video is viralTrump arrived in Tokyo on a three-day visit to Japan on Tuesday and held bilateral talks with Prime Minister Sanae Takaichi to boost defence and economic ties."
     },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/personal-finance/story/claim-denied-series-crpf-officer-care-health-insurance-fight-autistic-son-treatment-2809453-2025-10-28",
       "headline": "How a CRPF officer fought insurer for his autistic son's treatmentWhen CRPF officer Syam Krishna's autistic son fell ill, doctors advised hospitalisation. But his insurer called it \"unnecessary\" and even questioned the family's claim history. This week's 'Claim Denied' story reveals how genuine policyholders are forced to fight for rightful care."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/satellite-images-show-the-monstrous-nature-of-cyclone-montha-pics-inside-2809752-2025-10-28",
-      "headline": "Satellite images show the monstrous nature of Cyclone MonthaStriking satellite images from Isro's INSAT-3DR satellite captured the swirling mass of clouds and the dense, spiralling eyewall, vividly illustrating the storm's monstrous scale as it barrels towards land.\u200b"
     },
     {
       "sentiment": "positive",
@@ -276,33 +281,18 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/satellite-images-show-the-monstrous-nature-of-cyclone-montha-pics-inside-2809752-2025-10-28",
+      "headline": "Satellite images show the monstrous nature of Cyclone MonthaStriking satellite images from Isro's INSAT-3DR satellite captured the swirling mass of clouds and the dense, spiralling eyewall, vividly illustrating the storm's monstrous scale as it barrels towards land.\u200b"
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/companies/story/apple-becomes-third-company-to-cross-4-trillion-dollar-market-value-2809787-2025-10-28",
+      "headline": "Apple joins Microsoft, Nvidia in exclusive $4 trillion market-cap clubApple is now the third member of the $4 trillion market-cap club, joining Nvidia\u2014currently valued above $4.5 trillion\u2014and Microsoft, which re-entered the group following gains linked to its partnership with OpenAI."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/lifestyle/relationship/story/my-partner-is-a-hobosexual-but-does-that-make-her-a-gold-digger-2809591-2025-10-28",
       "headline": "'My partner is a hobosexual, but does that make her a gold-digger?'As living costs climb in metro cities, a new kind of relationship has quietly emerged: the hobosexual kind. But when affection comes bundled with dependence, how do you know if your partner's staying for love or if they are actually a gold digger?"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/companies/story/amazon-biggest-ever-layoff-30000-job-cuts-explained-2809394-2025-10-28",
-      "headline": "Amazon's biggest-ever layoffs: Why 30,000 jobs are on the lineThe layoffs will affect nearly 10% of Amazon's 350,000 corporate employees, though that's only a fraction of its 1.55 million total workforce."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/thalapathy-vijay-tvk-ferries-families-of-karur-rally-stampede-victims-four-hundred-km-away-for-meeting-sparks-row-2809564-2025-10-28",
-      "headline": "Vijay ferries families of Karur victims 400 km away for meeting, sparks rowActor-poitician Vijay shuttled families of 37 Karur stampede victims' 400 km to a resort in Mahabalipuram for a private apology. But the move has seemingly sparked a row even as he claimed he could not get the administration's permission to visit Karur."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/canada-news/story/indian-origin-businessman-killed-outside-home-in-canada-abbotsford-british-colombia-punjab-darshan-singh-sahsi-2809587-2025-10-28",
-      "headline": "Indian-origin textile tycoon gunned down in Canada just outside his homeA 68-year-old Indian-origin businessman was shot dead in his car outside his Abbotsford home in Canada's British Columbia. Police said the shooting appears targeted. No arrests have been made so far, and the Integrated Homicide Investigation Team is probing the case."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/assam-bjp-mocks-karnataka-it-minister-priyank-kharges-jab-chief-minister-himanta-biswa-sarma-hello-teddy-boy-2809317-2025-10-28",
-      "headline": "Hello, Teddy Boy: Assam BJP mocks Priyank Kharge after his jab at Himanta SarmaThe feud between Himanta Biswa Sarma and Priyank Kharge erupted after the Karnataka Minister allegedly told a news channel that semiconductor investments meant for his state were being diverted towards Gujarat and Assam, after being \"arm-twisted\" by the Centre."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/science-behind-cloud-seeding-conducted-over-delhi-artificial-rain-2809588-2025-10-28",
-      "headline": "Will it rain in Delhi? Science behind cloud seeding conducted over national\u00a0capitalAll eyes will be on Delhi as scientists, environmentalists and weather officials look for rain. This one artificially induced to curb pollution and smog levels in parts of the capital."
     },
     {
       "sentiment": "positive",
@@ -311,16 +301,46 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/us-donald-trump-venezuela-nicolas-maduro-war-possible-scenarios-2809642-2025-10-28",
-      "headline": "What the war in Venezuela could look likeUS President Donald Trump has signalled imminent military action in Venezuela. Here is a look at the three broad options for the US in South America."
+      "url": "https://www.indiatoday.in/science/story/science-behind-cloud-seeding-conducted-over-delhi-artificial-rain-2809588-2025-10-28",
+      "headline": "Will it rain in Delhi? Science behind cloud seeding conducted over national\u00a0capitalAll eyes will be on Delhi as scientists, environmentalists and weather officials look for rain. This one artificially induced to curb pollution and smog levels in parts of the capital."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/assembly/story/tejashwi-yadav-promises-to-legalise-toddy-in-dry-state-bihar-if-mahagathbandhan-comes-to-power-2809604-2025-10-28",
-      "headline": "Tejashwi Yadav vows to legalise toddy in dry state Bihar if Mahagathbandhan winsWhile campaigning in Bihar's Saran, Tejashwi Yadav promised to legalise toddy in Bihar, which has been a dry state since 2016, Mahagathbandhan\u00a0comes\u00a0to\u00a0power in the state."
+      "url": "https://www.indiatoday.in/india/story/assam-bjp-mocks-karnataka-it-minister-priyank-kharges-jab-chief-minister-himanta-biswa-sarma-hello-teddy-boy-2809317-2025-10-28",
+      "headline": "Hello, Teddy Boy: Assam BJP mocks Priyank Kharge after his jab at Himanta SarmaThe feud between Himanta Biswa Sarma and Priyank Kharge erupted after the Karnataka Minister allegedly told a news channel that semiconductor investments meant for his state were being diverted towards Gujarat and Assam, after being \"arm-twisted\" by the Centre."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/thalapathy-vijay-tvk-ferries-families-of-karur-rally-stampede-victims-four-hundred-km-away-for-meeting-sparks-row-2809564-2025-10-28",
+      "headline": "Vijay ferries families of Karur victims 400 km away for meeting, sparks rowActor-poitician Vijay shuttled families of 37 Karur stampede victims' 400 km to a resort in Mahabalipuram for a private apology. But the move has seemingly sparked a row even as he claimed he could not get the administration's permission to visit Karur."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/cities/delhi/story/delhi-cloud-seeding-trial-post-diwali-smog-reduction-2809575-2025-10-28",
+      "headline": "Cloud seeding conducted over parts of Delhi, artificial rain likely soonThe first full-scale cloud seeding trial has taken place in Delhi to tackle severe post-Diwali smog. The success of the effort could significantly lower the city's hazardous air pollution levels."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/nat-sciver-brunt-india-womens-world-cup-final-england-south-africa-semi-final-2809814-2025-10-28",
+      "headline": "Nat Sciver-Brunt hopes India qualify for final, wants hosts to beat Australia Nat Sciver-Brunt expressed her hope to see India reach the Women's World Cup final, saying the atmosphere would be incredible if the hosts made it. On Wednesday, England will face South Africa in the first semi-final. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/irfan-pathan-hardik-pandya-injury-india-three-pacer-plan-australia-t20-2025-2809812-2025-10-28",
+      "headline": "Hardik Pandya's injury shifts India's balance for Australia T20Is, says Irfan Pathan Former India all-rounder Irfan Pathan says Hardik Pandya's injury will affect India's balance in the T20I series against Australia. He backs a three-pacer strategy and picks Varun Chakravarthy over Kuldeep Yadav for his mystery spin in Australian conditions."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/video/care-today-foundation-empowers-young-archers-in-a-remote-maharashtra-village-ytvd-2809809-2025-10-28",
+      "headline": "Care Today Foundation empowers young archers in Maharashtra's Wadhona A year after we showed the story of Dipak Wanve, a teacher who doubled as an archery coach and trained his students with limited means, and now India Today Group's Care Today Foundation has stepped in to provide professional archery equipment to these aspiring athletes.\u00a0"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/manchester-city-squad-rotation-haaland-injury-update-swansea-league-cup-clash-2809784-2025-10-28",
+      "headline": "Erling Haaland could be rested for EFL Cup clash after knock: Pep Guardiola Pep Guardiola hinted that Erling Haaland maybe rested for the EFL Cup clash against Swansea City after sustaining a knock in the Premier League loss to Aston Villa. "
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/england-james-anderson-knighthood-honour-windsor-castle-2025-2809791-2025-10-28",
@@ -353,53 +373,73 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/mohammad-rizwan-declines-pcb-central-contract-over-demands-2809785-2025-10-28",
+      "headline": "Rizwan declines Pakistan central contract over dispute with PCB: Reports Mohammad Rizwan has reportedly declined the PCB's 2025\u201326 central contract, a development that follows his removal as ODI captain and exclusion from the T20I series against South Africa."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/mohammed-shami-ready-for-india-comeback-after-ranji-trophy-five-wicket-haul-2809767-2025-10-28",
+      "headline": "Mohammed Shami ready to make India comeback: There is cricket left in me Mohammed Shami has said that he is keeping himself ready to make an Indian comeback after continuing his fine run in the Ranji Trophy this season. Shami last played for India during the Champions Trophy this year. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/dani-carvajal-knee-surgery-real-madrid-el-clasico-injury-2809763-2025-10-28",
+      "headline": "Dani Carvajal out for three months after knee surgery post El Clasico win Real Madrid defender Dani Carvajal has undergone successful knee surgery after El Clasico. The injury sidelines him for up to three months, impacting Madrid's defensive options."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/video/south-africa-vs-england-womens-world-cup-semifinal-laura-wolvaardt-2809751-2025-10-28",
+      "headline": "South Africa have a really good shot at winning semis vs England: Laura Wolvaardt Women's World Cup 2025, ENG vs SA: Laura Wolvaardt said that South Africa are more than capable of taking down England in the semi-final on Wednesday in Guwahati. Earlier in the tournament, the Proteas had lost to the Brits by 10 wickets after being bowled out for 69. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/womens-world-cup-alyssa-healy-fitness-update-for-semi-final-clash-against-india-2809737-2025-10-28",
+      "headline": "Alyssa Healy on track to return for semi-final clash against India Australian skipper Alyssa Healy edges closer to a comeback in the Women's World Cup 2025 semi-final versus India after clearing a demanding fitness assessment in Mumbai. Her return will be a huge cause of concern for India as Healy earlier slammed a century in group stage clash against the hosts."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/michael-clarke-hails-abhishek-sharma-india-t20i-superstar-australia-series-2809744-2025-10-28",
-      "headline": "Superstar Abhishek Sharma ready to play all three formats for India: Michael Clarke Michael Clarke feels that Abhishek Sharma is ready to play all three formats for India ahead of the T20I series against Australia. Abhishek is in imperial form in the shortest format of the game. "
+      "headline": "Superstar Abhishek Sharma ready to play all three formats for India: Michael ClarkeMichael Clarke feels that Abhishek Sharma is ready to play all three formats for India ahead of the T20I series against Australia. Abhishek is in imperial form in the shortest format of the game. "
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/alex-carey-ready-for-barmy-army-taunts-ashes-2025-2809742-2025-10-28",
-      "headline": "Alex Carey ready for Barmy Army taunts as Ashes stumping row still echoes in 2025 Alex Carey is bracing for Barmy Army taunts as Australia prepare to host England in the 2025 Ashes. Two years after his stumping of Jonny Bairstow sparked a Spirit of Cricket storm, the wicketkeeper says he is ready for the noise and focused on the cricket."
+      "headline": "Alex Carey ready for Barmy Army taunts as Ashes stumping row still echoes in 2025Alex Carey is bracing for Barmy Army taunts as Australia prepare to host England in the 2025 Ashes. Two years after his stumping of Jonny Bairstow sparked a Spirit of Cricket storm, the wicketkeeper says he is ready for the noise and focused on the cricket."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/laura-wolvaardt-mental-strength-south-africa-womens-world-cup-semi-final-england-2809723-2025-10-28",
-      "headline": "England are also under pressure: Wolvaardt wants South Africa to stay calm in semis Laura Wolvaardt has urged South Africa to stay calm and trust their skills ahead of the Women's World Cup semi-final against England, emphasising mental strength over skills. "
+      "headline": "England are also under pressure: Wolvaardt wants South Africa to stay calm in semisLaura Wolvaardt has urged South Africa to stay calm and trust their skills ahead of the Women's World Cup semi-final against England, emphasising mental strength over skills. "
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/other-sports/story/gukesh-d-revenge-on-hikaru-nakamura-clutch-chess-2025-2809722-2025-10-28",
-      "headline": "Gukesh gets his revenge on Hikaru Nakamura, but plays it cool to win over internet Gukesh Dommaraju kept his cool to beat Hikaru Nakamura at the 2025 Clutch Chess Showdown, just weeks after their viral Checkmate controversy. His calm revenge win and quiet composure won over fans and the internet alike."
+      "headline": "Gukesh gets his revenge on Hikaru Nakamura, but plays it cool to win over internetGukesh Dommaraju kept his cool to beat Hikaru Nakamura at the 2025 Clutch Chess Showdown, just weeks after their viral Checkmate controversy. His calm revenge win and quiet composure won over fans and the internet alike."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/shreyas-iyer-rib-injury-icu-sydney-odi-recovery-2809718-2025-10-28",
-      "headline": "Shreyas Iyer out of ICU, recovering well after rib injury in Sydney ODI India's ODI vice-captain Shreyas Iyer is out of the ICU and has stepped his recovery from the rib injury he suffered during the third match of the series against Australia in Sydney. Sources have said that Shreyas has started talking to his teammates and eating solid food. "
+      "headline": "Shreyas Iyer out of ICU, recovering well after rib injury in Sydney ODIIndia's ODI vice-captain Shreyas Iyer is out of the ICU and has stepped his recovery from the rib injury he suffered during the third match of the series against Australia in Sydney. Sources have said that Shreyas has started talking to his teammates and eating solid food. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/michael-clarke-hails-abhishek-sharma-india-t20i-superstar-australia-series-2809744-2025-10-28",
-      "headline": "Superstar Abhishek Sharma ready to play all three formats for India: Michael Clarke Michael Clarke feels that Abhishek Sharma is ready to play all three formats for India ahead of the T20I series against Australia. Abhishek is in imperial form in the shortest format of the game. "
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-australia-first-t20i-hardik-pandya-injury-suryakumar-yadav-captaincy-2809691-2025-10-28",
+      "headline": "AUS vs IND 1st T20I Predicted XI: Will India continue with 3 spinners in Canberra?India are set to play Australia in the first T20I at Manuka Oval without key all-rounder Hardik Pandya. The team has a tough task of fielding the best possible combination in the absence of their seasoned all-rounder."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/alex-carey-ready-for-barmy-army-taunts-ashes-2025-2809742-2025-10-28",
-      "headline": "Alex Carey ready for Barmy Army taunts as Ashes stumping row still echoes in 2025 Alex Carey is bracing for Barmy Army taunts as Australia prepare to host England in the 2025 Ashes. Two years after his stumping of Jonny Bairstow sparked a Spirit of Cricket storm, the wicketkeeper says he is ready for the noise and focused on the cricket."
+      "url": "https://www.indiatoday.in/sports/cricket/story/england-women-cricket-world-cup-semi-final-south-africa-joe-root-2809688-2025-10-28",
+      "headline": "Joe Root leads wishes for England before Women's World Cup semis vs South AfricaEngland women's cricket team prepares to face South Africa in the Women's World Cup semi-final on October 29. Key players and male teammates have expressed strong support ahead of the crucial knockout match."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/laura-wolvaardt-mental-strength-south-africa-womens-world-cup-semi-final-england-2809723-2025-10-28",
-      "headline": "England are also under pressure: Wolvaardt wants South Africa to stay calm in semis Laura Wolvaardt has urged South Africa to stay calm and trust their skills ahead of the Women's World Cup semi-final against England, emphasising mental strength over skills. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/gukesh-d-revenge-on-hikaru-nakamura-clutch-chess-2025-2809722-2025-10-28",
-      "headline": "Gukesh gets his revenge on Hikaru Nakamura, but plays it cool to win over internet Gukesh Dommaraju kept his cool to beat Hikaru Nakamura at the 2025 Clutch Chess Showdown, just weeks after their viral Checkmate controversy. His calm revenge win and quiet composure won over fans and the internet alike."
+      "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-sa-temba-bavuma-simon-harmer-south-africa-test-comeback-2809685-2025-10-28",
+      "headline": "How a simple chat with Temba Bavuma sparked Simon Harmer's return to Test cricketA chat between Temba Bavuma and Simon Harmer after the WTC final reignited the off-spinner's Test career. After years away, Harmer's return brought experience, balance, and 1,000 first-class wickets to a rejuvenated South African spin attack."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/shreyas-iyer-rib-injury-icu-sydney-odi-recovery-2809718-2025-10-28",
-      "headline": "Shreyas Iyer out of ICU, recovering well after rib injury in Sydney ODI India's ODI vice-captain Shreyas Iyer is out of the ICU and has stepped his recovery from the rib injury he suffered during the third match of the series against Australia in Sydney. Sources have said that Shreyas has started talking to his teammates and eating solid food. "
+      "headline": "Shreyas Iyer out of ICU, recovering well after rib injury in Sydney ODIIndia's ODI vice-captain Shreyas Iyer is out of the ICU and has stepped his recovery from the rib injury he suffered during the third match of the series against Australia in Sydney. Sources have said that Shreyas has started talking to his teammates and eating solid food. "
     },
     {
       "sentiment": "positive",
@@ -443,26 +483,6 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/lionel-messi-eyes-2026-world-cup-defence-argentinas-football-legend-historic-sixth-appearance-2809619-2025-10-28",
-      "headline": "Messi remains open to playing World Cup 2026 despite age, fitness concernsLionel Messi has expressed his strong desire to participate in the 2026 World Cup, calling the opportunity to defend Argentina's title \"extraordinary.\" The Argentine maestro admitted that his participation will depend on his fitness and age at the end of the day. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/sophie-ecclestone-injury-update-england-womens-world-cup-semi-final-south-africa-2809610-2025-10-28",
-      "headline": "England sweat over Sophie Ecclestone's fitness ahead of South Africa semi-finalEngland are sweating over spinner Sophie Ecclestone's fitness ahead of their Women's World Cup semi-final against South Africa, after she sustained a shoulder injury in the last group match against New Zealand."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/mohammed-shami-ranji-india-comeback-2809598-2025-10-28",
-      "headline": "Mohammed Shami's statement spell hands Bengal 141-run win over GujaratBengal hammered Gujarat by 141 runs in the second round of the Ranji Trophy. Mohammed Shami bowled a riveting spell on the final day of the match, rescuing the hosts from a perilous position."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/suryakumar-yadav-form-parthiv-patel-india-vs-australia-t20-series-2025-2809600-2025-10-28",
-      "headline": "Suryakumar Yadav needs to find form, can completely destroy teams: Parthiv PatelFormer India cricketer Parthiv Patel believes the upcoming T20I series against Australia will be crucial for skipper Suryakumar Yadav to regain form, as India looks for strong top-order performances in challenging Australian conditions."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-australia-suryakumar-yadav-press-conference-2809572-2025-10-28",
       "headline": "India trusting their unique 3-spinner combination in Australia: SuryakumarIndia captain Suryakumar Yadav said that the team will be trusting its three-spinner combination in the Australia series. Without Hardik Pandya, could this strategy backfire?"
     },
@@ -475,31 +495,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/womens-world-cup-smriti-mandhana-attains-career-best-odi-batting-ratings-2809561-2025-10-28",
       "headline": "Mandhana attains career-best ODI batting ratings amid dream World Cup campaignIndia's opening batter, Smriti Mandhana, has attained her career-best ratings in the ICC ODI rankings amid her dream World Cup campaign. Mandhana is the leading run scorer of the tournament with 365 runs from seven innings."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/fide-world-cup-goa-india-chess-powerhouse-2809511-2025-10-28",
-      "headline": "India not only ancient home, but modern powerhouse of chess: FIDE PresidentFIDE President Arkady Dvorkovich praised India as not only the ancient home of chess but as a modern powerhouse as well. The FIDE World Cup returns to India for the first time since 2002."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/australia-prepared-to-counter-abhishek-sharma-mitchell-marsh-aus-vs-ind-2809516-2025-10-28",
-      "headline": "Are Australia prepared to counter Abhishek Sharma's mayhem? Mitchell Marsh revealsAustralia captain Mitchell Marsh says his team is ready to face India's aggressive batter Abhishek Sharma in the upcoming T20I series. Abhishek is the current number-one T20I batter in the world and was recently adjudged Player of the Tournament in Asia Cup 2025."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/vinicius-jr-el-clasico-outburst-internal-matter-2809517-2025-10-28",
-      "headline": "Real Madrid let off Vinicius Jr. after El Clasico substitution meltdown: ReportReal Madrid has reportedly decided not to punish Vinicius Jr. for his emotional outburst during El Clasico, viewing the situation as an internal matter."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/video/shreyas-iyer-cheats-death-out-of-icu-after-spleen-laceration-scare-in-sydney-ytvd-2809499-2025-10-28",
-      "headline": "Shreyas Iyer Cheats Death: Out of ICU After Spleen Laceration Scare in SydneyThis special report focuses on the health of Indian ODI vice-captain Shreyas Iyer following a severe injury in Sydney. Iyer suffered a lacerated spleen during the third ODI against Australia, leading to internal bleeding and admission to an ICU. BCCI Vice President Rajiv Shukla told India Today that 'everything is fine, he's medically stable. But he'll be there for seven or eight days more in the hospital.' Iyer sustained the impact injury after taking a diving catch and was immediately hospitalised after showing signs of extreme distress in the dressing room. Medical experts have described spleen injuries as potentially life-threatening. While Iyer is now out of the ICU and in a general ward, his participation in the upcoming home series against South Africa is in doubt."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/cricket/video/aus-vs-ind-1st-t20i-suryakumar-yadav-full-pre-match-press-conference-2809461-2025-10-28",
-      "headline": "I've been working really hard, runs will come eventually: Suryakumar YadavIndia T20I captain Suryakumar Yadav has said that he's been working hard behind the scenes to regain his form ahead of the five-match T20I series against Australia. Ever since being appointed the team's full-time captain in July 2024, Suryakumar has scored 330 runs from 20 innings at an average of 18.33 with two fifties to his name."
     }
   ],
   "education": [
