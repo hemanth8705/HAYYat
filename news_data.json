@@ -98,6 +98,11 @@
   ],
   "entertainment": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/the-indian-film-television-directors-association-condemns-mumbai-hostage-crisis-denies-rohit-arya-industry-link-2811599-2025-10-31",
+      "headline": "Film and TV body condemns Mumbai hostage crisis, denies Rohit Arya's industry link The Indian Film & Television Directors' Association (IFTDA) issued a statement and denied Rohit Arya's links in the entertainment industry. The body stated that Arya is not affiliated with any recognised and registered body. "
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/john-cena-to-shah-rukh-khan-will-never-forget-your-kindness-you-inspire-the-world-2811575-2025-10-31",
       "headline": "John Cena to SRK: Will never forget your kindness, you inspire the world WWE legend John Cena replied to Shah Rukh Khan with a special post on X. He thanked the superstar for his kindness and wrote how he continues to inspire the world. "
@@ -181,11 +186,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/varun-dhawan-hai-jawani-toh-ishq-hona-hai-gets-new-date-david-dhawan-directs-2811327-2025-10-31",
       "headline": "Varun Dhawan's Hai Jawani Toh Ishq Hona Hai gets new date, David\u00a0Dhawan\u00a0directs David Dhawan's 'Hai Jawani Toh Ishq Hona Hai', starring Varun Dhawan, Mrunal Thakur, and Pooja Hegde, will now release on June 5, 2026. The film promises classic Dhawan-style comedy, romance, and a star-studded ensemble cast."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/the-dream-life-of-mr-kim-review-ott-netflix-show-mirror-to-every-man-middle-class-mirage-2811270-2025-10-31",
-      "headline": "The Dream Life of Mr. Kim review: Mirror to every man's middle-class mirageRelease Date:Sat Oct 25, 2025 Netflix's 'The Dream Life of Mr. Kim' turns a middle manager's ordinary life into a darkly comic and deeply moving portrait of modern disillusionment. Ryu Seung-ryong shines as a man trapped between ambition and emptiness."
     }
   ],
   "general news": [
@@ -193,6 +193,26 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/us-news/story/potential-terrorist-attack-over-halloween-weekend-averted-in-michigan-fbi-chief-kash-patel-2811574-2025-10-31",
       "headline": "Halloween terror attack averted in Michigan, multiple suspects arrestedThe FBI prevented a potential terrorist attack in Michigan over Halloween weekend, Director Kash Patel said on Friday."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/us-news/story/jd-defends-remarks-on-wife-usha-vances-faith-says-she-is-not-a-christian-and-has-no-plans-to-convert-2811616-2025-10-31",
+      "headline": "Usha has no plans to convert but\u2026: JD Vance defends remarks on wife's faithThe Vice President's response followed intense criticism over his recent remarks at a university event, where he said he hoped his wife, Usha, might one day share his Christian faith. "
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/trump-says-he-is-not-considering-strikes-in-venezuela-after-reports-claim-white-house-planning-an-attack-2811627-2025-10-31",
+      "headline": "Trump says US not considering strikes in Venezuela after reports of attack planTrump says he is not considering strikes in Venezuela after reports claim White House planning an attack"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/sanjay-raut-udhhav-sena-leader-health-update-pm-modi-well-wishes-speedy-recovery-2811579-2025-10-31",
+      "headline": "Serious health issue, says Sanjay Raut; PM wishes him, he respondsSanjay Raut, a prominent face of Uddhav Thackeray's Shiv Sena (UBT) faction, will be temporarily absent from political activity in the coming weeks. Prime Minister Narendra Modi wished the senior leader a speedy recovery."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/history-of-it/story/arun-khetarpal-pakistani-soldier-confession-1971-indo-pak-war-ikkis-agastya-nanda-basantar-tank-battle-history-2811014-2025-10-31",
+      "headline": "I killed your son Lt Arun Khetarpal: Pak soldier's confession to Indian BrigadierSecond Lieutenant Arun Khetarpal, all of 21, blew up a series of Pakistani tanks before laying down his life for the country in the 1971 War. When Arun's father, Brigadier ML Khetarpal (Retd) visited Sargodha in 2001, he was hosted by a Pakistani soldier, Khwaja Mohammad Naser. Naser confessed that he was the one who pulled the tank trigger in 1971 that got his son killed."
     },
     {
       "sentiment": "negative",
@@ -206,18 +226,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/sanjay-raut-udhhav-sena-leader-health-update-pm-modi-well-wishes-speedy-recovery-2811579-2025-10-31",
-      "headline": "Serious health issue, says Sanjay Raut; PM wishes him, he respondsSanjay Raut, a prominent face of Uddhav Thackeray's Shiv Sena (UBT) faction, will be temporarily absent from political activity in the coming weeks. Prime Minister Narendra Modi wished the senior leader a speedy recovery."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/history-of-it/story/arun-khetarpal-pakistani-soldier-confession-1971-indo-pak-war-ikkis-agastya-nanda-basantar-tank-battle-history-2811014-2025-10-31",
-      "headline": "I killed your son Lt Arun Khetarpal: Pak soldier's confession to Indian BrigadierSecond Lieutenant Arun Khetarpal, all of 21, blew up a series of Pakistani tanks before laying down his life for the country in the 1971 War. When Arun's father, Brigadier ML Khetarpal (Retd) visited Sargodha in 2001, he was hosted by a Pakistani soldier, Khwaja Mohammad Naser. Naser confessed that he was the one who pulled the tank trigger in 1971 that got his son killed."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/jd-vance-hindu-wife-usha-converts-christianity-controversy-maga-base-elections-2811305-2025-10-31",
       "headline": "Electability trumps family? JD Vance throws Hindu wife, Usha, under the busJD Vance expressed his desire that his Hindu wife, Usha Vance, embrace Christianity.\u00a0It quickly spiralled into one of the biggest controversies of Vance's political career, with several accusing him of hypocrisy and Hindu-phobia."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/gk-current-affairs/story/kamala-sohonie-iisc-first-woman-phd-biochemistry-nutrition-science-india-2811170-2025-10-31",
+      "headline": "The student who stared Sir CV Raman down, became first Indian woman PhDDenied entry for being a woman, she didn't protest; she proved. And in doing so, she rewrote India's scientific story. Kamala Sohonie challenged gender bias to become the first Indian woman with a PhD in biochemistry. "
     },
     {
       "sentiment": "positive",
@@ -230,14 +245,14 @@
       "headline": "Pak in acute danger, India's small change in Indus flow can hit agriculture: ReportPakistan's agriculture, which is heavily reliant on the Indus basin, is facing severe risks as even minor adjustments in India's dam operations could trigger widespread water shortages, revealed the IEP's the Ecological Threat Report 2025. It warned that Pakistan's dams could store just about 30 days of Indus flow, making any prolonged disruption potentially disastrous for agriculture."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/gk-current-affairs/story/kamala-sohonie-iisc-first-woman-phd-biochemistry-nutrition-science-india-2811170-2025-10-31",
-      "headline": "The student who stared Sir CV Raman down, became first Indian woman PhDDenied entry for being a woman, she didn't protest; she proved. And in doing so, she rewrote India's scientific story. Kamala Sohonie challenged gender bias to become the first Indian woman with a PhD in biochemistry. "
-    },
-    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-aus-2nd-t20i-varun-chakravarthy-abhishek-sharma-josh-hazlewood-2811439-2025-10-31",
       "headline": "India's 17-year Melbourne streak ends after batting flop in 2nd T20IIND vs AUS, 2nd T20I: Australia beat India by four wickets in the second T20I at Melbourne Cricket Ground to take a 1-0 lead in the five-match series. Josh Hazlewood was adjudged Player of the Match for his magnificent spell of 3/13 in four overs."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/trending-news/story/nvidia-samsung-and-hyundai-chiefs-dine-in-seoul-fried-chicken-beer-chimaek-summit-pics-video-2811385-2025-10-31",
+      "headline": "Inside the 'chimaek summit': Nvidia, Samsung and Hyundai chiefs dine in SeoulNvidia's Jensen Huang, Samsung's Lee Jae-yong and Hyundai's Chung Euisun had a great time when they met for fried chicken and beer at Kkanbu Chicken in the Gangnam district. "
     },
     {
       "sentiment": "positive",
@@ -250,14 +265,14 @@
       "headline": "Jemimah extends winning run, wins best fielder medal after historic Australia triumphJemimah Rodrigues dazzled with both bat and fielding brilliance as India sealed a famous win to reach the World Cup final."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/trending-news/story/nvidia-samsung-and-hyundai-chiefs-dine-in-seoul-fried-chicken-beer-chimaek-summit-pics-video-2811385-2025-10-31",
-      "headline": "Inside the 'chimaek summit': Nvidia, Samsung and Hyundai chiefs dine in SeoulNvidia's Jensen Huang, Samsung's Lee Jae-yong and Hyundai's Chung Euisun had a great time when they met for fried chicken and beer at Kkanbu Chicken in the Gangnam district. "
-    },
-    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/telangana/story/mohammad-azharuddin-sworn-in-telangana-minister-bjp-congress-appeasement-jubilee-hills-bypoll-2811317-2025-10-31",
       "headline": "Ex-India captain Azharuddin sworn in as Telangana Minister amid BJP backlashFormer cricketer and Congress leader Mohammad Azharuddin was sworn in as a minister in Telangana Chief Minister Revanth Reddy's cabinet. The BJP hit out at the move, calling it minority appeasement ahead of the Jubilee Hills bypoll."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/gk-current-affairs/story/pamela-colman-smith-the-forgotten-artist-behind-the-modern-tarot-died-penniless-2811458-2025-10-31",
+      "headline": "Pamela Colman Smith, the forgotten artist behind the modern tarot, died pennilessPamela Colman Smith, an artist and mystic from the early 20th century, illustrated the iconic 1909 Rider-Waite tarot deck, the most famous tarot deck today. Yes, the woman behind the iconic images that are used both as a teaching tool and a cultural shorthand for tarot across the world today, died penniless and in obscurity, her art and belongings sold to cover debt."
     },
     {
       "sentiment": "positive",
@@ -270,14 +285,14 @@
       "headline": "The House of Windsor: Born in Crisis, Crowned in Scandal, Sustained by SecretsOn Thursday, Buckingham Palace announced that Britain's King Charles stripped his younger brother Andrew of all remaining titles and honours, ordering him out of his Windsor residence."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/gk-current-affairs/story/pamela-colman-smith-the-forgotten-artist-behind-the-modern-tarot-died-penniless-2811458-2025-10-31",
-      "headline": "Pamela Colman Smith, the forgotten artist behind the modern tarot, died pennilessPamela Colman Smith, an artist and mystic from the early 20th century, illustrated the iconic 1909 Rider-Waite tarot deck, the most famous tarot deck today. Yes, the woman behind the iconic images that are used both as a teaching tool and a cultural shorthand for tarot across the world today, died penniless and in obscurity, her art and belongings sold to cover debt."
-    },
-    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/powai-hostage-crisis-2008-mumbai-hijack-25-year-old-gunman-seized-a-bus-2811468-2025-10-31",
       "headline": "When 25-year-old gunman seized a bus: Powai hostage crisis echoes 2008 Mumbai hijackIn 2008, a 25-year-old man from Patna hijacked a Mumbai bus in broad daylight, sparking a tense standoff that ended with his death. Seventeen years later, the Powai hostage crisis echoed that chaos, another October day, another standoff ending in police gunfire."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/lifestyle/what-s-hot/story/india-is-taking-halloween-seriously-swiggy-blinkit-social-2811424-2025-10-31",
+      "headline": "India is taking Halloween seriously, and the proof is everywhereHalloween wasn't always part of India's cultural calendar, yet suddenly it's everywhere \u2014 from malls and schools to bars and grocery apps. The question, however, remains \u2013 how?"
     },
     {
       "sentiment": "positive",
@@ -287,30 +302,30 @@
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/kabaddi-player-tejpal-singh-shot-dead-near-police-chief-office-punjab-jagraon-2811601-2025-10-31",
-      "headline": "26-year-old kabaddi player Tejpal Singh shot dead near police chief's office in PunjabOne of the assailants fired a revolver shot to his chest, killing him on the spot. Police teams from the city station and CIA have launched a manhunt to arrest the suspects."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/what-s-hot/story/india-is-taking-halloween-seriously-swiggy-blinkit-social-2811424-2025-10-31",
-      "headline": "India is taking Halloween seriously, and the proof is everywhereHalloween wasn't always part of India's cultural calendar, yet suddenly it's everywhere \u2014 from malls and schools to bars and grocery apps. The question, however, remains \u2013 how?"
+      "headline": "Kabaddi player Tejpal Singh shot dead near police chief's office in PunjabOne of the assailants fired a revolver shot to his chest, killing him on the spot. Police teams from the city station and Crime Investigation Agency have launched a manhunt to arrest the suspects."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/tanzania-election-protests-why-africa-burning-2811556-2025-10-31",
       "headline": "'700 killed', curfew imposed, army deployed: What's happening in Tanzania and why?Hundreds have been killed in violent clashes across Tanzania following disputed elections, prompting authorities to impose curfews and deploy the army. The unrest, fuelled by allegations of vote rigging and government repression, has plunged the country into one of its worst crises in recent years."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/dharmendra-hospitalised-for-routine-check-up-actor-team-says-hes-doing-fine-2811481-2025-10-31",
-      "headline": "Dharmendra hospitalised for routine check-up, actor's team shares updateVeteran actor Dharmendra has been hospitalised ahead of his 90th birthday and is currently under observation at Mumbai's Breach Candy Hospital for routine tests."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/delhi/story/delhi-bans-entry-of-older-commercial-goods-vehicles-other-states-from-saturday-november-1-caqm-delhi-ncr-air-pollution-grap-measures-2811587-2025-10-31",
-      "headline": "Delhi bans entry of older commercial goods vehicles from November 1BS-IV vehicles will be allowed only till October 31, 2026. Delhi says air quality has already improved due to extensive anti-pollution measures, while officials deny any manipulation of AQI data."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/chess-world-cup-2025-india-viswanathan-anand-trophy-indian-grandmasters-2811610-2025-10-31",
+      "headline": "Viswanathan Anand Trophy: FIDE World Chess Cup named after Indian great The FIDE World Chess Cup trophy, named the Viswanathan Anand Trophy, celebrates India's first Grandmaster, honouring his enduring legacy and the nation's rise as a global chess powerhouse. The World Cup will be held in Panjim from October 31 to November 27. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/irfan-pathan-on-shubman-gill-t20i-consistency-yashasvi-jaiswal-bench-2811608-2025-10-31",
+      "headline": "Gill needs to perform with Jaiswal being left on bench: Irfan Pathan Irfan Pathan said that Shubman Gill will need to start to score consistently in T20Is as he is keeping Yashasvi Jaiswal waiting in the bench for his chance. Gill was dismissed for 5 runs in the Melbourne T20I against Australia. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/aus-vs-ind-2nd-t20i-ashwin-gambhir-arshdeep-team-selection-controversy-2811606-2025-10-31",
+      "headline": "Can't understand how Arshdeep misses out: Ashwin rips into Gambhir for MCG blunder Ravichandran Ashwin has criticised Gautam Gambhir and the Indian team management for repeatedly benching Arshdeep Singh despite his stellar record. Ashwin insists Arshdeep deserves a permanent spot, calling him India's best T20 bowler after Jasprit Bumrah."
+    },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/cricket/story/pakistan-vs-south-africa-2nd-t20i-ball-by-ball-commentary-babar-azam-lahore-2811592-2025-10-31",
@@ -353,18 +368,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/asia-cup-trophy-mohsin-naqvi-bcci-icc-meeting-november-4-2811499-2025-10-31",
-      "headline": "BCCI hopes Mohsin Naqvi returns Asia Cup trophy before ICC meeting on Nov 4 BCCI secretary Devajit Saikia stated that the Indian cricket board would raise the matter at the International Cricket Council's quarterly meeting on 4 November should Asian Cricket Council (ACC) chairman Mohsin Naqvi fail to hand over the Asia Cup trophy prior to that date. India are yet to be presented with the silverware, despite more than a month having elapsed since the final on 28 September."
+      "url": "https://www.indiatoday.in/sports/cricket/story/abhishek-sharma-india-vs-south-africa-womens-world-cup-final-prediction-2811572-2025-10-31",
+      "headline": "Fanboy Abhishek Sharma backs India to win Women's World Cup final vs South Africa Women's World Cup 2025: Opener Abhishek Sharma backed India to beat South Africa in the grand final in Navi Mumbai. The batting star said that the men's team cricketers had followed the semi-final win over Australia from Melbourne, which hosted a T20I on Friday. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-australia-womens-world-cup-semifinal-amol-muzumdar-whiteboard-message-2811489-2025-10-31",
-      "headline": "A Ted Lasso touch: Amol Muzumdar's whiteboard message that inspired Team India A few powerful words from the head coach's whiteboard fired up India's belief and sparked a semifinal masterclass against Australia."
+      "url": "https://www.indiatoday.in/sports/video/jemima-redefined-strength-it-requires-vulnerability-to-be-strong-dr-shyam-bhat-ytvd-2811539-2025-10-31",
+      "headline": "Jemima redefined strength; it requires vulnerability to be strong: Dr. Shyam Bhat Psychiatrist Dr. Shyam Bhat discusses the larger significance of cricketer Jemima Rodrigues' recent statements on mental health. Dr. Bhat states, 'she actually redefined what strength actually means...you should be in touch with your feelings. A certain vulnerability is required in order actually to be strong.' The conversation explores how Rodrigues represents a new generation that is more open about mental health challenges. Dr. Bhat also addresses why women are often more vocal about their struggles, the societal pressure on men to suppress vulnerability, and the shift in organisations towards valuing empathic leadership over traditional command-and-control structures. The interview highlights resilience, the importance of seeking support, and the changing narrative around mental wellness in India, both in sports and corporate life."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/suryakumar-yadav-praises-josh-hazlewood-abhishek-sharma-india-australia-2nd-t20i-2025-10-31-2811471-2025-10-31",
-      "headline": "AUS vs IND: Suryakumar doffs hat to Hazlewood, expecting Abhishek to continue form Suryakumar Yadav heaped praise on Josh Hazlewood for his performance against India in the second T20I. The Indian captain was also happy with Abhishek Sharma and the way he batted in Melbourne. "
+      "url": "https://www.indiatoday.in/sports/cricket/story/world-cup-2025-jemimah-rodrigues-best-fielder-award-india-win-2811536-2025-10-31",
+      "headline": "Jemimah extends winning run, wins best fielder medal after historic Australia triumph Jemimah Rodrigues dazzled with both bat and fielding brilliance as India sealed a famous win to reach the World Cup final."
     },
     {
       "sentiment": "positive",
@@ -379,17 +394,17 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/asia-cup-trophy-mohsin-naqvi-bcci-icc-meeting-november-4-2811499-2025-10-31",
-      "headline": "BCCI hopes Mohsin Naqvi returns Asia Cup trophy before ICC meeting on Nov 4 BCCI secretary Devajit Saikia stated that the Indian cricket board would raise the matter at the International Cricket Council's quarterly meeting on 4 November should Asian Cricket Council (ACC) chairman Mohsin Naqvi fail to hand over the Asia Cup trophy prior to that date. India are yet to be presented with the silverware, despite more than a month having elapsed since the final on 28 September."
+      "headline": "BCCI hopes Mohsin Naqvi returns Asia Cup trophy before ICC meeting on Nov 4BCCI secretary Devajit Saikia stated that the Indian cricket board would raise the matter at the International Cricket Council's quarterly meeting on 4 November should Asian Cricket Council (ACC) chairman Mohsin Naqvi fail to hand over the Asia Cup trophy prior to that date. India are yet to be presented with the silverware, despite more than a month having elapsed since the final on 28 September."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-australia-womens-world-cup-semifinal-amol-muzumdar-whiteboard-message-2811489-2025-10-31",
-      "headline": "A Ted Lasso touch: Amol Muzumdar's whiteboard message that inspired Team India A few powerful words from the head coach's whiteboard fired up India's belief and sparked a semifinal masterclass against Australia."
+      "headline": "A Ted Lasso touch: Amol Muzumdar's whiteboard message that inspired Team IndiaA few powerful words from the head coach's whiteboard fired up India's belief and sparked a semifinal masterclass against Australia."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/suryakumar-yadav-praises-josh-hazlewood-abhishek-sharma-india-australia-2nd-t20i-2025-10-31-2811471-2025-10-31",
-      "headline": "AUS vs IND: Suryakumar doffs hat to Hazlewood, expecting Abhishek to continue form Suryakumar Yadav heaped praise on Josh Hazlewood for his performance against India in the second T20I. The Indian captain was also happy with Abhishek Sharma and the way he batted in Melbourne. "
+      "headline": "AUS vs IND: Suryakumar doffs hat to Hazlewood, expecting Abhishek to continue formSuryakumar Yadav heaped praise on Josh Hazlewood for his performance against India in the second T20I. The Indian captain was also happy with Abhishek Sharma and the way he batted in Melbourne. "
     },
     {
       "sentiment": "negative",
@@ -407,19 +422,14 @@
       "headline": "Harshit Rana flaunts batting skills after surprise promotion by GambhirHarshit Rana played a crucial innings to steady India's batting in the second T20I against Australia. His performance alongside Abhishek Sharma's fifty provided much-needed stability despite early wickets."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/amanjot-kaur-on-india-record-chase-vs-australia-womens-world-cup-2025-2811390-2025-10-31",
-      "headline": "We were expecting a target around 380 in the semi-final: Amanjot KaurAmanjot Kaur said that India were expecting to chase around 380 in the semi-final against Australia in Navi Mumbai on October 30. India beat Australia by five wickets to reach their third final. "
-    },
-    {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/cricket/story/bring-back-yashasvi-jaiswal-shubman-gill-faces-heat-after-failing-in-2nd-t20i-2811355-2025-10-31",
-      "headline": "Bring back Yashasvi Jaiswal: Shubman Gill faces heat after failing in 2nd T20IShubman Gill failed to make an impact as India suffered a top-order collapse against Australia in the 2nd T20I at the Melbourne Cricket Ground. He faced fans' wrath as people began remembering Yashasvi Jaiswal."
+      "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-aus-2nd-t20i-varun-chakravarthy-abhishek-sharma-josh-hazlewood-2811439-2025-10-31",
+      "headline": "India's 17-year Melbourne streak ends after batting flop in 2nd T20IIND vs AUS, 2nd T20I: Australia beat India by four wickets in the second T20I at Melbourne Cricket Ground to take a 1-0 lead in the five-match series. Josh Hazlewood was adjudged Player of the Match for his magnificent spell of 3/13 in four overs."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ben-austin-tribute-melbourne-cricket-ground-australia-india-t20-2811336-2025-10-31",
-      "headline": "Watch: MCG mourns the death of 17-year-old cricketer Ben AustinA tribute was held at the MCG to honour 17-year-old Ben Austin who died during cricket training. The cricket community united in grief before the second T20I between India and Australia on Friday, October 31. "
+      "url": "https://www.indiatoday.in/sports/football/story/liverpool-injury-woes-isak-alisson-sidelined-aston-villa-premier-league-2811408-2025-10-31",
+      "headline": "Liverpool without Alexander Isak, Alisson for crucial Aston Villa clashLiverpool will be without injured Alexander Isak and Alisson for the Premier League clash with Aston Villa, as Arne Slot's side seeks to recover from a disappointing spell that has left them seventh in the table."
     },
     {
       "sentiment": "positive",
@@ -460,21 +470,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-india-2nd-t20i-live-score-updates-melbourne-shubman-gill-suryakumar-yadav-2811291-2025-10-31",
       "headline": "2nd T20I Highlights: Australia beat India by 4 wicketsAustralia (AUS) vs India (IND), Live Score and Updates 2nd T20I: Australia beat India by four wickets in the second T20I in Melbourne. They chased down 126 in just 13.2 overs, riding on Mitchell Marsh's 46 (26)."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/womens-world-cup-india-vs-australia-semi-final-shubman-gill-congratulates-posts-jemimah-rodrigues-2811259-2025-10-31",
-      "headline": "Absolute grit, incredible fight: Shubman Gill hails India's record-win vs AustraliaWomen's World Cup: India men's team captain Shubman Gill praised the Women in Blue's record-breaking win over Australia in the World Cup semi-final with a special post on social media."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/alyssa-healy-on-new-womens-world-cup-2025-winner-ind-vs-sa-2811249-2025-10-31",
-      "headline": "A new Women's World Cup winner will help the global game massively: Alyssa HealyAustralia captain Alyssa Healy has said that a new winner of the ICC Women's World Cup 2025 will help the global game massively and lead to more investments in the game. India and South Africa are set to lock horns in the final of ICC Women's Cricket World Cup 2025."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/fangirl-2017-finisher-2025-jemimah-rodrigues-redemption-india-vs-australia-womens-world-cup-2811243-2025-10-31",
-      "headline": "Fangirl in 2017, finisher in 2025: Jemi's redemption song ends another Aussie partyWomen's World Cup 2025: From the airport aisle to the grand stage, Jemimah Rodrigues completed her circle. The fangirl who once waved the flag for her heroes now carries it forward, stopping the unstoppable Australians and reminding the world that fairy tales in sport aren't written - they're fought for, one brave step at a time."
     }
   ],
   "education": [
