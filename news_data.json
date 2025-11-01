@@ -99,6 +99,11 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/television/story/mahhi-vij-reacts-to-divorce-rumours-trashes-talk-of-rs-5-crore-alimony-demand-2811989-2025-11-01",
+      "headline": "Mahhi Vij reacts to divorce rumours, trashes talk of Rs 5 crore alimony demand Actor Mahhi Vij broke her silence on speculation around her marriage with Jay Bhanushali in a recent YouTube video. She also clarified the Rs 5 crore alimony rumours and appealed for privacy."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/shah-rukh-khan-birthday-celebration-manish-malhotra-wishes-actor-farah-khan-karan-johar-navya-naveli-nanda-head-to-alibaug-2811978-2025-11-01",
       "headline": "SRK birthday: Manish Malhotra wishes actor; Farah, Karan, others head to Alibaug The countdown to Shah Rukh Khan's birthday has begun. On Saturday, fashion designer Manish Malhotra shared birthday wishes for King Khan. Farah Khan, Karan Johar and Navya Naveli Nanda, amongst others, on the other hand, headed to Alibaug for celebrations. "
     },
@@ -186,14 +191,14 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/reviews/story/mass-jathara-review-old-formula-fresh-energy-and-ravi-teja-back-in-rhythm-2811684-2025-11-01",
       "headline": "Mass Jathara review: Old formula, fresh energy, and Ravi Teja back in rhythmRelease Date:Sat Nov 01, 2025 'Mass Jathara' isn't trying to fix the mass commercial template, it's embracing it. Ravi Teja headlines a celebration of entertainment and nostalgia where every whistle, punchline, and throwback moment feels intentional."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/television/story/amitabh-bachchan-security-assessed-khalistani-threats-diljit-dosanjh-kaun-banega-crorepati-2811719-2025-11-01",
-      "headline": "Central agencies assess threat to Amitabh Bachchan post Diljit meeting Agencies are evaluating security for Amitabh Bachchan following threats from Sikh separatist groups after his televised interaction with Diljit Dosanjh, as concerns rise over the safety of both public figures and upcoming events abroad."
     }
   ],
   "general news": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/elections/assembly/story/union-home-minister-amit-shah-holds-virtual-rallies-in-bihar-attacks-rjd-congress-praises-jdu-bjps-developmental-work-2811946-2025-11-01",
+      "headline": "In Lalu Yadav's home district, Amit Shah's 'jungle raj' attack on MahagathbandhanAmit Shah framed the contest as a choice between the development brought by PM Modi and CM Nitish Kumar, and the 'jungle raj' by the RJD-led Mahagathbandhan."
+    },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/south/story/what-triggered-deadly-stampede-at-andhras-venkateswara-swamy-temple-that-killed-9-2811803-2025-11-01",
@@ -208,11 +213,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/jd-vance-erika-kirk-viral-intimate-hug-usha-vance-divorce-speculation-theories-2811844-2025-11-01",
       "headline": "See similarities of husband in JD: Erika Kirk's mushy hug with Vance sparks buzzWhat turned heads at the Turning Point USA event was the intimate hug between JD Vance and Erika Kirk, the widow of Trump aide Charlie Kirk, and her glowing words for the vice president. "
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/south/story/venkateswara-swamy-temple-stampede-andhra-pradesh-reactions-opposition-chandrababu-naidu-2811815-2025-11-01",
-      "headline": "Private temple, no permission: Andhra CM blames organisers after stampede kills 9Andhra Pradesh Chief Minister expressed deep sorrow over the tragic incident that claimed nine lives at the Venkateswara Swamy Temple on Saturday morning. He said that the event organisers did not inform authorities."
     },
     {
       "sentiment": "positive",
@@ -230,9 +230,9 @@
       "headline": "Work permit, H-1B, Civic Test: 3 changes in 2 months by US will hit Indians hardThe US has changed work permit rules overnight, doing away with automatic extension of certain Employment Authorisation Documents (EADs). Earlier, the Trump administration hiked annual H-1B visa fees and mandated stricter scrutiny for Green Card holders seeking US citizenship. These three moves in two months will hit Indians hard."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/hyderabad-airport-bomb-threat-email-linked-to-ltte-isi-operatives-indigo-flight-diverted-2811911-2025-11-01",
-      "headline": "Bomb threat to Hyderabad airport linked to LTTE-ISI a hoax, IndiGo flight divertedThe Airport Operations Control Center received an alert regarding a threat email sent to the facility's customer support account at around 5.25 am on Saturday."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/south/story/venkateswara-swamy-temple-stampede-andhra-pradesh-reactions-opposition-chandrababu-naidu-2811815-2025-11-01",
+      "headline": "Private temple, no permission: Andhra CM blames organisers after stampede kills 9Andhra Pradesh Chief Minister expressed deep sorrow over the tragic incident that claimed nine lives at the Venkateswara Swamy Temple on Saturday morning. He said that the event organisers did not inform authorities."
     },
     {
       "sentiment": "positive",
@@ -246,18 +246,23 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/swati-maliwal-questions-sheesh-mahal-renovation-use-demands-transparency-punjab-government-2811955-2025-11-01",
-      "headline": "Swati Maliwal renews Sheesh Mahal 2.0 attack, calls Kejriwal Punjab's super CMRebel AAP MP Swati Maliwal launched a scathing attack on Arvind Kejriwal and Punjab CM Bhagwant Mann amid the BJP-AAP row over an alleged 'Sheeshmahal 2.0' bungalow in Chandigarh."
+      "url": "https://www.indiatoday.in/india/story/hyderabad-airport-bomb-threat-email-linked-to-ltte-isi-operatives-indigo-flight-diverted-2811911-2025-11-01",
+      "headline": "Bomb threat to Hyderabad airport linked to LTTE-ISI a hoax, IndiGo flight divertedThe Airport Operations Control Center received an alert regarding a threat email sent to the facility's customer support account at around 5.25 am on Saturday."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/womens-world-cup-final-india-vs-south-africa-harmanpreet-kaur-eyes-title-2811957-2025-11-01",
-      "headline": "Know how it feels to lose, now want to experience winning World Cup: HarmanpreetIndia captain Harmanpreet Kaur said her team has endured the pain of losing on several occasions in the past but is now ready to experience the joy of winning a global title, ahead of their Women's World Cup final against South Africa at the DY Patil Stadium in Navi Mumbai."
+      "url": "https://www.indiatoday.in/india/story/delhi-minister-parvesh-verma-takes-dig-amid-kejriwals-sheeshmahal-20-row-2811955-2025-11-01",
+      "headline": "Parvesh Verma mocks Arvind Kejriwal amid Sheeshmahal 2.0 row, AAP slams BJP claimParvesh Verma said that he has been to the Delhi bungalow where Arvind Kejriwal once stayed, and would definitely like to have a visit to the Chandigarh one if he gets an opportunity."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/us-news/story/jd-vance-usha-vance-conversion-remark-row-hindu-american-foundation-2811843-2025-11-01",
       "headline": "Why not engage with Hinduism too? Hindu body jabs Vance over wife's faith remarkThe Hindu American Foundation criticised Vice President JD Vance's remarks on his wife Usha Vance's faith, urging him to respect the rights of Hindus to practice. JD Vance had hoped that his wife would convert to Christianity one day, sparking a huge backlash."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/womens-world-cup-final-india-vs-south-africa-harmanpreet-kaur-eyes-title-2811957-2025-11-01",
+      "headline": "Know how it feels to lose, now want to experience winning World Cup: HarmanpreetIndia captain Harmanpreet Kaur said her team has endured the pain of losing on several occasions in the past but is now ready to experience the joy of winning a global title, ahead of their Women's World Cup final against South Africa at the DY Patil Stadium in Navi Mumbai."
     },
     {
       "sentiment": "positive",
@@ -270,11 +275,6 @@
       "headline": "Election Commission transfers three officials over pre-poll unrest in Bihar's MokamaDularchand Yadav, a former candidate from the\u00a0Mokama\u00a0Assembly seat and active supporter of Prashant Kishor's JSP, was shot dead in Taratar village on Thursday while campaigning."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/canada-news/story/why-lawrence-bishnoi-gang-upping-the-ante-canada-surrey-shooting-businessman-punjabi-singer-india-kapil-sharma-2810673-2025-11-01",
-      "headline": "Why Bishnoi Gang is upping the ante in Canada?Even though Lawrence Bishnoi is in a jail in India, his gang has gone berserk in Canada. From shootings at Kapil Sharma's Kap's Cafe and a Punjabi singer's residence to killing an Indian-origin businessman, the Bishnoi Gang is asserting its deadly presence in Canada. But what's behind its latest spree of violence in Canada?"
-    },
-    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/deepika-padukone-truth-bomb-on-bollywood-burnout-reignites-talk-on-fairer-shifts-2811607-2025-11-01",
       "headline": "Deepika Padukone's 8-hour stand: Can Bollywood agree on an ideal work culture?Deepika Padukone's call for an 8-hour workday has sparked a conversation. But can an industry obsessed with success arrive at a consensus over work ethics?"
@@ -285,9 +285,9 @@
       "headline": "Question Time: Weekly News QuizThink you read the headlines this week? Let's test that!"
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/who-is-bankim-brahmbhatt-indian-origin-ceo-blackrock-loan-fraud-united-states-2811790-2025-11-01",
-      "headline": "The 'missing' Indian-origin CEO behind Rs 4,200 crore BlackRock loan fraudBankim Brahmbhatt, the Indian-origin CEO of a US-based telecom company, is facing a lawsuit in the US filed by HPS, the private credit investment arm of BlackRock."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/canada-news/story/why-lawrence-bishnoi-gang-upping-the-ante-canada-surrey-shooting-businessman-punjabi-singer-india-kapil-sharma-2810673-2025-11-01",
+      "headline": "Why Bishnoi Gang is upping the ante in Canada?Even though Lawrence Bishnoi is in a jail in India, his gang has gone berserk in Canada. From shootings at Kapil Sharma's Kap's Cafe and a Punjabi singer's residence to killing an Indian-origin businessman, the Bishnoi Gang is asserting its deadly presence in Canada. But what's behind its latest spree of violence in Canada?"
     },
     {
       "sentiment": "positive",
@@ -306,13 +306,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/delhi-air-pollution-biggest-killer-deaths-data-air-quality-2811822-2025-11-01",
-      "headline": "Toxic air Delhi's biggest killer: 1 in 7 deaths linked to pollution in 2023Deaths due to particulate matter pollution have remained persistently high in Delhi, more often than not exceeding those caused by hypertension or diabetes."
+      "url": "https://www.indiatoday.in/business/story/who-is-bankim-brahmbhatt-indian-origin-ceo-blackrock-loan-fraud-united-states-2811790-2025-11-01",
+      "headline": "The 'missing' Indian-origin CEO behind Rs 4,200 crore BlackRock loan fraudBankim Brahmbhatt, the Indian-origin CEO of a US-based telecom company, is facing a lawsuit in the US filed by HPS, the private credit investment arm of BlackRock."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/opinion/story/bachchu-kadu-nagpur-stir-brings-agrarian-agenda-back-to-maharashtra-politics-2811816-2025-11-01",
-      "headline": "Bachchu Kadu's Nagpur stir brings agrarian agenda back to Maharashtra politicsThe agitation has brought the farmers' issues to the forefront of Maharashtra's politics, stuck in the quagmire of communal discourse aimed at diverting people's attention from real issues. "
+      "url": "https://www.indiatoday.in/india/story/delhi-air-pollution-biggest-killer-deaths-data-air-quality-2811822-2025-11-01",
+      "headline": "Toxic air Delhi's biggest killer: 1 in 7 deaths linked to pollution in 2023Deaths due to particulate matter pollution have remained persistently high in Delhi, more often than not exceeding those caused by hypertension or diabetes."
     }
   ],
   "sports": [
