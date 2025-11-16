@@ -103,6 +103,16 @@
   ],
   "entertainment": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/iffi-to-felicitate-rajinikanth-balakrishna-for-50-years-in-cinema-dr-l-murugan-2820848-2025-11-16",
+      "headline": "IFFI to felicitate Rajinikanth, Balakrishna for 50 years in cinema: Dr L Murugan Union Minister of State Dr L Murugan announced that legendary actors Rajinikanth and Nandamuri Balakrishna will be felicitated at IFFI, Goa. The honour recognises their iconic body of work and profound influence on Indian film culture over five decades, marking 50 years in cinema."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/television/story/rubina-abhinav-win-dhamaal-with-pati-patni-aur-panga-crowned-sarvagun-sampann-jodi-2820852-2025-11-16",
+      "headline": "Rubina-Abhinav win Dhamaal With Pati Patni Aur Panga; crowned Sarvagun Sampann Jodi Rubina Dilaik and Abhinav Shukla were crowned the winners of the 'Sarvagun Sampann jodi,' of the reality show Dhamaal With Pati Patni Aur Panga. Excerpts from an exclusive report by India Today.\r\n"
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/entertainment/television/story/bigg-boss-19-anuj-sachdeva-defends-friend-gaurav-khanna-against-fake-allegations-2820744-2025-11-16",
       "headline": "Bigg Boss 19: Anuj Sachdeva defends friend Gaurav Khanna against fake allegations Actor Anuj Sachdeva backed his friend, 'Bigg Boss 19' contestant Gaurav Khanna, slamming accusations of him being fake by confirming his genuine nature. Anuj also criticised Amaal Mallik for using abusive language about women and speaking ill of someone's mother, questioning his legacy."
@@ -186,16 +196,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/rajamouli-film-titled-varanasi-mahesh-babu-invokes-lord-shiva-yields-trident-2820365-2025-11-15",
       "headline": "Rajamouli's film titled Varanasi: Mahesh Babu plays Rudhra, yields trident Director SS Rajamouli unveiled the first glimpse of his film 'Varanasi' at the 'GlobeTrotter' event in Ramoji City, Hyderabad. Mahesh Babu's fierce, trident-yielding appearance was revealed in the first teaser from the movie.\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/prithviraj-sukumaran-globetrotter-event-varanasi-ss-rajamouli-hyderabad-2820481-2025-11-15",
-      "headline": "Bigger, bolder, more audacious: Prithviraj Sukumaran on Rajamouli's Varanasi vision Actor Prithviraj Sukumaran shared insights on his career and collaboration with director SS Rajamouli at the 'GlobeTrotter' event at Ramoji Rao Film City, Hyderabad, highlighting the significance of the project and the collective pride of the Telugu film community."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/ss-rajamouli-varanasi-summer-2027-release-new-music-2820471-2025-11-15",
-      "headline": "Rajamouli-Mahesh Babu's Varanasi: MM Keeravani reveals release window. Read here MM Keeravani's speech at the event included a key update on 'Varanasi'. The ace music composer revealed the highly anticipated film's release window.\r\n"
     }
   ],
   "general news": [
@@ -211,13 +211,13 @@
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/kerala-booth-level-officer-dies-by-suicide-family-alleges-sir-work-pressure-2820787-2025-11-16",
-      "headline": "Kerala Booth Level Officer dies by suicide, family alleges SIR work pressureAneesh George, a school employee serving as a Booth Level Officer for the upcoming local body polls, was found hanging at his home in Kannur. His family and locals blamed severe workload linked to the Special Intensive Revision (SIR) of electoral rolls."
+      "url": "https://www.indiatoday.in/india/story/nia-says-suicide-bomber-used-vehicle-borne-improvised-explosive-device-in-red-fort-attack-2820808-2025-11-16",
+      "headline": "Red Fort blast was suicide bombing using vehicle-borne IED, NIA probe revealsNIA confirmed the Red Fort blast was carried out using a vehicle-borne IED driven by suicide bomber Umar Un Nabi, with his aide Amir Rashid Ali, now arrested for procuring the car. "
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/nia-says-suicide-bomber-used-vehicle-borne-improvised-explosive-device-in-red-fort-attack-2820808-2025-11-16",
-      "headline": "Red Fort blast was suicide bombing using vehicle-borne IED, NIA probe revealsNIA confirmed the Red Fort blast was carried out using a vehicle-borne IED driven by suicide bomber Umar Un Nabi, with his aide Amir Rashid Ali, now arrested for procuring the car. "
+      "url": "https://www.indiatoday.in/india/story/kerala-booth-level-officer-dies-by-suicide-family-alleges-sir-work-pressure-2820787-2025-11-16",
+      "headline": "Kerala Booth Level Officer dies by suicide, family alleges SIR work pressureAneesh George, a school employee serving as a Booth Level Officer for the upcoming local body polls, was found hanging at his home in Kannur. His family and locals blamed severe workload linked to the Special Intensive Revision (SIR) of electoral rolls."
     },
     {
       "sentiment": "positive",
@@ -235,9 +235,9 @@
       "headline": "Health fine: DK Shivakumar junks rumours of quitting as Karnataka Congress chiefKarnataka Congress chief DK Shivakumar dismissed rumours of his resignation, saying his mental and physical health are \"perfectly fine.\" He said there is no reason for him to quit and that he will continue to work as a \"disciplined soldier\" of the party."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/gujarat-bride-to-be-bludgeoned-to-death-by-fiance-on-wedding-day-after-argument-over-saree-2820790-2025-11-16",
-      "headline": "Bride-to-be bludgeoned to death by fiance on wedding day after argument\u00a0over\u00a0sareeA tragic incident unfolded in Bhavnagar, Gujarat, where a bride was killed by her would-be husband on their wedding day following a dispute over a saree and money. The accused is currently absconding as police intensify their search efforts."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-a-vs-pakistan-shaheens-nehal-wadhera-catch-ruled-not-out-new-rules-maaz-sadaqat-2820877-2025-11-16",
+      "headline": "India A vs Pakistan A controversy after Naman Dhir catch overruled: What's the rule?The India A vs Pakistan A clash saw fresh controversy after a stunning relay catch involving Nehal Wadhera and Naman Dhir was overruled. The decision followed cricket's updated boundary fielding laws, sparking confusion and strong reactions."
     },
     {
       "sentiment": "positive",
@@ -245,19 +245,19 @@
       "headline": "Emotional Rajamouli says he doesn't believe in God at 'Varanasi' event, draws flakAn emotional Rajamouli said he didn't believe in God during the 'Varanasi' launch event. He also said that when his father talked about Lord Hanuman, it angered him. His words have sparked a debate."
     },
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/gujarat-bride-to-be-bludgeoned-to-death-by-fiance-on-wedding-day-after-argument-over-saree-2820790-2025-11-16",
+      "headline": "Bride-to-be bludgeoned to death by fiance on wedding day after argument\u00a0over\u00a0sareeA tragic incident unfolded in Bhavnagar, Gujarat, where a bride was killed by her would-be husband on their wedding day following a dispute over a saree and money. The accused is currently absconding as police intensify their search efforts."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-south-africa-shubman-gill-discharged-hospital-kolkata-test-injury-2820830-2025-11-16",
       "headline": "Shubman Gill discharged from Kolkata hospital, unsure if he will travel to GuwahatiIndia Test captain Shubman Gill has been discharged from hospital and is recovering well after his neck injury at Eden Gardens. India now await clarity on his availability for the second Test after a costly defeat in his absence."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/have-only-disowned-tejashwi-rohini-acharya-says-lalu-yadav-rabri-devi-backed-her-2820804-2025-11-16",
-      "headline": "Have only disowned Tejashwi: Rohini Acharya says Lalu Yadav, Rabri Devi backed herRohini Acharya said she stands by all her allegations and has \"disowned\" her brother, urging reporters to question Tejashwi Yadav and his close aides. She said her parents and sisters were supporting her and that she was leaving for Mumbai to stay with her in-laws."
-    },
-    {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/bihar-polls-nda-weighs-6-mlas-per-minister-formula-as-bihar-government-formation-gathers-pace-2820722-2025-11-16",
-      "headline": "NDA sets Bihar Cabinet formula rolling as government formation gathers paceThe formula is expected to guide the distribution of portfolios among alliance partners as the coalition moves swiftly towards forming the next government."
+      "url": "https://www.indiatoday.in/sports/cricket/story/rising-stars-asia-cup-pakistan-beat-india-by-8-wickets-no-handshake-2820876-2025-11-16",
+      "headline": "Rising Stars Asia Cup: Pakistan hammer India by 8 wickets as no handshake continuesIndia continued their 'no handshake' policy against arch-rivals Pakistan following an 8-wicket defeat in the Rising Stars Asia Cup 2025 in Doha."
     },
     {
       "sentiment": "positive",
@@ -275,9 +275,9 @@
       "headline": "Dirty kidney, filthy abuses, slipper raised: Rohini Acharya on Yadav family feudRohini Acharya, Lalu Yadav's daughter, quit politics and severed ties with her family, alleging abuse, humiliation, and betrayal by Tejashwi Yadav's aides. "
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-a-vs-pakistan-a-live-score-rising-stars-asia-cup-2025-vaibhav-suryavanshi-2820821-2025-11-16",
-      "headline": "IND A vs PAK A Live: India struggle as Sadaqat hits rapid 50India A vs Pakistan A, Rising Stars Asia Cup 2025 Live: Pakistan are on course to chase down 137 as Maaz Sadaqat is leading the fightback with a rapid fifty."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/sonbhadra-mine-collapse-update-1-dead-several-feared-trapped-rescue-enters-second-day-fir-registered-2820802-2025-11-16",
+      "headline": "Sonbhadra mine collapse: 1 dead, several feared trapped as rescue enters second dayRescue operations in Uttar Pradesh's Sonbhadra district entered their second day after a stone quarry collapse left one worker dead and several others feared trapped beneath large boulders."
     },
     {
       "sentiment": "positive",
@@ -291,8 +291,13 @@
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/sonbhadra-mine-collapse-update-1-dead-several-feared-trapped-rescue-enters-second-day-fir-registered-2820802-2025-11-16",
-      "headline": "Sonbhadra mine collapse: 1 dead, several feared trapped as rescue enters second dayRescue operations in Uttar Pradesh's Sonbhadra district entered their second day after a stone quarry collapse left one worker dead and several others feared trapped beneath large boulders."
+      "url": "https://www.indiatoday.in/india/story/have-only-disowned-tejashwi-rohini-acharya-says-lalu-yadav-rabri-devi-backed-her-2820804-2025-11-16",
+      "headline": "Have only disowned Tejashwi: Rohini Acharya says Lalu Yadav, Rabri Devi backed herRohini Acharya said she stands by all her allegations and has \"disowned\" her brother, urging reporters to question Tejashwi Yadav and his close aides. She said her parents and sisters were supporting her and that she was leaving for Mumbai to stay with her in-laws."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/bihar-polls-nda-weighs-6-mlas-per-minister-formula-as-bihar-government-formation-gathers-pace-2820722-2025-11-16",
+      "headline": "NDA sets Bihar Cabinet formula rolling as government formation gathers paceThe formula is expected to guide the distribution of portfolios among alliance partners as the coalition moves swiftly towards forming the next government."
     },
     {
       "sentiment": "negative",
@@ -301,36 +306,46 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-south-africa-sourav-ganguly-eden-gardens-pitch-row-gautam-gambhir-message-2820785-2025-11-16",
+      "headline": "Sourav Ganguly responds to Kolkata Test pitch row, has a message for Gautam GambhirIndia's Eden Gardens collapse has triggered a fresh debate over the pitch and the team's approach. Sourav Ganguly has now weighed in, offering clarity on the controversy and a pointed message for Gautam Gambhir."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/palghar-class-6-girl-dies-after-100-situps-school-punishment-maharashtra-2820745-2025-11-16",
+      "headline": "Class 6 girl punished with 100 sit-ups for reaching school late, dies week laterA Class 6 girl from Palghar died days after she was allegedly forced to perform 100 sit-ups as punishment for arriving late to school. Her mother has blamed the \"inhuman\" punishment, while authorities have launched an inquiry into the incident."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/indian-navy-commissions-mahe-asw-shallow-water-craft-mumbai-2820837-2025-11-16",
       "headline": "Navy to commission indigenous anti-submarine warfare water craft on November 24The Indian Navy will commission Mahe, its first indigenously built Mahe-class Anti-Submarine Warfare Shallow Water Craft, on November 24 in Mumbai. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-south-africa-sourav-ganguly-eden-gardens-pitch-row-gautam-gambhir-message-2820785-2025-11-16",
-      "headline": "Sourav Ganguly responds to Kolkata Test pitch row, has a message for Gautam GambhirIndia's Eden Gardens collapse has triggered a fresh debate over the pitch and the team's approach. Sourav Ganguly has now weighed in, offering clarity on the controversy and a pointed message for Gautam Gambhir."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-south-africa-1st-test-report-sa-1-0-lead-historic-win-kolkata-2820700-2025-11-16",
-      "headline": "Rank turner haunts India again as South Africa defend 123 to end 15-year waitSouth Africa finally broke their 15-year drought in India with a gritty win in the opening Test at Eden Gardens on Sunday, taking a 1-0 lead in the two-match series. Set 124 on a crumbling surface that tested every batter's technique and temperament, India folded for 93."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/9mm-cartridges-typically-used-by-army-recovered-from-red-fort-car-blast-site-but-no-weapon-found-sources-2820588-2025-11-16",
-      "headline": "9mm cartridges, used by Army, recovered from Red Fort car blast site: SourcesA powerful car explosion near Delhi's Red Fort on November 10 killed 13 people and injured several others, shattering the area. Authorities continue to document the wreckage and aftermath of the high-intensity blast."
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/iffi-to-felicitate-rajinikanth-balakrishna-for-50-years-in-cinema-dr-l-murugan-2820848-2025-11-16",
+      "headline": "IFFI to felicitate Rajinikanth, Balakrishna for 50 years in cinema: Dr L MuruganUnion Minister of State Dr L Murugan announced that legendary actors Rajinikanth and Nandamuri Balakrishna will be felicitated at IFFI, Goa. The honour recognises their iconic body of work and profound influence on Indian film culture over five decades, marking 50 years in cinema."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/television/story/rubina-abhinav-win-dhamaal-with-pati-patni-aur-panga-crowned-sarvagun-sampann-jodi-2820852-2025-11-16",
       "headline": "Rubina-Abhinav win Dhamaal With Pati Patni Aur Panga; crowned Sarvagun Sampann JodiRubina Dilaik and Abhinav Shukla were crowned the winners of the 'Sarvagun Sampann jodi,' of the reality show Dhamaal With Pati Patni Aur Panga. Excerpts from an exclusive report by India Today.\r\n"
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/entertainment/television/story/bigg-boss-19-anuj-sachdeva-defends-friend-gaurav-khanna-against-fake-allegations-2820744-2025-11-16",
-      "headline": "Bigg Boss 19: Anuj Sachdeva defends friend Gaurav Khanna against fake allegationsActor Anuj Sachdeva backed his friend, 'Bigg Boss 19' contestant Gaurav Khanna, slamming accusations of him being fake by confirming his genuine nature. Anuj also criticised Amaal Mallik for using abusive language about women and speaking ill of someone's mother, questioning his legacy."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-a-vs-pakistan-shaheens-nehal-wadhera-catch-ruled-not-out-new-rules-maaz-sadaqat-2820877-2025-11-16",
+      "headline": "India A vs Pakistan A controversy after Naman Dhir catch overruled: What's the rule? The India A vs Pakistan A clash saw fresh controversy after a stunning relay catch involving Nehal Wadhera and Naman Dhir was overruled. The decision followed cricket's updated boundary fielding laws, sparking confusion and strong reactions."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/rising-stars-asia-cup-pakistan-beat-india-by-8-wickets-no-handshake-2820876-2025-11-16",
+      "headline": "Rising Stars Asia Cup: Pakistan hammer India by 8 wickets as no handshake continues India continued their 'no handshake' policy against arch-rivals Pakistan following an 8-wicket defeat in the Rising Stars Asia Cup 2025 in Doha."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/video/india-loses-to-south-africa-gambhir-defends-pitch-ganguly-calls-for-good-wickets-ytvd-2820872-2025-11-16",
+      "headline": "India Loses to South Africa; Gambhir Defends Pitch, Ganguly Calls for 'Good Wickets' This special report covers the fallout from India's 30-run Test loss to South Africa at Eden Gardens, featuring an exclusive interview with CAB President Sourav Ganguly and analysis of India Head Coach Gautam Gambhir's press conference. The discussion centres on the controversial pitch, India's batting performance, and team strategy. Following the match, Gautam Gambhir stated, 'this is exactly the pitch we were looking for'."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-south-africa-shubman-gill-discharged-hospital-kolkata-test-injury-2820830-2025-11-16",
@@ -344,7 +359,32 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-a-vs-pakistan-a-live-score-rising-stars-asia-cup-2025-vaibhav-suryavanshi-2820821-2025-11-16",
-      "headline": "IND A vs PAK A Live: India struggle as Sadaqat hits rapid 50 India A vs Pakistan A, Rising Stars Asia Cup 2025 Live: Pakistan are on course to chase down 137 as Maaz Sadaqat is leading the fightback with a rapid fifty."
+      "headline": "IND A vs PAK A Highlights: Pakistan Shaheens beat India A by 8 wickets India A vs Pakistan A, Rising Stars Asia Cup 2025 Highlights: Pakistan Shaheens have clinched a comfortable 8 wickets win against India, having done something their senior team has not been able to do since 2022."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/anil-kumble-picks-sai-sudharsan-to-replace-shubman-gill-in-guwahati-test-2820805-2025-11-16",
+      "headline": "Sai Sudharsan or Devdutt Padikkal? Anil Kumble makes his pick for Guwahati Test IND vs SA, 1st Test: Anil Kumble believes India should turn to Sai Sudharsan if Shubman Gill is unavailable for the Guwahati Test, though adding another left-hander could strengthen Simon Harmer's impact. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-sawasim-jaffer-urges-return-to-virat-kohli-era-pitches-after-kolkata-defeat-2820803-2025-11-16",
+      "headline": "Return to Virat Kohli era Indian pitches: Wasim Jaffer after Kolkata Test loss Former cricketer Wasim Jaffer has called for a return to classic Indian pitches from the Virat Kohli era after India's defeat to South Africa. His comments highlight concerns over current pitch conditions affecting India's home dominance and team performance."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-south-africa-kevin-pietersen-modern-test-approach-blame-run-chase-kolkata-2820800-2025-11-16",
+      "headline": "India's Kolkata loss due to modern Test approach, players not to blame: Pietersen Kevin Pietersen believes India's Kolkata collapse reflects a larger shift in modern Test batting. He says today's techniques prioritise power over patience and argues the players should not be blamed for it."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-south-africa-kolkata-test-eden-pitch-steyn-on-gambhir-remark-2820768-2025-11-16",
+      "headline": "Any Test that finishes in 3 days has demons: Steyn on Gambhir's pitch defence Former South Africa fast bowler Dale Steyn countered India coach Gautam Gambhir's defence of the Eden Gardens surface, saying that \"any Test that finishes in three days has demons in it, for sure.\""
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/video/eden-gardens-india-vs-south-africa-sourav-ganguly-pitch-controversy-2820798-2025-11-16",
+      "headline": "Eden Gardens wasn't the best Test wicket: Sourav Ganguly on pitch controversy IND vs SA, 1st Test: CAB president Sourav Ganguly opened up the controversy surrounding the pitch at the Eden Gardens in Kolkata. The opening Test ended in less than three days with South Africa beating India by 30 runs to take a 1-0 lead in the two-match series. "
     },
     {
       "sentiment": "positive",
@@ -374,42 +414,17 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/cheteshwar-pujara-disagrees-gautam-gambhir-eden-gardens-pitch-difficulty-india-vs-south-africa-test-2820748-2025-11-16",
-      "headline": "Can't blame batters: Pujara, Chopra disagree with Gambhir's Kolkata pitch remark IND vs SA, 1st Test: Cheteshwar Pujara and Aakash Chopra strongly disagreed with Gautam Gambhir's remark that the Eden Gardens pitch wasn't difficult for batting and that the batters should have adapted to the conditions.\r\n"
+      "headline": "Can't blame batters: Pujara, Chopra disagree with Gambhir's Kolkata pitch remarkIND vs SA, 1st Test: Cheteshwar Pujara and Aakash Chopra strongly disagreed with Gautam Gambhir's remark that the Eden Gardens pitch wasn't difficult for batting and that the batters should have adapted to the conditions.\r\n"
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/video/ind-vs-sa-1st-test-gautam-gambhir-full-post-match-press-conference-kolkata-test-2820791-2025-11-16",
-      "headline": "124 was chasable irrespective of pitch, we should've absorbed pressure: Gambhir ND vs SA 1st Test: India head coach Gautam Gambhir felt that the target of 124 against South Africa in the first Test was chasable. India lost the series opener by 30 runs after being bundled out for 93 on Day 3 at Eden Gardens, Kolkata."
+      "headline": "124 was chasable irrespective of pitch, we should've absorbed pressure: GambhirND vs SA 1st Test: India head coach Gautam Gambhir felt that the target of 124 against South Africa in the first Test was chasable. India lost the series opener by 30 runs after being bundled out for 93 on Day 3 at Eden Gardens, Kolkata."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-south-africa-sourav-ganguly-eden-gardens-pitch-row-gautam-gambhir-message-2820785-2025-11-16",
-      "headline": "Sourav Ganguly responds to Kolkata Test pitch row, has a message for Gautam Gambhir India's Eden Gardens collapse has triggered a fresh debate over the pitch and the team's approach. Sourav Ganguly has now weighed in, offering clarity on the controversy and a pointed message for Gautam Gambhir."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-south-africa-kolkata-test-eden-pitch-steyn-on-gambhir-remark-2820768-2025-11-16",
-      "headline": "Any Test that finishes in 3 days has demons: Steyn on Gambhir's pitch defence Former South Africa fast bowler Dale Steyn countered India coach Gautam Gambhir's defence of the Eden Gardens surface, saying that \"any Test that finishes in three days has demons in it, for sure.\""
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/video/eden-gardens-india-vs-south-africa-sourav-ganguly-pitch-controversy-2820798-2025-11-16",
-      "headline": "Eden Gardens wasn't the best Test wicket: Sourav Ganguly on pitch controversy IND vs SA, 1st Test: CAB president Sourav Ganguly opened up the controversy surrounding the pitch at the Eden Gardens in Kolkata. The opening Test ended in less than three days with South Africa beating India by 30 runs to take a 1-0 lead in the two-match series. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/cheteshwar-pujara-disagrees-gautam-gambhir-eden-gardens-pitch-difficulty-india-vs-south-africa-test-2820748-2025-11-16",
-      "headline": "Can't blame batters: Pujara, Chopra disagree with Gambhir's Kolkata pitch remark IND vs SA, 1st Test: Cheteshwar Pujara and Aakash Chopra strongly disagreed with Gautam Gambhir's remark that the Eden Gardens pitch wasn't difficult for batting and that the batters should have adapted to the conditions.\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/video/ind-vs-sa-1st-test-gautam-gambhir-full-post-match-press-conference-kolkata-test-2820791-2025-11-16",
-      "headline": "124 was chasable irrespective of pitch, we should've absorbed pressure: Gambhir ND vs SA 1st Test: India head coach Gautam Gambhir felt that the target of 124 against South Africa in the first Test was chasable. India lost the series opener by 30 runs after being bundled out for 93 on Day 3 at Eden Gardens, Kolkata."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-south-africa-sourav-ganguly-eden-gardens-pitch-row-gautam-gambhir-message-2820785-2025-11-16",
-      "headline": "Sourav Ganguly responds to Kolkata Test pitch row, has a message for Gautam Gambhir India's Eden Gardens collapse has triggered a fresh debate over the pitch and the team's approach. Sourav Ganguly has now weighed in, offering clarity on the controversy and a pointed message for Gautam Gambhir."
+      "headline": "Sourav Ganguly responds to Kolkata Test pitch row, has a message for Gautam GambhirIndia's Eden Gardens collapse has triggered a fresh debate over the pitch and the team's approach. Sourav Ganguly has now weighed in, offering clarity on the controversy and a pointed message for Gautam Gambhir."
     },
     {
       "sentiment": "positive",
@@ -438,18 +453,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/gautam-gambhir-shubman-gill-injury-update-kolkata-test-india-south-africa-2820734-2025-11-16",
-      "headline": "India coach Gautam Gambhir provides Shubman Gill update ahead of Guwahati TestIndia coach Gautam Gambhir has said that Shubman Gill's injury is being monitored at the moment after the loss in the Kolkata Test. Gill didn't bat in the second innings after suffering neck spasms in the first one. "
+      "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-sa-anil-kumble-reaction-gambhir-remark-eden-gardens-pitch-kolkata-test-2820743-2025-11-16",
+      "headline": "Anil Kumble 'confused' by Gautam Gambhir's Eden Gardens pitch remarkFormer India captain Anil Kumble admitted he was \"confused\" after India head coach Gautam Gambhir maintained that the Eden Gardens surface was exactly what the team had asked for ahead of the first Test against South Africa."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/temba-bavuma-reaction-south-africa-kolkata-test-win-15-years-india-2820728-2025-11-16",
-      "headline": "Stay in game and believe: Bavuma provides South Africa's Kolkata Test win recipeTemba Bavuma revealed the recipe for South Africa's success in the Kolkata Test against India as they took a 1-0 lead in the series. South Africa ended their 15-year wait for a win on Indian soil in Tests. "
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-south-africa-1st-test-batter-prepare-eden-gardens-pitches-cheteshwar-pujara-2820741-2025-11-16",
+      "headline": "Indian batters need to use their feet, be prepared for pitches like Eden: PujaraIND vs SA, 1st Test: India's collapse on a turning Eden pitch has renewed scrutiny of their batting against spin. Cheteshwar Pujara says the team must adapt quickly, using better footwork and scoring options to handle challenging home surfaces."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-south-africa-gautam-gambhir-eden-gardens-pitch-curator-kolkata-test-2820724-2025-11-16",
-      "headline": "Eden pitch had no demons, curator gave exactly what we wanted: Gautam GambhirIndia coach Gautam Gambhir said the pitch had \"no demons\" and insisted that the curator delivered exactly what the team had asked for, even as India slipped to a 30-run defeat to South Africa in the opening Test."
+      "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-sa-jasprit-bumrah-reconciles-temba-bavuma-eden-gardens-win-2820735-2025-11-16",
+      "headline": "Jasprit Bumrah makes up with Temba Bavuma after disparaging remark in KolkataJasprit Bumrah and Temba Bavuma sorted out their differences after South Africa's landmark Test victory at Eden Gardens. Bumrah had made a comment on Bavuma on Day 1, which didn't go down well with fans."
     },
     {
       "sentiment": "positive",
@@ -490,21 +505,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-aakash-chopra-kkr-cameron-green-andre-russell-2820683-2025-11-16",
       "headline": "Cameron Green could be upgraded version of Andre Russell for KKR: Aakash ChopraAakash Chopra said that KKR should target Cameron Green in the upcoming Indian Premier League (IPL) 2026 auction, suggesting that the Australian all-rounder could be an \"upgraded version\" of Andre Russell, whom the franchise released ahead of the new season."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-a-vs-pakistan-a-rising-stars-asia-cup-2025-doha-clash-live-streaming-2820675-2025-11-16",
-      "headline": "India A vs Pakistan A Live Streaming: When and where to watch Asia Cup Rising Stars clashIndia A and Pakistan A face off in a marquee Rising Stars Asia Cup 2025 clash in Doha, bringing together two of the most exciting young squads in Asia. The focus will be on Vaibhav Suryavanshi, who's fresh from a 32-ball century against the UAE. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/sourav-ganguly-defends-curator-eden-gardens-pitch-criticism-india-south-africa-test-2820673-2025-11-16",
-      "headline": "India asked for this: Sourav Ganguly defends Kolkata pitch curator amid criticismIND vs SA, 1st Test: Sourav Ganguly defended curator Sujan Mukherjee amid heavy criticism of the bowler-friendly Eden Gardens pitch against South Africa where bowlers have thoroughly dominated."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-aims-highest-successful-test-run-chase-eden-gardens-lead-south-africa-series-2820641-2025-11-16",
-      "headline": "Can India chase 124 and win Kolkata Test? Here's what history saysIND vs SA, 1st Test: India face a historic challenge at Eden Gardens, needing to pull off the venue's highest-ever run-chase to beat South Africa. India is the only team to chase a 100-plus target in Kolkata. \r\n"
     }
   ],
   "education": [
