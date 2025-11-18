@@ -103,6 +103,11 @@
   ],
   "entertainment": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/ryan-gosling-space-thriller-project-hail-mary-gets-india-release-date-2822144-2025-11-18",
+      "headline": "Ryan Gosling's space thriller Project Hail Mary gets India release date Project Hail Mary, based on Andy Weir's novel, will arrive in Indian cinemas in 2026, featuring Ryan Gosling as a lone astronaut on a mission to save Earth. The film will have screenings in English, Hindi, Tamil, and Telugu."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/veteran-south-actor-tulasi-announces-retirement-on-instagram-2822111-2025-11-18",
       "headline": "Veteran South actor Tulasi announces retirement on Instagram Veteran South Indian actor Tulasi has announced her retirement from films, marking the end of a remarkable career spanning nearly six decades. She shared her decision through heartfelt spiritual posts on Instagram, expressing gratitude and a peaceful continuation of her journey."
@@ -191,11 +196,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/akshay-kumar-tiger-shroff-age-defying-fitness-juhu-beach-outing-2821779-2025-11-18",
       "headline": "Ocean's 9 Juhu beach edition ft shirtless Akshay Kumar, Tiger Shroff. Watch Akshay Kumar and Tiger Shroff, joined by a group dubbed the 'Desi Boys,' captured public attention during a recent walk along Mumbai's Juhu Beach. The group, led by Kumar, drew significant reactions online for their fitness and camaraderie, as highlighted in a widely shared video."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/south-indian-films-action-thrillers-family-dramas-crime-stories-release-november-2025-2821776-2025-11-18",
-      "headline": "Vilaayath Budha to Mask: 9 South films to hit theatres on November 21 As many as nine South Indian films are arriving in theaters this week, spanning the Malayalam, Telugu, Tamil, and Kannada languages. Prithviraj Sukumaran's 'Vilaayath Budha' and Kavin-Andrea Jeremiah's 'Mask' are among the films that are due for release."
     }
   ],
   "general news": [
@@ -211,18 +211,23 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/lawrence-bishnoi-brother-anmol-wanted-in-baba-siddique-murder-case-being-brought-to-india-from-us-2822046-2025-11-18",
-      "headline": "Gangster Anmol Bishnoi, wanted in Baba Siddique murder case, extradited\u00a0to\u00a0IndiaAnmol Bishnoi, brother of gangster Lawrence Bishnoi, is being extradited from America to India to face charges in high-profile criminal cases. This marks a crucial development in India's fight against organised crime and its international links.\r\n"
+      "url": "https://www.indiatoday.in/india/story/us-deports-200-indians-including-anmol-bishnoi-and-197-illegal-migrants-flight-land-delhi-wednesday-2822141-2025-11-18",
+      "headline": "200 Indians deported from US: Anmol Bishnoi, two Punjab wanted\u00a0on\u00a0flightThe United States has deported 200 Indian nationals, including notorious gangster Anmol Bishnoi, back to India. This significant move marks a crucial step in India's fight against organised crime and fugitive criminals abroad.\r\n"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/assembly/story/will-quit-bihar-bruised-prashant-kishor-new-dare-for-jdu-over-rs-2-lakh-promise-2821891-2025-11-18",
-      "headline": "Forget politics, I'll leave Bihar: Smarting, Prashant Kishor dares JD(U) againPrashant Kishor said he would \"definitely quit politics\" if the Nitish Kumar-led NDA government fulfils its poll promise of giving Rs 2 lakh each to 1.5 crore women. Rejecting claims that he plans to exit after Jan Suraaj's defeat, Kishor said he will stay in Bihar and intensify his campaign."
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-south-africa-gautam-gambhir-sacking-no-question-sourav-ganguly-better-pitches-2822155-2025-11-18",
+      "headline": "No question of sacking Gautam Gambhir, India need better pitches: Sourav GangulySourav Ganguly has dismissed calls to sack Gautam Gambhir after India's Eden Gardens defeat. He believes better pitches, patience and clearer planning are the real priorities as India look to correct recurring Test-match flaws."
     },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/sir-special-intensive-revision-blo-suicides-protests-kerala-rajasthan-bengal-2822034-2025-11-18",
       "headline": "2 suicides, protests in 3 states: Why booth officials are feeling SIR heatSIR exercise: Across the states, there is one common refrain from the booth-level officers or BLOs - work pressure, long hours, and unrealistic targets that have pushed them to the breaking point.\u00a0"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/elections/assembly/story/will-quit-bihar-bruised-prashant-kishor-new-dare-for-jdu-over-rs-2-lakh-promise-2821891-2025-11-18",
+      "headline": "Forget politics, I'll leave Bihar: Smarting, Prashant Kishor dares JD(U) againPrashant Kishor said he would \"definitely quit politics\" if the Nitish Kumar-led NDA government fulfils its poll promise of giving Rs 2 lakh each to 1.5 crore women. Rejecting claims that he plans to exit after Jan Suraaj's defeat, Kishor said he will stay in Bihar and intensify his campaign."
     },
     {
       "sentiment": "positive",
@@ -236,23 +241,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/congress-allies-with-jamaat-vijayan-welcomes-hamas-bjp-leader-after-delhi-blast-2822084-2025-11-18",
-      "headline": "Congress allies with Jamaat, Vijayan welcomes Hamas: BJP leader after Delhi blastFormer Union Minister and senior BJP leader Rajeev Chandrashekhar slammed the INDIA bloc, pointing to what he described as the Congress party's \"open alliance\" with Jamaat-e-Islami in Kerala and Chief Minister Pinarayi Vijayan's \"welcome\" of Hamas."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/education-today/gk-current-affairs/story/raulane-the-5000-year-old-himachal-festival-that-even-history-cant-explain-2822000-2025-11-18",
       "headline": "Raulane, the 5,000-year-old Himachal festival that even history can't explainRaulane, a 5,000-year-old festival from Himachal Pradesh, blends mountain folklore, community rituals, and ancient Himalayan beliefs into a living tradition that survives without written history, carrying a cultural memory older than civilisation."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/india-new-e-passport-security-features-design-details-2821802-2025-11-18",
-      "headline": "India rolls out next-gen e-passports: A look at key security upgradesIndia is rolling out next-generation e-passports with advanced security features and RFID chips under the upgraded Passport Seva Programme 2.0. "
+      "url": "https://www.indiatoday.in/india/story/lawrence-bishnoi-brother-anmol-wanted-in-baba-siddique-murder-case-being-brought-to-india-from-us-2822046-2025-11-18",
+      "headline": "Gangster Anmol Bishnoi, wanted in Baba Siddique murder case, extradited\u00a0to\u00a0IndiaAnmol Bishnoi, brother of gangster Lawrence Bishnoi, is being extradited from America to India to face charges in high-profile criminal cases. This marks a crucial development in India's fight against organised crime and its international links.\r\n"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/donald-trump-us-f35-fighter-jets-saudi-arabia-israel-abraham-accords-2821846-2025-11-18",
-      "headline": "Why Trump is gifting F-35 jets to Saudi ArabiaDonald Trump surprised one and all by announcing that he would approve the sale of F-35 jets to Saudi Arabia. So far, Israel is the only country in the Middle East to have the jet. What's behind Trump's move?"
+      "url": "https://www.indiatoday.in/india/story/congress-allies-with-jamaat-vijayan-welcomes-hamas-bjp-leader-after-delhi-blast-2822084-2025-11-18",
+      "headline": "Congress allies with Jamaat, Vijayan welcomes Hamas: BJP leader after Delhi blastFormer Union Minister and senior BJP leader Rajeev Chandrashekhar slammed the INDIA bloc, pointing to what he described as the Congress party's \"open alliance\" with Jamaat-e-Islami in Kerala and Chief Minister Pinarayi Vijayan's \"welcome\" of Hamas."
     },
     {
       "sentiment": "positive",
@@ -271,18 +271,23 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/story/x-chatgpt-other-platforms-disrupted-due-to-cloudflare-outage-2821986-2025-11-18",
-      "headline": "X aka Twitter went down along with chunk of internet due to Cloudflare glitchThe social media platform X, formerly Twitter, is currently down. The outage seems to be affecting multiple sites and is related to issues with internet infrastructure service Cloudfare.\r\n"
+      "url": "https://www.indiatoday.in/india/story/india-new-e-passport-security-features-design-details-2821802-2025-11-18",
+      "headline": "India rolls out next-gen e-passports: A look at key security upgradesIndia is rolling out next-generation e-passports with advanced security features and RFID chips under the upgraded Passport Seva Programme 2.0. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/donald-trump-us-f35-fighter-jets-saudi-arabia-israel-abraham-accords-2821846-2025-11-18",
+      "headline": "Why Trump is gifting F-35 jets to Saudi ArabiaDonald Trump surprised one and all by announcing that he would approve the sale of F-35 jets to Saudi Arabia. So far, Israel is the only country in the Middle East to have the jet. What's behind Trump's move?"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/video-japans-sakurajima-volcano-explodes-violently-sends-ash-4-km-in-the-air-2821976-2025-11-18",
+      "headline": "Watch: Japan's Sakurajima volcano explodes, sends ash 4 km in the airThis marked the first time in nearly 13 months that the volcano's ash plume had reached above 4 kilometers, reflecting a notably intense eruption compared to recent activity."
     },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/cities/bengaluru/story/karnataka-bengaluru-metro-email-bomb-threat-fir-police-investigation-2821630-2025-11-18",
       "headline": "If you harass my divorced wife...: Bengaluru man's bomb threat email to metro staffBengaluru metro received a late-night email threatening to blast a metro station. A senior official verified and reported the threat. Wilson Garden Police have filed an FIR and launched an investigation."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/pakistan-rapper-talha-anjum-waves-indian-flag-in-nepal-tells-critics-will-do-it-again-gully-gang-naezy-2821248-2025-11-17",
-      "headline": "Pak rapper Talha Anjum waves Indian flag, tells critics he'll do it againPakistani rapper Talha Anjum has ignited a controversy after draping an Indian flag around his shoulders during his Kathmandu concert. His waving the Tricolour and draping it were seen as provocative by many. He was singing his diss track 'Kaun Talha' aimed at Indian Gully Gang rapper Naezy when an Indian flag was thrown at him. Anjum caught the flag mid-air and waved it."
     },
     {
       "sentiment": "positive",
@@ -296,23 +301,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/naxal-insurgency-how-a-long-evading-madvi-hidma-exposed-split-top-maoist-naxalite-leadership-left-wing-extremism-lwe-2821753-2025-11-18",
-      "headline": "Behind top Maoist Hidma's killing, a story of split, betrayal and dogged huntMadvi Hidma's death in a counter-insurgency operation signals the near-collapse of the Maoist insurgency in India. Hidma, one of the top Maoist commanders, hid from security forces even as he masterminded brutal killings. A split among Maoists and the back-to-back operations against Left-Wing Extremism is what got him killed. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/video-japans-sakurajima-volcano-explodes-violently-sends-ash-4-km-in-the-air-2821976-2025-11-18",
-      "headline": "Watch: Japan's Sakurajima volcano explodes, sends ash 4 km in the airThis marked the first time in nearly 13 months that the volcano's ash plume had reached above 4 kilometers, reflecting a notably intense eruption compared to recent activity."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/a-double-ict-irony-international-crimes-tribunal-bangladesh-death-sentence-sheikh-hasina-jamaat-e-islami-seeking-execution-2821837-2025-11-18",
       "headline": "Irony dies twice as Jamaat cheers Hasina's BhasmasuraA double irony unfolded as the International Crimes Tribunal (ICT) of Bangladesh gave ousted Prime Minister Sheikh Hasina the death sentence. The ICT was set up by Hasina herself to try those accused of 1971 war crimes. The Jamaat-e-Islami, which lauded the ICT verdict, had the most number of leaders hanged by the tribunal."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/free-india-from-macaulays-slavery-mindset-pm-modi-sets-10-year-roadmap-2821827-2025-11-18",
-      "headline": "Free India from Macaulay's slavery mindset: PM Modi sets 10-year roadmapPrime Minister Narendra Modi urged a national resolve to shed what he called the \"Macaulay mindset,\" launching a 10-year mission to reverse the colonial-era impact of the 1835 education overhaul."
+      "url": "https://www.indiatoday.in/business/personal-finance/story/health-insurance-claim-settlement-ratios-misleading-explained-2821852-2025-11-18",
+      "headline": "What your health insurer's high claim settlement ratio isn't telling youHealth insurance claim settlement ratios often look impressive but hide critical details about payouts, delays, and deductions. In this special report, we unpack what the number really means for policyholders."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/naxal-insurgency-how-a-long-evading-madvi-hidma-exposed-split-top-maoist-naxalite-leadership-left-wing-extremism-lwe-2821753-2025-11-18",
+      "headline": "Behind top Maoist Hidma's killing, a story of split, betrayal and dogged huntMadvi Hidma's death in a counter-insurgency operation signals the near-collapse of the Maoist insurgency in India. Hidma, one of the top Maoist commanders, hid from security forces even as he masterminded brutal killings. A split among Maoists and the back-to-back operations against Left-Wing Extremism is what got him killed. "
     },
     {
       "sentiment": "positive",
@@ -320,17 +320,32 @@
       "headline": "Shashi Tharoor braves cold and cough to attend PM's lecture, offers fresh praiseCongress MP Shashi Tharoor observed that PM Modi's message resonated as both an economic assessment and a cultural directive, encouraging citizens to strive for national improvement."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/veteran-south-actor-tulasi-announces-retirement-on-instagram-2822111-2025-11-18",
-      "headline": "Veteran South actor Tulasi announces retirement on InstagramVeteran South Indian actor Tulasi has announced her retirement from films, marking the end of a remarkable career spanning nearly six decades. She shared her decision through heartfelt spiritual posts on Instagram, expressing gratitude and a peaceful continuation of her journey."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/ryan-gosling-space-thriller-project-hail-mary-gets-india-release-date-2822144-2025-11-18",
+      "headline": "Ryan Gosling's space thriller Project Hail Mary gets India release dateProject Hail Mary, based on Andy Weir's novel, will arrive in Indian cinemas in 2026, featuring Ryan Gosling as a lone astronaut on a mission to save Earth. The film will have screenings in English, Hindi, Tamil, and Telugu."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/ranveer-singh-compares-dhurandhar-sara-arjun-to-dakota-fanning-2822070-2025-11-18",
-      "headline": "Bollywood's new prodigy: Ranveer compares Dhurandhar's Sara Arjun to Dakota FanningRanveer Singh spoke highly of his young co-star Sara Arjun during the launch event for Aditya Dhar's film 'Dhurandhar'. He highlighted her talent and experience ahead of the movie's December release."
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/veteran-south-actor-tulasi-announces-retirement-on-instagram-2822111-2025-11-18",
+      "headline": "Veteran South actor Tulasi announces retirement on InstagramVeteran South Indian actor Tulasi has announced her retirement from films, marking the end of a remarkable career spanning nearly six decades. She shared her decision through heartfelt spiritual posts on Instagram, expressing gratitude and a peaceful continuation of her journey."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-south-africa-gautam-gambhir-sacking-no-question-sourav-ganguly-better-pitches-2822155-2025-11-18",
+      "headline": "No question of sacking Gautam Gambhir, India need better pitches: Sourav Ganguly Sourav Ganguly has dismissed calls to sack Gautam Gambhir after India's Eden Gardens defeat. He believes better pitches, patience and clearer planning are the real priorities as India look to correct recurring Test-match flaws."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/video/sourav-ganguly-admits-eden-gardens-pitch-was-not-the-greatest-after-indias-shock-defeat-ytvd-2822153-2025-11-18",
+      "headline": "India need to change their mindset after Kolkata Test loss: Sourav Ganguly IND vs SA: India need a mindset shift after their Kolkata Test defeat, says Sourav Ganguly, who admits the Eden pitch \"was not the greatest\" and insists India must play on better surfaces despite their request for a turning track."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/pakistan-edge-past-zimbabwe-by-five-wickets-in-tri-series-opener-2822147-2025-11-18",
+      "headline": "Nervous Pakistan survive Zimbabwe scare to make winning start in tri-series PAK vs ZIM: Pakistan survived a major scare to chase down 148 and beat Zimbabwe by five wickets in the opening match of the tri-series, thanks to Usman Khan's unbeaten 37 and Mohammad Nawaz's late heroics. "
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-sa-bhuvneshwar-kumar-on-kolkata-pitch-controversy-ipl-2026-rcb-2822101-2025-11-18",
@@ -367,19 +382,19 @@
       "headline": "India bring in ambidextrous spinner to deal with South Africa spin threat in Guwahati IND vs SA: India roped in ambidextrous Bengal spinner Kaushik Maity for specialised match-simulation training to help their batters prepare for South Africa's potent spin attack ahead of the second Test in Guwahati."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/karim-benzema-vinicius-jr-support-real-madrid-pressire-laliga-ballon-dor-2821974-2025-11-18",
-      "headline": "Karim Benzema comes in support of Real Madrid's Vinicius Jr: He's phenomenal Karim Benzema has come to the defence of Vinicius Jr amid rising criticism in Spain. The former Real Madrid striker believes the Brazilian is being judged too harshly and still has the potential to reach even greater heights."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/cricket/story/nigar-sultana-joty-criticism-harmanpreet-kaur-comments-abuse-allegations-bangladesh-cricket-2822098-2025-11-18",
+      "headline": "Bangladesh captain slammed for 'Am I Harmanpreet Kaur' remark: In your dreams Bangladesh captain Nigar Sultana Joty faced backlash after criticising Indian World Cup-winning captain Harmanpreet Kaur while denying allegations of mistreating junior players. Harmanpreet was involved in a controversy two years ago."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/badminton/story/saina-nehwal-peter-gade-legends-vision-delhi-2025-2821965-2025-11-18",
-      "headline": "Saina Nehwal and Peter Gade reunite in Delhi to inspire badminton's next generation Badminton icons Saina Nehwal and Peter Gade will headline the Legends' Vision \u2013 Legacy Tour India as the initiative returns to Delhi after eight years. The two-day event brings legends, juniors and fans together, highlighted by a racquet donation drive aimed at widening access to the sport."
+      "url": "https://www.indiatoday.in/sports/cricket/story/ms-dhoni-leadership-central-chennai-super-kings-ipl-2026-2822081-2025-11-18",
+      "headline": "MS Dhoni still on-field captain of CSK, Ruturaj just on paper: Mohammad Kaif Mohammad Kaif believes MS Dhoni will continue as Chennai Super Kings' central leader in IPL 2026, playing a crucial mentoring and guiding role on the field, even though Ruturaj Gaikwad is the official captain."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/manu-bhaker-esha-singh-issf-world-championships-india-shooting-team-2821940-2025-11-18",
-      "headline": "Manu Bhaker after ISSF World Championships failure: You can't win everyday Manu Bhaker reflected on her medal-less World Championships campaign, praising Esha Singh's bronze while acknowledging her own dip in form and stressing that setbacks are part of sport.\r\n"
+      "url": "https://www.indiatoday.in/sports/cricket/story/saif-hassan-bangladesh-t20i-vice-captain-litton-das-t20-captain-2026-world-cup-2822083-2025-11-18",
+      "headline": "Saif Hassan named Bangladesh T20I vice-captain, Litton Das captain until T20 World Cup Saif Hassan has been promoted to Bangladesh's T20I vice-captaincy following impressive performances this year, while Litton Das remains T20I captain ahead of the 2026 World Cup to be held next year."
     },
     {
       "sentiment": "positive",
@@ -389,17 +404,17 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/karim-benzema-vinicius-jr-support-real-madrid-pressire-laliga-ballon-dor-2821974-2025-11-18",
-      "headline": "Karim Benzema comes in support of Real Madrid's Vinicius Jr: He's phenomenal Karim Benzema has come to the defence of Vinicius Jr amid rising criticism in Spain. The former Real Madrid striker believes the Brazilian is being judged too harshly and still has the potential to reach even greater heights."
+      "headline": "Karim Benzema comes in support of Real Madrid's Vinicius Jr: He's phenomenalKarim Benzema has come to the defence of Vinicius Jr amid rising criticism in Spain. The former Real Madrid striker believes the Brazilian is being judged too harshly and still has the potential to reach even greater heights."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/badminton/story/saina-nehwal-peter-gade-legends-vision-delhi-2025-2821965-2025-11-18",
-      "headline": "Saina Nehwal and Peter Gade reunite in Delhi to inspire badminton's next generation Badminton icons Saina Nehwal and Peter Gade will headline the Legends' Vision \u2013 Legacy Tour India as the initiative returns to Delhi after eight years. The two-day event brings legends, juniors and fans together, highlighted by a racquet donation drive aimed at widening access to the sport."
+      "headline": "Saina Nehwal and Peter Gade reunite in Delhi to inspire badminton's next generationBadminton icons Saina Nehwal and Peter Gade will headline the Legends' Vision \u2013 Legacy Tour India as the initiative returns to Delhi after eight years. The two-day event brings legends, juniors and fans together, highlighted by a racquet donation drive aimed at widening access to the sport."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/other-sports/story/manu-bhaker-esha-singh-issf-world-championships-india-shooting-team-2821940-2025-11-18",
-      "headline": "Manu Bhaker after ISSF World Championships failure: You can't win everyday Manu Bhaker reflected on her medal-less World Championships campaign, praising Esha Singh's bronze while acknowledging her own dip in form and stressing that setbacks are part of sport.\r\n"
+      "headline": "Manu Bhaker after ISSF World Championships failure: You can't win everydayManu Bhaker reflected on her medal-less World Championships campaign, praising Esha Singh's bronze while acknowledging her own dip in form and stressing that setbacks are part of sport.\r\n"
     },
     {
       "sentiment": "negative",
@@ -428,18 +443,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/babar-azam-personal-attacks-criticism-century-comeback-ramiz-raja-2821850-2025-11-18",
-      "headline": "Babar Azam breaks silence to ex-Pakistan captain on pain of personal attacksFormer Pakistan captain Ramiz Raja lifted the lid on a private conversation with Babar Azam, saying the superstar batter expressed his frustration over personal attacks. Babar ended an 807-day wait for an international hundred earlier this month. "
+      "url": "https://www.indiatoday.in/sports/cricket/story/simon-harmer-praises-temba-bavuma-fifty-south-africa-kolkata-test-win-india-2821937-2025-11-18",
+      "headline": "Kolkata Test star says Temba Bavuma didn't get what he deserved after heroic knockIND vs SA, 1st Test: South Africa off-spinner Simon Harmer believes captain Temba Bavuma deserved Player of the Match in the first Test against India. Bavuma's gritty fifty and a key catch were pivotal in South Africa's historic win in Kolkata."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/carlos-alcaraz-withdraws-davis-cup-hamstring-injury-heartbroken-2821855-2025-11-18",
-      "headline": "Heartbroken Carlos Alcaraz pulls out of Davis Cup due to hamstring injuryCarlos Alcaraz withdrew from the Davis Cup Finals with a hamstring injury but still finished the season as the year-end world No.1 after a consistently dominant 2025 campaign."
+      "url": "https://www.indiatoday.in/sports/cricket/story/james-anderson-warns-england-bowlers-pace-not-enough-ashes-2025-2821931-2025-11-18",
+      "headline": "James Anderson's Ashes wake-up call: Not just pace, England need to be relentlessJames Anderson advises England's fast bowlers to combine pace with accuracy for Ashes success. He highlights Ben Stokes' role and warns that relentlessness, not just speed, will decide the series outcome."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/jason-gillespie-on-kolkata-pitch-controversy-india-south-africa-test-2821849-2025-11-18",
-      "headline": "Jason Gillespie on Kolkata Test row: Hosts must stay out of pitch preparationJason Gillespie has urged for full freedom for cricket pitch curators without host nation influence. The Kolkata pitch came under the scanner after India's loss against South Africa inside three days."
+      "url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-england-ashesh-tests-marnus-labuschagne-warning-jofra-archer-2821930-2025-11-18",
+      "headline": "Marnus Labuschagne fires warning to England bowlers ft Jofra Archer ahead of AshesAustralia's Marnus Labuschagne has issued a sharp warning to England's fast bowlers ahead of the Ashes. With Jofra Archer back in the mix, the Australian batter believes he's in his best form since their dramatic 2019 duel."
     },
     {
       "sentiment": "positive",
@@ -485,21 +500,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/world-tennis-league-india-debut-rybakina-medvedev-kyrgios-bengaluru-2821799-2025-11-18",
       "headline": "Medvedev, Kyrgios, Rybakina to headline World Tennis League's India debutWorld Tennis League is set to make its India debut in Bengaluru in December. Some of the biggest names in tennis, including Daniil Medvedev, Nick Kyrgios, and Elena Rybakina, are expected to compete in the event."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/cameron-green-ready-to-bowl-ashes-return-australia-england-test-series-2821801-2025-11-18",
-      "headline": "No restrictions: Cameron Green ready to be unleashed as a bowler in Ashes 2025Cameron Green has said that he will be bowling without any restrictions during the Ashes 2025 series against England. Green has returned to action in the Sheffield Shield and was seen slowly getting up to speed with the ball. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/england-ashes-preparation-criticised-players-golfing-perth-test-2821761-2025-11-18",
-      "headline": "Golf over practice? Aussie media mock Stokes's England before 1st Ashes TestEngland's Ashes preparations have come under scrutiny after players were seen golfing ahead of the Perth Test. Ben Stokes-led side played only one warm-up match before the series opener, starting February 21 in Perth. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/usman-khawaja-brendon-mccullum-sledging-story-transformation-2821755-2025-11-18",
-      "headline": "Tore shreds off me: Australia's Khawaja on first encounter with Brendon McCullumAustralia opener Usman Khawaja revealed how his first encounter with England coach Brendon McCullum wasn't a pleasant experience. Khawaja said that the former New Zealand wicketkeeper sledged him mercilessly in 2011. "
     }
   ],
   "education": [
