@@ -103,9 +103,29 @@
   ],
   "entertainment": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/who-is-palaash-muchhal-man-at-the-centre-of-wedding-turmoil-with-smriti-mandhana-2825768-2025-11-25",
+      "headline": "Who is Palaash Muchhal, musician at centre of wedding turmoil with Smriti Mandhana? The wedding of Indian cricketer Smriti Mandhana and musician-filmmaker Palaash Muchhal, scheduled for November 23 in Sangli, Maharashtra, was cancelled at the last minute following a sudden health emergency. Here's a closer look at the man at the centre of today's headlines."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/dharmendra-tribute-jaideep-ahlawat-final-film-ikkis-2825617-2025-11-25",
+      "headline": "Jaideep Ahlawat mourns Dharmendra, recalls warm moments from Ikkis sets Jaideep Ahlawat shared a heartfelt tribute to Dharmendra, reflecting on their time together during the shooting of Ikkis. Dharmendra, who died in Mumbai at 89, leaves behind a six-decade-long cinematic legacy. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/smriti-mandhana-wedding-postponed-palaash-cried-for-4-hours-says-his-mother-2825742-2025-11-25",
+      "headline": "Smriti Mandhana wedding postponed: Palaash cried for 4 hours, says his mother Following the heart ailment of Smriti Mandhana's father, groom Palaash Muchhal, devastated by the news, was hospitalised in Mumbai with exhaustion, confirming the emotional depth of his bond with his future father-in-law."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/dharmendra-paradox-star-ruled-paled-before-bachchan-rajesh-khanna-2825590-2025-11-25",
+      "headline": "Dharmendra Paradox: Star who ruled all genres paled before Bachchan, Rajesh Khanna Dharmendra delivered hits over three decades, yet never became an epoch-defining superstar like Rajesh Khanna or Amitabh Bachchan, revealing how Bollywood's genre politics shapes stardom"
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/television/story/kunickaa-sadanand-denies-favoritism-biggboss-19-regrets-fallout-tanya-mittal-2825714-2025-11-25",
-      "headline": "Kunickaa Sadanand on biggest regret in BB 19, dismisses claims of being favoured Kunickaa Sadanand exits Bigg Boss 19 after a dramatic journey. She addresses rumours of favoritism and shares emotional regrets about her time inside the house."
+      "headline": "Kunickaa Sadanand on biggest regret in BB 19, dismisses claims of being favoured Kunickaa Sadanand exits Bigg Boss 19 two weeks ahead of the finale. She addresses rumours of favouritism and shares emotional regrets about her time inside the house."
     },
     {
       "sentiment": "positive",
@@ -176,26 +196,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/prabhas-spirit-film-production-begins-muhurat-puja-second-generation-directors-2825521-2025-11-25",
       "headline": "Prabhas' Spirit: Ravi Teja's son Mahadhan, Trivikram's son Rishi to assist Vanga Director Sandeep Reddy Vanga's new project 'Spirit', starring Prabhas, brings together the next generation of Telugu film talent as Trivikram Srinivas's son Manoj Rishie and Ravi Teja's son Mahadhan join the direction team."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/dharmendras-love-story-with-ageless-romance-life-in-a-metro-to-rocky-aur-rani-2825518-2025-11-25",
-      "headline": "Dharmendra's love story with ageless romance: Life in a Metro to Rocky Aur Rani Dharmendra's final screen years reiterated a different side of Bollywood's He-Man. In Life in a\u2026 Metro and Rocky Aur Rani Kii Prem Kahaani, he explored romance untouched by age or judgment. A new generation discovered love through his roles."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/mass-jathara-on-ott-when-and-where-to-watch-ravi-tejas-mass-entertainer-2825527-2025-11-25",
-      "headline": "Mass Jathara on OTT: When and where to watch Ravi Teja's mass entertainer Mass Jathara starring Ravi Teja is set for its OTT debut on Netflix in November 2025, following its theatrical release in October. The Telugu film also stars Sreeleela. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/music/story/billie-eilish-3d-concert-documentary-james-cameron-march-2026-2825508-2025-11-25",
-      "headline": "Billie Eilish and James Cameron's 3D concert film arrives in theaters March 2026 Paramount Pictures has announced the release of Billie Eilish's 3D concert documentary, co-directed with James Cameron, set to premiere in cinemas in March 2026."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/rupert-grint-writes-to-new-ron-weasley-alastair-stout-on-passing-the-baton-2825495-2025-11-25",
-      "headline": "Rupert Grint writes to new Ron Weasley, Alastair Stout, on passing the baton Actor Rupert Grint has sent a supportive letter to Alastair Stout, the new Ron Weasley in HBO's 'Harry Potter' reboot. The series is set to debut on HBO and HBO Max in 2027."
     }
   ],
   "general news": [
@@ -206,8 +206,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/centre-orders-action-against-vehicles-causing-polluting-wants-to-increase-electric-vehicles-in-delhi-sources-2825715-2025-11-25",
-      "headline": "PMO cracks whip on polluting vehicles in Delhi, pushes for EV expansionDelhi AQI: The high-level PMO meeting comes as Delhi's air quality remained 'very poor' for the second week, with some areas even recording 'severe' levels."
+      "url": "https://www.indiatoday.in/india/story/ethiopia-volcano-ash-drifts-over-india-triggers-precautionary-flight-changes-2825810-2025-11-25",
+      "headline": "Flight ops normal as Ethiopia volcano ash drifts eastwards: Aviation MinistryAsh from Ethiopia's Hayli Gubbi volcanic eruption drifted over western and northern India on Tuesday, affecting some flight paths. The Civil Aviation Ministry said operations remain largely normal, with only precautionary rerouting and descent of select flights."
     },
     {
       "sentiment": "negative",
@@ -216,8 +216,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-south-africa-2nd-test-day-4-score-guwahati-589-target-2825718-2025-11-25",
-      "headline": "Early blows in 549 chase kill hopes of draw as India face another home whitewashIndia vs South Africa, 2nd Test: South Africa tightened their grip on the Guwahti encounter as India wilted in the field with both bat and ball. After setting a 549-run target, South Africa dismissed Indian openers KL Rahul and Yashasvi Jaiswal, leaving the hosts reeling at 27 for 2. "
+      "url": "https://www.indiatoday.in/india/karnataka/story/congress-karnataka-siddaramaiah-cm-change-dk-shivakumar-frontrunner-sources-2825730-2025-11-25",
+      "headline": "No third contender, DK Shivakumar likely choice if Siddaramaiah replaced: SourcesCongress sources say the high command is evaluating a leadership change in Karnataka. If Siddaramaiah is replaced, DK Shivakumar is the likely choice, with minimal chance of a third contender. No final decision has been made."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/health/story/autophagy-sonali-bendre-cancer-post-drew-criticism-doctors-2825704-2025-11-25",
+      "headline": "Autophagy explained: Why Sonali Bendre's cancer post drew criticism from doctorsSonali Bendre shared how autophagy aided her cancer recovery journey. Her post sparked debate as doctors warn against viewing it as a proven treatment. But first, let's break down what autophagy is."
     },
     {
       "sentiment": "positive",
@@ -231,13 +236,8 @@
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/zubeen-garg-death-plain-simple-murder-motive-will-shock-assam-himanta-sarma-2825612-2025-11-25",
-      "headline": "Zubeen Garg's death plain murder, motive will shock Assam: Himanta SarmaZubeen Garg, who enthralled a generation with his soulful Bollywood and Assamese songs, died in Singapore on September 19. Chief Minister Himanta Sarma said the motive behind the crime will shock the people."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/law-news/story/army-is-secular-supreme-court-upholds-christian-officers-dismissal-over-refusal-to-enter-temple-sanctum-2825546-2025-11-25",
-      "headline": "You're misfit for secular Army: Supreme Court upholds Christian officer's dismissalThe officer had challenged the disciplinary action, arguing that being compelled to enter the temple violated his religious freedom, but the Supreme Court ruled that his conduct amounted to disobedience of a lawful command."
+      "url": "https://www.indiatoday.in/india/story/centre-orders-action-against-vehicles-causing-polluting-wants-to-increase-electric-vehicles-in-delhi-sources-2825715-2025-11-25",
+      "headline": "PMO cracks whip on polluting vehicles in Delhi, pushes for EV expansionDelhi AQI: The high-level PMO meeting comes as Delhi's air quality remained 'very poor' for the second week, with some areas even recording 'severe' levels."
     },
     {
       "sentiment": "positive",
@@ -246,18 +246,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/opinion/story/tale-of-two-handshakes-twist-in-modi-nitish-relationship-bihar-impact-2825613-2025-11-25",
-      "headline": "A tale of two handshakes: The Modi-Nitish resetFor years, the shadow of Narendra Modi and Nitish Kumar's handshake in Ludhiana remained a prime factor in the country's politics in general and Bihar politics in particular. But much water has flown down the Ganga since then."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/auto/cars/story/tata-sierra-launched-at-rs-1249-lakh-nostalgic-suv-revived-with-modern-tech-2825616-2025-11-25",
-      "headline": "Tata Sierra launched at Rs 11.49 lakh: Nostalgic SUV revived with modern techTata Motors has launched the iconic Sierra in a modern, premium avatar for 2025, blending classic design cues with advanced technology, fresh powertrains and a feature-rich, safety-focused package."
+      "url": "https://www.indiatoday.in/india/law-news/story/army-is-secular-supreme-court-upholds-christian-officers-dismissal-over-refusal-to-enter-temple-sanctum-2825546-2025-11-25",
+      "headline": "You're misfit for secular Army: Supreme Court upholds Christian officer's dismissalThe officer had challenged the disciplinary action, arguing that being compelled to enter the temple violated his religious freedom, but the Supreme Court ruled that his conduct amounted to disobedience of a lawful command."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/labour-code-implementation-do-new-codes-hit-narayana-murthy-9-9-6-dreams-work-life-balance-working-hours-2825644-2025-11-25",
       "headline": "Do new Labour Codes hit Narayana Murthy's 9-9-6 dreams?India's new Labour Codes cap workweeks at 48 hours, with flexibility on scheduling, overtime pay, and a mandatory day of rest. But as industry leaders like Narayana Murthy push for 72-hour weeks and L&T's SN Subrahmanyan praises 90-hour schedules, many are raising questions whether these reforms will hold ground in a culture where overwork is routine."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/india-us-trade-deal-progress-energy-shift-crude-oil-russia-lpg-progress-2825457-2025-11-25",
+      "headline": "India\u2013US trade deal looks quiet. The 'energy' shift tells another storyIndia and the US may look stalled on a formal trade deal, but shifting oil flows, a major LPG pact and calibrated tariff moves show the real progress is happening quietly behind the scenes."
     },
     {
       "sentiment": "negative",
@@ -271,33 +271,33 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/india-afghanistan-to-launch-air-freight-corridor-linking-kabul-with-delhi-amritsar-2825721-2025-11-25",
-      "headline": "India, Afghanistan to launch air freight corridor linking Kabul with Delhi, AmritsarIndia and Afghanistan have launched an Air Freight Corridor linking Kabul with Delhi and Amritsar to enhance bilateral trade and connectivity. This initiative aims to strengthen economic ties and facilitate the movement of essential goods between the two nations.\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/new-labour-codes-fixed-term-employment-boost-full-time-jobs-at-risk-explained-2825593-2025-11-25",
-      "headline": "Do the new labour codes put full-time jobs at risk?Fixed-term jobs just got a major boost under the new labour codes. But does this new flexibility mean full-time roles are at risk, or will companies find a new balance altogether?"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/palak-muchhal-visits-brother-palash-muchhal-amid-wedding-postponement-with-smriti-mandhana-2825600-2025-11-25",
-      "headline": "Palak Muchhal visits brother Palaash amid wedding postponement with Smriti MandhanaSinger Palak Muchhal was seen at a Mumbai hospital amid reports of her brother Palaash Muchhal undergoing medical evaluation. The filmmaker was reportedly admitted following the postponement of his wedding with cricketer Smriti Mandhana. "
+      "url": "https://www.indiatoday.in/auto/cars/story/tata-sierra-launched-at-rs-1249-lakh-nostalgic-suv-revived-with-modern-tech-2825616-2025-11-25",
+      "headline": "Tata Sierra launched at Rs 11.49 lakh: Nostalgic SUV revived with modern techTata Motors has launched the iconic Sierra in a modern, premium avatar for 2025, blending classic design cues with advanced technology, fresh powertrains and a feature-rich, safety-focused package."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/celina-jaitly-accuses-husband-of-domestic-racist-abuse-seeks-compensation-2825667-2025-11-25",
-      "headline": "Celina Jaitly accuses husband of domestic, racist abuse, seeks compensationActor Celina Jaitly Haag filed a domestic violence case alleging financial, verbal, and physical abuse. She seeks Rs 50 crore compensation and custody access, claiming Peter Haag blocked her access to their three children."
+      "url": "https://www.indiatoday.in/india/story/mumbai-civic-body-to-invoke-grap-iv-if-aqi-remains-above-300-for-3-days-2825741-2025-11-25",
+      "headline": "AQI crosses 300 in Mumbai's Mazagaon, civic body mulls GRAP-IV measuresBMC Commissioner Bhushan Gagrani said hospitals are reporting more respiratory complaints, and the civic body has begun intensified water sprinkling and issued notices to polluting sites."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/pm-narendra-modi-hoists-saffron-flag-ayodhya-ram-mandir-wounds-of-centuries-healing-today-2825598-2025-11-25",
-      "headline": "Wounds of centuries are healing today: PM at Ram Mandir after flag hoisting Live UpdatesThe Dhwajarohan, or flag hoisting atop the Ram Mandir, marked the formal completion of the temple complex, six years after the Supreme Court's landmark 2019 Ayodhya verdict that allotted the entire 2.77-acre disputed site for the shrine."
+      "url": "https://www.indiatoday.in/india/story/when-the-hero-met-the-desert-dharmendra-political-mirage-2825733-2025-11-25",
+      "headline": "When the hero met the desert: Dharmendra's political mirageIn 2004, Rajasthan's blazing sands witnessed an unlikely contest. Bollywood's beloved Dharmendra traded film lights for campaign dust, stepping into politics where applause faded, and fate demanded a harsher price.  "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/opinion/story/next-up-more-aadhaar-in-our-lives-because-we-dont-have-enough-of-it-already-2825558-2025-11-25",
-      "headline": "Next up: More Aadhaar in our lives because we don't have enough of it alreadyThe government is planning a fresh push for Aadhaar in offline use and chances are that soon you may have to show it even while entering a restaurant or a housing society."
+      "url": "https://www.indiatoday.in/india/story/chhattisgarh-puts-principals-on-street-dog-watch-triggers-teachers-outcry-2825792-2025-11-25",
+      "headline": "Chhattisgarh puts principals on street dog watch, triggers teachers'\u00a0outcryThe Chhattisgarh government has directed school principals to monitor and report street dogs near school campuses, sparking widespread criticism from educators who find the order impractical and unsafe. Teachers argue that such responsibilities should be handled by municipal authorities, not school staff.\r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/smriti-mandhana-wedding-postponed-palaash-cried-for-4-hours-says-his-mother-2825742-2025-11-25",
+      "headline": "Smriti Mandhana wedding postponed: Palaash cried for 4 hours, says his motherFollowing the heart ailment of Smriti Mandhana's father, groom Palaash Muchhal, devastated by the news, was hospitalised in Mumbai with exhaustion, confirming the emotional depth of his bond with his future father-in-law."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/zubeen-garg-death-plain-simple-murder-motive-will-shock-assam-himanta-sarma-2825612-2025-11-25",
+      "headline": "Zubeen Garg's death plain murder, motive will shock Assam: Himanta SarmaZubeen Garg, who enthralled a generation with his soulful Bollywood and Assamese songs, died in Singapore on September 19. Chief Minister Himanta Sarma said the motive behind the crime will shock the people."
     },
     {
       "sentiment": "positive",
@@ -306,31 +306,46 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/guru-tegh-bahadur-martyrdom-day-sacrificed-life-calmly-fought-mughal-forces-fiercely-defending-hinduism-hind-di-chadar-2825585-2025-11-25",
-      "headline": "Guru Tegh Bahadur, who sacrificed life calmly, fought Mughal forces fiercely at 13Guru Tegh Bahadur's laying down his life in 1675 to defend religious freedom remains one of history's most profound sacrifices. On his 350th martyrdom anniversary, the Ninth Sikh Guru who earned the title of Hind di Chadar, is remembered for standing firm against religious persecution and forced conversions under Aurangzeb."
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-south-africa-2nd-test-day-4-score-guwahati-589-target-2825718-2025-11-25",
+      "headline": "Early blows in 549 chase kill hopes of draw as India face another home whitewashIndia vs South Africa, 2nd Test: South Africa tightened their grip on the Guwahti encounter as India wilted in the field with both bat and ball. After setting a 549-run target, South Africa dismissed Indian openers KL Rahul and Yashasvi Jaiswal, leaving the hosts reeling at 27 for 2. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/dharmendras-love-story-with-ageless-romance-life-in-a-metro-to-rocky-aur-rani-2825518-2025-11-25",
-      "headline": "Dharmendra's love story with ageless romance: Life in a Metro to Rocky Aur RaniDharmendra's final screen years reiterated a different side of Bollywood's He-Man. In Life in a\u2026 Metro and Rocky Aur Rani Kii Prem Kahaani, he explored romance untouched by age or judgment. A new generation discovered love through his roles."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/sunita-williams-stuck-iss-9-months-china-taikonaut-rescue-shenzhou-20-21-starliner-boeing-nasa-tiangong-2825584-2025-11-25",
-      "headline": "How China rescued astronauts in 9 days while Nasa took 9 monthsChina is a perfect example of how timing is sacrosanct in space, for the country left no stone unturned to return their astronauts, known as taikonauts, stranded in space. \r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/thalapathy-vijay-jana-nayagan-audio-launch-malaysia-record-100000-attendees-2825682-2025-11-25",
-      "headline": "Jana Nayagan Malaysia event: Vijay's concert ticket prices, seating unveiledThalapathy Vijay's 'Jana Nayagan' audio launch is set to take place in Malaysia, bringing together a star-studded lineup of singers with plans for a record-breaking crowd expected at the venue."
+      "url": "https://www.indiatoday.in/opinion/story/tale-of-two-handshakes-twist-in-modi-nitish-relationship-bihar-impact-2825613-2025-11-25",
+      "headline": "A tale of two handshakes: The Modi-Nitish resetFor years, the shadow of Narendra Modi and Nitish Kumar's handshake in Ludhiana remained a prime factor in the country's politics in general and Bihar politics in particular. But much water has flown down the Ganga since then."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/celina-jaitly-accuses-husband-of-domestic-racist-abuse-seeks-compensation-2825667-2025-11-25",
-      "headline": "Celina Jaitly accuses husband of domestic, racist abuse, seeks compensationActor Celina Jaitly Haag filed a domestic violence case alleging financial, verbal, and physical abuse. She seeks Rs 50 crore compensation and custody access, claiming Peter Haag blocked her access to their three children."
+      "url": "https://www.indiatoday.in/movies/celebrities/story/who-is-palaash-muchhal-man-at-the-centre-of-wedding-turmoil-with-smriti-mandhana-2825768-2025-11-25",
+      "headline": "Who is Palaash Muchhal, musician at centre of wedding turmoil with Smriti Mandhana?The wedding of Indian cricketer Smriti Mandhana and musician-filmmaker Palaash Muchhal, scheduled for November 23 in Sangli, Maharashtra, was cancelled at the last minute following a sudden health emergency. Here's a closer look at the man at the centre of today's headlines."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/prabhas-the-rajasab-sankranti-2026-grand-musical-promotions-2825754-2025-11-25",
+      "headline": "The RajaSaab director shares shoot details, says Prabhas filmed in freezing coldPrabhas's 'The RajaSaab' is set for a major global release in January 2026. The makers recently emphasised how the actor braved extreme cold to film its musical sequences."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/rakul-preet-singh-on-deepika-padukone-8-hour-working-controversy-2825847-2025-11-25",
+      "headline": "Very subjective: Rakul Preet Singh on Deepika Padukone's 8-hour working controversyRakul Preet Singh has addressed the ongoing 8-hour shift debate in Bollywood, saying work hours should depend on an actor's stage of life and personal priorities. She stressed that there \"can't be one rule for anybody\" and cited examples from Amitabh Bachchan to 90s stars like Ajay Devgn and Akshay Kumar."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/sri-lanka-vs-zimbabwe-tri-series-updates-sikandar-raza-wanindu-hasaranga-2825841-2025-11-25",
+      "headline": "Sri Lanka vs Zimbabwe, T20I tri-series, Match 5: Live Score and Updates from Rawalpindi SL vs ZIM, T20I tri-series, Match 5 Live Score and Updates: Zimbabwe have won the toss and opted to bat first. Sikandar Raza's men will join Pakistan in the final if they beat Sri Lanka on Tuesday. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-south-africa-guwahati-test-ravindra-jadeja-press-conference-2825827-2025-11-25",
+      "headline": "Draw in Guwahati Test as good as a win: Ravindra Jadeja IND vs SA: Ravindra Jadeja said that managing to draw the Guwahati Test would be as good as a win for India, who ended Day 4 at 27 for two while chasing 549. India are looking to avoid a series defeat, having already lost the Kolkata Test earlier. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/video/virat-kohli-arrives-in-mumbai-south-africa-odi-series-video-2825775-2025-11-25",
+      "headline": "Watch: Virat Kohli arrives in Mumbai ahead of South Africa ODI series Virat Kohli has arrived in Mumbai ahead of India's ODI series against South Africa, entering with confidence after an unbeaten 74 against Australia. With KL Rahul leading in Shubman Gill's absence, India hopes to bounce back following a disappointing Test run."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-south-africa-2nd-test-day-4-score-guwahati-589-target-2825718-2025-11-25",
@@ -373,18 +388,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/kris-srikkanth-slams-gautam-gambhir-inconsistent-india-test-selection-2825522-2025-11-25",
-      "headline": "Gambhir can say whatever he wants, I don't care: Srikkanth slams Test selection Former India captain Kris Srikkanth criticised Gautam Gambhir for inconsistent Test team selections. His comments come after Indian batters failed in the first innings of the Guwahati Test after South Africa posted 489. "
+      "url": "https://www.indiatoday.in/sports/cricket/story/prithvi-shaw-ipl-return-captain-maharashtra-syed-mushtaq-ali-trophy-2025-2825679-2025-11-25",
+      "headline": "Prithvi Shaw eyes IPL return, set to lead Maharashtra in Syed Mushtaq Ali Trophy Prithvi Shaw begins a fresh chapter with Maharashtra as he looks to revive his career in the Syed Mushtaq Ali Trophy. With the IPL auction approaching, a strong performance while leading the side in Gaikwad's absence could help him return to the league."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/josh-hazlewood-pat-cummins-fitness-ashes-second-test-gabba-2825487-2025-11-25",
-      "headline": "Hazlewood back in training, Cummins trains with pink ball before 2nd Test Josh Hazlewood and Pat Cummins took part in a crucial training session in Sydney on Tuesday as Australia stepped up their preparations for the second Ashes Test at the Gabba."
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-lucknow-super-giants-sign-carl-crowe-spin-bowling-coach-2825661-2025-11-25",
+      "headline": "LSG sign ex-KKR support staff member as spin coach ahead of IPL 2026 Lucknow Super Giants have roped in Carl Crowe as their new spin coach ahead of the upcoming IPL season. The Rishabh Pant-led side announced the arrival of the England-born coach on their social media platforms."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/athletics/story/commonwealth-games-2030-india-hosting-rights-formal-announcement-2825481-2025-11-25",
-      "headline": "India set to formally get hosting rights of Commonwealth Games on November 26 India is set to be formally approved as host of the 2030 Commonwealth Games on Wednesday. Ahmedabad will stage the centenary edition, strengthening India's bid to host the 2036 Olympics."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/cricket/story/indai-vs-south-africa-mohammed-siraj-injury-scare-guwahati-test-2825662-2025-11-25",
+      "headline": "Mohammed Siraj suffers shoulder injury scare as India bowlers toil in Guwahati Mohammed Siraj suffered an injury scare during the second Test against South Africa in Guwahati, briefly leaving the field after landing awkwardly on his elbow while fielding on Day 4."
     },
     {
       "sentiment": "positive",
@@ -399,17 +414,17 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/kris-srikkanth-slams-gautam-gambhir-inconsistent-india-test-selection-2825522-2025-11-25",
-      "headline": "Gambhir can say whatever he wants, I don't care: Srikkanth slams Test selection Former India captain Kris Srikkanth criticised Gautam Gambhir for inconsistent Test team selections. His comments come after Indian batters failed in the first innings of the Guwahati Test after South Africa posted 489. "
+      "headline": "Gambhir can say whatever he wants, I don't care: Srikkanth slams Test selectionFormer India captain Kris Srikkanth criticised Gautam Gambhir for inconsistent Test team selections. His comments come after Indian batters failed in the first innings of the Guwahati Test after South Africa posted 489. "
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/josh-hazlewood-pat-cummins-fitness-ashes-second-test-gabba-2825487-2025-11-25",
-      "headline": "Hazlewood back in training, Cummins trains with pink ball before 2nd Test Josh Hazlewood and Pat Cummins took part in a crucial training session in Sydney on Tuesday as Australia stepped up their preparations for the second Ashes Test at the Gabba."
+      "headline": "Hazlewood back in training, Cummins trains with pink ball before 2nd TestJosh Hazlewood and Pat Cummins took part in a crucial training session in Sydney on Tuesday as Australia stepped up their preparations for the second Ashes Test at the Gabba."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/athletics/story/commonwealth-games-2030-india-hosting-rights-formal-announcement-2825481-2025-11-25",
-      "headline": "India set to formally get hosting rights of Commonwealth Games on November 26 India is set to be formally approved as host of the 2030 Commonwealth Games on Wednesday. Ahmedabad will stage the centenary edition, strengthening India's bid to host the 2036 Olympics."
+      "headline": "India set to formally get hosting rights of Commonwealth Games on November 26India is set to be formally approved as host of the 2030 Commonwealth Games on Wednesday. Ahmedabad will stage the centenary edition, strengthening India's bid to host the 2036 Olympics."
     },
     {
       "sentiment": "positive",
@@ -433,18 +448,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-pakistan-t20-world-cup-2026-group-stage-match-schedule-venue-details-2825394-2025-11-25",
-      "headline": "India vs Pakistan set for February 15 in T20 World Cup 2026: ReportIndia and Pakistan will face each other on February 15, 2026, at the R Premadasa Stadium in Colombo during the Men's T20 World Cup. India and Pakistan are expected to be grouped with the USA, Netherlands and Namibia during the tournament as the full schedule will be revealed on Tuesday, November 25. "
+      "url": "https://www.indiatoday.in/sports/cricket/story/indian-selectors-recall-ruturaj-gaikwad-yashasvi-jaiswal-odi-series-south-africa-2825407-2025-11-25",
+      "headline": "No place for Ruturaj: Ex-India cricketer tips Jaiswal to open with Rohit in SA ODIsFormer India batter Aakash Chopra welcomed Ruturaj Gaikwad's recall to India's ODI squad for the upcoming South Africa series, but predicted Yashasvi Jaiswal will be Rohit Sharma's opening partner. Chopra also raised concerns about Nitish Kumar Reddy's role and utilisation in the squad."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-sa-marco-jansen-fiery-spell-dismantles-indian-batting-guwahati-test-2825354-2025-11-25",
-      "headline": "Pace, bounce and chaos: Jansen's hostile spell wrecks India in Guwahati TestMarco Jansen was at his devastating best on Day 3 of the second Test in Guwahati, delivering a menacing spell of 6 for 48. The left-arm quick rolled back the years as he peppered India with a relentless barrage of bouncers, forcing the batters into submission and dragging the hosts to their knees."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-south-africa-2nd-test-live-score-day-4-guwahati-updates-2825383-2025-11-25",
-      "headline": "2nd Test Day 4 Highlights: India in big trouble in 549 chase in GuwahatiIndia vs South Africa live score 2nd Test Day 4 Highlights: Kuldeep Yadav and Sai Sudharsan survive but India find themselves in all sorts of trouble as they have lost both their openers and need 549 runs to win the match. Harmer and Jansen picked up a wicket each as the Proteas continued their domination of the match. "
+      "url": "https://www.indiatoday.in/sports/football/story/manchester-united-lose-everton-ruben-amorim-reaction-premier-league-2825413-2025-11-25",
+      "headline": "Man United deserved to lose: Amorim wishes his side had shown Everton's fightRuben Amorim conceded that Manchester United are still some distance from competing with the Premier League's leading sides after their 1-0 defeat to 10-man Everton on Monday."
     },
     {
       "sentiment": "positive",
@@ -490,21 +500,6 @@
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-south-africa-gautam-gambhir-kamasutra-of-chaos-guwahati-test-position-lost-2825298-2025-11-24",
       "headline": "Gautam Gambhir and the Kamasutra of chaos: When Indian team lost its positionIND vs SA: Gautam Gambhir's obsession with constant change has turned Indian cricket into his personal Kamasutra of experimental positions, endless adjustments, and zero satisfaction. The result? Confusion disguised as innovation."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/rohan-bopanna-danill-medvedev-sumit-nagal-gael-monfils-team-world-tennis-league-2825291-2025-11-24",
-      "headline": "Medvedev-Bopanna and Nagal-Monfils team up for World Tennis League in DecemberThe World Tennis League returns in December with a fresh venue and a star-studded line-up. With Medvedev, Bopanna, Kyrgios, Monfils and Nagal in action, four days of high-quality tennis await."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/stuart-broad-reaction-joe-root-dismissal-ashes-2025-australia-england-test-2825270-2025-11-24",
-      "headline": "Broad on viral reaction after Root's dismissal: Every England fan felt like thatFormer England bowler Stuart Broad opened up on his viral reaction to Joe Root's dismissal in the Ashes Test. Broad's reaction went viral on social media as he was in utter disbelief watching England collapse on Day 2 in Perth."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/rishabh-pant-criticism-reckless-shot-india-struggle-south-africa-guwahati-test-2825215-2025-11-24",
-      "headline": "IND vs SA: Dale Steyn tears into Rishabh Pant for 'brainfade' shot in GuwahatiRishabh Pant faced heavy criticism for his reckless shot during Day 3 of the second Test against South Africa. Dale Steyn and Anil Kumble said that Pant needs to show more responsibility to help India recover in the series."
     }
   ],
   "education": [
