@@ -1,6 +1,16 @@
 {
   "business": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/market/story/stock-market-closing-bell-sensex-closes-500-points-lower-nifty-below-26100-ril-down-1-percent-2829400-2025-12-02",
+      "headline": "Sensex closes 500 points lower, Nifty below 26,100; RIL down 1%The S&P BSE Sensex lost 503.63 points to close at 85,138.27, while the NSE Nifty50 was down by 143.55 points to end at\u00a026,032.20.\u00a0"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/ipo/story/aequs-ipo-open-for-bidding-tomorrow-subscribe-skip-rs-900-crore-issue-listing-gains-latest-gmp-2829397-2025-12-02",
+      "headline": "Aequs IPO to open for bidding soon: Subscribe or skip the Rs 900 crore issue?Aequs IPO is sized at Rs 921.81 crore. This includes a fresh issue of 5.40 crore shares worth Rs 670 crore and an offer for sale (OFS) of 2.03 crore shares worth Rs 251.81 crore."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/real-estate/story/new-renting-rules-home-deposit-bengaluru-pune-delhi-rent-increase-repair-landlord-tennant-2829361-2025-12-02",
       "headline": "Planning to rent in 2025? Here's what changes with the new renting rulesOne of the biggest changes in the New Rent Rules 2025 is that all rental agreements must now be digitally stamped and registered online within 60 days"
@@ -8,7 +18,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/personal-finance/story/rs-10000-monthly-sip-vs-rs-12-lakh-yearly-lump-sum-which-is-better-for-wealth-creation-2829358-2025-12-02",
-      "headline": "Rs 10,000 SIP vs Rs 1.2 lakh lump sum: Which is better for wealth creation?Is a Rs 10,000 monthly SIP smarter for long-term wealth, or does investing Rs 1.2 lakh at once create a bigger corpus? As markets turn unpredictable, this question is becoming more important for everyday investors."
+      "headline": "Rs 10,000 SIP vs Rs 1.2 lakh lump sum: Which creates more wealth?Is a Rs 10,000 monthly SIP smarter for long-term wealth, or does investing Rs 1.2 lakh at once create a bigger corpus? As markets turn unpredictable, this question is becoming more important for everyday investors."
     },
     {
       "sentiment": "positive",
@@ -84,19 +94,34 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/will-rbi-announce-a-25-bps-rate-cut-what-to-expect-from-the-upcoming-mpc-meeting-2828782-2025-12-01",
       "headline": "Will RBI announce a 25 bps rate cut? What to expect from the upcoming MPC meetingWith inflation staying unusually low and the economy showing strong growth, expectations of a small rate cut have gathered pace."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/will-gift-or-trust-best-way-to-pass-on-your-wealth-explained-2828757-2025-12-01",
-      "headline": "Will, gift deed or trust: Which is the best way to pass on your wealth?Most families believe a will is enough, but the truth is more complicated. Knowing when to use a will, gift deed or trust can determine whether your wealth transfers smoothly or breaks down in disputes."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/how-lifestyle-inflation-not-low-income-is-hurting-your-savings-explains-expert-2828755-2025-12-01",
-      "headline": "How lifestyle inflation, not low income, is hurting your savings? Explains expertMost people blame low income for their poor savings, but financial experts point to something else entirely, i.e., lifestyle inflation. Each upgrade, no matter how small, reduces the space for savings. Is this holding you back too?"
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/twinkle-khanna-says-raat-gayi-baat-gayi-comment-was-from-a-game-not-moral-stand-2829396-2025-12-02",
+      "headline": "Twinkle Khanna says Raat Gayi Baat Gayi comment was from a game, not moral stand Twinkle Khanna clarified that her viral \"raat gayi baat gayi\" remark from Too Much was simply part of a fun game segment and not a comment on infidelity or monogamy. She also opened up about her easy rapport with Kajol and how the show pushed her creatively."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/sivakarthikeyan-advises-fans-on-self-discipline-and-social-media-use-at-fanly-entertainment-launch-2829389-2025-12-02",
+      "headline": "Sivakarthikeyan's thoughtful message to fans: Worship parents and God, not me At an app launch event in Chennai, actor Sivakarthikeyan advised fans to focus on family and personal growth instead of fan worship, highlighting the importance of constructive use of time and responsible social media engagement."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/neeraj-ghaywan-praises-bison-kaalamadan-sports-biopic-netflix-2829387-2025-12-02",
+      "headline": "Director Neeraj Ghaywan praises Mari Selvaraj's Bison: Sports biopic done right Director Neeraj Ghaywan praised Mari Selvaraj's Bison Kaalamadan as a sports biopic done right. The film's emotional depth and powerful performances have won acclaim following its Netflix release."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/ajith-kumar-visits-batu-caves-murugan-temple-ahead-of-racing-events-and-upcoming-film-2829365-2025-12-02",
+      "headline": "Actor Ajith Kumar prays at Batu Caves before Malaysia race. Watch video Ajith Kumar visited Malaysia's Batu Caves Murugan temple recently. The actor's appearance surprised fans, who expressed their excitement."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/chris-rock-disses-superhero-films-at-gotham-awards-not-everyone-needs-a-cape-2829367-2025-12-02",
+      "headline": "Chris Rock disses superhero films at Gotham Awards: Not everyone needs a cape At the 35th Gotham Awards in Manhattan, Chris Rock delivered a witty critique of Hollywood's superhero obsession. He also emphasised the value of independent storytelling beyond franchises. "
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/censor-board-re-examines-dhurandhar-says-film-not-linked-to-major-mohit-sharma-2829364-2025-12-02",
@@ -166,43 +191,23 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/nick-jonas-calls-priyanka-chopra-his-dream-girl-on-special-anniversary-post-2829266-2025-12-02",
       "headline": "Nick Jonas calls Priyanka Chopra his dream girl on special anniversary post Nick Jonas marked his seventh wedding anniversary with Priyanka Chopra by sharing a heartfelt Instagram post calling her his \"dream girl.\" "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/television/story/bb-19-emotional-gaurav-khanna-denies-using-wifes-no-children-choice-for-sympathy-2829238-2025-12-02",
-      "headline": "BB 19: Emotional Gaurav Khanna denies using wife's no-children choice for sympathy Bigg Boss 19 finalist Gaurav Khanna responded to speculation about his wife Akanksha Chamola's choice not to have children. He explained his personal stance and addressed comments made during a press conference inside the house."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/madhuri-dixit-reacts-to-ongoing-deepika-padukone-8-hour-work-shift-row-2829231-2025-12-02",
-      "headline": "I'm a workaholic: Madhuri Dixit reacts to ongoing Deepika's 8-hour work shift row Madhuri Dixit weighed in on the ongoing debate around work hours in Bollywood, calling herself a \"workaholic\" and supporting women choosing their own schedules. Her remarks come as Deepika Padukone defends her preference for 8-hour shifts amid industry scrutiny."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/ranveer-singh-apologises-kantara-mimicry-iffi-cultural-sensitivity-debate-2829224-2025-12-02",
-      "headline": "My only intention was\u2026: Ranveer Singh apologises after row over Kantara mimicry Ranveer Singh issued an apology after facing criticism for mimicking a scene from Rishab Shetty's Kantara: Chapter 1 at IFFI, emphasising his respect for the film and clarifying that his act was intended as a tribute."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/girija-oak-viral-fame-ai-deepfakes-challenges-misleading-clickbait-2829210-2025-12-02",
-      "headline": "Girija Oak on sudden viral fame, AI deepfakes: Bizarre and scary Actor Girija Oak shares her experience of sudden internet virality and the impact of AI-modified deepfakes. In an exclusive conversation, she highlights the dangers of clickbait and digital misuse in today's social media age."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/samantha-ruth-prabhu-raj-nidimoru-engagement-timeline-social-media-buzz-2829206-2025-12-02",
-      "headline": "Was Samantha engaged to Raj Nidimoru in February? Fans spot huge ring in old post Actor Samantha and filmmaker Raj Nidimoru got married on December 1 at Coimbatore's Isha Yoga Centre. Fans observed a prominent ring on her finger in photos months before her wedding to Raj Nidimoru, raising questions about whether the couple had been engaged since February."
     }
   ],
   "general news": [
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/sanchar-saathi-not-mandatory-users-can-delete-if-they-want-to-ministers-big-clarification-after-backlash-2829279-2025-12-02",
-      "headline": "Sanchar Saathi app not mandatory, can delete, government clarifies amid backlashSanchar Saathi app: Jyotiraditya Scindia's clarification comes amid a massive uproar over Centre's directions to phone manufacturers to pre-install the Sanchar Saathi app on all phones."
+      "headline": "Government backtracks on Sanchar Saathi after backlash, says app not mandatorySanchar Saathi app: Jyotiraditya Scindia's clarification comes amid a massive uproar over Centre's directions to phone manufacturers to pre-install the Sanchar Saathi app on all phones."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/pakistan-under-fire-for-sending-expired-flood-relief-to-sri-lanka-photos-go-viral-2829349-2025-12-02",
+      "headline": "Pakistan under fire for sending expired flood relief to Sri Lanka, photos go viralPakistan's attempt to aid Sri Lanka backfired due to expired relief supplies, drawing social media backlash. Meanwhile, India intensified its support with extensive rescue and relief operations under its Neighbourhood First policy.\r\n"
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/ram-janmabhoomi-mathura-gyanvapi-dispute-kk-muhammed-urges-restraint-resolution-2828953-2025-12-01",
-      "headline": "Muslims should give up Gyanvapi, Hindus must stop new demands: Ex-ASI top officialFormer Archaeological Survey of India (ASI) regional director KK Muhammed pointed out that Mathura and Gyanvapi are two other places, apart from Ram Janmabhoomi, that are \"as important for the Hindu community as Mecca and Medina are for Muslims.\" He warned that pursuing additional claims would not resolve the issue and could lead to further conflict."
+      "headline": "Muslims should give up Gyanvapi, Hindus must stop new demands: KK MuhammedFormer Archaeological Survey of India (ASI) regional director KK Muhammed pointed out that Mathura and Gyanvapi are two other places, apart from Ram Janmabhoomi, that are \"as important for the Hindu community as Mecca and Medina are for Muslims.\" He warned that pursuing additional claims would not resolve the issue and could lead to further conflict."
     },
     {
       "sentiment": "positive",
@@ -211,18 +216,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/apple-to-resist-india-order-to-preload-state-run-app-as-political-outcry-builds-report-2829299-2025-12-02",
-      "headline": "Apple to resist India order to preload Sanchar Saathi app on iPhoneApple seems to be at loggerheads with the Indian government once again. And once again, it is standing firm on its philosophy of not allowing third-party or government apps on iPhones, at least at this point in time according to a report."
+      "url": "https://www.indiatoday.in/india/story/india-bangladesh-ties-beyond-sheikh-hasina-pm-modi-khaleda-zia-post-bnp-jamaat-elections-2829376-2025-12-02",
+      "headline": "Ties moving beyond Sheikh Hasina? PM's message for Khaleda Zia sparks chatterIndia-Bangladesh ties: Amid strained ties, recent gestures from India and Bangladesh hint at a careful thaw. The breakthrough began with the Bangladesh NSA's quiet trip to New Delhi, followed by PM Modi's post for the ailing Khaleda Zia."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/ranveer-singh-apologises-kantara-mimicry-iffi-cultural-sensitivity-debate-2829224-2025-12-02",
       "headline": "My only intention was\u2026: Ranveer Singh apologises after row over Kantara mimicryRanveer Singh issued an apology after facing criticism for mimicking a scene from Rishab Shetty's Kantara: Chapter 1 at IFFI, emphasising his respect for the film and clarifying that his act was intended as a tribute."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/sanchar-saathi-app-cant-be-disabled-or-restricted-jyotiraditya-scindia-telecom-minister-ministry-directive-2829366-2025-12-02",
-      "headline": "Sanchar Saathi app can't be disabled or restricted: Central directive vs MinisterUnion Telecom Minister Jyotiraditya Scindia said the Sanchaar Saathi app is optional and users can delete it, but the government directive says the app's functions cannot be disabled or restricted."
     },
     {
       "sentiment": "negative",
@@ -231,8 +231,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/pakistan-under-fire-for-sending-expired-flood-relief-to-sri-lanka-photos-go-viral-2829349-2025-12-02",
-      "headline": "Pakistan under fire for sending expired flood relief to Sri Lanka, photos go viralPakistan's attempt to aid Sri Lanka backfired due to expired relief supplies, drawing social media backlash. Meanwhile, India intensified its support with extensive rescue and relief operations under its Neighbourhood First policy.\r\n"
+      "url": "https://www.indiatoday.in/world/story/bangladesh-khaleda-zia-life-support-son-bnp-tarique-rahman-absent-london-dhaka-election-lead-jamaat-threat-yunus-2829359-2025-12-02",
+      "headline": "Khaleda Zia on life support, why son, political heir Tariq Rahman isn't with her?While his mother and BNP chief Khaleda Zia is battling for life in a Dhaka hospital, her son and heir-apparent Tarique Rahman remains in London in exile. Both Rahman and the BNP are eager for the return and even the Muhammed Yunus-led interim administration has offered help. What are the \"uncontrollable factors\" that Rahman says are holding him back?"
     },
     {
       "sentiment": "negative",
@@ -246,13 +246,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/florida-gubernatorial-candidate-james-fishback-vows-to-end-h1b-visa-singles-out-indians-republican-trump-us-immigration-2828917-2025-12-02",
-      "headline": "Indians on target of Florida gubernatorial candidate who wants to ban H-1B visasFlorida gubernatorial candidate James Fishback has said he will end the H-1B visa programme, claiming it hurts American workers. The 30-year-old investor singled out Indians, who get most H-1B visas, and vowed to fire all H-1B holders working in state agencies."
+      "url": "https://www.indiatoday.in/india/story/bride-asks-groom-to-get-bulb-on-wedding-night-he-vanishes-found-after-5-days-2829363-2025-12-02",
+      "headline": "Bride asks for bulb on wedding night, nervous groom vanishes; found\u00a0after\u00a05\u00a0daysA groom from Meerut vanished on his wedding night, sparking panic and sorrow in his family. After five days, he was found safe in Haridwar, revealing mental stress as the cause of his disappearance."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/meet-amar-subramanya-indian-origin-ai-veteran-who-is-joining-apple-as-new-vp-to-boost-ai-strategy-2829225-2025-12-02",
-      "headline": "Who is Amar Subramanya? Indian-origin AI veteran joins Apple to boost AI effortsAmar Subramanya is an Indian-origin AI expert who has recently joined Apple as its new AI vice president. Subramanya is a graduate from Bangalore University and has worked for the likes of Google DeepMind and Microsoft."
+      "url": "https://www.indiatoday.in/india/story/sanchar-saathi-app-cant-be-disabled-or-restricted-jyotiraditya-scindia-telecom-minister-ministry-directive-2829366-2025-12-02",
+      "headline": "Sanchar Saathi app can't be disabled or restricted: Central directive vs MinisterUnion Telecom Minister Jyotiraditya Scindia said the Sanchaar Saathi app is optional and users can delete it, but the government directive says the app's functions cannot be disabled or restricted."
     },
     {
       "sentiment": "positive",
@@ -261,18 +261,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/bride-asks-groom-to-get-bulb-on-wedding-night-he-vanishes-found-after-5-days-2829363-2025-12-02",
-      "headline": "Bride asks for bulb on wedding night, nervous groom vanishes; found\u00a0after\u00a05\u00a0daysA groom from Meerut vanished on his wedding night, sparking panic and sorrow in his family. After five days, he was found safe in Haridwar, revealing mental stress as the cause of his disappearance."
+      "url": "https://www.indiatoday.in/world/us-news/story/florida-gubernatorial-candidate-james-fishback-vows-to-end-h1b-visa-singles-out-indians-republican-trump-us-immigration-2828917-2025-12-02",
+      "headline": "Indians on target of Florida gubernatorial candidate who wants to ban H-1B visasFlorida gubernatorial candidate James Fishback has said he will end the H-1B visa programme, claiming it hurts American workers. The 30-year-old investor singled out Indians, who get most H-1B visas, and vowed to fire all H-1B holders working in state agencies."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-auction-glenn-maxwell-pulls-out-statement-2829214-2025-12-02",
-      "headline": "Australia's Glenn Maxwell pulls out of 2026 mini auction, hints at ending IPL careerAustralia all-rounder Glenn Maxwell has confirmed that he will not enter the IPL 2026 mini-auction. The 37-year-old becomes the latest player to withdraw from next season, following Andre Russell and Faf du Plessis."
+      "url": "https://www.indiatoday.in/technology/news/story/apple-to-resist-india-order-to-preload-state-run-app-as-political-outcry-builds-report-2829299-2025-12-02",
+      "headline": "Apple to resist India order to preload Sanchar Saathi app on iPhoneApple seems to be at loggerheads with the Indian government once again. And once again, it is standing firm on its philosophy of not allowing third-party or government apps on iPhones, at least at this point in time according to a report."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/features/story/govt-wants-sanchar-saathi-mandatory-in-all-phones-what-is-this-app-what-it-does-full-story-in-5-points-2829147-2025-12-02",
-      "headline": "Government wants Sanchar Saathi mandatory in all phones. What does this app do?It is official. Hours after a news report surfaced about a secret memo to phone companies, the government has now confirmed that it wants Sanchar Saathi app installed on all phones in India. This is mandatory and the users will not be able to delete or disable the app. What is Sanchar Saathi? We explain.\u00a0"
+      "url": "https://www.indiatoday.in/india/karnataka/story/dk-shivakumar-siddaramaiah-breakfast-meet-strategy-karnataka-leadership-congress-high-command-2829228-2025-12-02",
+      "headline": "When will Shivakumar be CM? Siddaramaiah answers after breakfast 2.0After their second breakfast meeting, Karnataka Chief Minister Siddaramaiah said he and Deputy Chief Minister DK Shivakumar would respond aggressively to a likely no-confidence motion. He insisted Congress MLAs were united and would follow the High Command's decisions. "
     },
     {
       "sentiment": "positive",
@@ -281,18 +281,28 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/nanded-man-killed-girlfriend-family-seen-dancing-with-her-father-old-video-2829139-2025-12-02",
-      "headline": "Nanded man killed by girlfriend's family seen dancing with her father in old videoOn November 27, Saksham Tate was first shot and then his head was bludgeoned with a large stone by his girlfriend Aanchal Mamilwad's father, Gajanan, along with her brothers Sahil and Himesh and several associates. She\u00a0has demanded the death penalty for her parents and brothers."
+      "url": "https://www.indiatoday.in/movies/bollywood/story/censor-board-re-examines-dhurandhar-says-film-not-linked-to-major-mohit-sharma-2829364-2025-12-02",
+      "headline": "Censor board re-examines Dhurandhar, says film not linked to Major Mohit SharmaThe CBFC rejected the objections of Major Mohit Sharma's family, concluding Ranveer Singh's 'Dhurandhar' is \"purely fictional\" and bears no resemblance to the officer's life. This decision follows a Delhi High Court directive to re-examine the film."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/technology/news/story/meet-amar-subramanya-indian-origin-ai-veteran-who-is-joining-apple-as-new-vp-to-boost-ai-strategy-2829225-2025-12-02",
+      "headline": "Who is Amar Subramanya? Indian-origin AI veteran joins Apple to boost AI effortsAmar Subramanya is an Indian-origin AI expert who has recently joined Apple as its new AI vice president. Subramanya is a graduate from Bangalore University and has worked for the likes of Google DeepMind and Microsoft."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/personal-finance/story/rs-10000-monthly-sip-vs-rs-12-lakh-yearly-lump-sum-which-is-better-for-wealth-creation-2829358-2025-12-02",
+      "headline": "Rs 10,000 SIP vs Rs 1.2 lakh lump sum: Which creates more wealth?Is a Rs 10,000 monthly SIP smarter for long-term wealth, or does investing Rs 1.2 lakh at once create a bigger corpus? As markets turn unpredictable, this question is becoming more important for everyday investors."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/trending-news/story/bengaluru-airport-staff-gets-into-heated-argument-with-passenger-video-goes-viral-2829385-2025-12-02",
+      "headline": "Bengaluru airport staff gets into heated argument with passenger. Video goes viralIn the video, the passenger can be heard saying that the staff member would not allow him to board even though he was \"ready to pay for 4 kg additional baggage allowance.\" "
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/education-today/study-abroad/story/new-h-1b-increase-bill-hire-act-50000-indian-students-impact-2829243-2025-12-02",
       "headline": "50,000 extra H-1B visas for Indians? New push may reshape study and work plansIndian-origin US Congressman Raja Krishnamoorthi has reintroduced the HIRE Act, proposing to double H-1B visas to 130,000 even as fresh fraud allegations against the programme spark controversy. Experts say the move could open 45,000\u201350,000 additional opportunities for Indian professionals, but political volatility remains a major concern."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/rs-10000-monthly-sip-vs-rs-12-lakh-yearly-lump-sum-which-is-better-for-wealth-creation-2829358-2025-12-02",
-      "headline": "Rs 10,000 SIP vs Rs 1.2 lakh lump sum: Which is better for wealth creation?Is a Rs 10,000 monthly SIP smarter for long-term wealth, or does investing Rs 1.2 lakh at once create a bigger corpus? As markets turn unpredictable, this question is becoming more important for everyday investors."
     },
     {
       "sentiment": "negative",
@@ -301,31 +311,26 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/iit-bombay-mess-food-student-says-i-am-from-haryana-and-never-saw-cultures-before-but-2828814-2025-12-01",
-      "headline": "Haryana student's IIT Bombay mess video wins Internet's\u00a0attentionThe video shot by an IIT student from Haryana has drawn attention for showing how IIT Bombay's mess introduces students to food traditions they may not have experienced before."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/khaleda-zia-critical-condition-bnp-thanks-pm-modi-glbs-2829096-2025-12-02",
-      "headline": "Gesture of goodwill: Khaleda Zia's party thanks PM Modi for speedy recovery messageThe BNP expressed sincere gratitude to PM Narendra Modi for his message wishing Khaleda Zia's speedy recovery. She has been placed on ventilation and remains under the supervision of a medical team that includes specialists from abroad."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/ins-aridaman-third-indian-made-nuclear-submarine-to-be-commissioned-soon-navy-chief-2829303-2025-12-02",
-      "headline": "Navy to get INS Aridhaman, third Indian-made nuclear submarineIn a major boost to India's strike capabilities, the Indian Navy Chief Admiral Dinesh K. Tripathi announced on Tuesday that INS Aridhaman, India's third indigenously built nuclear-powered submarine, is set to be commissioned soon and It in the final stages of its trial."
+      "url": "https://www.indiatoday.in/india/story/nanded-man-killed-girlfriend-family-seen-dancing-with-her-father-old-video-2829139-2025-12-02",
+      "headline": "Nanded man killed by girlfriend's family seen dancing with her father in old videoOn November 27, Saksham Tate was first shot and then his head was bludgeoned with a large stone by his girlfriend Aanchal Mamilwad's father, Gajanan, along with her brothers Sahil and Himesh and several associates. She\u00a0has demanded the death penalty for her parents and brothers."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/ajith-kumar-visits-batu-caves-murugan-temple-ahead-of-racing-events-and-upcoming-film-2829365-2025-12-02",
-      "headline": "Actor Ajith Kumar prays at Batu Caves before Malaysia race. Watch videoAjith Kumar visited Malaysia's Batu Caves Murugan temple recently. The actor's appearance surprised fans, who expressed their excitement."
+      "url": "https://www.indiatoday.in/movies/hollywood/story/sienna-miller-confirms-third-pregnancy-with-partner-oli-green-debuts-baby-bump-2829386-2025-12-02",
+      "headline": "Sienna Miller confirms third pregnancy with partner Oli Green, debuts baby bumpSienna Miller surprised everyone at the 2025 Fashion Awards by debuting her baby bump, announcing she is expecting her third child with boyfriend Oli Green. The actor is already mother to a 13-year-old daughter and a two-year-old baby girl."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/hollywood/story/chris-rock-disses-superhero-films-at-gotham-awards-not-everyone-needs-a-cape-2829367-2025-12-02",
-      "headline": "Chris Rock disses superhero films at Gotham Awards: Not everyone needs a capeAt the 35th Gotham Awards in Manhattan, Chris Rock delivered a witty critique of Hollywood's superhero obsession. He also emphasised the value of independent storytelling beyond franchises. "
+      "url": "https://www.indiatoday.in/movies/celebrities/story/twinkle-khanna-says-raat-gayi-baat-gayi-comment-was-from-a-game-not-moral-stand-2829396-2025-12-02",
+      "headline": "Twinkle Khanna says Raat Gayi Baat Gayi comment was from a game, not moral standTwinkle Khanna clarified that her viral \"raat gayi baat gayi\" remark from Too Much was simply part of a fun game segment and not a comment on infidelity or monogamy. She also opened up about her easy rapport with Kajol and how the show pushed her creatively."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/west-indies-vs-new-zealand-1st-test-day-1-score-christchurch-2829380-2025-12-02",
+      "headline": "West Indies paces fire, leave New Zealand on ropes on Day 1 NZ vs WI, 1st Test: West Indies delivered a disciplined fast bowling performance to restrict New Zealand to 231 for nine on day one. The early wickets put the Black Caps under pressure as bad light stopped play prematurely."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/barcelona-ronald-araujo-indefinite-leave-ucl-red-card-chelsea-struggles-2829357-2025-12-02",
@@ -368,13 +373,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-auction-glenn-maxwell-pulls-out-statement-2829214-2025-12-02",
-      "headline": "Australia's Glenn Maxwell pulls out of 2026 mini auction, hints at ending IPL career Australia all-rounder Glenn Maxwell has confirmed that he will not enter the IPL 2026 mini-auction. The 37-year-old becomes the latest player to withdraw from next season, following Andre Russell and Faf du Plessis."
+      "url": "https://www.indiatoday.in/sports/cricket/story/syed-mushtaq-ali-trophy-vaibhav-suryavanshi-century-bihar-vs-maharashtra-2829282-2025-12-02",
+      "headline": "Unstoppable! Vaibhav Suryavanshi hits 3rd T20 century before turning 15 Syed Mushtaq Ali Trophy: 14-year-old Vaibhav Suryavanshi smashed 108 off 61 balls for Bihar against Maharashtra at Eden Gardens on Tuesday. Hitting seven sixes and as many boundaries, the opening batter notched up his maiden hundred in the domestic T20 tournament. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/neymar-injury-santos-heroics-world-cup-2026-ancelotti-decision-2829199-2025-12-02",
-      "headline": "Neymar's last push for FIFA World Cup 2026: The prince goes all-out to save his legacy Neymar's fight for a place at the 2026 World Cup has become a race against time. Playing through injury, the 33-year-old is pushing his limits to keep both Santos and his Brazil dreams alive."
+      "url": "https://www.indiatoday.in/sports/cricket/story/england-playing-xi-will-jacks-replaces-mark-wood-brisbane-test-australia-2829278-2025-12-02",
+      "headline": "Pink-ball Ashes Test: England beef up batting, replace Mark Wood with Will Jacks England have decided to beef up their batting lineup for the pink-ball Test in Brisbane by bringing in Will Jacks to replace Mark Wood. The match begins on December 4 with Australia leading the series. "
     },
     {
       "sentiment": "positive",
@@ -394,12 +399,12 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-auction-glenn-maxwell-pulls-out-statement-2829214-2025-12-02",
-      "headline": "Australia's Glenn Maxwell pulls out of 2026 mini auction, hints at ending IPL career Australia all-rounder Glenn Maxwell has confirmed that he will not enter the IPL 2026 mini-auction. The 37-year-old becomes the latest player to withdraw from next season, following Andre Russell and Faf du Plessis."
+      "headline": "Australia's Glenn Maxwell pulls out of 2026 mini auction, hints at ending IPL careerAustralia all-rounder Glenn Maxwell has confirmed that he will not enter the IPL 2026 mini-auction. The 37-year-old becomes the latest player to withdraw from next season, following Andre Russell and Faf du Plessis."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/neymar-injury-santos-heroics-world-cup-2026-ancelotti-decision-2829199-2025-12-02",
-      "headline": "Neymar's last push for FIFA World Cup 2026: The prince goes all-out to save his legacy Neymar's fight for a place at the 2026 World Cup has become a race against time. Playing through injury, the 33-year-old is pushing his limits to keep both Santos and his Brazil dreams alive."
+      "headline": "Neymar's last push for FIFA World Cup 2026: The prince goes all-out to save his legacyNeymar's fight for a place at the 2026 World Cup has become a race against time. Playing through injury, the 33-year-old is pushing his limits to keep both Santos and his Brazil dreams alive."
     },
     {
       "sentiment": "positive",
@@ -433,13 +438,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/england-travis-head-set-plans-brydon-carse-ashes-brisbane-test-vs-australia-2829062-2025-12-01",
-      "headline": "England have set plans to handle Travis Head if he opens in Brisbane: Brydon CarseEngland enter the Brisbane Test searching for answers after Travis Head's explosive century in Perth. Brydon Carse insists the visitors have clear plans ready if the Australian left-hander opens again in the second Ashes Test."
+      "url": "https://www.indiatoday.in/sports/cricket/story/ashwin-slams-india-selection-nitish-kumar-reddy-snub-south-africa-series-2025-2829141-2025-12-02",
+      "headline": "Why was Nitish Reddy picked? R Ashwin slams India squad selection for SA seriesR Ashwin has slammed the Indian squad selection for the South Africa series, as he questioned why Nitish Kumar Reddy is unable to find a spot in the playing XI. Nitish wasn't part of the side that defeated South Africa in the Ranchi ODI. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/harshit-rana-gautam-gambhir-india-selectors-stick-sandeep-sharma-viral-video-ind-vs-sa-2829056-2025-12-01",
-      "headline": "Why does Gambhir stick with Harshit Rana? Sandeep Sharma's explanation goes viralIND vs SA: Veteran pacer Sandeep Sharma's resurfaced clip has provided a rare insight into why India continue to invest in Harshit Rana. His Ranchi spell against South Africa only boosted the selectors' belief that he is a long-term fast-bowling project worth backing."
+      "url": "https://www.indiatoday.in/sports/cricket/story/cameron-green-steve-smith-lead-overseas-stars-ipl-2026-mini-auction-inr-2-crore-base-price-2829113-2025-12-02",
+      "headline": "Green headlines 1355-player IPL 2026 auction list, Maxwell opts out: ReportsCameron Green and Steve Smith headline a group of major international and Indian names registered for the IPL 2026 mini-auction, scheduled for December 16 in Abu Dhabi. However, Glenn Maxwell has decided to opt out of the upcoming auction. "
     },
     {
       "sentiment": "positive",
@@ -490,16 +495,6 @@
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/formula-one/story/red-bull-max-verstappen-kimi-antonelli-apology-2828954-2025-12-01",
       "headline": "Red Bull apologises for slanderous Kimi Antonelli comments in Qatar GPF1: Red Bull made a public apology to Mercedes' Kimi Antonelli for making slanderous remarks against the driver in the final moments of the Qatar GP. Max Verstappen's race engineer had alleged that Antonelli had willingly conceded a position to Lando Norris."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/hardik-pandya-domestic-cricket-return-syed-mushtaq-ali-trophy-india-vs-south-africa-t20is-2828893-2025-12-01",
-      "headline": "Hardik Pandya returns from injury to play domestic cricket for Baroda in SMATHardik Pandya's long injury layoff is set to end with his return for Baroda in the Syed Mushtaq Ali Trophy. His domestic comeback will determine how quickly he can slot back into India's T20I plans."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-sa-virat-kohli-gautam-gambhir-fight-2828886-2025-12-01",
-      "headline": "Did Virat Kohli avoid Gautam Gambhir after Ranchi ODI?IND vs SA: Is there a tension brewing between two of India's most senior players and Gautam Gambhir? Eagle-eyed fans have spotted Virat Kohli potentially snubbing Gambhir after the 1st ODI."
     }
   ],
   "education": [
