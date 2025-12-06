@@ -1,6 +1,11 @@
 {
   "business": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/rbi-liquidity-push-rate-cut-omo-sell-swap-rupee-rescue-explained-2831772-2025-12-06",
+      "headline": "Can RBI's liquidity boost give the sinking rupee a lifeboat?Liquidity can calm markets, not rewrite global conditions. As the rupee battles external shocks, will the RBI's latest push prove enough to anchor sentiment or simply slow an inevitable slide?"
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/story/anil-ambani-reliance-power-ed-chargesheet-fake-bank-guarantee-case-2831736-2025-12-06",
       "headline": "Noose tightens around Anil Ambani's Reliance Power as ED files chargesheetThe money laundering case is linked to the issuance of an alleged fake bank guarantee of Rs 68 crore for securing a Solar Energy Corporation of India tender."
@@ -94,11 +99,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/rbi-mpc-rate-cut-announcement-today-governor-sanjay-malhotra-rupee-all-time-low-inflation-gdp-growth-2831067-2025-12-05",
       "headline": "RBI MPC announcement today: Will the all-time low rupee force a rate cut?Earlier this year, the RBI cut the repo rate by 100 basis points across three rounds, supported by falling inflation. But the backdrop has now shifted."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/market/story/sebi-ban-finfluencer-avadhut-sathe-stock-market-biggest-crackdown-impounds-rs-546-crore-2831051-2025-12-05",
-      "headline": "Sebi bans finfluencer Avadhut Sathe, freezes Rs 546 crore in major crackdownThe order, issued on December 4, marks a turning point in Sebi's push to clean up the finfluencer ecosystem, where many online trainers claim to offer education but end up giving specific stock tips, guidance and live trading calls without any regulatory licence."
     }
   ],
   "entertainment": [
@@ -205,19 +205,19 @@
       "headline": "Opportunistic pricing: Centre cracks down on sky-high fares amid IndiGo chaosIndiGo chaos: In its order, aimed to protect passengers from 'opportunistic pricing', the Civil Aviation Ministry warned that any surge in fare levels from the prescribed norms would attract immediate action."
     },
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/bengals-murshidabad-on-alert-as-sacked-mla-pushes-ahead-with-babri-masjid-plan-2831727-2025-12-06",
+      "headline": "Biryani feast, Saudi clerics: Suspended TMC MLA lays 'Babri Masjid' stoneSuspended Trinamool Congress MLA Humayun Kabir laid the foundation stone for a Babri Masjid-style mosque in Bengal's communally sensitive Murshidabad amid heavy security presence."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-south-africa-live-score-ind-vs-sa-3rd-odi-match-coverage-2831706-2025-12-06",
+      "headline": "3rd ODI Live: SA (86/1 in 16 ov), Proteas pile on pressureIndia (IND) vs South Africa (SA) LIVE Score: Quinton de Kock and Temba Bavuma have started attacking India after a quiet period as they take on Prasidh Krishna. Earlier, Arshdeep Singh dismissed Ryan Rickelton for a four-ball duck."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/sonia-gandhi-hits-out-bjp-main-goal-erase-jawaharlal-nehru-legacy-2831716-2025-12-06",
       "headline": "BJP's goal not just to erase Nehru, but to destroy...: Sonia Gandhi's rare speechSonia Gandhi underscored that while analysis and criticism of Nehru's contributions were welcome, deliberate mischief with what he wrote and said was unacceptable."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/bengals-murshidabad-on-alert-as-sacked-mla-pushes-ahead-with-babri-masjid-plan-2831727-2025-12-06",
-      "headline": "Suspended TMC MLA lays 'Babri Masjid' foundation stone, supporters carry bricksHumayun Kabir, the suspended Trinamool Congress MLA, Humayun Kabir, claimed three lakh people would assemble over the foundational ceremony of the Babri-style mosque."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/indigo-operations-steady-resuming-passengers-plight-reaches-supreme-court-2831685-2025-12-06",
-      "headline": "IndiGo operations 'steadily' resuming, passengers' plight reaches Supreme CourtThe Indira Gandhi International Airport in Delhi issued a passenger advisory, announcing that IndiGo flight operations are gradually returning to normal following the airline's disruption, which resulted in over 1,000 flight cancellations on Friday and over 550 flights on Thursday."
     },
     {
       "sentiment": "positive",
@@ -226,8 +226,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-south-africa-live-score-ind-vs-sa-3rd-odi-match-coverage-2831706-2025-12-06",
-      "headline": "3rd ODI Live: SA (13/1 in 4 ov), Arshdeep, Rana bowling guns in VizagIndia (IND) vs South Africa (SA) LIVE Score: Arshdeep Singh strikes in the very first over of the match. He swings the ball away from Ryan Rickelton and edges him back to the keeper. Harshit Rana has been supporting him well. He has found the edge of Quinton de Kock twice but has been unlucky to not get a wicket."
+      "url": "https://www.indiatoday.in/india/story/indigo-operations-steady-resuming-passengers-plight-reaches-supreme-court-2831685-2025-12-06",
+      "headline": "IndiGo operations 'steadily' resuming, passengers' plight reaches Supreme CourtThe Indira Gandhi International Airport in Delhi issued a passenger advisory, announcing that IndiGo flight operations are gradually returning to normal following the airline's disruption, which resulted in over 1,000 flight cancellations on Friday and over 550 flights on Thursday."
     },
     {
       "sentiment": "positive",
@@ -247,7 +247,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/indigo-flights-cancellation-status-live-updates-crew-shortage-delhi-mumbai-bengaluru-domestic-international-dgca-2831101-2025-12-05",
-      "headline": "Live: IndiGo chaos enters Day 5, over 470 flights cancelled across India todayIndiGo Flights Cancellations Live Updates: IndiGo, India's largest airline, continued to face operational disruptions for the fourth consecutive day on Saturday, with multiple flights cancelled at major airports nationwide. On Friday alone, over 1,000 flights were grounded, adding to more than 550 cancellations reported the previous day. Meanwhile, Delhi airport on Saturday morning said that the airline's operations are gradually going back to normalcy. IndiGo CEO Pieter Elbers expressed optimism that normal flight schedules will be restored by December 15. The airline earlier acknowledged that the ongoing chaos resulted from miscalculations and planning lapses during the implementation of Phase 2 of the Flight Duty Time Limitations (FDTL) rules. In response, the government has ordered a high-level inquiry to identify the root causes and hold responsible parties accountable. Stay tuned with India Today for all Live Updates. "
+      "headline": "Live: Government orders IndiGo to complete refunds for affected flights by tomorrowIndiGo Flights Cancellations Live Updates: IndiGo faced operational disruptions for the fifth consecutive day on Saturday, with multiple flight cancellations reported across major airports, though Delhi operations are gradually stabilising. The Ministry of Civil Aviation has taken note of concerns over unusually high fares and directed IndiGo to complete all pending refunds for cancelled or disrupted flights by tomorrow 8 pm. On Friday alone, over 1,000 flights were grounded, adding to more than 550 cancellations the previous day. IndiGo acknowledged the chaos resulted from planning lapses during Phase 2 of the Flight Duty Time Limitations (FDTL) rules, prompting the government to order a high-level enquiry to identify the causes and hold responsible parties accountable. Stay tuned with India Today for all Live Updates. "
     },
     {
       "sentiment": "positive",
@@ -285,9 +285,9 @@
       "headline": "Dhurandhar, Saiyaara, Pushpa: Why are our heroes toxic, broken, bad at boundariesA hard-hitting look at Bollywood's rising obsession with toxic, broody heroes, from Dhurandhar to Tere Ishk Mein. Why do audiences continue to romanticise red flags as passion?"
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/delhi/story/delhi-air-quality-aqi-smog-stations-at-very-poor-pollution-333-2831664-2025-12-06",
-      "headline": "Delhi chokes again as air quality still very poor, temperature continues to dipOf Delhi's 39 monitoring stations, 35 registered readings in the very poor range, while the remaining four reported poor air quality.\u00a0"
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/solar-eclipse-709-bce-ancient-chinese-records-earth-faster-rotation-solar-corona-2831769-2025-12-06",
+      "headline": "World's first solar eclipse: 2,700-year-old text reveals ancient secretResearchers reveal 2,700-year-old records from ancient China that offer new insights into Earth's rotation and solar activity, confirming early descriptions of a solar eclipse and the Sun's corona."
     },
     {
       "sentiment": "positive",
@@ -298,6 +298,11 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/trending-news/story/singapore-envoy-attends-staff-wedding-on-video-call-after-indigo-cancels-his-flight-2831719-2025-12-06",
       "headline": "Singapore envoy attends staff wedding on video call after IndiGo cancels his flightSingapore High Commissioner Simon Wong missed a team member's wedding because IndiGo cancelled his flight. Despite the travel chaos, he attended the wedding on video call."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/lifestyle/what-s-hot/story/how-indigos-flight-chaos-is-wrecking-indias-wedding-season-2831762-2025-12-06",
+      "headline": "How IndiGo's chaos is wrecking India's wedding seasonWeddings are built on months of planning and emotion, and for countless families, friends, and even the bride and groom, one IndiGo collapse was enough to bring it all crashing down."
     },
     {
       "sentiment": "positive",
@@ -316,21 +321,21 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/sonu-sood-urges-kindness-and-humility-towards-indigo-staff-amid-flight-delays-2831710-2025-12-06",
-      "headline": "Remember faces trying to fix: Sonu Sood backs IndiGo staff amid cancellation chaosActor Sonu Sood has called on the public to treat Indigo Airlines staff with kindness and patience amid flight delays. He shared a video message in which he asked travellers to remain humble and considerate despite frustrations related to flight delays."
+      "url": "https://www.indiatoday.in/movies/celebrities/story/dhurandhar-box-office-day-1-ranveer-singh-spy-thriller-earns-rs-28-crore-2831763-2025-12-06",
+      "headline": "Dhurandhar box office day 1: Ranveer Singh's spy-thriller earns Rs 28 croreRanveer Singh's 'Dhurandhar' earned over Rs 28 crore at the box office. The film is a spy-thriller, also featuring Akshaye Khanna, Sanjay Dutt, Arjun Rampal, Sara Arjun and others in key roles."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/hollywood/story/justin-baldoni-told-pregnant-blake-lively-he-was-circumcised-says-she-never-asked-2831747-2025-12-06",
       "headline": "Justin Baldoni told pregnant Blake Lively he was circumcised; says she never askedCourt documents revealed Justin Baldoni acknowledged discussing his circumcision status with Blake Lively during a visit to her New York home in 2022, a detail now central in Lively's harassment lawsuit tied to the production of 'It Ends With Us'."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/reviews/story/pardesi-an-indo-russian-romance-disguised-as-adventure-2831732-2025-12-06",
-      "headline": "Pardesi: An Indo-Russian romance disguised as 15th-Century adventureAs part of our Retro Review series, we revisit Pardesi (1957), a pioneering Indo-Soviet film portraying a 15th-century Russian trader's journey to India. Beyond romance, it symbolises enduring India-Russia friendship across centuries and cultures"
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/andre-russell-500-t20-wickets-ilt20-2025-2831765-2025-12-06",
+      "headline": "KKR power coach Andre Russell reaches 500 T20 wickets, joins Narine in elite list Andre Russell added a new accolade to his storied T20 career as he got his 500th wicket in the format during the match between ADKR and Desert Vipers in the ILT20 on Friday, December 5. "
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-sa-shubman-gill-cleared-to-play-t20i-series-gets-fitness-certificate-from-coe-2831757-2025-12-06",
@@ -379,12 +384,12 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/laura-wolvaardt-fastest-south-african-womens-t20i-century-powers-105-run-win-over-ireland-2831690-2025-12-06",
-      "headline": "Wolvaardt smashes record-breaking ton as South Africa crush Ireland by 105 runs Laura Wolvaardt produced a record-breaking innings as South Africa defeated Ireland by 105 runs in the first T20I at Newlands. She was adjudged Player of the Match for scoring an unbeaten 115* (56) with the help of 15 fours and four sixes."
+      "headline": "Wolvaardt smashes record-breaking ton as South Africa crush Ireland by 105 runsLaura Wolvaardt produced a record-breaking innings as South Africa defeated Ireland by 105 runs in the first T20I at Newlands. She was adjudged Player of the Match for scoring an unbeaten 115* (56) with the help of 15 fours and four sixes."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-south-africa-live-score-ind-vs-sa-3rd-odi-match-coverage-2831706-2025-12-06",
-      "headline": "3rd ODI Live: SA (1/1 in 3 ov), Arshdeep strikes early in VizagIndia (IND) vs South Africa (SA) LIVE Score: Arshdeep Singh strikes in the very first over of the match. He swings the ball away from Ryan Rickelton and edges him back to the keeper."
+      "headline": "3rd ODI Live: SA (86/1 in 16 ov), Proteas pile on pressureIndia (IND) vs South Africa (SA) LIVE Score: Quinton de Kock and Temba Bavuma have started attacking India after a quiet period as they take on Prasidh Krishna. Earlier, Arshdeep Singh dismissed Ryan Rickelton for a four-ball duck."
     },
     {
       "sentiment": "positive",
@@ -465,11 +470,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/shah-rukh-khan-andre-russell-ipl-retirement-kolkata-knight-riders-venky-mysore-2831561-2025-12-05",
       "headline": "Shah Rukh Khan suggested Russel's power coach role: KKR CEO Venky MysoreKKR CEO Venky Mysore revealed that Shah Rukh Khan played a key role in guiding Andre Russell towards his new role in the team. The emotional decision marks the end of a 12-year purple-and-gold journey for the West Indies all-rounder."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-sa-virat-kohli-hat-trick-of-centuries-visakhapatnam-odi-next-act-2831531-2025-12-05",
-      "headline": "Has Virat Kohli ever hit a hat-trick of centuries in ODIs? Vizag awaits his next actIND vs SA, 3rd ODI: All eyes turn to Kohli in Vizag as whispers of a rare ODI feat swirl again, though whether he's crossed that mark before remains part of the intrigue."
     }
   ],
   "education": [
