@@ -103,6 +103,16 @@
   ],
   "entertainment": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/entertainment/television/story/malti-chahar-evicted-bigg-boss-19-friendship-fallout-pranit-more-amal-mallik-2831778-2025-12-06",
+      "headline": "Bigg Boss 19: Malti on equation with Amaal, and not bidding Pranit goodbye Actor-filmmaker Malti Chahar was evicted from Bigg Boss 19 following a tense fallout with friends inside the house. Her exit has sparked discussions about friendship and manipulation dynamics on the show."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/dhurandhar-box-office-day-1-ranveer-singh-spy-thriller-earns-rs-28-crore-2831763-2025-12-06",
+      "headline": "Dhurandhar box office day 1: Film earns over Rs 28 crore as per official estimates Ranveer Singh's Dhurandhar earned over Rs 28 crore at the box office per official estimates. The film is a spy-thriller also featuring Akshaye Khanna, Sanjay Dutt, Arjun Rampal and Sara Arjun in key roles."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/hollywood/story/justin-baldoni-told-pregnant-blake-lively-he-was-circumcised-says-she-never-asked-2831747-2025-12-06",
       "headline": "Justin Baldoni told pregnant Blake Lively he was circumcised; says she never asked Court documents revealed Justin Baldoni acknowledged discussing his circumcision status with Blake Lively during a visit to her New York home in 2022, a detail now central in Lively's harassment lawsuit tied to the production of 'It Ends With Us'."
@@ -186,21 +196,11 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/aryan-khan-directorial-debut-bads-of-bollywood-second-most-popular-indian-director-2025-imdb-2831508-2025-12-05",
       "headline": "Aryan Khan knew The Ba***ds of Bollywood would hit big: Not arrogance Aryan Khan reflects on the sustained success of his first series, discusses his approach to creativity, and hints at future projects, while The Ba***ds of Bollywood continues to attract critical and public attention."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/zeenat-aman-highlights-evolving-social-attitudes-towards-women-in-films-2831449-2025-12-05",
-      "headline": "Zeenat Aman recalls Dostana scene, calls out Amitabh's patronising stance Veteran actor Zeenat Aman reflects on the patriarchal attitudes of 1980s Bollywood through a scene from Dostana, highlighting shifts in societal views on women's rights and morality."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/prabhas-receives-warm-welcome-in-japan-at-special-baahubali-the-epic-screening-2831410-2025-12-05",
-      "headline": "Prabhas receives warm welcome in Japan at special Baahubali The Epic screening Prabhas attended a special screening in Japan for the release of Baahubali: The Epic, a film combining both parts of the Baahubali saga. During the event, Prabhas expressed his gratitude and affection for his Japanese fans, marking a key moment in Indian cinema's global journey."
     }
   ],
   "general news": [
     {
-      "sentiment": "negative",
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/indigo-cancellation-chaos-government-directive-reasonable-airfare-flights-2831740-2025-12-06",
       "headline": "Opportunistic pricing: Centre cracks down on sky-high fares amid IndiGo chaosIndiGo chaos: In its order, aimed to protect passengers from 'opportunistic pricing', the Civil Aviation Ministry warned that any surge in fare levels from the prescribed norms would attract immediate action."
     },
@@ -212,7 +212,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-south-africa-live-score-ind-vs-sa-3rd-odi-match-coverage-2831706-2025-12-06",
-      "headline": "3rd ODI Live: SA (86/1 in 16 ov), Proteas pile on pressureIndia (IND) vs South Africa (SA) LIVE Score: Quinton de Kock and Temba Bavuma have started attacking India after a quiet period as they take on Prasidh Krishna. Earlier, Arshdeep Singh dismissed Ryan Rickelton for a four-ball duck."
+      "headline": "3rd ODI Live: SA 185/4, de Kock hits hundred after Prasidh's doublestrikeIndia (IND) vs South Africa (SA) LIVE Score: Prasidh Krishna has taken back to back wickets in the 29th over, leaving South Africa reeling in the game. However,  that pressure has not slowed down Quinton de Kock, who has brought up his 23rd ODI hundred."
     },
     {
       "sentiment": "negative",
@@ -226,33 +226,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/indigo-operations-steady-resuming-passengers-plight-reaches-supreme-court-2831685-2025-12-06",
-      "headline": "IndiGo operations 'steadily' resuming, passengers' plight reaches Supreme CourtThe Indira Gandhi International Airport in Delhi issued a passenger advisory, announcing that IndiGo flight operations are gradually returning to normal following the airline's disruption, which resulted in over 1,000 flight cancellations on Friday and over 550 flights on Thursday."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/no-calls-emails-after-work-right-to-disconnect-bill-introduced-in-lok-sabha-2831729-2025-12-06",
-      "headline": "No calls, emails after work: Right to Disconnect Bill introduced in Lok SabhaThe bill proposes granting every employee the right to disconnect from work-related calls and emails beyond official work hours and on holidays."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/simone-tata-transforms-lakme-pioneers-westside-retail-india-passes-away-95-2831703-2025-12-06",
-      "headline": "Simone Tata, the quiet force behind Lakm\u00e9 and Westside, dies at 95Simone Tata, a figure behind some of India's most recognizable retail and cosmetics brands, passed away at 95, leaving a legacy marked by innovation and leadership."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/putin-bihari-mla-dr-abhay-kumar-singh-kursk-region-who-added-indian-tadka-to-russian-polls-s500-defence-patna-2831222-2025-12-06",
-      "headline": "Putin's Bihari MLA: Meet Abhay Kumar Singh who added Indian tadka to Russian pollsBihar-born Abhay Kumar Singh, a medical graduate from Russia, joined President Vladimir Putin's United Russia Party in 2015. He became the first Indian-origin lawmaker in Russia after winning an election in 2017. Speaking to India Today TV, he recalled how he infused Indian-style campaigning into Russian elections, which helped him secure a record-margin victory."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/indigo-flights-cancellation-status-live-updates-crew-shortage-delhi-mumbai-bengaluru-domestic-international-dgca-2831101-2025-12-05",
-      "headline": "Live: Government orders IndiGo to complete refunds for affected flights by tomorrowIndiGo Flights Cancellations Live Updates: IndiGo faced operational disruptions for the fifth consecutive day on Saturday, with multiple flight cancellations reported across major airports, though Delhi operations are gradually stabilising. The Ministry of Civil Aviation has taken note of concerns over unusually high fares and directed IndiGo to complete all pending refunds for cancelled or disrupted flights by tomorrow 8 pm. On Friday alone, over 1,000 flights were grounded, adding to more than 550 cancellations the previous day. IndiGo acknowledged the chaos resulted from planning lapses during Phase 2 of the Flight Duty Time Limitations (FDTL) rules, prompting the government to order a high-level enquiry to identify the causes and hold responsible parties accountable. Stay tuned with India Today for all Live Updates. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/kl-rahul-india-end-toss-drought-21-odis-ind-vs-sa-vizag-2831749-2025-12-06",
-      "headline": "Big laugh, Vizag erupts: KL Rahul punches the air as India end toss draughtIndia vs South Africa 3rd ODI: KL Rahul was pumped as Vizag erupted after India finally ended their toss drought after 21 attempts in the match against South Africa on Saturday, December 6. "
+      "url": "https://www.indiatoday.in/india/story/ministry-of-civli-aviation-directs-indigo-to-complete-refunds-to-passengers-by-tomorrow-amid-flight-disruptions-2831796-2025-12-06",
+      "headline": "Complete refunds to passengers by tomorrow: Government directs IndiGo amid crisisAirlines have also been directed not to levy any rescheduling charges for passengers whose travel plans were affected by cancellations."
     },
     {
       "sentiment": "positive",
@@ -261,43 +236,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/television/story/bigg-boss-19-finale-samlan-khan-jokes-stand-up-comedian-rj-pranit-more-mumbai-ashish-chanchlani-2831645-2025-12-06",
-      "headline": "Schooled by Salman, how Pranit More turned humour into Bigg Boss 19 finale ticketAfter facing host Salman Khan's wrath on the first Weekend Ka Vaar for his \"under-the-belt jokes\" on him, RJ-turned-stand-up comedian Pranit More has turned his humour into his armour. Now among the five finalists of Bigg Boss 19, More went on to gel with his \"group\" and built rapport with his The Pranit More Show. He took stands against \"bullies\", and is now being backed even by some Maharashtra politicians."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/netflix-warner-bros-discovery-deal-paramount-hostile-bid-elon-musk-2831677-2025-12-06",
-      "headline": "Elon Musk pops the popcorn as Paramount vs Netflix for Warner Bros heats upElon Musk's reaction comes amid reports that Netflix has agreed to buy the film and streaming businesses of Warner Bros, which owns franchises such as Harry Potter and Batman. Paramount has accused Warner Bros of an unfair sale process."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/trending-news/story/foreigner-loses-temper-climbs-onto-indigo-counter-amid-flight-disruptions-2831750-2025-12-06",
-      "headline": "Video: Foreigner loses temper, climbs onto IndiGo counter amid flight disruptionsVideos circulating online show the unnamed woman losing her temper at IndiGo ground staff before gripping the service-window frame and pulling herself onto the counter barefoot."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/interactive/quiz/entertainment/weekly-quiz-548-06-12-2025",
-      "headline": "Question Time: Weekly News QuizThink you read the headlines this week? Let's test that!"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/dhurandhar-saiyaara-pushpa-why-are-our-heroes-toxic-broken-bad-at-boundaries-2831644-2025-12-06",
-      "headline": "Dhurandhar, Saiyaara, Pushpa: Why are our heroes toxic, broken, bad at boundariesA hard-hitting look at Bollywood's rising obsession with toxic, broody heroes, from Dhurandhar to Tere Ishk Mein. Why do audiences continue to romanticise red flags as passion?"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/solar-eclipse-709-bce-ancient-chinese-records-earth-faster-rotation-solar-corona-2831769-2025-12-06",
-      "headline": "World's first solar eclipse: 2,700-year-old text reveals ancient secretResearchers reveal 2,700-year-old records from ancient China that offer new insights into Earth's rotation and solar activity, confirming early descriptions of a solar eclipse and the Sun's corona."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-draw-criticised-infantino-donald-trump-2831728-2025-12-06",
-      "headline": "World Cup draw or drama? FIFA hammered over event featuring Donald TrumpThe FIFA World Cup draw was heavily criticised after a stretched-out show that involved several Hollywood stars and Donald Trump. The FIFA president was slammed by fans and commentators across the world."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/singapore-envoy-attends-staff-wedding-on-video-call-after-indigo-cancels-his-flight-2831719-2025-12-06",
-      "headline": "Singapore envoy attends staff wedding on video call after IndiGo cancels his flightSingapore High Commissioner Simon Wong missed a team member's wedding because IndiGo cancelled his flight. Despite the travel chaos, he attended the wedding on video call."
+      "url": "https://www.indiatoday.in/india/story/no-calls-emails-after-work-right-to-disconnect-bill-introduced-in-lok-sabha-2831729-2025-12-06",
+      "headline": "No calls, emails after work: Right to Disconnect Bill introduced in Lok SabhaThe bill proposes granting every employee the right to disconnect from work-related calls and emails beyond official work hours and on holidays."
     },
     {
       "sentiment": "positive",
@@ -306,23 +246,83 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/indigo-operations-steady-resuming-passengers-plight-reaches-supreme-court-2831685-2025-12-06",
+      "headline": "IndiGo operations 'steadily' resuming, passengers' plight reaches Supreme CourtThe Indira Gandhi International Airport in Delhi issued a passenger advisory, announcing that IndiGo flight operations are gradually returning to normal following the airline's disruption, which resulted in over 1,000 flight cancellations on Friday and over 550 flights on Thursday."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/simone-tata-transforms-lakme-pioneers-westside-retail-india-passes-away-95-2831703-2025-12-06",
+      "headline": "Simone Tata, the quiet force behind Lakm\u00e9 and Westside, dies at 95Simone Tata, a figure behind some of India's most recognizable retail and cosmetics brands, passed away at 95, leaving a legacy marked by innovation and leadership."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/indigo-flights-cancellation-status-live-updates-crew-shortage-delhi-mumbai-bengaluru-domestic-international-dgca-2831101-2025-12-05",
+      "headline": "Live: PMO in touch with IndiGo CEO, officials summoned, say sourcesIndiGo Flights Cancellations Live Updates: IndiGo faced operational disruptions for the fifth consecutive day on Saturday, with multiple flight cancellations reported across major airports, though Delhi operations are gradually stabilising. The Ministry of Civil Aviation has taken note of concerns over unusually high fares and directed IndiGo to complete all pending refunds for cancelled or disrupted flights by tomorrow 8 pm. On Friday alone, over 1,000 flights were grounded, adding to more than 550 cancellations the previous day. IndiGo acknowledged the chaos resulted from planning lapses during Phase 2 of the Flight Duty Time Limitations (FDTL) rules, prompting the government to order a high-level enquiry to identify the causes and hold responsible parties accountable. Stay tuned with India Today for all Live Updates. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/television/story/bigg-boss-19-finale-samlan-khan-jokes-stand-up-comedian-rj-pranit-more-mumbai-ashish-chanchlani-2831645-2025-12-06",
+      "headline": "Schooled by Salman, how Pranit More turned humour into Bigg Boss 19 finale ticketAfter facing host Salman Khan's wrath on the first Weekend Ka Vaar for his \"under-the-belt jokes\" on him, RJ-turned-stand-up comedian Pranit More has turned his humour into his armour. Now among the five finalists of Bigg Boss 19, More went on to gel with his \"group\" and built rapport with his The Pranit More Show. He took stands against \"bullies\", and is now being backed even by some Maharashtra politicians."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/kl-rahul-india-end-toss-drought-21-odis-ind-vs-sa-vizag-2831749-2025-12-06",
+      "headline": "Big laugh, Vizag erupts: KL Rahul punches the air as India end toss draughtIndia vs South Africa 3rd ODI: KL Rahul was pumped as Vizag erupted after India finally ended their toss drought after 21 attempts in the match against South Africa on Saturday, December 6. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/putin-bihari-mla-dr-abhay-kumar-singh-kursk-region-who-added-indian-tadka-to-russian-polls-s500-defence-patna-2831222-2025-12-06",
+      "headline": "Putin's Bihari MLA: Meet Abhay Kumar Singh who added Indian tadka to Russian pollsBihar-born Abhay Kumar Singh, a medical graduate from Russia, joined President Vladimir Putin's United Russia Party in 2015. He became the first Indian-origin lawmaker in Russia after winning an election in 2017. Speaking to India Today TV, he recalled how he infused Indian-style campaigning into Russian elections, which helped him secure a record-margin victory."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/interactive/quiz/entertainment/weekly-quiz-548-06-12-2025",
+      "headline": "Question Time: Weekly News QuizThink you read the headlines this week? Let's test that!"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/gk-current-affairs/story/mother-russia-in-moscow-bharat-mata-in-delhi-the-civilisational-bond-beyond-diplomacy-2831314-2025-12-06",
+      "headline": "Mother Russia in Moscow, Bharat Mata in Delhi: The civilisational bond beyond diplomacyThe idea of the Motherland runs deep not only in India but in Russia as well. The sculpture of Mother Russia visible behind President Putin during the recent interview reflected that pride clearly. It showed how strongly Russians connect their identity to the land, much like Indians do with Bharat Mata. History also records moments when this sentiment was defended, including the time Russia refused to sell the Mother Russia sculpture to the French President, saying it was not for sale. The shared reverence for the soil explains why both nations often find common ground beyond politics."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/trending-news/story/foreigner-loses-temper-climbs-onto-indigo-counter-amid-flight-disruptions-2831750-2025-12-06",
+      "headline": "Video: Foreigner loses temper, climbs onto IndiGo counter amid flight disruptionsVideos circulating online show the unnamed woman losing her temper at IndiGo ground staff before gripping the service-window frame and pulling herself onto the counter barefoot."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/netflix-warner-bros-discovery-deal-paramount-hostile-bid-elon-musk-2831677-2025-12-06",
+      "headline": "Elon Musk pops the popcorn as Paramount vs Netflix for Warner Bros heats upElon Musk's reaction comes amid reports that Netflix has agreed to buy the film and streaming businesses of Warner Bros, which owns franchises such as Harry Potter and Batman. Paramount has accused Warner Bros of an unfair sale process."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/solar-eclipse-709-bce-ancient-chinese-records-earth-faster-rotation-solar-corona-2831769-2025-12-06",
+      "headline": "World's first solar eclipse: 2,700-year-old text reveals ancient secretResearchers reveal 2,700-year-old records from ancient China that offer new insights into Earth's rotation and solar activity, confirming early descriptions of a solar eclipse and the Sun's corona."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/dhurandhar-saiyaara-pushpa-why-are-our-heroes-toxic-broken-bad-at-boundaries-2831644-2025-12-06",
+      "headline": "Dhurandhar, Saiyaara, Pushpa: Why are our heroes toxic, broken, bad at boundariesA hard-hitting look at Bollywood's rising obsession with toxic, broody heroes, from Dhurandhar to Tere Ishk Mein. Why do audiences continue to romanticise red flags as passion?"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/dhurandhar-box-office-day-1-ranveer-singh-spy-thriller-earns-rs-28-crore-2831763-2025-12-06",
+      "headline": "Dhurandhar box office day 1: Film earns over Rs 28 crore as per official estimatesRanveer Singh's Dhurandhar earned over Rs 28 crore at the box office per official estimates. The film is a spy-thriller also featuring Akshaye Khanna, Sanjay Dutt, Arjun Rampal and Sara Arjun in key roles."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-draw-criticised-infantino-donald-trump-2831728-2025-12-06",
+      "headline": "World Cup draw or drama? FIFA hammered over event featuring Donald TrumpThe FIFA World Cup draw was heavily criticised after a stretched-out show that involved several Hollywood stars and Donald Trump. The FIFA president was slammed by fans and commentators across the world."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/environment/story/india-hill-towns-joshimanth-himalayas-nainital-shimla-himachal-pradesh-land-slides-floods-resilient-adaptation-2829985-2025-12-06",
       "headline": "Are Himalayan towns ready for another Joshimath-like scare?Experts recommend enforcing strict building limits, stopping large infrastructure projects in the most sensitive zones, and mandating geotechnical surveys before undertaking of any scale of construction."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/opinion/story/flight-time-rules-bend-for-indigo-passengers-stranded-airports-chaos-india-airlines-cancellations-delay-2831318-2025-12-05",
-      "headline": "Flight time rules bend for IndiGo, because all's well that bends wellChaos broke out at airports because the government tried to implement global rules in the Indian scheme of things. Not just aviation, any sector will collapse in India if laws are implemented to the tee. The sacred rule is that rules are to be circumvented in India's well-greased machinery."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/why-pm-modi-putin-rode-toyota-fortuner-message-to-west-ukraine-war-2831120-2025-12-05",
-      "headline": "Why PM Modi picked a Fortuner for carpool with Putin? Theories behind itPutin in India: There was a red carpet welcome, PM Modi breaking protocol to greet him on the tarmac, a firm handshake, followed by a warm hug. However, what caught the attention was PM Modi choosing a white Toyota Fortuner to carpool with Putin."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/dhurandhar-box-office-day-1-ranveer-singh-spy-thriller-earns-rs-28-crore-2831763-2025-12-06",
-      "headline": "Dhurandhar box office day 1: Ranveer Singh's spy-thriller earns Rs 28 croreRanveer Singh's 'Dhurandhar' earned over Rs 28 crore at the box office. The film is a spy-thriller, also featuring Akshaye Khanna, Sanjay Dutt, Arjun Rampal, Sara Arjun and others in key roles."
+      "headline": "Dhurandhar box office day 1: Film earns over Rs 28 crore as per official estimatesRanveer Singh's Dhurandhar earned over Rs 28 crore at the box office per official estimates. The film is a spy-thriller also featuring Akshaye Khanna, Sanjay Dutt, Arjun Rampal and Sara Arjun in key roles."
     },
     {
       "sentiment": "positive",
@@ -331,6 +331,11 @@
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/mitchell-starc-breaks-no9-test-runs-record-gabba-ashes-2025-2831780-2025-12-06",
+      "headline": "Mitchell Starc continues to rule Brisbane with batting heroics, goes past Broad Mitchell Starc continued his golden run in the Ashes 2025 with a well-compiled 77 that helped him add a new record to his name in Test cricket. Starc's innings helped Australia to take a 177-run lead in the match. "
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/andre-russell-500-t20-wickets-ilt20-2025-2831765-2025-12-06",
@@ -379,7 +384,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/hockey/story/india-vs-belgium-junior-hockey-thriller-shootout-analysis-sreejesh-india-semi-finals-2831724-2025-12-06",
-      "headline": "From Brink to belief: How India's Juniors survived Belgium's vice-grip in an epic shootout A storm of skill, nerves and sheer willpower \u2014 India edge Belgium 4\u20133 in a breathless shoot-out after a 2\u20132 thriller, powered by Tiwari's ice-cold strokes and Prince's heroic saves. The hosts now go up against the reigning champions in a thrilling semi-final clash. "
+      "headline": "From Brink to belief: How India's Juniors survived Belgium's vice-grip in an epic shootoutA storm of skill, nerves and sheer willpower \u2014 India edge Belgium 4\u20133 in a breathless shoot-out after a 2\u20132 thriller, powered by Tiwari's ice-cold strokes and Prince's heroic saves. The hosts now go up against the reigning champions in a thrilling semi-final clash. "
     },
     {
       "sentiment": "positive",
@@ -389,7 +394,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-south-africa-live-score-ind-vs-sa-3rd-odi-match-coverage-2831706-2025-12-06",
-      "headline": "3rd ODI Live: SA (86/1 in 16 ov), Proteas pile on pressureIndia (IND) vs South Africa (SA) LIVE Score: Quinton de Kock and Temba Bavuma have started attacking India after a quiet period as they take on Prasidh Krishna. Earlier, Arshdeep Singh dismissed Ryan Rickelton for a four-ball duck."
+      "headline": "3rd ODI Live: SA 185/4, de Kock hits hundred after Prasidh's doublestrikeIndia (IND) vs South Africa (SA) LIVE Score: Prasidh Krishna has taken back to back wickets in the 29th over, leaving South Africa reeling in the game. However,  that pressure has not slowed down Quinton de Kock, who has brought up his 23rd ODI hundred."
     },
     {
       "sentiment": "positive",
@@ -465,11 +470,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/other-sports/story/india-beat-ireland-junior-womens-world-cup-purnima-yadav-2831583-2025-12-05",
       "headline": "India rout Ireland 4-0 at Junior Women's World Cup as Purnima Yadav nets bracePurnima Yadav's stellar brace powered India to a commanding 4-0 win over Ireland at the Junior Women's World Cup. The dominant victory sealed a confident finish to their Pool C campaign in Santiago."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/shah-rukh-khan-andre-russell-ipl-retirement-kolkata-knight-riders-venky-mysore-2831561-2025-12-05",
-      "headline": "Shah Rukh Khan suggested Russel's power coach role: KKR CEO Venky MysoreKKR CEO Venky Mysore revealed that Shah Rukh Khan played a key role in guiding Andre Russell towards his new role in the team. The emotional decision marks the end of a 12-year purple-and-gold journey for the West Indies all-rounder."
     }
   ],
   "education": [
