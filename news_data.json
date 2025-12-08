@@ -104,6 +104,21 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/terry-crews-meets-ranveer-singh-abudhabi-gp-congratulates-dhurandhar-2832487-2025-12-08",
+      "headline": "Terry Crews congratulates Ranveer Singh on Dhurandhar at Abu Dhabi GP Hollywood star Terry Crews met Bollywood actor Ranveer Singh at the Abu Dhabi Grand Prix. The meeting sparked excitement among fans, highlighting cross-industry admiration and global recognition for Dhurandhar."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/music/story/inside-jungkooks-golden-exhibition-in-mumbai-when-how-and-why-2832491-2025-12-08",
+      "headline": "Inside Jungkook's GOLDEN exhibition in Mumbai: When, How and Why? Jungkook's GOLDEN: The Moments exhibition arrives in Mumbai this December, becoming India's first official HYBE-backed BTS experience and a major milestone for the country's growing K-pop fandom."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/karan-deol-pays-tribute-to-grandfather-dharmendra-on-90th-birth-anniversary-2832453-2025-12-08",
+      "headline": "Karan Deol pays tribute to grandfather Dharmendra on 90th birth anniversary Karan Deol shared a personal message remembering his grandfather Dharmendra on his 90th birthday, reflecting on the profound influence the veteran actor had on his life and expressing his ongoing love and gratitude."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/avalkoppam-solidarity-malayalam-actors-parvathy-ramya-nambeesan-rima-kallingal-support-survivor-after-dileep-acquittal-2832447-2025-12-08",
       "headline": "With her: Parvathy, Rima, Ramya extend solidarity to survivor after Dileep acquittal Actors Parvathy, Ramya Nambeesan, and Rima Kallingal have voiced solidarity with the survivor following Dileep's acquittal in the 2017 actor assault case, sharing messages and images emphasising continued support."
     },
@@ -181,21 +196,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/music/story/grammy-winner-tyla-mumbai-debut-indian-sneakers-festival-2832288-2025-12-08",
       "headline": "Tyla's Mumbai debut: A 60-minute pop spectacle that left Mumbai craving for more Grammy-winner Tyla made a memorable debut in Mumbai at the Indian Sneakers Festival. Her vibrant performance blended cultural elements with high-energy music, promising bigger shows ahead."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/sunainaa-khalid-al-ameri-confirm-relationship-romantic-birthday-photos-2832278-2025-12-08",
-      "headline": "Tamil actor Sunainaa and UAE influencer Khalid Al Ameri go Insta official. Pics out After months of speculation, Tamil actor Sunainaa and Khalid Al Ameri seemed to have confirmed their relationship by sharing photos together on Instagram, drawing attention from fans and followers across India and the UAE."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/dharmendra-90th-birth-anniversary-tribute-by-daughter-esha-deol-2832269-2025-12-08",
-      "headline": "We are always together papa: Esha Deol honours Dharmendra on 90th birth anniversary Actor Esha Deol commemorates her father, veteran actor Dharmendra, on what would have been his 90th birthday, expressing her memories and intentions to share his legacy with fans."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/dhurandhar-box-office-collection-crosses-rs-100-crore-opening-weekend-ranveer-singh-2832246-2025-12-08",
-      "headline": "Dhurandhar box office Day 3: Ranveer Singh film hits century in opening weekend Ranveer Singh's action film Dhurandhar recorded a strong box-office opening, grossing Rs 100 crore in India and Rs 140 crore globally, outperforming the competition and setting career milestones."
     }
   ],
   "general news": [
@@ -207,12 +207,12 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/pm-modi-vande-mataram-150th-anniversary-debate-lok-sabha-rajya-sabha-parliament-winter-session-live-updates-congress-bjp-2832236-2025-12-08",
-      "headline": "Live: Vande Mataram is not for fake nationalists, says Akhilesh YadavParliament Winter Session Live: Prime Minister Narendra Modi opened a 10-hour discussion in the Lok Sabha on Monday to mark the 150th anniversary of the national song Vande Mataram, a discussion expected to highlight several significant and lesser-known facets of its history, followed by a one-day special discussion in the Rajya Sabha on Tuesday led by the Home Minister."
+      "headline": "Live: Vande Mataram is modern slogan of country, says JDU MPParliament Winter Session Live: Prime Minister Narendra Modi opened a 10-hour discussion in the Lok Sabha on Monday to mark the 150th anniversary of the national song Vande Mataram, a discussion expected to highlight several significant and lesser-known facets of its history, followed by a one-day special discussion in the Rajya Sabha on Tuesday led by the Home Minister."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/bankim-babu-not-bankim-da-tmc-mp-interrupts-pm-modi-lok-sabha-special-discussion-vande-mataram-150-years-2832445-2025-12-08",
-      "headline": "Bankim Babu, not Bankim Da: Trinamool MP interrupts PM Modi in ParliamentPrime Minister Narendra Modi called Vande Mataram a sacred mantra that inspired India's freedom movement, united the nation, and urged renewed resolve to achieve India's goals by 2047. He said the milestone offered an opportunity to restore the song's historic glory."
+      "headline": "Bankim Babu, not Bankim Da: Trinamool MP interrupts PM Modi in ParliamentDuring his speech in Lok Sabha, Prime Minister Narendra Modi referred to the composer as \"Bankim Da,\" prompting senior Trinamool MP Saugata Roy to object. Smiling, he corrected himself to \"Bankim Babu\" and continued."
     },
     {
       "sentiment": "negative",
@@ -221,8 +221,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/ncert-class-7-social-science-text-book-now-explains-mahmud-of-ghaznis-raids-in-more-detail-2832025-2025-12-07",
-      "headline": "Ghazni's brutality enters Class 7 textbooks in new NCERT narrativeThe newly released Class 7 NCERT social science textbook gives students a more detailed look at the Ghaznavid invasions, highlighting Mahmud of Ghazni's raids, plunder, and efforts to expand his version of Islam in India. Compared to earlier editions, the section provides a broader historical perspective and deeper insights into his campaigns.\r\n"
+      "url": "https://www.indiatoday.in/movies/bollywood/story/akshaye-khanna-fa9la-entry-dhurandhar-all-you-need-to-know-2832373-2025-12-08",
+      "headline": "Dhurandhar's FA9LA does for Akshaye Khanna what Jamal Kudu did for Bobby DeolThe Bahraini track featured in the film 'Dhurandhar' has rapidly become an online sensation. Here's all you need to know about the track and how it elevated the aura of Akshaye Khanna's character, Rehman Dikait, in the film."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/indigo-crisis-due-to-internal-planning-issues-aviation-minister-to-rajya-sabha-2832499-2025-12-08",
+      "headline": "IndiGo monopoly under watch; best time to start airline: Aviation Minister'Crew rostering and internal planning system issues' led to the IndiGo crisis, the Union Civil Aviation Minister Kinjarapu Ram Mohan Naidu said in Rajya Sabha on Monday."
     },
     {
       "sentiment": "positive",
@@ -231,23 +236,38 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/rahul-gandhi-priyanka-skip-vande-mataram-discussion-in-lok-sabha-2832462-2025-12-08",
-      "headline": "Rahul Gandhi, Priyanka skip Vande Mataram discussion, BJP calls it disrespectRahul Gandhi and Priyanka Gandhi Vadra skipped Vande Mataram discussion in Lok Sabha on Monday. BJP hit out at Rahul Gandhi and called the move a \"disrespect to the national song.\""
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-south-africa-shubman-gill-sanju-samson-t20i-opener-suryakumar-2832479-2025-12-08",
+      "headline": "Shubman Gill vs Sanju Samson as T20I opener? Surya explains big selection callIndia vs South Africa, Cuttack T20I: Captain Suryakumar Yadav justified India's decision to hand the opening spot to Shubman Gill in place of Sanju Samson. The skipper added that Samson remains in contention, alongside Jitesh Sharma, for the wicketkeeper-batter's role in the build-up to the T20 World Cup 2026."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/indigo-flight-cancellation-delay-refunds-delhi-mumbai-bengaluru-airport-passenger-advisory-2832241-2025-12-08",
-      "headline": "IndiGo mayhem continues, over 450 flights cancelled, normalcy not in sight Live UpdatesIndiGo continues to face significant flight disruptions on Monday, and the airline has processed ticket refunds worth Rs 610 crore amid the ongoing nationwide chaos."
+      "url": "https://www.indiatoday.in/education-today/news/story/ncert-class-7-social-science-text-book-now-explains-mahmud-of-ghaznis-raids-in-more-detail-2832025-2025-12-07",
+      "headline": "Ghazni's brutality enters Class 7 textbooks in new NCERT narrativeThe newly released Class 7 NCERT social science textbook gives students a more detailed look at the Ghaznavid invasions, highlighting Mahmud of Ghazni's raids, plunder, and efforts to expand his version of Islam in India. Compared to earlier editions, the section provides a broader historical perspective and deeper insights into his campaigns.\r\n"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/saina-nehwal-nails-akshaye-khanna-swagger-dhurandhar-entry-step-fa9la-dad-joins-for-fun-video-2832345-2025-12-08",
-      "headline": "Saina Nehwal pulls an Akshaye Khanna from viral Dhurandhar scene, father joins inDuring a recent outing, Saina Nehwal attempted Akshaye Khanna's electrifying entry in Dhurandhar, but the surprise scene-stealer turned out to be her father. "
+      "url": "https://www.indiatoday.in/india/story/indigo-flight-status-were-they-sleeping-as-indigo-chaos-continues-board-of-directors-come-under-fire-high-profile-members-2832446-2025-12-08",
+      "headline": "Were they sleeping? As IndiGo chaos continues, board of directors come under fireIndiGo's flight chaos has entered its seventh day on Monday with over 350 cancellations. There is massive public scrutiny of its high-profile board of directors now. Despite intervening on Day 1 of IndiGo flight cancellations, questions are being asked about why the board failed in oversight."
     },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/dileep-acquitted-malayalam-actress-assault-case-speaks-conspiracy-2832392-2025-12-08",
       "headline": "Dileep hits out at ex-wife Manju Warrier after acquittal in 2017 actor assault caseMalayalam actor Dileep addressed media after being acquitted in the 2017 Kerala actress assault case, alleging a police conspiracy and thanking supporters."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/rahul-gandhi-priyanka-skip-vande-mataram-discussion-in-lok-sabha-2832462-2025-12-08",
+      "headline": "Rahul Gandhi, Priyanka skip Vande Mataram discussion, BJP calls it disrespectRahul Gandhi and Priyanka Gandhi Vadra skipped Vande Mataram discussion in Lok Sabha on Monday. BJP hit out at Rahul Gandhi and called the move a \"disrespect to the national song.\""
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/opinion/story/jamaat-e-islami-positioned-to-dominate-if-bangladesh-election-2026-are-conducted-bnp-awami-league-2831901-2025-12-08",
+      "headline": "Why Jamaat-e-Islami is positioned to dominate if Bangladesh elections are heldIf the next election in Bangladesh is held without the Awami League's participation, a repeat of 1991 could very well occur. The underdog, in this case the Jamaat-e-Islami, might beat the BNP and walk away with the crown. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/indigo-flight-cancellation-delay-refunds-delhi-mumbai-bengaluru-airport-passenger-advisory-2832241-2025-12-08",
+      "headline": "IndiGo mayhem continues, over 450 flights cancelled, normalcy not in sight Live UpdatesIndiGo continues to face significant flight disruptions on Monday, and the airline has processed ticket refunds worth Rs 610 crore amid the ongoing nationwide chaos."
     },
     {
       "sentiment": "negative",
@@ -261,13 +281,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/opinion/story/jamaat-e-islami-positioned-to-dominate-if-bangladesh-election-2026-are-conducted-bnp-awami-league-2831901-2025-12-08",
-      "headline": "Why Jamaat-e-Islami is positioned to dominate if Bangladesh elections are heldIf the next election in Bangladesh is held without the Awami League's participation, a repeat of 1991 could very well occur. The underdog, in this case the Jamaat-e-Islami, might beat the BNP and walk away with the crown. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/dhurandhar-box-office-collection-crosses-rs-100-crore-opening-weekend-ranveer-singh-2832246-2025-12-08",
-      "headline": "Dhurandhar box office Day 3: Ranveer Singh film hits century in opening weekendRanveer Singh's action film Dhurandhar recorded a strong box-office opening, grossing Rs 100 crore in India and Rs 140 crore globally, outperforming the competition and setting career milestones."
+      "url": "https://www.indiatoday.in/trending-news/story/saina-nehwal-nails-akshaye-khanna-swagger-dhurandhar-entry-step-fa9la-dad-joins-for-fun-video-2832345-2025-12-08",
+      "headline": "Saina Nehwal pulls an Akshaye Khanna from viral Dhurandhar scene, father joins inDuring a recent outing, Saina Nehwal attempted Akshaye Khanna's electrifying entry in Dhurandhar, but the surprise scene-stealer turned out to be her father. "
     },
     {
       "sentiment": "positive",
@@ -281,6 +296,11 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/dhurandhar-box-office-collection-crosses-rs-100-crore-opening-weekend-ranveer-singh-2832246-2025-12-08",
+      "headline": "Dhurandhar box office Day 3: Ranveer Singh film hits century in opening weekendRanveer Singh's action film Dhurandhar recorded a strong box-office opening, grossing Rs 100 crore in India and Rs 140 crore globally, outperforming the competition and setting career milestones."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/auto/reviews/story/tata-sierra-first-drive-review-the-end-of-creta-domination-2832306-2025-12-08",
       "headline": "Tata Sierra review: Is this the end of Creta domination?Korean C-segment SUVs are about to face their biggest opposition yet, and it's not coming from a foreign multinational OEM; this 4.3-metre Indian SUV with a familiar old name has all the right ingredients to take the crown."
     },
@@ -291,46 +311,36 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/wellness/story/how-can-a-woman-who-has-experienced-sexual-abuse-reconnect-with-her-body-2832424-2025-12-08",
-      "headline": "How can a woman who has experienced sexual abuse reconnect with her bodyFor many women, the hardest part begins long after the assault is over, when the world expects them to move on, but their own body doesn't feel like home anymore."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/pakistan-uk-deal-sex-grooming-gang-uk-convicts-deportation-dissident-munir-adil-raja-deportation-extradition-2831889-2025-12-08",
-      "headline": "Pak to take back sex grooming gang members from UK, wants political rebels tooIslamabad has reportedly floated a proposal to London to accept the return of convicted members of Pakistani grooming gangs from the UK in exchange for Britain extraditing two high-profile anti-Asim Munir political dissidents. The two are former PM Imran Khan's aide Shahzad Akbar, and a Pakistani army dissident, Adil Raja."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/science/story/ganga-on-mars-large-river-system-mapped-on-red-planet-for-the-first-time-2832463-2025-12-08",
       "headline": "Large river system like Ganga mapped on Mars for the first timeA new study from The University of Texas at Austin presents the first planet-wide mapping of large river basins on Mars, outlining 16 expansive drainage systems that once shaped the Martian landscape. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/jd-vance-immigration-remarks-row-mass-migration-glbs-2832230-2025-12-08",
-      "headline": "JD Vance's immigration remark sparks row, triggers calls to send Usha back to IndiaUS Vice President JD Vance sparked backlash after calling mass migration theft of the American Dream, drawing criticism over his Indian-American wife. "
+      "url": "https://www.indiatoday.in/lifestyle/wellness/story/how-can-a-woman-who-has-experienced-sexual-abuse-reconnect-with-her-body-2832424-2025-12-08",
+      "headline": "How can a woman who has experienced sexual abuse reconnect with her bodyFor many women, the hardest part begins long after the assault is over, when the world expects them to move on, but their own body doesn't feel like home anymore."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/story/indigo-shares-fall-flight-disruptions-investor-confidence-2832316-2025-12-08",
-      "headline": "IndiGo shares tumble 4% as airline faces pressure after flight crisisShares of IndiGo fell sharply following extensive flight cancellations and delays, prompting regulatory scrutiny and new operational measures by the airline."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/my-head-was-shaking-i-just-ran-dancer-recalls-chilling-escape-from-goa-club-fire-2832110-2025-12-07",
-      "headline": "Goa club fire: Short circuit caught on camera, dancer recalls moments before escapeA young Kazakhstani dancer narrowly escaped a deadly fire at a popular nightclub in Goa, recounting her terrifying experience and expressing gratitude for her life. The tragedy claimed 25 lives and prompted swift government response and investigations.\r\n"
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/terry-crews-meets-ranveer-singh-abudhabi-gp-congratulates-dhurandhar-2832487-2025-12-08",
+      "headline": "Terry Crews congratulates Ranveer Singh on Dhurandhar at Abu Dhabi GPHollywood star Terry Crews met Bollywood actor Ranveer Singh at the Abu Dhabi Grand Prix. The meeting sparked excitement among fans, highlighting cross-industry admiration and global recognition for Dhurandhar."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/karan-deol-pays-tribute-to-grandfather-dharmendra-on-90th-birth-anniversary-2832453-2025-12-08",
       "headline": "Karan Deol pays tribute to grandfather Dharmendra on 90th birth anniversaryKaran Deol shared a personal message remembering his grandfather Dharmendra on his 90th birthday, reflecting on the profound influence the veteran actor had on his life and expressing his ongoing love and gratitude."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/avalkoppam-solidarity-malayalam-actors-parvathy-ramya-nambeesan-rima-kallingal-support-survivor-after-dileep-acquittal-2832447-2025-12-08",
-      "headline": "With her: Parvathy, Rima, Ramya extend solidarity to survivor after Dileep acquittalActors Parvathy, Ramya Nambeesan, and Rima Kallingal have voiced solidarity with the survivor following Dileep's acquittal in the 2017 actor assault case, sharing messages and images emphasising continued support."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/suryakumar-yadav-on-rinku-singh-omission-india-t20i-squad-south-africa-series-2832505-2025-12-08",
+      "headline": "IND vs SA: Suryakumar Yadav keeps mum on Rinku Singh's snub ahead of 1st T20I India T20I captain Suryakumar Yadav chose not to comment on Rinku Singh's omission ahead of the South Africa series. Rinku has been dropped from the team ahead of the five-match series and is playing in Syed Mushtaq Ali Trophy for Uttar Pradesh."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-south-africa-shubman-gill-sanju-samson-t20i-opener-suryakumar-2832479-2025-12-08",
+      "headline": "Shubman Gill vs Sanju Samson as T20I opener? Surya explains big selection call India vs South Africa, Cuttack T20I: Captain Suryakumar Yadav justified India's decision to hand the opening spot to Shubman Gill in place of Sanju Samson. The skipper added that Samson remains in contention, alongside Jitesh Sharma, for the wicketkeeper-batter's role in the build-up to the T20 World Cup 2026."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/pakistan-t20-world-cup-2026-squad-stable-consistency-key-players-2832473-2025-12-08",
@@ -379,12 +389,12 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/steve-smith-michael-neser-5-wicket-haul-nathan-lyon-ashes-2025-brisbane-test-2832309-2025-12-08",
-      "headline": "Ashes: Nathan Lyon is pissed. But Steve Smith says Gabba axe right call Michael Neser took a crucial five-wicket haul to help Australia win the second Ashes Test. His performance justified the controversial decision to bench Nathan Lyon in the all-seam attack."
+      "headline": "Ashes: Nathan Lyon is pissed. But Steve Smith says Gabba axe right callMichael Neser took a crucial five-wicket haul to help Australia win the second Ashes Test. His performance justified the controversial decision to bench Nathan Lyon in the all-seam attack."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/video/india-vs-south-africa-men-in-blue-arrive-in-bhubaneswar-for-t20-series-opener-ytvd-2832287-2025-12-08",
-      "headline": "India vs South Africa: Men in Blue Arrive in Bhubaneswar for T20 Series Opener On this news bulletin, the focus is on the Indian cricket team's arrival in Bhubaneswar ahead of the highly anticipated five-match T20 series against South Africa. The series opener is scheduled for tomorrow, December 9, at the Barabati Stadium in Cuttack. Visuals capture a grand welcome for the 'Men in Blue' with enthusiastic fans cheering and traditional drumming resonating around the airport arrival area. The team, led by captain Suryakumar Yadav, looks to continue their winning momentum after successfully wrapping up the ODI series. The programme highlights the palpable excitement building up in Odisha as the cricketing action shifts to the shortest format. Security and arrangements are in place as the city gears up to host the international fixture."
+      "headline": "India vs South Africa: Men in Blue Arrive in Bhubaneswar for T20 Series OpenerOn this news bulletin, the focus is on the Indian cricket team's arrival in Bhubaneswar ahead of the highly anticipated five-match T20 series against South Africa. The series opener is scheduled for tomorrow, December 9, at the Barabati Stadium in Cuttack. Visuals capture a grand welcome for the 'Men in Blue' with enthusiastic fans cheering and traditional drumming resonating around the airport arrival area. The team, led by captain Suryakumar Yadav, looks to continue their winning momentum after successfully wrapping up the ODI series. The programme highlights the palpable excitement building up in Odisha as the cricketing action shifts to the shortest format. Security and arrangements are in place as the city gears up to host the international fixture."
     },
     {
       "sentiment": "positive",
@@ -475,16 +485,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/mohamed-salah-liverpool-tension-transfer-rumours-limited-starts-2832108-2025-12-07",
       "headline": "Salah's explosive Liverpool rant: Former midfielder slams Egyptian starMohamed Salah's public comments after being benched for a third consecutive match have drawn criticism from former midfielder Danny Murphy after Liverpool's draw against Leeds United. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/australia-dominates-england-ashes-test-gabba-neser-five-wicket-haul-smith-finishing-touch-2832089-2025-12-07",
-      "headline": "Steve Smith 23 off 9: When Jofra Archer predicted his own Ashes downfall in 2013Australia cruised to an eight-wicket win over England in the second Ashes Test at Brisbane's Gabba, chasing 65 with minimal resistance. The hosts now hold a 2-0 lead in the five-Test series, while England's drought for a victory in Australia\u2014stretching 14 years\u2014remains unresolved."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/formula-one/story/f1-abu-dhabi-gp-live-verstappen-norris-piastri-title-fight-2832090-2025-12-07",
-      "headline": "F1 Abu Dhabi GP Highlights: Lando Norris crowned World Championship titleAbu Dhabi Grand Prix 2025 Highlights: Max Verstappen won the race but it wasn't enough as Lando Norris went on to finish 3rd to take the top spot in the Driver's Championship."
     }
   ],
   "education": [
