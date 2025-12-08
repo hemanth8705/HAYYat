@@ -103,6 +103,11 @@
   ],
   "entertainment": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/actor-rahul-bose-accused-of-fraud-in-himachal-rugby-domicile-scandal-2832872-2025-12-08",
+      "headline": "Actor Rahul Bose accused of fraud in Himachal Rugby domicile scandal A major financial scandal involving the sport of rugby has surfaced in Himachal Pradesh, leading to serious allegations of fraud against actor Rahul Bose. The controversy centres on the alleged illegal procurement of a domicile certificate, with the matter now reaching the Himachal High Court."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/music/story/selena-gomez-joins-taylor-swift-at-chief-game-to-support-travis-kelce-2832768-2025-12-08",
       "headline": "Selena Gomez joins Taylor Swift at Chief's Game to support Travis Kelce Pop icons Taylor Swift and Selena Gomez, seen supporting Travis Kelce at the Chiefs game, reaffirmed their friendship after Swift attended Gomez's wedding. This marked Swift's fifth game since her engagement, thrilling fans who captured blurred stadium photos of the supportive duo."
@@ -191,11 +196,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/story/saira-banu-on-dharmendra-birth-anniversary-shone-differently-dilip-kumar-2832569-2025-12-08",
       "headline": "Saira Banu on Dharmendra's birth anniversary: He shone differently Saira Banu shared heartfelt reflections on late actor Dharmendra's legacy and his close connection with Dilip Kumar. Her social media tribute came on the occasion of Dharmendra's birth anniversary. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/television/story/tanya-mittal-bigg-boss-19-journey-self-esteem-hit-salman-khan-support-2832568-2025-12-08",
-      "headline": "Tanya Mittal says Bigg Boss 19 hurt her self-esteem but she stayed true Tanya Mittal reveals how her self-esteem was affected during Bigg Boss 19. She credits Salman Khan's support for helping her stay strong throughout the show."
     }
   ],
   "general news": [
@@ -236,13 +236,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/we-cant-run-an-airline-supreme-court-declines-urgent-hearing-of-indigo-crisis-2832720-2025-12-08",
-      "headline": "We can't run airline...: What Supreme Court said on urgent hearing of IndiGo crisisThe issue was mentioned by a lawyer who told the Bench that passengers were suffering as flights were being cancelled without any prior intimation."
+      "url": "https://www.indiatoday.in/the-lowdown/story/the-right-to-disconnect-bill-and-the-myth-of-the-unconnected-human-in-age-of-ai-2832599-2025-12-08",
+      "headline": "The Right to Disconnect Bill and the myth of the unconnected human in age of AIIn an AI-driven world where algorithms never sleep, India's Right to Disconnect Bill offers minor comfort. Because the unconnected human is a myth, our attention belongs to the endless hum of digital life."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/interactive/visuals/dravida-and-aryavrat-land-lines-layers-legends-part3-321-08-12-2025",
       "headline": "Dravida and Aryavrat: Land, Lines, Layers, LegendsThe Aryavrat of Manu had the Vindhyas as its southern border. Ancient works repeatedly identify the same Vindhyas as Dravida's northern frontier. In literature and in land, the lines seem clear."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/we-cant-run-an-airline-supreme-court-declines-urgent-hearing-of-indigo-crisis-2832720-2025-12-08",
+      "headline": "We can't run airline...: What Supreme Court said on urgent hearing of IndiGo crisisThe issue was mentioned by a lawyer who told the Bench that passengers were suffering as flights were being cancelled without any prior intimation."
     },
     {
       "sentiment": "positive",
@@ -256,13 +261,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/tamil-nadu/story/tamil-nadu-dmd-mps-impeachment-madras-high-court-judge-karthigai-deepam-thiruparankundram-2832608-2025-12-08",
-      "headline": "DMK MPs move to impeach judge over hilltop lamp lighting order: SourcesDMK MPs are attempting to move an impeachment motion against a Madras High Court judge. The move follows his order to allow Karthigai Deepam lighting on Thiruparankundram hills. The Tamil Nadu government refused, citing law and order issues."
+      "url": "https://www.indiatoday.in/trending-news/story/pigeon-enters-indigo-flight-amid-ongoing-crisis-passengers-record-viral-moment-vadodara-2832633-2025-12-08",
+      "headline": "Pigeon enters IndiGo flight amid ongoing crisis, passengers record viral momentKarn Parekh, who was one of the passengers on the IndiGo flight, recorded the scene showing the pigeon flapping around the aisle as travellers laughed, filmed the moment and tried to coax it toward the exit. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/pigeon-enters-indigo-flight-amid-ongoing-crisis-passengers-record-viral-moment-vadodara-2832633-2025-12-08",
-      "headline": "Pigeon enters IndiGo flight amid ongoing crisis, passengers record viral momentKarn Parekh, who was one of the passengers on the IndiGo flight, recorded the scene showing the pigeon flapping around the aisle as travellers laughed, filmed the moment and tried to coax it toward the exit. "
+      "url": "https://www.indiatoday.in/india/tamil-nadu/story/tamil-nadu-dmd-mps-impeachment-madras-high-court-judge-karthigai-deepam-thiruparankundram-2832608-2025-12-08",
+      "headline": "DMK MPs move to impeach judge over hilltop lamp lighting order: SourcesDMK MPs are attempting to move an impeachment motion against a Madras High Court judge. The move follows his order to allow Karthigai Deepam lighting on Thiruparankundram hills. The Tamil Nadu government refused, citing law and order issues."
     },
     {
       "sentiment": "negative",
@@ -275,24 +280,19 @@
       "headline": "Was Vande Mataram broken up to appease Muslims? Here are the factsPM Narendra Modi said crucial verses of Vande Mataram were removed, and called it the \"division and partition of the song\" that fuelled India's Partition. The two stanzas of Vande Mataram that were originally written by Bankim Chandra Chatterjee were adopted by the Congress leadership. Six stanzas with references to Hindu deities were dropped. This is what historians say about adoption of the truncated version."
     },
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/golden-globe-awards-2026-nominations-check-complete-list-of-nominees-here-2832759-2025-12-08",
+      "headline": "Golden Globes 2026 Nominations: Check complete list hereThe nominees for the 2026 Golden Globes were announced on December 8. One Battle After Another and for TV, HBO's White Lotus secured maximum nominations. \r\n"
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/health/story/blinkit-instant-doctor-service-risks-patient-safety-antibiotic-misuse-india-2832680-2025-12-08",
       "headline": "Fake doctors on call on Blinkit? Experts flag 30-second antibiotic prescriptionBlinkit's doctor-call service has raised several questions about accountability, mostly blurring the line between accessibility and safety. Doctors warn strongly against this practice as it only worsens India's antibiotic resistance crisis."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/hollywood/story/golden-globe-awards-2026-nominations-check-complete-list-of-nominees-here-2832759-2025-12-08",
-      "headline": "Golden Globes 2026 Nominations: Check complete list hereThe nominees for the 2026 Golden Globes were announced on December 8. One Battle After Another and for TV, HBO's White Lotus secured maximum nominations. \r\n"
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/pm-modi-vande-mataram-150th-anniversary-debate-lok-sabha-rajya-sabha-parliament-winter-session-live-updates-congress-bjp-2832236-2025-12-08",
       "headline": "Live: Rahul Gandhi can't understand it without dictionary, says Sambit PatraParliament Winter Session Live: Prime Minister Narendra Modi opened a 10-hour discussion in the Lok Sabha on Monday to mark the 150th anniversary of the national song Vande Mataram, a discussion expected to highlight several significant and lesser-known facets of its history, followed by a one-day special discussion in the Rajya Sabha on Tuesday led by the Home Minister."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/the-lowdown/story/the-right-to-disconnect-bill-and-the-myth-of-the-unconnected-human-in-age-of-ai-2832599-2025-12-08",
-      "headline": "The Right to Disconnect Bill and the myth of the unconnected human in age of AIIn an AI-driven world where algorithms never sleep, India's Right to Disconnect Bill offers minor comfort. Because the unconnected human is a myth, our attention belongs to the endless hum of digital life."
     },
     {
       "sentiment": "positive",
@@ -320,17 +320,22 @@
       "headline": "Sensex tumbles over 700 points: Why is the stock market down today?Broader markets mirrored the weak sentiment, with mid-cap and small-cap stocks witnessing sharper cuts than frontline indices. Intraday volatility also spiked, signalling heightened nervousness on Dalal Street."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/from-dhurandhar-to-mahakali-akshaye-khanna-next-chapter-2832831-2025-12-08",
-      "headline": "From Dhurandhar to Mahakali: Akshaye Khanna's next chapterAkshaye Khanna's recent portrayal in 'Dhurandhar' has drawn attention to his subtle yet impactful approach to acting, reinforcing his reputation for conveying depth with minimal dialogue. India Today delves into his new chapter as the actor will next be seen Prasanth Varma's 'Mahakali'."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/actor-rahul-bose-accused-of-fraud-in-himachal-rugby-domicile-scandal-2832872-2025-12-08",
+      "headline": "Actor Rahul Bose accused of fraud in Himachal Rugby domicile scandalA major financial scandal involving the sport of rugby has surfaced in Himachal Pradesh, leading to serious allegations of fraud against actor Rahul Bose. The controversy centres on the alleged illegal procurement of a domicile certificate, with the matter now reaching the Himachal High Court."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/rekha-honoured-at-red-sea-film-festival-during-international-premiere-of-umrao-jaan-2832809-2025-12-08",
-      "headline": "Rekha honoured at Red Sea film festival during international premiere of Umrao JaanRekha has been felicitated with the Red Sea Honouree Award, marking an important moment in her career. While receiving the award, she reflected on her silent approach to life and work, urging the audience to \"live by example.\""
+      "url": "https://www.indiatoday.in/movies/celebrities/story/from-dhurandhar-to-mahakali-akshaye-khanna-next-chapter-2832831-2025-12-08",
+      "headline": "From Dhurandhar to Mahakali: Akshaye Khanna's next chapterAkshaye Khanna's recent portrayal in 'Dhurandhar' has drawn attention to his subtle yet impactful approach to acting, reinforcing his reputation for conveying depth with minimal dialogue. India Today delves into his new chapter as the actor will next be seen Prasanth Varma's 'Mahakali'."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-sa-1st-t20i-hardik-pandya-opts-out-training-shubman-gill-returns-two-hour-net-session-cuttack-2832880-2025-12-08",
+      "headline": "Hardik Pandya opts out of training, Gill returns with intense two-hour net session IND vs SA, 1st T20I: Hardik Pandya skipped India's training session as a precaution ahead of the T20I opener, while Shubman Gill returned with a long, intense batting stint in Cuttack."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/shreyas-iyer-next-scan-december-rehab-plan-after-specialist-review-2832829-2025-12-08",
@@ -384,7 +389,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/video/ind-vs-sa-1st-t20i-toss-trick-suryakumar-yadav-press-conference-cuttack-2832685-2025-12-08",
-      "headline": "1st T20I: Suryakumar Yadav continues to be captain cool at pressers IND vs SA, 1st T20I: Suryakumar Yadav once again lived up to his \"captain cool\" persona as he fielded questions with trademark composure on the eve of the first T20I against South Africa. Asked about India's unusual new approach at the toss and the team's recent streak of losses, Suryakumar dismissed any fuss around the method, saying he was more than happy to follow KL Rahul's lead for the series. \"I'll do it with my left hand as well,\" he smiled."
+      "headline": "1st T20I: Suryakumar Yadav continues to be captain cool at pressersIND vs SA, 1st T20I: Suryakumar Yadav once again lived up to his \"captain cool\" persona as he fielded questions with trademark composure on the eve of the first T20I against South Africa. Asked about India's unusual new approach at the toss and the team's recent streak of losses, Suryakumar dismissed any fuss around the method, saying he was more than happy to follow KL Rahul's lead for the series. \"I'll do it with my left hand as well,\" he smiled."
     },
     {
       "sentiment": "positive",
@@ -480,11 +485,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/video/india-vs-south-africa-men-in-blue-arrive-in-bhubaneswar-for-t20-series-opener-ytvd-2832287-2025-12-08",
       "headline": "India vs South Africa: Men in Blue Arrive in Bhubaneswar for T20 Series OpenerOn this news bulletin, the focus is on the Indian cricket team's arrival in Bhubaneswar ahead of the highly anticipated five-match T20 series against South Africa. The series opener is scheduled for tomorrow, December 9, at the Barabati Stadium in Cuttack. Visuals capture a grand welcome for the 'Men in Blue' with enthusiastic fans cheering and traditional drumming resonating around the airport arrival area. The team, led by captain Suryakumar Yadav, looks to continue their winning momentum after successfully wrapping up the ODI series. The programme highlights the palpable excitement building up in Odisha as the cricketing action shifts to the shortest format. Security and arrangements are in place as the city gears up to host the international fixture."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-sa-rohit-sharma-virat-kohli-gautam-gambhir-odi-world-cup-2027-2832263-2025-12-08",
-      "headline": "Ro-Ko against the world: How Rohit, Kohli are pushing each other to World Cup 2027Rohit Sharma and Virat Kohli have started pushing each other on the field to keep themselves ready for their mission of making it to the 2027 World Cup. Along with lifting themselves up, the South Africa series underlined their importance to the Indian squad with their experience and vibes.\u00a0"
     }
   ],
   "education": [
