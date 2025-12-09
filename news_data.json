@@ -2,6 +2,11 @@
   "business": [
     {
       "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/market/story/sensex-ends-over-400-points-lower-nifty-below-25900-as-fii-selling-hits-sentiments-2833208-2025-12-09",
+      "headline": "Sensex ends over 400 points lower, Nifty below 25,900 as FII selling hits sentimentsSensex ends over 400 points lower, Nifty below 25,900 as FII selling hits sentiments"
+    },
+    {
+      "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/personal-finance/story/still-waiting-for-your-tax-refund-5-common-itr-errors-and-how-to-correct-them-2833121-2025-12-09",
       "headline": "Still waiting for your tax refund? 5 common ITR errors and how to correct themIf your tax refund is taking longer than usual, you're not the only one. In most cases, the delay isn't due to the system but small filing mistakes that can easily be fixed."
     },
@@ -94,14 +99,19 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/personal-finance/story/can-betting-everything-on-one-stock-destroy-9-out-of-10-portfolios-2832488-2025-12-08",
       "headline": "Can betting everything on one stock destroy 9 out of 10 portfolios?Can a single stock, no matter how strong it looks, quietly wipe out years of your savings if the market turns? Have a look."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/market/story/sensex-ends-over-600-points-lower-nifty-falls-below-26000-as-fii-selling-spooks-d-street-2832542-2025-12-08",
-      "headline": "Sensex slides 600 points, Nifty slips below 26,000 as FII selling spooks Dalal StreetThe S&P BSE Sensex plunged 609.68 points to close at 85,102.69, while the NSE Nifty50 slipped 225.90 points to settle at 25,960.55. "
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/japanese-fan-tells-ram-charan-she-watched-rrr-100-times-gets-emotional-watch-2833160-2025-12-09",
+      "headline": "I saw RRR 100 times: Teary-eyed Japanese fan tells Ram Charan, video goes viral A group of Japanese fans travelled to Hyderabad to meet Ram Charan, and one of them grew emotional as she told the actor she had watched RRR \"100 times.\""
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/tamannaah-bhatia-to-play-v-shantarams-second-wife-in-biopic-see-1st-look-poster-2833134-2025-12-09",
+      "headline": "Tamannaah Bhatia to play V Shantaram's second wife in biopic. See 1st look poster Actor Tamannaah Bhatia is set to play cinema icon V Shantaram's second wife, Jayashree. The makers unveiled her first look poster today. "
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/aishwarya-rai-bachchan-clarifies-aaradhya-not-on-social-media-flags-fake-profile-2833155-2025-12-09",
@@ -186,16 +196,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/television/story/tv-actor-zeeshan-khan-minor-car-accident-mumbai-yari-road-senior-citizens-2833020-2025-12-09",
       "headline": "TV actor Zeeshan Khan's car rams into another vehicle in Mumbai TV actor Zeeshan Khan was involved in a minor car accident late last night in Mumbai. Both parties escaped injury, but police are investigating the cause of the collision."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/will-dhurandhar-mark-ranveer-singhs-return-as-a-box-office-frontrunner-2832603-2025-12-09",
-      "headline": "Will Dhurandhar mark Ranveer Singh's return as a box office frontrunner? After years of noise, misfires and stalled projects, Ranveer Singh needed a reset. Dhurandhar arrives as the first real spark of a shifting narrative."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/rhea-chakraborty-opens-up-on-egg-freezing-2833016-2025-12-09",
-      "headline": "Your body clock is telling you: Rhea Chakraborty opens up on egg freezing Rhea Chakraborty shared that she is considering egg freezing at 33, reflecting on the pressure women face while balancing biological timelines with career ambitions."
     }
   ],
   "general news": [
@@ -205,9 +205,14 @@
       "headline": "Duty rules non-negotiable: Minister talks tough on IndiGo, bats for new airlinesThe Aviation Minister said IndiGo operations were stabilising across airports even as he firmly underscored that no airline, however large, would be permitted to cause such hardships to passengers."
     },
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/goa-cm-orders-demolition-of-another-club-owned-by-luthra-brothers-blue-corner-notice-issued-after-fire-2833187-2025-12-09",
+      "headline": "Goa CM orders demolition of another Luthra club; Blue Corner notice issuedGoa Chief Minister Pramod Sawant has ordered immediate demolition of illegal clubs run by the Luthra brothers following the tragic fire at their Arpora nightclub that claimed 25 lives. The government has intensified its crackdown amid allegations of political protection and years of ignored complaints.\r\n"
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/parliament-winter-session-2025-live-updates-vande-mataram-rajya-sabha-debate-electoral-reforms-discussion-rahul-gandhi-congress-bjp-2832949-2025-12-09",
-      "headline": "Live: Kharge rebuts Amit Shah, says Congress led freedom struggle, Sangh served BritishParliament Winter Session Live Updates: A day after PM Narendra Modi initiated the Vande Mataram discussion in the Lok Sabha, the Opposition kicked off a debate on election reforms in the Lower House today. While Congress MP Manish Tewari opened the two-day debate, Leader of the Opposition, Rahul Gandhi, is expected to join later. The opposition has been seeking a discussion on the Special Intensive Revision (SIR) of electoral rolls since Parliament's Monsoon Session, but the Centre suggested a broader debate on election reforms, noting that the Election Commission is an independent constitutional body. Stay tuned to indiatoday.in for all the latest updates."
+      "headline": "Live: Rahul Gandhi set to speak in Lok Sabha shortly on SIR debateParliament Winter Session Live Updates: A day after PM Narendra Modi initiated the Vande Mataram discussion in the Lok Sabha, the Opposition kicked off a debate on election reforms in the Lower House today. While Congress MP Manish Tewari opened the two-day debate, Leader of the Opposition, Rahul Gandhi, is expected to join later. The opposition has been seeking a discussion on the Special Intensive Revision (SIR) of electoral rolls since Parliament's Monsoon Session, but the Centre suggested a broader debate on election reforms, noting that the Election Commission is an independent constitutional body. Stay tuned to indiatoday.in for all the latest updates."
     },
     {
       "sentiment": "positive",
@@ -216,18 +221,33 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/pakistan-set-to-create-new-provinces-experts-warn-more-harm-than-good-governance-issues-2832787-2025-12-09",
-      "headline": "After decades, Pakistan to be divided again;\u00a0more harm than good, say expertsAfter decades of political hesitation, the long-debated proposal of administrative restructuring of Pakistan is back on the table. Pakistani minister Abdul Aleem Khan has said that carving out smaller provinces is now inevitable. However, experts say that the proposal could do more harm than good."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/opinion/story/dhurandhar-proves-india-can-handle-the-truth-without-burning-a-bus-2833120-2025-12-09",
       "headline": "Dhurandhar proves India can handle the truth without burning a busThe masses, which were always handled by the kid gloves of the intellectual elite, quarantined from the harsh past lest they revolt, have suddenly started accessing history beyond their textbooks."
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/pakistan-set-to-create-new-provinces-experts-warn-more-harm-than-good-governance-issues-2832787-2025-12-09",
+      "headline": "After decades, Pakistan to be divided again;\u00a0more harm than good, say expertsAfter decades of political hesitation, the long-debated proposal of administrative restructuring of Pakistan is back on the table. Pakistani minister Abdul Aleem Khan has said that carving out smaller provinces is now inevitable. However, experts say that the proposal could do more harm than good."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/babri-masjid-bengal-humayun-kabir-namesake-tmc-mla-donations-2833181-2025-12-09",
+      "headline": "Humayun Kabir laid Babri Masjid stone. Another Humayun Kabir has phone buzzingSuspended Trinamool MLA Humayun Kabir's call for donations for a Babri Masjid-style mosque in Bengal has ended with his fellow namesake MLA getting flooded with endless phone calls."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-350-players-finalised-for-auction-quinton-de-kock-makes-surprise-entry-2832984-2025-12-09",
       "headline": "350 players in auction shortlist, in-form wicketkeeper makes surprise entryThe BCCI has unveiled the full list of players finalised for the IPL 2026 auction scheduled to be held in Abu Dhabi on December 16. 240 Indians and 110 overseas players will go under the hammer during the bidding event."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/akshaye-khanna-proves-again-why-he-is-the-dhurandhar-of-actors-in-bollywood-2833030-2025-12-09",
+      "headline": "Akshaye Khanna proves again why he is the Dhurandhar of actors in BollywoodIf Chhava earlier this year restored Akshaye Khanna to the mainstream conversation, Dhurandhar has pushed the actor firmly into the centre of it"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/seven-storey-building-catches-fire-in-indonesias-jakarta-20-killed-2833201-2025-12-09",
+      "headline": "Seven-storey building catches fire in Indonesia's Jakarta, 20 killedThick black smoke billowed into the sky as flames rapidly spread through the structure, triggering panic among nearby residents and office workers in the busy Central Jakarta neighbourhood. The fire started on the first floor around midday, spreading to the upper levels where some employees were having lunch while others were outside."
     },
     {
       "sentiment": "positive",
@@ -241,8 +261,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/akshaye-khanna-proves-again-why-he-is-the-dhurandhar-of-actors-in-bollywood-2833030-2025-12-09",
-      "headline": "Akshaye Khanna proves again why he is the Dhurandhar of actors in BollywoodIf Chhava earlier this year restored Akshaye Khanna to the mainstream conversation, Dhurandhar has pushed the actor firmly into the centre of it"
+      "url": "https://www.indiatoday.in/movies/celebrities/story/actor-danish-pandor-says-akshaye-khannas-viral-dance-was-fully-improvised-2832940-2025-12-09",
+      "headline": "Akshaye Khanna's viral Dhurandhar dance was fully spontaneous: Actor\u00a0Danish\u00a0PandorAkshaye Khanna's viral entry scene in Dhurandhar has captured the internet, with Danish Pandor sharing that the actor's crowd-pleasing dance was completely improvised. The moment has amplified the film's growing buzz, adding to the praise for its performances and stylish execution."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/gannons-storm-solar-event-indian-scientists-magnetic-reconnection-impact-2833209-2025-12-09",
+      "headline": "Isro's Aditya-L1 reveals what made 2024 solar storm so dangerousIndian solar mission Aditya-L1 has helped reveal how the Sun's most intense storm in over two decades unleashed severe effects on Earth."
     },
     {
       "sentiment": "negative",
@@ -256,31 +281,6 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/pm-modi-indigo-crisis-flight-cancellations-nda-parliamentary-meetings-laws-dgca-rules-harass-citizens-rijiju-2833045-2025-12-09",
-      "headline": "Rules must ease life, not trouble people: PM's message for ministers, MPs at NDA meetPrime Minister Modi told NDA lawmakers that there should not be any such law or rule that unnecessarily troubles the common citizens. He was addressing a meeting of NDA MPs when he made this comment."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/actor-danish-pandor-says-akshaye-khannas-viral-dance-was-fully-improvised-2832940-2025-12-09",
-      "headline": "Akshaye Khanna's viral Dhurandhar dance was fully spontaneous: Actor\u00a0Danish\u00a0PandorAkshaye Khanna's viral entry scene in Dhurandhar has captured the internet, with Danish Pandor sharing that the actor's crowd-pleasing dance was completely improvised. The moment has amplified the film's growing buzz, adding to the praise for its performances and stylish execution."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/indigo-meltdown-civil-aviation-minister-k-ram-mohan-naidu-centre-meeting-airline-operators-2832923-2025-12-09",
-      "headline": "Nearly 500 IndiGo flights cancelled today; Centre cuts airline's routes by 5%In response to the large-scale disruptions, the\u00a0Ministry of Civil Aviation (MoCA) has directed IndiGo to reduce 5 per cent of its winter schedule flights."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/hardik-pandya-girlfriend-mahieka-sharma-mumbai-photographers-insta-statement-2833143-2025-12-09",
-      "headline": "Cheap sensationalism: Hardik Pandya slams paps over girlfriend Mahieka's photoHardik Pandya has criticised paparazzi for invading his girlfriend Mahieka Sharma's privacy when she was returning from a restaurant in Mumbai on Tuesday. He emphasised the need for dignity and boundaries, urging media to act responsibly."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/ahmedabad-couples-dispute-over-onion-garlic-ends-in-divorce-after-11-years-of-marriage-2833072-2025-12-09",
-      "headline": "Ahmedabad couple's dispute over onion-garlic ends in divorce after 11 years of marriageAn Ahmedabad couple's 11-year marriage ended in divorce over a dispute about onion and garlic use, which led to the wife taking the case to Gujarat High Court."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/ranveer-singh-dhurandhar-trailer-karachi-lyari-reactions-2833118-2025-12-09",
       "headline": "What Karachi's Lyari thinks of Dhurandhar and Ranveer Singh? Check this outRanveer Singh's Dhurandhar trailer has sparked witty reactions in Karachi's Lyari neighbourhood. Locals responded with humour and pride."
     },
@@ -291,13 +291,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/saudi-arabia-selling-alcohol-non-muslim-residents-2833051-2025-12-09",
-      "headline": "In a 1st, Saudi starts selling booze to non-Muslims. But there is a barThe development marks a notable policy shift in the Islamic country, home to the religion's two holiest sites. Last year, Riyadh got its first liquor store after more than 70 years."
+      "url": "https://www.indiatoday.in/india/story/pm-modi-indigo-crisis-flight-cancellations-nda-parliamentary-meetings-laws-dgca-rules-harass-citizens-rijiju-2833045-2025-12-09",
+      "headline": "Rules must ease life, not trouble people: PM's message for ministers, MPs at NDA meetPrime Minister Modi told NDA lawmakers that there should not be any such law or rule that unnecessarily troubles the common citizens. He was addressing a meeting of NDA MPs when he made this comment."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/mysterious-ghostly-ring-encircles-the-moon-over-canada-heres-what-it-was-2833098-2025-12-09",
-      "headline": "Ghostly ring encircles the Moon over Canada. Here's what it wasThe formation, known as a lunar parhelic circle, is among the rarest atmospheric displays. "
+      "url": "https://www.indiatoday.in/india/story/indigo-meltdown-civil-aviation-minister-k-ram-mohan-naidu-centre-meeting-airline-operators-2832923-2025-12-09",
+      "headline": "Nearly 500 IndiGo flights cancelled today; Centre cuts airline's routes by 5%In response to the large-scale disruptions, the\u00a0Ministry of Civil Aviation (MoCA) has directed IndiGo to reduce 5 per cent of its winter schedule flights."
     },
     {
       "sentiment": "negative",
@@ -306,31 +306,36 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/real-estate/story/why-young-wealthy-gen-z-indians-are-skipping-the-west-for-dubai-2832010-2025-12-07",
-      "headline": "Why young, wealthy Indians are skipping the West for DubaiIs Dubai becoming the new dream destination for India's young achievers? What factors are prompting them to look East instead of West? Let's have a look."
+      "url": "https://www.indiatoday.in/trending-news/story/ahmedabad-couples-dispute-over-onion-garlic-ends-in-divorce-after-11-years-of-marriage-2833072-2025-12-09",
+      "headline": "Ahmedabad couple's dispute over onion-garlic ends in divorce after 11 years of marriageAn Ahmedabad couple's 11-year marriage ended in divorce over a dispute about onion and garlic use, which led to the wife taking the case to Gujarat High Court."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/featurephilia/story/certificate-parenting-india-impact-student-mental-health-learning-2833091-2025-12-09",
-      "headline": "FOMO Parenting: Are we sacrificing childhood for a fear of falling behind?Parents across India are increasingly collecting certificates to enhance children's academic profiles. Educators warn this trend causes anxiety and undermines genuine learning."
+      "url": "https://www.indiatoday.in/world/story/saudi-arabia-selling-alcohol-non-muslim-residents-2833051-2025-12-09",
+      "headline": "In a 1st, Saudi starts selling booze to non-Muslims. But there is a barThe development marks a notable policy shift in the Islamic country, home to the religion's two holiest sites. Last year, Riyadh got its first liquor store after more than 70 years."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/cities/bhopal/story/babri-masjid-style-mosque-protest-bhopal-tension-babar-banners-2833182-2025-12-09",
+      "headline": "Cops foil Hindu group's toilet-renaming bid to protest Bengal 'Babri' mosqueA Hindu group protested against the construction of a Babri Masjid-style mosque in West Bengal, leading to clashes with police in Bhopal. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/indian-origin-youtube-leader-neel-mohan-studied-sanskrit-hindi-chosen-as-time-2025-ceo-of-the-year-lucknow-us-google-2833074-2025-12-09",
-      "headline": "Indian-origin YouTube head who studied in Lucknow is TIME's 2025 CEO of the YearYouTube head Neal Mohan has been named TIME's 2025 CEO of the Year for shaping the cultural diet of billions. The Indian-American CEO has strengthened YouTube's dominance since 2023, expanding TV viewership and Shorts. He did his high school in Lucknow, studying Hindi and Sanskrit."
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/japanese-fan-tells-ram-charan-she-watched-rrr-100-times-gets-emotional-watch-2833160-2025-12-09",
+      "headline": "I saw RRR 100 times: Teary-eyed Japanese fan tells Ram Charan, video goes viralA group of Japanese fans travelled to Hyderabad to meet Ram Charan, and one of them grew emotional as she told the actor she had watched RRR \"100 times.\""
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/video/dileep-casts-vote-in-aluva-a-day-after-being-acquitted-in-2017-actor-assault-case-2833180-2025-12-09",
-      "headline": "Dileep casts vote in Aluva, a day after being acquitted in 2017 actor assault caseDileep arrived with Kavya Madhavan to cast their vote in the 2026 Kerala local body elections. His appearance comes a day after being acquitted in the 2017 actor assault case."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/aishwarya-rai-bachchan-clarifies-aaradhya-not-on-social-media-flags-fake-profile-2833155-2025-12-09",
-      "headline": "Aishwarya Rai clarifies Aaradhya is not on social media, flags fake profileActor Aishwarya Rai Bachchan recently addressed speculation regarding her daughter Aaradhya's social media presence. She was speaking to the media on the sidelines of the Red Sea Film Festival."
+      "url": "https://www.indiatoday.in/movies/celebrities/story/tamannaah-bhatia-to-play-v-shantarams-second-wife-in-biopic-see-1st-look-poster-2833134-2025-12-09",
+      "headline": "Tamannaah Bhatia to play V Shantaram's second wife in biopic. See 1st look posterActor Tamannaah Bhatia is set to play cinema icon V Shantaram's second wife, Jayashree. The makers unveiled her first look poster today. "
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/wasim-akram-on-ipl-vs-psl-comparison-ipl-long-length-2833147-2025-12-09",
+      "headline": "Did Wasim Akram take a dig at IPL? Legendary pacer questions length of T20 leagues At a PCB event ahead of the 2026 edition, Wasim Akram drew comparisons between the PSL and other T20 leagues, mentioning that PSL's compact and high-tempo format is a lot better than other lengthy T20 leagues."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/sanju-samsons-uncertain-spot-india-t20i-squad-jitesh-sharma-finisher-2833152-2025-12-09",
@@ -384,7 +389,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/josh-hazlewood-out-of-ashes-achilles-injury-pat-cummins-fit-for-third-test-2832969-2025-12-09",
-      "headline": "Josh Hazlewood ruled out of Ashes, Pat Cummins set to return for Adelaide Test Australia fast bowler Josh Hazlewood has been ruled out of the entire Ashes series due to an Achilles injury. However, captain Pat Cummins is set to return for the third Test, bolstering Australia's pace attack as they hope to secure an unassailable 3-0 series lead."
+      "headline": "Josh Hazlewood ruled out of Ashes, Pat Cummins set to return for Adelaide TestAustralia fast bowler Josh Hazlewood has been ruled out of the entire Ashes series due to an Achilles injury. However, captain Pat Cummins is set to return for the third Test, bolstering Australia's pace attack as they hope to secure an unassailable 3-0 series lead."
     },
     {
       "sentiment": "positive",
@@ -480,11 +485,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/gautam-gambhir-press-parth-jindal-aakash-chopra-stop-picking-fight-2832681-2025-12-08",
       "headline": "Gautam Gambhir advised to stop picking fights after jibe at Parth JindalAakash Chopra has urged Gautam Gambhir to moderate his tone following a fiery press conference after India's ODI series win against South Africa. The advice comes amid Gambhir's criticism of media and Delhi Capitals co-owner Parth Jindal."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/video/ind-vs-sa-1st-t20i-toss-trick-suryakumar-yadav-press-conference-cuttack-2832685-2025-12-08",
-      "headline": "1st T20I: Suryakumar Yadav continues to be captain cool at pressersIND vs SA, 1st T20I: Suryakumar Yadav once again lived up to his \"captain cool\" persona as he fielded questions with trademark composure on the eve of the first T20I against South Africa. Asked about India's unusual new approach at the toss and the team's recent streak of losses, Suryakumar dismissed any fuss around the method, saying he was more than happy to follow KL Rahul's lead for the series. \"I'll do it with my left hand as well,\" he smiled."
     }
   ],
   "education": [
