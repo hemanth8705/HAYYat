@@ -1,6 +1,11 @@
 {
   "business": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/reforms-and-young-talent-are-powering-indias-growth-say-experts-2834027-2025-12-10",
+      "headline": "Reforms and young talent are powering India's growth, say expertsThe country's strong GDP growth and controlled inflation are \"great reasons to rejoice\", adding that robust macro factors are also helping stabilise labour markets and household well-being, said the expert."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/story/air-india-admits-compliance-culture-needs-overhaul-after-flying-airbus-without-permit-2833927-2025-12-10",
       "headline": "Air India admits compliance culture needs overhaul after flying Airbus without permitAir India last week called the Airbus November incident \"regrettable\" and said that some people had been suspended, while India's civil aviation watchdog DGCA ordered the aircraft to be grounded and called for an investigation."
@@ -94,14 +99,19 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/personal-finance/story/are-ulips-really-giving-14-percent-returns-or-is-it-just-smart-mis-selling-2833236-2025-12-09",
       "headline": "Are ULIPS really giving 14% returns, or is it just smart mis-selling?Can ULIPs genuinely deliver 14% returns, or are these projections built on selective calculations and hidden costs? How accurate are these projections? Expert explains. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/mehli-mistry-steps-down-from-ncpa-board-tata-trusts-vijay-singh-replaces-him-report-2833229-2025-12-09",
-      "headline": "Mehli Mistry steps down from NCPA board, Tata Trusts' Vijay Singh replaces him: ReportMehli Mistry was on the NCPA council as a nominee of the Sir Dorabji Tata Trust and served alongside other Trusts' representatives, including Jehangir H. Jehangir and Pramit Jhaveri."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/rajinikanth-padayappa-film-re-release-25-years-75th-birthday-celebration-2833975-2025-12-10",
+      "headline": "Padayappa at 25: Ten facts you didn't know about the Rajinikanth classic As the Rajinikanth blockbuster is set to re-release in theatres on December 12, marking 50 years of the superstar's journey in the film industry and 25 years of the film's release, here are 10 things you might not know about the film."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/padayappa-trailer-rajinikanth-1999-hit-returns-ahead-of-his-75th-birthday-2833991-2025-12-10",
+      "headline": "Padayappa trailer: Rajinikanth's 1999 hit returns ahead of his 75th birthday The trailer for Rajinikanth's iconic film 'Padayappa' has been released as the movie prepares for a theatrical re-release on December 12. The re-release coincides with the actor's 75th birthday. "
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/aryan-khans-bads-of-bollywood-is-imdbs-most-popular-indian-ott-show-of-2025-2833969-2025-12-10",
@@ -186,28 +196,18 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/shah-rukh-khan-named-new-york-times-most-stylish-people-2025-met-gala-debut-2833732-2025-12-10",
       "headline": "Shah Rukh Khan named among The New York Times' 67 Most Stylish People Shah Rukh Khan has been recognised by the New York Times for his appearance at the Met Gala, joining international celebrities on the 2025 Most Stylish People list."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/vishal-dadlani-10-hour-vande-mataram-debate-indian-parliament-criticism-2833702-2025-12-10",
-      "headline": "Vishal Dadlani criticises Parliament's 10-hour Vande Mataram debate Bollywood composer Vishal Dadlani has criticised India's Parliament for holding a 10-hour debate on Vande Mataram, raising concerns that major national issues are being overlooked in favour of symbolic topics."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/why-akshaye-khanna-viral-sher-e-baloch-song-is-dhurandhar-most-explosive-turning-point-2833676-2025-12-10",
-      "headline": "Why Akshaye Khanna's viral Sher-e-Baloch song is Dhurandhar's most explosive twist Sher-e-Baloch from Dhurandhar has gone viral for its swagger, but the song holds the film's most crucial narrative twist. It exposes its characters and flips the narrative, even setting the scene for the second part."
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/rahul-gandhi-dares-amit-shah-challenge-debate-parliament-vote-chori-sir-2833951-2025-12-10",
-      "headline": "I will decide what to say: Amit Shah fires back at Rahul Gandhi's debate dare Live UpdatesTensions flared in the Lok Sabha after Rahul Gandhi interrupted Union Home Minister Amit Shah's speech on SIR to challenge him to a debate on alleged vote theft. "
+      "headline": "I will decide what to say: Amit Shah fires back at Rahul Gandhi's debate dareTensions flared in the Lok Sabha after Rahul Gandhi interrupted Union Home Minister Amit Shah's speech on SIR to challenge him to a debate on alleged vote theft. "
     },
     {
-      "sentiment": "negative",
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/vote-chori-happened-under-nehru-indira-gandhi-sonia-became-voter-before-becoming-indian-amit-shah-hits-back-2833957-2025-12-10",
-      "headline": "Nehru-Indira era saw vote chori, Sonia a voter before Indian citizen:\u00a0Amit\u00a0ShahUnion Home Minister Amit Shah strongly defended the Special Intensive Revision of electoral rolls, countering Congress's allegations of vote theft and highlighting historical precedents of electoral reforms. He emphasised the constitutional mandate of the Election Commission and criticised the Opposition for politicising the process.\r\n"
+      "headline": "Nehru, Indira did vote chori: Amit Shah goes all guns blazing\u00a0on\u00a0GandhisUnion Home Minister Amit Shah launched a strong critique of Congress over historical and present electoral irregularities, highlighting alleged vote chori dating back to Nehru's era."
     },
     {
       "sentiment": "positive",
@@ -235,9 +235,9 @@
       "headline": "Tirumala now rocked by Rs 54-cr silk dupatta scam after fake ghee, donation theft rowsA new scam surfaced at Tirumala Tirupati Devasthanam, with vigilance officials detecting fake silk dupattas supplied between 2015 and 2025. The alleged fraud is pegged at over Rs 54 crore."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/bjps-partying-jab-at-rahul-gandhi-for-germany-trip-priyanka-gandhi-hits-back-2833789-2025-12-10",
-      "headline": "Leader of partying: BJP jabs Rahul Gandhi for Germany trip, Priyanka Gandhi hits backCongress MP Rahul Gandhi will embark on a trip to Berlin from December 15 to 20, during which he is expected to meet German government officials and engage with the Indian diaspora.\r\n"
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/why-us-investing-over-one-billion-dollars-in-pakistan-reko-diq-balochistan-everyone-surprised-insurgency-copper-gold-mine-2833930-2025-12-10",
+      "headline": "Why US investing $1.25 billion in Pak's Reko Diq is a high-risk gambleThe US has announced that the Exim Bank will finance a $1.25-billion investment in Pakistan's Reko Diq mines. There are several reasons why this is a high-risk bet. One, these underdeveloped copper-gold mines are in militancy-hit Balochistan. Land disputes and lack of infrastructure facilities have kept mining work stagnant for years."
     },
     {
       "sentiment": "positive",
@@ -245,14 +245,14 @@
       "headline": "Rehman Dakait no big don: Dhurandhar cop Aslam's wife tells unheard storiesRehman Dakait, who committed his violent crime at the age of 13, lived only for 34 years but in those years, he committed Karachi's most gruesome murders.\u00a0At 13, he stabbed someone and at the age of 19, he murdered his own mother."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/h1b-interview-for-indians-put-off-by-months-linked-to-social-media-vetting-us-visa-trump-f1-h4-interview-postponed-2833719-2025-12-10",
-      "headline": "H-1B interview for Indians put off by months. Is it linked to social-media vetting?The US has postponed H-1B visa interviews in India at the last minute, triggering chaos. The development comes days after the US State Department asked H-1B and H-4 visa applicants to make their social media accounts public. Is the postponing of H-1B interviews linked to online-profile checks? Here's what we know."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/bjps-partying-jab-at-rahul-gandhi-for-germany-trip-priyanka-gandhi-hits-back-2833789-2025-12-10",
+      "headline": "Leader of partying: BJP jabs Rahul Gandhi for Germany trip, Priyanka Gandhi hits backCongress MP Rahul Gandhi will embark on a trip to Berlin from December 15 to 20, during which he is expected to meet German government officials and engage with the Indian diaspora.\r\n"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/prime-witness-shahjahan-sheikh-against-trinamool-strongman-killed-in-accident-en-route-to-court-2833837-2025-12-10",
-      "headline": "Son of key witness against Trinamool leader dies in accident, father injuredThey were on their way to the Basirhat Sub-Divisional Court for a hearing when the accident occurred. This has led to strong suspicions of foul play and demands for a thorough CBI investigation into the circumstances of the accident."
+      "url": "https://www.indiatoday.in/world/us-news/story/h1b-interview-for-indians-put-off-by-months-linked-to-social-media-vetting-us-visa-trump-f1-h4-interview-postponed-2833719-2025-12-10",
+      "headline": "H-1B interview for Indians put off by months. Is it linked to social-media vetting?The US has postponed H-1B visa interviews in India at the last minute, triggering chaos. The development comes days after the US State Department asked H-1B and H-4 visa applicants to make their social media accounts public. Is the postponing of H-1B interviews linked to online-profile checks? Here's what we know."
     },
     {
       "sentiment": "positive",
@@ -266,18 +266,18 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/prime-witness-shahjahan-sheikh-against-trinamool-strongman-killed-in-accident-en-route-to-court-2833837-2025-12-10",
+      "headline": "Son of key witness against Trinamool leader dies in accident, father injuredThey were on their way to the Basirhat Sub-Divisional Court for a hearing when the accident occurred. This has led to strong suspicions of foul play and demands for a thorough CBI investigation into the circumstances of the accident."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/padayappa-trailer-rajinikanth-1999-hit-returns-ahead-of-his-75th-birthday-2833991-2025-12-10",
+      "headline": "Padayappa trailer: Rajinikanth's 1999 hit returns ahead of his 75th birthdayThe trailer for Rajinikanth's iconic film 'Padayappa' has been released as the movie prepares for a theatrical re-release on December 12. The re-release coincides with the actor's 75th birthday. "
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/indias-pm-home-minister-follow-rss-ideology-amit-shah-hits-back-at-opposition-electoral-reforms-2833995-2025-12-10",
       "headline": "India's PM, Home Minister follow RSS ideology: Amit Shah hits back at OppositionThe Lok Sabha on Wednesday witnessed an intense showdown between Leader of Opposition Rahul Gandhi and Amit Shah over electoral reforms, with the latter accusing Rahul's great-grandfather Jawaharlal Nehru of engaging in vote-chori to become the first Prime Minister of the country.\u00a0"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/kedareshwar-mahadev-mandir-etawah-inspired-kedarnath-akhilesh-yadav-political-allegations-2833971-2025-12-10",
-      "headline": "Is it wise? Akhilesh Yadav jabs BJP over Ayodhya visit row, gives 'Ram bhakt' dareAkhilesh Yadav said that in Etawah, the new Kedareshwar temple will have child-like forms of Sri Ram and Lord Krishna, and he issued a challenge: \"I will ask BJP people, if they are true bhakts, to install Sri Ram's child-like form at Kedarnath temple's entrance.\""
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/featurephilia/story/11-free-iit-courses-to-learn-data-science-and-analytics-with-credits-2833723-2025-12-10",
-      "headline": "IITs are offering 11 free data science and analytics courses. Join by Jan 26Here are 11 free NPTEL data science and analytics courses from leading IITs cover graph theory, Bayesian modelling, Python, R, databases and big-data stats. These are all free to audit, and enrolment windows all close in January 2026."
     },
     {
       "sentiment": "positive",
@@ -286,18 +286,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/auto/cars/story/new-kia-seltos-variants-explained-detailed-breakdown-of-all-trims-2833845-2025-12-10",
-      "headline": "New Kia Seltos variants explained: Detailed breakdown of all trimsKia has refreshed the Seltos with a wider, feature-rich variant lineup, multiple powertrain options and premium upgrades across the range, offering buyers and a tech-forward midsize SUV experience."
+      "url": "https://www.indiatoday.in/india/story/kedareshwar-mahadev-mandir-etawah-inspired-kedarnath-akhilesh-yadav-political-allegations-2833971-2025-12-10",
+      "headline": "Is it wise? Akhilesh Yadav jabs BJP over Ayodhya visit row, gives 'Ram bhakt' dareAkhilesh Yadav said that in Etawah, the new Kedareshwar temple will have child-like forms of Sri Ram and Lord Krishna, and he issued a challenge: \"I will ask BJP people, if they are true bhakts, to install Sri Ram's child-like form at Kedarnath temple's entrance.\""
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/rajinikanth-padayappa-re-release-celebrates-50-years-iconic-tamil-cinema-2833816-2025-12-10",
-      "headline": "Why Rajinikanth's Padayappa remains a monumental film in his 50-year careerRajinikanth's Padayappa is re-released to mark his 75th birthday and 50 years in cinema. The film's timeless appeal highlights the actor's enduring star power and cinematic legacy."
+      "url": "https://www.indiatoday.in/sports/cricket/story/tejaswi-jasiwal-yashasvi-ind-vs-sa-syed-mushtaq-ali-trophy-2834005-2025-12-10",
+      "headline": "Tejaswi Jaiswal sacrificed cricket dreams. Now brother Yashasvi fuels his returnYashasvi Jaiswal's elder brother Tejaswi made his Syed Mushtaq Ali debut for Tripura. Tejaswi had earlier sacrificed his dream due to financial constraints and supported his brother by working as a salesman in Delhi."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/pm-modi-bankim-da-parliament-remark-controversy-dada-and-babu-difference-bengali-2833692-2025-12-10",
-      "headline": "Who's Da and Babu in Bengal? PM Modi's Bankim da moment sparks debateDuring a discussion on Vande Mataram in Parliament, PM Modi referred to Bankim Chandra Chattopadhyay as 'Bankim Da'. The TMC objected to it, saying PM Modi should use 'Bankim Babu' instead. The issue has become the latest flashpoint in poll-bound Bengal."
+      "url": "https://www.indiatoday.in/education-today/featurephilia/story/11-free-iit-courses-to-learn-data-science-and-analytics-with-credits-2833723-2025-12-10",
+      "headline": "IITs are offering 11 free data science and analytics courses. Join by Jan 26Here are 11 free NPTEL data science and analytics courses from leading IITs cover graph theory, Bayesian modelling, Python, R, databases and big-data stats. These are all free to audit, and enrolment windows all close in January 2026."
     },
     {
       "sentiment": "positive",
@@ -306,21 +306,36 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/auto/cars/story/new-kia-seltos-variants-explained-detailed-breakdown-of-all-trims-2833845-2025-12-10",
+      "headline": "New Kia Seltos variants explained: Detailed breakdown of all trimsKia has refreshed the Seltos with a wider, feature-rich variant lineup, multiple powertrain options and premium upgrades across the range, offering buyers and a tech-forward midsize SUV experience."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/pm-modi-bankim-da-parliament-remark-controversy-dada-and-babu-difference-bengali-2833692-2025-12-10",
+      "headline": "Who's Da and Babu in Bengal? PM Modi's Bankim da moment sparks debateDuring a discussion on Vande Mataram in Parliament, PM Modi referred to Bankim Chandra Chattopadhyay as 'Bankim Da'. The TMC objected to it, saying PM Modi should use 'Bankim Babu' instead. The issue has become the latest flashpoint in poll-bound Bengal."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/health/story/ayushmann-khurrana-says-he-sleeps-only-6-hours-a-day-doctors-call-it-slow-poison-2833907-2025-12-10",
       "headline": "Ayushmann Khurrana says he sleeps only 6 hours a day, doctors call it slow poisonAyushmann Khurrana's six-hour sleep confession has sparked a wider conversation on chronic sleep loss. Top doctors explain why cutting your sleep short can silently harm your brain, heart and immunity."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/vinod-khanna-akshaye-khanna-dance-moves-compared-viral-dhurandhar-1989-lahore-charity-video-2833629-2025-12-10",
-      "headline": "Did Akshaye channel father Vinod Khanna in Dhurandhar dance? Watch viral videoA video featuring Vinod Khanna from a 1989 charity concert in Lahore has gone viral, prompting viewers to note similarities with his son Akshaye Khanna's entry in the recent film Dhurandhar. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/up-grooms-friends-perform-dangerous-stunts-on-top-of-moving-car-fined-rs-34500-2833949-2025-12-10",
-      "headline": "UP groom's friends perform dangerous stunts on top of moving car, fined Rs 34,500A UP groom's friends were caught performing dangerous stunts on Ganga Expressway in Hapur . The police have fined the driver and warned of strict action to ensure road safety."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/csk-ipl-2026-auction-cameron-green-big-signings-overseas-all-rounder-focus-2834019-2025-12-10",
+      "headline": "Cameron Green to CSK? Chennai Super Kings mascot drops big hint before IPL auction CSK teased their IPL 2026 auction strategy through a mascot video, hinting at key overseas signings as they aim to rebuild after a poor season where they finished at the bottom of the table. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/hockey/story/jr-mens-hockey-world-cup-india-vs-argentina-report-pr-sreejesh-chennai-2834018-2025-12-10",
+      "headline": "Inspired by Paris heroes, India secure 3rd place with comeback win over Argentina Jr.men's Hockey World Cup: India secured a thrilling comeback from two goals down to beat Argentina 4-2 in the third-place playoff in Chennai on Wednesday, December 10. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/arne-slot-happy-liverpool-fans-chant-his-name-mohamed-salah-feud-2834012-2025-12-10",
+      "headline": "Arne Slot grateful as Liverpool fans chant his name amid Salah feud: Means a lot Liverpool's under-fire manager Arne Slot was grateful as fans chanted his name following his side's gritty 1\u20130 victory over Inter Milan at the San Siro, a result that delivered one of the biggest European statements of his troubled second tenure."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/tejaswi-jasiwal-yashasvi-ind-vs-sa-syed-mushtaq-ali-trophy-2834005-2025-12-10",
@@ -364,17 +379,17 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/haider-ali-pakistan-cleared-uk-police-pcb-lifts-suspension-bpl-2025-2833824-2025-12-10",
-      "headline": "PCB lifts Pakistan batter Haider Ali's suspension after rape allegation clearance PCB has lifted Haider Ali's suspension after UK authorities dropped the rape allegation, clearing him to resume his career in the upcoming BPL where he will play for Noakhali Express."
+      "headline": "PCB lifts Pakistan batter Haider Ali's suspension after rape allegation clearancePCB has lifted Haider Ali's suspension after UK authorities dropped the rape allegation, clearing him to resume his career in the upcoming BPL where he will play for Noakhali Express."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/mitchell-starc-icc-test-rankings-ashes-wickets-jasprit-bumrah-2833803-2025-12-10",
-      "headline": "Mitchell Starc threatens Jasprit Bumrah's No.1 Test ranking after Ashes heroics Mitchell Starc has surged to a career-best No. 3 in the ICC Test bowling rankings with 18 wickets in the Ashes, edging closer to Jasprit Bumrah's top spot. Starc also broke Wasim Akram's record of most Test wickets by a left-arm pacer. "
+      "headline": "Mitchell Starc threatens Jasprit Bumrah's No.1 Test ranking after Ashes heroicsMitchell Starc has surged to a career-best No. 3 in the ICC Test bowling rankings with 18 wickets in the Ashes, edging closer to Jasprit Bumrah's top spot. Starc also broke Wasim Akram's record of most Test wickets by a left-arm pacer. "
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/dinesh-karthik-london-spirit-mentor-batting-coach-the-hundred-rcb-mo-bobat-2833781-2025-12-10",
-      "headline": "After RCB stint, Dinesh Karthik begins new coaching chapter in England The Hundred: Dinesh Karthik's coaching journey has officially gone global with his move to London Spirit. After guiding RCB to an IPL title, the former India wicketkeeper now takes his tactical touch to The Hundred."
+      "headline": "After RCB stint, Dinesh Karthik begins new coaching chapter in EnglandThe Hundred: Dinesh Karthik's coaching journey has officially gone global with his move to London Spirit. After guiding RCB to an IPL title, the former India wicketkeeper now takes his tactical touch to The Hundred."
     },
     {
       "sentiment": "positive",
@@ -460,21 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/jitesh-sharma-sanju-samson-bond-india-t20-world-cup-wicketkeeper-rivalry-2833523-2025-12-10",
       "headline": "Samson is like an elder brother: Jitesh Sharma on T20 World Cup keeper rivalryIND vs SA, 1st T20I: Jitesh Sharma opened up about his relationship with Sanju Samson, describing it as one of brothers and saying the Kerala player generously shares his experience and helps him grow as a cricketer."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/hardik-pandya-team-first-reaction-cuttack-t20i-return-india-vs-south-africa-2833493-2025-12-09",
-      "headline": "No fuss, only fire: Hardik's India-first mindset powers dream Cuttack returnHardik Pandya said that he has always kept India and the team first after making his dream return in Cuttack during the first T20I against South Africa. Hardik scored a fifty to save India and help them post a big total. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-sa-1st-t20i-cuttack-jasprit-bumrah-arshdeep-singh-comment-2833491-2025-12-09",
-      "headline": "'Senior' Arshdeep welcomes 'junior' Bumrah to 100-wicket club in T20IsIND vs SA: Jasprit Bumrah completed the milestone of 100 T20I wickets during the first match of the series against South Africa. India seamer Arshdeep Singh welcomed him into the elite list with a big smile and a cheeky comment."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/cricket/story/south-africa-lowest-score-t20i-cricket-74-all-out-ind-vs-sa-cuttack-2833486-2025-12-09",
-      "headline": "South Africa 74 all out: SA collapse to lowest T20I total after India run riotSouth Africa were bundled out for 74 during the first T20I against India in Cuttack on Tuesday, handing the hosts a commanding 101-run victory. The total was South Africa's lowest in T20I cricket."
     }
   ],
   "education": [
