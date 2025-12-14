@@ -103,9 +103,14 @@
   ],
   "entertainment": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/manju-warrier-slams-2017-sexual-assault-verdict-says-justice-is-still-incomplete-2835855-2025-12-14",
+      "headline": "Manju Warrier slams 2017 sexual assault verdict, says justice is still incomplete Manju Warrier, referring to the Kerala actor assault case, said those who committed the crime were punished but the mind that planned the act walks free. Manju is the ex-wife of actor Dileep, an accused who was acquitted."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/kerala-actor-first-post-after-assault-case-verdict-lost-faith-in-trial-court-2835845-2025-12-14",
-      "headline": "Kerala actor's first post after assault case verdict: Lost faith in this trial court Nearly a week after the Kerala actor assault case verdict, the survivor has shared a post criticising the trial court. \"Not every citizen in this country is treated equally before the law,\" the survivor wrote."
+      "headline": "Kerala actor's first post after assault case verdict: Lost faith in this trial court Nearly a week after the Kerala actor assault case verdict, in which actor Dileep was acquitted and six others were convicted, the survivor has shared a post for the first time, criticising the trial court."
     },
     {
       "sentiment": "positive",
@@ -191,18 +196,13 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/kareena-kapoor-calls-daayra-director-meghna-gulzar-tigress-in-special-birthday-note-2835601-2025-12-13",
       "headline": "Kareena Kapoor calls Daayra director Meghna Gulzar tigress in special birthday note As Director Meghna Gulzar celebrated her 52nd birthday, Kareena Kapoor shared an emotional social media tribute from the sets of 'Daayra'. Kapoor called the film one of her most special projects, praising the director as kind, passionate, and sharp, and expressing gratitude for her mentorship.\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/hema-malini-honours-dharmendra-evergreen-appeal-in-special-video-tribute-2835591-2025-12-13",
-      "headline": "Hema Malini honours Dharmendra's evergreen appeal in special video tribute Actor-politician Hema Malini honoured the legacy of her late husband, Dharmendra, with a special collage video of his films and family moments, created for prayer meetings in Delhi and Mathura. The tribute highlighted his \"evergreen appeal\" and included high praise from the late actor Dilip Kumar."
     }
   ],
   "general news": [
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/gunman-opens-fire-at-australias-famous-bondi-beach-several-people-injured-news-agency-reuters-2835740-2025-12-14",
-      "headline": "12 killed in terror attack at Sydney's Bondi Beach, Jews were target Live UpdatesAt least 12 people, including children and a police officer, were killed and nearly 29 injured after gunmen opened fire at Bondi Beach during a Jewish Hanukkah event, in what police believe was a targeted, pre-planned attack."
+      "url": "https://www.indiatoday.in/world/story/jewish-hanukkah-celebration-bondi-beach-bloodbath-gunmen-mass-shooting-australia-sydney-terror-attack-2835872-2025-12-14",
+      "headline": "Jewish event at Bondi Beach turns into bloodbath after gunmen shoot dead 11 people UpdatesAustralian authorities are investigating one of the country's deadliest mass shootings in decades after a gun attack on a public religious gathering left multiple people dead and wounded. At least 12 people, including one of the gunmen, were killed in the attack."
     },
     {
       "sentiment": "positive",
@@ -217,12 +217,12 @@
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/kerala-actor-first-post-after-assault-case-verdict-lost-faith-in-trial-court-2835845-2025-12-14",
-      "headline": "Kerala actor's first post after assault case verdict: Lost faith in this trial courtNearly a week after the Kerala actor assault case verdict, the survivor has shared a post criticising the trial court. \"Not every citizen in this country is treated equally before the law,\" the survivor wrote."
+      "headline": "Kerala actor's first post after assault case verdict: Lost faith in this trial courtNearly a week after the Kerala actor assault case verdict, in which actor Dileep was acquitted and six others were convicted, the survivor has shared a post for the first time, criticising the trial court."
     },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/world/story/video-man-grabs-overpowers-bondi-beach-attacker-mass-shooting-australia-2835761-2025-12-14",
-      "headline": "Video: Man grabs, overpowers Bondi Beach attackerThe clip captures the chaotic moments during the mass shooting at Bondi Beach, with the man confronting the gunman and disarming him as others flee the scene."
+      "headline": "Video: Heroic bystander tackles, disarms Bondi Beach attackerThe clip captures the chaotic moments during the mass shooting at Bondi Beach, with the man confronting the gunman and disarming him as others flee the scene."
     },
     {
       "sentiment": "positive",
@@ -247,7 +247,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/who-is-nitin-nabin-appointed-bjp-national-working-president-after-fifth-consecutive-bankipur-win-2835842-2025-12-14",
-      "headline": "Who is Nitin Nabin, the youngest-ever BJP national President?Belonging to a political family, Nitin Nabin entered electoral politics following the death of his father, veteran BJP leader Nabin Kishore Prasad Sinha, and has retained his hold on Bankipur since his by-election victory in 2006."
+      "headline": "Who is Nitin Nabin, the Bihar MLA appointed as BJP National Working President?Belonging to a political family, Nitin Nabin entered electoral politics following the death of his father, veteran BJP leader Nabin Kishore Prasad Sinha, and has retained his hold on Bankipur since his by-election victory in 2006."
     },
     {
       "sentiment": "positive",
@@ -318,6 +318,16 @@
   "sports": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/squash-world-cup-final-india-vs-hong-kong-2835888-2025-12-14",
+      "headline": "India wins maiden squash world cup with 3-0 victory over Hong Kong India won its first-ever Squash World Cup title with a dominant 3-0 win over Hong Kong in Chennai. The historic victory marks a new high for Indian squash and could become a watershed moment for the sport in the country."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-sa-3rd-odi-varun-chakaravarthy-spins-magic-dharamsala-2nd-fastest-to-50-t20i-wickets-2835873-2025-12-14",
+      "headline": "Varun Chakaravarthy spins magic in Dharamsala, 2nd fastest Indian to 50 T20I wickets IND vs SA, 3rd T20I: Varun Chakaravarthy delivered a clinical performance in Dharamsala, rattling South Africa's middle order and becoming the second-fastest Indian to reach 50 T20I wickets."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/hardik-pandya-india-vs-south-africa-record-dharamsala-wickets-2835860-2025-12-14",
       "headline": "IND vs SA: All-round Hardik Pandya scripts history with 100 T20I wickets IND vs SA: Hardik Pandya reached the landmark of 100 T20I wickets in the Dharamsala T20I, thereby becoming the fifth cricketer in Men's T20Is to achieve the feat. He also became the third Indian in Men's T20Is with 100 wickets."
     },
@@ -359,12 +369,12 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ashes-england-security-guard-gets-involved-in-heated-face-off-with-media-person-2835749-2025-12-14",
-      "headline": "Ashes: England security guard gets involved in heated face-off with media person A confrontation unfolded at Brisbane airport when an England cricket team security official had a heated exchange with a Channel Seven cameraman during the squad's check-in for their Adelaide flight."
+      "headline": "Ashes: England security guard gets involved in heated face-off with media personA confrontation unfolded at Brisbane airport when an England cricket team security official had a heated exchange with a Channel Seven cameraman during the squad's check-in for their Adelaide flight."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/babar-azam-bbl-debut-disappointment-sydney-sixers-reactions-2835774-2025-12-14",
-      "headline": "Insult or banter? BBL trolls Babar Azam after Pakistan batter fails on debut Pakistan batter Babar Azam made a disappointing BBL debut for Sydney Sixers on December 14, scoring just two runs off five balls before being dismissed by Brody Couch, sparking online trolling.\r\n"
+      "headline": "Insult or banter? BBL trolls Babar Azam after Pakistan batter fails on debutPakistan batter Babar Azam made a disappointing BBL debut for Sydney Sixers on December 14, scoring just two runs off five balls before being dismissed by Brody Couch, sparking online trolling.\r\n"
     },
     {
       "sentiment": "positive",
@@ -455,16 +465,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-sa-3rd-t20i-preview-dharamshala-experiments-gill-suryakumar-2835586-2025-12-14",
       "headline": "IND vs SA 3rd T20I: Runs, risks and experiments to continue in cold Dharamshala?India vs South Africa 3rd T20I preview: The experiments within the Indian team is expected to continue as they take on South Africa in chilly Dharamshala on Sunday, December 13. With pressure mounting on Suryakumar and Gill, can India find the right answers to all their questions against an upbeat Proteas side?"
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/football/story/lionel-messi-in-india-kolkata-fan-paid-rs-10000-steals-carpet-instead-2835594-2025-12-13",
-      "headline": "Fan paid Rs 10,000 to see Lionel Messi in Kolkata, ends up stealing carpet insteadA Lionel Messi fan in Kolkata paid Rs 10,000 for a ticket but did not get a glimpse of the football icon as chaos forced the event to end early, leaving behind anger, damage and an unforgettable story."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/lionel-messi-in-hyderabad-goat-tour-redemption-after-kolkata-chaos-2835574-2025-12-13",
-      "headline": "Lionel Messi's GOAT Tour redeems itself in Hyderabad after Kolkata chaosAfter the chaos in Kolkata, Hyderabad delivered a fan-first Messi experience, with smooth organisation, clear sightlines and genuine player interaction, restoring faith in the GOAT tour."
     }
   ],
   "education": [
