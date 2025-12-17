@@ -103,6 +103,16 @@
   ],
   "entertainment": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/rob-reiner-and-wife-michele-found-dead-in-brentwood-double-homicide-case-2837020-2025-12-17",
+      "headline": "Rob and Michele Reiner murder case: Slit-throat cause confirmed in new details Police investigate fatal stabbing of filmmaker Rob Reiner and his wife Michele in Brentwood, Los Angeles, after their bodies were found by a family member. The couple's son, Nick, has been arrested in connection with the murders."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/nick-reiner-charged-murder-parents-rob-michele-reiner-los-angeles-knife-attack-2837017-2025-12-17",
+      "headline": "Reiner murders: Son Nick charged as District Attorney considers death penalty Los Angeles County District Attorney Nathan J Hochman has announced charges against Nick Reiner for the murders of his parents, Rob and Michele Reiner, following their discovery at their Brentwood home."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/400-crore-dhurandhar-box-office-success-highlights-ranveer-singh-understated-performance-2836989-2025-12-16",
       "headline": "Saumya Tandon praises Ranveer's maturity: He's giving the stage to Akshaye Saumya Tandon discussed Ranveer Singh's role in the film Dhurandhar, calling attention to his mature approach as praise continues to center on Akshaye Khanna. The film has surpassed the Rs 400 crore mark across India."
@@ -186,16 +196,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/films-denied-permission-will-be-screened-at-kerala-festival-cm-pinarayi-vijayan-2836805-2025-12-16",
       "headline": "Films denied permission, will be screened at Kerala festival: CM Pinarayi Vijayan Kerala Chief Minister Pinarayi Vijayan said that all films that were denied screening at the International Film Festival of Kerala (IFFK), would still be screened as part of the festival."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/ahan-shetty-shares-what-suniel-shetty-advised-him-for-border-2-2836776-2025-12-16",
-      "headline": "Ahan Shetty shares what Suniel Shetty advised him for Border 2 At the teaser launch event in Mumbai, Ahan Shetty spoke about the guidance he received from his father, Suniel Shetty, for 'Border 2'. The actor said his father advised him not to compare the film to the iconic 1997 film. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/arun-khetarpal-war-hero-biopic-ikkis-release-december-25-abhishek-bachchan-support-2836737-2025-12-16",
-      "headline": "Abhishek Bachchan praises nephew Agastya's Ikkis role: You are a sincere actor As Agastya Nanda prepares for his role as Second Lieutenant Arun Khetarpal in Sriram Raghavan's war film Ikkis, his uncle Abhishek Bachchan shared a post and highlighted the significance of portraying the decorated Indian Army officer."
     }
   ],
   "general news": [
@@ -206,8 +206,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-auction-2026-full-list-sold-unsold-retained-players-base-price-csk-pbks-srh-dc-rr-gt-lsg-rcb-mi-kkr-2836741-2025-12-16",
-      "headline": "IPL Auction 2026 full list: Green, uncapped players bag record dealsIPL 2026 Auction: The accelerated round gathered momentum as Mustafizur Rahman, Rahul Tripathi and Jason Holder all found takers for healthy sums, adding depth and experience to their respective squads. While Cameron Green and Matheesha Pathirana continued to stand tall as the two costliest buys of the auction, the real talking point of the phase was the emergence of three uncapped Indian players, who turned heads with a field day at the bidding table."
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-auction-full-squads-report-card-rating-predicted-line-up-2836998-2025-12-17",
+      "headline": "IPL 2026 auction report card: Rating the squads of all 10 teamsIPL 2026 mini-auction: Big money, bold calls and surprise steals defined the Abu Dhabi show, where all 10 teams finalised their squads after a series of fierce bidding wars on December 16. While some franchises splurged on marquee names, uncapped Indian players were also among the biggest winners as teams looked to strengthen their core. Here's how all 10 squads shaped up after an intense eight-hour auction marathon."
     },
     {
       "sentiment": "positive",
@@ -226,8 +226,8 @@
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/bondi-beach-shooters-hyderabad-connection-family-says-cut-ties-with-him-for-marrying-a-christian-terror-attack-2836750-2025-12-16",
-      "headline": "Bondi shooter migrated from Hyderabad, family cut ties for marrying ChristianSajid Akram, one of the Sydney Bondi Beach shooters, migrated from Hyderabad in 1998, says Telangana Police. He had limited contact with his family in India and visited the country only six times in 27 years."
+      "url": "https://www.indiatoday.in/movies/hollywood/story/rob-reiner-and-wife-michele-found-dead-in-brentwood-double-homicide-case-2837020-2025-12-17",
+      "headline": "Rob and Michele Reiner murder case: Slit-throat cause confirmed in new detailsPolice investigate fatal stabbing of filmmaker Rob Reiner and his wife Michele in Brentwood, Los Angeles, after their bodies were found by a family member. The couple's son, Nick, has been arrested in connection with the murders."
     },
     {
       "sentiment": "negative",
@@ -235,14 +235,19 @@
       "headline": "New video shows Jewish couple confronting Bondi Beach gunman before attackFor Boris and Sofia Gurman, taking shelter like others was never an option. While bystanders sought refuge at a nearby bus stop, an undeterred Boris charged towards the attacker and tackled the shooter to the ground, attempting to snatch his rifle as his wife stood beside him."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/mit-professor-nuno-loureiro-shot-dead-at-his-massachusetts-home-glbs-2837010-2025-12-17",
-      "headline": "MIT professor Nuno Loureiro shot at his Brookline home, dies of injuriesMIT's office confirmed Nuno Loureiro's identity and said he held senior academic and leadership roles at the institute. He was a professor in the departments of Nuclear Science & Engineering and Physics, and also served as Director of MIT's Plasma Science and Fusion Centre."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/ministry-of-defence-denies-private-industry-in-indian-delegation-at-russia-military-cooperation-meet-2836990-2025-12-16",
+      "headline": "Baseless: Defence Ministry denies private player's presence at Russia meetThe Defence Ministry on Tuesday called reports of private firms meeting Russian officials \"baseless,\" clarifying the delegation included only ministry officials."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/lionel-messi-visits-vantara-wildlife-centre-indian-traditions-modern-conservation-2836961-2025-12-16",
       "headline": "Messi goes desi: Football great prays, poses with tiger at Anant Ambani's VantaraVantara founder Anant Ambani hosted global football icon Lionel Messi at the wildlife rescue, rehabilitation and conservation centre, where the football legend's time was marked by guided tours, traditional rituals and close interactions with wildlife."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/trump-blockade-sanctioned-venezuelan-oil-tankers-maduro-tensions-glbs-2837019-2025-12-17",
+      "headline": "Trump imposes total blockade of oil tankers entering, leaving VenezuelaDonald Trump claimed oil from Venezuelan fields had been stolen and was being used to finance what he called drug terrorism, adding that the United States would no longer tolerate what he described as systematic theft and criminal activity."
     },
     {
       "sentiment": "positive",
@@ -251,8 +256,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/susie-wiles-wild-confessions-on-epstein-case-white-house-trump-jd-vance-glbs-2837014-2025-12-17",
-      "headline": "Alcoholic Trump, conspiracy theorist Vance: Inside Susie Wiles' wild confessionsWhite House's Chief of Staff Susie Wiles' took aim at Attorney General Pam Bondi's handling of the Jeffrey Epstein case and delivered unusually frank character sketches of Trump and key aides."
+      "url": "https://www.indiatoday.in/world/us-news/story/mit-professor-nuno-loureiro-shot-dead-at-his-massachusetts-home-glbs-2837010-2025-12-17",
+      "headline": "MIT professor Nuno Loureiro shot at his Brookline home, dies of injuriesMIT's office confirmed Nuno Loureiro's identity and said he held senior academic and leadership roles at the institute. He was a professor in the departments of Nuclear Science & Engineering and Physics, and also served as Director of MIT's Plasma Science and Fusion Centre."
     },
     {
       "sentiment": "positive",
@@ -261,33 +266,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/500-workers-20-days-one-city-how-dhurandhar-recreated-lyari-in-bangkok-2836747-2025-12-16",
-      "headline": "500 workers, 20 days, one city: How Dhurandhar recreated Lyari in BangkokDhurandhar's production designer reveals how Lyari was recreated on a six-acre set in Bangkok with 500 workers in just 20 days.\r\n"
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/nirav-modi-extradition-appeal-deferred-uk-court-2026-glbs-2837007-2025-12-17",
-      "headline": "UK court defers Nirav Modi plea to reopen extradition appeal until March 2026Nirav Modi's attempt to reopen his extradition appeal in the UK has been deferred till March 2026. The delay follows fresh assurances from India on his pre-trial detention conditions, impacting the high-profile fraud case."
+      "url": "https://www.indiatoday.in/india/story/mgnrega-revamp-increase-guaranteed-rural-employment-vbgramg-bill-parliament-2837000-2025-12-16",
+      "headline": "New Bill, same concern: Will VB-G RAM G miss 125-day rural work target?As Parliament debates a Bill to replace MGNREGA, concerns remain about whether an increase in guaranteed employment from the current 120 days to 125 days and a new name (VB-G RAM G) will translate into real benefits for rural households."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/mgnrega-new-bill-vb-gram-g-bill-2025-bjp-pm-modi-government-faces-questions-tdp-opposition-funding-burden-states-2836649-2025-12-16",
-      "headline": "Key BJP ally concerned over G RAM G jobs scheme. And it's not about the nameThe VB-G RAM G Bill proposes to replace the existing MGNREGA. It has created an uproar in the Opposition benches over the dropping of Mahatma Gandhi's name from India's flagship rural employment scheme. However, the Bill has also faced concerns from a key BJP ally, the Chandrababu Naidu-led TDP. It warned that the changes could strain state finances."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/bangladesh-warns-sheltering-separatist-groups-threatening-indias-seven-sisters-region-2836840-2025-12-16",
-      "headline": "Will cut off 7 Sisters from India, says Bangladesh leader; Assam CM reactsBangladesh NCP leader Hasnat Abdullah warned that Dhaka could shelter anti-India forces and threatened to \"sever the seven sisters,\" referring to India's northeastern states."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/do-you-know-what-the-colour-of-the-sun-is-its-not-yellow-or-orange-2836777-2025-12-16",
-      "headline": "Do you know what the colour of the Sun is? It's not yellow or orangeOn Earth, the Sun often appears yellow or even orange and red, particularly at sunrise and sunset. This visual shift occurs due to a phenomenon known as Rayleigh scattering."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/law-news/story/delhi-court-refuses-to-take-note-of-ed-chargesheet-against-sonia-rahul-gandhi-in-national-herald-case-2836551-2025-12-16",
-      "headline": "National Herald case against Sonia, Rahul collapses; court throws out ED chargesheetThe Court said the complaint filed by ED under the Prevention of Money Laundering Act was not maintainable as the case was based on a private complaint and not an FIR."
+      "url": "https://www.indiatoday.in/world/us-news/story/susie-wiles-wild-confessions-on-epstein-case-white-house-trump-jd-vance-glbs-2837014-2025-12-17",
+      "headline": "Alcoholic Trump, conspiracy theorist Vance: Inside Susie Wiles' wild confessionsWhite House's Chief of Staff Susie Wiles' took aim at Attorney General Pam Bondi's handling of the Jeffrey Epstein case and delivered unusually frank character sketches of Trump and key aides."
     },
     {
       "sentiment": "positive",
@@ -296,13 +281,28 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/pakistans-1971-surrender-commission-blamed-wine-women-sex-2836537-2025-12-16",
-      "headline": "How Pak let off Generals Ayub, Niazi but damned women, wine and sex for '71 defeatHalf a nation gone, 93,000 soldiers captured. And in the years that followed, Pakistan would ask itself one haunting question: How? The answer, according to the Pakistani government's own investigation, would prove more scandalous than the defeat itself. Here's a look back at the scandal as India celebrates Vijay Diwas."
+      "url": "https://www.indiatoday.in/movies/hollywood/story/nick-reiner-charged-murder-parents-rob-michele-reiner-los-angeles-knife-attack-2837017-2025-12-17",
+      "headline": "Reiner murders: Son Nick charged as District Attorney considers death penaltyLos Angeles County District Attorney Nathan J Hochman has announced charges against Nick Reiner for the murders of his parents, Rob and Michele Reiner, following their discovery at their Brentwood home."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/will-skyroot-make-vikram-i-reusable-like-spacexs-falcon-9-we-have-the-answer-2836730-2025-12-16",
-      "headline": "Will Skyroot develop a reusable rocket like Falcon-9? Founder answersThe idea of reusable rockets has transformed global spaceflight economics. SpaceX's success in routinely recovering and reflighting its boosters has reset expectations, lowering launch costs and increasing cadence."
+      "url": "https://www.indiatoday.in/world/story/us-social-media-vetting-h1b-h4-visa-delays-refusals-glbs-2837015-2025-12-17",
+      "headline": "Why do H-1B applicants get 221(g) slips? US social media checks explainedThe US State Department expanded social media screening for skilled worker visas from December 15. Instead of an approval or rejection, applicants are now being issued a 221(g) slip."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/bondi-beach-shooters-hyderabad-connection-family-says-cut-ties-with-him-for-marrying-a-christian-terror-attack-2836750-2025-12-16",
+      "headline": "Bondi shooter migrated from Hyderabad, family cut ties for marrying ChristianSajid Akram, one of the Sydney Bondi Beach shooters, migrated from Hyderabad in 1998, says Telangana Police. He had limited contact with his family in India and visited the country only six times in 27 years."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-auction-auction-highlights-10-points-csk-kkr-most-expensive-2837003-2025-12-17",
+      "headline": "IPL 2026 auction review: 10 things we learnt from bidding wars in Abu DhabiIPL Auction: The Indian Premier League mini-auction saw a total of 77 players being sold on Tuesday. Here is a concise review of the event in 10 points. From trust in uncapped players to unique auction strategies, here's everything that unfolded in Abu Dhabi on December 15."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/nirav-modi-extradition-appeal-deferred-uk-court-2026-glbs-2837007-2025-12-17",
+      "headline": "UK court defers Nirav Modi plea to reopen extradition appeal until March 2026Nirav Modi's attempt to reopen his extradition appeal in the UK has been deferred till March 2026. The delay follows fresh assurances from India on his pre-trial detention conditions, impacting the high-profile fraud case."
     },
     {
       "sentiment": "positive",
@@ -310,17 +310,17 @@
       "headline": "PM receives 'Great Honour Nishan of Ethiopia', dedicates it to 140 crore IndiansPM Modi was conferred the award in recognition of his outstanding contributions to strengthening the India-Ethiopia partnership and his visionary leadership as a global statesman."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/delhi-bans-tandoor-as-it-fights-air-pollution-control-commission-air-quality-management-caqm-grap-4-2836528-2025-12-16",
-      "headline": "Desperate Delhi bans tandoors in its fight against pollutionWith AQI at hazardous levels and no solution in sight to fight pollution, the Delhi government has banned tandoors that use coal or firewood."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/maharashtra-farmer-sells-kidney-in-cambodia-after-rs-1-lakh-loan-escalates-to-rs-74-lakh-2836900-2025-12-16",
-      "headline": "Farmer sells kidney to pay off lenders after Rs 1 lakh loan soars to Rs 74 lakhRoshan Sadashiv Kude from Maharashtra was forced to sell a kidney after illegal moneylenders drove him into extreme debt by charging high daily interest on a Rs 1 lakh loan."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/mehreen-pirzada-denies-marriage-rumours-chiranjiv-makwana-wikipedia-edits-2836966-2025-12-16",
+      "headline": "Mehreen Pirzada denies secret wedding rumours, says she stayed silent for 2 yearsMehreen Pirzada has denied reports alleging her secret marriage, criticised the spread of misinformation online, and called for greater accountability from digital platforms."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-auction-full-squads-report-card-rating-predicted-line-up-2836998-2025-12-17",
+      "headline": "IPL 2026 auction report card: Rating the squads of all 10 teams IPL 2026 mini-auction: Big money, bold calls and surprise steals defined the Abu Dhabi show, where all 10 teams finalised their squads after a series of fierce bidding wars on December 16. While some franchises splurged on marquee names, uncapped Indian players were also among the biggest winners as teams looked to strengthen their core. Here's how all 10 squads shaped up after an intense eight-hour auction marathon."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-auction-auction-highlights-10-points-csk-kkr-most-expensive-2837003-2025-12-17",
@@ -369,12 +369,12 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/story/ipl-auction-2026-csk-sarfaraz-khan-prithvi-shaw-2836931-2025-12-16",
-      "headline": "IPL auction: CSK reward Sarfaraz Khan's resilience, Delhi buy Prithvi Shaw IPL 2026 auction: Sarfaraz Khan secured an IPL contract with Chennai Super Kings for Rs 75 lakh in the 2026 mini-auction. After missing out on the last two seasons, the Mumbai batter, who has worked hard on his fitness, will be back in the IPL. "
+      "headline": "IPL auction: CSK reward Sarfaraz Khan's resilience, Delhi buy Prithvi ShawIPL 2026 auction: Sarfaraz Khan secured an IPL contract with Chennai Super Kings for Rs 75 lakh in the 2026 mini-auction. After missing out on the last two seasons, the Mumbai batter, who has worked hard on his fitness, will be back in the IPL. "
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/video/prashant-veer-csk-deal-ipl-2026-auction-interview-2836926-2025-12-16",
-      "headline": "Prashant Veer surprised with Rs 14.20 crore CSK deal: Didn't expect this much IPL 2026: In an interview with India Today, Prashant Veer said that he was surprised after the Chennai Super Kings bought him for Rs 14.20 crore in the auction on Tuesday in Abu Dhabi. "
+      "headline": "Prashant Veer surprised with Rs 14.20 crore CSK deal: Didn't expect this muchIPL 2026: In an interview with India Today, Prashant Veer said that he was surprised after the Chennai Super Kings bought him for Rs 14.20 crore in the auction on Tuesday in Abu Dhabi. "
     },
     {
       "sentiment": "positive",
@@ -460,16 +460,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-south-africa-4th-t20i-lucknow-sanju-samson-predicted-xi-2836590-2025-12-16",
       "headline": "India vs South Africa, 4th T20I Predicted XI: Will Samson get a chance in Lucknow?IND vs SA, 4th T20I: Sanju Samson has an average of 72 and a strike-rate of 194.59 against South Africa, but the right-handed batter is yet to play a match in the ongoing series. Will he get a chance in Lucknow? \r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-mini-auction-kolkata-knight-riders-matheesha-pathirana-target-death-overs-robin-uthappa-2836582-2025-12-16",
-      "headline": "KKR can find their death overs answer in Matheesha Pathirana: Robin UthappaIPL 2026 auction: Robin Uthappa feels Matheesha Pathirana could be the answer to KKR's death-overs struggles. With the biggest purse at the IPL 2026 mini-auction, KKR are well placed to make a decisive move."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/monty-panesar-ipl-2026-auction-jamie-smith-rehan-ahmed-gus-atkinson-ben-duckett-2836534-2025-12-16",
-      "headline": "MS Dhoni-like star will be the costliest English buy at IPL auction: Monty PanesarFormer England spinner Monty Panesar has backed Jamie Smith to become the most expensive English player at the IPL 2026 auction. Smith is among 21 England players registered for the auction."
     }
   ],
   "education": [
