@@ -104,6 +104,11 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/prime-video-zee5-jiohotstar-four-more-shots-4-mrs-deshpande-and-more-2837336-2025-12-18",
+      "headline": "Prime Video, ZEE5, JioHotstar: Four More Shots 4, Mrs Deshpande and more Prime Video, ZEE5 and JioHotstar are set to drop a diverse lineup of new releases on December 19, ranging from the return of Four More Shots Please! Season 4 to gripping crime and psychological thrillers. "
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/javed-akhtar-questions-face-covering-burqa-peer-pressure-soa-literary-festival-2025-bhubaneswar-2837710-2025-12-18",
       "headline": "Javed Akhtar challenges burqa logic, asks why be ashamed of your face? At the SOA Literary Festival 2025 in Bhubaneswar, celebrated lyricist Javed Akhtar responded to a student's question about women wearing burqas, sparking discussion on social pressure, choice, and dignity in personal attire."
     },
@@ -120,7 +125,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/rekha-tragic-marriage-mukesh-aggarwal-unacknowledged-love-amitabh-bachchan-2837686-2025-12-18",
-      "headline": "Rekha had Amitabh in vision, sceptical about Mukesh Agarwal's look: Bina Ramani Fashion designer Bina Ramani shared her perspective on Rekha's decision to marry Mukesh Aggarwal, despite her feelings for Amitabh Bachchan, and the subsequent scrutiny and isolation Rekha faced after Aggarwal's death."
+      "headline": "Rekha had Amitabh in vision, sceptical about Mukesh Agarwal initially: Bina Ramani Fashion designer Bina Ramani shared her perspective on Rekha's decision to marry Mukesh Aggarwal and the actor's feelings for Bollywood icon Amitabh Bachchan."
     },
     {
       "sentiment": "positive",
@@ -191,28 +196,23 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/hollywood/story/james-cameron-offers-to-film-second-unit-shots-for-ss-rajamouli-varanasi-2837466-2025-12-17",
       "headline": "James Cameron offers to film second unit shots for SS Rajamouli's Varanasi James Cameron, in a virtual interaction with SS Rajamouli, expressed his interest in being the second-unit director on the sets of the latter's film 'Varanasi'. Rajamouli recently reviewed Cameron's 'Avatar: Fire and Ash'. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/aftab-shivdasani-kasoor-2-his-most-challenging-role-yet-2837487-2025-12-17",
-      "headline": "Exclusive: Aftab Shivdasani says Kasoor 2 is his most challenging role yet Aftab Shivdasani, in an exclusive interview, spoke about his upcoming film 'Kasoor 2'. The actor revealed that this is his challenging role so far."
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/cities/delhi/story/delhi-bans-petrol-diesel-sale-without-pollution-certificate-no-entry-for-old-cars-2837705-2025-12-18",
-      "headline": "Delhi air crisis: No fuel without PUC certificate, no entry for old cars from todayFuel stations across Delhi have stopped dispensing fuel to vehicles that do not possess valid Pollution Under Control (PUC) certificates. The rule is being implemented using automatic number plate recognition (ANPR) cameras, voice alert systems at petrol pumps, and support from Delhi Police personnel."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/donald-trump-ended-eight-wars-in-10-months-india-pakistan-war-repeats-claim-tariffs-favourite-word-address-to-nation-2837688-2025-12-18",
-      "headline": "Ended 8 wars in 10 months: Trump at it again, credits favourite word 'tariffs'During his address to the nation, US President Donald Trump credited his \"favourite word\" in English language 'tariffs' behind successfully \"ending eight wars in 10 months\". He insisted tariffs were boosting the American economy despite his falling popularity and skyrocketing inflation."
+      "headline": "Delhi air crisis: No fuel without PUC certificate, no entry for old cars from todayPetrol pumps across Delhi have stopped dispensing fuel to vehicles that do not possess valid Pollution Under Control (PUC) certificates. The rule is being implemented using automatic number plate recognition (ANPR) cameras, voice alert systems at petrol pumps, and support from Delhi Police personnel."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/over-2-lakh-giving-up-indian-citizenship-each-year-what-is-behind-the-exodus-to-usa-uk-canada-australia-explained-why-2837119-2025-12-18",
       "headline": "Over 2 lakh Indians giving up citizenship each year. What's behind the exodus?The Ministry of External Affairs told the Parliament that over nine lakh Indians have given up their citizenship in the last 5 years, with over 2 lakh per year since 2022. Why are Indians renouncing citizenship in record numbers?"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/us-news/story/donald-trump-ended-eight-wars-in-10-months-india-pakistan-war-repeats-claim-tariffs-favourite-word-address-to-nation-2837688-2025-12-18",
+      "headline": "Ended 8 wars in 10 months: Trump at it again, credits favourite word 'tariffs'During his address to the nation, US President Donald Trump credited his \"favourite word\" in English language 'tariffs' behind successfully \"ending eight wars in 10 months\". He insisted tariffs were boosting the American economy despite his falling popularity and skyrocketing inflation."
     },
     {
       "sentiment": "negative",
@@ -225,9 +225,9 @@
       "headline": "Avatar: Fire and Ash review: A visual inferno trapped in emotional ashRelease Date:Fri Dec 19, 2025The scale is immense, the imagery overwhelming, and the ambition of Avatar: Fire and Ash is unmistakable. The storyline, though emotionally effective, is predictable.\r\n"
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/dense-fog-delhi-low-visibility-early-morning-surface-winds-improve-conditions-2837660-2025-12-18",
-      "headline": "Thick smog blankets Delhi-NCR, airport issues advisory; AQI remains very poorDelhi-NCR woke up to thick smog on Thursday morning in continuation with the conditions on the preceding days. Visuals showed visibility in several regions significantly reduced as the AQI in the capital saw a dip to 358, even though it remained in the very poor category."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/market/story/ola-electric-shares-fall-52-week-low-stake-sale-bhavish-aggarwal-offloading-promoter-2837729-2025-12-18",
+      "headline": "Explained: Why Ola Electric shares fell 4% to hit 52-week low todayOla Electric share price: The stock hit a low of Rs 31.54 on December 18, marking its weakest level since listing."
     },
     {
       "sentiment": "negative",
@@ -236,8 +236,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-sa-lucknow-t20i-fog-smog-match-cancelled-2837637-2025-12-18",
-      "headline": "What the smog! Visibility low, common sense lower in Lucknow T20I fiascoIND vs SA: Fans waited more than three hours during the India vs South Africa 4th T20I for a toss that never came. In Lucknow, the BCCI once again left spectators aggrieved in what many saw as a shameful handling of the situation."
+      "url": "https://www.indiatoday.in/world/story/china-manhattan-project-ai-chips-west-tech-monopoly-shenzhen-laboratory-2837661-2025-12-18",
+      "headline": "China builds secret 'Manhattan Project', challenging West's AI chip monopolyThe breakthrough marks the culmination of a six-year government initiative to achieve semiconductor self-sufficiency, one of President Xi Jinping's highest priorities. "
     },
     {
       "sentiment": "negative",
@@ -246,18 +246,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/china-manhattan-project-ai-chips-west-tech-monopoly-shenzhen-laboratory-2837661-2025-12-18",
-      "headline": "China builds secret 'Manhattan Project', challenging West's AI chip monopolyThe breakthrough marks the culmination of a six-year government initiative to achieve semiconductor self-sufficiency, one of President Xi Jinping's highest priorities. "
+      "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-sa-lucknow-t20i-fog-smog-match-cancelled-2837637-2025-12-18",
+      "headline": "What the smog! Visibility low, common sense lower in Lucknow T20I fiascoIND vs SA: Fans waited more than three hours during the India vs South Africa 4th T20I for a toss that never came. In Lucknow, the BCCI once again left spectators aggrieved in what many saw as a shameful handling of the situation."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/g-ram-g-bill-winter-session-lok-sabha-discussion-replace-mgnrega-parliament-congress-bjp-2837683-2025-12-18",
-      "headline": "Lok Sabha concludes discussion on bill to replace MGNREGA, Congress hits outThe VB-G RAM G Bill, 2025, aims to replace MGNREGA, offering 125 days of rural wage employment per year and a development framework aligned with the Viksit Bharat 2047 vision."
+      "url": "https://www.indiatoday.in/india/story/mehul-choksi-extradition-belgium-supreme-court-torture-claim-pnb-scam-2837733-2025-12-18",
+      "headline": "Mehul Choksi to be extradited to India as Belgian court rejects torture claimOne of Mehul Choksi's main arguments was that, if extradited, he faced a real risk of torture or inhuman treatment at the hands of investigative agencies. However, the Belgian Supreme Court rejected the argument."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/lionel-messi-vantara-visit-blends-sacred-indian-traditions-with-wildlife-encounters-2837612-2025-12-17",
-      "headline": "Messi's Vantara visit blends sacred Indian traditions with wildlife encountersLionel Messi thanked Anant Ambani, saying Vantara's work for animals is admirable and deeply impressive. He noted that the care and rescue efforts stood out. He added that the visit was memorable and comfortable. He also said they would return to support and promote the initiative."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/dense-fog-delhi-low-visibility-early-morning-surface-winds-improve-conditions-2837660-2025-12-18",
+      "headline": "Dense fog blankets Delhi-NCR, reduces visibility, AQI remains very poorDelhi-NCR woke up to thick smog on Thursday morning in continuation with the conditions on the preceding days. Visuals showed visibility in several regions significantly reduced as the AQI in the capital saw a dip to 358, even though it remained in the very poor category."
     },
     {
       "sentiment": "positive",
@@ -265,19 +265,19 @@
       "headline": "Sleepy Joe, divisive Obama: Trump's Presidential Walk of Fame mocks predecessorsThe White House unveiled Donald Trump's Presidential Walk of Fame, featuring plaques that mock Joe Biden and Barack Obama and others and credit the US President's achievements. "
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-south-africa-shubman-gill-injured-or-dropped-fans-reaction-troll-vice-captain-poor-form-2837659-2025-12-18",
-      "headline": "Injured or dropped? Fans speculate broader reason for Shubman Gill's T20I absenceShubman Gill's injury ruled him out of the Lucknow T20I, but questions around his form lingered. With India hit by injuries, selection debates intensified as the series entered a decisive phase."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/monty-panesar-on-ashes-2025-26-steve-smith-ben-stokes-shoaib-bashir-2837702-2025-12-18",
+      "headline": "Winning Test series in Australia harder than getting Olympic gold: Monty PanesarMonty Panesar recently caught up with India Today.in to discuss what all has gone wrong for Ben Stokes and his men in the ongoing Ashes. He also touched upon his banter with Steve Smith and revealed why he feels winning in Australia is far more difficult than winning an Olympic Gold."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/uk-prime-minister-keir-starmer-warns-ex-chelsea-owner-roman-abramovich-funds-transfer-clock-is-ticking-2837725-2025-12-18",
-      "headline": "Clock is ticking: UK PM to ex-Chelsea owner Roman Abramovich on funds transferSpeaking in parliament, Keir Starmer told Roman Abramovich: \"Honour the commitment you made and pay up now, and if you don't, we are prepared to go to court, so every penny reaches those whose lives have been torn apart by Putin's illegal war.\"\u00a0"
+      "url": "https://www.indiatoday.in/india/story/pollution-debate-in-lok-sabha-thursday-environment-minister-bhupendra-yadav-respond-at-5-pm-2837615-2025-12-17",
+      "headline": "Pollution debate in Lok Sabha today, Environment Minister to respond at 5 pmThe issue dominated proceedings in the Rajya Sabha, where several MPs questioned the Centre on its strategy to tackle hazardous air quality."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/surprised-how-fruit-seller-tackled-bondi-shooter-ahmed-al-ahmed-military-past-syrian-army-sydney-mass-shooting-hanukkah-2837524-2025-12-17",
-      "headline": "Surprised how fruit-seller disarmed terrorist? Bondi Beach hero has a military pastAhmed Al Ahmed, a Syrian migrant and fruit-seller, became a hero after disarming a terrorist during the mass shooting at Sydney's Bondi Beach. His quick response saved several lives. Ahmed's clinical method of tackling the armed terrorist came from his experience in the Syrian military, revealed his relative."
+      "url": "https://www.indiatoday.in/trending-news/story/clat-2026-topper-geetali-guptas-tearful-moment-after-results-has-the-internet-cheering-viral-video-2837735-2025-12-18",
+      "headline": "CLAT 2026 AIR 1 Geetali Gupta breaks down in tears after seeing her resultA video capturing CLAT 2026 topper Geetali Gupta's heartfelt response to her results has resonated online, showing her tearful joy and family support after securing the top rank."
     },
     {
       "sentiment": "positive",
@@ -286,18 +286,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/pm-modi-ethiopia-visit-award-malik-ambar-slave-guerrilla-united-deccan-forces-akbar-jahangir-mughals-2837302-2025-12-17",
-      "headline": "How an Ethiopian slave challenged Mughal emperors, inspired MarathasAddressing the Ethiopian Parliament, PM Narendra Modi said that India and Ethiopia have shared connections for nearly 2,000 years, exchanging not just gold and spices, but ideas and ways of life. One such remarkable story is that of Malik Ambar, an Ethiopia-born slave. Ambar rose to unite Deccan forces against the Mughals, challenged Akbar and Jahangir and inspired the Marathas."
+      "url": "https://www.indiatoday.in/movies/celebrities/story/rekha-tragic-marriage-mukesh-aggarwal-unacknowledged-love-amitabh-bachchan-2837686-2025-12-18",
+      "headline": "Rekha had Amitabh in vision, sceptical about Mukesh Agarwal initially: Bina RamaniFashion designer Bina Ramani shared her perspective on Rekha's decision to marry Mukesh Aggarwal and the actor's feelings for Bollywood icon Amitabh Bachchan."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/tamil-nadu/story/tamil-nadu-posters-tvk-erode-rally-vijay-karur-absence-after-41-killed-stampede-2837738-2025-12-18",
+      "headline": "Malaysia for audio launch, but no Karur visit: Posters target Vijay ahead of rallyPosters questioning TVK founder Vijay's absence from Karur appeared ahead of his Erode rally. The criticism followed the Karur stampede that killed 41 people, amid concerns over delays in meeting victims' families.\r\n"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/shanti-bill-gets-lok-sabha-nod-as-opposition-walks-out-of-parliament-2837648-2025-12-18",
-      "headline": "SHANTI Bill gets Lok Sabha nod as Opposition walks out of parliamentThe Lok Sabha passed the Sustainable Harnessing and Advancement of Nuclear Energy for Transforming India (SHANTI) Bill, which opens up the atomic energy sector for private participation, by a voice vote amid a walkout by the opposition."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/putin-calls-european-leaders-piglets-russia-ukraine-glbs-2837635-2025-12-18",
-      "headline": "Putin calls European leaders piglets, warns Russia will take more Ukrainian landRussia currently controls about 19 per cent of Ukraine's territory, including Crimea, which it annexed in 2014, most of the Donbas region, large parts of Kherson and Zaporizhzhia, and smaller sections of other regions."
+      "url": "https://www.indiatoday.in/india/story/g-ram-g-bill-winter-session-lok-sabha-discussion-replace-mgnrega-parliament-congress-bjp-2837683-2025-12-18",
+      "headline": "Lok Sabha concludes discussion on bill to replace MGNREGA, Congress hits outThe VB-G RAM G Bill, 2025, aims to replace MGNREGA, offering 125 days of rural wage employment per year and a development framework aligned with the Viksit Bharat 2047 vision."
     },
     {
       "sentiment": "positive",
@@ -306,21 +306,31 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/india-closes-visa-application-centre-in-dhaka-amid-bangladeshi-leaders-threats-2837388-2025-12-17",
-      "headline": "India closes visa application centre in Dhaka amid Bangladeshi leaders' threatsIndia closed the Indian Visa Application Centre in Dhaka citing security threats from extremist elements and summoned Bangladesh's envoy to convey serious concerns over the deteriorating situation. "
+      "url": "https://www.indiatoday.in/world/story/uk-prime-minister-keir-starmer-warns-ex-chelsea-owner-roman-abramovich-funds-transfer-clock-is-ticking-2837725-2025-12-18",
+      "headline": "Clock is ticking: UK PM to ex-Chelsea owner Roman Abramovich on funds transferSpeaking in parliament, Keir Starmer told Roman Abramovich: \"Honour the commitment you made and pay up now, and if you don't, we are prepared to go to court, so every penny reaches those whose lives have been torn apart by Putin's illegal war.\"\u00a0"
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/evasive-unconvincing-parliamentary-panel-rap-to-indigo-coo-aviation-officials-2837560-2025-12-17",
-      "headline": "IndiGo COO, DGCA officials face Parliament panel's ire: Evasive, unconvincing replyIndiGo COO Isidro Porqueras and senior DGCA officials appeared before a parliamentary panel probing recent air traffic disruptions. However, the panel found their replies \"evasive and unconvincing\"."
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-south-africa-shubman-gill-injured-or-dropped-fans-reaction-troll-vice-captain-poor-form-2837659-2025-12-18",
+      "headline": "Injured or dropped? Fans speculate broader reason for Shubman Gill's T20I absenceShubman Gill's injury ruled him out of the Lucknow T20I, but questions around his form lingered. With India hit by injuries, selection debates intensified as the series entered a decisive phase."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/pollution-debate-in-lok-sabha-thursday-environment-minister-bhupendra-yadav-respond-at-5-pm-2837615-2025-12-17",
-      "headline": "Pollution debate in Lok Sabha today, Environment Minister to respond at 5 pmThe issue dominated proceedings in the Rajya Sabha, where several MPs questioned the Centre on its strategy to tackle hazardous air quality."
+      "url": "https://www.indiatoday.in/world/story/surprised-how-fruit-seller-tackled-bondi-shooter-ahmed-al-ahmed-military-past-syrian-army-sydney-mass-shooting-hanukkah-2837524-2025-12-17",
+      "headline": "Surprised how fruit-seller disarmed terrorist? Bondi Beach hero has a military pastAhmed Al Ahmed, a Syrian migrant and fruit-seller, became a hero after disarming a terrorist during the mass shooting at Sydney's Bondi Beach. His quick response saved several lives. Ahmed's clinical method of tackling the armed terrorist came from his experience in the Syrian military, revealed his relative."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ashes-snicko-controversy-jamie-smith-dismissal-ben-stokes-fuming-adelaide-test-2837756-2025-12-18",
+      "headline": "Ashes Snicko controversy erupts again: Stokes left fuming at Jamie Smith's dismissal England were left fuming in Adelaide after Jamie Smith was controversially given out despite replays showing daylight between bat and ball, putting the Snicko technology under scrutiny in the third Ashes Test."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ashes-pat-cummins-dismisses-joe-root-adelaide-test-record-overtakes-jasprit-bumrah-2837742-2025-12-18",
+      "headline": "Pat Cummins scalps Joe Root again: Australia skipper goes past Bumrah in key battle Australia skipper Pat Cummins struck early to dismiss England's Joe Root again in the Ashes. The Adelaide wicket took Cummins clear as the bowler to have removed England's batting star most times in Tests."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/video/monty-panesar-interview-on-steve-smith-ashes-2025-ben-stokes-2837726-2025-12-18",
@@ -364,12 +374,12 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/real-madrid-copa-del-rey-vs-talavera-xabi-alonso-consistency-problem-2837662-2025-12-18",
-      "headline": "Real Madrid still lacking consistency: coach Xabi Alonso after narrow Talavera win Real Madrid scraped past Talavera in the Copa del Rey but looked far from convincing. Xabi Alonso admitted his side still lack control and consistency despite progressing to the next round."
+      "headline": "Real Madrid still lacking consistency: coach Xabi Alonso after narrow Talavera winReal Madrid scraped past Talavera in the Copa del Rey but looked far from convincing. Xabi Alonso admitted his side still lack control and consistency despite progressing to the next round."
     },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-south-africa-shubman-gill-injured-or-dropped-fans-reaction-troll-vice-captain-poor-form-2837659-2025-12-18",
-      "headline": "Injured or dropped? Fans speculate broader reason for Shubman Gill's T20I absence Shubman Gill's injury ruled him out of the Lucknow T20I, but questions around his form lingered. With India hit by injuries, selection debates intensified as the series entered a decisive phase."
+      "headline": "Injured or dropped? Fans speculate broader reason for Shubman Gill's T20I absenceShubman Gill's injury ruled him out of the Lucknow T20I, but questions around his form lingered. With India hit by injuries, selection debates intensified as the series entered a decisive phase."
     },
     {
       "sentiment": "positive",
@@ -455,16 +465,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/babar-azam-booed-sydney-bbl-poor-form-sixers-strikers-2837455-2025-12-17",
       "headline": "Was Babar Azam booed by own fans in BBL? Video from Sixers vs Strikers go viralBabar Azam poor run of form in the Big Bash League continued as he was dismissed for 9 runs in the match against Adelaide Strikers. Babar was seemingly booed off the park following his latest match by the home crowd in Sydney. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/mustafizur-rahman-kkr-ipl-2026-auction-record-availability-exclusive-2837404-2025-12-17",
-      "headline": "Will KKR's Rs 9.2 crore recruit Mustafizur be available for all of IPL 2026?Mustafizur Rahman is set to miss a few games in the Indian Premier League (IPL) with Kolkata Knight Riders (KKR), as the pacer is expected to return home for Bangladesh's white-ball series against New Zealand."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/lionel-messi-10-crore-limited-edition-richard-mille-watch-vantara-anant-ambani-2837406-2025-12-17",
-      "headline": "Did Anant Ambani gift Lionel Messi Rs 10 crore Richard Mille watch in Vantara?Lionel Messi's India tour ended at Vantara, where a viral claim about a Rs 10 crore Richard Mille watch gifted by Anant Ambani set social media abuzz, adding intrigue to the GOAT's visit."
     }
   ],
   "education": [
