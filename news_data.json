@@ -2,6 +2,16 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/personal-finance/story/income-tax-refund-delay-revised-itr-december-31-what-you-should-do-2841983-2025-12-26",
+      "headline": "What happens if you do not file a revised ITR after your refund is put on holdWhen a return is flagged under the risk management framework, the refund does not move forward on its own. If a taxpayer does not revise the return or respond to the issue flagged, the refund can remain on hold indefinitely, even if the claim is otherwise genuine."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/market/story/rvnl-share-price-up-11-percent-why-is-it-rising-what-should-investors-do-2841967-2025-12-26",
+      "headline": "RVNL share price zooms over 11% today. What investors need to knowAt around 10:32 am, the RVNL share price was trading 11.01% higher at Rs 383.75 on the BSE, making it one of the top-performing public sector stocks during the session."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/market/story/irfc-share-price-today-rising-sharply-key-reasons-pre-budget-rally-2841952-2025-12-26",
       "headline": "IRFC shares jump over 7% today. Here's what's driving the rallyAt around 10:32 am, IRFC shares were trading 7.42% higher on the BSE at Rs 130.50, emerging as one of the top gainers among public sector stocks during the session."
     },
@@ -89,19 +99,54 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/personal-finance/story/revised-itr-filing-required-after-income-tax-department-message-key-details-2840909-2025-12-24",
       "headline": "Do you need to file revised ITR after the Income Tax Department's message?The tax department's risk management alert serves as a cautionary prompt, not a formal notice. Taxpayers need revised ITRs only if there are mismatches. Those with correct claims can wait as refunds resume after verification."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/gold-prices-today-mcx-silver-record-high-safe-haven-demand-support-levels-2025-2840899-2025-12-24",
-      "headline": "Gold rallies to fresh high: Key reasons behind rally and support levels to watchSpot gold rose 0.8% to a fresh all-time high of $4,524 per ounce. With this jump, gold has gained around 72% so far this year."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/itr-refund-on-hold-income-tax-department-issues-clarification-risk-management-alert-2840883-2025-12-24",
-      "headline": "ITR on hold? Tax department issues clarification on 'risk management' alertsThe tax department's latest clarification aims to ease taxpayer anxiety, stressing that the alerts are advisory and encourage voluntary correction. Refunds will resume once discrepancies are fixed or claims are verified as genuine."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/avatar-fire-and-ash-box-office-india-week-1-james-cameron-film-tops-f1-becomes-2025-biggest-hollywood-hit-in-india-2842001-2025-12-26",
+      "headline": "Avatar Fire and Ash becomes 2025's biggest Hollywood hit in India, tops F1 Avatar: Fire and Ash box office Week 1 report: James Cameron's film has become the biggest Hollywood grosser of 2025 in India, surpassing F1 in just seven days. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/mark-kichcha-sudeep-calls-fans-response-his-biggest-reward-2841982-2025-12-26",
+      "headline": "Mark: Kichcha Sudeep calls fans' response his 'biggest reward' Actor Kichcha Sudeep has thanked fans following the release of the action thriller Mark. The actor described the outpouring of support as an overwhelming experience that left him at a loss for words."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/neetu-kapoor-shares-unseen-christmas-family-photo-with-ranbir-kapoor-alia-bhatt-raha-2842000-2025-12-26",
+      "headline": "Neetu Kapoor shares unseen Christmas photo with Ranbir, Alia, Raha: Cherish family Neetu Kapoor shared an unseen family photo from the Kapoor clan's Christmas celebration, featuring Ranbir Kapoor, Alia Bhatt and daughter Raha Kapoor, which quickly caught fans' attention online."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/thalapathy-vijay-jana-nayagan-audio-launch-in-malaysia-no-political-speech-and-security-heightened-2841990-2025-12-26",
+      "headline": "Jana Nayagan audio launch: No political speech at Vijay's event, security tightened Thalapathy Vijay's Jana Nayagan audio launch will take place in Malaysia on December 27. Malaysian police have issued clear guidelines for the event, emphasising an absolute ban on political speeches and symbols."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/daayra-investigative-crime-thriller-meghna-gulzar-2026-release-2841981-2025-12-26",
+      "headline": "It's a wrap up for Meghna Gulzar's Daayra with Kareena and Prithivraj Filming for director Meghna Gulzar's new investigative crime thriller Daayra, starring Kareena Kapoor Khan and Prithviraj Sukumaran, has concluded. The film, produced by Junglee Pictures and Pen Studios, is now moving to post-production ahead of its planned 2026 theatrical release."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/ram-charan-wraps-delhi-schedule-for-peddi-film-set-for-march-2026-release-2841951-2025-12-26",
+      "headline": "Ram Charan's Peddi schedule in Capital: Red Fort, Rashtrapati Bhawan, Delhi winters The filming of Ram Charan's sports drama 'Peddi' progresses steadily, with the Delhi schedule completed and new phases underway, keeping the project on track for its planned March 2026 release."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/actor-vijay-jana-nayagan-audio-launch-malaysia-thalapathy-thiruvizha-tribute-2841971-2025-12-26",
+      "headline": "Actor Vijay off to Malaysia for Jana Nayagan event: Nelson, Prabhudheva to attend Actor Vijay has left for Malaysia to attend the Jana Nayagan audio launch and tribute concert. The grand event marks his farewell film before entering politics and features many prominent artists."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/rgv-compares-aditya-dhar-to-francis-ford-coppola-in-10th-post-praising-dhurandhar-2841974-2025-12-26",
+      "headline": "RGV compares Aditya Dhar to Francis Ford Coppola in 10th post praising Dhurandhar Ram Gopal Varma praised Aditya Dhar's Dhurandhar in his 10th post on X, comparing the film to the works of the legendary American filmmaker, Francis Ford Coppola. He called it a benchmark for Indian cinema."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/actor-nivin-pauly-slams-kerala-film-producers-association-box-office-list-sarvam-maya-2841955-2025-12-26",
+      "headline": "Actor Nivin Pauly slams Kerala Film Producers' box office list: No need Actor Nivin Pauly has slammed the Kerala Film Producer Association's decision to release a list detailing the commercial outcomes of Malayalam films released in 2025. The move has drawn criticism from both audiences and industry professionals."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/stranger-things-season-5-volume-2-emotional-depth-slow-pacing-2841937-2025-12-26",
@@ -151,58 +196,23 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/dhurandhar-box-office-collection-day-21-ranveer-singh-film-mints-over-rs-975-crore-globally-2841892-2025-12-26",
       "headline": "Dhurandhar box office Day 21: Ranveer Singh film mints over Rs 975 crore globally The spy thriller Dhurandhar, starring Ranveer Singh and directed by Aditya Dhar, experienced strong box office growth on Christmas. As it sets eyes on the Rs 1000 crore club globally, the film outshone Kartik Aaryan, Ananya Panday's film Tu Meri Main Tera Main Tera Tu Meri."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/dhurandhar-mohammad-aalam-makes-gaurav-gera-easy-to-miss-and-hard-to-forget-2841735-2025-12-26",
-      "headline": "Dhurandhar's Mohammad Aalam makes Gaurav Gera easy to miss and hard to forget Gaurav Gera surprised audiences with his almost unrecognisable outing as Mohammad Aalam in Aditya Dhar's Dhurandhar, away from his usual comic image. As a Lyari juice seller who is actually a handler, his subtle but important role adds strength to the film's spy story."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/tu-meri-main-tera-main-tera-box-office-collection-rs-7-5-crore-opening-day-kartik-aaryan-ananya-panday-2841891-2025-12-26",
-      "headline": "Tu Meri Main Tera box office Day 1: Kartik film opens strong amid Dhurandhar wave Kartik Aaryan and Ananya Panday's latest film 'Tu Meri Main Tera Main Tera Tu Meri' which debuted on Christmas Day, recorded notable first-day collections amid major releases. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/hollywood/story/hollywood-stars-christmas-celebration-photos-mariah-carey-jennifer-lopez-justin-bieber-selena-gomez-lily-collins-kim-kardarshian-2841885-2025-12-26",
-      "headline": "Jennifer Lopez to Cardi B: Hollywood stars celebrate Christmas, see pics Hollywood celebrities gave fans a glimpse into their Christmas celebrations through social media photos and posts. From Mariah Carey's family party with Santa, Jennifer Lopez and Justin Bieber's family celebrations to Selena Gomez's first Christmas as a married couple, stars shared cosy moments online."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/bridgerton-season-4-trailer-benedict-sophie-romance-masked-ball-luke-thompson-yerin-ha-netflix-series-2841884-2025-12-26",
-      "headline": "Bridgerton Season 4 trailer: Check out release dates of Part 1 and Part 2 The trailer for the fourth season of the show Bridgerton was released, coinciding with Christmas. The fourth season, which will revolve around Benedict Bridgerton and Sophia Baek's romance, will be released in two parts on Netflix."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/katrina-kaif-vicky-kaushal-first-christmas-as-parents-is-filled-with-love-joy-and-peace-pic-2841856-2025-12-25",
-      "headline": "Katrina-Vicky's first Christmas as parents is filled with love, joy and peace. Pic Katrina Kaif brightened Christmas with a cheerful post featuring husband Vicky Kaushal and brother Sunny Kaushal in a fun moment. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/grateful-for-2025-samantha-shares-unseen-wedding-pic-with-goofy-raj-nidimoru-2841848-2025-12-25",
-      "headline": "Grateful for 2025, Samantha shares unseen wedding pic with goofy Raj Nidimoru As 2025 ends, Samantha reflected on a year filled with personal joy and professional achievements, sharing never-before-seen moments from her wedding and career. One of the photos featured her husband Raj from their wedding day."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/christmas-isnt-about-gifts-says-riddhima-in-festive-post-with-ranbir-alia-pic-2841779-2025-12-25",
-      "headline": "Inside Kapoor family's Christmas with Ranbir-Alia, Riddhima and Neetu. Pic Riddhima Kapoor Sahni shared a heartfelt glimpse of the Kapoor family's warm Christmas celebration. The photo features Ranbir Kapoor, Alia Bhatt, and Neetu Kapoor, among others. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/music/story/armaan-khan-cancels-bangladesh-concerts-unrest-sharif-osman-bin-hadi-death-2841764-2025-12-25",
-      "headline": "Ustad Rashid Khan's son Armaan Khan cancels Bangladesh concerts amid unrest Indian classical singer Armaan Khan has cancelled his upcoming performances in Bangladesh in response to the recent unrest. The situation has raised serious safety concerns among artists and cultural organisations amid widespread protests and violence."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/boman-irani-revisits-virus-as-3-idiots-marks-16-years-shares-ai-video-2841773-2025-12-25",
-      "headline": "Boman Irani revisits Virus as 3 Idiots marks 16 years, shares AI video As 3 Idiots completes 16 years, Boman Irani revisited his iconic character Virus by sharing an AI-generated video celebrating the film's legacy."
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/trump-launches-powerful-and-deadly-strikes-on-isis-targeting-christians-in-nigeria-glbs-2841883-2025-12-26",
-      "headline": "US bombs Nigeria over attacks on Christians, Trump wishes dead terrorists Merry XmasNigeria has faced years of extremist violence from Islamic State (IS) terrorists and Boko Haram, with attacks often hitting civilians and religious communities across the country's north."
+      "url": "https://www.indiatoday.in/india/story/delhi-air-pollution-live-delhi-high-court-to-hear-plea-on-gst-reduction-for-air-purifiers-amid-rising-pollution-2841986-2025-12-26",
+      "headline": "Live: Centre opposes plea seeking GST cut on air purifiers, calls it 'calculated'Delhi Pollution HC Hearing Live Updates: The Delhi High Court is hearing a plea seeking a reduction in GST on air purifiers and their classification as \"medical devices,\" amid worsening air pollution in the capital. During the hearing, the central government opposed the petition, with ASG N Venkataraman challenging its status as a public interest litigation and questioning the motives behind it. The Centre described the petition as filed in a \"calculated manner.\" With Delhi's air quality deteriorating, the court's decision could have immediate implications for both consumers and the air purifier industry. Stay with IndiaToday.com for live updates-"
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/udaipur-it-firm-ceo-executive-rape-manager-after-party-case-rajasthan-2841894-2025-12-26",
+      "headline": "Udaipur IT firm CEO, female executive, husband offer lift to colleague, rape herUdaipur Police arrested a private firm's CEO, a senior executive and her husband after a female staff alleged gang rape in a moving car, with medical reports and dashcam footage backing complaint."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/tarique-rahman-plan-bangladesh-election-bnp-hindus-india-violence-2842011-2025-12-26",
+      "headline": "Tarique Rahman says he has a plan. What's in it for Hindus, IndiaBangladesh: Tarique Rahman, delivering his first speech in Bangladesh in 17 years, invoked Martin Luther and said, 'I have a plan'. Through his speech and previous statements, Tarique has given glimpses of what his plan holds for Bangladesh, Hindus and India."
     },
     {
       "sentiment": "negative",
@@ -210,19 +220,9 @@
       "headline": "Indian student, 20, shot dead near Toronto campus; hunt on for culpritShivank Avasthi, an Indian doctoral student, was shot dead near the University of Toronto Scarborough campus. Toronto police said he was gunned down in the Highland Creek Trail\u2013Old Kingston Road area."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/udaipur-it-firm-ceo-executive-rape-manager-after-party-case-rajasthan-2841894-2025-12-26",
-      "headline": "Udaipur IT firm CEO, executive offer lift to colleague after party, rape her in carAn IT company manager alleged that the firm's CEO and a senior executive offered her a lift after a New Year party in Udaipur and raped her in a moving car.\r\n"
-    },
-    {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/bengal-worker-killed-in-odisha-lyching-bangladeshi-tmc-blames-bjp-aadhar-demand-2841916-2025-12-26",
-      "headline": "They asked for our Aadhaar: Co-worker recalls lynching of Bengal man in OdishaPolice arrested six men after a 19-year-old migrant worker from West Bengal was killed in Odisha. The victim's co-workers alleged that the attackers demanded Aadhaar cards, suspecting them to be Bangladeshis. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/stranger-things-season-5-volume-2-emotional-depth-slow-pacing-2841937-2025-12-26",
-      "headline": "Stranger Things 5 V2 review: A set-up heavy chapter that's frustratingly cautiousRelease Date:Fri Dec 26, 2025Stranger Things season 5 volume 2 arrives with high expectations and emotional character moments. The season tests patience with slow pacing but highlights key relationships and plot reveals."
+      "url": "https://www.indiatoday.in/india/story/sheikh-hasina-refuge-india-new-delhi-dharma-muli-partridge-hammir-dev-chauhan-dalai-lama-pm-modi-nehru-history-2841869-2025-12-26",
+      "headline": "Will India hand over Sheikh Hasina? History shows even a partridge wasn't betrayedProtecting someone who has sought refuge, even by sacrificing their own life, has been a civilisational ethos of Indians. Those demanding that India hand over Sheikh Hasina should be told how 200 people gave their lives to shield an injured partridge in Gujarat's Muli. From Jam Sataji and Hamir Dev Chauhan to India sheltering the Dalai Lama, this is a dharma that Indians have taken pride in and stayed true to."
     },
     {
       "sentiment": "negative",
@@ -230,14 +230,14 @@
       "headline": "Live: Bajrang Dal, VHP hold protest over lynching of Hindus in BangladeshBangladesh Violence Live Updates: A Hindu man has been beaten to death in Bangladesh, the second such killing in days, heightening concerns over the safety of religious minorities in the country. Local media reported that 29-year-old Amrit Mondal, also known as Samrat, was attacked and killed in Rajbari's Pangsha sub-district late on Wednesday night, around three-and-a-half hours from Dhaka. The killing follows the lynching of Dipu Chandra Das, whose body was set on fire earlier this week. The latest incident coincides with the return of senior opposition leader Tarique Rahman to Bangladesh after 17 years in self-imposed exile, as he pledged to ensure safety and justice if his party wins next year's elections. Stay with IndiaToday.com for live updates-"
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/gurugram/story/delhi-man-shoots-married-woman-after-marriage-proposal-rejection-gurugram-club-2841908-2025-12-26",
-      "headline": "Married woman shot in Gurugram club for rejecting friend's marriage proposalA Delhi man allegedly shot a 25-year-old married woman inside a Gurugram club after she rejected his marriage proposal. Police arrested the accused and his accomplice from Uttar Pradesh, and the investigation is ongoing.\r\n\r\n"
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/us-news/story/trump-launches-powerful-and-deadly-strikes-on-isis-targeting-christians-in-nigeria-glbs-2841883-2025-12-26",
+      "headline": "US bombs Nigeria over attacks on Christians, Trump wishes dead terrorists Merry XmasNigeria has faced years of extremist violence from Islamic State (IS) terrorists and Boko Haram, with attacks often hitting civilians and religious communities across the country's north."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/egg-prices-india-cost-no-relief-in-winter-key-reasons-explained-2841928-2025-12-26",
-      "headline": "Eggs on the boil: Why prices are high and when they might coolEgg prices reflect a market resetting after years of strain, where higher costs, cautious supply, and steady demand mean consumers should expect easing, not a return to cheap eggs soon."
+      "url": "https://www.indiatoday.in/india/story/former-bihar-chief-minister-rabri-devi-vacates-iconic-bungalow-10-circular-road-quietly-belongings-moved-in-the-dead-of-night-2841960-2025-12-26",
+      "headline": "Rabri Devi begins vacating 10 Circular Road, belongings moved in the dead of nightRabri Devi has started vacating the iconic 10 Circular Road bungalow, ending the Lalu family's nearly two-decade-long hold on the residence. This marks a significant political shift in Bihar as the family moves out from their traditional power base."
     },
     {
       "sentiment": "positive",
@@ -246,23 +246,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/vijay-hazare-trophy-2025-live-score-matches-today-virat-kohli-rohit-sharma-2841913-2025-12-26",
-      "headline": "Vijay Hazare Trophy live score: Kohli out for 77, Rishabh Pant at crease for DelhiVijay Hazare Trophy live: Virat Kohli has hit a rapid 29-ball fifty for Delhi against Gujarat. He has looked at his aggressive best. Earlier, Rohit Sharma got dismissed for golden duck against Uttarakhand."
+      "url": "https://www.indiatoday.in/india/bihar/story/bihar-man-who-married-thrice-in-3-years-without-divorcing-wives-arrested-2842009-2025-12-26",
+      "headline": "Bihar man, who married thrice in 3 years without divorcing wives, arrestedThe case came to light after the two women approached police, alleging that Barnwal, the accused, repeatedly married women for financial gain and abandoned them after subjecting them to torture."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/dhurandhar-mohammad-aalam-makes-gaurav-gera-easy-to-miss-and-hard-to-forget-2841735-2025-12-26",
-      "headline": "Dhurandhar's Mohammad Aalam makes Gaurav Gera easy to miss and hard to forgetGaurav Gera surprised audiences with his almost unrecognisable outing as Mohammad Aalam in Aditya Dhar's Dhurandhar, away from his usual comic image. As a Lyari juice seller who is actually a handler, his subtle but important role adds strength to the film's spy story."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/shashi-tharoor-on-christmas-vandalism-not-just-christians-assault-on-all-of-us-2841912-2025-12-26",
-      "headline": "Not just Christians, assault on all of us: Shashi Tharoor on Christmas vandalismCongress MP Shashi Tharoor has expressed deep concern over rising fear and anxiety among Christians in India ahead of Christmas 2025, citing multiple attacks and disruptions. He emphasises that these incidents threaten the nation's shared culture and calls for urgent government action to uphold constitutional freedoms."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/bangladesh-news-tarique-rahman-return-dhaka-hawa-bhaban-office-dark-past-name-dark-prince-sheikh-hasina-awami-league-granade-blast-terror-corruption-charges-2841591-2025-12-25",
-      "headline": "Dark Prince Tarique Rahman and his anti-India Hawa Bhaban pastNow considered the PM-in-waiting, BNP leader Tarique Rahman returned to Bangladesh on Thursday after 17 years in exile. His past, when his mother, Khaleda Zia, was the PM, has murky chapters with an alternative power centre at Dhaka's Hawa Bhaban."
+      "url": "https://www.indiatoday.in/india/story/bengal-worker-killed-in-odisha-lyching-bangladeshi-tmc-blames-bjp-aadhar-demand-2841916-2025-12-26",
+      "headline": "They asked for our Aadhaar: Co-worker recalls lynching of Bengal man in OdishaPolice arrested six men after a 19-year-old migrant worker from West Bengal was killed in Odisha. The victim's co-workers alleged that the attackers demanded Aadhaar cards, suspecting them to be Bangladeshis. "
     },
     {
       "sentiment": "positive",
@@ -271,23 +261,53 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/stranger-things-season-5-volume-2-emotional-depth-slow-pacing-2841937-2025-12-26",
+      "headline": "Stranger Things 5 V2 review: A set-up heavy chapter that's frustratingly cautiousRelease Date:Fri Dec 26, 2025Stranger Things season 5 volume 2 arrives with high expectations and emotional character moments. The season tests patience with slow pacing but highlights key relationships and plot reveals."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/vijay-hazare-trophy-2025-live-score-matches-today-virat-kohli-rohit-sharma-2841913-2025-12-26",
+      "headline": "Vijay Hazare Trophy live score: Kohli out for 77, Rishabh Pant hits 50 for DelhiVijay Hazare Trophy live: Virat Kohli has hit a rapid 29-ball fifty for Delhi against Gujarat. He has looked at his aggressive best. Earlier, Rohit Sharma got dismissed for golden duck against Uttarakhand."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/cities/gurugram/story/delhi-man-shoots-married-woman-after-marriage-proposal-rejection-gurugram-club-2841908-2025-12-26",
+      "headline": "Married woman shot in Gurugram club for rejecting friend's marriage proposalA Delhi man allegedly shot a 25-year-old married woman inside a Gurugram club after she rejected his marriage proposal. Police arrested the accused and his accomplice from Uttar Pradesh, and the investigation is ongoing.\r\n\r\n"
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/shashi-tharoor-on-christmas-vandalism-not-just-christians-assault-on-all-of-us-2841912-2025-12-26",
+      "headline": "Not just Christians, assault on all of us: Shashi Tharoor on Christmas vandalismCongress MP Shashi Tharoor has expressed deep concern over rising fear and anxiety among Christians in India ahead of Christmas 2025, citing multiple attacks and disruptions. He emphasises that these incidents threaten the nation's shared culture and calls for urgent government action to uphold constitutional freedoms."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/neetu-kapoor-shares-unseen-christmas-family-photo-with-ranbir-kapoor-alia-bhatt-raha-2842000-2025-12-26",
+      "headline": "Neetu Kapoor shares unseen Christmas photo with Ranbir, Alia, Raha: Cherish familyNeetu Kapoor shared an unseen family photo from the Kapoor clan's Christmas celebration, featuring Ranbir Kapoor, Alia Bhatt and daughter Raha Kapoor, which quickly caught fans' attention online."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/pakistan-nuclear-weapons-concerns-putin-bush-2001-2008-2841853-2025-12-25",
       "headline": "Junta with nuclear weapons, US should worry: What Putin told Bush about Pak in 2001When expressing his views on Pakistan to George W. Bush, Putin wondered why the idea of a country with \"no democracy\" possessing a nuclear stockpile did not concern the West."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/sikh-lawyer-prabhjot-singh-wirring-forces-canada-to-drop-monarch-oath-in-landmark-ruling-glbs-2841870-2025-12-26",
-      "headline": "Won't swear to the King: Sikh lawyer forces Canada to drop monarch oathSikh lawyer Prabhjot Singh Wirring forced Canadian courts to end a century-old monarch oath, arguing it violated religious freedom, triggering a landmark ruling with nationwide impact."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/stranger-things-season-5-chapter-2-noah-schnapp-thanks-fans-for-their-love-2841903-2025-12-26",
-      "headline": "Stranger Things Season 5 Volume 2 out: Noah Schnapp thanks fans for their loveStranger Things Season 5 Volume 2 is now streaming on Netflix. Actor Noah Schnapp marked the occasion by posting a heartfelt note on Instagram. He encouraged fans to cherish the final moments of the series as it reaches its concluding episodes."
+      "url": "https://www.indiatoday.in/education-today/news/story/indias-first-driverless-ai-bike-garuda-built-from-scrap-by-surat-students-2841247-2025-12-24",
+      "headline": "From junkyard to genius: Surat students build India's first AI superbike GarudaThree mechanical engineering students from Surat have built 'Garuda', India's first AI-enabled electric bike prototype made using nearly 50% scrap material. Driven by a Raspberry Pi\u2013based system with sensors, cameras and voice-command controls, the Tesla-inspired bike highlights how young innovators are reshaping sustainable, intelligent mobility."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-dominate-sri-lanka-t20-series-harmanpreet-eyes-preview-trivandrum-2841762-2025-12-26",
       "headline": "Trivandrum triumph a foregone conclusion? India eye series win vs toothless Sri LankaIND-W vs SL-W, 3rd T20I: Harmanpreet Kaur's side have dominated the five-match T20I series so far, winning both matches in Vizag and now looking to carry that momentum into Trivandrum."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/mysterious-glowing-object-seen-in-skies-sparks-ufo-speculation-heres-what-it-is-2841964-2025-12-26",
+      "headline": "Is that a UFO? Glowing object seen in skies sparks speculationThe footage, shared by NOIRlab, shows a bright trail arcing overhead against a starry backdrop, perfectly timed with operations near the NSF-DOE Vera C. Rubin Observatory. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/sikh-lawyer-prabhjot-singh-wirring-forces-canada-to-drop-monarch-oath-in-landmark-ruling-glbs-2841870-2025-12-26",
+      "headline": "Won't swear to the King: Sikh lawyer forces Canada to drop monarch oathSikh lawyer Prabhjot Singh Wirring forced Canadian courts to end a century-old monarch oath, arguing it violated religious freedom, triggering a landmark ruling with nationwide impact."
     },
     {
       "sentiment": "positive",
@@ -298,29 +318,14 @@
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/cities/lucknow/story/lucknow-dont-get-rid-of-our-dog-worried-about-sick-pet-lucknow-sisters-die-by-suicide-german-shepherd-2841899-2025-12-26",
       "headline": "Don't get rid of our dog: Worried about sick pet, Lucknow sisters die by suicideDeeply emotionally attached to their dog, two sisters allegedly consumed phenyl. However, before death, their last wish to their mother was for their pet German Shepherd dog. What was the last wish? Read this report ...   "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/indias-first-driverless-ai-bike-garuda-built-from-scrap-by-surat-students-2841247-2025-12-24",
-      "headline": "From junkyard to genius: Surat students build India's first AI superbike GarudaThree mechanical engineering students from Surat have built 'Garuda', India's first AI-enabled electric bike prototype made using nearly 50% scrap material. Driven by a Raspberry Pi\u2013based system with sensors, cameras and voice-command controls, the Tesla-inspired bike highlights how young innovators are reshaping sustainable, intelligent mobility."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/chaos-at-kailash-khers-gwalior-concert-as-people-jump-barricades-singer-says-youre-behaving-like-animal-2841839-2025-12-25",
-      "headline": "Behaving like animals: Kailash Kher as people jump barricades at his concertThe singer was also seen requesting the senior police personnel to come close to the stage and control the situation. However, there were not many security personnel spotted to bring the crowd under control. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/pucc-scam-exposed-how-delhi-ncrs-pollution-checks-are-being-sold-like-a-commodity-2841655-2025-12-25",
-      "headline": "PUCC scam exposed: How Delhi-NCR's pollution checks are being sold like commodityAn India Today investigation revealed how Pollution Under Control Certificates (PUCC) are being issued in Delhi-NCR without properly checking vehicles, and in some cases, without the vehicles even being physically present."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/santa-hats-office-desks-and-dhurandhar-fa9la-beats-gurugram-workplace-dance-goes-viral-2841646-2025-12-25",
-      "headline": "Santa hats, office desks and FA9LA beats, Gurugram workplace dance goes viralA Gurugram office has gained widespread attention after employees were filmed dancing to the viral song FA9LA from Dhurandhar during a Christmas celebration."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/boxing-day-test-ashes-josh-tongue-five-wickets-mcg-record-crowd-2841970-2025-12-26",
+      "headline": "Josh Tongue ends England's 27-year wait before record MCG crowd on Boxing Day Ashes, Boxing Day Test: Josh Tongue starred with a five-wicket haul as England bowled out Australia for 152 on Day 1 at the MCG. His performance ended a 27-year wait for an England five-for at the venue. "
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/virat-kohli-scores-77-vs-gujarat-vijay-hazare-trophy-2025-26-rohit-sharma-duck-2841958-2025-12-26",
@@ -339,7 +344,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/vijay-hazare-trophy-2025-live-score-matches-today-virat-kohli-rohit-sharma-2841913-2025-12-26",
-      "headline": "Vijay Hazare Trophy live score: Kohli out for 77, Rishabh Pant at crease for Delhi Vijay Hazare Trophy live: Virat Kohli has hit a rapid 29-ball fifty for Delhi against Gujarat. He has looked at his aggressive best. Earlier, Rohit Sharma got dismissed for golden duck against Uttarakhand."
+      "headline": "Vijay Hazare Trophy live score: Kohli out for 77, Rishabh Pant hits 50 for Delhi Vijay Hazare Trophy live: Virat Kohli has hit a rapid 29-ball fifty for Delhi against Gujarat. He has looked at his aggressive best. Earlier, Rohit Sharma got dismissed for golden duck against Uttarakhand."
     },
     {
       "sentiment": "positive",
@@ -349,7 +354,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ind-w-vs-sl-w-harmanpreet-kaur-to-join-meg-lanning-most-successful-t20i-captain-2841898-2025-12-26",
-      "headline": "Harmanpreet Kaur on the cusp of history, set to join Meg Lanning in elite list Harmanpreet Kaur is one win away from becoming the joint most successful T20I captain in history. She will join Meg Lanning at the top of the list with another victory against Sri Lanka."
+      "headline": "Harmanpreet on the cusp of history, set to surpass Meg Lanning's major record Harmanpreet Kaur is one win away from becoming the most successful T20I captain in history. She will surpass Meg Lanning to occupy the top of the list with another victory against Sri Lanka."
     },
     {
       "sentiment": "positive",
@@ -369,7 +374,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/kartik-sharma-csk-ipl-auction-plan-to-spend-money-2841843-2025-12-25",
-      "headline": "Kartik Sharma on Rs 14.2 crore IPL deal: First, I'll repay my father's loans Young Kartik Sharma fetched a massive sum of Rs 14.20 crore from Chennai Super Kings in the IPL auction. Sharma revealed how he wanted to spend his money."
+      "headline": "Kartik Sharma on Rs 14.2 crore IPL deal: First, I'll repay my father's loansYoung Kartik Sharma fetched a massive sum of Rs 14.20 crore from Chennai Super Kings in the IPL auction. Sharma revealed how he wanted to spend his money."
     },
     {
       "sentiment": "positive",
@@ -465,11 +470,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/mitchell-starc-best-ashes-form-ricky-ponting-praises-australia-2841531-2025-12-25",
       "headline": "Ricky Ponting praises Starc's Ashes impact: Don't think I've seen him bowl betterRicky Ponting has lauded Mitchell Starc for his outstanding performances in the ongoing Ashes, pointing to the clear evolution in his bowling. Starc's impact has been central to Australia establishing a commanding 3-0 lead over England."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/virat-kohli-sublime-hundred-bengaluru-rohit-sharma-packed-jaipur-crowd-2841527-2025-12-25",
-      "headline": "Virat Kohli fans climb trees in Bengaluru to watch century: See photosDuring the Vijay Hazare Trophy, while Rohit Sharma enjoyed batting in front of a packed house in Jaipur, Virat Kohli struck a century for Delhi against Andhra in a match played behind closed doors in Bengaluru. Despite the restrictions, a few fans turned up at the BCCI Centre of Excellence and climbed trees to catch a glimpse of their favourite superstar."
     }
   ],
   "education": [
