@@ -103,6 +103,16 @@
   ],
   "entertainment": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/javed-akhtar-targeted-by-ai-deepfake-video-amid-cyber-law-concerns-2845307-2026-01-02",
+      "headline": "Javed Akhtar calls out fake AI video, may move cyber police Javed Akhtar has been targeted by a fake AI-generated video falsely attributing a statement to him, which he has strongly denied and condemned. Sharing a post on X, the veteran lyricist has warned of legal action. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/akshaye-khanna-begins-shoot-for-telugu-debut-mahakali-director-shares-bts-pics-2845303-2026-01-02",
+      "headline": "Dhurandhar star Akshaye Khanna starts shooting for Telugu debut Mahakali. BTS pics Amid Dhurandhar and Drishyam 3 exit buzz, actor Akshaye Khanna has begun a new chapter in his career \u2013 his Telugu debut. Titled Mahakali, the film is being directed by Pooja Kolluru and stars Bhoomi Shetty in the titular role. "
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/television/story/gaurav-khanna-wins-bigg-boss-19-addresses-fame-hard-work-claims-2845238-2026-01-01",
       "headline": "Gaurav Khanna rejects claims fame helped him win Bigg Boss 19 After securing victory in Bigg Boss 19, Gaurav Khanna responds to social media claims linking his success to his past association with Colors TV, emphasising his long-standing career and individual efforts."
@@ -186,16 +196,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/demonte-colony-3-first-look-arulnithi-return-horror-sequel-2845045-2026-01-01",
       "headline": "Demonte Colony 3: Arulnithi returns to face haunting forces, first look poster out The third instalment in the Demonte Colony horror-thriller series gears up for a summer 2026 release, with Arulnithi and key cast members returning. Hints of new and continuing dangers emerge in the film's first look."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/siddhant-chaturvedi-alizeh-agnihotri-hindi-remake-la-famille-belier-vikas-bahl-2845039-2026-01-01",
-      "headline": "Siddhant Chaturvedi, Alizeh Agnihotri team up for Hindi remake of La Famille Belier Siddhant Chaturvedi and Alizeh Agnihotri have been cast in the Hindi adaptation of the French film La Famille Belier, with Vikas Bahl directing. The musical drama, inspired by both the original and its Oscar-winning remake CODA, will explore themes of family responsibility and personal aspiration."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/pawan-kalyan-reverses-no-cinema-decision-announces-new-film-with-surender-reddy-2845003-2026-01-01",
-      "headline": "Pawan Kalyan reverses no-cinema decision, announces new film with Surender Reddy Pawan Kalyan has announced his next film, confirming a collaboration with director Surender Reddy. The Andhra Pradesh Deputy Chief Minister was last seen in the superhit, They Call Him OG, last year."
     }
   ],
   "general news": [
@@ -205,9 +205,9 @@
       "headline": "Hindu man stabbed, set on fire by mob in Bangladesh. 4th such incident in 2 weeksThe businessman, Khokan Chandra, had a narrow escape after he was beaten, stabbed and set on fire by a mob in Bangladesh. He escaped by jumping into a nearby pond, but sustained serious burn injuries."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/iran-on-edge-as-several-killed-in-protests-against-ayatollah-khamenei-2845237-2026-01-01",
-      "headline": "Iran on edge as several killed in protests against Ayatollah over ailing economyThe country is witnessing its largest protests in three years over soaring inflation, sparking violence across several regions. Deaths were reported in Lordegan, Kuhdasht, and Isfahan, reflecting the spread of the unrest since shopkeepers began demonstrating over the government's handling of a currency slide and rapidly rising prices."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/everyone-was-screaming-survivors-recount-swiss-nightclub-blaze-2845305-2026-01-02",
+      "headline": "Swiss nightclub fire death toll rises to 47, survivors recount horrorThe death toll in the devastating nightclub fire in Switzerland has risen to 47, with more than 100 injured people undergoing treatment. Eyewitnesses described the incident as a horror of unimaginable scale, unlike anything they had ever witnessed before."
     },
     {
       "sentiment": "positive",
@@ -216,8 +216,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/switzerland-resort-bar-fire-death-toll-injured-crans-montana-police-investigation-2845164-2026-01-01",
-      "headline": "What's behind Switzerland blast that killed 40? Probe focusing on fire, not attackSwiss authorities said that the investigation was focused on the fire angle after the tragedy at Alpine resort killed at least 40 people during New Year's Eve celebration."
+      "url": "https://www.indiatoday.in/business/story/deepinder-goyal-defends-gig-economy-as-zomato-blinkit-unaffected-by-gig-workers-strike-2845287-2026-01-01",
+      "headline": "If system was unfair...: Deepinder Goyal as Zomato unaffected by gig workers' strikeZomato and its quick-commerce arm Blinkit recorded their highest-ever single-day orders on New Year's Eve, delivering over 75 lakh orders despite a nationwide gig workers' strike. Founder and CEO Deepinder Goyal said such scale shows a system seen as unfair cannot consistently attract or retain workers."
     },
     {
       "sentiment": "positive",
@@ -226,43 +226,43 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/zohran-mamdani-quran-oath-new-york-city-mayor-arturo-schomburg-2845069-2026-01-01",
-      "headline": "As MAGA seethes, Mamdani tries to blunt attacks using Quran with non-Muslim legacyA storm had been brewing since it was revealed that Zohran Mamdani would use a Quran to be sworn in as the Mayor of NYC City. Under attack, Team Mamdani selected a Quran that belonged to Black writer Arturo Schomburg, a non-Muslim, to minimise the damage. The Schomburg Quran was among the three copies of the Islamic holy book used by Mamdani."
+      "url": "https://www.indiatoday.in/cities/delhi/story/delhi-ncr-weather-live-updates-aqi-fog-glbs-2845302-2026-01-02",
+      "headline": "Live: Delhi braces for intense cold, weather body predicts temperature dipDelhi NCR Weather Updates Live: After light rain on the first day of 2026, Delhi braces for a dip in temperature on January 2. On Thursday, the minimum temperature stood at 10.6 degrees Celsius, and the maximum temperature stood at 17.3 degrees Celsius. The temperature is expected to dip today, with the mercury likely to fall to eight degrees Celsius (minimum) and 16 degrees Celsius (maximum). Follow indiatoday.com for more updates."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/russia-hands-us-drone-evidence-ukrainian-strike-putin-residence-novgorod-glbs-2845298-2026-01-02",
-      "headline": "Russia hands evidence to US confirming Ukrainian drone attack on Putin's residenceRussia has handed over physical evidence to the US of a Ukrainian drone strike targeting President Putin's residence. The allegation has been denied by Ukraine and Western officials, raising tensions amid ongoing war talks."
+      "url": "https://www.indiatoday.in/world/us-news/story/zohran-mamdani-promises-new-era-public-inauguration-new-york-city-mayor-glbs-2845295-2026-01-02",
+      "headline": "Logon ke dil badal gye: Zohran Mamdani to New Yorkers at mayoral inaugurationMamdani, who ran his electoral campaign focusing on issues like rising rents, food prices, and everyday living costs, further emphasised good governance and the betterment of the common New Yorkers' lives during his inaugural speech as the 112th Mayor of New York City."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/trump-ct-scan-normal-aspirin-dose-health-update-white-house-glbs-2845296-2026-01-02",
-      "headline": "Trump blames aspirin for bruised hand, says nothing is wrong with his healthUS President Donald Trump clarifies details of his October CT scan amid health concerns. He insists he is in good health despite speculation and disclosed that he takes 325 milligrams of aspirin every day -- more than his doctors recommend."
+      "url": "https://www.indiatoday.in/world/story/iran-on-edge-as-several-killed-in-protests-against-ayatollah-khamenei-2845237-2026-01-01",
+      "headline": "Iran on edge as several killed in protests against Ayatollah over ailing economyThe country is witnessing its largest protests in three years over soaring inflation, sparking violence across several regions. Deaths were reported in Lordegan, Kuhdasht, and Isfahan, reflecting the spread of the unrest since shopkeepers began demonstrating over the government's handling of a currency slide and rapidly rising prices."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/astronomical-events-2026-total-solar-eclipse-quadrantids-meteor-shower-wolf-moon-supermoon-jupiter-opposition-planetary-alignment-closest-supermoon-2844662-2026-01-01",
-      "headline": "Three supermoons, total solar eclipse: 5 must-see space events in 2026Ring in 2026 with dazzling cosmic fireworks under India's night skies. From meteor showers to supermoons, these events promise unforgettable stargazing thrills.\r\n"
+      "url": "https://www.indiatoday.in/auto/cars/story/next-gen-kia-seltos-launched-in-india-at-rs-1099-lakh-2845291-2026-01-02",
+      "headline": "Next-gen Kia Seltos launched in India at Rs 10.99 lakhKia India has launched the second-generation Seltos at Rs 10.99 lakh (ex-showroom), introducing a larger, more premium and tech-focused midsize SUV aimed at strengthening its position in India's highly competitive segment."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/new-york-mayor-zohran-mamdani-writes-umar-khalid-glbs-2845290-2026-01-02",
-      "headline": "We are all thinking of you: Zohran Mamdani writes to Umar KhalidThe letter surfaced on social media platforms on Thursday, the same day Mamdani was sworn in as mayor of New York City, becoming the first Muslim and Indian-origin leader to head America's largest city and one of the youngest to hold the office."
+      "url": "https://www.indiatoday.in/india/story/contaminated-drinking-water-vomiting-diarrhoea-outbreak-indore-2845286-2026-01-01",
+      "headline": "Contaminated water behind Indore diarrhoea outbreak that killed 7: Lab reportMadhya Pradesh Chief Minister Mohan Yadav described the vomiting and diarrhoea outbreak as an \"emergency-like situation\" and assured strict action against those responsible."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/deepinder-goyal-defends-gig-economy-as-zomato-blinkit-unaffected-by-gig-workers-strike-2845287-2026-01-01",
-      "headline": "If system was unfair...: Deepinder Goyal as Zomato unaffected by gig workers' strikeZomato and its quick-commerce arm Blinkit recorded their highest-ever single-day orders on New Year's Eve, delivering over 75 lakh orders despite a nationwide gig workers' strike. Founder and CEO Deepinder Goyal said such scale shows a system seen as unfair cannot consistently attract or retain workers."
+      "url": "https://www.indiatoday.in/sports/football/story/isl-update-aiff-given-conditions-2845252-2026-01-01",
+      "headline": "Clubs ready to restart ISL, but only if 2 conditions are met by AIFFThirteen ISL clubs have told the AIFF that they are ready to play the league this season if the Indian football body meets certain conditions. The AIFF has been asked to assume full financial responsibility for the league."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/jamaat-e-islami-chief-shafiqur-rahman-denies-secret-meeting-with-indian-diplomats-2845188-2026-01-01",
-      "headline": "Secret meeting with Indian diplomats? Bangladesh Jamaat chief junks reportsBangladeshi Jamaat-e-Islami chief Shafiqur Rahman has refuted reports of holding a secret meeting with Indian diplomats, asserting that the interaction, which took place at their request, was not confidential. The denial follows reports from Bangladeshi media referencing a Reuters interview, which described the meeting as secret."
+      "url": "https://www.indiatoday.in/movies/celebrities/story/javed-akhtar-targeted-by-ai-deepfake-video-amid-cyber-law-concerns-2845307-2026-01-02",
+      "headline": "Javed Akhtar calls out fake AI video, may move cyber policeJaved Akhtar has been targeted by a fake AI-generated video falsely attributing a statement to him, which he has strongly denied and condemned. Sharing a post on X, the veteran lyricist has warned of legal action. "
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/featurephilia/story/resolution-made-on-january-1-why-most-dont-last-beyond-january-2-2845122-2026-01-01",
-      "headline": "Resolution: A word that peaks on January 1 and retires on January 2A word that promises transformation at midnight, only to quietly retreat when the alarm rings the next morning.\r\n"
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/education-today/study-abroad/story/800-deaths-in-6-years-the-dark-side-of-the-indian-study-abroad-dream-2844570-2026-01-02",
+      "headline": "800+ deaths in 6 years: The dark side of the Indian study-abroad dreamOver 800 Indian students have died abroad in the past six years, a number that has triggered deep worry across families, authorities and the global education ecosystem. The rising fatalities, from shootings and stabbings to suicides, accidents and a growing wave of anti-Indian sentiments, have forced a hard rethink of the risks behind the study-abroad dream. The questions are now unavoidable. Who is accountable for student safety? Are authorities abroad and in India responding with the seriousness the crisis demands? And why does the global media remain largely indifferent to these losses? "
     },
     {
       "sentiment": "positive",
@@ -271,28 +271,38 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/manchester-city-vs-sunderland-liverpool-vs-leeds-tottenham-vs-brentford-premier-league-reports-new-year-2845309-2026-01-02",
+      "headline": "Premier League's dull start to 2026: Man City, Liverpool, Tottenham draw blanksThe Premier League stumbled into 2026 as City, Liverpool and Tottenham failed to score on New Year's Day. Wasteful finishing, rigid defending and mounting pressure defined a flat afternoon that subtly shifted momentum elsewhere league."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/faridabad-gangrape-case-survivor-was-threatened-with-life-for-screaming-says-family-faridabad-case-2845195-2026-01-01",
+      "headline": "Faridabad gangrape: They threatened to kill her when she screamed, says familyThe survivor's family claimed that she was subjected to the ordeal for about three hours. Officials at the private hospital where the survivor is admitted said that her condition remained stable on Thursday."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/astronomical-events-2026-total-solar-eclipse-quadrantids-meteor-shower-wolf-moon-supermoon-jupiter-opposition-planetary-alignment-closest-supermoon-2844662-2026-01-01",
+      "headline": "Three supermoons, total solar eclipse: 5 must-see space events in 2026Ring in 2026 with dazzling cosmic fireworks under India's night skies. From meteor showers to supermoons, these events promise unforgettable stargazing thrills.\r\n"
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/nepal-probe-panel-to-summon-ousted-pm-kp-sharma-oli-over-force-used-in-gen-z-protests-2845293-2026-01-02",
+      "headline": "Nepal to summon ousted PM KP Sharma Oli over force used in Gen Z protestsAt least 19 youths, who were demonstrating against the Oli government in Kathmandu, were killed in police firing on September 8, with the total death toll from the two days of unrest reaching 77 people nationwide."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/bjp-leader-sangeet-som-calls-shah-rukh-khan-traitor-for-induction-of-bangladeshi-cricketer-in-kkr-2845289-2026-01-02",
       "headline": "BJP leader calls Shah Rukh Khan traitor over KKR's induction of Bangladeshi playerKolkata Knight Riders purchased Mustafizur Rahman at the expense of Rs nine crore in the last IPL auction held in December. The move has now triggered a controversy."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/several-killed-after-explosion-rips-through-a-bar-switzerlands-ski-resort-town-of-crans-montana-2844972-2026-01-01",
-      "headline": "40 killed, 115 injured in explosion at Switzerland bar on New Year's EveAt least 40 people were killed in an explosion at a luxury bar in the Swiss ski resort town of Crans-Montana as hundreds gathered for celebrations on New Year's Eve."
+      "url": "https://www.indiatoday.in/world/us-news/story/trump-ct-scan-normal-aspirin-dose-health-update-white-house-glbs-2845296-2026-01-02",
+      "headline": "Trump blames aspirin for bruised hand, says nothing is wrong with his healthUS President Donald Trump clarifies details of his October CT scan amid health concerns. He insists he is in good health despite speculation and disclosed that he takes 325 milligrams of aspirin every day -- more than his doctors recommend."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/society/story/do-montessori-toys-actually-help-kids-learn-better-or-are-they-overrated-2840440-2026-01-01",
-      "headline": "Do Montessori toys actually help kids learn better, or are they overrated?For many parents, Montessori toys have become the new buzzword. But do children really need them? We ask experts."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/pakistan-busted-images-amritsar-airbase-brahmos-facility-india-operation-sindoor-2845073-2026-01-01",
-      "headline": "New year, same script: Pak claims on Punjab airbase, BrahMos site strikes bustedSeveral pro-Pakistani social media accounts shared misleading 'before' and 'after' images of strikes at the Amritsar airbase in Punjab and a BrahMos facility. However, independent experts have busted the claims."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/zohran-mamdani-promises-new-era-public-inauguration-new-york-city-mayor-glbs-2845295-2026-01-02",
-      "headline": "Zohran Mamdani vows a new era as crowds cheer his NYC mayor inaugurationMamdani, who ran his electoral campaign focusing on issues like rising rents, food prices, and everyday living costs, further emphasised good governance and the betterment of the common New Yorkers' lives during his inaugural speech as the 112th Mayor of New York City."
+      "url": "https://www.indiatoday.in/education-today/featurephilia/story/resolution-made-on-january-1-why-most-dont-last-beyond-january-2-2845122-2026-01-01",
+      "headline": "Resolution: A word that peaks on January 1 and retires on January 2A word that promises transformation at midnight, only to quietly retreat when the alarm rings the next morning.\r\n"
     },
     {
       "sentiment": "positive",
@@ -300,27 +310,22 @@
       "headline": "David Beckham sends love to Brooklyn after omitting him from 2025 family recapDavid Beckham sent love to his 26-year-old son Brooklyn after omitting him from 2025 family recap. Reports of a rift within the Beckham family surfaced after David and Victoria unfollowed Brooklyn on Instagram."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/health/story/inside-indias-wellness-reset-the-trends-that-will-shape-2026-2844444-2026-01-01",
-      "headline": "Inside India's wellness reset \u2013 the trends that will shape 2026  Health trends 2025: The science, the spending and the shift in mindsetIn 2026, India's wellness shift may move from aspiration to execution \u2014 guided by science, not slogans.\r\n\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/vande-bharat-sleeper-train-launch-guwahati-kolkata-overnight-rail-travel-2845048-2026-01-01",
-      "headline": "First Vande Bharat sleeper train to run from Guwahati to Kolkata, PM to flag offPrime Minister Narendra Modi will soon flag off the first Vande Bharat sleeper train on the Guwahati-Kolkata route, following the train's successful high-speed trial. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ravichandran-ashwin-warns-odi-cricket-slow-death-2027-world-cup-2845146-2026-01-01",
-      "headline": "Ravichandran Ashwin warns ODI cricket could face slow death after 2027 World CupFormer India off-spinner Ravichandran Ashwin expresses concerns about the decline of the One-Day International format, citing the influence of T20 cricket, the dominance of star players, and challenges posed by ICC scheduling."
-    },
-    {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/bmw-crash-dhaula-kuan-delay-medical-care-delhi-finance-official-death-2845153-2026-01-01",
-      "headline": "Delhi BMW crash victim could have survived with timely care: ChargesheetPolice allege that, instead of taking the victims to nearby hospitals - such as Delhi Cantonment Hospital or AIIMS Trauma Centre, both 10\u201315 minutes away - Makkad transported the injured to Nulife Hospital in GTB Nagar, about 20 km from the site."
+      "url": "https://www.indiatoday.in/india/story/are-you-bangladeshi-ghaziabad-cops-citizenship-verification-machine-sparks-row-viral-video-2845256-2026-01-01",
+      "headline": "Are you Bangladeshi? Ghaziabad cops' 'citizenship verification machine' sparks rowA video from Ghaziabad showing police using a purported \"citizenship verification machine\" on a man and allegedly identifying him as \"Bangladeshi\" has gone viral on social media."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/north-india-may-get-below-normal-rain-heavy-showers-in-south-central-from-january-march-2845280-2026-01-01",
+      "headline": "North India may get below-normal rain; heavy showers in south, central from Jan-MarNorthwest India, including Punjab and Haryana, is likely to receive below-normal rainfall from January to March, while southern and central India are expected to see good showers during this period, the IMD said."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/manchester-city-vs-sunderland-liverpool-vs-leeds-tottenham-vs-brentford-premier-league-reports-new-year-2845309-2026-01-02",
+      "headline": "Premier League's dull start to 2026: Man City, Liverpool, Tottenham draw blanks The Premier League stumbled into 2026 as City, Liverpool and Tottenham failed to score on New Year's Day. Wasteful finishing, rigid defending and mounting pressure defined a flat afternoon that subtly shifted momentum elsewhere league."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ashes-series-highlights-australia-leads-3-1-england-breaks-18-match-winless-streak-melbourne-2845285-2026-01-01",
@@ -374,7 +379,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/chelsea-enzo-maresca-part-ways-season-back-on-track-2845163-2026-01-01",
-      "headline": "Chelsea part ways with Enzo Maresca to get their season back on track Chelsea have confirmed the departure of head coach Enzo Maresca, saying both parties felt a change was needed to get the season back on track amid key objectives still in play."
+      "headline": "Chelsea part ways with Enzo Maresca to get their season back on trackChelsea have confirmed the departure of head coach Enzo Maresca, saying both parties felt a change was needed to get the season back on track amid key objectives still in play."
     },
     {
       "sentiment": "positive",
@@ -470,11 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/australia-t20-world-cup-2026-squad-announced-pat-cummins-josh-hazlewood-2844891-2026-01-01",
       "headline": "Australia name spin-heavy squad for T20 World Cup, Cummins picked despite injuryAustralia have announced a 15-member spin-heavy squad for the T20 World Cup 2026, set to begin on February 7. Pat Cummins, Josh Hazlewood and Tim David have been named despite injuries."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/sports-calendar-2026-full-list-major-events-dates-venues-2844673-2026-01-01",
-      "headline": "A year like no other: 2026 packed with major sports eventsIt's going to be a jam-packed year of sports in 2026 with the FIFA World Cup taking centre stage. Along with this, the cricket fans will get to see the Indian men's and women's teams in action in two T20 World Cups. Here's a look at the entire sports calendar for the new year. "
     }
   ],
   "education": [
