@@ -1,6 +1,11 @@
 {
   "business": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/what-indias-2025-tax-filings-reveal-about-a-changing-economy-2848655-2026-01-08",
+      "headline": "What India's 2025 tax filings reveal about a changing economyIndia's 2025 tax returns offer a rare glimpse into a changing economic mindset. From side businesses to market investments, taxpayers are no longer relying on a single stream of income."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/story/india-venezuela-crude-oil-purchase-data-history-explained-2848623-2026-01-08",
       "headline": "How Venezuela slipped out of India's oil shopping listOnce a strategic crude supplier, Venezuela has slipped to the margins of India's oil imports, showing how sanctions and geopolitics can override commercial logic in global energy trade."
@@ -13,7 +18,7 @@
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/market/story/sensex-falls-700-points-why-stock-market-is-down-today-us-tariff-threat-fii-selling-it-metal-shares-decline-trade-deal-2848607-2026-01-08",
-      "headline": "Sensex falls 700 points: 5 reasons why stock market is down today?The S&P BSE Sensex dropped 667.57 points to 84,293.57, while the NSE Nifty50 fell 225.70 points to 25,915.05 as of 12:36 PM. The broader market also remained in the red, reflecting weak sentiment across the board."
+      "headline": "Sensex falls 700 points: 5 reasons why stock market is down todayThe S&P BSE Sensex dropped 667.57 points to 84,293.57, while the NSE Nifty50 fell 225.70 points to 25,915.05 as of 12:36 PM. The broader market also remained in the red, reflecting weak sentiment across the board."
     },
     {
       "sentiment": "positive",
@@ -94,14 +99,19 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/indias-economy-rebounds-to-74-growth-in-fy26-on-strong-investment-push-2848118-2026-01-07",
       "headline": "India's GDP growth expected at 7.4% in FY26Government measures played an important role in supporting growth. Income tax relief and steps to rationalise GST rates helped shore up consumer demand, even as global conditions remained uncertain."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/market/story/stock-market-closing-bell-sensex-nifty-end-lower-as-auto-energy-stocks-drag-despite-it-gains-2848100-2026-01-07",
-      "headline": "Sensex, Nifty end lower as auto, energy stocks drag despite IT gainsThe S&P BSE Sensex was down by 102.20 points to close at\u00a084,961.14, while the NSE Nifty50 lost 37.95 points to end at\u00a026,140.75.\u00a0"
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/the-pitt-renewed-for-season-3-on-hbo-max-ahead-of-season-2-premiere-2848640-2026-01-08",
+      "headline": "The Pitt renewed for Season 3 ahead of Season 2 premiere on January 9 The medical drama The Pitt has been renewed for a third season by HBO Max, just ahead of its Season 2 premiere. The announcement came during a premiere event in Los Angeles, reaffirming the show's continued focus on the lives of healthcare workers at a Pittsburgh hospital."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/jackass-new-film-release-date-june-26-extreme-stunts-original-cast-updates-2848614-2026-01-08",
+      "headline": "New Jackass film is officially heading to theatres this June Paramount Pictures has announced that a new Jackass film will hit cinemas in June, marking the franchise's return four years after the last instalment."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/television/story/naagin-7-second-most-watched-tv-show-behind-kyunki-saas-bhi-kabhi-bahu-thi-2848624-2026-01-08",
@@ -186,28 +196,18 @@
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/movies/celebrities/story/priyanka-chopra-shares-late-night-family-fun-with-viral-whitney-houston-challenge-2848525-2026-01-08",
       "headline": "Priyanka Chopra shares late-night family fun with viral Whitney Houston challenge Priyanka Chopra shared a fun family moment with Nick Jonas and daughter Malti, which won hearts on social media. Meanwhile, she is preparing for her upcoming Hollywood film The Bluff, where she plays a fierce pirate."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/emraan-hashmi-airport-profiling-anxiety-travel-mumbai-event-2848493-2026-01-08",
-      "headline": "Emraan Hashmi recalls being stopped at immigration: I fit the bill Actor Emraan Hashmi recounted personal experiences with airport immigration checks at the trailer launch of his upcoming web series Taskaree: The Smuggler's Web, reflecting on profiling and the changing nature of security scrutiny over the years."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/toxic-teaser-yash-intense-and-perilous-new-look-sets-the-tone-of-gripping-drama-2848497-2026-01-08",
-      "headline": "Toxic teaser: Yash as Raya unleashes a fierce world of violence and destruction The teaser for Yash's 'Toxic \u2013 A Fairytale for Grown-Ups' is out, sparking huge excitement among fans. Promising an edgy, stylish world supported by a strong ensemble and international crew, the film is slated for a big March 19 release."
     }
   ],
   "general news": [
     {
-      "sentiment": "positive",
+      "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/ed-raid-ipac-office-kolkata-mamata-banerjee-document-chori-amit-shah-2848594-2026-01-08",
-      "headline": "ED raids Mamata Banerjee's poll strategist, she cries document 'chori'The ED raided I-PAC offices and Pratik Jain's residence and office in Kolkata as part of a money laundering probe. Mamata Banerjee condemned the action, accusing the BJP of seizing Trinamool documents and strategy files. "
+      "headline": "ED raids I-PAC chief, Mamata Banerjee says BJP stole Trinamool's election strategyThe ED raided I-PAC offices and Pratik Jain's residence and office in Kolkata as part of a money laundering probe. Mamata Banerjee condemned the action, accusing the BJP of seizing Trinamool documents and strategy files. "
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/story/mumbai-mayor-marathi-hindu-devendra-fadnavis-bmc-election-mahayuti-2848567-2026-01-08",
-      "headline": "Mumbai Mayor's seat reserved for Marathi Hindu, 100%: Devendra FadnavisChief Minister Devendra Fadnavis, speaking at Aaj Tak's Mumbai Manthan, underlined that the BJP followed a 'nation first' ideology and rejected claims that the party seeks to divide voters along Marathi and non-Marathi lines."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/yasin-arafat-arrested-lynching-killing-dipu-das-bangladesh-mymensingh-2848642-2026-01-08",
+      "headline": "Main accused in Dipu Das lynching arrested, Bangladesh cops say he incited mobPolice in Bangladesh's Mymensingh region have arrested the main suspect, Yasin Arafat, in the violent mob lynching of Hindu garment worker Dipu Das. "
     },
     {
       "sentiment": "positive",
@@ -215,9 +215,9 @@
       "headline": "Vedanta's Anil Agarwal will give away 75% wealth to fulfil dead son's wishWith his son's death, Anil Agarwal says his commitment to give away over 75% of earnings stands firm, signalling a deeper shift toward philanthropy, simpler living, and long-term social investment beyond business success."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/opinion/story/as-censor-board-puts-jana-nayagan-on-pause-mode-vijay-fans-smell-a-rat-2848590-2026-01-08",
-      "headline": "As Censor Board puts Jana Nayagan on pause mode, Vijay fans smell a rat\u00a0Vijay's Jana Nayagan has been delayed after the Censor Board refused certification, causing financial strain and sparking political speculation. In Tamil Nadu, where cinema and politics often overlap, some see the controversy as possible central interference ahead of elections."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/mamata-banerjee-ed-raids-ipac-chief-kolkata-drama-green-file-mystery-bengal-elections-2848658-2026-01-08",
+      "headline": "ED raids, Mamata's back-door entry, mysterious green file: Drama in KolkataED raids, Mamata's back-door entry, and mysterious green file: Drama in Kolkata"
     },
     {
       "sentiment": "positive",
@@ -226,18 +226,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/sri-lanka-mp-namal-rajapaksa-india-south-asia-role-bangladesh-nepal-turmoil-2848606-2026-01-08",
-      "headline": "A message from Sri Lanka for India amid Bangladesh, Nepal turmoilSri Lankan MP Namal Rajapaksa has emphasised that India could play a central role as the South Asian region grapples with political turmoil, public unrest, and extremist threats."
+      "url": "https://www.indiatoday.in/elections/story/mumbai-mayor-marathi-hindu-devendra-fadnavis-bmc-election-mahayuti-2848567-2026-01-08",
+      "headline": "Mumbai Mayor's seat reserved for Marathi Hindu, 100%: Devendra FadnavisChief Minister Devendra Fadnavis, speaking at Aaj Tak's Mumbai Manthan, underlined that the BJP followed a 'nation first' ideology and rejected claims that the party seeks to divide voters along Marathi and non-Marathi lines."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/us-news-indian-truckers-held-in-indiana-state-with-enough-coke-to-kill-over-one-lakh-americans-2848580-2026-01-08",
-      "headline": "Two Indian truckers held in US with enough cocaine to kill over a lakh AmericansTwo Indian truckers have been arrested in the US after a routine traffic stop by Indiana State Police revealed they were smuggling over 300 pounds of cocaine worth $7 million. The DHS later stated that the truckers who lived in California had entered the US illegally and were carrying enough contraband to kill over a lakh Americans. "
+      "url": "https://www.indiatoday.in/business/market/story/sensex-falls-700-points-why-stock-market-is-down-today-us-tariff-threat-fii-selling-it-metal-shares-decline-trade-deal-2848607-2026-01-08",
+      "headline": "Sensex falls 700 points: 5 reasons why stock market is down todayThe S&P BSE Sensex dropped 667.57 points to 84,293.57, while the NSE Nifty50 fell 225.70 points to 25,915.05 as of 12:36 PM. The broader market also remained in the red, reflecting weak sentiment across the board."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/us-president-donald-trump-greenlit-sanctions-bill-punish-india-china-russian-oil-republican-senator-lindsey-graham-2848433-2026-01-08",
-      "headline": "More trouble for India? Trump-backed bill threatens 500% tariffs over Russian oilRepublican Senator Lindsey Graham said President Donald Trump cleared the new sanctions bill after they held a \"productive\" meeting on Wednesday, adding that it could be put to vote as early as next week."
+      "url": "https://www.indiatoday.in/world/story/sri-lanka-mp-namal-rajapaksa-india-south-asia-role-bangladesh-nepal-turmoil-2848606-2026-01-08",
+      "headline": "A message from Sri Lanka for India amid Bangladesh, Nepal turmoilSri Lankan MP Namal Rajapaksa has emphasised that India could play a central role as the South Asian region grapples with political turmoil, public unrest, and extremist threats."
     },
     {
       "sentiment": "positive",
@@ -255,29 +255,9 @@
       "headline": "What Poland said about India as US turns up heat over Russian oilWe are satisfied, said Poland Foreign Minister Radosaw Sikorski as he backed India as New Delhi faces sharp tariff threats from the US over its continued imports of Russian crude oil."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/travel/story/indigo-worlds-most-punctual-airline-india-qatar-airways-2848579-2026-01-08",
-      "headline": "Despite a turbulent year, IndiGo ranks 6th in Asia-Pacific punctuality listAsk any traveller, and one shared priority everyone values is punctuality. A recent report listed the world's most on-time airlines and airports, and interestingly, one Indian name got featured too. \r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/jana-nayagan-postponed-censor-delay-rs50-crore-losses-refunds-2848522-2026-01-08",
-      "headline": "Jana Nayagan postponed: Nearly Rs 50 crore loss, refunds initiated for Vijay filmVijay's Jana Nayagan was postponed two days before release due to a censor certificate delay. This last-minute change has led to significant financial losses and disrupted international screen allocations."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/story/eknath-shinde-bjp-congress-alliance-ambernath-devendra-fadnavis-mumbai-bmc-polls-2848546-2026-01-08",
-      "headline": "Eknath Shinde raised BJP-Congress Ambernath tie-up shocker with Devendra FadnavisShinde's remarks at Aaj Tak's Mumbai Manthan 2026 event came a day after longtime rivals BJP and Congress joined hands with the NCP to form the Ambernath Vikas Aghadi (AVA), sidelining the Shinde-led Shiv Sena faction despite it being the largest party in the December 20 municipal polls in Ambernath, located in Thane district."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/isl-restart-players-pay-cut-crisis-parth-jindal-plea-aiff-new-format-concerns-2848568-2026-01-08",
-      "headline": "ISL restarts, but players bear the cost: How pay cut demands spell a fresh crisisThe ISL will restart on February 14, but players are being asked to take salary cuts of up to 25 percent. With no commercial partner in place, footballers are paying the price for survival."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/us-pulls-out-of-66-international-bodies-global-disengagement-glbs-2848419-2026-01-08",
-      "headline": "US exits dozens of international agencies, including India-led Solar AllianceThe White House said on Wednesday that Trump signed a proclamation pulling the US out of 35 non-United Nations bodies and 31 United Nations-linked entities following a sweeping review of America's global commitments. "
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/us-news-indian-truckers-held-in-indiana-state-with-enough-coke-to-kill-over-one-lakh-americans-2848580-2026-01-08",
+      "headline": "Two Indian truckers held in US with enough cocaine to kill over a lakh AmericansTwo Indian truckers have been arrested in the US after a routine traffic stop by Indiana State Police revealed they were smuggling over 300 pounds of cocaine worth $7 million. The DHS later stated that the truckers who lived in California had entered the US illegally and were carrying enough contraband to kill over a lakh Americans. "
     },
     {
       "sentiment": "positive",
@@ -286,18 +266,38 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/iran-protests-police-officer-cop-mahmoud-haghighat-shot-dead-chased-sistan-baluchestan-drive-by-attack-caught-on-camera-viral-video-2848515-2026-01-08",
-      "headline": "Caught on camera: Iranian cop chased, shot dead in drive-by attack amid protestsA police officer was killed in a drive-by shooting in Iran as the country faces nationwide protests over economic distress. The incident was caught on camera, and it shows the cop being attacked until his car veered off the road and crashed."
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/why-was-vijay-jana-nayagan-postponed-censor-delay-and-court-battle-explained-2848591-2026-01-08",
+      "headline": "Why was Vijay's Jana Nayagan postponed? Censor delay and court battle explainedWhy was Vijay's Jana Nayagan postponed just two days before release? Here's a detailed timeline of the CBFC delay, court intervention, box-office fallout and what happens next.\r\n"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/us-russia-tension-venezuela-linked-oil-tanker-seized-atlantic-2848339-2026-01-07",
-      "headline": "US, Russia tensions rise after oil tanker seizure: A blow-by-blow accountA high-seas seizure of a Russian-flagged oil tanker by US forces has brought Washington and Moscow to the brink of a new diplomatic clash. Russia has called the move illegal, while the US says it was enforcing sanctions linked to Venezuela."
+      "url": "https://www.indiatoday.in/india/karnataka/story/national-herald-karnataka-government-advertisement-funds-rahul-gandhi-congress-siddaramaiah-2848611-2026-01-08",
+      "headline": "National Herald tops Karnataka government newspaper ad spend despite low readershipNational Herald reportedly received the highest share of Karnataka government advertisement funds among national dailies, raising questions over public spending despite its negligible readership."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/us-president-donald-trump-greenlit-sanctions-bill-punish-india-china-russian-oil-republican-senator-lindsey-graham-2848433-2026-01-08",
+      "headline": "More trouble for India? Trump-backed bill threatens 500% tariffs over Russian oilRepublican Senator Lindsey Graham said President Donald Trump cleared the new sanctions bill after they held a \"productive\" meeting on Wednesday, adding that it could be put to vote as early as next week."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/opinion/story/as-censor-board-puts-jana-nayagan-on-pause-mode-vijay-fans-smell-a-rat-2848590-2026-01-08",
+      "headline": "As Censor Board puts Jana Nayagan on pause mode, Vijay fans smell a rat\u00a0Vijay's Jana Nayagan has been delayed after the Censor Board refused certification, causing financial strain and sparking political speculation. In Tamil Nadu, where cinema and politics often overlap, some see the controversy as possible central interference ahead of elections."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/personal-finance/story/new-income-tax-rules-from-april-2026-what-will-change-for-taxpayers-2848563-2026-01-08",
+      "headline": "New Income Tax rules from April 2026: What will change for taxpayersIndia is set to usher in a new Income Tax law from April 1, 2026. The new Income Tax Act aims to simplify tax rules, improve clarity and make compliance easier for taxpayers in an increasingly digital system."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/mumbai-woman-tracer-her-phone-stolen-at-varanasi-assi-ghat-ankita-gupta-police-suspended-2848431-2026-01-08",
-      "headline": "Phone stolen in Varanasi, Mumbai techie tracks it herself after cop inactionWith help from friends, the woman tracked her stolen phone to a house in Varanasi, informed police, and enabled the recovery of her handset along with 12 other stolen mobile phones."
+      "url": "https://www.indiatoday.in/technology/news/story/indian-manufacturing-company-bans-staff-from-liking-linkedin-posts-or-using-open-to-work-badge-says-employee-2848634-2026-01-08",
+      "headline": "Indian company bans staff from liking LinkedIn posts, says employeeA viral post from a Reddit user claims that their company is trying to control employees' LinkedIn activity, even outside office hours. According to the user, the firm is restricting staff from liking or commenting on other companies' posts and has even banned the use of the \"Open to Work\" badge."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/lifestyle/travel/story/indigo-worlds-most-punctual-airline-india-qatar-airways-2848579-2026-01-08",
+      "headline": "Despite a turbulent year, IndiGo ranks 6th in Asia-Pacific punctuality listAsk any traveller, and one shared priority everyone values is punctuality. A recent report listed the world's most on-time airlines and airports, and interestingly, one Indian name got featured too. \r\n"
     },
     {
       "sentiment": "positive",
@@ -315,12 +315,32 @@
       "headline": "Bengaluru man works as Rapido bike captain for 4 days, shares earnings breakdownThe man shared a transparent breakdown of hours worked, earnings and expenses after riding part-time with Rapido, primarily during late-night hours."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/national-shooting-coach-rapes-teen-athlete-hotel-room-faridabad-case-police-performance-pretext-2848434-2026-01-08",
-      "headline": "Coach lures teen Haryana shooter to hotel for performance review, rapes herA national shooting coach allegedly raped a 17-year-old shooter inside a hotel room in Faridabad after calling her under the pretext of evaluating her performance. Police said the accused forced her into the hotel room where the incident occurred."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/elections/story/eknath-shinde-bjp-congress-alliance-ambernath-devendra-fadnavis-mumbai-bmc-polls-2848546-2026-01-08",
+      "headline": "Eknath Shinde raised BJP-Congress Ambernath tie-up shocker with Devendra FadnavisShinde's remarks at Aaj Tak's Mumbai Manthan 2026 event came a day after longtime rivals BJP and Congress joined hands with the NCP to form the Ambernath Vikas Aghadi (AVA), sidelining the Shinde-led Shiv Sena faction despite it being the largest party in the December 20 municipal polls in Ambernath, located in Thane district."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/england-ashes-defeat-boycott-critique-mccullum-stokes-key-leadership-2848652-2026-01-08",
+      "headline": "Sack Brendon McCullum, he is like a gambler who can't change: Geoffrey Boycott Ashes 2025-26: Geoffrey Boycott offered a stinging assessment of Brendon McCullum, Ben Stokes, and Rob Key after England's 4-1 loss, questioning the team's philosophy, accountability, and future direction. England lost the series finale by 5 wickets in Sydney on Thursday, January 8. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/harry-brook-punched-nightclub-bouncer-fined-retains-england-captaincy-2848645-2026-01-08",
+      "headline": "Brook was punched by a nightclub bouncer, nearly sacked as ODI captain: Report England vice-captain Harry Brook was reportedly close to being sacked on the eve of the Ashes after being struck by a nightclub bouncer while intoxicated, the night before the third ODI against New Zealand in Wellington on November 1."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/hardik-pandya-vijay-hazare-trophy-nine-sixes-baroda-vs-chandigargh-ind-vs-nz-2848646-2026-01-08",
+      "headline": "Hardik Pandya continues Vijay Hazare onslaught, hits 9 sixes vs Chandigarh Hardik Pandya is on a tear in the Vijay Hazare Trophy. The Baroda all-rounder smashed nine sixes in a 31-ball 75, continuing a blistering run that has made him the tournament's consistent big hitter."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/sarfaraz-fastest-half-century-vijay-hazare-trophy-record-2848636-2026-01-08",
+      "headline": "Sarfaraz Khan slams fastest fifty in Vijay Hazare Trophy, breaks Atit Sheth's record Sarfaraz Khan broke the fastest half century record in Vijay Hazare Trophy scoring 50 in 15 balls. His aggressive innings sets a new benchmark and boosts Mumbai's chances in the tournament."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ruturaj-gaikwad-vijay-hazare-trophy-century-record-maharshtra-vs-goa-ind-vs-nz-2848622-2026-01-08",
@@ -359,22 +379,22 @@
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/football/story/premier-league-thomas-frank-arsenal-cup-drinking-trolled-tottenham-vs-bournemouth-2848527-2026-01-08",
-      "headline": "Tottenham boss Thomas Frank trolled after spotted drinking from Arsenal cup Tottenham boss Thomas Frank was trolled after being spotted with an Arsenal cup before Spurs' Bournemouth clash. The Dane later insisted he never noticed the logo, calling the controversy unnecessary and misplaced."
+      "headline": "Tottenham boss Thomas Frank trolled after spotted drinking from Arsenal cupTottenham boss Thomas Frank was trolled after being spotted with an Arsenal cup before Spurs' Bournemouth clash. The Dane later insisted he never noticed the logo, calling the controversy unnecessary and misplaced."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/womens-premier-league-2026-live-streaming-squads-schedule-and-all-you-need-to-know-2848518-2026-01-08",
-      "headline": "WPL 2026 set for new highs as Indian women's cricket finds its peak WPL 2026: The fourth edition of the Women's Premier League will be held from January 9 to February 5 across Navi Mumbai and Baroda. Mumbai Indians are the competition's two-time champions, while Royal Challengers Bengaluru lifted the title in 2024.\r\n"
+      "headline": "WPL 2026 set for new highs as Indian women's cricket finds its peakWPL 2026: The fourth edition of the Women's Premier League will be held from January 9 to February 5 across Navi Mumbai and Baroda. Mumbai Indians are the competition's two-time champions, while Royal Challengers Bengaluru lifted the title in 2024.\r\n"
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ashes-ben-stokes-avoids-captaincy-change-talks-sydney-test-aus-vs-eng-2848514-2026-01-08",
-      "headline": "Ben Stokes avoids England captaincy talks after Ashes loss: Time to right our wrongs Ben Stokes avoided captaincy questions after England's 4\u20131 Ashes loss in Australia. Speaking after the Sydney Test defeat, the England skipper focused on reflection and future plans, offering no hint of a leadership change."
+      "headline": "Ben Stokes avoids England captaincy talks after Ashes loss: Time to right our wrongsBen Stokes avoided captaincy questions after England's 4\u20131 Ashes loss in Australia. Speaking after the Sydney Test defeat, the England skipper focused on reflection and future plans, offering no hint of a leadership change."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-suryavanshi-u19-cricket-india-senior-debut-too-early-century-youth-odi-2848499-2026-01-08",
-      "headline": "Vaibhav Suryavanshi is too good for U-19 cricket: Is it too early for India debut? Vaibhav Suryavanshi's numbers in the youth level point to inevitability, but 2026 may test more than talent. As pressure, IPL responsibility and expectations grow, how he responds could define his future."
+      "headline": "Vaibhav Suryavanshi is too good for U-19 cricket: Is it too early for India debut?Vaibhav Suryavanshi's numbers in the youth level point to inevitability, but 2026 may test more than talent. As pressure, IPL responsibility and expectations grow, how he responds could define his future."
     },
     {
       "sentiment": "positive",
@@ -450,26 +470,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/lionel-messi-aims-to-become-club-owner-football-development-after-retirement-2848390-2026-01-07",
       "headline": "Lionel Messi dismisses coaching interest, prefers club ownership after retirementLionel Messi expresses a clear preference for club ownership over coaching after his playing career, following a season of record-breaking achievements. The football legend outlines his vision for youth development and continued involvement in football off the pitch."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/shreyanka-patil-comeback-bumrah-inspiration-wpl-2026-rcb-2848327-2026-01-07",
-      "headline": "How Jasprit Bumrah inspired Shreyanka Patil to bounce back after injuryIndian all-rounder Shreyanka Patil credits Jasprit Bumrah's guidance during her injury-hit layoff for helping her regain confidence as she prepares for a WPL 2026 comeback with RCB against Mumbai Indians."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-suryavanshi-century-wicket-india-u19-whitewash-south-africa-benoni-2848313-2026-01-07",
-      "headline": "Vaibhav Suryavanshi's heroics with bat and ball leads India-U19 to 3-0 whitewashVaibhav Suryavanshi led from the front with a century and a wicket as India U-19 crushed South Africa by 233 runs to seal a dominant 3-0 whitewash in the Youth ODI series."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/cricket/story/bangladesh-firm-icc-letter-venue-row-t20-world-cup-plea-india-2848297-2026-01-07",
-      "headline": "Bangladesh firm on T20 World Cup stance: No cricket at cost of national dignityBangladesh have remained firm on their decision not to play T20 World Cup matches in India, citing security and national humiliation concerns following Mustafizur Rahman's exit from Kolkata Knight Riders, which has escalated tensions with India."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-pakistan-asia-cup-too-much-join-forces-through-sport-jason-holder-2848284-2026-01-07",
-      "headline": "Don't like India-Pakistan cricket beef: Ex-West Indies captain calls for unityJason Holder says the India\u2013Pakistan divide is sad and should not overshadow cricket. The West Indies all-rounder believes sport can play a role in easing political tensions."
     }
   ],
   "education": [
