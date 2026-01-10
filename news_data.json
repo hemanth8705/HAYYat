@@ -103,6 +103,11 @@
   ],
   "entertainment": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/border-2-colonel-hoshiar-singh-dahiya-wife-blesses-varun-dhawan-praises-actor-2849886-2026-01-10",
+      "headline": "Border 2: Colonel Hoshiar Singh Dahiya's wife blesses Varun Dhawan, praises actor PVC (Parm Vir Chakra) Colonel Hoshiar Singh Dahiya's wife showered praise on Varun Dhawan for sincerely portraying her husband's legacy in Border 2. The film is set for a theatrical release on January 23, 2026."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/movies/bollywood/story/rani-mukerji-mardaani-3-release-moved-ahead-cop-drama-to-arrive-on-january-30-2849865-2026-01-10",
       "headline": "Rani Mukerji's Mardaani 3 release moved ahead: Cop drama to arrive on January 30 Rani Mukerji is back as the fearless cop Shivani Shivaji Roy in Mardaani 3. The film's new poster reveals its release date has been moved ahead to January 30, 2026."
@@ -191,11 +196,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/sivakarthikeyan-reacts-25-cuts-cbfc-parasakthi-sudha-kongara-prasad-2849641-2026-01-10",
       "headline": "Sivakarthikeyan reacts to 25 cuts in Parasakthi: We didn't have time to negotiate Actor Sivakarthikeyan recently addressed his film 'Parasakthi' being cleared for release with 25 cuts by the censor board. In an exclusive interview, he commented on the ongoing controversy, explaining that the changes do not affect the film's storyline."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/south-indian-cinema-2026-comeback-vijay-prabhas-yash-ram-charan-2848713-2026-01-10",
-      "headline": "Will 2026 be South's strike-back year after the Dhurandhar storm? South Indian cinema looks set for a strong comeback in 2026 with major stars returning. The resurgence is being seen as a response to Dhurandhar's dominance and a fresh bid to reshape pan-India cinema dynamics."
     }
   ],
   "general news": [
@@ -212,7 +212,7 @@
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/india-navy-base-haldia-bay-of-bengal-china-bangladesh-pakistan-activities-2849770-2026-01-10",
-      "headline": "Navy to set up base in Bengal's Haldia to tighten vigil on China, BangladeshThe new base of the Indian Navy in the Bay of Bengal is being established amid rising Chinese naval activity and evolving regional security dynamics involving Bangladesh and Pakistan."
+      "headline": "With eye on China and Bangladesh, India to set up naval base in BengalThe new base of the Indian Navy in the Bay of Bengal is being established amid rising Chinese naval activity and evolving regional security dynamics involving Bangladesh and Pakistan."
     },
     {
       "sentiment": "positive",
@@ -236,8 +236,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/wpl-2026-gujarat-titans-vs-up-warriorz-live-score-meg-lanning-deepti-sharma-navi-mumbai-2849775-2026-01-10",
-      "headline": "GG vs UPW, Highlights: Ashleigh Gardner stars in Gujarat Giants' 10-run winGujarat Giants vs UP Warriorz Highlights: Gujarat Giants take the win in their season opener with the skipper, Ashleigh Gardner putting up an all-round show to beat UP Warriorz by 10 runs. "
+      "url": "https://www.indiatoday.in/sports/cricket/story/wpl-2026-mumbai-indians-vs-delhi-capitals-live-score-jemimah-rodrigues-harmanpreet-kaur-navi-mumbai-2849885-2026-01-10",
+      "headline": "MI vs DC Live: Sciver-Brunt counterattacks after Kerr's wicketMumbai Indians vs Delhi Capitals, WPL 2026 Live Score, MI (27/1 in 4 overs): Nat Sciver-Brunt is counterattacking Delhi Capitals after the early loss of Amelia Kerr. DC have not introduced spin in the first 5 overs."
     },
     {
       "sentiment": "positive",
@@ -245,14 +245,9 @@
       "headline": "Why India decides the fate of Dhaka-Karachi direct flightsFollowing growing bonhomie between Pakistan and Bangladesh, direct flights between Dhaka and Karachi are set to resume from January 29, after over a decade. Since India and Pakistan have banned each other's aircraft from their respective airspaces, would New Delhi allow the Dhaka-Karachi air service to operate over its territory, amid strained India-Bangladesh ties?"
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/iran-protest-news-live-ayatollah-ali-khamenei-return-of-reza-pahlavi-shah-popularity-challenges-trump-us-stance-2849309-2026-01-10",
-      "headline": "Can crown prince Reza Pahlavi return to Iran?Chants of \"Pahlavi will return\" are echoing in Iran amid the nationwide protests against Ayatollah Ali Khamenei. Exiled Iranian crown prince, Reza Pahlavi, has emerged as the most recognisable face of the protest. But can the Shah's son move from being just a nostalgic symbol to a real force? "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/iran-protests-women-light-cigarettes-burn-khamenei-photos-viral-2849736-2026-01-10",
-      "headline": "Why Iran women are lighting cigarettes from burning Khamenei photosIranian women seem to have ignited a new protest trend, lighting cigarettes from burning photos of Supreme Leader Ayatollah Ali Khamenei amid the bloody unrest that has gripped the Middle Eastern nation."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/cold-wave-to-continue-temperature-to-dip-on-sunday-morning-in-north-india-2849903-2026-01-10",
+      "headline": "North India to witness freezing morning on Sunday, cold wave to continueCold wave and cold day conditions are likely to prevail in pockets of Punjab, Rajasthan, and Uttar Pradesh, particularly during the early morning hours. "
     },
     {
       "sentiment": "positive",
@@ -261,23 +256,28 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/study-abroad/story/indian-exports-students-brain-drain-but-not-a-global-study-destination-2849388-2026-01-09",
+      "headline": "Millions leave India to study abroad. But almost none come here to studyIndia is among the world's largest exporters of students, but attracts less than 1% of global inbound learners in return. A NITI Aayog report flips the study-abroad obsession to expose India's failure as a global education destination, and shows why the imbalance hurts prestige, economy and long-term talent goals. "
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/interactive/visuals/time-tide-tamil-valluvar-codifier-and-conscience-keeper-across-centuries-part-12-332-09-01-2026",
       "headline": "Time, Tide & Tamil Part 12 | Valluvar: Codifier and Conscience Keeper Across CenturiesEveryone wants to own a copy of the Thirukkural\u2014for the self or the shelf. And almost everyone wants to appropriate Thiruvalluvar \u2014 as mascot, master, mentor, or moral alibi. Politicians invoke him; parties claim him; communities adopt him."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/iran-violent-protest-ayatollah-ali-khamenei-speech-tehran-live-updates-2849275-2026-01-09",
-      "headline": "Live: US claims Tehran deployed Hezbollah terrorists, Iraqi militantsIran Protests Live Updates: US President Donald Trump said Iran was \"in big trouble\" as protests spread across the country, adding that the United States was closely tracking developments and warning Tehran against using lethal force. \"Iran's in big trouble. It looks to me that the people are taking over certain cities that nobody thought were really possible just a few weeks ago,\" Trump told reporters at the White House. \"We're watching the situation very carefully.\" Earlier, Iran's Supreme Leader, Ayatollah Ali Khamenei, on Friday said the Islamic Republic will not tolerate individuals acting as \"mercenaries\" for foreign powers, as unrest continues and tensions with Western countries remain high. "
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/trump-greenland-threat-denmark-shoot-first-military-strength-us-comparison-2849691-2026-01-10",
-      "headline": "Denmark says we'll shoot first if US invades Greenland. But with what?Denmark has warned that its troops were under standing orders to 'shoot first and ask questions later' if Greenland is attacked by the US. But can the Danish army take on the might of the US in case of a military invasion or a Venezuela-like operation?"
+      "url": "https://www.indiatoday.in/india/maharashtra/story/devendra-fadnavis-eknath-shinde-former-maharashtra-dgp-sanjay-pande-plotted-to-frame-2016-ulc-scam-case-report-rashmi-shukla-report-2849684-2026-01-10",
+      "headline": "Ex-Maharashtra DGP plotted to frame Fadnavis, Shinde in ULC scam, claims reportA special investigation report submitted by outgoing Maharashtra DGP Rashmi Shukla to the state Home Department revealed that former DGP Sanjay Pande plotted to frame Devendra Fadnavis and Eknath Shinde in the 2016 ULC scam."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/study-abroad/story/indian-exports-students-brain-drain-but-not-a-global-study-destination-2849388-2026-01-09",
-      "headline": "Millions leave India to study abroad. But almost none come here to studyIndia is among the world's largest exporters of students, but attracts less than 1% of global inbound learners in return. A NITI Aayog report flips the study-abroad obsession to expose India's failure as a global education destination, and shows why the imbalance hurts prestige, economy and long-term talent goals. "
+      "url": "https://www.indiatoday.in/world/story/iran-protests-reza-pahlavi-calls-nationwide-strikes-city-centre-seizures-2849846-2026-01-10",
+      "headline": "Seize city centres: Exiled Crown Prince's fresh call to Iranians as protests rage UpdatesThe protests, now in their thirteenth consecutive day, have spread across large parts of the country despite an intensified security crackdown and near-total internet blackout."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/iran-protests-women-light-cigarettes-burn-khamenei-photos-viral-2849736-2026-01-10",
+      "headline": "Why Iran women are lighting cigarettes from burning Khamenei photosIranian women seem to have ignited a new protest trend, lighting cigarettes from burning photos of Supreme Leader Ayatollah Ali Khamenei amid the bloody unrest that has gripped the Middle Eastern nation."
     },
     {
       "sentiment": "positive",
@@ -290,14 +290,14 @@
       "headline": "Question Time: Weekly News QuizThink you read the headlines this week? Let's test that!"
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/apache-helicopters-cost-drone-threats-limit-india-attack-helicopter-acquisitions-2849594-2026-01-10",
-      "headline": "Why India didn't buy more ApachesHigh cost and questionable relevance in today's drone-infested battlefields have put paid to further acquisitions. "
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/trump-greenland-threat-denmark-shoot-first-military-strength-us-comparison-2849691-2026-01-10",
+      "headline": "Denmark says we'll shoot first if US invades Greenland. But with what?Denmark has warned that its troops were under standing orders to 'shoot first and ask questions later' if Greenland is attacked by the US. But can the Danish army take on the might of the US in case of a military invasion or a Venezuela-like operation?"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/ankur-warikoo-shares-painful-memory-of-father-breaking-down-over-unpaid-home-loan-emi-2849413-2026-01-09",
-      "headline": "Ankur Warikoo shares painful memory of father breaking down over unpaid home loan EMIIn a post on X, Ankur Warikoo recalled how, in 2002, when his parents were both 50, they invested their entire life's savings of Rs 2 lakh as a down payment on a house. "
+      "url": "https://www.indiatoday.in/world/story/iran-protest-news-live-ayatollah-ali-khamenei-return-of-reza-pahlavi-shah-popularity-challenges-trump-us-stance-2849309-2026-01-10",
+      "headline": "Can crown prince Reza Pahlavi return to Iran?Chants of \"Pahlavi will return\" are echoing in Iran amid the nationwide protests against Ayatollah Ali Khamenei. Exiled Iranian crown prince, Reza Pahlavi, has emerged as the most recognisable face of the protest. But can the Shah's son move from being just a nostalgic symbol to a real force? "
     },
     {
       "sentiment": "positive",
@@ -306,25 +306,30 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/up-warriorz-lose-to-gujarat-giants-runs-in-wpl-opener-meg-lanning-2849878-2026-01-10",
+      "headline": "Meg Lanning's UP Warriorz journey begins with defeat as Gujarat Giants win thrillerWPL 2026, GG vs UPW: Meg Lanning made a tough start to her journey with the UP Warriorz after Gujarat Giants edged them in the thriller on Saturday in Navi Mumbai. Georgia Wareham won the Player of the Match effort for her all-round effort."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/education-today/gk-current-affairs/story/hanging-coffin-and-cliff-burials-origins-beliefs-and-living-descendants-2849743-2026-01-10",
       "headline": "Hanging coffins and cliff burials: The ancient culture that still lives onHanging coffins and cliff burials were once widespread across parts of East and Southeast Asia, shaped by beliefs around honour, ancestry and spiritual elevation. New DNA research has now confirmed that the Bo tribe, one of the earliest practitioners of this ritual, still has living descendants, revealing rare cultural continuity from the Neolithic era."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/maharashtra/story/devendra-fadnavis-eknath-shinde-former-maharashtra-dgp-sanjay-pande-plotted-to-frame-2016-ulc-scam-case-report-rashmi-shukla-report-2849684-2026-01-10",
-      "headline": "Ex-Maharashtra DGP plotted to frame Fadnavis, Shinde in ULC scam, claims reportA special investigation report submitted by outgoing Maharashtra DGP Rashmi Shukla to the state Home Department revealed that former DGP Sanjay Pande plotted to frame Devendra Fadnavis and Eknath Shinde in the 2016 ULC scam."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/aimim-president-asaduddin-owaisi-hopeful-of-hijab-clad-woman-as-pm-says-ambedkars-constitution-allows-this-2849742-2026-01-10",
-      "headline": "Owaisi hopeful of hijab-clad woman as PM: Ambedkar's Constitution allows thisAIMIM president Asaduddin Owaisi emphasises the inclusive nature of India's Constitution, dreaming of a hijab-clad daughter becoming Prime Minister. He contrasts India's secular values with Pakistan's religious restrictions while campaigning in Maharashtra."
+      "url": "https://www.indiatoday.in/india/story/apache-helicopters-cost-drone-threats-limit-india-attack-helicopter-acquisitions-2849594-2026-01-10",
+      "headline": "Why India didn't buy more ApachesHigh cost and questionable relevance in today's drone-infested battlefields have put paid to further acquisitions. "
     }
   ],
   "sports": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/birmingham-turns-pink-fa-cup-stadium-lights-snow-2849896-2026-01-10",
+      "headline": "Birmingham turns pink as FA Cup stadium lights reflect off snow The city of Birmingham had pink skies on a dreamy winter's night. Social media users put up photos and videos of the pink sky, calling it wondrous. What caused the phenomenon?"
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/wpl-2026-mumbai-indians-vs-delhi-capitals-live-score-jemimah-rodrigues-harmanpreet-kaur-navi-mumbai-2849885-2026-01-10",
-      "headline": "MI vs DC Live: Jemimah in spotlight for Delhi Capitals captaincy debut Mumbai Indians vs Delhi Capitals, WPL 2026 Live Score: Harmanpreet Kaur's Mumbai Indians will look to get back to winning ways as they take on Delhi Capitals who are led by Jemimah Rodrigues in her first game as captain. "
+      "headline": "MI vs DC Live: Sciver-Brunt counterattacks after Kerr's wicket Mumbai Indians vs Delhi Capitals, WPL 2026 Live Score, MI (27/1 in 4 overs): Nat Sciver-Brunt is counterattacking Delhi Capitals after the early loss of Amelia Kerr. DC have not introduced spin in the first 5 overs."
     },
     {
       "sentiment": "positive",
@@ -374,7 +379,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-virat-kohli-odi-influence-shubman-gill-india-vs-new-zealand-pre-match-press-conference-2849771-2026-01-10",
-      "headline": "Rohit Sharma, Virat Kohli make captain's job easier: Shubman Gill on duo's ODI impact IND vs NZ: Shubman Gill believes Rohit Sharma and Virat Kohli make an ODI captain's job easier. Their experience in pressure situations, Gill says, is invaluable as India prepare for the New Zealand series."
+      "headline": "Rohit Sharma, Virat Kohli make captain's job easier: Shubman Gill on duo's ODI impactIND vs NZ: Shubman Gill believes Rohit Sharma and Virat Kohli make an ODI captain's job easier. Their experience in pressure situations, Gill says, is invaluable as India prepare for the New Zealand series."
     },
     {
       "sentiment": "positive",
@@ -470,11 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/brendon-mccullum-defends-england-players-noosa-trip-harry-brook-incident-2849584-2026-01-10",
       "headline": "McCullum responds to Brook revelation, Noosa trip: Half of team doesn't drinkBrendon McCullum has defended the England players following the Harry Brook nightclub controversy and the controversial Noosa trip during the Ashes 2025-26 series. England lost the series 1-4 in Australia. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/nadine-de-klerk-harmanpreet-kaur-rcb-chase-mumbai-indians-wpl-opener-2849601-2026-01-10",
-      "headline": "Harmanpreet Kaur rues Nadine de Klerk drop catches after MI implode vs RCBWPL 2026, MI vs RCB: Harmanpreet Kaur said that dropped catches didn't help the Mumbai Indians as the two-time champions faced a three-wicket defeat in the opening game on Friday against Royal Challengers Bengaluru. "
     }
   ],
   "education": [
