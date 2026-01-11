@@ -103,6 +103,16 @@
   ],
   "entertainment": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/parasakthi-historical-drama-release-clears-censor-delays-sivakarthikeyan-25th-film-2850060-2026-01-11",
+      "headline": "Parasakthi box office Day 1: Sivakarthikeyan film starts strong after censor row Sudha Kongara's historical drama 'Parasakthi', starring Sivakarthikeyan in his 25th film, premiered in cinemas on Saturday, January 10, following a period of uncertainty over its censor clearance. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/nupur-sanon-stebin-ben-intimate-christian-wedding-ceremony-2850047-2026-01-11",
+      "headline": "Nupur Sanon-Stebin Ben pop champagne, exchange vows in white wedding. Watch Nupur Sanon and Stebin Ben got married in a Christian ceremony on Saturday. The ceremony was attended by their close friends and family. "
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/prabhas-slashed-his-fees-by-33-for-the-raja-saab-report-2850037-2026-01-11",
       "headline": "Prabhas slashed his fees by 33% for The Raja Saab: Report As per reports, Prabhas has slashed his fee by 33 per cent for The Raja Saab. The film, which released on January 9, is now inching close to the Rs 100-crore mark."
@@ -186,28 +196,23 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/reviews/story/parasakthi-film-review-hindi-imposition-youth-protest-tamil-nadu-politics-2849774-2026-01-10",
       "headline": "Parasakthi review: Sivakarthikeyan's period drama reignites Hindi imposition debateRelease Date:Sat Jan 10, 2026 Parasakthi movie review: Director Sudha Kongara Prasad's Parasakthi, starring Sivakarthikeyan, Ravi Mohan, Atharvaa and Sreeleela, the film is about student revolution against Hindi imposition. With solid emotional beats, the film has all the potential to become a Pongal winner despite some shortcomings."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/jana-nayagan-producer-venkat-k-narayana-addresses-censor-board-dispute-film-release-delays-2849727-2026-01-10",
-      "headline": "Jana Nayagan producer addresses censor row: Vijay deserves the farewell he's earned Amid the Jana Nayagan censor row, the makers have spoken out for the first time, detailing the challenges the Thalapathy Vijay starrer faced during its certification."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/the-diplomat-season-4-confirmed-new-episodes-expected-to-release-in-late-2026-2849740-2026-01-10",
-      "headline": "The Diplomat Season 4 confirmed, new episodes expected to release in late 2026 'The Diplomat' season four was confirmed in Netflix's 2026 slate. The series is expected to release in late 2026, with production set to begin in July."
     }
   ],
   "general news": [
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/world/story/iran-protest-updates-trump-us-military-strike-tehran-khamenei-regime-reza-pahlavi-2850022-2026-01-11",
-      "headline": "US to strike Iran? Trump says ready to help amid brutal crackdown on protestersWith at least 72 killed and 2,300 detained, Iran's protests have gone global, even as US President Donald Trump weighed military options and Tehran threatens demonstrators with death penalty charges."
+      "headline": "US to strike Iran? Trump says ready to help amid brutal crackdown on protesters Live UpdatesWith at least 72 killed and 2,300 detained, Iran's protests have gone global, even as US President Donald Trump weighed military options and Tehran threatens demonstrators with death penalty charges."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/pak-army-invites-me-let-deputy-chief-saifullah-kasuri-openly-admits-terror-army-nexus-2849979-2026-01-11",
       "headline": "India scared of me: Pahalgam kingpin brags about invites from Pak armySaifullah Kasuri, the deputy chief of Hafiz Saeed-led outfit and the mastermind of the Pahalgam terror attack, made the remarks while addressing school children in a function organised at a school in Pakistan. He also claimed that India is scared because of his presence and issued provocative threats against New Delhi.\r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/troops-bled-from-nose-vomited-blood-did-us-use-a-sonic-weapon-in-venezuela-during-raid-2850066-2026-01-11",
+      "headline": "Troops bled from nose, vomited blood: Did US use a sonic weapon in Venezuela?US forces reportedly used an advanced and previously unseen sonic weapon during a raid in Venezuela, incapacitating local troops with intense sound waves. This operation has sparked widespread attention and raised concerns about new military technologies in the region."
     },
     {
       "sentiment": "negative",
@@ -216,13 +221,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/youre-dealing-with-us-president-trump-assures-total-safety-for-oil-firms-in-venezuela-2849616-2026-01-10",
-      "headline": "Uninvestable: Trump's $100-billion Venezuela pitch is a no-deal for oil giantsTrump urged oil giants to invest in Venezuela, promising full US protection and control, as Washington moves to sell sanctioned crude and unlock $100 billion in private energy investment."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sunday-special/story/from-soil-to-shell-casings-when-kabaddi-lost-its-soul-gangster-nexus-punjab-sport-corruption-drug-syndicates-players-murder-2849515-2026-01-11",
-      "headline": "From soil to shell-casings: How kabaddi lost its soulKabaddi has undergone a jarring metamorphosis in the last 15 years. Once the enchanting heartbeat of rural Punjab, criminal syndicates infiltrated tournaments, brought big money, feuds and bullet deaths. At times, the violence has a Canada angle."
+      "headline": "How kabaddi lost its soul with blood, bullets, big money and calls from CanadaKabaddi has undergone a jarring metamorphosis in the last 15 years. Once the enchanting heartbeat of rural Punjab, criminal syndicates infiltrated tournaments, brought big money, feuds and bullet deaths. At times, the violence has a Canada angle."
     },
     {
       "sentiment": "positive",
@@ -230,9 +230,19 @@
       "headline": "Digitally arrested for 17 days, NRI couple in Delhi duped of nearly Rs 15 croreThe fraud came to light on January 10 when the couple was sent to a police station on the pretext of an RBI refund, where officers confirmed they had been cheated of Rs 14.85 crore."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/us-airstrikes-isis-syria-response-personnel-killing-2849990-2026-01-11",
-      "headline": "US bombs Islamic State targets across Syria after deadly attack on troopsThe US military carried out multiple airstrikes across Syria targeting ISIS as part of an ongoing operation launched after militants killed US personnel and a civilian last month. "
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/asaduddin-owaisi-himanta-sarma-war-of-words-hijab-clad-pm-remark-constitution-2850064-2026-01-11",
+      "headline": "Tubelight in his head: Owaisi, Himanta Sarma trade barbs over hijab-clad PM remarkAIMIM chief Asaduddin Owaisi and Assam CM Himanta Biswa Sarma engaged in a sharp war of words after Owaisi spoke of his dream of a hijab-clad woman becoming India's Prime Minister, citing constitutional inclusivity. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/youre-dealing-with-us-president-trump-assures-total-safety-for-oil-firms-in-venezuela-2849616-2026-01-10",
+      "headline": "Uninvestable: Trump's $100-billion Venezuela pitch is a no-deal for oil giantsTrump urged oil giants to invest in Venezuela, promising full US protection and control, as Washington moves to sell sanctioned crude and unlock $100 billion in private energy investment."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/health/story/red-carpets-to-red-flags-why-celebrity-biohacking-is-a-health-blind-spot-gwyneth-paltrow-bryan-johnson-deepinder-goyal-2850040-2026-01-11",
+      "headline": "Red carpets to red flags: Why celebrity biohacking is a health blind spotWhen celebrities biohack in public, experimentation becomes an endorsement. Devices meant for controlled settings are quickly reframed as wellness upgrades, nudging millions to optimise their bodies and brains without fully understanding the risks involved."
     },
     {
       "sentiment": "negative",
@@ -240,9 +250,9 @@
       "headline": "X admits mistake, deletes 600 accounts, bars obscene images: Govt sourcesX blocked around 3,500 posts, deleted over 600 accounts, and pledged to stop obscene imagery following action by Ministry of Electronics and Information Technology.\r\n\r\n"
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/delhi-metro-lost-found-helplines-complaints-2849977-2026-01-11",
-      "headline": "I left my AirPods in Delhi Metro. What happened next shocked meMillions ride the Delhi Metro every day, but some passengers leave more than just the platform behind. What happens when an item is lost? Here's the reality."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/us-airstrikes-isis-syria-response-personnel-killing-2849990-2026-01-11",
+      "headline": "US bombs Islamic State targets across Syria after deadly attack on troopsThe US military carried out multiple airstrikes across Syria targeting ISIS as part of an ongoing operation launched after militants killed US personnel and a civilian last month. "
     },
     {
       "sentiment": "positive",
@@ -251,23 +261,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/isro-to-launch-drdo-eos-n1-anvesha-satellite-on-pslv-c62-why-no-one-can-hide-from-it-2849701-2026-01-11",
-      "headline": "Isro to launch DRDO's Anvesha satellite: No one can hide from itThe Indian Space Research Organisation (Isro) is all set to launch the EOS-N1 Anvesha satellite to space aboard the PSLV-C62 mission on Monday."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/delhi/story/delhi-cold-wave-48-degrees-weather-temperature-today-below-4-degrees-aya-nagar-29-degrees-2850020-2026-01-11",
-      "headline": "Delhi shivers as mercury dips below 4 degrees in several areas, Aya Nagar at 2.9\u00b0CDelhi is experiencing a severe cold wave with temperatures plunging below 4 degrees Celsius in several areas, causing discomfort across the city. "
+      "url": "https://www.indiatoday.in/science/story/isro-pslv-c62-launch-takeme2space-eon-space-labs-indian-ai-satellite-moi-1-rental-cost-space-cloud-hyderabad-startup-science-news-space-news-2849981-2026-01-11",
+      "headline": "Cybercafe in space: Rent this Indian AI satellite for price of a cup of coffeeTwo Hyderabad startups are democratising the stars by launching a pay-as-you-go orbital laboratory. This mission features the world's lightest monolithic telescope and an AI brain rentable for $2 a minute.\r\n"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/india-today-50-part-5-the-making-of-modis-india-2849993-2026-01-11",
-      "headline": "India Today @ 50 Part 5: The making of Modi's IndiaIndia Today's 50th anniversary episode reflects on a transformative decade under Prime Minister Narendra Modi's leadership, highlighting sweeping political and social changes from 2014 to 2025. "
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/trump-greenland-threat-denmark-shoot-first-military-strength-us-comparison-2849691-2026-01-10",
-      "headline": "Denmark says we'll shoot first if US invades Greenland. But with what?Denmark's troops are under standing orders to 'shoot first and ask questions later' if the US attacks Greenland, a first since the 1950s. But can the Danish army take on the might of the US in case of a military invasion or a Venezuela-like operation?"
+      "url": "https://www.indiatoday.in/business/budget/story/budget-2026-old-tax-regime-survival-new-tax-regime-deductions-income-expectations-2849988-2026-01-11",
+      "headline": "Budget 2026: Will old tax regime survive and should new regime get deductions?Over the past few years, the government has steadily pushed the new tax regime as the default option while keeping the old regime alive for those with existing commitments and deductions."
     },
     {
       "sentiment": "positive",
@@ -276,8 +276,28 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/iran-unrest-protests-reach-the-two-week-mark-more-weekend-demonstrations-planned-2849987-2026-01-11",
-      "headline": "Enemies of God: Khamenei's death penalty warning as Iran protests rage onThe death toll in the protests has grown to at least 72 people killed and over 2,300 others detained, according to the US-based Human Rights Activists News Agency."
+      "url": "https://www.indiatoday.in/science/story/isro-to-launch-drdo-eos-n1-anvesha-satellite-on-pslv-c62-why-no-one-can-hide-from-it-2849701-2026-01-11",
+      "headline": "Isro to launch DRDO's Anvesha satellite: No one can hide from itThe Indian Space Research Organisation (Isro) is all set to launch the EOS-N1 Anvesha satellite to space aboard the PSLV-C62 mission on Monday."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/delhi-metro-lost-found-helplines-complaints-2849977-2026-01-11",
+      "headline": "I left my AirPods in Delhi Metro. What happened next shocked meMillions ride the Delhi Metro every day, but some passengers leave more than just the platform behind. What happens when an item is lost? Here's the reality."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/interactive/quiz/news/weekly-quiz-559-09-01-2026",
+      "headline": "Question Time: Weekly News QuizThink you read the headlines this week? Let's test that!"
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/cities/delhi/story/delhi-cold-wave-48-degrees-weather-temperature-today-below-4-degrees-aya-nagar-29-degrees-2850020-2026-01-11",
+      "headline": "Delhi shivers as mercury dips below 4 degrees in several areas, Aya Nagar at 2.9\u00b0CDelhi is experiencing a severe cold wave with temperatures plunging below 4 degrees Celsius in several areas, causing discomfort across the city. "
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/trump-greenland-threat-denmark-shoot-first-military-strength-us-comparison-2849691-2026-01-10",
+      "headline": "Denmark says we'll shoot first if US invades Greenland. But with what?Denmark's troops are under standing orders to 'shoot first and ask questions later' if the US attacks Greenland, a first since the 1950s. But can the Danish army take on the might of the US in case of a military invasion or a Venezuela-like operation?"
     },
     {
       "sentiment": "positive",
@@ -286,23 +306,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/interactive/quiz/news/weekly-quiz-559-09-01-2026",
-      "headline": "Question Time: Weekly News QuizThink you read the headlines this week? Let's test that!"
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/prabhas-fan-celebrations-fire-raja-saab-screening-odisha-2850019-2026-01-11",
       "headline": "The Raja Saab: Fire breaks out in theatre after fans burst crackers insideA fire broke out during the screening of 'The Raja Saab' in an Odisha theatre after fans brought in aarti plates, lit lamps, and burst crackers, causing panic among attendees. "
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/us-news/story/venezuelan-oil-revenue-protected-us-national-emergency-order-us-president-donald-trump-2849949-2026-01-10",
-      "headline": "Trump signs order to protect Venezuelan oil revenue held in US accountsPresident Donald Trump has issued an executive order to shield Venezuelan oil revenue held in US Treasury accounts, aiming to prevent legal claims on these funds while advancing US foreign policy objectives."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/moon-mission-landing-artemis-ii-launch-china-lunar-program-chandrayaan-4-2849425-2026-01-11",
-      "headline": "Why 2026 is the year of the MoonThe Moon is no longer just a symbol of past glory. It is now viewed as the gateway between Earth and deep space: close enough to reach quickly, yet distant and hostile enough to test technologies, human endurance."
     },
     {
       "sentiment": "positive",
@@ -313,11 +318,6 @@
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/ayodhya-ram-mandir-kashmiri-youth-detained-namaz-attempt-uttar-pradesh-2849781-2026-01-10",
       "headline": "Kashmiri man attempts to offer namaz inside Ayodhya's Ram Mandir, raises slogansAhmed Sheikh, a resident of Kashmir's Shopian, was detained after allegedly raising slogans and attempting to offer namaz inside the Ram Mandir complex in Ayodhya on Friday. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/karnataka/story/drunk-driver-jumps-divider-rams-car-into-bengaluru-restaurant-incident-caught-on-cctv-camera-2849915-2026-01-10",
-      "headline": "Caught on CCTV: Drunk driver jumps divider, rams car into Bengaluru restaurantAccording to police, the car, driven by a 42-year-old man, was travelling from 18th Main Road towards 100 Feet Road at high speed."
     }
   ],
   "sports": [
