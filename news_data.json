@@ -1,6 +1,16 @@
 {
   "business": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/story/wholesale-inflation-rises-to-083-in-december-as-prices-firm-up-2851918-2026-01-14",
+      "headline": "Wholesale inflation rises to 0.83% in December as prices firm upFood prices showed mixed trends during the month. Wholesale food inflation remained flat in December, compared with a sharp 2.6% decline recorded in November. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/personal-finance/story/insurance-mis-selling-senior-citizens-trust-bank-targets-agent-commission-2851860-2026-01-14",
+      "headline": "Trust, targets and commissions: How senior citizens are trapped by mis-sold insuranceHandcrafted ByOur Editors Senior citizens walk into banks seeking safety and certainty. Too often, they walk out with complex insurance products that quietly put their savings and peace of mind at risk. "
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/budget/story/budget-2026-what-real-estate-sector-expects-on-housing-tax-relief-and-infra-2851821-2026-01-14",
       "headline": "Budget 2026: What real estate sector expects on housing, tax relief and infraWith the Union Budget 2026 around the corner, real estate developers are hoping for policy steps that improve affordability, simplify taxes and strengthen urban infrastructure to support long-term growth."
@@ -8,7 +18,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/where-does-lic-invest-bonds-debt-policyholders-money-and-how-returns-work-2851807-2026-01-14",
-      "headline": "Buying a LIC policy? Here's where your money goes and what you get backWith assets under management of over Rs 57 lakh crore, LIC is not just an insurance company but also one of India's biggest long-term investors."
+      "headline": "Buying an LIC policy? Here's where your money goes and what you get backWith assets under management of over Rs 57 lakh crore, LIC is not just an insurance company but also one of India's biggest long-term investors."
     },
     {
       "sentiment": "negative",
@@ -89,19 +99,49 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/market/story/why-stock-market-is-falling-worst-start-2026-what-investors-should-do-portfolio-large-small-mid-cap-2851497-2026-01-14",
       "headline": "Dalal Street's worst new year in a decade. Should investors worry?After being among the worst-performing major global markets in 2025, Dalal Street has continued to lag peers at the start of the new year, weighed down by global uncertainty and cautious investor sentiment."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/trump-attacks-federal-reserve-chair-powell-criminal-investigation-interest-rates-glbs-2851553-2026-01-14",
-      "headline": "That jerk will be gone soon: Trump slams Fed Chair Powell in Detroit speechUS President Donald Trump has repeatedly clashed with the Fed Chief over its rate strategy, pressing for faster cuts to boost growth and manufacturing. He argues that lower rates would supercharge investment and help ease pressure on consumers."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/india-tariff-impact-us-sanctions-iran-explained-2851304-2026-01-13",
-      "headline": "50% or 75%? How much US tariff could India face after Iran moveThe concern centres on a proposed 25% US tariff on nations maintaining commercial ties with Iran. While a 25% levy may appear manageable on its own, market participants fear it could be imposed over and above existing duties, taking the total tariff burden to as much as 75%."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/music/story/badshah-meets-uttar-pradesh-chief-minister-yogi-adityanath-gorakhpur-mahotsav-bollywood-night-2851897-2026-01-14",
+      "headline": "Badshah meets Yogi Adityanath before Gorakhpur show, praises his compassion Rapper-singer Badshah shares reflections after meeting Chief Minister Yogi Adityanath in Gorakhpur, highlighting the leader's calm and compassionate nature ahead of his performance at the closing ceremony of the Gorakhpur Mahotsav."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/hussain-ustara-mumbai-underworld-razor-wielder-shahid-kapoor-o-romeo-film-2851874-2026-01-14",
+      "headline": "Who was Hussain Ustara? The razor-wielder who 'inspired' Shahid Kapoor's O' Romeo Hussain Ustara, known to be a contract killer in Mumbai, features in Vishal Bhardwaj's O' Romeo. His family has filed a defamation suit raising questions about how the film portrays him."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/alia-bhatt-ranbir-kapoor-mumbai-reception-dance-style-2851893-2026-01-14",
+      "headline": "Alia Bhatt, Ranbir Kapoor's dance to dhol beats at friend's reception goes viral A video of Alia Bhatt and Ranbir Kapoor dancing to dhol beats at a friend's reception at Gauri Khan's restaurant in Mumbai has gone viral, as the couple briefly stepped away from their current film projects to join the celebration."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/rahu-ketu-film-ua-16-plus-certificate-cbfc-content-changes-2851852-2026-01-14",
+      "headline": "Rahu Ketu: Kantara scream, drug-snorting scenes cut; censors issue U/A certificate Pulkit Samrat and Varun Sharma's 'Rahu Ketu' is set to release in theatres on January 16. Ahead of its release, the censor boardrd has suggested a few cuts, including the removal of the 'Kantara' scream."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/allu-arjun-lokesh-kanagaraj-announce-new-film-shoot-begins-this-year-2851879-2026-01-14",
+      "headline": "Allu Arjun, Lokesh Kanagaraj announce new film, shoot begins this year Lokesh Kanagaraj announced his next film starring Allu Arjun with a viral Pongal\u2013Makar Sankranti promo. Produced by Mythri Movie Makers, the untitled project marks AA23 and LK7, with Anirudh Ravichander composing the music."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/nupur-sanon-says-sister-kriti-convinced-mother-about-interfaith-wedding-to-stebin-2851823-2026-01-14",
+      "headline": "Nupur Sanon says sister Kriti convinced mother about interfaith wedding to Stebin Nupur Sanon opened up about her interfaith marriage to Stebin Ben. She revealed that her elder sister Kriti Sanon helped in convincing their mother about Stebin.\r\n\r\n\r\n, Stebin Ben open up on their interfaith wedding; Kriti Sanon helped convince their mother\r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/ram-charan-makes-dosas-as-konidela-family-marks-bhogi-allu-arjun-skips-2851854-2026-01-14",
+      "headline": "Ram Charan makes dosas as Konidela family marks Bhogi, Allu Arjun skips The Konidela family came together at Chiranjeevi's home in Hyderabad for Bhogi celebrations on Wednesday. While Allu Arjun is away in Japan for a film release, he skipped the annual family tradition. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/parasakthis-sivakarthikeyan-calls-vijay-his-brother-jana-nayagan-will-release-soon-2851857-2026-01-14",
+      "headline": "Parasakthi's Sivakarthikeyan calls Vijay his brother: Jana Nayagan will release soon Parasakthi actor Sivakarthikeyan referred to Vijay as his brother in an interview during Pongal celebrations in Delhi. The actor also commented on the viral social media war between his and Vijay's fans on social media."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/television/story/abhishek-malhan-denies-fake-chat-allegations-amid-social-media-misinformation-2851800-2026-01-14",
@@ -156,53 +196,18 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/parasakthi-sivakarthikeyan-celebrates-pongal-with-pm-narendra-modi-in-delhi-gv-prakash-shares-glimpse-2851738-2026-01-14",
       "headline": "Parasakthi team celebrates Pongal with PM Modi in Delhi, GV Prakash shares glimpse Sudha Kongara's Parasakthi team met Prime Minister Narendra Modi in Delhi over Pongal. Composer GV Prakash performed a track from his Tamil pride album Thiruvaasagam for the PM, marking a proud moment for the film and Tamil cinema."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/meet-chandni-bhabhda-from-mimicking-alia-bhatt-to-co-starring-with-ananya-panday-2850827-2026-01-14",
-      "headline": "Meet Chandni Bhabhda: From mimicking Alia Bhatt to co-starring with Ananya Panday Chandni Bhabhda, a popular content creator with over 500k followers known for mimicking celebrities including Alia Bhatt, discussed landing a role in Tu Meri Main Tera Main Tera Tu Meri, and her experiences with the cast, particularly Ananya Panday."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/aditi-rao-hydari-showers-praise-on-haq-calls-yami-gautam-film-unforgettable-2851715-2026-01-14",
-      "headline": "Aditi Rao Hydari showers praise on Haq, calls Yami Gautam's film unforgettable Aditi Rao Hydari praised Haq starring Yami Gautam and Emraan Hashmi, calling it a beautifully crafted and emotionally powerful film that stayed with her long after watching."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/disha-patani-talwiinder-spark-buzz-at-nupur-sanon-stebin-ben-reception-viral-video-2851698-2026-01-14",
-      "headline": "Viral video: Disha Patani, Talwiinder spark buzz at Nupur Sanon-Stebin Ben reception A video from Nupur Sanon and Stebin Ben's wedding reception showing Disha Patani with a man believed to be singer Talwiinder Singh Sidhu has gone viral. This has led to widespread speculation about their relationship."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/shraddha-kapoor-marriage-rumours-rahul-mody-udaipur-social-media-buzz-2851694-2026-01-14",
-      "headline": "Is Shraddha Kapoor marrying Rahul Mody? Brother Siddhanth responds Rumours regarding Shraddha Kapoor's potential wedding in Udaipur have circulated widely on social media, prompting her brother Siddhanth Kapoor to address the speculation and clarify the family's position."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/mana-shankara-vara-prasad-garu-delivers-strong-opening-for-chiranjeevi-2851664-2026-01-14",
-      "headline": "Mana Shankara Vara Prasad Garu delivers strong opening for Chiranjeevi Chiranjeevi's latest action-comedy, Mana Shankara Vara Prasad Garu, earned over Rs 61 crore in two days. It marked a strong comeback after previous setbacks and outpaced recent films in domestic collections."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/shahid-kapoor-o-romeo-in-legal-heat-hussain-ustara-daughter-demands-rs-1-crore-2851711-2026-01-14",
-      "headline": "Shahid's O' Romeo in legal heat, Hussain Ustara's daughter demands Rs 1 crore A legal dispute has surfaced over Shahid Kapoor's film O' Romeo, with Sanober Shaikh alleging unauthorised use of her late father Hussain Ustara's likeness and story. The filmmakers deny these claims, stating the film is fictional and any resemblance to real persons is purely coincidental."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/television/story/yuzvendra-chahal-denies-participation-reality-show-the-50-reunion-rumours-dhanashree-verma-2851690-2026-01-14",
-      "headline": "Yuzvendra Chahal reacts to reunion rumours with ex-wife Dhanashree Verma on The 50 Cricketer Yuzvendra Chahal has clarified that reports about his reunion with ex-wife Dhanashree Verma on the reality show The 50 are unfounded, urging media and fans to refrain from spreading unverified claims."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/radhika-apte-on-long-shifts-in-bollywood-i-have-had-arguments-with-producers-2851656-2026-01-14",
-      "headline": "Radhika Apte on long shifts in Bollywood: I've had arguments with producers Radhika Apte spoke out against long working hours in Bollywood, saying she has often argued with producers for refusing extended shifts. The actor stressed the need for a five-day work week and 12-hour shifts, adding to the ongoing industry debate on work-life balance."
     }
   ],
   "general news": [
     {
       "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/zubin-garg-was-severely-intoxicated-had-declined-life-jacket-singapore-police-to-court-on-singers-death-2851914-2026-01-14",
+      "headline": "Zubeen Garg was very drunk, had declined life jacket: Singapore cops to courtSingapore police told a coroner's court that singer Zubeen Garg drowned off Lazarus Island last September after entering the water without a life jacket while severely intoxicated, with investigators ruling out foul play."
+    },
+    {
+      "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/leave-iran-by-available-means-of-transport-indian-embassy-to-nationals-amid-rising-instability-in-country-2851805-2026-01-14",
-      "headline": "Leave Iran, keep travel docs ready: India to citizens amid deadly unrestThe advisory, dated January 14, urges Indians to exercise due caution, avoid areas of protests or demonstrations, remain in contact with the Embassy, and keep travel and identity documents readily available. In another advisory, the Ministry of External Affairs urged Indians to avoid any travel to Iran until further notice."
+      "headline": "Leave Iran: India's advisory to citizens amid deadly unrest, US attack  UpdatesThe advisory, dated January 14, urges Indians to exercise due caution, avoid areas of protests or demonstrations, remain in contact with the Embassy, and keep travel and identity documents readily available. In another advisory, the Ministry of External Affairs urged Indians to avoid any travel to Iran until further notice."
     },
     {
       "sentiment": "positive",
@@ -216,8 +221,23 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/erfan-soltani-iran-public-execution-tehran-protests-anti-khamenei-family-tehran-news-live-2851696-2026-01-14",
-      "headline": "Iran protester, 26, to be executed today, family got just 10 minutes for final meetErfan Soltani, a 26-year-old Iranian, is set to be executed in public today, in Iran's first death sentence linked to the anti-Khamenei protests, which entered its 20th day on Wednesday. The Khamenei regime moved fast from his \"trial\" to the execution stage. Soltani's family got just 10 minutes to say goodbye to him."
+      "url": "https://www.indiatoday.in/india/tamil-nadu/story/stalin-stirs-the-pongal-pot-is-the-festival-tamil-dravidian-or-national-2851872-2026-01-14",
+      "headline": "Stalin stirs the Pongal pot: Is the festival Tamil, Dravidian or national?By branding Pongal as a \"Dravidian festival\", Chief Minister M K Stalin has turned a centuries-old harvest celebration into a political statement ahead of the 2026 polls, reopening a familiar debate in Tamil Nadu over culture, identity and where regional pride ends and national tradition begins."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/what-pushed-blinkit-swiggy-zepto-swiggymart-to-drop-10-minute-delivery-reality-2851855-2026-01-14",
+      "headline": "What changed after Blinkit dropped 10-minute promise? We spoke to delivery boysHandcrafted ByOur Editors A silent strike on New Year's Eve forced quick commerce giants to drop their flashy 10-minute delivery promises within days. What brought the change and has the race against time really slowed down for delivery agents?"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-new-zealand-2nd-odi-live-score-rohit-sharma-virat-kohli-shubman-gill-rajkot-2851594-2026-01-14",
+      "headline": "2nd ODI Live: Rana removes Conway early in 285 chaseIndia (IND) vs New Zealand (NZ), 2nd ODI Live score: New Zealand (26 for 1 in 7 overs). Devon Conway and Henry Nicholls have made a steady start to their innings. Mohammed Siraj and Harshit Rana will be keen to give the hosts an early breakthrough. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/india-today-group-launches-countrys-first-fast-news-channel-tak-360-2851895-2026-01-14",
+      "headline": "India Today Group launches Tak 360, country's first FAST news channelAnchored in the philosophy of 'gali se globe tak', Tak 360 integrates hyperlocal reporting with national and global perspectives, offering a seamless and comprehensive news experience. "
     },
     {
       "sentiment": "positive",
@@ -226,38 +246,23 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/dmk-mp-dayanidhi-maran-jab-states-pushing-hindi-only-education-youll-be-kept-as-slaves-2851691-2026-01-14",
-      "headline": "Girls educated in south, kept as slaves in north: DMK's Dayanidhi Maran sparks rowDMK's Dayanidhi Maran claimed that restricting education to Hindi alone contributes to unemployment in other regions, while Tamil Nadu's Dravidian model promotes equal access to education for both girls and boys."
+      "url": "https://www.indiatoday.in/world/story/erfan-soltani-iran-public-execution-tehran-protests-anti-khamenei-family-tehran-news-live-2851696-2026-01-14",
+      "headline": "Iran protester, 26, to be executed today, family got just 10 minutes for final meetErfan Soltani, a 26-year-old Iranian, is set to be executed in public today, in Iran's first death sentence linked to the anti-Khamenei protests, which entered its 20th day on Wednesday. The Khamenei regime moved fast from his \"trial\" to the execution stage. Soltani's family got just 10 minutes to say goodbye to him."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/tej-pratap-yadav-meets-lalu-yadav-rabri-devi-tejashwi-historical-dahi-chuda-feast-makar-sankranti-2851733-2026-01-14",
-      "headline": "Estranged Tej Pratap meets Lalu Yadav, Tejashwi; invites them for dahi-chura feastThe gesture marks a notable shift amid reports of a long-standing rift within the Yadav family and is the first time Tej Pratap has been seen with his family members on a public platform."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-new-zealand-2nd-odi-live-score-rohit-sharma-virat-kohli-shubman-gill-rajkot-2851594-2026-01-14",
-      "headline": "2nd ODI Live: Nitish departs, but Rahul in commandIndia (IND) vs New Zealand (NZ), 2nd ODI Live score: India (256 for 7 in 47.2 overs). KL Rahul has looked in ominous form along with Nitish Reddy, who has also looked fluent, while India are looking to finish their innings with a flurry of boundaries in the death overs. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/gk-current-affairs/story/end-of-the-raider-how-mahmud-ghaznis-empire-went-up-in-flames-2851677-2026-01-14",
-      "headline": "End of the Raider: How Mahmud Ghazni's empire went up in flamesMahmud Ghazni plundered India for 24 years, sacking temples like Somnath. His empire crumbled after his death, ending in flames. It was poetic justice for his brutal raids."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/india-hyping-shaksgam-valley-issue-china-responds-army-chief-remarks-pakistan-china-1963-agreement-cpec-sovereignty-concerns-2851806-2026-01-14",
-      "headline": "India 'hyping' Shaksgam valley issue, China responds to Army chief's remarksComments by the Indian Army chief on the Shaksgam Valley have prompted a strong reaction from China, with both nations reiterating their positions on sovereignty and border issues."
+      "url": "https://www.indiatoday.in/business/story/india-tariff-impact-us-sanctions-iran-explained-2851304-2026-01-13",
+      "headline": "50% or 75%? How much US tariff could India face after Iran moveThe concern centres on a proposed 25% US tariff on nations maintaining commercial ties with Iran. While a 25% levy may appear manageable on its own, market participants fear it could be imposed over and above existing duties, taking the total tariff burden to as much as 75%."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/up-tourists-missing-ladakh-pangong-lake-found-rescued-hut-days-police-2851770-2026-01-14",
-      "headline": "4 UP tourists who went missing in Ladakh found in hut in freezing cold after 5 daysFour tourists from Uttar Pradesh, who had gone missing on January 9 during a trip to Ladakh's Pangong Lake, have been found and rescued from a hut near the lake."
+      "url": "https://www.indiatoday.in/india/karnataka/story/manjha-kite-string-fatal-throat-injury-motorcyclist-karnataka-bidar-makar-sankranti-2851869-2026-01-14",
+      "headline": "Karnataka biker's throat slit by kite string, he dies after frantic call to daughterEyewitnesses reported that Sanjeevkumar fell to the ground following the accident, with bystanders gathering around him as he bled profusely from the wound."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/badminton/story/india-open-cleanliness-criticism-kidambi-srikanth-mia-blichfeldt-reaction-2851769-2026-01-14",
-      "headline": "Faced power cuts in Denmark: Kidambi Srikanth defends India Open amid criticismIndia Open 2026: Former world No. 1 Kidambi Srikanth defended playing conditions in New Delhi while responding to criticism from Denmark's Mia Blichfeldt, who said she experienced unclean and unhygienic training conditions in the capital on Tuesday."
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/allu-arjun-lokesh-kanagaraj-announce-new-film-shoot-begins-this-year-2851879-2026-01-14",
+      "headline": "Allu Arjun, Lokesh Kanagaraj announce new film, shoot begins this yearLokesh Kanagaraj announced his next film starring Allu Arjun with a viral Pongal\u2013Makar Sankranti promo. Produced by Mythri Movie Makers, the untitled project marks AA23 and LK7, with Anirudh Ravichander composing the music."
     },
     {
       "sentiment": "positive",
@@ -266,38 +271,33 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/iran-security-chief-ali-larijani-blasts-donald-trump-after-he-supports-protesters-amid-deadly-unrest-glbs-2851538-2026-01-14",
-      "headline": "Trump warns Iran against executing protesters, Tehran calls him main killer Live updatesWithout offering specifics, President Donald Trump said that the US would take \"very strong action\" if Iran began executing protesters. \"If they hang them, you're going to see some things,\" he said."
+      "url": "https://www.indiatoday.in/education-today/gk-current-affairs/story/end-of-the-raider-how-mahmud-ghaznis-empire-went-up-in-flames-2851677-2026-01-14",
+      "headline": "End of the Raider: How Mahmud Ghazni's empire went up in flamesMahmud Ghazni plundered India for 24 years, sacking temples like Somnath. His empire crumbled after his death, ending in flames. It was poetic justice for his brutal raids."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/badminton/story/india-open-2026-pv-sindhu-loses-first-round-nguyen-thuy-linh-2851814-2026-01-14",
-      "headline": "PV Sindhu disappoints, 17-year-old Tanvi goes down fighting against World No. 2India Open 2026: 12th-ranked PV Sindhu lost to familiar foe Nguyen Thuy Linh of Vietnam despite winning the opening game of their women's singles first-round match. Meanwhile, 17-year-old Tanvi Sharma stretched World No. 2 Wang Zhi Yi to three games in her debut at the Super 750 tournament. "
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/dinesh-patnaik-indian-envoy-to-canada-terrorism-warning-40-years-justin-trudeau-khalistani-hardeep-singh-nijjar-killing-evidence-2851759-2026-01-14",
-      "headline": "Warned about terrorism for 40 years, what was done? Indian envoy slams CanadaIndian envoy to Canada, Dinesh Patnaik, slammed Canada for failing to act against terrorism on its soil, which he said New Delhi has warned about for 40 years. \"What has anyone done about it? Not one person has been convicted here,\" he asked."
+      "url": "https://www.indiatoday.in/business/personal-finance/story/insurance-mis-selling-senior-citizens-trust-bank-targets-agent-commission-2851860-2026-01-14",
+      "headline": "Trust, targets and commissions: How senior citizens are trapped by mis-sold insuranceHandcrafted ByOur Editors Senior citizens walk into banks seeking safety and certainty. Too often, they walk out with complex insurance products that quietly put their savings and peace of mind at risk. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/gk-current-affairs/story/when-the-marathas-defeated-the-british-at-the-battle-of-wadgaon-in-1779-2851764-2026-01-14",
-      "headline": "When the Marathas defeated the British at the Battle of Wadgaon in 1779In the Battle of Wadgaon in 1779, the Marathas defeated the British East India Company, though the victory did not last long as the British later broke the treaty and its terms. In that decisive battle, the Marathas showed that true resistance could come only from their formidable military power. "
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/venezuela-blame-for-america-drugs-crisis-fareed-zakaria-host-weighs-in-us-fentanyl-oxycontin-david-herzbeg-drug-historian-2851703-2026-01-14",
-      "headline": "US drug crisis is homegrown, not Venezuelan, expert on Fareed Zakaria showAmid repeated claims by the US that the Maduro regime fuelled America's drug crisis, drug historian David Herzberg broke down who he says is really responsible. Herzberg blamed US pharmaceutical companies and the government for getting Americans hooked on opioids that later spilt into illicit use."
+      "url": "https://www.indiatoday.in/business/story/where-does-lic-invest-bonds-debt-policyholders-money-and-how-returns-work-2851807-2026-01-14",
+      "headline": "Buying an LIC policy? Here's where your money goes and what you get backWith assets under management of over Rs 57 lakh crore, LIC is not just an insurance company but also one of India's biggest long-term investors."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/nasa-deep-space-food-challenge-mars-table-prize-money-astronaut-menu-contest-2851751-2026-01-14",
-      "headline": "Rs 6,75,00,000: That's how much Nasa is offering for cooking Mars foodNasa has launched the Deep Space Food Challenge: Mars to Table, offering a $750,000 (Rs 6.75 crore) prize for an innovative galactic menu. This competition aims to solve the culinary crisis for astronauts on the three-year journey to Mars.\r\n"
+      "url": "https://www.indiatoday.in/world/us-news/story/us-news-american-companies-hit-by-backlash-for-hiring-indians-amid-h1b-visa-restriction-drive-financial-times-2851765-2026-01-14",
+      "headline": "Enabling Indian takeover: Top US companies facing attacks for hiring IndiansAmerican employers hiring Indian professionals are now on the firing line of right-wing commentators on social media. A Financial Times report found that US companies were being accused of trying to replace American workers with Indian counterparts. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/indian-phd-students-win-200000-settlement-discrimination-university-colorado-boulder-2851613-2026-01-14",
-      "headline": "Palak paneer and prejudice: Indian students win Rs 1.8-crore lawsuit in USIndian PhD students Aditya Prakash and Urmi Bhattacheryya also argued that departmental kitchen rules at the University of Colorado Boulder singled out South Asians, discouraging community members from opening their lunches in common areas."
+      "url": "https://www.indiatoday.in/india/story/dmk-mp-dayanidhi-maran-jab-states-pushing-hindi-only-education-youll-be-kept-as-slaves-2851691-2026-01-14",
+      "headline": "Girls educated in south, kept as slaves in north: DMK's Dayanidhi Maran sparks rowDMK's Dayanidhi Maran claimed that restricting education to Hindi alone contributes to unemployment in other regions, while Tamil Nadu's Dravidian model promotes equal access to education for both girls and boys."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/jobs-and-careers/story/student-gig-economy-in-india-earnings-up-to-rs-65000-a-month-before-graduating-2851781-2026-01-14",
+      "headline": "Students now earn up to Rs 65,000 a month from gigs, beating many entry-level jobsIndia's students are no longer earning just pocket money. A new data-led report shows college students making up to Rs 65,000 a month through gig work, with earnings often covering rent, food, and daily expenses. The findings reveal how student gigs are evolving into a critical financial lifeline across metros and tier-2 cities."
     },
     {
       "sentiment": "positive",
@@ -306,21 +306,31 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/india-tariff-impact-us-sanctions-iran-explained-2851304-2026-01-13",
-      "headline": "50% or 75%? How much US tariff could India face after Iran moveThe concern centres on a proposed 25% US tariff on nations maintaining commercial ties with Iran. While a 25% levy may appear manageable on its own, market participants fear it could be imposed over and above existing duties, taking the total tariff burden to as much as 75%."
+      "url": "https://www.indiatoday.in/india/story/tej-pratap-yadav-meets-lalu-yadav-rabri-devi-tejashwi-historical-dahi-chuda-feast-makar-sankranti-2851733-2026-01-14",
+      "headline": "Will wait until 9 pm: Tej Pratap asks estranged brother Tejashwi to merge partyThe gesture marks a notable shift amid reports of a long-standing rift within the Yadav family and is the first time Tej Pratap has been seen with his family members on a public platform. Commenting on Tejashwi's absence, Tej Pratap Yadav said his brother is surrounded by traitors, which is why he hasn't come."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/badminton/story/india-open-2026-anders-antonsen-pulls-out-delhi-extreme-pollution-2851708-2026-01-14",
-      "headline": "India Open: After hygiene row, World No. 2 says polluted Delhi unfit for badmintonWorld No. 2 Anders Antonsen revealed why he was not a part of the India Open in Delhi, citing extreme air pollution as the reason, raising fresh concerns over player safety and tournament conditions. His statement came a day after his compatriot Mia Blichfeldt called out unhygienic training conditions in New Delhi. "
+      "url": "https://www.indiatoday.in/world/story/iran-security-chief-ali-larijani-blasts-donald-trump-after-he-supports-protesters-amid-deadly-unrest-glbs-2851538-2026-01-14",
+      "headline": "Trump warns Iran against executing protesters, Tehran calls him main killer Live updatesWithout offering specifics, President Donald Trump said that the US would take \"very strong action\" if Iran began executing protesters. \"If they hang them, you're going to see some things,\" he said."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/jobs-and-careers/story/student-gig-economy-in-india-earnings-up-to-rs-65000-a-month-before-graduating-2851781-2026-01-14",
-      "headline": "Students now earn up to Rs 65,000 a month from gigs, beating many entry-level jobsIndia's students are no longer earning just pocket money. A new data-led report shows college students making up to Rs 65,000 a month through gig work, with earnings often covering rent, food, and daily expenses. The findings reveal how student gigs are evolving into a critical financial lifeline across metros and tier-2 cities."
+      "url": "https://www.indiatoday.in/world/story/indian-phd-students-win-200000-settlement-discrimination-university-colorado-boulder-2851613-2026-01-14",
+      "headline": "Palak paneer and prejudice: Indian students win Rs 1.8-crore lawsuit in USIndian PhD students Aditya Prakash and Urmi Bhattacheryya also argued that departmental kitchen rules at the University of Colorado Boulder singled out South Asians, discouraging community members from opening their lunches in common areas."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/kl-rahul-special-celebration-daughter-century-vs-new-zealand-rajkot-odi-2851892-2026-01-14",
+      "headline": "Saw KL Rahul's hundred celebration in Rajkot ODI? Here's what it means KL Rahul scored a brilliant hundred for India after his return to the No.5 spot and decided to repeat his special celebration for his daughter during the Rajkot ODI on Wednesday, January 14. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-new-zeland-kl-rahul-century-number-5-spot-odi-rajkot-gautam-gambhir-2851878-2026-01-14",
+      "headline": "KL Rahul hits 87-ball 100 in Rajkot. Should Gautam Gambhir give him No. 5 spot? KL Rahul's unbeaten 112 in Rajkot has reignited the No. 5 debate in India's ODI setup. With consistent returns in that role, Rahul is making a compelling case to be locked in there."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/isl-roadmap-laliga-premier-league-bundesliga-aiff-kalyan-chaubey-trust-2851836-2026-01-14",
@@ -369,12 +379,12 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/virat-kohli-conversion-rate-better-than-rohit-sharma-mohammad-kaif-2851689-2026-01-14",
-      "headline": "Kohli's conversion rate puts him ahead of Rohit Sharma in ODIs: Former batter Mohammad Kaif praises Virat Kohli's impressive conversion rate in ODI cricket, saying it puts him ahead of Rohit Sharma in ODI cricket. Kohli scored 93 (91) in the first ODI against New Zealand in Vadodara."
+      "headline": "Kohli's conversion rate puts him ahead of Rohit Sharma in ODIs: Former batterMohammad Kaif praises Virat Kohli's impressive conversion rate in ODI cricket, saying it puts him ahead of Rohit Sharma in ODI cricket. Kohli scored 93 (91) in the first ODI against New Zealand in Vadodara."
     },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-nz-2nd-odi-ayush-badoni-selection-kris-srikkanth-favouritisim-2851670-2026-01-14",
-      "headline": "Ayush Badoni's ODI selection unfair: Kris Srikkanth alleges favouritism in explosive take IND vs NZ: Former selector Kris Srikkanth has slammed Ayush Badoni's ODI selection as unfair, questioning the yardstick used by selectors and alleging favouritism after consistent performers were overlooked."
+      "headline": "Ayush Badoni's ODI selection unfair: Kris Srikkanth alleges favouritism in explosive takeIND vs NZ: Former selector Kris Srikkanth has slammed Ayush Badoni's ODI selection as unfair, questioning the yardstick used by selectors and alleging favouritism after consistent performers were overlooked."
     },
     {
       "sentiment": "positive",
@@ -394,7 +404,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-new-zealand-2nd-odi-live-score-rohit-sharma-virat-kohli-shubman-gill-rajkot-2851594-2026-01-14",
-      "headline": "2nd ODI Live: Nitish departs, but Rahul in commandIndia (IND) vs New Zealand (NZ), 2nd ODI Live score: India (256 for 7 in 47.2 overs). KL Rahul has looked in ominous form along with Nitish Reddy, who has also looked fluent, while India are looking to finish their innings with a flurry of boundaries in the death overs. "
+      "headline": "2nd ODI Live: Rana removes Conway early in 285 chaseIndia (IND) vs New Zealand (NZ), 2nd ODI Live score: New Zealand (22 for 1 in 5.2 overs). Devon Conway and Henry Nicholls have made a steady start to their innings. Mohammed Siraj and Harshit Rana will be keen to give the hosts an early breakthrough. "
     },
     {
       "sentiment": "positive",
@@ -465,16 +475,6 @@
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/badminton/story/india-open-mia-blichfeldt-pigeon-badminton-new-delhi-cleanliness-hygiene-2851433-2026-01-13",
       "headline": "India Open pigeon free: Badminton body rebuffs Danish shuttler's hygiene complaintIndia Open 2026: Badminton Association of India general secretary Sanjay Mishra clarified that hygiene complaints were about the training hall, not the main arena, after Denmark's Mia Blichfeldt flagged unhealthy warm-up conditions at the India Open on Tuesday. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/stuart-broad-denies-drinking-culture-england-cricket-team-ashes-2851405-2026-01-13",
-      "headline": "England do not have a drinking problem: Broad dismisses Ashes tour criticismFormer England seamer Stuart Broad has insisted that the current England team do not have a drinking problem, despite a series of alcohol-related incidents over the winter in the Ashes."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ayush-badoni-india-odi-squad-new-zealand-sitanshu-kotak-press-conference-2851373-2026-01-13",
-      "headline": "India coach backs Ayush Badoni's ODI selection: No team goes in with five bowlersIndia batting coach Sitanshu Kotak said Ayush Badoni was picked for the remaining ODIs to add bowling depth after Washington Sundar's injury, stressing India cannot risk playing with a five-bowler attack."
     }
   ],
   "education": [
