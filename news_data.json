@@ -104,6 +104,16 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/music/story/harry-styles-announces-new-album-kiss-all-the-time-disco-occasionally-2026-2852686-2026-01-15",
+      "headline": "Harry Styles announces new album 'Kiss All The Time. Disco, Occasionally'. Details Singer Harry Styles has confirmed a new album, titled 'Kiss All the Time. Disco, Occasionally'. in an announcement that sets his musical direction for 2026."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/entertainment/music/story/yo-yo-honey-singh-apologises-controversial-concert-remark-safe-sex-awareness-2852668-2026-01-15",
+      "headline": "Honey Singh 'sorry' for viral explicit words: Meant to promote safe sex among Gen Z Rapper Yo Yo Honey Singh issued a public apology after a remark made at a Delhi concert sparked criticism. In his video message, Honey Singh explained his intention behind the remark and claimed it was wrongly perceived by some people."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/television/story/wheel-of-fortune-india-promo-akshay-kumar-hosts-contestants-spin-big-2852667-2026-01-15",
       "headline": "Wheel of Fortune India promo: Akshay Kumar hosts as contestants spin for big prize The makers of the upcoming show 'Wheel of Fortune India' shared a new promo that features Akshay Kumar taking charge as the host. The show will air on Sony TV on January 27. "
     },
@@ -186,16 +196,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/nikkhil-advani-freedom-at-midnight-2-partition-fear-archival-footage-indian-history-2851362-2026-01-15",
       "headline": "History was always politicised: Nikkhil Advani opens up on Freedom at Midnight 2 Filmmaker Nikkhil Advani discusses the challenges of portraying Partition in Freedom At Midnight 2. The series highlights the fear and trauma of Independence while blending archival footage with fiction."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/kjo-on-adar-poonawalla-backing-homebounds-costly-oscar-push-it-was-bottomless-pit-2852410-2026-01-15",
-      "headline": "KJo on Adar Poonawalla backing Homebound's costly Oscar push: It was bottomless pit Karan Johar revealed how business partner Adar Poonawalla spared no expense while launching the Oscar campaign for their film Homebound. The director called his business partner a \"missionary.\""
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/o-romeo-check-out-shahid-triptii-chemistry-in-hum-to-tere-hi-liye-song-poster-2852358-2026-01-15",
-      "headline": "O'Romeo: Check out Shahid-Triptii's chemistry in Hum To Tere Hi Liye song poster The first look for the romantic song 'Hum To Tere Hi Liye The' from the film 'O'Romeo' has been unveiled. The new poster hints at Shahid Kapoor and Triptii Dimri's unrequited romance."
     }
   ],
   "general news": [
@@ -250,7 +250,7 @@
       "headline": "Severe cold wave to intensify on Friday, continue on SaturdayNorth India continues to battle severe cold wave conditions and dense fog. Expert Devendra Tripathi and IMD predict snowfall in the Himalayan region.\r\n"
     },
     {
-      "sentiment": "positive",
+      "sentiment": "negative",
       "url": "https://www.indiatoday.in/world/story/iran-protests-live-updates-death-toll-ayatollah-ali-khamenei-violent-unrest-economic-crisis-glbs-2851522-2026-01-14",
       "headline": "Live: European Union considering stronger sanctions against IranIran Protests Live Updates: The death toll from nationwide protests in Iran has crossed 2,600 on Wednesday as Iranians were able to make phone calls abroad for the first time in days after authorities cut communications during a sweeping crackdown. The protests, which began more than two weeks ago over the country's struggling economy, have since broadened into direct opposition to the ruling theocracy, including Supreme Leader Ayatollah Ali Khamenei. Iranian state television issued its first indirect acknowledgement of the scale of the deaths, saying the country had suffered a lot of martyrs. While US President Donald Trump urged Iranians to keep protesting, saying help was on the way. Stay tuned to indiatoday.in for all the latest updates."
     },
@@ -291,13 +291,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/vijay-jana-nayagan-makers-eye-republic-day-box-office-window-if-court-case-clears-report-2852243-2026-01-15",
-      "headline": "Jana Nayagan makers eye Republic Day box office window if court case clears: ReportVijay's Jana Nayagan eyes a Republic Day release as makers wait for a hearing in the Madras High Court against the stay on the film's censor certificate. "
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/air-india-delhi-new-york-flight-delhi-iranian-airspace-closure-engine-damaged-taxiing-foreign-object-2852382-2026-01-15",
       "headline": "Air India plane engine sucks in cargo container, suffers damage on return to DelhiAccording to the Director General of Civil Aviation, the damage occurred after landing, while the aircraft was taxiing to the apron."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/entertainment/music/story/yo-yo-honey-singh-apologises-controversial-concert-remark-safe-sex-awareness-2852668-2026-01-15",
+      "headline": "Honey Singh 'sorry' for viral explicit words: Meant to promote safe sex among Gen ZRapper Yo Yo Honey Singh issued a public apology after a remark made at a Delhi concert sparked criticism. In his video message, Honey Singh explained his intention behind the remark and claimed it was wrongly perceived by some people."
     },
     {
       "sentiment": "positive",
@@ -306,13 +306,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/uk-news/story/uk-prime-minister-keir-starmer-backlash-kama-sutra-joke-labour-policy-reversals-economic-concerns-2852557-2026-01-15",
-      "headline": "More positions than Kama Sutra: Keir Starmer's remarks at Conservatives sparks rowThe remarks prompted silence in the chamber, with many MPs and observers describing the moment as awkward and ill-judged."
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/vijay-jana-nayagan-makers-eye-republic-day-box-office-window-if-court-case-clears-report-2852243-2026-01-15",
+      "headline": "Jana Nayagan makers eye Republic Day box office window if court case clears: ReportVijay's Jana Nayagan eyes a Republic Day release as makers wait for a hearing in the Madras High Court against the stay on the film's censor certificate. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/bangladesh-cricket-board-sack-director-m-najmul-islam-players-boycott-bpl-2852426-2026-01-15",
-      "headline": "Bangladesh Cricket Board sack director M Najmul Islam after players boycott BPLThe Bangladesh Cricket Board (BCB) on Thursday sacked director M Nazmul Islam, relieving him of all responsibilities, including his position as head of the finance committee, following demands from cricketers. "
+      "url": "https://www.indiatoday.in/world/uk-news/story/uk-prime-minister-keir-starmer-backlash-kama-sutra-joke-labour-policy-reversals-economic-concerns-2852557-2026-01-15",
+      "headline": "More positions than Kama Sutra: Keir Starmer's remarks at Conservatives sparks rowThe remarks prompted silence in the chamber, with many MPs and observers describing the moment as awkward and ill-judged."
     },
     {
       "sentiment": "negative",
@@ -321,6 +321,21 @@
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/harleen-deol-up-warriorz-retire-out-mumbai-indians-wpl-2026-2852689-2026-01-15",
+      "headline": "Harleen Deol reacts to retire out saga after heroics vs Mumbai Indians WPL 2026: 24 hours after being retired out against Delhi Capitals, Harleen Deol starred with an unbeaten 64 as UP Warriorz secured their first win, defeating Mumbai Indians by seven wickets."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/vidarbha-beats-karnataka-vijay-hazare-trophy-semi-final-aman-mokhade-138-2852684-2026-01-15",
+      "headline": "Vidharbha storm in Vijay Hazare Trophy final, knock defending champion Karnataka out Vidarbha outplayed defending champions Karnataka with a dominant all-round display, clinching a six-wicket win to book their place in the Vijay Hazare Trophy final. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/harleen-deol-up-warriorz-mumbai-indians-nat-sciver-brunt-report-2852655-2026-01-15",
+      "headline": "Retire out to heroics: Harleen Deol seals UP Warriorz maiden win of WPL 2026 WPL 2026, MI vs UPW: Harleen Deol scored an unbeaten 64 as the UP Warriorz opened their account with a seven-wicket win over Mumbai Indians on Thursday in Navi Mumbai. \r\n\r\n"
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/badminton/story/lakshya-sen-india-open-quarterfinals-win-2852661-2026-01-15",
@@ -359,17 +374,17 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/other-sports/story/neeraj-chopra-pre-season-training-south-africa-2026-events-2852468-2026-01-15",
-      "headline": "Neeraj Chopra begins pre-season training in South Africa after MOC approval Neeraj Chopra, India's two-time Olympic medallist in javelin throw, has begun his 32-day pre-season training camp in Potchefstroom, South Africa, after receiving approval from the Sports Ministry's Mission Olympic Cell."
+      "headline": "Neeraj Chopra begins pre-season training in South Africa after MOC approvalNeeraj Chopra, India's two-time Olympic medallist in javelin throw, has begun his 32-day pre-season training camp in Potchefstroom, South Africa, after receiving approval from the Sports Ministry's Mission Olympic Cell."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/yuzvendra-chahal-backs-kuldeep-yadav-rajkot-odi-india-nz-2852469-2026-01-15",
-      "headline": "Kuldeep is No.1 spinner in the world: Chahal backs India star after Rajkot ODI Yuzvendra Chahal has jumped to the defence of Kuldeep Yadav after his horror show during the Rajkot ODI against New Zealand on January 14. Kuldeep leaked runs and was the most expensive bowler in the game. "
+      "headline": "Kuldeep is No.1 spinner in the world: Chahal backs India star after Rajkot ODIYuzvendra Chahal has jumped to the defence of Kuldeep Yadav after his horror show during the Rajkot ODI against New Zealand on January 14. Kuldeep leaked runs and was the most expensive bowler in the game. "
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/aiff-confirms-truncated-isl-gets-afc-recognition-isl-and-super-cup-winners-to-get-indirect-slots-2852454-2026-01-15",
-      "headline": "AIFF says ISL gets AFC recognition; ISL, Super Cup champions to get indirect slots The All India Football Federation (AIFF) on Thursday confirmed that the Asian Football Confederation (AFC) has recognised the truncated 2025-26 Indian Super League, with winners of the ISL and Super Cup earning indirect entry into the AFC Champions League 2 via zonal qualifiers."
+      "headline": "AIFF says ISL gets AFC recognition; ISL, Super Cup champions to get indirect slotsThe All India Football Federation (AIFF) on Thursday confirmed that the Asian Football Confederation (AFC) has recognised the truncated 2025-26 Indian Super League, with winners of the ISL and Super Cup earning indirect entry into the AFC Champions League 2 via zonal qualifiers."
     },
     {
       "sentiment": "positive",
@@ -455,21 +470,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/video/pramod-madhav-reports-as-jallikattu-2026-begins-in-tamil-nadus-avaniapuram-ytvd-2852181-2026-01-15",
       "headline": "Jallikattu 2026: Pramod Madhav On Strict Rules As 1,000 Bulls Enter The ArenaOn this Special Report, India Today Senior Correspondent Pramod Madhav reports from the ground as the traditional bull-taming sport, Jallikattu, begins in Tamil Nadu. Marking the commencement of the Pongal harvest season, the event in Avaniapuram features 1,000 registered bulls and 600 bull tamers. Madhav notes that 'No kind of any chemicals or drugs should not be used either by the bull tamer or on the bulls,' highlighting the strict medical tests and safety norms enforced following Supreme Court interventions. The report details the technicalities of the sport, where tamers must hold onto the bull's hump through the 'vadi vasal' entrance. As the state celebrates the harvest festival, the programme explores the cultural and spiritual significance of this annual athletic tradition, which remains a matter of deep faith for the people of Tamil Nadu."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/u19-world-cup-2026-india-stars-ayush-mhatre-vaibhav-suryavanshi-aaron-george-2852156-2026-01-15",
-      "headline": "U19 World Cup 2026: Know the names beyond Vaibhav SuryavanshiIndia's U19 squad for the 2026 World Cup features a balanced mix of batting, bowling, and all\u2011round talent beyond Vaibhav Suryavanshi. With leaders like Vihaan Malhotra and versatile players, India look well-equipped to challenge for a sixth title."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/icc-u19-world-cup-2026-full-squads-groups-schedule-preview-2852024-2026-01-15",
-      "headline": "U19 World Cup: India favourites, but can Pakistan, Bangladesh spring surprises?The U19 World Cup 2026 is all set to begin in Zimbabwe and Namibia, with India looking like favourites ahead of the tournament. However, Ayush Mhatre and Co. will have some competition this time around en route to their sixth title. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-new-zealand-spinners-better-work-kuldeep-yadab-ryan-ten-doeschate-rajkot-odi-2852116-2026-01-15",
-      "headline": "IND vs NZ: India assistant coach wants better show from spinners after Rajkot ODI lossIndia's spin bowling came under sharp focus after the Rajkot ODI loss, with assistant coach Ryan ten Doeschate admitting the execution was below par. Daryl Mitchell's composed century exposed those flaws as New Zealand levelled the series."
     }
   ],
   "education": [
