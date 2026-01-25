@@ -104,6 +104,16 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/brooklyn-beckham-family-rift-david-victoria-hopeful-reconciliation-2857583-2026-01-25",
+      "headline": "Olive branch out? Beckhams reportedly ready to reconcile with Brooklyn David and Victoria Beckham are open to welcoming their son Brooklyn back into the family following a public dispute, according to sources. The family is said to be saddened by the estrangement, as communication between Brooklyn, his wife Nicola, and the Beckhams reportedly takes place only through mediators."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/vijays-political-rise-jana-nayagan-censor-row-tamil-nadu-election-2857578-2026-01-25",
+      "headline": "Won't bow to pressure: Vijay Thalapathy amid Jana Nayagan censor row Actor and TVK president Vijay launches party symbol at Mahabalipuram while awaiting High Court verdict on his film's release and under scrutiny for the Karur stampede."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/television/story/yuzvendra-chahal-shefali-bagga-spotted-together-mumbai-relationship-rumours-2857566-2026-01-25",
       "headline": "Is Yuzvendra Chahal dating Bigg Boss 13 fame Shefali Bagga? Here's what we know A recent video featuring cricketer Yuzvendra Chahal and Shefali Bagga has triggered renewed speculation about Chahal's personal life, especially amid reports of him and RJ Mahvash unfollowing each other on social media."
     },
@@ -186,38 +196,28 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/athiya-shetty-kl-rahul-third-wedding-anniversary-heartfelt-social-media-posts-2857343-2026-01-24",
       "headline": "Soft launch of forever? Athiya Shetty's 'Happy Three' post melts the internet Bollywood actor Athiya Shetty and cricketer KL Rahul marked their third wedding anniversary by sharing heartfelt moments on Instagram, drawing warm reactions from fans, friends and family."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/pushpa-2-promotion-japan-allu-arjun-rashmika-mandanna-japanese-fan-fluent-telugu-2857318-2026-01-24",
-      "headline": "Japanese fan speaks perfect Telugu, leaves Allu Arjun and Rashmika shocked During a promotional event for Pushpa 2: The Rule in Japan, actors Allu Arjun and Rashmika Mandanna were taken aback when a Japanese fan, Kazu, spoke fluent Telugu and praised their performances."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/mouni-roy-harassment-incident-karnal-performer-safety-2857312-2026-01-24",
-      "headline": "Disgusted and humiliated: Mouni Roy calls out stage harassment in Haryana Actor Mouni Roy has publicly detailed an incident of harassment she experienced at a recent event in Karnal, expressing her distress and urging authorities to respond."
     }
   ],
   "general news": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/padma-awards-list-rohit-sharma-dharmendra-alka-yagnik-shibu-soren-2857608-2026-01-25",
+      "headline": "Padma Vibhushan for Dharmendra posthumously, Padma Shri for cricketer Rohit SharmaDharmendra awarded Padma Vibhushan posthumously, cricketer Rohit Sharma honoured with Padma Shri"
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/dhaka-protests-sheikh-hasinas-address-at-delhi-event-says-remarks-threaten-bangladeshs-peace-2857603-2026-01-25",
+      "headline": "Remarks threaten Bangladesh's peace: Dhaka protests Sheikh Hasina's Delhi addressDhaka protests Sheikh Hasina's address at Delhi event, says remarks threaten Bangladesh's peace"
+    },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/world/canada-news/story/indian-origin-man-dilraj-singh-gill-shot-dead-gang-war-canada-british-columbia-burnaby-royal-canadian-mounted-police-2857504-2026-01-25",
       "headline": "Indian-origin man shot dead in suspected gang war in Canada's BurnabyFrontline officers responded to reports of gunfire and found a male victim suffering from critical injuries. Despite life-saving efforts at the scene, the man was pronounced dead."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/mumbai/story/mumbai-professor-dies-after-being-stabbed-on-moving-local-train-maharashtra-news-2857450-2026-01-25",
-      "headline": "Professor stabbed to death in Mumbai local after altercation with co-passengerThe incident took place when the train was entering the Malad station, which the victim's destination. The attacker managed to flee the scene as the train was coming to a halt."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/veteran-journalist-and-author-mark-tully-dies-at-90-2857574-2026-01-25",
-      "headline": "Mark Tully, veteran journalist and author, dies at 90Born in Calcutta (now Kolkata) on October 24, 1935, Tully was the chief of bureau for the BBC, New Delhi, for 22 years."
-    },
-    {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/t20-world-cup-icc-pakistan-warning-boycott-stunt-ultimatum-sanctions-bangladesh-2857479-2026-01-25",
-      "headline": "ICC warns Pakistan of severe sanctions over T20 World Cup boycott drama: SourcesThe ICC has warned Pakistan of unprecedented sanctions if it pulls out of the T20 World Cup. Sources say a boycott could cripple the PCB financially and isolate Pakistan from global cricket."
+      "url": "https://www.indiatoday.in/india/story/veteran-journalist-and-author-mark-tully-dies-at-90-2857574-2026-01-25",
+      "headline": "Mark Tully, veteran journalist and chronicler of India, dies at 90Born in Calcutta (now Kolkata) in 1935, Tully served as the BBC's New Delhi bureau chief for over two decades and was widely regarded as one of the most perceptive foreign observers of India."
     },
     {
       "sentiment": "positive",
@@ -230,19 +230,24 @@
       "headline": "If 40 is the new layoff age, is it also India's new retirement age?The new middle-class nightmare isn't recession but redundancy at 40. It takes one call, one email, one \"restructuring\", and your peak earning years are wiped out. It is true, India is creating a 20-year gap where people are neither employed nor retired, just stuck in survival mode."
     },
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/cities/mumbai/story/mumbai-professor-dies-after-being-stabbed-on-moving-local-train-maharashtra-news-2857450-2026-01-25",
+      "headline": "Professor stabbed to death in Mumbai local after altercation with co-passengerThe incident took place when the train was entering the Malad station, which the victim's destination. The attacker managed to flee the scene as the train was coming to a halt."
+    },
+    {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/astronaut-shubhanshu-shukla-likely-to-be-awarded-ashok-chakra-on-republic-day-2857554-2026-01-25",
-      "headline": "Astronaut Shubhanshu Shukla likely to be awarded Ashok ChakraGroup Captain Shubhanshu Shukla is likely to be honoured with the Ashok Chakra for his historic mission to the International Space Station (ISS). His 18-day stay in orbit provided critical data for India's upcoming Gaganyaan mission."
+      "url": "https://www.indiatoday.in/sports/cricket/story/t20-world-cup-icc-pakistan-warning-boycott-stunt-ultimatum-sanctions-bangladesh-2857479-2026-01-25",
+      "headline": "ICC warns Pakistan of severe sanctions over T20 World Cup boycott drama: SourcesThe ICC has warned Pakistan of unprecedented sanctions if it pulls out of the T20 World Cup. Sources say a boycott could cripple the PCB financially and isolate Pakistan from global cricket."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/lifestyle/society/story/parenting-civic-culture-india-crying-children-screaming-misbehaviour-flights-public-spaces-childfree-nuisance-2857599-2026-01-25",
+      "headline": "Dear parents, it's not cute when your child screams in publicHandcrafted ByOur Editors Children screaming in public and throwing tantrums have become a common sight in India. Parents typically resort to electronic devices to handle their little ones, which doesn't have the best success rate. Or in many cases, turn a blind eye. The result is unchecked chaos in public spaces, ruining others' happy moments. But who or what is responsible \u2013 bad parenting, tired parents or chronic poor civic culture in India?"
     },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/world/story/23-year-old-hindu-man-burned-alive-inside-garage-in-bangladesh-family-calls-it-pre-meditated-murder-2857453-2026-01-25",
       "headline": "Another Hindu man burned alive in Bangladesh, family calls it planned murderPolice have seized evidence and CCTV footage from the site as the victim's family alleged the garage fire was a planned killing and demanded immediate arrests of those involved."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/american-rock-climber-alex-hannold-508-metre-taipei-101-taiwan-without-harness-broadcast-netflix-2857520-2026-01-25",
-      "headline": "What a view: US Rock climber scales Taiwan's 508-metre Taipei 101 without harnessHonnold's free solo climb of the iconic building in Taiwan's capital city was broadcast live on Netflix with a 10-second delay."
     },
     {
       "sentiment": "positive",
@@ -256,11 +261,6 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/india-third-largest-economy-growth-per-capita-income-debate-needs-reset-2857531-2026-01-25",
-      "headline": "India set to become 3rd-largest economy, but why is per capita income still low?Every time India moves up the global GDP ranks, the per capita income question resurfaces. Looking at both together shows a truer picture than letting one overshadow the other."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/badminton/story/saina-nehwal-badminton-trailblazer-retirement-career-reached-peak-gopichand-coach-2857502-2026-01-25",
       "headline": "Badminton trailblazer: Saina Nehwal reached the peak and showed it was possibleAs Saina Nehwal draws the curtains on a decorated career, this is how ambition and opportunity aligned to shape one of Indian badminton's defining chapters."
     },
@@ -271,13 +271,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/t20-world-cup-bangladesh-accept-icc-decison-axe-scotland-replacement-no-challenge-2857443-2026-01-25",
-      "headline": "Bangladesh accepts ICC's T20 World Cup axe, won't challenge decision furtherThe Bangladesh Cricket Board has accepted the ICC's decision to drop them from the T20 World Cup 2026 after refusing to travel to India. The BCB said there was nothing more they could do."
+      "url": "https://www.indiatoday.in/india/story/mark-tully-profile-british-journalist-bbc-india-life-career-works-1971-war-babri-demolition-emergency-2857592-2026-01-25",
+      "headline": "Who was Mark Tully, the British journalist who belonged to IndiaMark Tully, renowned as the BBC's \"voice of India,\" has died in Delhi at age 90 after decades of reporting and authorship, leaving a legacy as one of the most respected foreign chroniclers of India's modern history."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/story/tvk-can-win-even-if-it-fights-alone-vijay-hints-at-going-solo-in-tamil-nadu-polls-2857564-2026-01-25",
-      "headline": "TVK can win even if it fights alone: Vijay hints at going solo in Tamil Nadu pollsActor Vijay, president of Tamilaga Vettri Kazhagam, has taken a strong political stand against both DMK and AIADMK in Tamil Nadu, asserting his party's readiness to contest elections without alliances. He positions TVK as the only force capable of challenging the established political powers and protecting the state's interests.\r\n"
+      "url": "https://www.indiatoday.in/business/story/india-third-largest-economy-growth-per-capita-income-debate-needs-reset-2857531-2026-01-25",
+      "headline": "India set to become 3rd-largest economy, but why is per capita income still low?Every time India moves up the global GDP ranks, the per capita income question resurfaces. Looking at both together shows a truer picture than letting one overshadow the other."
     },
     {
       "sentiment": "positive",
@@ -296,8 +296,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/trump-science-eclipse-war-nih-foetal-tissue-ban-nasa-cdc-vaccine-brain-drain-2857548-2026-01-25",
-      "headline": "Donald Trump is quietly choking science to deathThe second Trump term is fundamentally rewriting the rules of discovery through data purges and budget blocks. This is the story of how a scientific superpower is choosing to retreat into the shadows.\r\n"
+      "url": "https://www.indiatoday.in/science/story/astronaut-shubhanshu-shukla-likely-to-be-awarded-ashok-chakra-on-republic-day-2857554-2026-01-25",
+      "headline": "Astronaut Shubhanshu Shukla likely to be awarded Ashok ChakraGroup Captain Shubhanshu Shukla is likely to be honoured with the Ashok Chakra for his historic mission to the International Space Station (ISS). His 18-day stay in orbit provided critical data for India's upcoming Gaganyaan mission."
     },
     {
       "sentiment": "negative",
@@ -306,21 +306,51 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/h1b-visa-news-torn-form-families-stranded-indians-now-see-interview-dates-pushed-to-2027-us-jobs-2857249-2026-01-25",
-      "headline": "Torn from families, Indians now see H-1B interview dates pushed to 2027H-1B visa interview dates have once again been delayed, with many applicants seeing their appointments pushed to 2027. The delays stem from a shortage of new interview slots, leaving thousands of professionals stranded in India, separated from their jobs and families while awaiting visa processing."
+      "url": "https://www.indiatoday.in/sports/cricket/story/t20-world-cup-bangladesh-accept-icc-decison-axe-scotland-replacement-no-challenge-2857443-2026-01-25",
+      "headline": "Bangladesh accepts ICC's T20 World Cup axe, won't challenge decision furtherThe Bangladesh Cricket Board has accepted the ICC's decision to drop them from the T20 World Cup 2026 after refusing to travel to India. The BCB said there was nothing more they could do."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/health/story/i-am-losing-body-fat-but-my-weight-is-not-changing-heres-what-is-happening-2856987-2026-01-25",
-      "headline": "I am losing body fat, but my weight is not changing. Here's what is happeningI joined a gym in October hoping the scale would fall. Three months, one and a half hours a day, six days a week later, my clothes were looser and my body fat had dropped, but the weighing machine stubbornly read 53 kg. I wanted to know why the mirror and the machine were telling different stories."
+      "url": "https://www.indiatoday.in/elections/story/tvk-can-win-even-if-it-fights-alone-vijay-hints-at-going-solo-in-tamil-nadu-polls-2857564-2026-01-25",
+      "headline": "TVK can win even if it fights alone: Vijay hints at going solo in Tamil Nadu pollsActor Vijay, president of Tamilaga Vettri Kazhagam, has taken a strong political stand against both DMK and AIADMK in Tamil Nadu, asserting his party's readiness to contest elections without alliances. He positions TVK as the only force capable of challenging the established political powers and protecting the state's interests.\r\n"
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/us-news/story/minneapolis-ice-immigration-alex-jeffrey-pretti-donald-trump-2857517-2026-01-25",
-      "headline": "2-year-old girl, father detained by US immigration officials in MinneapolisThe Department of Homeland Security mentioned Elvis Joel Tipan-Echeverria as an illegal immigrant from Ecuador who committed felony re-entry and broke US laws."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/trump-science-eclipse-war-nih-foetal-tissue-ban-nasa-cdc-vaccine-brain-drain-2857548-2026-01-25",
+      "headline": "Donald Trump is quietly choking science to deathThe second Trump term is fundamentally rewriting the rules of discovery through data purges and budget blocks. This is the story of how a scientific superpower is choosing to retreat into the shadows.\r\n"
     }
   ],
   "sports": [
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/padma-awards-2026-vijay-amritraj-rohit-sharma-harmanpreet-kaur-2857612-2026-01-25",
+      "headline": "Vijay Amritraj conferred Padma Bhushan; Rohit, Harmanpreet receive Padma Shri Vijay Amritraj received the Padma Bhushan, while Rohit Sharma, Harmanpreet Kaur and others were awarded the Padma Shri at the Padma Awards 2026."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/djokovic-advances-australian-open-mensik-injury-withdrawal-2857607-2026-01-25",
+      "headline": "Novak Djokovic gets a lucky break, after Jakub Mensik pulls out of Australian Open Australian Open: Former World No.1 Novak Djokovic has advanced to the quarterfinals of the hard-court major after Jakub Mensik pulled out due to an abdominal muscle injury."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/perth-scorchers-win-sixth-big-bash-league-title-beating-sydney-sixers-2857604-2026-01-25",
+      "headline": "BBL: Perth Scorchers win record sixth title after trouncing Sydney Sixers The Perth Scorchers won their sixth Big Bash League title on Sunday with an emphatic six-wicket victory over Sydney Sixers in the BBL final at Perth Stadium."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-nz-3rd-t20i-live-score-updates-commentary-guwahati-india-new-zealand-abhishek-ishan-2857601-2026-01-25",
+      "headline": "3rd T20I Live: Invincible India eye series victory in Guwahati IND vs NZ Live Score, 3rd T20I: Suryakumar Yadav and co are looking to cap off the series with a win over New Zealand in Guwahati. Can the Men in Blue continue their dominant form?"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/joe-root-defends-brendon-mccullum-england-ashes-review-2857595-2026-01-25",
+      "headline": "Root backs under-fire England coach McCullum: My game has improved tenfold under him Joe Root has jumped to the defence of England coach Brendon McCullum after their underwhelming performance in the Ashes series. McCullum's spot is under serious scrutiny following the loss to Australia. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/bangladesh-wanted-to-play-t20-world-cup-2026-bcb-director-abdur-razzak-2857584-2026-01-25",
+      "headline": "Wanted to play T20 World Cup but had to follow government's order: BCB director Bangladesh wanted to play T20 World Cup 2026 in India but were forced to withdraw from the tournament due to government orders, revealed Bangladesh Cricket Board (BCB) Director Abdur Razzak."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/pamela-conti-appointed-head-coach-indian-u17-womens-football-team-afc-asian-cup-2857577-2026-01-25",
@@ -349,32 +379,32 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/learner-tien-stuns-daniil-medvedev-australian-open-quarter-finals-2857557-2026-01-25",
-      "headline": "Australian Open: Learner Tien stuns Daniil Medvedev again in straight-sets win American teenager Learner Tien produced another stunning chapter in his rapidly rising career as he dismantled Daniil Medvedev 6-4, 6-0, 6-3 at the Australian Open on Sunday to reach the quarter-finals of a Grand Slam for the first time."
+      "headline": "Australian Open: Learner Tien stuns Daniil Medvedev again in straight-sets winAmerican teenager Learner Tien produced another stunning chapter in his rapidly rising career as he dismantled Daniil Medvedev 6-4, 6-0, 6-3 at the Australian Open on Sunday to reach the quarter-finals of a Grand Slam for the first time."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/video/nitin-srivastava-on-pakistans-u-turn-pcb-names-t20-world-cup-squad-after-icc-sanction-warning-ytvd-2857547-2026-01-25",
-      "headline": "Nitin Srivastava On Pakistan's U-Turn: PCB Names T20 World Cup Squad After ICC Sanction Warning On this report, Nitin Srivastava discusses the Pakistan Cricket Board's (PCB) decision to end its boycott threat and name a 15-member squad for the upcoming T20 World Cup in India. The shift comes after a stern warning from the ICC regarding potential sanctions, including the loss of PSL contracts and bilateral series. Nitin Srivastava notes, 'Pakistan was never in that kind of mind frame that they will boycott. It was just a threat to tell ICC that we can actually do that.' The transcript highlights that while Pakistan initially backed Bangladesh's protest against travelling to India, the fear of financial and sporting isolation forced a move toward compliance. While Bangladesh has been replaced by Scotland due to their refusal to play in India, Pakistan will play their matches in Colombo. The discussion underscores that the ICC will not tolerate 'petty politics' or moral support for boycotts that lack a valid security basis, ensuring the tournament proceeds with Pakistan's participation."
+      "headline": "Nitin Srivastava On Pakistan's U-Turn: PCB Names T20 World Cup Squad After ICC Sanction WarningOn this report, Nitin Srivastava discusses the Pakistan Cricket Board's (PCB) decision to end its boycott threat and name a 15-member squad for the upcoming T20 World Cup in India. The shift comes after a stern warning from the ICC regarding potential sanctions, including the loss of PSL contracts and bilateral series. Nitin Srivastava notes, 'Pakistan was never in that kind of mind frame that they will boycott. It was just a threat to tell ICC that we can actually do that.' The transcript highlights that while Pakistan initially backed Bangladesh's protest against travelling to India, the fear of financial and sporting isolation forced a move toward compliance. While Bangladesh has been replaced by Scotland due to their refusal to play in India, Pakistan will play their matches in Colombo. The discussion underscores that the ICC will not tolerate 'petty politics' or moral support for boycotts that lack a valid security basis, ensuring the tournament proceeds with Pakistan's participation."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/bangladesh-t20-world-cup-exit-scotland-replacement-cricket-governance-concerns-2857537-2026-01-25",
-      "headline": "Bangladesh's exit from T20 World Cup a 'sad moment': World Cricket Association The World Cricket Association (WCA) on Sunday voiced its concern over Bangladesh's exit from the upcoming T20 World Cup, describing it as \"a sad moment\" that calls for \"deep reflection\"."
+      "headline": "Bangladesh's exit from T20 World Cup a 'sad moment': World Cricket AssociationThe World Cricket Association (WCA) on Sunday voiced its concern over Bangladesh's exit from the upcoming T20 World Cup, describing it as \"a sad moment\" that calls for \"deep reflection\"."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-nz-raipur-performance-t20-world-cup-dreams-suryakumar-yadav-ishan-kishan-2857521-2026-01-25",
-      "headline": "Great Expectations: India's Raipur Resurrection Ignites T20 World Cup Dreams India's dramatic Raipur chase of 209 transforms cautious hope into intoxicating belief for T20 World Cup glory. Dickens would approve. \r\n\r\n"
+      "headline": "Great Expectations: India's Raipur Resurrection Ignites T20 World Cup DreamsIndia's dramatic Raipur chase of 209 transforms cautious hope into intoxicating belief for T20 World Cup glory. Dickens would approve. \r\n\r\n"
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/australian-open-carlos-alcaraz-vs-tommy-paul-marriage-proposals-shirtless-2857526-2026-01-25",
-      "headline": "Australian Open: Shirtless Alcaraz a hit in Melbourne, laughs off marriage proposals Carlos Alcaraz reached the Australian Open quarter-finals after beating Tommy Paul in straight sets. The world No. 1 also laughed off marriage proposals and cheers during his on-court shirt change."
+      "headline": "Australian Open: Shirtless Alcaraz a hit in Melbourne, laughs off marriage proposalsCarlos Alcaraz reached the Australian Open quarter-finals after beating Tommy Paul in straight sets. The world No. 1 also laughed off marriage proposals and cheers during his on-court shirt change."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/sourav-ganguly-coaches-pretoria-capitals-to-sa20-final-2857514-2026-01-25",
-      "headline": "How Sourav Ganguly guided Pretoria Capitals to SA20 final Pretoria Capitals captain Keshav Maharaj has credited head coach Sourav Ganguly with transforming the team's culture, saying the former India skipper's positive outlook and patience have instilled calm and belief in the dressing room ahead of the SA20 final against Sunrisers Eastern Cape."
+      "headline": "How Sourav Ganguly guided Pretoria Capitals to SA20 finalPretoria Capitals captain Keshav Maharaj has credited head coach Sourav Ganguly with transforming the team's culture, saying the former India skipper's positive outlook and patience have instilled calm and belief in the dressing room ahead of the SA20 final against Sunrisers Eastern Cape."
     },
     {
       "sentiment": "positive",
@@ -444,37 +474,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/australian-open-day-8-updates-aryna-sabalenka-carlos-alcaraz-coco-gauff-melbourne-2857419-2026-01-25",
-      "headline": "Day 8 Live: Andreeva in action vs Svitolina, Alcaraz, Zverev advanceAustralian Open 2026, Day 8 Live: Daniil Medvedev failed to script a familiar comeback story, as a defeat to Learner Tien ended his journey in Round 4. Alexander Zverev advanced to the quarter-finals. Earlier, Spanish world No. 1 Carlos Alcaraz advanced to the quarter-finals with a straight-sets victory over Tommy Paul."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/shakib-al-hasan-bcb-central-contract-comeback-retirement-plan-2857413-2026-01-25",
-      "headline": "Bangladesh cricket board opens door for Shakib Al Hasan's comebackBCB have retained Shakib Al Hasan in their central contract list and reopened the door for his international return, as the veteran all-rounder reveals plans to retire at home after one final series."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/joe-root-england-beat-sri-lanka-level-odi-series-colombo-2857415-2026-01-24",
-      "headline": "SL vs ENG: All-round Joe Root brilliance helps England draw series levelJoe Root starred with bat and ball as England beat Sri Lanka by five wickets in Colombo to level the ODI series ahead of the decider."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/bangladesh-t20-world-cup-boycott-government-call-bcb-director-2857409-2026-01-24",
-      "headline": "Bangladesh's T20 WC boycott a government call, we wanted to play: Board directorBangladesh's T20 World Cup boycott was a government call, according to board director Amjad Hossain. The BCB official said that Bangladesh did want to be a part of the tournament but had to abide by the directive from the government. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/rcb-unbeaten-run-ends-horror-show-vs-delhi-capitals-wpl-2026-2857406-2026-01-24",
-      "headline": "Royal Challengers Bengaluru's unbeaten run ends after horror-show vs Delhi CapitalsRoyal Challengers Bengaluru's five-match winning streak ended in stunning fashion as Delhi Capitals produced a dominant bowling display and chased down a modest target to seal a crushing WPL victory."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-nz-3rd-t20i-predicted-xi-ishan-kishan-sanju-samson-opener-experiment-axar-patel-2857397-2026-01-24",
-      "headline": "IND vs NZ, 3rd T20I Predicted XI: Will India experiment with Ishan Kishan as opener?IND vs NZ, 3rd T20I Predicted XI: Ishan Kishan's blistering knock has reopened India's opener debate ahead of the third T20I against New Zealand. Will Gautam Gambhir persist with Sanju Samson or make a late experiment at the top?"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/t20-world-cup-2026-pakistan-replacement-team-if-pull-out-uganda-bangladesh-2857399-2026-01-24",
-      "headline": "Who replaces Pakistan if they boycott T20 World Cup 2026 like Bangladesh?Following Bangladesh's boycott of the T20 World Cup 2026, Pakistan's participation in the tournament remains under a cloud. Bangladesh were replaced by Scotland on Saturday, January 24. "
+      "headline": "Day 8 Highlights: Svitolina beats Andreeva, Alcaraz, Zverev advance to quartersAustralian Open 2026, Day 8 Highlights: Daniil Medvedev failed to script a familiar comeback story, as a defeat to Learner Tien ended his journey in Round 4. Alexander Zverev advanced to the quarter-finals. Earlier, Spanish world No. 1 Carlos Alcaraz advanced to the quarter-finals with a straight-sets victory over Tommy Paul."
     }
   ],
   "education": [
