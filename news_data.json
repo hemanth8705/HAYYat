@@ -2,6 +2,11 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/us-stocks-hit-historic-milestone-as-dow-jones-crosses-50000-points-for-first-time-ever-2864480-2026-02-07",
+      "headline": "US Stocks hit historic milestone as Dow crosses 50,000 points for first time everUS stocks surged Friday as tech shares rebounded and bitcoin steadied, pushing the S&P 500, Dow and Nasdaq sharply higher despite lingering worries over heavy AI spending and market volatility."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/companies/story/google-ai-wave-q4-result-cross-400-billion-in-annual-revenue-ceo-sundar-pichai-gemini-cloud-services-2864278-2026-02-06",
       "headline": "How Google rode the AI wave to cross $400 billion in annual revenue for 1st timeGoogle said that the Gemini app alone has crossed 750 million monthly active users, showing that AI adoption is no longer limited to developers or businesses."
     },
@@ -94,11 +99,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/bitcoin-hovers-around-71000-hits-weakest-level-in-about-15-months-2863583-2026-02-05",
       "headline": "Bitcoin hovers around $71,000, hits weakest level in about 15 monthsBitcoin fell nearly 2% to around $71,000 on February 5, marking its weakest level in about 15 months. The world's largest cryptocurrency has now lost more than 42% from its October peak of $126,000 last year."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/world-govt-summit-2026-jose-ramos-horta-international-law-warning-2863587-2026-02-05",
-      "headline": "Global conflicts expose decline of international law, says Timor-Leste president President of Timor-Leste Jos\u00e9 Ramos-Horta said the world is witnessing the steady breakdown of global systems that were created to protect peace, human rights, and fair international trade."
     }
   ],
   "entertainment": [
@@ -250,14 +250,14 @@
       "headline": "Trump shares video depicting Obamas as monkeys, gets social media heatA video posted by US President Donald Trump on social media featuring former President Barack Obama and former First Lady Michelle Obama as apes has sparked widespread criticism from Democrats. Former national security advisor Ben Rhodes said that Trump would be remembered as a \"stain\" in history."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/us-news/story/dhs-homeland-security-worst-of-the-worst-criminals-list-89-indian-offenders-names-donald-trump-2864171-2026-02-06",
-      "headline": "ICE's Worst of the Worst list has 89 Indians, most convicted of financial fraudThe US Department of Homeland Security has released a database listing immigrants arrested by ICE and convicted for a range of offences. The database, which has at least 25,000 entries, also lists the names of 89 Indian offenders arrested for crimes ranging from financial fraud to sexual offences. "
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/76-year-old-british-man-sentenced-to-24-years-for-drugging-children-for-sexual-abuse-2864476-2026-02-07",
+      "headline": "British man, 76, sentenced to 24 years for drugging children for sexual abuseA retired British veterinarian was sentenced to nearly 24 years in prison for drugging children with sedatives hidden in candy and sexually abusing them at a summer camp."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/gujarat-valsad-truck-accident-on-national-highway-48-traffic-updates-off-balance-container-falls-on-house-on-gujarat-highway-man-eating-inside-dies-2864369-2026-02-06",
-      "headline": "Off-balance container falls on house on Gujarat highway, man eating inside diesIn one clip, a blue container truck passes by the window as a man casually goes about his chores around 1 pm. Moments later, the rumble grows louder, prompting him to step away just as the truck ploughs into the adjacent room."
+      "url": "https://www.indiatoday.in/india/story/17-indian-students-killed-in-canada-since-2018-centre-tells-parliament-2864477-2026-02-07",
+      "headline": "17 Indian students killed in violent attacks in Canada since 2018: GovtParliament was told that 17 Indian students died in violent attacks in Canada between 2018 and 2025, prompting the government to outline safety measures, consular support and evacuation efforts abroad."
     },
     {
       "sentiment": "positive",
@@ -265,9 +265,24 @@
       "headline": "Samay Raina jokes on free speech: India takes the comic, US takes the audienceSamay Raina spoke to India Today about his new show Still Alive, police case over comedians and US President Donald Trump. He also expressed his excitement about performing at Madison Square Garden. "
     },
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/gujarat-valsad-truck-accident-on-national-highway-48-traffic-updates-off-balance-container-falls-on-house-on-gujarat-highway-man-eating-inside-dies-2864369-2026-02-06",
+      "headline": "Off-balance container falls on house on Gujarat highway, man eating inside diesIn one clip, a blue container truck passes by the window as a man casually goes about his chores around 1 pm. Moments later, the rumble grows louder, prompting him to step away just as the truck ploughs into the adjacent room."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/us-news/story/dhs-homeland-security-worst-of-the-worst-criminals-list-89-indian-offenders-names-donald-trump-2864171-2026-02-06",
+      "headline": "ICE's Worst of the Worst list has 89 Indians, most convicted of financial fraudThe US Department of Homeland Security has released a database listing immigrants arrested by ICE and convicted for a range of offences. The database, which has at least 25,000 entries, also lists the names of 89 Indian offenders arrested for crimes ranging from financial fraud to sexual offences. "
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/india-test-fires-agni-3-ballistic-missile-february-2864384-2026-02-06",
       "headline": "Agni-3: India test fires missile that can strike up to 3,000 kmIndia successfully test-fired the Agni-3 intermediate-range ballistic missile from Odisha on February 6, validating its operational readiness under the Strategic Forces Command. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/history-of-it/story/tawang-integration-india-75-years-story-major-bob-khathing-ralengnao-1951-frontier-peaceful-expedition-northeast-2863753-2026-02-06",
+      "headline": "As Mao marched, India won Tawang without firing even a shot. Thanks to Bob KhatingIn the eastern Himalayas, Tawang used to be a loosely administered frontier region even after the 1914 Shimla Convention placed it in the British-Indian territory. Mao Zedong's annexation of Tibet in 1950 rang alarm bells for India. Then, Major Bob Khathing Ralengnao, a Manipuri Naga officer, achieved what the British could not. He hoisted the Indian Tricolour in Tawang on February 14, 1951, and integrated it with India, without firing a single shot."
     },
     {
       "sentiment": "positive",
@@ -281,13 +296,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/history-of-it/story/tawang-integration-india-75-years-story-major-bob-khathing-ralengnao-1951-frontier-peaceful-expedition-northeast-2863753-2026-02-06",
-      "headline": "As Mao marched, India won Tawang without firing even a shot. Thanks to Bob KhatingIn the eastern Himalayas, Tawang used to be a loosely administered frontier region even after the 1914 Shimla Convention placed it in the British-Indian territory. Mao Zedong's annexation of Tibet in 1950 rang alarm bells for India. Then, Major Bob Khathing Ralengnao, a Manipuri Naga officer, achieved what the British could not. He hoisted the Indian Tricolour in Tawang on February 14, 1951, and integrated it with India, without firing a single shot."
+      "url": "https://www.indiatoday.in/world/story/bangladesh-elections-bnp-tarique-rahman-jamaat-india-poll-manifesto-2864222-2026-02-06",
+      "headline": "Bangladesh elections: What political parties promised on India, HindusThe February 12 Bangladesh elections will see a direct clash between Tarique Rahman's Bangladesh Nationalist Party (BNP) and the Jamaat. Both parties released their poll manifestos this week, outlining their stance towards India and Hindus."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/bangladesh-elections-bnp-tarique-rahman-jamaat-india-poll-manifesto-2864222-2026-02-06",
-      "headline": "Bangladesh elections: What political parties promised on India, HindusThe February 12 Bangladesh elections will see a direct clash between Tarique Rahman's Bangladesh Nationalist Party (BNP) and the Jamaat. Both parties released their poll manifestos this week, outlining their stance towards India and Hindus."
+      "url": "https://www.indiatoday.in/india/story/bsp-mayawati-brahmins-ghooskhor-pandat-netflix-demands-ban-fir-up-election-yogi-adityanath-2864163-2026-02-06",
+      "headline": "BSP chief Mayawati stands up for Brahmins in Ghooskhor Pandat rowBSP supremo Mayawati has demanded a ban and legal action against the upcoming Netflix film Ghooskhor Pandit, calling it \"casteist\". She said the Manoj Bajpayee-starrer insults and angers the Brahmin community. Just weeks ago, Mayawati opposed the UGC's equity rules, batting for \"upper-caste communities\"."
     },
     {
       "sentiment": "positive",
@@ -301,23 +316,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/bsp-mayawati-brahmins-ghooskhor-pandat-netflix-demands-ban-fir-up-election-yogi-adityanath-2864163-2026-02-06",
-      "headline": "BSP chief Mayawati stands up for Brahmins in Ghooskhor Pandat rowBSP supremo Mayawati has demanded a ban and legal action against the upcoming Netflix film Ghooskhor Pandit, calling it \"casteist\". She said the Manoj Bajpayee-starrer insults and angers the Brahmin community. Just weeks ago, Mayawati opposed the UGC's equity rules, batting for \"upper-caste communities\"."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/education-today/featurephilia/story/gen-z-millennial-iq-debate-is-gen-z-first-generation-not-smarter-than-parents-2863684-2026-02-06",
       "headline": "I am a Gen Z, and yes, millennials might actually have a higher IQThe IQ debate has put Gen Z and Millennials side by side. Millennials grew up with limited technology and relied more on memory and focus, while Gen Z was shaped by constant digital access. Cognitive records suggest this shift matters, with Gen Z emerging as the first generation to score lower than its parents in attention, memory, problem-solving, and overall IQ."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/india-weather-forecast-rain-snow-delhi-temperature-fog-february-7-saturday-2026-2864413-2026-02-06",
-      "headline": "Sunny skies in Delhi, rain likely in parts of North India over weekendIndia is set to experience a mix of weather conditions, including fresh snow in the north and persistent fog in the plains. The India Meteorological Department (IMD) has detailed how two Western Disturbances will influence the climate over the coming days.\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/pune-entrepreneur-sunil-motilal-sadarangani-59-jumps-from-high-rise-incident-caught-on-camera-2864124-2026-02-06",
-      "headline": "Pune entrepreneur, 59, jumps from high-rise, incident caught on cameraSunil Motilal Sadarangani, a renowned entrepreneur and owner of Multani Bakery in Solapur, tragically ended his life by jumping from a building in Pune. "
     }
   ],
   "sports": [
