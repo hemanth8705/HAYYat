@@ -1,6 +1,16 @@
 {
   "business": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/market/story/stock-market-opening-bell-sensex-nifty-bse-nse-open-green-higher-fii-buying-resume-india-us-trade-deal-2865849-2026-02-10",
+      "headline": "Sensex, Nifty open higher as FIIs return to D-Street after India-US trade dealThe S&P BSE Sensex added 260.37 points to\u00a084,326.12, while the NSE Nifty50 gained 77.30 points to\u00a025,944.60 as of 10:15 am.\u00a0"
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/story/delhi-hotel-prices-5-star-imperial-oberoi-taj-leela-soar-ai-impact-summit-2026-2865828-2026-02-10",
+      "headline": "Delhi 5-star hotel rates cross Rs 10 lah per day and AI plays a roleAI was already under fire for threatening jobs and changing the way people work. Now, it seems to be hitting wallets in an unexpected way."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/story/india-diversifies-energy-imports-stable-affordable-supply-us-trade-deal-2865640-2026-02-09",
       "headline": "India eyes diverse energy import sources, to ensure stable and affordable supplyThe Foreign Secretary's statement came amid questions over India's purchases of Russian oil, following remarks by US President Donald Trump last week that India had \"committed to stop directly or indirectly\" importing Russian crude."
@@ -89,19 +99,54 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/video/india-us-trade-deal-bilateral-framework-boost-exports-safeguard-interest-farmers-piyush-goyal-2864639-2026-02-07",
       "headline": "India-US trade deal to boost exports, safeguard farmers' interests: Piyush GoyalUnion Commerce and Industry Minister Piyush Goyal said the India-US interim trade framework is a historic step toward achieving USD 500 billion in bilateral trade. He announced that reciprocal tariffs on Indian exports to the US will fall sharply from 50% to 18%. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/india-us-trade-deal-poses-no-threat-to-farmers-msmes-piyush-goyal-rebuts-criticism-2864611-2026-02-07",
-      "headline": "Protection of farmers' interest in US deal surprised some: Govt's dig at OppositionPiyush Goyal dismissed criticism that the India-US trade deal would harm farmers and small producers, asserting that the interim framework fully safeguards their interests. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/diamonds-pharma-items-smartphone-parts-to-face-zero-tariffs-piyush-goyal-on-india-us-trade-deal-2864608-2026-02-07",
-      "headline": "How India flipped the agri script on Trump? Piyush Goyal revealsUnion Minister Piyush Goyal stressed that India maintained its red lines on agriculture and dairy in its trade deal with the US, while opening its market selectively for certain items like wines and spirits."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/ajith-snaps-at-unruly-fans-at-abu-dhabi-racing-event-2865834-2026-02-10",
+      "headline": "This is not a theatre: Ajith snaps at unruly fans at Abu Dhabi racing track Actor Ajith Kumar lost his cool at the Abu Dhabi racing track due to unruly fans. He is participating in the Asian Le Mans Series endurance race."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/t-series-denies-bhool-bhulaiyaa-2-link-with-bhoot-bangla-script-2865839-2026-02-10",
+      "headline": "Was Akshay Kumar's Bhooth Bangla originally Bhool Bhulaiyaa 2? T-Series clarifies T-Series has clarified that there is no connection between Bhool Bhulaiyaa 2 and Bhooth Bangla. The studio denied all rumours about script reuse and reaffirmed its ownership of the franchise, warning against unauthorised use."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/music/story/bts-security-concerns-incheon-airport-fan-mobbing-safety-calls-2865822-2026-02-10",
+      "headline": "BTS members face security concerns at airport; fans express outrage BTS members faced chaotic scenes and security challenges at Incheon Airport during their comeback preparations. The incident raises urgent questions about idol safety and the need for stricter fan management."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/why-kumud-mishras-performance-in-vadh-2-feels-so-unsettling-2865438-2026-02-10",
+      "headline": "Why Kumud Mishra's performance in Vadh 2 feels so unsettling In Vadh 2, Kumud Mishra steps away from his usual soft-spoken roles to play a fierce and intimidating jail superintendent."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/zoya-akhtar-working-on-zindagi-na-milegi-dobara-sequel-original-trio-back-report-2865820-2026-02-10",
+      "headline": "Zoya Akhtar working on Zindagi Na Milegi Dobara sequel, original trio back: Report Zoya Akhtar is planning to revive her Zindagi Na Milegi Dobara world with a sequel soon. A report has suggested that the original trio is likely to be back for the project."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/music/story/sonu-nigam-helps-lost-boy-sri-sai-hubbali-concert-2865799-2026-02-10",
+      "headline": "Sonu Nigam pauses concert to reunite lost child with family, shares video online Singer Sonu Nigam assisted a lost boy named Sri Sai on stage in Hubbali, easing his nerves with music and jokes before the child was safely reunited with his uncle. The artiste posted a video on social media. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/gen-z-defends-baghbans-sanjay-as-green-flag-in-viral-reel-samir-soni-reacts-2865811-2026-02-10",
+      "headline": "Gen-Z defends Baghban's Sanjay as green flag in viral reel, Samir Soni reacts A new viral Instagram reel is leading younger audiences to reconsider the character of Sanjay from the 2003 film Baghban. It questioned earlier narratives that depicted the children as neglectful and emotionally detached. Samir Soni also commented on the reel."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/arijit-singhs-1st-post-after-quitting-playback-is-a-tribute-to-anoushka-shankar-2865805-2026-02-10",
+      "headline": "Arijit Singh's 1st post after quitting playback is a tribute to Anoushka Shankar Arijit Singh performed live in Kolkata alongside Anoushka Shankar for the first time since announcing his decision to step back from playback singing. In a social media note later, he expressed gratitude for the opportunity and shared his experience."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/jana-nayagan-revising-committee-vijay-film-release-delay-2865432-2026-02-10",
+      "headline": "Jana Nayagan goes to revising committee: What's next for Vijay's farewell film? Vijay's Jana Nayagan has now been sent to the CBFC revising committee after complaints about its content. The film's release continues to face delays amid ongoing legal and administrative hurdles."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/nagarjuna-sankranthi-2027-film-release-kalyan-krishna-naga-chaitanya-2865772-2026-02-10",
@@ -151,58 +196,13 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/siddharth-anand-keen-return-romance-genre-storytelling-over-scale-2865627-2026-02-09",
       "headline": "Siddharth Anand keen to return to romance: I want to do it all Director Siddharth Anand, known for his recent action blockbusters, has revealed his intention to return to romantic films, stating that his creative choices are driven by compelling stories rather than size or genre."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/shanaya-kapoor-on-social-media-judgement-put-your-head-down-keep-doing-the-work-2865632-2026-02-09",
-      "headline": "Shanaya Kapoor on social media judgement: Put your head down, keep doing the work Shanaya Kapoor said she doesn't see her Bollywood journey as a struggle for survival, choosing instead to focus on improving her craft and enjoying the process."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/adarsh-gourav-i-never-became-an-actor-to-become-a-movie-star-2865611-2026-02-09",
-      "headline": "Adarsh Gourav on stardom: I never became an actor to be a movie star Adarsh Gourav spoke to India Today about his views on stardom and how he hopes to reach a wider audience. He reflected on his aim to use his influence to support experimental scripts and unconventional stories that lack production backing."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/biju-menon-skipped-drishyam-directors-film-promotion-rs-25-lakh-loss-unnikrishnan-2865612-2026-02-09",
-      "headline": "Biju Menon skipped Drishyam director's film promotion, Rs 25 lakh loss: Unnikrishnan  The FEFKA general secretary B Unnikrishnan alleges the actor's absence from promotional events caused a producer a Rs 25 lakh loss."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/is-suriya-set-to-collaborate-with-another-telugu-director-heres-what-we-know-2865565-2026-02-09",
-      "headline": "Is Suriya set to collaborate with another Telugu director? Here's what we know Suriya, who is currently juggling multiple projects, has reportedly responded positively to director Parasuram's first narration."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/pankaj-tripathi-seeks-meaningful-cinema-after-a-year-long-creative-break-2865547-2026-02-09",
-      "headline": "Pankaj Tripathi seeks meaningful cinema after a year-long creative break After a yearlong hiatus to combat creative fatigue, Pankaj Tripathi has revealed a shift in his cinematic priorities. The actor is now seeking projects that balance entertainment with depth, choosing roles that offer artistic satisfaction and meaningful storytelling over mere survival in the film industry."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/music/story/vishal-dadlani-advises-aspiring-singers-avoid-shortcuts-rely-talent-success-2865594-2026-02-09",
-      "headline": "Vishal Dadlani's stern warning to aspiring singers: Don't get some mantri to call me Vishal Dadlani issued a warning to new artists not to use influential intermediaries to approach him. He called for talent, hard work, and self-belief as the path to success in music."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/nick-jonas-dedicates-song-princesses-to-daughter-malti-marie-2865601-2026-02-09",
-      "headline": "Nick Jonas dedicates song Princesses to daughter Malti Marie: That's how I see her Nick Jonas shared that his emotional song Princesses was inspired by his daughter Malti Marie, explaining that it reflects the way he sees her and her world."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/lahore-1947-aamir-khan-productions-release-independence-day-week-2026-2865582-2026-02-09",
-      "headline": "Aamir Khan, Sunny Deol's Lahore 1947 to release on Independence Day 2026 Aamir Khan Productions has confirmed that its period drama Lahore 1947 will be released in theatres on August 13, 2026, aligning with the Independence Day week."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/music/story/bts-arirang-album-2026-release-diplo-collaboration-global-world-tour-2865569-2026-02-09",
-      "headline": "Diplo breaks silence on BTS collaboration, calls ARIRANG their boldest album yet Grammy-winning music producer Diplo offers rare insight into BTS's new album Arirang, teasing its sound and why it could surprise fans."
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/t20-world-cup-pakistan-make-u-turn-to-play-india-as-scheduled-on-february-15-2865745-2026-02-09",
-      "headline": "Pakistan make India boycott U-turn, to play T20 World Cup clash on February 15T20 World Cup 2026: The much-anticipated India-Pakistan clash will go ahead on February 15 in Colombo, the Pakistan government confirmed. Citing \"outcomes achieved\" and requests from friendly countries, Pakistan has cleared its team to take the field."
+      "url": "https://www.indiatoday.in/sports/cricket/story/t20-world-cup-pakistan-boycott-drama-u-turn-posturing-2865808-2026-02-10",
+      "headline": "Paper Tiger Pakistan's India boycott bluff that fooled no oneT20 World Cup 2026: What began as a bold stand in the name of solidarity quickly unravelled, as Pakistan's India boycott met financial reality, ICC pragmatism and a rivalry too valuable, too loud and too lucrative to quietly abandon."
     },
     {
       "sentiment": "positive",
@@ -211,13 +211,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/karyna-shuliak-longtime-belarusian-dentist-girlfriend-jeffrey-epstein-key-beneficiary-estate-revealed-2865719-2026-02-09",
-      "headline": "Karyna Shuliak, the mystery woman in Epstein's final call who became his heirNewly released documents shed light on Karyna Shuliak, a Belarusian dentist and Jeffrey Epstein's girlfriend. Files detail a relationship marked by loyalty and strain that lasted until Epstein's death in 2019, with Shuliak named his main beneficiary."
+      "url": "https://www.indiatoday.in/world/story/elon-musk-mark-zuckerberg-wild-dinner-party-jeffrey-epstein-fresh-batch-of-files-new-picture-viral-reid-hoffman-peter-thiel-sex-offender-conviction-2865797-2026-02-10",
+      "headline": "Elon Musk, Mark Zuckerberg seen at 'wild' dinner party with Epstein in new filesIn the newly released trove of Jeffrey Epstein files, Tesla CEO Elon Musk and Meta's Mark Zuckerberg are pictured as guests at a swanky dinner party, which the sex offender termed \"wild\"."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/iran-news-man-makes-video-appeal-to-us-president-donald-trump-protest-crackdown-tehran-2865628-2026-02-09",
-      "headline": "If you're watching this, I am dead: Iran man makes video appeal to Trump, kills selfAn Iranian man reportedly took his own life after posting a video urging US President Donald Trump and Western governments not to negotiate with Tehran. He claimed that the Khamenei regime was responsible for at least 40,000 deaths in Iran, and that any deal would be a betrayal of the protestors. "
+      "url": "https://www.indiatoday.in/technology/news/story/has-sarvam-ai-really-beaten-chatgpt-google-gemini-yes-and-no-2865777-2026-02-10",
+      "headline": "Has Sarvam AI really beaten ChatGPT, Google Gemini? YES and NOSarvam AI has been at the centre of many discussions on social media in the past couple of days. The Indian AI company has outperformed ChatGPT and Google Gemini in some key areas. So, can we say Sarvam AI has beaten the best, including Google Gemini and ChatGPT? Yes and no. "
     },
     {
       "sentiment": "positive",
@@ -225,14 +225,14 @@
       "headline": "Why UPSC's red line on repeat attempts is a tough reformFor years, the UPSC allowed already-selected officers to reappear in the Civil Service Examination. While they sought \"better\" services, seats for fresh aspirants shrunk. This drained public resources too. The UPSC, with the new rule, is trying to curb the practice. There are some inter-services power dynamics, too, at play in the story."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/no-copies-of-ex-army-chiefs-unapproved-book-published-or-sold-penguin-india-2865744-2026-02-09",
-      "headline": "No copies of ex-Army chief's unapproved book published or sold: Penguin IndiaIn an official statement, Penguin Random House India said it holds the sole publishing rights to the memoir but has not released the book in print or digital form."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/uk-home-secretary-shabana-mahmood-in-focus-uk-pm-keir-starmer-successor-jeffrey-epstein-scandal-2865829-2026-02-10",
+      "headline": "UK to get 1st Muslim PM? Shabana Mahmood in focus amid Starmer's Epstein scandalAs Keir Starmer struggles to steady his leadership after the Epstein files shook Downing Street, speculation has grown over who could succeed him as the UK Prime Minister. Among the names gaining traction is Home Secretary Shabana Mahmood."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/t20-world-cup-pakistan-vs-india-boycott-u-turn-sri-lanka-president-thank-you-shehbaz-sharif-2865776-2026-02-10",
-      "headline": "Sri Lanka President pens thank-you note to Pak PM Sharif for India boycott U-turnT20 World Cup: Sri Lanka President Anura Kumara Dissanayake thanked Pakistan Prime Minister Shehbaz Sharif after Pakistan confirmed it will play India on February 15 in Colombo. The U-turn ended boycott uncertainty around the T20 World Cup's biggest fixture."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/story/delhi-hotel-prices-5-star-imperial-oberoi-taj-leela-soar-ai-impact-summit-2026-2865828-2026-02-10",
+      "headline": "Delhi 5-star hotel rates cross Rs 10 lah per day and AI plays a roleAI was already under fire for threatening jobs and changing the way people work. Now, it seems to be hitting wallets in an unexpected way."
     },
     {
       "sentiment": "positive",
@@ -241,13 +241,38 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/shahid-kapoor-part-romeo-part-haider-but-always-an-imperfectly-perfect-hero-2865527-2026-02-10",
-      "headline": "Shahid Kapoor: Part Romeo, part Haider but always an imperfectly perfect heroShahid Kapoor has built a career on characters that are difficult to admire and impossible to ignore. From Ishq Vishk and Kaminey to Haider, Kabir Singh and the upcoming O' Romeo, the actor has rejected the idea of the perfect Bollywood hero."
+      "url": "https://www.indiatoday.in/movies/bollywood/story/zoya-akhtar-working-on-zindagi-na-milegi-dobara-sequel-original-trio-back-report-2865820-2026-02-10",
+      "headline": "Zoya Akhtar working on Zindagi Na Milegi Dobara sequel, original trio back: ReportZoya Akhtar is planning to revive her Zindagi Na Milegi Dobara world with a sequel soon. A report has suggested that the original trio is likely to be back for the project."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/cities/delhi/story/delhi-police-investigate-deaths-randhir-ram-naresh-lakshmi-peeragarhi-car-flyover-deaths-tantric-baba-associate-met-morning-2865817-2026-02-10",
+      "headline": "Tantric angle emerges in Delhi car deaths, victims met baba hours earlierDelhi Police are questioning the connection of a tantric and his associate in the case of the dead bodies found inside a parked car on the Peeragarhi flyover. The three victims met the baba and his aide in the morning, hours before their bodies were discovered."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/elections/assembly/story/himanta-vs-gaurav-gogoi-himanta-biswa-sarma-is-desperate-revealed-kids-passports-called-for-genocide-says-gaurav-gogoi-2865759-2026-02-10",
-      "headline": "Himanta is desperate, revealed kids' passports, called for genocide: Gaurav GogoiCongress MP Gaurav Gogoi alleged that Himanta Biswa Sarma's actions reflect a desperate attempt to intimidate communities, claiming the Chief Minister \"would go to any length,\" even engaging in illegal acts such as calling for genocide."
+      "url": "https://www.indiatoday.in/india/south/story/asaduddin-owaisi-used-as-political-scarecrow-revanth-reddy-slams-bjps-divisive-politics-2865827-2026-02-10",
+      "headline": "Owaisi used as political scarecrow: Revanth Reddy slams BJP's 'divisive politicsTelangana CM A. Revanth Reddy said that the BJP projects Owaisi as a political \"lifeline\" and frequently raises his name while claiming to champion religious causes. He questioned why no action had been taken against Owaisi if the BJP truly considered him a threat, despite being in power at the Centre and in several states."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/no-copies-of-ex-army-chiefs-unapproved-book-published-or-sold-penguin-india-2865744-2026-02-09",
+      "headline": "No copies of ex-Army chief's unapproved book published or sold: Penguin IndiaIn an official statement, Penguin Random House India said it holds the sole publishing rights to the memoir but has not released the book in print or digital form."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/iran-news-man-makes-video-appeal-to-us-president-donald-trump-protest-crackdown-tehran-2865628-2026-02-09",
+      "headline": "If you're watching this, I am dead: Iran man makes video appeal to Trump, kills selfAn Iranian man reportedly took his own life after posting a video urging US President Donald Trump and Western governments not to negotiate with Tehran. He claimed that the Khamenei regime was responsible for at least 40,000 deaths in Iran, and that any deal would be a betrayal of the protestors. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/karyna-shuliak-longtime-belarusian-dentist-girlfriend-jeffrey-epstein-key-beneficiary-estate-revealed-2865719-2026-02-09",
+      "headline": "Karyna Shuliak, the mystery woman in Epstein's final call who became his heirNewly released documents shed light on Karyna Shuliak, a Belarusian dentist and Jeffrey Epstein's girlfriend. Files detail a relationship marked by loyalty and strain that lasted until Epstein's death in 2019, with Shuliak named his main beneficiary."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/t20-world-cup-pakistan-vs-india-boycott-u-turn-sri-lanka-president-thank-you-shehbaz-sharif-2865776-2026-02-10",
+      "headline": "Sri Lanka President thanks Pakistan PM Shehbaz Sharif for India boycott U-turnT20 World Cup: Sri Lanka President Anura Kumara Dissanayake thanked Pakistan Prime Minister Shehbaz Sharif after Pakistan confirmed it will play India on February 15 in Colombo. The U-turn ended boycott uncertainty around the T20 World Cup's biggest fixture."
     },
     {
       "sentiment": "positive",
@@ -256,23 +281,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/delhi-police-files-case-over-leak-of-gen-naravane-unapproved-book-four-stars-of-destiny-2865616-2026-02-09",
-      "headline": "Delhi Police files case over leak of ex-Army chief's unapproved bookDelhi Police has registered a case over the alleged leak and online circulation of a pre-print PDF of Four Stars of Destiny, the unpublished memoir of former Army chief MM Naravane, which lacks mandatory clearance. "
+      "url": "https://www.indiatoday.in/technology/news/story/this-is-first-ferrari-ev-it-has-an-apple-connection-2865836-2026-02-10",
+      "headline": "This is first Ferrari EV, it has an Apple connectionFerrari has unveiled the interiors of its first-ever EV, the Luce. The interior has been designed by LoveFrom, a design firm cofounded by former Apple designer Jony Ive."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/has-sarvam-ai-really-beaten-chatgpt-google-gemini-yes-and-no-2865777-2026-02-10",
-      "headline": "Has Sarvam AI really beaten ChatGPT, Google Gemini? YES and NOSarvam AI has been at the centre of many discussions on social media in the past couple of days. The Indian AI company has outperformed ChatGPT and Google Gemini in some key areas. So, can we say Sarvam AI has beaten the best, including Google Gemini and ChatGPT? Yes and no. "
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/israel-warns-us-unilateral-strike-iran-ballistic-missile-threat-netanyahu-trump-glbs-2865758-2026-02-10",
-      "headline": "Israel will strike Iran alone if missile 'red line' is crossed, officials tell USIsrael has warned the US it may take unilateral military action if Iran crosses its missile threat threshold. Security sources said Israeli plans to dismantle Iran's missile production and launch infrastructure were conveyed in recent weeks through high-level diplomatic and military exchanges."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/keir-starmer-under-pressure-mandelson-epstein-controversy-calls-resignation-2865688-2026-02-09",
-      "headline": "Epstein Files rock Downing Street as Starmer fights to hold on amid calls to quitCalls for Prime Minister Keir Starmer's resignation have grown bolder from within his party ranks after Scottish Labour Party leader Anas Sarwar publicly called for a change in the UK's leadership. Sarwar's intervention, alongside the departure of two key aides, has amplified doubts about Starmer's ability to maintain control of his government at a critical juncture."
+      "url": "https://www.indiatoday.in/india/story/parliament-budget-session-2026-live-updates-lok-sabha-rajya-sabha-2865787-2026-02-10",
+      "headline": "Live: Women BJP MPs write to Speaker Om Birla seeking action over House disruptionsParliament Session Live Updates: Women MPs from the BJP have written to Lok Sabha Speaker Om Birla seeking the \"strictest possible action, under the rules,\" against Opposition MPs over the February 4, 2026, ruckus in the House. The letter accuses Opposition members of entering the well, climbing the Speaker's table and disrupting proceedings. Meanwhile, the Parliamentary Committee on External Affairs will meet today, the same day the India bloc is set to hold a meeting at 10 am. Stay with IndiaToday.in for latest and live updates."
     },
     {
       "sentiment": "negative",
@@ -281,50 +296,60 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/featurephilia/story/bars-and-benches-learning-has-left-the-classroom-to-make-a-pint-pint-of-view-nerd-nite-unlearn-ai-rebellion-2865466-2026-02-09",
-      "headline": "Bars and Benches: Learning has left the classroom to make a pintOn weeknights across Indian cities, people are skipping screens and certificates to gather over ideas (and some beer). From bars to caf\u00e9s, learning is turning social, unscripted and refreshingly human. In this age of AI, is thinking together education's quiet rebellion? Read on to find out. "
+      "url": "https://www.indiatoday.in/lifestyle/society/story/raising-kids-in-a-screen-first-world-do-household-chores-still-matter-2863454-2026-02-10",
+      "headline": "Raising kids in a screen-first world: Do household chores still matter?In trying to ease their children's lives, many parents fall into snowplough parenting, removing challenges instead of building resilience. Experts say household chores help restore that balance."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/ghislaine-maxwell-refuses-testify-us-congress-seeks-clemency-from-trump-epstein-case-glbs-2865761-2026-02-10",
-      "headline": "Epstein's ex refuses to answer on his crimes in US Congress, seeks Trump clemencyCommittee members had sought detailed answers on Epstein's network and the circumstances that allowed him to abuse underage girls for years. However, Maxwell declined to respond, repeatedly citing her Fifth Amendment rights."
+      "url": "https://www.indiatoday.in/sports/cricket/story/t20-world-cup-netherlands-day-jobs-dreams-associate-nations-squad-zach-lion-cachet-vs-namibia-2865807-2026-02-10",
+      "headline": "Day jobs and World Cup dreams: Inside the relentless grind of associate nationsT20 World Cup: The Netherlands' World Cup journey is built as much on day jobs and distant dreams as it is on runs and wickets. At the Arun Jaitley Stadium, Zak leon-cash-ay's spell in the nets captures that quiet hope perfectly."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/elections/assembly/story/himanta-vs-gaurav-gogoi-himanta-biswa-sarma-is-desperate-revealed-kids-passports-called-for-genocide-says-gaurav-gogoi-2865759-2026-02-10",
+      "headline": "Himanta is desperate, revealed kids' passports, called for genocide: Gaurav GogoiCongress MP Gaurav Gogoi alleged that Himanta Biswa Sarma's actions reflect a desperate attempt to intimidate communities, claiming the Chief Minister \"would go to any length,\" even engaging in illegal acts such as calling for genocide."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/trump-threatens-to-block-opening-of-detroit-canada-bridge-in-new-trade-row-2865765-2026-02-10",
-      "headline": "Trump threatens to block opening of US-Canada bridge in fresh trade disputeDoanld Trump accused Canada of treating the United States \"very unfairly\" for decades and said he would not allow the new bridge between Ontario and Michigan to open unless Washington receives what he called \"full compensation\"."
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/jana-nayagan-revising-committee-vijay-film-release-delay-2865432-2026-02-10",
+      "headline": "Jana Nayagan goes to revising committee: What's next for Vijay's farewell film?Vijay's Jana Nayagan has now been sent to the CBFC revising committee after complaints about its content. The film's release continues to face delays amid ongoing legal and administrative hurdles."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/wont-allow-any-impediments-in-sir-process-supreme-court-warns-states-during-ec-vs-mamata-hearing-2865485-2026-02-09",
-      "headline": "Won't allow impediments to SIR, SC warns Bengal, extends deadline by a weekThe remark came after West Bengal Chief Minister filed a petition in the Supreme Court, demanding a slew of changes in the SIR process, including ending WhatsApp use for communication and the removal of micro observers."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/jana-nayagan-producer-files-plea-to-withdraw-case-against-censor-board-amid-row-2865567-2026-02-09",
-      "headline": "Jana Nayagan maker to withdraw case amid censor row, hearing on February 10Jana Nayagan producer has filed plea to withdraw the case against Central Borad of Film Certification amid row. The film features Vijay in the lead role."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/king-charles-supports-police-investigation-prince-andrew-epstein-trade-secrets-glbs-2865767-2026-02-10",
-      "headline": "King Charles backs UK police in any probe into brother Andrew amid Epstein falloutPrince Andrew allegedly sent confidential trade reports to Jeffrey Epstein in 2010, after the financier had already been convicted of child sex offences, according to emails included among more than three million pages of documents released last month by the US Justice Department."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/bangladesh-absence-from-t20-world-cup-regrettable-no-sanctions-on-bcb-icc-2865726-2026-02-09",
-      "headline": "Bangladesh's absence from T20 World Cup regrettable, no sanctions on BCB: ICCThe International Cricket Council (ICC) said Bangladesh's absence from the ICC Men's T20 World Cup 2026 was unfortunate, but confirmed that the Bangladesh Cricket Board (BCB) will not face any financial, sporting or administrative punishment."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/icc-t20-world-cup-2026-pakistan-india-bangladesh-bcb-chief-lahore-meeting-mohsin-naqvi-pcb-shehbaz-sharif-2865400-2026-02-09",
-      "headline": "Rushing to Lahore: Midnight text from Bangladesh cricket chief amid T20 politicsAt 1 am on Saturday, the Bangladesh Cricket Board chief took a flight to rush to Lahore without even his BCB colleagues unaware of the plans. BCB chief Aminul Islam Bulbul reached Pakistan to be at the meeting between the ICC and the Pakistan Cricket Board. Here we analyse why Bulbul took the midnight flight to Lahore."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/israel-warns-us-unilateral-strike-iran-ballistic-missile-threat-netanyahu-trump-glbs-2865758-2026-02-10",
+      "headline": "Israel will strike Iran alone if missile 'red line' is crossed, officials tell USIsrael has warned the US it may take unilateral military action if Iran crosses its missile threat threshold. Security sources said Israeli plans to dismantle Iran's missile production and launch infrastructure were conveyed in recent weeks through high-level diplomatic and military exchanges."
     }
   ],
   "sports": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/t20-world-cup-pakistan-vs-usa-preview-today-match-india-boycott-drama-over-babar-azam-2865848-2026-02-10",
+      "headline": "Boycott drama over: Pakistan now battle past demons vs USA T20 World Cup: Pakistan's boycott drama over India is finally behind them. Now Salman Ali Agha's side face old demons against the USA, knowing another slip could leave their Super 8 hopes hanging on results elsewhere."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/t20-world-cup-netherlands-vs-namibia-live-score-today-match-new-delhi-updates-2865847-2026-02-10",
+      "headline": "NED vs NAM, T20 World Cup 2026: Live Score and Updates from New Delhi NED (Netherlands) vs NAM (Namibia) Live Score, T20 World Cup: After coming close to pulling off a famous win against Pakistan, Netherlands will be aiming to bounce back and get themselves on the board against Namibia as both sides face off in New Delhi. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/t20-world-cup-netherlands-day-jobs-dreams-associate-nations-squad-zach-lion-cachet-vs-namibia-2865807-2026-02-10",
+      "headline": "Day jobs and World Cup dreams: Inside the relentless grind of associate nations T20 World Cup: The Netherlands' World Cup journey is built as much on day jobs and distant dreams as it is on runs and wickets. At the Arun Jaitley Stadium, Zak leon-cash-ay's spell in the nets captures that quiet hope perfectly."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/t20-world-cup-pakistan-boycott-drama-u-turn-posturing-2865808-2026-02-10",
+      "headline": "Paper Tiger Pakistan's India boycott bluff that fooled no one T20 World Cup 2026: What began as a bold stand in the name of solidarity quickly unravelled, as Pakistan's India boycott met financial reality, ICC pragmatism and a rivalry too valuable, too loud and too lucrative to quietly abandon."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/sachin-tendulkar-ayush-mhatre-special-jersey-india-u19-world-cup-2865789-2026-02-10",
+      "headline": "Sachin Tendulkar honours India's U19 captain Ayush Mhatre with special gift India captain Ayush Mhatre received a special gift from Sachin Tendulkar after the U19 World Cup title win upon his return to Mumbai. Mhatre led India to their sixth U19 World Cup triumph. "
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/t20-world-cup-pakistan-vs-india-boycott-u-turn-sri-lanka-president-thank-you-shehbaz-sharif-2865776-2026-02-10",
-      "headline": "Sri Lanka President pens thank-you note to Pak PM Sharif for India boycott U-turn T20 World Cup: Sri Lanka President Anura Kumara Dissanayake thanked Pakistan Prime Minister Shehbaz Sharif after Pakistan confirmed it will play India on February 15 in Colombo. The U-turn ended boycott uncertainty around the T20 World Cup's biggest fixture."
+      "headline": "Sri Lanka President thanks Pakistan PM Shehbaz Sharif for India boycott U-turn T20 World Cup: Sri Lanka President Anura Kumara Dissanayake thanked Pakistan Prime Minister Shehbaz Sharif after Pakistan confirmed it will play India on February 15 in Colombo. The U-turn ended boycott uncertainty around the T20 World Cup's biggest fixture."
     },
     {
       "sentiment": "positive",
@@ -339,7 +364,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/t20-world-cup-pakistan-make-u-turn-to-play-india-as-scheduled-on-february-15-2865745-2026-02-09",
-      "headline": "Pakistan make India boycott U-turn, to play T20 World Cup clash on February 15 T20 World Cup 2026: The much-anticipated India-Pakistan clash will go ahead on February 15 in Colombo, the Pakistan government confirmed. Citing \"outcomes achieved\" and requests from friendly countries, Pakistan has cleared its team to take the field."
+      "headline": "Pakistan's U-turn on India boycott, to play T20 World Cup clash as scheduled T20 World Cup 2026: The much-anticipated India-Pakistan clash will go ahead on February 15 in Colombo, the Pakistan government confirmed. Citing \"outcomes achieved\" and requests from friendly countries, Pakistan has cleared its team to take the field."
     },
     {
       "sentiment": "positive",
@@ -354,27 +379,27 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/t20-world-cup-bangladesh-urges-pakistan-play-match-india-colombo-2865714-2026-02-09",
-      "headline": "Bangladesh writes to PCB, urges Pakistan not to boycott India match in Colombo T20 World Cup, IND vs PAK: The Bangladesh Cricket Board has requested Pakistan to play their T20 World Cup match against India scheduled for February 15 in Colombo. Earlier, the Pakistan government had announced that the team would boycott the match."
+      "headline": "Bangladesh writes to PCB, urges Pakistan not to boycott India match in ColomboT20 World Cup, IND vs PAK: The Bangladesh Cricket Board has requested Pakistan to play their T20 World Cup match against India scheduled for February 15 in Colombo. Earlier, the Pakistan government had announced that the team would boycott the match."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/rio-ferdinand-praises-shubman-gill-humility-curiosity-indian-cricket-2865702-2026-02-09",
-      "headline": "Not many like Shubman Gill: Man United great applauds India star's humility Former England footballer Rio Ferdinand met India's Test and ODI captain Shubman Gill in Paris on Monday and later shared his admiration for the young cricketer on Instagram."
+      "headline": "Not many like Shubman Gill: Man United great applauds India star's humilityFormer England footballer Rio Ferdinand met India's Test and ODI captain Shubman Gill in Paris on Monday and later shared his admiration for the young cricketer on Instagram."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/video/t20-world-cup-pak-vs-usa-salman-mirza-press-conference-2865671-2026-02-09",
-      "headline": "Pakistan on facing USA in grudge match: Learn from the past, don't dwell on it T20 World Cup 2026: Pakistan fast bowler Salman Mirza said the team is looking forward to facing the USA, who stunned them in the opening match of last year's tournament. Mirza also addressed the uncertainty surrounding the India\u2013Pakistan clash scheduled for February 15"
+      "headline": "Pakistan on facing USA in grudge match: Learn from the past, don't dwell on itT20 World Cup 2026: Pakistan fast bowler Salman Mirza said the team is looking forward to facing the USA, who stunned them in the opening match of last year's tournament. Mirza also addressed the uncertainty surrounding the India\u2013Pakistan clash scheduled for February 15"
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/jemimah-rodrigues-promoted-bcci-grade-a-contract-world-cup-century-2865668-2026-02-09",
-      "headline": "Jemimah rewarded with promotion in BCCI contracts after heroic World Cup show Jemimah Rodrigues has earned a promotion to Grade B in the BCCI central contract following her heroic showing at the Women's World Cup, highlighted by a brilliant century against Australia in the semi-final."
+      "headline": "Jemimah rewarded with promotion in BCCI contracts after heroic World Cup showJemimah Rodrigues has earned a promotion to Grade B in the BCCI central contract following her heroic showing at the Women's World Cup, highlighted by a brilliant century against Australia in the semi-final."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/t20-world-cup-pakistan-vs-usa-preprations-india-match-boycott-salman-mirza-2865665-2026-02-09",
-      "headline": "Uncertainty over India match, but Pakistan prepare as usual in Colombo T20 World Cup 2026: Pakistan fast bowler Salman Mirza said the team is fully focused on their upcoming match against the USA on Tuesday. When asked about the scheduled India\u2013Pakistan clash on February 15, Mirza reiterated that Pakistan's participation remains subject to government approval."
+      "headline": "Uncertainty over India match, but Pakistan prepare as usual in ColomboT20 World Cup 2026: Pakistan fast bowler Salman Mirza said the team is fully focused on their upcoming match against the USA on Tuesday. When asked about the scheduled India\u2013Pakistan clash on February 15, Mirza reiterated that Pakistan's participation remains subject to government approval."
     },
     {
       "sentiment": "positive",
@@ -445,31 +470,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/t20-world-cup-babar-azam-pressure-poor-form-ravi-shastri-ricky-ponting-pak-vs-ned-2865374-2026-02-09",
       "headline": "Babar Azam putting pressure on Pakistan, not himself: Legends left confusedRicky Ponting and Ravi Shastri have raised concerns over Babar Azam's slow starts in Pakistan's T20 World Cup campaign. They believe Pakistan must act quickly, either shifting his role or making changes."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/suryakumar-yadav-leadership-praised-by-gautam-gambhir-india-survives-usa-scare-2865364-2026-02-09",
-      "headline": "Secret behind Gautam Gambhir breathing easy in T20Is? Suryakumar, the leaderWhile Gautam Gambhir has endured a difficult phase in Tests and a topsy-turvy run in ODIs, the head coach has enjoyed a sensational record in T20Is. Gambhir attributed the team's success in the shortest format to Suryakumar Yadav's leadership."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/t20-world-cup-italy-captain-wayne-madsen-shoulder-injury-vs-scotland-kolkata-2865324-2026-02-09",
-      "headline": "Azzurri agony: Italy's 42-year-old captain dislocates shoulder on World Cup debutItaly's T20 World Cup debut was rocked as captain Wayne Madsen dislocated his shoulder against Scotland in Kolkata. The injury forced him off early, leaving Italy sweating on his availability for the rest of the tournament."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/associate-nations-disrupt-2026-t20-world-cup-fearless-performances-2865297-2026-02-09",
-      "headline": "March of the underdogs: How associate nations are adding flair to World CupT20 World Cup 2026: Last-ball drama and Associates have provided the thrill in the opening week of the tournament, exposing cricket's new reality: there are no minnows any more, only disruptors capable of rattling giants on the biggest stage globally."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/t20-world-cup-nepal-bilateral-series-more-tournaments-eng-vs-nep-aakash-chopra-urges-icc-2865307-2026-02-09",
-      "headline": "India vs Nepal bilateral? Ex-India batter urges ICC reward for T20 World Cup showAakash Chopra has urged for more bilaterals and tournament opportunities for Nepal after their thrilling four-run fight against England in Mumbai. He said rising teams deserve sustained support, not fleeting World Cup attention."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/pakistan-cricket-board-icc-meeting-t20-world-cup-ind-vs-pak-2865299-2026-02-09",
-      "headline": "Pakistan ready to play India in T20 World Cup. Only if 5 conditions metPakistan have held a high-level meeting with the ICC over their boycott of the India match in the T20 World Cup 2026. During the meeting, Pakistan placed five demands, three of which were rejected by the ICC. "
     }
   ],
   "education": [
