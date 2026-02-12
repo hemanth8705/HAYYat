@@ -103,6 +103,16 @@
   ],
   "entertainment": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/zeenat-aman-reflects-on-ageing-admits-shed-rot-in-bed-without-work-2867455-2026-02-12",
+      "headline": "Zeenat Aman reflects on ageing, admits she'd 'rot in bed' without work Zeenat Aman opened up about ageing at 74 and shared why work still gives her purpose, peace of mind and something to look forward to. The veteran actor also joked about what she'd do if projects ever dried up."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/adrian-lester-on-working-with-game-of-thrones-actor-emilia-clarke-in-ponies-2867442-2026-02-12",
+      "headline": "Adrian Lester on working with Game of Thrones actor Emilia Clarke in Ponies Actor Adrian Lester opened up about working with Emilia Clarke in Cold War spy series Ponies, and what made her process stand out. He also talked about the show's fresh tone, strong writing, and why the series feels different from typical spy dramas."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/toxic-teaser-controversy-calls-for-censor-board-review-2867423-2026-02-12",
       "headline": "Yash's Toxic shouldn't be judged by teaser, says KFCC president Jayamala Karnataka Film Chamber of Commerce president Dr. Jayamala has called for restraint and highlighted the importance of waiting for censor board review before forming opinions amid Toxic: A Fairy Tale for Grown-Ups row."
@@ -186,16 +196,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/netflix-releases-this-week-thalaivar-thambi-thalaimaiyil-the-night-agent-season-3-and-more-2867259-2026-02-12",
       "headline": "Netflix this week: Thalaivar Thambi Thalaimaiyil, The Night Agent S3 and more Netflix is set to release a diverse lineup this week, including the Tamil comedy-drama Thalaivar Thambi Thalaimaiyil and the much-awaited The Night Agent Season 3."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/toxic-movie-pan-india-release-aa-films-march-19-2026-2867189-2026-02-12",
-      "headline": "Yash's Toxic expands reach, finalises North India distribution deal Yash's Toxic: A Fairy Tale for Grown-Ups is set for a multi-language release on March 19. Anil Thadani's AA Films secures distribution rights across North India and Nepal."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/siddharth-anand-explains-why-hrithik-roshan-fighter-did-not-match-shah-rukh-khan-pathaan-box-office-numbers-2867187-2026-02-12",
-      "headline": "Why Fighter didn't match Pathaan box office numbers: Siddharth Anand explains Director Siddharth Anand discussed the box office performance of Fighter, starring Hrithik Roshan and Deepika Padukone. In a recent interview, he explained why he believes the film did not meet commercial expectations."
     }
   ],
   "general news": [
@@ -211,13 +211,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/bangladesh-general-election-2026-live-updates-voting-percentage-polling-dhaka-july-charter-glbs-2866900-2026-02-12",
-      "headline": "Live: BNP races ahead, wins 37 seats against Jamaat's 5Bangladesh General Election Live Updates: The voting process in Bangladesh's first general election after the fall of the Sheikh Hasina government has concluded. Ballot counting has started after reports of sporadic violence and accusations of cheating. Votes were also cast on the July Charter, which, if approved, will give the next government the authority to make big changes to the country's Constitution and democratic system. The key fight is between the alliances led by the Bangladesh Nationalist Party (BNP) and the Jamaat-e-Islami. We have been bringing you live updates on the voting, reactions, and analyses from our trusted sources and reporters on the ground. Follow indiatoday.in for the latest updates on the voting and results process."
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-beat-namibia-t20-world-cup-2026-hardik-pandya-varun-chakravarthy-2867454-2026-02-12",
+      "headline": "India crush Namibia in Delhi but spin woes remain ahead of Pakistan clashIndia secured their biggest victory in T20 World Cup history, beating Namibia by 93 runs at Arun Jaitely Stadium in Delhi. The win extended India's unbeaten streak to 11 matches in the tournament but exposed vulnerabilities against spin bowling ahead of the all-important clash against Pakistan."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/us-india-trade-deal-zero-tariffs-textiles-bangladesh-trump-piyush-goyal-2867176-2026-02-12",
-      "headline": "Trade deal: Trump may cut tariffs on textiles to zero. But there's a catchA clause of zero tariffs on Bangladesh textile exports to the US in the trade deal left the Indian textile industry. However, Piyush Goyal has now given an important clarification. We explain the issue to you."
+      "url": "https://www.indiatoday.in/world/story/bangladesh-general-election-2026-live-updates-voting-percentage-polling-dhaka-july-charter-glbs-2866900-2026-02-12",
+      "headline": "Live: BNP heads towards big victory, its chief Tarique Rahman wins Bogra-6Bangladesh General Election Live Updates: The vote counting process in Bangladesh's first general election after the fall of the Sheikh Hasina government has begun. Ballot counting has started after reports of sporadic violence and accusations of cheating. Votes were also cast on the July Charter, which, if approved, will give the next government the authority to make big changes to the country's Constitution and democratic system. The key fight is between the alliances led by the Bangladesh Nationalist Party (BNP) and the Jamaat-e-Islami. We have been bringing you live updates on the voting, reactions, and analyses from our trusted sources and reporters on the ground. Follow indiatoday.in for the latest updates on the voting and results process."
     },
     {
       "sentiment": "positive",
@@ -226,8 +226,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-namibia-live-score-t20-world-cup-today-match-delhi-samson-suryakumar-2867285-2026-02-12",
-      "headline": "IND vs NAM Highlights: India hammer Namibia by 93 runs to warm-up for Pakistan clashIndia (IND) vs Namibia (NAM) Highlights, T20 World Cup: India beat Namibia by 93 runs in New Delhi and went to the top of Group A. Ishan Kishan scored a fifty after which Varun Chakravarthy's three-wicket haul blew Namibia away. "
+      "url": "https://www.indiatoday.in/sports/cricket/story/t20-world-cup-india-prepare-pakistan-usman-tariq-ishan-kishan-explains-2867471-2026-02-12",
+      "headline": "How are India preparing for Pakistan's Usman Tariq? Ishan Kishan explainsT20 World Cup 2026: India's wicketkeeper-batter, Ishan Kishan, and mystery spinner explain how they prepare for the bowlers they are going to face. They are set to face Pakistan next and will be up against the mystery-spinner, Usman Tariq for the first time."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/dutch-telecom-giant-odido-hacked-names-telephone-numbers-e-mail-addresses-of-6-million-users-leaked-2867461-2026-02-12",
+      "headline": "Dutch telecom giant Odido hacked; personal data of 6 million users compromisedDutch telecom major Odido confirmed a massive cyberattack that compromised personal data of over six million customers, including bank details and passport numbers. "
     },
     {
       "sentiment": "positive",
@@ -236,13 +241,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/tobacco-tycoons-son-shivam-mishra-released-on-personal-bond-of-rs-20000-argued-his-own-case-in-court-2867185-2026-02-12",
-      "headline": "Lamborghini crash case: Four days to arrest Shivam Mishra, bail in 6 hoursDuring the hearing, Shivam appeared in court and argued his own case, and the judge questioned aspects of the police investigation and the notices served."
+      "url": "https://www.indiatoday.in/sports/other-sports/story/sturla-holm-laegrid-confession-biathlon-controversy-winter-olympics-2866985-2026-02-12",
+      "headline": "Too late now to say sorry: Norwegian athlete cheats, plays victim, ruins the momentA moment to win the heart of the 'gold medal of his life' has found Sturla Holm Laegrid deliver one of the most bizarre and controversial athlete interviews of all time. By putting his partner in a rough spot and stealing the thunder from his teammate, Laegrid's words were right but delivered at the wrong moment. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/sturla-holm-laegrid-confession-biathlon-controversy-winter-olympics-2866985-2026-02-12",
-      "headline": "Too late now to say sorry: Norwegian athlete cheats, plays victim, ruins the momentA moment to win the heart of the 'gold medal of his life' has found Sturla Holm Laegrid deliver one of the most bizarre and controversial athlete interviews of all time. By putting his partner in a rough spot and stealing the thunder from his teammate, Laegrid's words were right but delivered at the wrong moment. "
+      "url": "https://www.indiatoday.in/india/story/tobacco-tycoons-son-shivam-mishra-released-on-personal-bond-of-rs-20000-argued-his-own-case-in-court-2867185-2026-02-12",
+      "headline": "Lamborghini crash case: Four days to arrest Shivam Mishra, bail in 6 hoursDuring the hearing, Shivam appeared in court and argued his own case, and the judge questioned aspects of the police investigation and the notices served."
     },
     {
       "sentiment": "positive",
@@ -251,8 +256,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/india-set-to-get-114-rafale-jets-as-rajnath-singh-led-defence-council-clears-rs-325-lakh-deal-sources-2867143-2026-02-12",
-      "headline": "India to get 114 Rafale jets as government clears Rs 3.25 lakh crore deal: SourcesUnder the deal, nearly 80 per cent of the 114 Rafale jets are expected to be manufactured domestically, with indigenous content possibly reaching 60 per cent under the Make in India framework."
+      "url": "https://www.indiatoday.in/india/story/us-india-trade-deal-zero-tariffs-textiles-bangladesh-trump-piyush-goyal-2867176-2026-02-12",
+      "headline": "Trade deal: Trump may cut tariffs on textiles to zero. But there's a catchA clause of zero tariffs on Bangladesh textile exports to the US in the trade deal left the Indian textile industry. However, Piyush Goyal has now given an important clarification. We explain the issue to you."
     },
     {
       "sentiment": "positive",
@@ -261,8 +266,18 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/india-set-to-get-114-rafale-jets-as-rajnath-singh-led-defence-council-clears-rs-325-lakh-deal-sources-2867143-2026-02-12",
+      "headline": "India to get 114 Rafale jets as government clears Rs 3.25 lakh crore deal: SourcesUnder the deal, nearly 80 per cent of the 114 Rafale jets are expected to be manufactured domestically, with indigenous content possibly reaching 60 per cent under the Make in India framework."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/video/trinamool-congress-mp-saugata-roy-june-malia-caught-giggling-amid-budget-debate-2867411-2026-02-12",
       "headline": "Trinamool MPs Saugata Roy, June Malia caught giggling amid Budget debateThis clip of TMC MPs Sougata Roy and June Malia giggling and chatting during Lok Sabha proceedings has caught the internet's attention. The moment surfaced while MP Chandrashekhar Azad was addressing the House."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/trending-news/story/bengaluru-man-clings-to-speeding-cars-bonnet-in-shocking-road-rage-video-2867152-2026-02-12",
+      "headline": "Bengaluru man clings to speeding car's bonnet in shocking road rage videoA man was dragged on the bonnet of a moving car in broad daylight in Bengaluru due to a road rage incident. This raised serious concerns over road safety and aggressive driving in the city."
     },
     {
       "sentiment": "positive",
@@ -276,13 +291,13 @@
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/trending-news/story/bengaluru-man-clings-to-speeding-cars-bonnet-in-shocking-road-rage-video-2867152-2026-02-12",
-      "headline": "Bengaluru man clings to speeding car's bonnet in shocking road rage videoA man was dragged on the bonnet of a moving car in broad daylight in Bengaluru due to a road rage incident. This raised serious concerns over road safety and aggressive driving in the city."
-    },
-    {
-      "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/25-year-old-nurse-dies-nipah-virus-infection-west-bengal-first-fatality-recent-years-2867334-2026-02-12",
       "headline": "Bengal reports 1st Nipah death, 25-year-old nurse succumbs to virusA 25-year-old nurse died of Nipah virus complications at a private hospital in Barasat on Thursday evening, marking West Bengal's first Nipah-related death in recent history, even as she had recently tested negative but remained in critical condition."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/lifestyle/fashion/story/isha-ambani-nita-ambani-jewellery-2867371-2026-02-12",
+      "headline": "New pics: Bold diamonds, big emeralds and Ambani-level glamNew viral pictures of Isha and Nita Ambani put the spotlight on their ogle-worthy jewellery."
     },
     {
       "sentiment": "positive",
@@ -296,26 +311,26 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/fashion/story/isha-ambani-nita-ambani-jewellery-2867371-2026-02-12",
-      "headline": "New pics: Bold diamonds, big emeralds and Ambani-level glamNew viral pictures of Isha and Nita Ambani put the spotlight on their ogle-worthy jewellery."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/bangladesh-election-news-bnp-jamaat-e-islami-awami-league-hindu-minority-hasina-awami-league-2866848-2026-02-12",
       "headline": "Jamaat's incredible jump: How an Islamist pariah took centre stage in BangladeshHandcrafted ByOur Editors From the shadows of a ban, the Shafiqur Rahman-led Bangladesh Jamaat-e-Islami has emerged at the centre stage. As Bangladesh votes today, the Jamaat, with an image makeover, is giving the Tarique Rahman-led BNP a tough fight. But what does it mean for India and Bangladeshi Hindus?"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/russia-fully-blocks-whatsapp-over-meta-non-compliance-of-laws-bats-for-state-backed-national-messenger-max-2867269-2026-02-12",
-      "headline": "Russia blocks WhatsApp over Meta non-compliance, pushes state-backed MAX messengerRussia has fully blocked WhatsApp over Meta's alleged failure to comply with local laws, urging users to shift to the state-backed messaging app MAX. The move is part of Moscow's push for a \"sovereign\" communications system amid wartime controls and tighter regulation of foreign tech firms.\r\n\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/italy-first-t20-world-cup-win-dominant-victory-nepal-wankhede-2867319-2026-02-12",
-      "headline": "Benvuento Italy: Azurri make World Cup history, stun Nepal at WankhedeT20 World Cup, NEP vs Italy: Italy lit up Wankhede Stadium in Mumbai, defeating Nepal by 10 wickets and chasing down 124 with 44 balls to spare, securing their maiden victory in the history of the tournament."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/karnataka-clears-ipl-return-to-chinnaswamy-with-safety-conditions-2867487-2026-02-13",
+      "headline": "Karnataka clears IPL return to Chinnaswamy stadium with strict safety conditions Karnataka cabinet clears IPL return to Chinnaswamy Stadium with 35,000 crowd cap and strict safety measures after Cunha report, months after tragic stampede halted cricket in Bengaluru."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/t20-world-cup-india-prepare-pakistan-usman-tariq-ishan-kishan-explains-2867471-2026-02-12",
+      "headline": "How are India preparing for Pakistan's Usman Tariq? Ishan Kishan explains T20 World Cup 2026: India's wicketkeeper-batter, Ishan Kishan, and mystery spinner explain how they prepare for the bowlers they are going to face. They are set to face Pakistan next and will be up against the mystery-spinner, Usman Tariq for the first time."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-beat-namibia-t20-world-cup-2026-hardik-pandya-varun-chakravarthy-2867454-2026-02-12",
+      "headline": "India crush Namibia in Delhi but spin woes remain ahead of Pakistan clash India secured their biggest victory in T20 World Cup history, beating Namibia by 93 runs at Arun Jaitely Stadium in Delhi. The win extended India's unbeaten streak to 11 matches in the tournament but exposed vulnerabilities against spin bowling ahead of the all-important clash against Pakistan."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/t20-world-cup-2026-italy-win-frontpage-news-winter-olympics-relegated-2867450-2026-02-12",
@@ -359,17 +374,17 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/t20-world-cup-2026-italy-historic-win-over-nepal-anthony-mosca-justin-mosca-2867365-2026-02-12",
-      "headline": "Pizza triumphs over momo: Italy's historic win in T20 World Cup sparks frenzy T20 World Cup: Italy registered a historic win in their maiden T20 World Cup, beating Nepal by ten wickets at the Wankhede Stadium in Mumbai. "
+      "headline": "Pizza triumphs over momo: Italy's historic win in T20 World Cup sparks frenzyT20 World Cup: Italy registered a historic win in their maiden T20 World Cup, beating Nepal by ten wickets at the Wankhede Stadium in Mumbai. "
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/italy-first-t20-world-cup-win-dominant-victory-nepal-wankhede-2867319-2026-02-12",
-      "headline": "Benvuento Italy: Azurri make World Cup history, stun Nepal at Wankhede T20 World Cup, NEP vs Italy: Italy lit up Wankhede Stadium in Mumbai, defeating Nepal by 10 wickets and chasing down 124 with 44 balls to spare, securing their maiden victory in the history of the tournament."
+      "headline": "Benvuento Italy: Azurri make World Cup history, stun Nepal at WankhedeT20 World Cup, NEP vs Italy: Italy lit up Wankhede Stadium in Mumbai, defeating Nepal by 10 wickets and chasing down 124 with 44 balls to spare, securing their maiden victory in the history of the tournament."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/boycott-20-afghanistan-players-psl-pull-out-rahmanullah-gurbaz-backlash-2867324-2026-02-12",
-      "headline": "Boycott 2.0? Afghanistan players withdraw from PSL auction after Pakistan's backlash Afghanistan players pull out of PSL auction in third major boycott controversy to hit South Asian cricket in weeks, following similar political fallout over Mustafizur Rahman's IPL exit."
+      "headline": "Boycott 2.0? Afghanistan players withdraw from PSL auction after Pakistan's backlashAfghanistan players pull out of PSL auction in third major boycott controversy to hit South Asian cricket in weeks, following similar political fallout over Mustafizur Rahman's IPL exit."
     },
     {
       "sentiment": "positive",
@@ -450,21 +465,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-namibia-t20-world-cup-selection-pakistan-prep-samson-bumrah-2867005-2026-02-12",
       "headline": "Namibia first, Pakistan already on mind: India's Sunday plans in motionT20 World Cup: India face Namibia tonight with one eye on Pakistan. Abhishek Sharma's fitness concerns force India to weigh up alternatives, while tactical experiments could shape their approach for the blockbuster clash."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/sturla-holm-laegrid-confession-biathlon-controversy-winter-olympics-2866985-2026-02-12",
-      "headline": "Too late now to say sorry: Norwegian athlete cheats, plays victim, ruins the momentA moment to win the heart of the 'gold medal of his life' has found Sturla Holm Laegrid deliver one of the most bizarre and controversial athlete interviews of all time. By putting his partner in a rough spot and stealing the thunder from his teammate, Laegrid's words were right but delivered at the wrong moment. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/tilak-varma-india-t20-world-cup-2026-anchor-role-no-3-2866947-2026-02-12",
-      "headline": "Visualiser. New-age T20 anchor. The many shades of India's No.3 Tilak VarmaT20 World Cup: In an Indian batting order dominated by flamboyant stroke-makers, Tilak Varma is prepared to rein himself in as a Virat Kohli-esque anchor at No.3 when the situation demands. But beyond the tactical role, he is a visualiser, a batter who prepares as much in his mind as he does in the nets."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/t20-world-cup-sri-lanka-oman-nepal-italy-india-namibia-preview-2866724-2026-02-12",
-      "headline": "Matchday Preview: Nepal look to bounce back after England heartbreakDay 5 of the T20 World Cup 2026 features a triple-header with Sri Lanka looking to continue their momentum against Oman. Following their heartbreaking loss to England, Nepal will aim to bounce back strongly against Italy. All eyes will be on defending champions India as they face off against Namibia in Delhi. "
     }
   ],
   "education": [
