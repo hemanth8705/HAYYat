@@ -103,6 +103,16 @@
   ],
   "entertainment": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/toxic-teaser-controversy-calls-for-censor-board-review-2867423-2026-02-12",
+      "headline": "Yash's Toxic shouldn't be judged by teaser, says KFCC president Jayamala Karnataka Film Chamber of Commerce president Dr. Jayamala has called for restraint and highlighted the importance of waiting for censor board review before forming opinions amid Toxic: A Fairy Tale for Grown-Ups row."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/oromeo-vishal-bhardwaj-instagram-post-reflecting-note-love-violence-shahid-kapoor-triptii-dimri-2867427-2026-02-12",
+      "headline": "Ahead of O'Romeo, Vishal Bhardwaj writes of his capacity for love and violence Director Vishal Bhardwaj expressed great pride and gratitude ahead of O' Romeo's theatrical release. In an emotional note, the filmmaker shared personal insights behind the making of the film and acknowledged the dedication of his team."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/abishan-jeevinth-announces-new-film-with-soundarya-rajinikanth-after-success-of-with-love-2867384-2026-02-12",
       "headline": "Director Abishan, Soundarya Rajinikanth to team up again after With Love success After the recent success of With Love, Abishan Jeevinth shares plans for a new project with the film's producers, as the team celebrates positive reviews and strong box office performance."
@@ -186,16 +196,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/siddharth-anand-explains-why-hrithik-roshan-fighter-did-not-match-shah-rukh-khan-pathaan-box-office-numbers-2867187-2026-02-12",
       "headline": "Why Fighter didn't match Pathaan box office numbers: Siddharth Anand explains Director Siddharth Anand discussed the box office performance of Fighter, starring Hrithik Roshan and Deepika Padukone. In a recent interview, he explained why he believes the film did not meet commercial expectations."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/hollywood/story/anne-hathaway-backs-bad-bunny-message-of-love-unity-in-super-bowl-show-2867180-2026-02-12",
-      "headline": "Anne Hathaway backs Bad Bunny's message of love, unity in Super Bowl show Anne Hathaway reacted to Bad Bunny's historic Super Bowl Halftime Show performance earlier this week. Calling it \"amazing,\" she praised his message of love, unity, and protecting \"neighbours.\""
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/story/youre-in-jail-because-you-failed-to-honour-your-commitment-court-denies-bail-to-rajpal-yadav-in-cheque-case-2867193-2026-02-12",
-      "headline": "No bail for Rajpal Yadav, court says he failed to honour commitment The Delhi High Court on Thursday pulled up Rajpal Yadav during his bail hearing, telling the actor that he failed to honour his commitment and then reopened the case. The court adjourned the hearing to Monday. "
     }
   ],
   "general news": [
@@ -212,7 +212,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/bangladesh-general-election-2026-live-updates-voting-percentage-polling-dhaka-july-charter-glbs-2866900-2026-02-12",
-      "headline": "Live: Vote shares reveal close fight; BNP wins 6 seats, Jamaat 2Bangladesh General Election Live Updates: The voting process in Bangladesh's first general election after the fall of the Sheikh Hasina government has concluded. Ballot counting has started after reports of sporadic violence and accusations of cheating. Votes were also cast on the July Charter, which, if approved, will give the next government the authority to make big changes to the country's Constitution and democratic system. The key fight is between the alliances led by the Bangladesh Nationalist Party (BNP) and the Jamaat-e-Islami. We have been bringing you live updates on the voting, reactions, and analyses from our trusted sources and reporters on the ground. Follow indiatoday.in for the latest updates on the voting and results process."
+      "headline": "Live: BNP races ahead, wins 37 seats against Jamaat's 5Bangladesh General Election Live Updates: The voting process in Bangladesh's first general election after the fall of the Sheikh Hasina government has concluded. Ballot counting has started after reports of sporadic violence and accusations of cheating. Votes were also cast on the July Charter, which, if approved, will give the next government the authority to make big changes to the country's Constitution and democratic system. The key fight is between the alliances led by the Bangladesh Nationalist Party (BNP) and the Jamaat-e-Islami. We have been bringing you live updates on the voting, reactions, and analyses from our trusted sources and reporters on the ground. Follow indiatoday.in for the latest updates on the voting and results process."
     },
     {
       "sentiment": "positive",
@@ -227,7 +227,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-namibia-live-score-t20-world-cup-today-match-delhi-samson-suryakumar-2867285-2026-02-12",
-      "headline": "IND vs NAM Live: Namibia off to strong start in 210 chaseIndia (IND) vs Namibia (NAM) Live Score, T20 World Cup: NAM (40/1 in 5 ovs), Arshdeep Singh has taken the wicket of Jan Frylinck as India have got the much-needed breakthrough. Jan Nicol Loftie Eaton has joined Steenkamp in the middle. "
+      "headline": "IND vs NAM Highlights: India hammer Namibia by 93 runs to warm-up for Pakistan clashIndia (IND) vs Namibia (NAM) Highlights, T20 World Cup: India beat Namibia by 93 runs in New Delhi and went to the top of Group A. Ishan Kishan scored a fifty after which Varun Chakravarthy's three-wicket haul blew Namibia away. "
     },
     {
       "sentiment": "positive",
@@ -260,19 +260,19 @@
       "headline": "Exclusive I Mrunal Thakur reacts to news of wedding with Dhanush on February 14We asked Mrunal Thakur if reports of her wedding with South superstar Dhanush were true, while she was promoting her new film, Do Deewane Seher Mein. Read how she reacted."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/cricket/story/t20-world-cup-abhishek-sharam-stomach-illness-india-vs-pakistan-suryakumar-yadav-2867367-2026-02-12",
-      "headline": "No Abhishek Sharma for India vs Pakistan game, hints captain Suryakumar YadavT20 World Cup 2026: Abhishek Sharma missed India's game against Namibia in New Delhi due to a stomach-related illness. Captain Suryakumar Yadav hinted at the posssibility of the World No. 1 T20I batter missing the game against Pakistan on Sunday in Colombo. "
-    },
-    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/video/trinamool-congress-mp-saugata-roy-june-malia-caught-giggling-amid-budget-debate-2867411-2026-02-12",
       "headline": "Trinamool MPs Saugata Roy, June Malia caught giggling amid Budget debateThis clip of TMC MPs Sougata Roy and June Malia giggling and chatting during Lok Sabha proceedings has caught the internet's attention. The moment surfaced while MP Chandrashekhar Azad was addressing the House."
     },
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/cities/noida/story/greater-noida-boy-dies-during-mri-family-alleges-injection-overdose-2867436-2026-02-12",
+      "headline": "Six-year-old dies during MRI scan in Noida, family alleges injection overdoseA six-year-old boy died after his condition deteriorated during an MRI scan at a private diagnostic centre in Greater Noida, with his family alleging he was given a heavy dose of injection. "
+    },
+    {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/25-year-old-nurse-dies-nipah-virus-infection-west-bengal-first-fatality-recent-years-2867334-2026-02-12",
-      "headline": "Bengal reports 1st Nipah death, 25-year-old nurse succumbs to virusA 25-year-old nurse died of Nipah virus complications at a private hospital in Barasat on Thursday evening, marking West Bengal's first Nipah-related death in recent history, even as she had recently tested negative but remained in critical condition."
+      "url": "https://www.indiatoday.in/science/story/india-weather-update-tomorrow-western-disturbance-north-india-temperature-rise-2867395-2026-02-12",
+      "headline": "Cold winds from north to reduce on Friday, Sun to feel strongerNorth India will see a shift in weather tomorrow as a western disturbance reduces cold winds. Devendra Tripathi predicts light mountain snow and filtered sunshine across the plains."
     },
     {
       "sentiment": "negative",
@@ -281,23 +281,13 @@
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/science/story/india-weather-update-tomorrow-western-disturbance-north-india-temperature-rise-2867395-2026-02-12",
-      "headline": "Cold winds from north to reduce on Friday, Sun to feel strongerNorth India will see a shift in weather tomorrow as a western disturbance reduces cold winds. Devendra Tripathi predicts light mountain snow and filtered sunshine across the plains."
+      "url": "https://www.indiatoday.in/india/story/25-year-old-nurse-dies-nipah-virus-infection-west-bengal-first-fatality-recent-years-2867334-2026-02-12",
+      "headline": "Bengal reports 1st Nipah death, 25-year-old nurse succumbs to virusA 25-year-old nurse died of Nipah virus complications at a private hospital in Barasat on Thursday evening, marking West Bengal's first Nipah-related death in recent history, even as she had recently tested negative but remained in critical condition."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/hardeep-singh-puri-minister-criticises-rahul-gandhi-epstein-files-parliament-congress-2867150-2026-02-12",
-      "headline": "Needs to grow up: Hardeep Puri tears into Rahul Gandhi over Epstein files chargesUnion Minister Hardeep Singh Puri hit out at Rahul Gandhi for raising his name in the Epstein files row in Parliament, calling it \"politics by innuendo\" and saying the Congress leader \"needs to grow up\" and engage in informed debate instead of making insinuations."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/diu/story/staff-shortages-soaring-bird-hits-red-flags-in-indias-aviation-market-2867352-2026-02-12",
-      "headline": "Staff shortages, soaring bird hits: Red flags in India's aviation marketThe strength in the most crucial room \u2014 air traffic control \u2014 is also way below what's stipulated.\u00a0"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/fashion/story/isha-ambani-nita-ambani-jewellery-2867371-2026-02-12",
-      "headline": "New pics: Bold diamonds, big emeralds and Ambani-level glamNew viral pictures of Isha and Nita Ambani put the spotlight on their ogle-worthy jewellery."
+      "url": "https://www.indiatoday.in/india/story/amendments-reflect-shared-understanding-government-on-us-making-tweaks-to-trade-deal-factsheet-2867222-2026-02-12",
+      "headline": "US tweaks to trade deal factsheet reflect shared understanding, says governmentThe Ministry of External Affairs stated that the joint statement remains the framework for the proposed Interim Agreement on reciprocal and mutually beneficial trade, and both sides will now work toward implementing and finalising the agreement."
     },
     {
       "sentiment": "positive",
@@ -306,16 +296,36 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/italy-first-t20-world-cup-win-dominant-victory-nepal-wankhede-2867319-2026-02-12",
-      "headline": "Benvuento Italy: Azurri make World Cup history, stun Nepal at WankhedeT20 World Cup, NEP vs Italy: Italy lit up Wankhede Stadium in Mumbai, defeating Nepal by 10 wickets and chasing down 124 with 44 balls to spare, securing their maiden victory in the history of the tournament."
+      "url": "https://www.indiatoday.in/lifestyle/fashion/story/isha-ambani-nita-ambani-jewellery-2867371-2026-02-12",
+      "headline": "New pics: Bold diamonds, big emeralds and Ambani-level glamNew viral pictures of Isha and Nita Ambani put the spotlight on their ogle-worthy jewellery."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/openai-researcher-quits-says-chatgpt-has-built-intimate-profile-of-users-and-should-not-get-into-advertising-2867035-2026-02-12",
-      "headline": "OpenAI researcher quits, says ChatGPT has built intimate profile of usersA former OpenAI researcher has warned that introducing ads into ChatGPT could risk exploiting the deeply personal data users have shared with the chatbot."
+      "url": "https://www.indiatoday.in/world/story/bangladesh-election-news-bnp-jamaat-e-islami-awami-league-hindu-minority-hasina-awami-league-2866848-2026-02-12",
+      "headline": "Jamaat's incredible jump: How an Islamist pariah took centre stage in BangladeshHandcrafted ByOur Editors From the shadows of a ban, the Shafiqur Rahman-led Bangladesh Jamaat-e-Islami has emerged at the centre stage. As Bangladesh votes today, the Jamaat, with an image makeover, is giving the Tarique Rahman-led BNP a tough fight. But what does it mean for India and Bangladeshi Hindus?"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/russia-fully-blocks-whatsapp-over-meta-non-compliance-of-laws-bats-for-state-backed-national-messenger-max-2867269-2026-02-12",
+      "headline": "Russia blocks WhatsApp over Meta non-compliance, pushes state-backed MAX messengerRussia has fully blocked WhatsApp over Meta's alleged failure to comply with local laws, urging users to shift to the state-backed messaging app MAX. The move is part of Moscow's push for a \"sovereign\" communications system amid wartime controls and tighter regulation of foreign tech firms.\r\n\r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/italy-first-t20-world-cup-win-dominant-victory-nepal-wankhede-2867319-2026-02-12",
+      "headline": "Benvuento Italy: Azurri make World Cup history, stun Nepal at WankhedeT20 World Cup, NEP vs Italy: Italy lit up Wankhede Stadium in Mumbai, defeating Nepal by 10 wickets and chasing down 124 with 44 balls to spare, securing their maiden victory in the history of the tournament."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/t20-world-cup-2026-italy-win-frontpage-news-winter-olympics-relegated-2867450-2026-02-12",
+      "headline": "Cricket on page 1? Italy coach hopes T20 World Cup win knocks off Winter Olympics T20 World Cup 2026: Italy achieved its first-ever T20 World Cup victory with a dominant win over Nepal in Mumbai. The landmark result could spark greater interest in cricket amidst Italy's Winter Olympics dominance."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-namibia-gerhard-erasmus-usman-tariq-pakistan-t20-world-cup-2867445-2026-02-12",
+      "headline": "Prep for Pakistan? Gerhard Erasmus gives India a taste of Usman Tariq's unorthodoxy IND vs NAM, T20 World Cup: Gerhard Erasmus' unorthodox spell stalled India's pursuit of a 250-plus total in Delhi, but his variations may have offered a timely preview of the sterner spin examination awaiting them against Pakistan and much-talked-about Usman Tariq in Colombo on Sunday."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/hardik-pandya-half-century-dylan-leicher-boundary-catch-t20-world-cup-2026-india-vs-namibia-2867426-2026-02-12",
@@ -364,12 +374,12 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/bcci-ipl-2026-schedule-delay-election-clashes-stadium-availability-2867282-2026-02-12",
-      "headline": "Why IPL 2026 schedule is yet to be released? BCCI breaks silence The BCCI hasn't yet released the schedule for IPL 2026, set to run from March 26 to May 31. The delay is attributed to potential clashes with upcoming Assembly elections in West Bengal, Tamil Nadu, and Assam, which could affect security arrangements and venue availability."
+      "headline": "Why IPL 2026 schedule is yet to be released? BCCI breaks silenceThe BCCI hasn't yet released the schedule for IPL 2026, set to run from March 26 to May 31. The delay is attributed to potential clashes with upcoming Assembly elections in West Bengal, Tamil Nadu, and Assam, which could affect security arrangements and venue availability."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-namibia-live-score-t20-world-cup-today-match-delhi-samson-suryakumar-2867285-2026-02-12",
-      "headline": "IND vs NAM Live: Arshdeep gets Frylinck to give India breakthrough India (IND) vs Namibia (NAM) Live Score, T20 World Cup: NAM (40/1 in 5 ovs), Arshdeep Singh has taken the wicket of Jan Frylinck as India have got the much-needed breakthrough. Jan Nicol Loftie Eaton has joined Steenkamp in the middle. "
+      "headline": "IND vs NAM Highlights: India hammer Namibia by 93 runs to warm-up for Pakistan clashIndia (IND) vs Namibia (NAM) Highlights, T20 World Cup: India beat Namibia by 93 runs in New Delhi and went to the top of Group A. Ishan Kishan scored a fifty after which Varun Chakravarthy's three-wicket haul blew Namibia away. "
     },
     {
       "sentiment": "positive",
@@ -455,16 +465,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/t20-world-cup-sri-lanka-oman-nepal-italy-india-namibia-preview-2866724-2026-02-12",
       "headline": "Matchday Preview: Nepal look to bounce back after England heartbreakDay 5 of the T20 World Cup 2026 features a triple-header with Sri Lanka looking to continue their momentum against Oman. Following their heartbreaking loss to England, Nepal will aim to bounce back strongly against Italy. All eyes will be on defending champions India as they face off against Namibia in Delhi. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-targets-2027-odi-world-cup-victory-denies-retirement-2866884-2026-02-12",
-      "headline": "Rohit Sharma lays down roadmap for ODI WC 2027: Will do everything to win itFormer India captain Rohit Sharma has reconfirmed his ambition to win the 2027 ODI World Cup in South Africa. Rohit's form was in question in the recent New Zealand series, where he scored 61 runs from three innings."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/video/rajasthans-champions-run-pillar-to-post-as-crores-in-prize-money-remain-unpaid-2866897-2026-02-12",
-      "headline": "Rajasthan's champions run pillar to post as crores in prize money remain unpaidThis report on 5ive Live, hosted by Sonal Mehrotra Kapoor, exposes how medal-winning athletes in Rajasthan are trapped in bureaucratic delays, waiting years for promised prize money. Asian Games paramedalist Rakesh owes Rs 8-10 lakh for state and national medals won between 2021 and 2025. National hammer throw record-holder Neeraj Kumar has waited over 4 years for Rs 50-70,000. Disc thrower Praveen Kumar Nehra hasn't received Rs 5 lakh since 2016-2017, with a 2019 guideline blocking pre-2019 payments. Cyclist Devendra Bishnui, despite winning 8 medals, has received nothing, while competitive cycles cost over Rs 5 lakh. Nearly 90 per cent of medal winners remain unpaid, forcing some champions into survival jobs like cab driving and food delivery. The Rajasthan Sports Council attributes delays to \"ongoing processes\" and new online systems, but athletes continue waiting while their careers and financial stability deteriorate."
     }
   ],
   "education": [
