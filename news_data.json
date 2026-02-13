@@ -1,6 +1,11 @@
 {
   "business": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/commodities/story/silver-price-correction-explained-what-investors-should-do-buy-sell-2867601-2026-02-13",
+      "headline": "Is it the end of the road for silver after a spectacular rally?After a stunning rally and an equally sharp fall, silver now sits at a crucial crossroads, leaving investors wondering whether this correction is nearing its end or still gathering momentum."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/market/story/market-crash-sensex-down-over-800-points-nifty-tumbles-ai-panic-hits-it-stocks-on-dalal-street-2867567-2026-02-13",
       "headline": "Sensex tumbles over 800 points: Why is the stock market falling today?At 9:39 am, the Sensex was at 82,840.72, down 834.20 points, while the Nifty stood at 25,536.30, lower by 270.90 points. The fall was led by heavy selling in IT stocks, but the triggers lie largely in global developments."
@@ -94,14 +99,19 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/video/pace-and-ease-of-doing-business-drive-tamil-nadus-edge-says-trb-rajaa-2866678-2026-02-11",
       "headline": "Pace and ease of doing business drive Tamil Nadu's edge, says TRB RajaaRajaa said that investors value policy continuity as much as fresh reforms, noting that Tamil Nadu has built trust by maintaining stable, industry-friendly rules across political regimes. He added that this continuity has strengthened global investor confidence in the state."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/market/story/ai-disruption-it-tech-financial-wealth-management-investors-tips-2866657-2026-02-11",
-      "headline": "AI is disrupting more than just tech and IT stocks. What investors should knowThe panic around AI is now spreading across Wall Street, moving beyond tech to hit wealth management stocks as well. In this article, we break down what's happening and what retail investors should know."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/dhurandhars-pirated-dvd-being-sold-in-pakistan-for-rs-16-viral-video-surfaces-2867590-2026-02-13",
+      "headline": "Dhurandhar's pirated DVD being sold in Pakistan for Rs 16, viral video surfaces Pirated versions of Dhurandhar are being sold in Pakistan at low prices, even though the film is officially banned there. A video showing the same is now going viral on social media."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/anurag-kashyap-praises-kohrra-season-2-world-class-storytelling-2867570-2026-02-13",
+      "headline": "Anurag Kashyap says Kohrra 2 made him weep; calls performances cathartic Kohrra Season 2 has deeply moved filmmaker Anurag Kashyap. He praised its patient storytelling and cathartic performances by Mona Singh and Barun Sobti. "
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/o-romeo-box-office-day-1-prediction-early-trends-steady-opening-for-shahid-kapoor-valentine-film-2867581-2026-02-13",
@@ -186,23 +196,13 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/hollywood/story/katie-holmes-mourns-dawsons-creek-co-star-james-van-der-beek-he-is-beloved-2867355-2026-02-12",
       "headline": "Katie Holmes mourns Dawson's Creek co-star James Van Der Beek: He is beloved Katie Holmes shared an emotional tribute for her Dawson's Creek co-star James Van Der Beek, who died following a colorectal cancer diagnosis. She praised his bravery and selflessness, expressing deep gratitude for their journey together while offering love to his wife and children."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/ginny-wedss-sunny-2-avinash-tiwary-medha-shankr-film-first-look-release-date-out-2867346-2026-02-12",
-      "headline": "Ginny Wedss Sunny 2: Avinash Tiwary-Medha Shankr film's 1st look, release date out The romantic comedy sequel Ginny Wedss Sunny 2 brings a fresh cast and a new story. Actors Avinash Tiwary and Medha Shankr have stepped into the lead roles for the upcoming theatrical release."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/mrunal-thakur-reacts-to-news-of-wedding-with-dhanush-on-february-14-2867366-2026-02-12",
-      "headline": "Exclusive I Mrunal Thakur reacts to news of wedding with Dhanush on February 14 We asked Mrunal Thakur if reports of her wedding with South superstar Dhanush were true, while she was promoting her new film, Do Deewane Seher Mein. Read how she reacted."
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/this-victory-shows-trust-of-people-of-bangladesh-pm-modi-to-bnps-tarique-rahman-on-bangladesh-poll-win-2867553-2026-02-13",
-      "headline": "India will back democratic Bangladesh: PM congratulates Tarique Rahman on poll winWith the BNP crossing the halfway mark in the Bangladesh national elections, PM Modi took to X and extended warm wishes to Tarique Rehman, signalling continued support for a democratic transition after the interim Yunus administration."
+      "headline": "India will back democratic Bangladesh: PM congratulates Tarique Rahman for winWith the BNP crossing the halfway mark in the Bangladesh national elections, PM Modi took to X and extended warm wishes to Tarique Rehman, signalling continued support for a democratic transition after the interim Yunus administration."
     },
     {
       "sentiment": "positive",
@@ -212,7 +212,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/pakistan-protests-us-map-pok-aksai-chin-indian-territory-2867522-2026-02-13",
-      "headline": "Red-faced Pak reaches out to US to remove 'incorrect' India map in trade deal postPakistan said it contacted the United States after a US Trade Representative map incorrectly showed Pakistan-occupied Kashmir and Aksai Chin within Indian territory, after which Washington deleted the post. "
+      "headline": "Left red-faced, Pak contacted US after trade deal post showed India map with POKPakistan said it contacted the United States after a US Trade Representative map incorrectly showed Pakistan-occupied Kashmir and Aksai Chin within Indian territory, after which Washington deleted the post. "
     },
     {
       "sentiment": "positive",
@@ -221,13 +221,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/history-of-it/story/alan-shepard-smuggled-golf-club-balls-moon-mission-apollo-13-artemis-ii-launch-2867383-2026-02-13",
-      "headline": "When an astronaut smuggled a club and played golf on the MoonAlan Shepard's playful experiment captured something equally important about exploration: the unmistakably human urge to improvise, joke, and celebrate achievement, even 3,80,000 kilometers from Earth."
+      "url": "https://www.indiatoday.in/india/story/valentines-day-2026-passphrase-password-vow-cloned-ai-voice-phishing-scams-couples-deepfakes-2867428-2026-02-13",
+      "headline": "SOS call from spouse for money? Having a passphrase can save your life's earningsWith scammers using AI tech to mimic the voices of partners and family members to swindle life's earnings, a passphrase should be the perfect Valentine's Day gift. This is how a simple pre-decided passphrase can save people from being swindled when it is difficult to tell real voices from AI-generated ones."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/bangladesh-general-election-2026-live-updates-voting-percentage-polling-dhaka-july-charter-glbs-2866900-2026-02-12",
-      "headline": "Live: Jaishankar congratulates Tarique Rahman over landslide victoryBangladesh General Election Live Updates: The Bangladesh Nationalist Party (BNP) under the leadership of Tarique Rahman is all set for a landslide victory in the recently concluded 13th general election of Bangladesh. The BNP and its allies have secured 209 seats and have crossed the two-thirds majority mark. Rahman himself has secured victory in two constituencies. The election has proved to be a disappointment for Jamaat-E-Islami and its allies, which have secured only 62 seats till now. The counting is underway, and for live updates, follow indiatoday.in. "
+      "headline": "Live: BNP inches towards landmark victory, official results soonBangladesh General Election Live Updates: The Bangladesh Nationalist Party (BNP) under the leadership of Tarique Rahman is all set for a landslide victory in the recently concluded 13th general election of Bangladesh. The BNP and its allies have secured 209 seats and have crossed the two-thirds majority mark. Rahman himself has secured victory in two constituencies. The election has proved to be a disappointment for Jamaat-E-Islami and its allies, which have secured only 62 seats till now. The counting is underway, and for live updates, follow indiatoday.in. "
     },
     {
       "sentiment": "negative",
@@ -236,13 +236,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-namibia-gerhard-erasmus-story-arun-jaitley-stadium-2867562-2026-02-13",
-      "headline": "Cricket nerd from 6, Gerard Erasmus lives up to the Namibian spirit in KotlaICC T20 World Cup, India vs Namibia: Gerhard Erasmus walked the talk for Namibia at the Arun Jaitley Stadium on Thursday. He registered his best ever figures in T20Is, but was not able to take his team over the line against India."
+      "url": "https://www.indiatoday.in/india/story/prime-minister-office-seva-teerth-kartavya-path-new-office-facility-inauguration-narendra-modi-ministries-2867548-2026-02-13",
+      "headline": "PMO gets new address today, Prime Minister to unveil Rs 100 commemorative coinIn a transformative milestone for India's administrative governance architecture, the Prime Minister's Office will get a new address today for the first time since Independence."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/reviews/story/tu-yaa-main-review-shanaya-kapoo-adarsh-gourav-bejoy-nambiar-thriller-bites-when-you-least-expect-it-2867488-2026-02-13",
-      "headline": "Tu Yaa Main Review: Shanaya-Adarsh Gourav's thriller bites when you least expect itRelease Date:Fri Feb 13, 2026Tu Yaa Main movie review: Tu Yaa Main is a gripping thriller that fuses modern romance with edge-of-your-seat survival drama in Mumbai. With strong performances and a twist-filled story, it keeps you hooked, capturing fear, trust, and high-stakes tension in every scene."
+      "url": "https://www.indiatoday.in/history-of-it/story/alan-shepard-smuggled-golf-club-balls-moon-mission-apollo-13-artemis-ii-launch-2867383-2026-02-13",
+      "headline": "When an astronaut smuggled a club and played golf on the MoonAlan Shepard's playful experiment captured something equally important about exploration: the unmistakably human urge to improvise, joke, and celebrate achievement, even 3,80,000 kilometers from Earth."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/technology/features/story/the-ai-job-debate-alarm-optimism-and-the-real-threat-2867092-2026-02-12",
+      "headline": "The AI job debate: Alarm, optimism, and the real threatWill the arrival of AI result in a job crisis? Most predictions suggest May Day for entry level jobs across all fields.\r\n"
     },
     {
       "sentiment": "negative",
@@ -251,23 +256,23 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-namibia-gerhard-erasmus-story-arun-jaitley-stadium-2867562-2026-02-13",
+      "headline": "Cricket nerd from 6, Gerhard Erasmus lives up to the Namibian spirit in KotlaICC T20 World Cup, India vs Namibia: Gerhard Erasmus walked the talk for Namibia at the Arun Jaitley Stadium on Thursday. He registered his best ever figures in T20Is, but was not able to take his team over the line against India."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/trending-news/story/kerala-woman-blocks-scooter-rider-from-using-footpath-by-placing-foot-in-front-kozhikode-viral-video-2867609-2026-02-13",
+      "headline": "Kerala woman blocks scooter rider from using footpath by placing foot in frontIn the now-viral video, the woman is seen walking along the footpath when the man attempts to ride through the pedestrian space to escape a traffic jam on the busy road."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/when-will-skyroot-aerospace-launch-indias-first-private-vikram-i-rocket-to-space-2867607-2026-02-13",
+      "headline": "When will Skyroot launch India's first private Vikram-I rocket?Senior officials at the company said the team is currently focused on flight-readiness checks of Vikram-I's integrated avionics and flight-algorithm systems at Skyroot's testing facilities. "
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/technology/news/story/microsoft-ai-boss-mustafa-suleyman-says-ai-will-replace-most-white-collar-jobs-in-12-months-2867182-2026-02-12",
       "headline": "Microsoft AI boss says AI will replace most white-collar jobs in 12 monthsMicrosoft AI chief Mustafa Suleyman believes that AI could replace most white collar jobs including lawyers, accountants and more, within the next year. His comments come days after Anthropic's Claude Cowork shook the stocks of SaaS companies."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/prime-minister-office-seva-teerth-kartavya-path-new-office-facility-inauguration-narendra-modi-ministries-2867548-2026-02-13",
-      "headline": "PMO gets new address today, Prime Minister to unveil Rs 100 commemorative coinIn a transformative milestone for India's administrative governance architecture, the Prime Minister's Office will get a new address today for the first time since Independence."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/t20-world-cup-italy-win-nepal-crishan-kalugamage-spin-pizza-job-2867523-2026-02-13",
-      "headline": "A slice of history: How a pizza-maker spun Italy to first T20 World Cup winCrishan Kalugamage once feared his cricket dream had ended in Italy's pizzerias. On Thursday, the leg-spinner delivered a spell for the ages, powering Italy to a landmark T20 World Cup win over Nepal at Wankhede Stadium in Mumbai. Here's his story. \r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/jeffrey-epstein-files-bill-gates-donald-trump-first-presidential-win-2016-administration-visiting-latest-documents-revelations-island-visit-2867566-2026-02-13",
-      "headline": "New administration people visiting: Epstein's mail to Gates after Trump's 2016 winThe latest tranche of Jeffrey Epstein files released by the US Department of Justice revealed an email sent by him to Microsoft co-founder Bill Gates, in which the sex offender mentioned \"new administration people visiting\" a month after Donald Trump's first presidential win in 2016."
     },
     {
       "sentiment": "positive",
@@ -276,13 +281,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/only-15-vision-left-imran-khans-son-blames-pakistans-government-military-leadership-for-fathers-health-crisis-2867504-2026-02-13",
-      "headline": "Imran Khan's son claims father almost blind in one eye, blames Munir, his puppetsKasim Khan accused the Pakistan government and military leadership of causing his father, Imran Khan's, severe vision loss through prolonged solitary confinement and alleged medical neglect.\r\n"
+      "url": "https://www.indiatoday.in/movies/reviews/story/tu-yaa-main-review-shanaya-kapoo-adarsh-gourav-bejoy-nambiar-thriller-bites-when-you-least-expect-it-2867488-2026-02-13",
+      "headline": "Tu Yaa Main Review: Shanaya-Adarsh Gourav's thriller bites when you least expect itRelease Date:Fri Feb 13, 2026Tu Yaa Main movie review: Tu Yaa Main is a gripping thriller that fuses modern romance with edge-of-your-seat survival drama in Mumbai. With strong performances and a twist-filled story, it keeps you hooked, capturing fear, trust, and high-stakes tension in every scene."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ddca-clarifies-soft-drink-vendor-viral-video-refilling-bottles-arun-jaitley-stadium-2867396-2026-02-12",
-      "headline": "DDCA breaks silence on soft drink vendor's viral video from Arun Jaitley StadiumDDCA responded to a viral video alleging vendors reusing already-poured soft drinks for resale at Arun Jaitley Stadium. The video had gone viral on social media, sparking widespread concerns for fans."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/t20-world-cup-india-prepare-pakistan-usman-tariq-ishan-kishan-explains-2867471-2026-02-12",
+      "headline": "How are India preparing for Pakistan's Usman Tariq? Ishan Kishan explainsT20 World Cup 2026: India's wicketkeeper-batter, Ishan Kishan, and mystery spinner explain how they prepare for the bowlers they are going to face. They are set to face Pakistan next and will be up against the mystery-spinner, Usman Tariq for the first time."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/only-15-vision-left-imran-khans-son-blames-pakistans-government-military-leadership-for-fathers-health-crisis-2867504-2026-02-13",
+      "headline": "Imran Khan's son claims father almost blind in one eye, blames Munir, his puppetsKasim Khan accused the Pakistan government and military leadership of causing his father, Imran Khan's, severe vision loss through prolonged solitary confinement and alleged medical neglect.\r\n"
     },
     {
       "sentiment": "positive",
@@ -291,23 +301,13 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/t20-world-cup-italy-win-nepal-crishan-kalugamage-spin-pizza-job-2867523-2026-02-13",
+      "headline": "A slice of history: How a pizza-maker spun Italy to first T20 World Cup winCrishan Kalugamage once feared his cricket dream had ended in Italy's pizzerias. On Thursday, the leg-spinner delivered a spell for the ages, powering Italy to a landmark T20 World Cup win over Nepal at Wankhede Stadium in Mumbai. Here's his story. \r\n"
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/bihar/story/bihar-munger-woman-influencer-rose-day-celebration-wine-pistol-viral-videos-police-raid-fir-instagram-facebook-alcohol-banned-2867518-2026-02-13",
       "headline": "Bihar woman's Rose Day celebration with husband invites FIR, police raidBihar woman Kanchan Devi's Rose Day celebration with her husband, wherein he gave him roses and a bottle of wine, has landed her in legal trouble, considering alcohol is banned in the eastern state."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/t20-world-cup-india-must-crack-spin-code-before-pakistan-clash-colombo-2867495-2026-02-13",
-      "headline": "India must crack spin code before Pakistan twist the knife in ColomboT20 World Cup 2026: India's unbeaten start hides a spin concern ahead of the Pakistan clash in Colombo, with questions looming against a five-pronged spin attack."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/travel/story/you-can-live-on-this-greek-island-for-free-theres-just-one-catch-2864078-2026-02-13",
-      "headline": "You can live on this Greek island for free. There's just one catchThere's a Greek island willing to house you for free, provided you arrive with a soft spot for cats and a willingness to care for them."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/t20-world-cup-india-prepare-pakistan-usman-tariq-ishan-kishan-explains-2867471-2026-02-12",
-      "headline": "How are India preparing for Pakistan's Usman Tariq? Ishan Kishan explainsT20 World Cup 2026: India's wicketkeeper-batter, Ishan Kishan, and mystery spinner explain how they prepare for the bowlers they are going to face. They are set to face Pakistan next and will be up against the mystery-spinner, Usman Tariq for the first time."
     },
     {
       "sentiment": "positive",
@@ -323,18 +323,18 @@
   "sports": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/riyan-parag-ipl-rajasthan-royals-captain-2867610-2026-02-13",
+      "headline": "Riyan Parag set to be named Rajasthan Royals captain: Report IPL 2026: Rajasthan Royals have reportedly decided to make Riyan Parag the captain of the franchise. The move comes after the exit of Sanju Samson from the Jaipur-based team."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/video/t20-world-cup-italy-vs-nepal-first-ever-win-players-tears-eyes-john-davison-press-conference-2867583-2026-02-13",
       "headline": "Italy's first T20 World Cup win left some guys with tears in eyes: Coach Davison T20 World Cup: Italy head coach John Davison revealed that emotions ran high in the camp, with players left in tears after scripting their first-ever World Cup win by triumphing over Nepal on February 12."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/t20-world-cup-australia-vs-zimbabwe-live-score-today-match-updates-colombo-2867580-2026-02-13",
-      "headline": "AUS vs ZIM Live: Aussies aim to seal Super 8 spot with 3 wins in 3 Australia (AUS) vs Zimbabwe (ZIM) Live score, T20 World Cup: Australia are just one win away from sealing their spot in the Super 8-stage with 3 wins in 3, but that is not before their crucial Group B clash against a fighting Zimbabwe side in Colombo."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-namibia-gerhard-erasmus-story-arun-jaitley-stadium-2867562-2026-02-13",
-      "headline": "Cricket nerd from 6, Gerard Erasmus lives up to the Namibian spirit in Kotla ICC T20 World Cup, India vs Namibia: Gerhard Erasmus walked the talk for Namibia at the Arun Jaitley Stadium on Thursday. He registered his best ever figures in T20Is, but was not able to take his team over the line against India."
+      "headline": "Cricket nerd from 6, Gerhard Erasmus lives up to the Namibian spirit in Kotla ICC T20 World Cup, India vs Namibia: Gerhard Erasmus walked the talk for Namibia at the Arun Jaitley Stadium on Thursday. He registered his best ever figures in T20Is, but was not able to take his team over the line against India."
     },
     {
       "sentiment": "positive",
@@ -374,7 +374,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/karnataka-clears-ipl-return-to-chinnaswamy-with-safety-conditions-2867487-2026-02-13",
-      "headline": "Karnataka clears IPL return to Chinnaswamy stadium with strict safety conditions Karnataka cabinet clears IPL return to Chinnaswamy Stadium with 35,000 crowd cap and strict safety measures after Cunha report, months after tragic stampede halted cricket in Bengaluru."
+      "headline": "Karnataka clears IPL return to Chinnaswamy stadium with strict safety conditionsKarnataka cabinet clears IPL return to Chinnaswamy Stadium with 35,000 crowd cap and strict safety measures after Cunha report, months after tragic stampede halted cricket in Bengaluru."
     },
     {
       "sentiment": "positive",
@@ -470,11 +470,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/south-africa-vs-afghanistan-mohammad-nabi-fined-icc-code-of-conduct-breach-t20-world-cup-2026-2867136-2026-02-12",
       "headline": "After argument during SA vs AFG, Mohammad Nabi fined for code of conduct breachMohammad Nabi was fined 15 percent of his match fee and given one demerit point after an argument with the umpires during Afghanistan's T20 World Cup 2026 Group D clash against South Africa in Ahmedabad. Nabi admitted his offence and accepted the sanction."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/sri-lanka-vs-oman-t20-world-cup-2026-rathnayake-mendis-pallekele-2867168-2026-02-12",
-      "headline": "SL vs OMA: Sri Lanka set for Australia challenge after hammering OmanT20 World Cup: A clinical performance with the bat from Kusal Mendis and Pavan Rathnayake, followed by disciplined bowling helped Sri Lanka make it two in two with a thumping win over Oman in Pallekele on Thursday, February 12. "
     }
   ],
   "education": [
