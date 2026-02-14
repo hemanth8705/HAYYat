@@ -103,6 +103,11 @@
   ],
   "entertainment": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/mona-singh-kohrra-season-2-sub-inspector-dhanwant-kaur-powerful-performance-2867803-2026-02-14",
+      "headline": "Kohrra 2 finds its emotional core in Mona Singh Mona Singh delivers a restrained and powerful performance as Sub Inspector Dhanwant Kaur in Kohrra Season 2. Her portrayal highlights the silent grief and fierce dedication of a woman balancing personal loss with professional duty."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/police-record-ranveer-singh-rohit-shetty-managers-statement-recreate-crime-scene-2868048-2026-02-13",
       "headline": "Police record Ranveer Singh, Rohit Shetty managers' statement, recreate crime scene Mumbai Police recorded statements from the managers of filmmaker Rohit Shetty and actor Ranveer Singh. The Crime Branch has also recreated the firing sequence at Shetty's residence by retracing the accused's scooter route from Pune to Mumbai."
@@ -191,23 +196,18 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/when-shanaya-kapoor-caught-her-ex-texting-5-women-he-gave-me-guilty-earrings-2867790-2026-02-13",
       "headline": "When Shanaya Kapoor caught her ex texting 5 women: He gave me guilty earrings Actor Shanaya Kapoor has revealed details of a past relationship in which she caught her then-boyfriend messaging several other women. The revelation came during her appearance on the podcast."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/tamannaah-bhatia-junaid-khan-team-up-for-ektaa-kapoor-ragini-3-shashanka-ghosh-2867795-2026-02-13",
-      "headline": "Tamannaah Bhatia, Junaid Khan team up for Ektaa Kapoor's Ragini 3 Tamannah Bhatia and Junaid Khan are set to lead Ektaa Kapoor's horror film Ragini 3. The upcoming film will be directed by Shashanka Ghosh. "
     }
   ],
   "general news": [
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/world/us-news/story/accused-nikhil-gupta-pleads-guilty-of-orchestrating-failed-assassination-plot-against-sikh-terrorist-pannun-2868036-2026-02-13",
-      "headline": "Pannun murder plot: Accused Nikhil Gupta pleads guilty in USAccused Nikhil Gupta has pleaded guilty in a Manhattan federal court to murder-for-hire and related charges over a failed plot to kill Khalistani terrorist Gurpatwant Singh Pannun in New York. "
+      "headline": "Indian national pleads guilty in foiled murder plot against Khalistani terroristNikhil Gupta allegedly contacted an individual he believed to be a criminal associate to arrange the killing of Gurpatwant Singh Pannun for USD 100,000. But, the individual was, in fact, a confidential source with the US authorities. "
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/very-bad-day-for-iran-trump-sends-second-us-carrier-to-middle-east-2868072-2026-02-14",
-      "headline": "Trump floats Iran regime change as US deploys more firepower to Middle EastDonald Trump signaled tougher US posture toward Iran, highlighting decades of hostility and military losses as Washington strengthens its naval presence in the Middle East."
+      "headline": "Trump says Iran regime change best thing as second carrier heads to Middle EastDonald Trump signaled tougher US posture toward Iran, highlighting decades of hostility and military losses as Washington strengthens its naval presence in the Middle East."
     },
     {
       "sentiment": "positive",
@@ -216,8 +216,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/jeffrey-epstein-was-strangled-not-hanged-claims-dr-michael-baden-who-observed-autopsy-2868074-2026-02-14",
-      "headline": "Epstein was strangled, not hanged, says doctor who observed autopsyDr. Michael Baden says Jeffrey Epstein most likely died from strangulation, not suicide, citing neck fractures and security lapses, and calls for renewed investigation into inconsistencies surrounding his 2019 jail death.\r\n"
+      "url": "https://www.indiatoday.in/movies/celebrities/story/stop-defaming-palaash-muchhal-bombay-high-court-to-smriti-mandhana-friend-vidnyan-mane-2867987-2026-02-13",
+      "headline": "Stop defaming Palaash Muchhal: Bombay High Court to Smriti Mandhana's friendThe Bombay High Court has restrained filmmaker Vidnyan Mane from making defamatory statements against singer-composer Palaash Muchhal and his mother. The order follows a commercial dispute and controversial interviews after a called-off wedding."
     },
     {
       "sentiment": "positive",
@@ -226,8 +226,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/stop-defaming-palaash-muchhal-bombay-high-court-to-smriti-mandhana-friend-vidnyan-mane-2867987-2026-02-13",
-      "headline": "Stop defaming Palaash Muchhal: Bombay High Court to Smriti Mandhana's friendThe Bombay High Court has restrained filmmaker Vidnyan Mane from making defamatory statements against singer-composer Palaash Muchhal and his mother. The order follows a commercial dispute and controversial interviews after a called-off wedding."
+      "url": "https://www.indiatoday.in/world/story/rules-based-world-order-no-longer-exists-german-chancellor-merz-warns-at-munich-summit-2868076-2026-02-14",
+      "headline": "Rules-based world order no longer exists, German Chancellor Merz warnsGerman Chancellor Friedrich Merz warned the rules-based global order has collapsed, saying Europe's freedom is not guaranteed and calling for sacrifices as tensions with the United States deepen."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/jeffrey-epstein-was-strangled-not-hanged-claims-dr-michael-baden-who-observed-autopsy-2868074-2026-02-14",
+      "headline": "Epstein was strangled, not hanged, says doctor who observed autopsyDr. Michael Baden says Jeffrey Epstein most likely died from strangulation, not suicide, citing neck fractures and security lapses, and calls for renewed investigation into inconsistencies surrounding his 2019 jail death.\r\n"
     },
     {
       "sentiment": "positive",
@@ -235,14 +240,14 @@
       "headline": "Abhishek Sharma not technically sound, only slogs the ball: Ex-Pak cricketerICC T20 World Cup: Ahead of the India vs Pakistan game, former cricketer Mohammad Amir has called Abhishek Sharma a slogger. Amir said that a simple plan could unravel Abhishek's plans."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/indore/story/indore-naked-body-mba-student-obscene-video-boyfriend-missing-police-prime-suspect-2868066-2026-02-13",
-      "headline": "Obscene video, missing boyfriend, naked body: MBA student's murder rattles IndoreA 24-year-old MBA student was found dead in a rented room in Indore, with police investigating allegations of the victim suffering from depression and being blackmailed allegedly by her boyfriend, who is missing and the prime suspect in the case."
-    },
-    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/technology/news/story/claude-ai-was-told-it-would-be-switched-off-it-was-ready-to-blackmail-and-murder-engineer-to-avoid-that-2867368-2026-02-13",
       "headline": "When told about shutdown, Claude AI was ready to blackmail and murder engineerCall it smart. Or dangerous. Anthropic has again confirmed that its Claude AI can veer off the rails. The company notes this in its safety report for the latest Claude 4.6. Earlier, Claude 4.5 was willing to blackmail and even harm an engineer to avoid shutdown."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/cities/indore/story/indore-naked-body-mba-student-obscene-video-boyfriend-missing-police-prime-suspect-2868066-2026-02-13",
+      "headline": "Obscene video, missing boyfriend, naked body: MBA student's murder rattles IndoreA 24-year-old MBA student was found dead in a rented room in Indore, with police investigating allegations of the victim suffering from depression and being blackmailed allegedly by her boyfriend, who is missing and the prime suspect in the case."
     },
     {
       "sentiment": "positive",
@@ -256,13 +261,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/winter-olympics-condom-crisis-shortage-free-packs-run-out-intimacy-ban-milan-cortina-2867754-2026-02-13",
-      "headline": "Condom crisis at Winter Olympics: 10,000 packs at Games Village gone in 3 daysThe Milan-Cortina Winter Olympics athletes' village has reportedly run out of its free condom supply within just three days. Organisers have promised fresh stock as demand surges in the traditional close-quarters Olympic setting."
+      "url": "https://www.indiatoday.in/science/story/voyager-1-nasa-deep-space-network-interstellar-mission-signal-light-day-speed-2867639-2026-02-13",
+      "headline": "How Nasa still talks to Voyager that has left Solar System foreverVoyager 1 is transmitting data from 24 billion kilometres away using less than 200 watts of power. Discover how Nasa engineers maintain this 48-year-old spacecraft in interstellar space."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/voyager-1-nasa-deep-space-network-interstellar-mission-signal-light-day-speed-2867639-2026-02-13",
-      "headline": "How Nasa still talks to Voyager that has left Solar System foreverVoyager 1 is transmitting data from 24 billion kilometres away using less than 200 watts of power. Discover how Nasa engineers maintain this 48-year-old spacecraft in interstellar space."
+      "url": "https://www.indiatoday.in/sports/other-sports/story/winter-olympics-condom-crisis-shortage-free-packs-run-out-intimacy-ban-milan-cortina-2867754-2026-02-13",
+      "headline": "Condom crisis at Winter Olympics: 10,000 packs at Games Village gone in 3 daysThe Milan-Cortina Winter Olympics athletes' village has reportedly run out of its free condom supply within just three days. Organisers have promised fresh stock as demand surges in the traditional close-quarters Olympic setting."
     },
     {
       "sentiment": "positive",
@@ -275,14 +280,14 @@
       "headline": "Trump claims Russia wants a deal, urges Zelenskyy to get movingTrump urged Volodymyr Zelenskyy to quickly strike a deal with Russia as US-led talks resume in Geneva, even as fighting intensifies across Ukraine's front lines."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/elections/assembly/story/aiadmk-cryptic-post-tvk-man-dies-rally-vijay-2867812-2026-02-13",
-      "headline": "AIADMK's 'coffin dance' jab at Vijay after man dies at his Tamil Nadu rallyThe AIADMK took a swipe at TVK chief Vijay after a man died due to a heatstroke at his Salem rally, saying that people should carry a coffin to attend his rallies in the future."
-    },
-    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/arik-air-boeing-737-engine-midiar-explosion-nigeria-emergency-landing-2868032-2026-02-13",
       "headline": "Shocking footage captures plane flying with shredded engine after midair explosionAn Arik Air Boeing 737 suffered a midair engine explosion during a flight from Lagos to Port Harcourt, forcing an emergency diversion to Benin.\r\n"
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/elections/assembly/story/aiadmk-cryptic-post-tvk-man-dies-rally-vijay-2867812-2026-02-13",
+      "headline": "AIADMK's 'coffin dance' jab at Vijay after man dies at his Tamil Nadu rallyThe AIADMK took a swipe at TVK chief Vijay after a man died due to a heatstroke at his Salem rally, saying that people should carry a coffin to attend his rallies in the future."
     },
     {
       "sentiment": "positive",
@@ -296,13 +301,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/pm-modi-seva-teerth-inauguration-new-address-old-pmo-museum-convert-2867978-2026-02-13",
-      "headline": "PM shifts to new office Seva Teerth. What happens to old PMO now?Prime Minister Narendra Modi inaugurated Delhi's Seva Teerth complex, relocating from the Prime Minister's Office from South Block and launching new welfare measures targeting key demographics."
+      "url": "https://www.indiatoday.in/lifestyle/what-s-hot/story/aranyani-pavilion-where-sacred-groves-meet-contemporary-design-2867932-2026-02-13",
+      "headline": "Inside Delhi's spiral pavilion rooted in India's sacred forestsAt Sunder Nursery, the Aranyani Pavilion brings together sustainable design, sacred grove inspiration and a community breakfast from Meghalaya. Built from upcycled materials and shaped as a spiral, the temporary structure explores how architecture, indigenous knowledge and shared meals can reconnect cities with land and community."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/what-s-hot/story/aranyani-pavilion-where-sacred-groves-meet-contemporary-design-2867932-2026-02-13",
-      "headline": "Inside Delhi's spiral pavilion rooted in India's sacred forestsAt Sunder Nursery, the Aranyani Pavilion brings together sustainable design, sacred grove inspiration and a community breakfast from Meghalaya. Built from upcycled materials and shaped as a spiral, the temporary structure explores how architecture, indigenous knowledge and shared meals can reconnect cities with land and community."
+      "url": "https://www.indiatoday.in/india/story/pm-modi-seva-teerth-inauguration-new-address-old-pmo-museum-convert-2867978-2026-02-13",
+      "headline": "PM shifts to new office Seva Teerth. What happens to old PMO now?Prime Minister Narendra Modi inaugurated Delhi's Seva Teerth complex, relocating from the Prime Minister's Office from South Block and launching new welfare measures targeting key demographics."
     },
     {
       "sentiment": "positive",
@@ -313,14 +318,14 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/history-of-it/story/alan-shepard-smuggled-golf-club-balls-moon-mission-apollo-13-artemis-ii-launch-2867383-2026-02-13",
       "headline": "When an astronaut played golf on the Moon with a smuggled clubheadAlan Shepard's playful experiment captured something equally important about exploration: the unmistakably human urge to improvise, joke, and celebrate achievement, even 3,80,000 kilometers from Earth."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/assembly/story/karur-stampede-salem-rally-deaths-aiadmk-edapaddi-k-palaniswami-vijay-accountability-2868038-2026-02-13",
-      "headline": "He went into 72-hour hiding: EPS slams Vijay's conduct after deadly Karur stampedeThe Karur tragedy is currently under investigation by the Central Bureau of Investigation (CBI), and Vijay has been questioned twice in Delhi in connection with the case."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/t20-world-cup-india-will-beat-pakistan-play-safe-vs-usman-tariq-ind-vs-pak-harbhajan-singh-2868080-2026-02-14",
+      "headline": "India will win vs Pakistan, just play safe against Usman Tariq: Harbhajan Singh T20 World Cup: Harbhajan Singh has backed India to beat Pakistan in their February 15 T20 World Cup clash, but warned them to play mystery spinner Usman Tariq with caution. Tariq's rise has made him Pakistan's key threat."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/t20-world-cup-ireland-oman-england-scotland-new-zealand-south-africa-preview-2867806-2026-02-14",
@@ -374,7 +379,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/england-versus-scotland-t20-world-cup-match-preview-2867988-2026-02-13",
-      "headline": "England aim to spoil Scotland's upset dream as they seek redemption in Kolkata clash T20 World Cup, ENG vs SCO: Phil Salt said that England will be looking to bring out their best version in a game where Scotland will be looking to pull off an upset at the Eden Gardens in Kolkata. \r\n"
+      "headline": "England aim to spoil Scotland's upset dream as they seek redemption in Kolkata clashT20 World Cup, ENG vs SCO: Phil Salt said that England will be looking to bring out their best version in a game where Scotland will be looking to pull off an upset at the Eden Gardens in Kolkata. \r\n"
     },
     {
       "sentiment": "positive",
@@ -465,11 +470,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/video/t20-world-cup-italy-vs-nepal-first-ever-win-players-tears-eyes-john-davison-press-conference-2867583-2026-02-13",
       "headline": "Italy's first T20 World Cup win left some guys with tears in eyes: Coach DavisonT20 World Cup: Italy head coach John Davison revealed that emotions ran high in the camp, with players left in tears after scripting their first-ever World Cup win by triumphing over Nepal on February 12."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/cricket/story/t20-world-cup-australia-vs-zimbabwe-live-score-today-match-updates-colombo-2867580-2026-02-13",
-      "headline": "AUS vs ZIM Highlights: Zimbabwe beat Australia, bag massive upset in ColomboAustralia (AUS) vs Zimbabwe (ZIM) Highlights, T20 World Cup: AUS (146-all-out in 19.4 ovs) chasing 170. Zimbabwe cause the first upset of the T20 World Cup. They have beaten Australia by 23 runs in Colombo. What a day for Sikander Raza's men. What a day for the World Cup. Blessing Muzarabani stuns Aussies with 4/17."
     }
   ],
   "education": [
