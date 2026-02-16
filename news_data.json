@@ -1,6 +1,16 @@
 {
   "business": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/market/story/sensex-nifty-open-lower-as-market-sentiment-remain-cautious-over-it-selloff-2868813-2026-02-16",
+      "headline": "Sensex, Nifty open lower as market sentiment remain cautious over IT selloffThe S&P BSE Sensex was down by 47.79 points to\u00a082,578.97, while the NSE Nifty50 lost 7.45 points to\u00a025,464.75 as of 9:48 am.\u00a0"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/personal-finance/story/health-insurance-claim-denied-star-health-rs-50000-premium-agent-remark-you-didnt-ask-us-viral-post-2868799-2026-02-16",
+      "headline": "Man paid Rs 50,000 a year premium, insurance claim denied when mother fell illThe man said he had been paying around Rs 50,000 every year for his mother's policy and when she needed treatment, he went to the Lucknow office of Star Health and Allied Insurance, where he alleged he was made to wait for hours. His claim was denied. "
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/prime-minister-narendra-modi-interview-budget-2026-populism-capital-outlays-power-growth-jobs-2868679-2026-02-15",
       "headline": "Budget without populism and with capital outlays powers growth, jobs: PMDescribing the Budget for the fiscal year starting April 1 as reflective of his governance approach, PM Modi said the document is a good reflection of our governance style and priorities."
@@ -89,19 +99,49 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/retail-inflation-rises-to-275-in-january-under-new-cpi-base-year-2024-2867214-2026-02-12",
       "headline": "Retail inflation at 2.75% in January as India shifts to new CPI base year 2024The data, released by the Ministry of Statistics and Programme Implementation, reflects a major statistical overhaul aimed at making India's inflation measure more representative of current consumption patterns."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/insurance-mis-selling-india-90-year-old-man-sold-policy-maturing-in-20124-systemic-gaps-fraud-2867205-2026-02-12",
-      "headline": "A 90-year-old man was sold a 100-year policy. Why blaming the bank is not enoughHandcrafted ByOur Editors A 90-year-old man was sold an insurance policy maturing in 2124. The case sounds bizarre. But instances of mis-selling like this are painfully common across the country. The bank resolved the matter after a viral social media post. The harder question is why blaming the bank alone is not enough."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/market/story/sensex-sinks-over-500-points-nifty-tumbles-as-ai-panic-sinks-it-stocks-2867194-2026-02-12",
-      "headline": "Sensex sinks over 500 points, Nifty tumbles as AI panic sinks IT stocksThe benchmark BSE Sensex fell 559 points to close at 85,674.92, while the Nifty 50 slipped below the psychologically important 25,900 mark."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/harper-beckham-sweet-valentines-day-wish-for-best-brothers-amid-family-feud-2868811-2026-02-16",
+      "headline": "Harper Beckham's sweet Valentine's Day wish for best brothers amid family feud Harper Beckham shared sweet Valentine's Day messages for her brothers, showing their close bond despite ongoing family tensions."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/rashmika-mandanna-vijay-deverakonda-arrive-separately-but-leave-in-same-car-at-mumbai-airport-watch-video-2868808-2026-02-16",
+      "headline": "Rashmika, Vijay arrive separately, but leave in same car at Mumbai airport. Watch Actors Rashmika Mandanna and Vijay Deverakonda, who are at the centre of ongoing wedding rumours, were seen arriving in Mumbai separately but leaving together in the same car. The two are yet to share an official statement."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/eternity-elizabeth-olsen-miles-teller-unearth-enduring-bonds-imperfect-love-2868432-2026-02-16",
+      "headline": "Eternity: Elizabeth Olsen-Miles Teller unearth enduring bonds, imperfect love David Freyne's Eternity reimagines romance by showing how the raw, resilient threads of lifelong love weave a deeper eternity than any fleeting spark."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/stranger-things-maya-hawke-marries-christian-lee-hutson-in-valentines-day-wedding-2868802-2026-02-16",
+      "headline": "Stranger Things' Maya Hawke marries Christian Lee Hutson in Valentine's Day wedding Maya Hawke, Robin Buckley of Stranger Things, got married to musician Christian Lee Hutson at an intimate ceremony in New York City. The couple is yet to share the official photos from the wedding."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/kunickaa-sadanand-showers-love-on-son-ayaan-lall-battle-of-galwan-song-thanks-salman-khan-2868803-2026-02-16",
+      "headline": "Kunickaa showers love on son Ayaan's Battle Of Galwan song, thanks Salman Khan Kunickaa Sadanand shared an emotional note celebrating her son Ayaan Lall's debut song 'Main Hoon' from Salman Khan's upcoming film Battle of Galwan."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/ajay-devgn-mammootty-and-celebs-react-to-india-thrashing-pakistan-in-t20-world-cup-2868786-2026-02-16",
+      "headline": "Ajay Devgn, Mammootty and celebs react to India thrashing Pakistan in T20 World Cup Ajay Devgn, Mammootty and Paresh Rawal, among others, from the Indian film industry shared reactions online after India's 61-run victory against Pakistan in the ongoing T20 World Cup championship. With this win, India has stormed into the Super 8 stage."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/o-romeo-box-office-collection-day-3-detailed-report-shahid-kapoor-biggest-film-post-covid-beats-tbmauj-2868792-2026-02-16",
+      "headline": "O' Romeo box office Day 3: Shahid Kapoor's biggest film post-Covid, beats TBMAUJ Vishal Bhardwaj's romantic thriller, O' Romeo, starring Shahid Kapoor, collected Rs 30.15 crore nett in its opening weekend. The film emerges as Shahid's biggest post-pandemic opener, beating Teri Baaton Mein Aisa Uljha Jiya."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/shashi-tharoor-praises-priyanka-chopra-after-harvard-reunion-2868777-2026-02-16",
+      "headline": "Made India proud: Shashi Tharoor praises Priyanka Chopra after Harvard reunion Shashi Tharoor praised Priyanka Chopra after reconnecting with her at the Harvard India Conference, calling her achievements a matter of pride for India."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/sara-arjun-tamannaah-srinidhi-shetty-dance-their-hearts-out-during-the-mahashivratri-celebrations-at-isha-yoga-centre-2868775-2026-02-16",
@@ -156,68 +196,63 @@
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/movies/bollywood/story/increase-in-minor-rape-cases-india-taapsee-pannu-urges-societal-introspection-collective-responsibility-2868592-2026-02-15",
       "headline": "The problem starts from home: Taapsee Pannu on India's rape crisis Actor Taapsee Pannu calls for deeper reflection on rising rape cases in India, saying the problem \"starts from home\". Here's what she said and how it connects to her upcoming film Assi."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/royal-albert-hall-confuses-vir-das-for-aziz-ansari-comic-reacts-2868581-2026-02-15",
-      "headline": "Royal Albert Hall confuses Vir Das for Aziz Ansari, comic reacts A mix-up on the Royal Albert Hall website led to Vir Das's photo being shown for Aziz Ansari's upcoming show, prompting humorous reactions from both comedians and their fans."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/jai-somnath-film-sanjay-leela-bhansali-ketan-mehta-2027-release-2868583-2026-02-15",
-      "headline": "Sanjay Leela Bhansali unveils Jai Somnath, locks 2027 worldwide release Filmmaker Sanjay Leela Bhansali announces Jai Somnath for a 2027 worldwide release. Directed by Ketan Mehta, the historical epic promises scale, faith and cinematic grandeur."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/priyadarshan-hikes-rajpal-yadav-fees-in-upcoming-project-amid-debt-case-2868558-2026-02-15",
-      "headline": "Priyadarshan hikes Rajpal Yadav's fees in upcoming project amid debt case Members of the film community, including Priyadarshan and Gurmeet Choudhary, have come forward to support Rajpal Yadav, who remains in legal custody over an alleged Rs 9 crore debt linked to his 2012 film. Despite efforts to assist him, his bail request was rejected."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/ar-rahman-chennai-concert-dhanush-wonderment-tour-valentines-day-2868546-2026-02-15",
-      "headline": "AR Rahman's Chennai comeback gets a surprise twist from Dhanush. Watch videos Oscar-winning composer AR Rahman returned to Chennai in style, treating fans to a sweeping journey through his timeless classics and newer hits. The evening turned even more special with a surprise on-stage appearance by Dhanush. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/abhishek-bachchan-cautions-actors-on-unchecked-use-of-ai-says-it-scares-him-2868516-2026-02-15",
-      "headline": "Abhishek Bachchan cautions actors on unchecked use of AI, says it scares him At the ET NOW Global Business Summit 2026, Abhishek Bachchan expresses his worries about the rapid rise of artificial intelligence, highlighting its potential risks for actors and wider disruption across sectors."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/ranbir-kapoor-crowns-dhurandhar-his-top-pick-at-the-movies-cast-crew-smashed-it-2868504-2026-02-15",
-      "headline": "Ranbir Kapoor crowns Dhurandhar his top pick at the movies: Cast, crew smashed it Ranbir Kapoor recently revealed his admiration for the spy thriller Dhurandhar, starring Ranveer Singh, calling it his favourite film. The movie has gained wide recognition and its sequel is set for release next month."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/was-nagarjuna-first-choice-for-akshaye-khannas-role-in-dhurandhar-actor-responds-2868484-2026-02-15",
-      "headline": "Was Nagarjuna first choice for Akshaye Khanna's role in Dhurandhar? Actor responds Nagarjuna addressed rumours about being offered the role of Rehman Dakait in Aditya Dhar's Dhurandhar. He also praised the film and Akshaye Khanna, and shared updates on his upcoming projects."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/o-romeo-box-office-day-2-valentines-weekend-boosts-collections-for-shahids-drama-2868471-2026-02-15",
-      "headline": "O Romeo box office Day 2: Valentine's weekend boosts collections for Shahid's drama Shahid Kapoor and Triptii Dimri's new film O Romeo saw a significant increase in box office collections on its second day, marking a promising start despite performing below the actor's previous hits."
     }
   ],
   "general news": [
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-pakistan-score-today-t20-world-cup-ishan-kishan-super-8s-colombo-2868711-2026-02-15",
-      "headline": "No surprise: India steamroll predictably poor Pakistan to march into Super 8sIND vs PAK, T20 World Cup 2026: India hammered a predictably poor Pakistan by 61 runs to storm into the Super 8s stage. Handing Pakistan their biggest defeat in T20i head-to-head, India aced the battle of spin in Colombo on Sunday, February 15. "
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/ai-impact-summit-kicks-off-in-delhi-today-with-pm-modi-address-future-skills-in-focus-2868774-2026-02-16",
+      "headline": "India's big AI moment, PM to host global tech titans at mega summit todayDay 1 will include a leadership session on leveraging AI for the future of learning and work, examining its impact on global employment and skills. Another session will explore how artificial intelligence can transform India's judicial system by improving efficiency, transparency, and accessibility."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/budget-2026-prime-minister-narendra-modi-defence-modernisation-must-match-current-realities-2868669-2026-02-15",
-      "headline": "PM pushes for defence modernisation, says must match current realitiesPM Modi said the Union Budget reflects India's readiness for a developed future, highlighting a sharp rise in defence spending and modernisation alongside reforms, stronger FTAs and greater private sector investment. "
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-pakistan-t20-world-cup-lost-early-as-toss-colombo-shaheen-afridi-2868798-2026-02-16",
+      "headline": "A new low: When Pakistan lost to India as early as toss. Over and out.T20 World Cup, IND vs PAK: Pakistan had little go their way after choosing to bowl first in Colombo, where teams batting second have struggled throughout the tournament. Their decision backfired as Pakistan slumped to a 61-run defeat on Sunday."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/barack-obama-confirms-aliens-real-denies-hidden-extraterrestrials-area-51-conspiracy-glbs-2868744-2026-02-16",
-      "headline": "Do aliens exist? Barack Obama says yes but rules out hidden Area 51 conspiracyFormer US president Barack Obama said in a recent podcast interview that aliens are real but added that he has not personally seen any. He made the remark when asked directly about the existence of extraterrestrial life."
+      "url": "https://www.indiatoday.in/india/story/kiren-rijiju-rahul-gandhi-china-border-dont-politicise-national-security-galwan-negeral-naravane-book-2868812-2026-02-16",
+      "headline": "Don't politicise national security: Kiren Rijiju to Rahul Gandhi from China borderStanding near one of the flashpoints of the 2020 Galwan clash along the India-China border, Union Minister Kiren Rijiju said Rahul Gandhi should first learn about the borders and refrain from politicising issues of national security."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/political-leaders-praise-team-india-win-vs-pakistan-t20-world-cup-2026-2868746-2026-02-15",
-      "headline": "Formats, places change, but result same: Politicians praise Team India win vs PakPolitical leaders on Sunday praised India's emphatic win over Pakistan in the T20 World Cup. Union Home Minister Amit Shah said formats, places, and dates may change, but the result of India vs Pakistan remains consistent."
+      "url": "https://www.indiatoday.in/india/kerala/story/kerala-youngest-organ-donor-aalin-sherin-abraham-honoured-funeral-2868779-2026-02-16",
+      "headline": "Monumental compassion: Kerala honours youngest organ donor with state funeralAalin's parents decided to donate her organs -- including her liver, kidneys, heart valve and corneas -- which were successfully transplanted, helping save the lives of five children across multiple hospitals."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-pakistan-shahid-afridi-rant-drop-babar-azam-shaheen-afridi-t20-world-cup-colombo-2868781-2026-02-16",
+      "headline": "Drop Babar, Shaheen, Shadab: Afridi goes on all-out rant after IND vs PAK lossT20 World Cup: Shahid Afridi has urged Pakistan to bench Babar Azam, Shaheen Afridi and Shadab Khan after another heavy loss to India in Colombo. He wants youngsters trusted for the remaining T20 World Cup matches."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/kim-ju-ae-succession-speculation-north-korea-leadership-future-2868790-2026-02-16",
+      "headline": "Aunt, niece and a dynasty: Inside North Korea's succession warSouth Korean intelligence suggests Kim Jong-un may be grooming his daughter Kim Ju-ae as successor. Experts warn this could spark a family power struggle, with Kim Yo-jong also eyeing the top post, former envoy Rah Jong-yil told The Telegraph."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/lifestyle/fashion/story/in-2026-india-is-mysore-silk-saree-the-birkin-people-queue-up-for-at-4-am-2868794-2026-02-16",
+      "headline": "In 2026 India, is Mysore silk saree the Birkin people queue up for at 4 am?If you're someone who keeps track of viral videos, you would, by no means, have missed the clip of women queuing outside a store in Bengaluru at 4 am for a Mysore silk saree. But what's causing the demand? Has it gained a Birkin-like status among Indians?"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/why-the-rafale-buy-matters-2868819-2026-02-16",
+      "headline": "Why the Rafale buy mattersThe IAF needs the 114 jets to bolster its falling squadron numbers\u2014 it has just 29 fighter squadrons against a sanctioned strength of 42, even as adversaries Pakistan and China are bolstering their air forces. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/why-does-national-film-awards-ignore-casting-the-mukesh-chhabra-interview-part-i-2868665-2026-02-16",
+      "headline": "Why does National Film Awards ignore casting? The Mukesh Chhabra interview | Part IWhy is casting still absent from the National Film Awards? In this multi-interview series, starting with Mukesh Chhabra, India Today reflects on India's casting ecosystem and why recognition now feels overdue. As the industry evolves, we try to turn the spotlight on a category that policymakers may no longer be able to overlook."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/uttar-pradesh/story/toddler-drowns-in-water-filled-pit-in-greater-noida-month-after-techie-died-in-similar-incident-2868832-2026-02-16",
+      "headline": "Toddler drowns in water-filled pit month after techie died in similar incidentWhile playing near the community feast venue in Greater Noida, the 3 year-old Devansh reportedly slipped and fell into a deep pit filled with rainwater. Family members and villagers rushed to rescue him, but by the time he was pulled out, he had already died. Shocking reminder of Noida techie's death in a similar incident. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/personal-finance/story/health-insurance-claim-denied-star-health-rs-50000-premium-agent-remark-you-didnt-ask-us-viral-post-2868799-2026-02-16",
+      "headline": "Man paid Rs 50,000 a year premium, insurance claim denied when mother fell illThe man said he had been paying around Rs 50,000 every year for his mother's policy and when she needed treatment, he went to the Lucknow office of Star Health and Allied Insurance, where he alleged he was made to wait for hours. His claim was denied. "
     },
     {
       "sentiment": "positive",
@@ -226,78 +261,23 @@
     },
     {
       "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/deadly-bhubaneswar-rooftop-blast-caught-on-camera-2-die-during-treatment-2868804-2026-02-16",
+      "headline": "Deadly Bhubaneswar rooftop blast caught on camera, 2 die during treatmentInvestigators believe the explosion occurred while explosive materials were being handled on the rooftop. Gunpowder was recovered from the site, strengthening suspicions that crude bombs were being assembled there."
+    },
+    {
+      "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/karnataka/story/gold-theft-bengaluru-indian-bank-assistant-manager-arrested-stealing-2-7-kg-gold-2868644-2026-02-15",
       "headline": "Bengaluru bank employee steals 2.7 kg of gold from locker to fund gamblingThe theft surfaced on January 2, when customers visited the Indian Bank branch to retrieve their pledged jewellery. During locker verification, discrepancies emerged, prompting a detailed inspection."
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/madhya-pradesh-ias-officer-avi-prasad-marries-third-time-bride-2017-batch-officer-ankita-dhakre-2868826-2026-02-16",
+      "headline": "3rd time lucky? Madhya Pradesh IAS officer marries again, new bride also bureaucratMadhya Pradesh cadre IAS officer Avi Prasad's earlier marriages were to IAS officers Riju Bafna, currently Collector of Shajapur, and Misha Singh, now Collector of Ratlam."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-pak-t20-world-cup-shoaib-akhtar-rants-live-tv-mohsin-naqvi-pcb-india-defeat-colombo-2868757-2026-02-16",
-      "headline": "Biggest crime: Shoaib Akhtar takes dig at Pak board chief Mohsin Naqvi on live TVIND vs PAK, T20 World Cup: Shoaib Akhtar launched a scathing attack on PCB chairman Mohsin Naqvi and senior players after Pakistan's 61-run loss to India, calling incompetent leadership \"the biggest crime in the world.\""
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/india-weather-update-february-16-western-disturbance-rain-forecast-monday-weather-update-science-news-devendra-tripathi-india-meteorological-department-imd-mausam-2868680-2026-02-15",
-      "headline": "Rain or heat? Here's what the new Western Disturbance brings on MondayA new western disturbance will reach India today, bringing clouds to the Himalayas. Expert Devendra Tripathi explains why temperatures are rising in the plains."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/haryana-family-welcomes-dutch-woman-biker-with-open-arms-after-she-asks-to-camp-2868543-2026-02-15",
-      "headline": "Haryana family welcomes Dutch woman biker with open arms after she asks to campA solo woman traveller from the Netherlands was offered shelter and hospitality by a local family in Haryana after seeking a place to camp. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sunday-special/story/big-tech-small-pay-dream-job-pay-cheque-india-it-sector-starting-salary-tcs-wipro-infosys-2867929-2026-02-15",
-      "headline": "The dream job that doesn't pay the rent: India's IT salary realityFor years, a Big Tech job in India has been sold as the ultimate middle-class dream, but for many freshers in 2026, the reality begins with a salary package that hasn't kept pace with inflation, rent, or real life. This is the story of brand-name jobs, stagnant starter pay, and a generation quietly realising that their \"dream offer\" comes with a 2013 pay cheque. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/india-beats-pakistan-t20-world-cup-cricket-pakistan-team-board-anchor-huda-shah-2868770-2026-02-16",
-      "headline": "At least try losing properly: Pak anchor roasts team after India T20 thrashingIndia secured a dominant 61-run win over Pakistan in the T20 World Cup clash. The defeat sparked fierce criticism of Pakistan's players, management, and cricket board leadership."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/assembly/story/mani-shankar-aiyar-says-pinarayi-vijayan-will-return-to-power-congress-reacts-2868749-2026-02-15",
-      "headline": "Mani Shankar Aiyar says Pinarayi Vijayan will be Kerala CM again. Congress reactsThe veteran Congress leader's comments came at a time when his party is leaving no stone unturned to come back to power."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/nuclear-fusion-reactor-texas-12-year-old-dallas-boy-builds-nuclear-fusion-reactor-playroom-2868673-2026-02-15",
-      "headline": "How this 12-year-old boy built a nuclear fusion reactor in his roomAiden McMillan, a 12-year-old from Dallas, has successfully produced nuclear fusion in his playroom. He spent four years on the project.\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/axar-patel-on-india-vs-pakistan-rivalry-t20-world-cup-colombo-win-2868755-2026-02-16",
-      "headline": "Do Pakistan deserve arch-rivals tag? Axar rubs salt into wounds after Colombo winT20 World Cup, India vs Pakistan: Star Indian all-rounder Axar Patel added to Pakistan's misery after the comprehensive 61-run win over the Salman Ali Agha-led side, playing down the hype around the rivalry between the two teams."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/ai-impact-summit-kicks-off-in-delhi-today-with-pm-modi-address-future-skills-in-focus-2868774-2026-02-16",
-      "headline": "AI Impact Summit kicks off in Delhi today with PM's address; future skills in focusDay 1 will include a leadership session on leveraging AI for the future of learning and work, examining its impact on global employment and skills. Another session will explore how artificial intelligence can transform India's judicial system by improving efficiency, transparency, and accessibility."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/t20-world-cup-afghanistan-uae-england-italy-australia-sri-lanka-super-8-battle-preview-2868597-2026-02-16",
-      "headline": "Matchday Preview: Struggling Australia look to breathe life into their campaignT20 World Cup: Day 10 of the tournament features crucial clashes in Delhi, Kolkata and Pallekele as Afghanistan face UAE, England meet Italy and Australia take on Sri Lanka in matches that could shape the Super 8 race."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-pakistan-rohit-sharma-wasim-akram-hug-t20-world-cup-watch-video-colombo-2868773-2026-02-16",
-      "headline": "Watch: Rohit Sharma hugs Pakistan legend Wasim Akram in ColomboT20 World Cup: Former India captain Rohit Sharma shared a warm hug with Pakistan legend Wasim Akram during the pre-match ceremony in Colombo. The moment went viral ahead of India's dominant 61-run win over Pakistan."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/indians-abroad/story/indian-student-dead-in-us-saketh-sreenivasaiah-death-mea-san-francisco-karnataka-boy-iit-graduate-2868446-2026-02-15",
-      "headline": "Missing Indian Berkeley student found dead in California after 6 daysSaketh Sreenivasaiah, the 22-year-old University of California student who had been missing since February 9, has been confirmed dead in the US."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/digital-hawala-crackdown-jammu-and-kashmir-thousands-of-mule-accounts-fund-anti-india-activities-frozen-2868545-2026-02-15",
-      "headline": "Big hawala racket busted in J&K, 8,000 accounts with anti-India activities frozenInvestigators describe mule accounts as the most vulnerable yet indispensable component in the cybercrime pipeline. Without them, criminals would struggle to channel stolen funds into untraceable digital assets such as cryptocurrency."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-pakistan-fan-breaks-tv-t20-world-cup-loss-reactions-2868747-2026-02-15",
-      "headline": "Heartbroken Pakistan fan smashes TV after humbling loss to India in ColomboT20 World Cup, IND vs PAK: A heartbroken Pakistan supporter was filmed smashing his television set following the team's crushing 61-run defeat to India in Colombo. He was just one of millions left reeling after Sunday's humbling at the hands of their arch-rivals."
+      "headline": "Incompetent, ignorant: Akhtar tears into PCB chief after India hammers PakIND vs PAK, T20 World Cup: Shoaib Akhtar launched a scathing attack on PCB chairman Mohsin Naqvi and senior players after Pakistan's 61-run loss to India, calling incompetent leadership \"the biggest crime in the world.\""
     },
     {
       "sentiment": "positive",
@@ -306,21 +286,71 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/pakistan-t20-world-cup-2026-loss-india-risk-early-exit-qualification-super-8-2868712-2026-02-15",
-      "headline": "Pakistan in danger of early T20 World Cup exit. Can it really happen?T20 World Cup, IND vs PAK: Salman Agha's Pakistan are in danger of an early exit from the tournament following their 61-run defeat to Suryakumar Yadav's India on Sunday at the R Premadasa Stadium in Colombo."
+      "url": "https://www.indiatoday.in/india/story/haryana-village-reports-12-deaths-in-15-days-drinking-water-under-probe-2868785-2026-02-16",
+      "headline": "Haryana village reports 12 deaths in 15 days, drinking water under probeWhile health officials have detected Hepatitis B and C in a few cases and found 23 of 107 water samples failing quality tests due to bacterial growth and low chlorination, the exact cause of the deaths is still under investigation."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/how-macrons-india-visit-will-boost-defence-ties-through-big-ticket-deals-2868761-2026-02-16",
-      "headline": "How Macron's India visit will boost defence ties through big-ticket dealsFrench President Emmanuel Macron will begin a visit to India on Monday, aiming to strengthen bilateral defence ties, with talks centred on joint production of helicopters and HAMMER precision-guided missiles."
+      "url": "https://www.indiatoday.in/movies/celebrities/story/shashi-tharoor-praises-priyanka-chopra-after-harvard-reunion-2868777-2026-02-16",
+      "headline": "Made India proud: Shashi Tharoor praises Priyanka Chopra after Harvard reunionShashi Tharoor praised Priyanka Chopra after reconnecting with her at the Harvard India Conference, calling her achievements a matter of pride for India."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/cities/mumbai/story/mumbai-man-dies-9-days-after-suv-driven-by-teen-hit-his-scooter-wife-critical-2868809-2026-02-16",
+      "headline": "Mumbai man dies 9 days after SUV driven by teen hit his scooter, wife criticalNine days after a speeding SUV driven by a minor rammed their scooter in Mumbai, Dhrumil Patel died during treatment while wife Meenal Patel remains critical. Police booked the car owner after his minor son allegedly drove the car.  Police continue their investigation into negligence and illegal driving that turned a late-night commute into a fatal tragedy for the family."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/samajwadi-party-leader-killed-as-high-mast-pole-falls-on-moving-car-in-uttar-pradesh-pratapgarh-2868717-2026-02-15",
-      "headline": "Samajwadi Party leader killed as high mast pole falls on moving car in UPThe Samajwadi Party leader was barely 500 metres from his home when a high mast pole collapsed onto his moving car."
+      "url": "https://www.indiatoday.in/science/story/why-the-sky-is-blue-and-sunsets-turn-it-red-light-scattering-physics-explained-2867832-2026-02-16",
+      "headline": "Why the sky is blue, and sunsets turn it redThis new series from India Today Science delves into the why and how of daily events that we notice, wonder and then forget about. Today, we look at why the skies appear the way they appear during different hours of the day. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/us-news/story/barack-obama-confirms-aliens-real-denies-hidden-extraterrestrials-area-51-conspiracy-glbs-2868744-2026-02-16",
+      "headline": "Do aliens exist? Barack Obama says yes but rules out hidden Area 51 conspiracyFormer US president Barack Obama said in a recent podcast interview that aliens are real but added that he has not personally seen any. He made the remark when asked directly about the existence of extraterrestrial life."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/nuclear-fusion-reactor-texas-12-year-old-dallas-boy-builds-nuclear-fusion-reactor-playroom-2868673-2026-02-15",
+      "headline": "How this 12-year-old boy built a nuclear fusion reactor in his roomAiden McMillan, a 12-year-old from Dallas, has successfully produced nuclear fusion in his playroom. He spent four years on the project.\r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/india-beats-pakistan-t20-world-cup-cricket-pakistan-team-board-anchor-huda-shah-2868770-2026-02-16",
+      "headline": "At least try losing properly: Pak anchor roasts team after India T20 thrashingIndia secured a dominant 61-run win over Pakistan in the T20 World Cup clash. The defeat sparked fierce criticism of Pakistan's players, management, and cricket board leadership."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/afghanistan-vs-uae-t20-world-cup-live-score-today-match-updates-new-delhi-2868831-2026-02-16",
+      "headline": "Afghanistan vs UAE Live: Rashid Khan and Co. look to keep Super 8 hopes alive Afghanistan (AFG) vs UAE (UAE) Live Score, T20 World Cup: With their tournament on the line, Afghanistan will be looking to put their South Africa heartbreak behind and look to keep the Super 8 hopes alive against UAE. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-pakistan-t20-world-cup-ishan-kishan-colombo-like-virat-kohli-mcg-knock-2868818-2026-02-16",
+      "headline": "Like Kohli in Melbourne, Ishan Kishan finds cricket's loneliest place in Colombo T20 World Cup 2026: In Colombo against Pakistan, Ishan Kishan found cricket's loneliest place, the same space Virat Kohli once inhabited in Melbourne, but reached it through dominance rather than endurance."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-pakistan-t20-world-cup-kris-srikkanth-colombo-2868814-2026-02-16",
+      "headline": "India's C team will thrash Pakistan: Srikkanth calls for end of greatest rivalry hype T20 World Cup: After Pakistan's surrender to India during the T20 World Cup 2026, Kris Srikkanth said that the Indian C team is enough to beat the arch-rivals. Srikkanth heavily criticised the Pakistan batting after the heavy defeat in Colombo. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-pakistan-t20-world-cup-lost-early-as-toss-colombo-shaheen-afridi-2868798-2026-02-16",
+      "headline": "A new low: When Pakistan lost to India as early as toss. Over and out. T20 World Cup, IND vs PAK: Pakistan had little go their way after choosing to bowl first in Colombo, where teams batting second have struggled throughout the tournament. Their decision backfired as Pakistan slumped to a 61-run defeat on Sunday."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-pakistan-babar-azam-virat-kohli-irfan-pathan-t20-world-cup-2026-2868791-2026-02-16",
+      "headline": "Has Babar Azam ever played a Kohli-esque knock? Irfan Pathan slams PAK batter T20 World Cup: Former India all-rounder Irfan Pathan has slammed Babar Azam after another flopshow against India, asking if he has ever played a knock like Virat Kohli in a pressure game. Babar was dismissed for five runs in Colombo. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-pakistan-shahid-afridi-rant-drop-babar-azam-shaheen-afridi-t20-world-cup-colombo-2868781-2026-02-16",
+      "headline": "Drop Babar, Shaheen, Shadab: Afridi goes on all-out rant after IND vs PAK loss T20 World Cup: Shahid Afridi has urged Pakistan to bench Babar Azam, Shaheen Afridi and Shadab Khan after another heavy loss to India in Colombo. He wants youngsters trusted for the remaining T20 World Cup matches."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-pakistan-abhishek-sharma-poor-form-ravi-shastri-t20-world-cup-2026-2868778-2026-02-16",
@@ -334,7 +364,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-pak-t20-world-cup-shoaib-akhtar-rants-live-tv-mohsin-naqvi-pcb-india-defeat-colombo-2868757-2026-02-16",
-      "headline": "Biggest crime: Shoaib Akhtar takes dig at Pak board chief Mohsin Naqvi on live TV IND vs PAK, T20 World Cup: Shoaib Akhtar launched a scathing attack on PCB chairman Mohsin Naqvi and senior players after Pakistan's 61-run loss to India, calling incompetent leadership \"the biggest crime in the world.\""
+      "headline": "Incompetent, ignorant: Akhtar tears into PCB chief after India hammers Pak IND vs PAK, T20 World Cup: Shoaib Akhtar launched a scathing attack on PCB chairman Mohsin Naqvi and senior players after Pakistan's 61-run loss to India, calling incompetent leadership \"the biggest crime in the world.\""
     },
     {
       "sentiment": "positive",
@@ -349,32 +379,32 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/video/ind-vs-pak-t20-world-cup-axar-patel-team-man-press-conference-colombo-2868756-2026-02-16",
-      "headline": "IND vs PAK: Axar Patel focused on being a team man, not stressed about changing roles Here is the full transcript of India all-rounder Axar Patel's press conference after their 61-run loss to India in the Group A clash in the ICC Men's T20 World Cup in Colombo."
+      "headline": "IND vs PAK: Axar Patel focused on being a team man, not stressed about changing rolesHere is the full transcript of India all-rounder Axar Patel's press conference after their 61-run loss to India in the Group A clash in the ICC Men's T20 World Cup in Colombo."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/video/t20-world-cup-india-vs-pakistan-sunil-gavaskar-reaction-colombo-2868754-2026-02-16",
-      "headline": "Pakistan no match for India in skill and temperament: Sunil Gavaskar T20 World Cup 2026: Speaking to India Today after India's 61-run victory in Colombo, legendary Sunil Gavaskar highlighted the gulf in skill and temperament between the two sides. He also heaped praise on Ishan Kishan for his superb 77 off 40 balls, noting that the innings effectively took the game away from Pakistan on Sunday."
+      "headline": "Pakistan no match for India in skill and temperament: Sunil GavaskarT20 World Cup 2026: Speaking to India Today after India's 61-run victory in Colombo, legendary Sunil Gavaskar highlighted the gulf in skill and temperament between the two sides. He also heaped praise on Ishan Kishan for his superb 77 off 40 balls, noting that the innings effectively took the game away from Pakistan on Sunday."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/video/india-vs-pakistan-t20-world-cup-pak-coach-mike-hesson-post-match-press-conference-2868752-2026-02-16",
-      "headline": "Fearless Ishan Kishan took the game away from Pakistan: Pak coach Mike Hesson India vs Pakistan, ICC T20 World Cup: Pakistan head coach Mike Hesson said it was Ishan Kishan's counter-attacking knock, rather than the top-order collapse, that proved to be the difference between the two sides in Pakistan's 61-run defeat to India in Colombo.\r\n"
+      "headline": "Fearless Ishan Kishan took the game away from Pakistan: Pak coach Mike HessonIndia vs Pakistan, ICC T20 World Cup: Pakistan head coach Mike Hesson said it was Ishan Kishan's counter-attacking knock, rather than the top-order collapse, that proved to be the difference between the two sides in Pakistan's 61-run defeat to India in Colombo.\r\n"
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-pakistan-fan-breaks-tv-t20-world-cup-loss-reactions-2868747-2026-02-15",
-      "headline": "Heartbroken Pakistan fan smashes TV after humbling loss to India in Colombo T20 World Cup, IND vs PAK: A heartbroken Pakistan supporter was filmed smashing his television set following the team's crushing 61-run defeat to India in Colombo. He was just one of millions left reeling after Sunday's humbling at the hands of their arch-rivals."
+      "headline": "Heartbroken Pakistan fan smashes TV after humbling loss to India in ColomboT20 World Cup, IND vs PAK: A heartbroken Pakistan supporter was filmed smashing his television set following the team's crushing 61-run defeat to India in Colombo. He was just one of millions left reeling after Sunday's humbling at the hands of their arch-rivals."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/babar-shaheen-shadab-yousaf-slams-trio-pakistan-loss-vs-india-t20-world-cup-2868742-2026-02-15",
-      "headline": "Time's up for Babar, Shaheen: Ex-captain slams Pakistan stars after India loss Former Pakistan captain Mohammad Yousuf has launched a scathing attack on the team's senior core after Pakistan's crushing 61-run defeat to India in the ICC T20 World Cup 2026 in Colombo, declaring that it is \"time's up\" for Babar Azam, Shaheen Shah Afridi and Shadab Khan."
+      "headline": "Time's up for Babar, Shaheen: Ex-captain slams Pakistan stars after India lossFormer Pakistan captain Mohammad Yousuf has launched a scathing attack on the team's senior core after Pakistan's crushing 61-run defeat to India in the ICC T20 World Cup 2026 in Colombo, declaring that it is \"time's up\" for Babar Azam, Shaheen Shah Afridi and Shadab Khan."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-pak-t20-world-cup-2026-suryakumar-yadav-dedicates-win-india-pakistan-thumping-colombo-2868745-2026-02-15",
-      "headline": "This is for India: Surya after crushing Pakistan in T20 World Cup 2026 IND vs PAK, T20 World Cup: Suryakumar Yadav dedicated their 61-run win over Pakistan to his nation, India. Ishan Kishan's 77 and Jasprit Bumrah's brilliance powered India to the Super Eight stage in Colombo on Sunday."
+      "headline": "This is for India: Surya after crushing Pakistan in T20 World Cup 2026IND vs PAK, T20 World Cup: Suryakumar Yadav dedicated their 61-run win over Pakistan to his nation, India. Ishan Kishan's 77 and Jasprit Bumrah's brilliance powered India to the Super Eight stage in Colombo on Sunday."
     },
     {
       "sentiment": "positive",
@@ -445,26 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-a-women-crush-pakistan-a-eight-wickets-asia-cup-rising-stars-2868582-2026-02-15",
       "headline": "IND 1-0 PAK: Before T20 WC tie, India Women hammer Pakistan in Rising Stars Asia CupIndia Women A defeated Pakistan A by eight wickets in a Group A match of the Women's Asia Cup Rising Stars in Bangkok, with Dinesh Vrinda's unbeaten 55 guiding a dominant chase of 94."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/wi-vs-nep-west-indies-vs-nepal-t20-world-cup-2026-super-8-2868559-2026-02-15",
-      "headline": "WI vs NEP: Ruthless West Indies secure Super 8 spot, knock Nepal outT20 World Cup: A ruthless performance from the West Indies sees them become the first team to make it to the Super 8 stages of the T20 World Cup 2026 on Sunday, February 15. Shai Hope's fifty and Jason Holder's four-wicket haul ensured West Indies got the win and knocked out Nepal from the tournament. "
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/cricket/story/sanjay-manjrekar-on-india-no-handshake-policy-vs-pakistan-t20-world-cup-2026-2868542-2026-02-15",
-      "headline": "No-handshake policy with Pak silly, India must play within spirit: ManjrekarFormer cricketer Sanjay Manjrekar has criticised India's no-handshake policy against Pakistan as silly and unbecoming of a major cricketing nation. The policy, in place since the Pahalgam attack, faces fresh scrutiny ahead of the T20 World Cup 2026 clash."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-pakistan-virat-kohli-premadasa-pitch-shreevats-goswami-t20-world-cup-2868534-2026-02-15",
-      "headline": "A Kohli-like innings will decide winner of India vs Pakistan: Ex-India playerIND vs PAK: Swashbuckling your way to a big total may not be the ideal approach at Colombo's R. Premadasa Stadium. Ahead of the marquee India vs Pakistan clash on February 15, former Bengal cricketer Shreevats Goswami said India might require a Virat Kohli-style innings \u2014 built on patience, strike rotation and calculated aggression \u2014 to come out on top."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-pakistan-abhishek-sharma-risk-stomach-bug-fit-or-not-colombo-t20-world-cup-2868520-2026-02-15",
-      "headline": "Why India don't need Abhishek Sharma for Pakistan clashT20 World Cup: Abhishek Sharma's fitness has become the biggest subplot ahead of India vs Pakistan in Colombo. With the explosive opener back in training after illness, India must decide whether to risk him in cricket's marquee clash."
     }
   ],
   "education": [
