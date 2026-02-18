@@ -2,6 +2,21 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/market/story/stock-market-opening-bell-sensex-nifty-flat-it-stocks-down-infosys-wipro-tcs-2870067-2026-02-18",
+      "headline": "Sensex, Nifty open flat as IT stocks tumble in early trade; Infosys down 2%The S&P BSE Sensex was up 19.33 points to\u00a083,470.29, while the NSE Nifty50 added 12.50 points to\u00a025,737.90 as of 9:41 am.\u00a0"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/real-estate/story/dda-removes-parking-charges-from-flat-prices-mig-hig-karmayogi-awas-yojana-towering-heights-2025-2870058-2026-02-18",
+      "headline": "Big relief for homebuyers as DDA removes parking charges from flat pricesThe authority has discontinued the levy of parking charges, including covered parking, in the overall cost of flats. This change is expected to reduce flat prices by Rs 5 lakh to Rs 12 lakh, depending on the category of the flat and the size of the parking space."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/epfo-interest-rate-fy26-8-25-percent-what-it-means-for-pf-subscribers-2870036-2026-02-18",
+      "headline": "EPFO may keep PF interest rate at 8.25% for FY26. What it means for your savingsThe EPFO is also working on creating an interest stabilisation reserve fund. The aim is to provide a stable and consistent interest rate to subscribers, even if markets are volatile. "
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/dnpa-hosts-key-ai-and-journalism-dialogue-at-indiaai-impact-summit-2026-2869708-2026-02-17",
       "headline": "DNPA hosts key AI and journalism dialogue at IndiaAI Impact Summit 2026The session brought together senior leaders from India's most influential news organisations along with global publishing representation to examine how artificial intelligence is transforming journalism, and how India must shape that transformation responsibly."
     },
@@ -84,24 +99,44 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/mutual-fund-cash-levels-equity-returns-market-volatility-kotak-flexicap-2868990-2026-02-16",
       "headline": "How cash levels in mutual funds impact returns during volatile marketsIn the current market, volatility caused by global and external factors has led some mutual funds to increase their cash positions. The idea is to lower risk and protect portfolios from sudden corrections. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/can-nps-help-you-save-tax-in-the-new-regime-what-salaried-employees-must-know-2868956-2026-02-16",
-      "headline": "Can NPS help you save tax in the new regime? What salaried employees must knowFor salaried workers who have moved to the new tax regime, tax saving can feel limited. This has led many to question if there are still practical ways to ease their tax burden. Let's have a look."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/can-your-employer-refuse-gratuity-if-you-get-pension-heres-what-employees-must-know-2868916-2026-02-16",
-      "headline": "Can your employer refuse gratuity if you get pension? Here's what employees must knowMany employees assume that receiving a pension from their employer means they may have to give up gratuity. But the law draws a clear distinction between the two. A recent court ruling has clarified what workers should know about their rights."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/real-estate/story/mumbai-luxury-housing-market-2025-ultra-luxury-home-sales-rs-100-crore-record-2868915-2026-02-16",
-      "headline": "Why Mumbai remains India's top luxury housing hubThe global recognition Mumbai is receiving today is best understood as validation rather than arrival. International research now ranks the city among the world's fastest-growing luxury housing markets, reflecting sustained price appreciation at the very top end."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/reviews/story/goat-review-animated-sports-drama-female-underdog-story-inspires-2870065-2026-02-18",
+      "headline": "GOAT review: This heartfelt animated sports drama works as much for kids as adultsRelease Date:Fri Feb 20, 2026 GOAT movie review: Animated film GOAT tells the inspiring story of a young goat chasing her sports dreams. The film explores themes of resilience, community, and breaking gender norms in a vibrant fantasy world."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/o-romeo-box-office-collection-day-5-detailed-report-shahid-kapoor-film-steady-nears-rs-50-crore-2870061-2026-02-18",
+      "headline": "O' Romeo box office Day 5: Shahid Kapoor's film steady, nears Rs 50 crore Vishal Bhardwaj's O' Romeo, starring Shahid Kapoor and Triptii Dimri, continued a steady box office run after a decent opening weekend. Here's the day-wise breakup and how it compares to Shahid's recent releases."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/mammootty-speaks-out-on-health-scare-sensory-loss-that-paused-his-career-in-2025-2870047-2026-02-18",
+      "headline": "Mammootty speaks out on health scare, sensory loss that paused his career in 2025 Malayalam actor Mammootty has revealed that he lost his sense of smell and taste during a health issue in 2025, sharing details of his experience and recovery process. He has since returned to acting, resuming work on major film projects."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/kunal-nayyar-says-wealth-is-grace-as-he-donates-anonymously-to-medical-fundraisers-2870052-2026-02-18",
+      "headline": "The Big Bang Theory star Kunal Nayyar's old interview on money and grace goes viral Kunal Nayyar revealed that he secretly donates to families' medical fundraisers on GoFundMe, saying wealth gives him the freedom to change lives. An old interview of the actor discussing money, kindness and personal responsibility is now going viral on X."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/ssunita-ahuja-says-ongoing-cheating-rumours-add-stress-during-her-menopause-phase-2870032-2026-02-18",
+      "headline": "Ssunita Ahuja says ongoing cheating rumours add stress during her menopause phase Ssunita Ahuja said she does not want to deal with added stress at this stage of her life, especially while going through menopause, as she addressed rumours about her marriage. She added that forgiveness is possible, but only if she feels heard and supported."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/salim-khan-hospitalised-mumbai-sanjay-dutt-salman-khan-visit-icu-lilavati-2870025-2026-02-18",
+      "headline": "Sanjay Dutt visits Salim Khan at Mumbai hospital, extends support to family Actor Sanjay Dutt was seen visiting Salim Khan, admitted to Lilavati Hospital's ICU in Mumbai, where Salman Khan and family have also assembled amid concerns for the veteran screenwriter's health."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/kohrra-2-barun-sobti-mona-singh-series-expose-social-faultlines-2869008-2026-02-18",
+      "headline": "Kohrra 2: Barun Sobti and Mona Singh's series exposes several social faultlines Plot-wise, Kohrra Season 2 is a thriller that explores bonded labour. However, the gritty screenplay of the show, starring Mona Singh and Barun Sobti, is a sharp commentary on several other societal ills. Read to know more. "
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/standpoint/story/trisha-condemns-bjp-chiefs-sexist-remark-weaponising-women-tamil-nadu-politics-2869635-2026-02-18",
@@ -161,53 +196,13 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/farida-jalal-career-journey-adaptability-quality-work-2869757-2026-02-17",
       "headline": "Actor Farida Jalal says her comeback outshone her early career Veteran actor Farida Jalal discusses her approach to work, the significance of her comeback, and observations on the changing nature of fame and roles in the industry."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/varun-grover-on-teen-accused-in-hit-and-run-case-politicians-in-papas-pockets-2869664-2026-02-17",
-      "headline": "Varun Grover on teen accused in hit-and-run case: Politicians in Papa's pockets Varun Grover slammed the \"soft-oligarchy\" following the Dwarka hit-and-run, where a minor accused of killing Sahil Dhaneshra received interim bail. He criticised the culture of influential families escaping accountability, highlighting how systemic gaps allow reckless behavior to go unpunished in high-profile cases."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/emmanuel-macron-meets-manoj-bajpayee-anil-kapoor-shabana-azmi-zoya-akhtar-richa-chadha-alongside-legends-of-indian-cinema-2869758-2026-02-17",
-      "headline": "Alongside legends: Emmanuel Macron meets Manoj Bajpayee, Anil Kapoor and others French President Emmanuel Macron met Bollywood celebrities including Shabana Azmi, Anil Kapoor, Manoj Bajpayee, Zoya Akhtar and Richa Chadha in Mumbai during his India visit. \"Alongside legends of Indian cinema,\" Macron wrote in the caption along with pictures he posted."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/farhan-akhtar-portrays-ravi-shankar-sam-mendes-beatles-biopic-2869722-2026-02-17",
-      "headline": "Amul celebrates Farhan's Ravi Shankar act in The Beatles with quirky topical Amul India has celebrated Farhan Akhtar's Hollywood debut as Ravi Shankar with a witty topical. Here's why the casting is making waves."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/salman-khan-father-salim-khan-shifted-icu-doctors-confirm-he-is-stable-2869740-2026-02-17",
-      "headline": "Salim Khan shifted to ICU, doctors confirm he is stable Salman Khan's father, Salim Khan, has been shifted to the Intensive Care Unit (ICU) of Lilavati Hospital under the observation of experts. The doctor, in a press statement, said that Khan is currently stable.  "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/rajpal-yadav-expresses-gratitude-to-high-court-following-interim-bail-from-tihar-2869732-2026-02-17",
-      "headline": "Rajpal Yadav expresses gratitude to High Court following interim bail from Tihar Rajpal Yadav expressed gratitude to the High Court as well as the film industry and his fans after being granted interim bail. Addressing a cheque bounce case, the actor mentioned he remains ready to answer all allegations and thanked the judiciary for the relief."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/akshay-kumar-shares-early-stage-show-experience-parents-denied-entry-punjab-2869661-2026-02-17",
-      "headline": "Why were Akshay Kumar's parents denied entry to his first show? Actor shares During an episode of Wheel of Fortune, Akshay Kumar recalled how his parents were unable to attend his first stage performance in Punjab. The actor also shared that the security staff thought that his father was intoxicated. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/shanaya-kapoor-recalls-aryan-khans-rollercoaster-prank-on-her-and-suhana-khan-2869687-2026-02-17",
-      "headline": "Rollercoaster gone rogue: Shanaya recalls Aryan Khan's prank on her and Suhana Actor Shanaya Kapoor shared a childhood memory where she and Suhana Khan were pushed down the stairs by Aryan Khan. The confession came as she was promoting her latest film, Tu Yaa Main, alongside co-star Adarsh Gourav."
     }
   ],
   "general news": [
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/delhi/story/delhi-teen-driver-suv-crash-biker-killed-dead-ran-over-dwarka-accused-father-grief-apologises-forgiveness-shock-sahil-dhaneshra-2869913-2026-02-17",
-      "headline": "Grave mistake, very, very sorry: Father of Delhi teen who drove SUV over bikerThe father of the teen driver, whose SUV ran over a 23-year-old biker in Delhi's Dwarka on February 3, apologised for the incident and said their family is in deep shock in the aftermath."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/us-sends-f-22s-f-35s-f-16s-in-major-50-jet-deployment-to-middle-east-as-iran-nuclear-talks-continue-2869998-2026-02-18",
-      "headline": "US sends F-22s, F-35s, F-16s in major 50-jet deployment to Middle EastThe United States deployed over 50 fighter jets and advanced a carrier strike group toward the Middle East as indirect nuclear talks with Iran resumed, signaling parallel tracks of military reinforcement and diplomacy."
+      "url": "https://www.indiatoday.in/india/story/what-happend-happened-indore-man-smiles-when-asked-motive-for-girlfriend-murder-2870066-2026-02-18",
+      "headline": "What happened, happened: Indore man smiles when asked motive for girlfriend's murderDays after allegedly strangling his 24-year-old girlfriend and violating her body, accused Piyush Dhamnotia showed no remorse. Smiling, he told India Today, \"What had to happen has happened,\" and declined to explain further as police escorted him from a station in Indore."
     },
     {
       "sentiment": "positive",
@@ -215,9 +210,14 @@
       "headline": "Galgotias under fire for displaying Chinese robodog as own at AI Summit, clarifiesGalgotias University has addressed online criticism over claims of developing and showcasing a Chinese-made robotic dog as its own at the India AI Impact Summit in Delhi, clarifying it never claimed to have developed the technology."
     },
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/cities/delhi/story/delhi-teen-driver-suv-crash-biker-killed-dead-ran-over-dwarka-accused-father-grief-apologises-forgiveness-shock-sahil-dhaneshra-2869913-2026-02-17",
+      "headline": "Grave mistake, very, very sorry: Father of Delhi teen who drove SUV over bikerThe father of the teen driver, whose SUV ran over a 23-year-old biker in Delhi's Dwarka on February 3, apologised for the incident and said their family is in deep shock in the aftermath."
+    },
+    {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/metallica-nothing-else-matters-uttar-pradesh-akhilesh-yadav-samajwadi-party-sp-chief-reel-amuses-puzzles-metalheads-2869641-2026-02-18",
-      "headline": "Metallica in Uttar Pradesh: Akhilesh's Reel amuses, puzzles metalheadsSP chief Akhilesh Yadav's use of Metallica's Nothing Else Matters to counter Chief Minister Yogi Adityanath's development pitch amused many on the internet. Did the soundtrack carry an optics, or was it just a random choice for an Instagram Reel by Akhilesh, whose musical taste inclines toward rock and metal?"
+      "url": "https://www.indiatoday.in/sports/cricket/story/sikandar-raza-zimbabwe-t20-world-cup-2026-super-8-redemption-story-2870059-2026-02-18",
+      "headline": "Muqaddar ka Sikandar: How Raza turned heartbreak into happiness for ZimbabweT20 World Cup: Zimbabwe missed out on qualifying for the tournament in 2024, but this time around, Sikandar Raza's men have secured their berth in the Super 8. It was Raza, with his inspirational leadership and attitude, aims to keep his side grounded and continue their journey towards bigger goals at the T20 World Cup 2026. "
     },
     {
       "sentiment": "positive",
@@ -226,8 +226,83 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/magistrate-18-monitoring-staff-12-policemen-posted-for-single-board-examinee-in-jharkhand-2870063-2026-02-18",
+      "headline": "Magistrate, 18 supervisors, 12 cops deployed for lone Jharkhand board candidateThe student, Shankar Kumar Singh, who had opted for Music, appeared at an examination centre under CCTV surveillance, with a magistrate, 18 monitoring personnel and 12 police personnel on duty."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/ai-startup-neosapien-founder-wearables-stolen-ai-summit-high-security-zone-delhi-police-files-case-2869887-2026-02-17",
+      "headline": "Lost and found in 24 hours: Startup devices stolen from AI Summit recoveredA Bengaluru-based AI startup founder alleged that the company's wearable devices were stolen when exhibitors were asked to vacate their stalls ahead of the PM's visit. The stolen devices were recovered on Tuesday."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/ceos-of-chanel-alphabet-adobe-all-indian-emmanuel-macron-big-praise-for-india-2870041-2026-02-18",
+      "headline": "CEOs of Chanel, Alphabet, Adobe all Indian: Macron's big praise for IndiaEmmanuel Macron praised India's rising global influence in innovation at the India\u2013France Innovation Forum in Mumbai, citing Indian-origin CEOs at IBM and Microsoft. He also noted that Chanel's CEO is from Kolhapur, Maharashtra, where he was delivering his address."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/metallica-nothing-else-matters-uttar-pradesh-akhilesh-yadav-samajwadi-party-sp-chief-reel-amuses-puzzles-metalheads-2869641-2026-02-18",
+      "headline": "Metallica in Uttar Pradesh: Akhilesh's Reel amuses, puzzles metalheadsSP chief Akhilesh Yadav's use of Metallica's Nothing Else Matters to counter Chief Minister Yogi Adityanath's development pitch amused many on the internet. Did the soundtrack carry an optics, or was it just a random choice for an Instagram Reel by Akhilesh, whose musical taste inclines toward rock and metal?"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/technology/news/story/india-today-ai-summit-kicks-off-today-promises-thought-provoking-discussions-from-global-ai-leaders-2870010-2026-02-18",
+      "headline": "India Today AI Summit kicks off todayOn the sidelines of the AI Impact Summit in Delhi, India Today Group is hosting the AI Summit 2026. The day-long summit will see thought-provoking and captivating discussions from global AI leaders on a diverse set of AI-related issues and aspects. \r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/technology/news/story/google-pixel-10a-full-specs-leaked-ahead-of-pre-orders-here-is-what-you-need-to-know-2869756-2026-02-17",
+      "headline": "Google Pixel 10a full specs leaked ahead of pre-orders, here is what you need to knowGoogle is gearing to launch the Pixel 10a on February 18. But ahead of pre-orders, a leak has revealed details about the smartphone's key specs. Here's what we know so far.\r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/india-pakistan-ravi-river-shahpur-kandi-dam-water-flow-indus-treaty-2869727-2026-02-17",
+      "headline": "India to turn off Ravi water tap for Pakistan ahead of summerWater woes for Pakistan are unlikely to end soon. Ahead of a harsh summer, India is now set to block surplus water flow from the Ravi River to Pakistan with the completion of the Shahpur Kandi barrage. How will it impact Pakistan? Read on to find out."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/kohrra-2-barun-sobti-mona-singh-series-expose-social-faultlines-2869008-2026-02-18",
+      "headline": "Kohrra 2: Barun Sobti and Mona Singh's series exposes several social faultlinesPlot-wise, Kohrra Season 2 is a thriller that explores bonded labour. However, the gritty screenplay of the show, starring Mona Singh and Barun Sobti, is a sharp commentary on several other societal ills. Read to know more. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/delhi-ncr-rain-western-disturbances-hot-winter-showers-noida-gurgaon-cold-morning-sudden-rain-weather-pattern-2870060-2026-02-18",
+      "headline": "Delhi rain: Where did it come from?The IMD issued a yellow alert for the day, forecasting very light to light rainfall accompanied by isolated thunderstorms, lightning, and gusty winds reaching 30\u201340 kmph, particularly during the forenoon and afternoon."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/real-estate/story/dda-removes-parking-charges-from-flat-prices-mig-hig-karmayogi-awas-yojana-towering-heights-2025-2870058-2026-02-18",
+      "headline": "Big relief for homebuyers as DDA removes parking charges from flat pricesThe authority has discontinued the levy of parking charges, including covered parking, in the overall cost of flats. This change is expected to reduce flat prices by Rs 5 lakh to Rs 12 lakh, depending on the category of the flat and the size of the parking space."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-netherlands-t20-world-cup-preview-ahmedabad-pitch-report-predicted-playing-xi-2869857-2026-02-18",
       "headline": "IND vs NED: India look to enter Super Eight with a perfect group stage recordT20 World Cup, India vs Netherlands: Already through to the Super Eights, India will look to extend their unbeaten run and cap off their group-stage campaign on a high when they take on the Netherlands at the Narendra Modi Stadium in Ahmedabad on Wednesday."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/standpoint/story/trisha-condemns-bjp-chiefs-sexist-remark-weaponising-women-tamil-nadu-politics-2869635-2026-02-18",
+      "headline": "Trisha's stand in Vijay row is a refusal to be patriarchy's political weaponWhen Tamil Nadu BJP chief Nainar Nagendran invoked Trisha's name in a bid to discredit Vijay, he inadvertently sparked a larger conversation about women's agency in public discourse. Her swift and dignified response drew a firm line between political rivalry and personal dignity."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/us-sends-f-22s-f-35s-f-16s-in-major-50-jet-deployment-to-middle-east-as-iran-nuclear-talks-continue-2869998-2026-02-18",
+      "headline": "US sends F-22s, F-35s, F-16s in major 50-jet deployment to Middle EastThe United States deployed over 50 fighter jets and advanced a carrier strike group toward the Middle East as indirect nuclear talks with Iran resumed, signaling parallel tracks of military reinforcement and diplomacy."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/army-used-ai-to-intercept-foil-chinese-move-along-lac-in-arunachal-official-2870011-2026-02-18",
+      "headline": "Army used AI to predict, foil Chinese move along LAC in Arunachal: Top officerIndia used AI-powered prediction tools to anticipate and counter an unprecedented Chinese move along the Line of Actual Control in Arunachal Pradesh, Lt Gen Dinesh Singh Rana said at the India AI Impact Summit 2026."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/pakistan-vs-namibia-t20-world-cup-2026-must-win-clash-colombo-2870028-2026-02-18",
+      "headline": "PAK vs NAM weather forecast: Will Pakistan suffer Australia's fate?Pakistan takes on Namibia in a crucial Group A fixture at the Sinhalese Sports Club in Colombo, needing a win to stay alive in the T20 World Cup 2026. But will the weather play spoilsport during the contest?"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/trending-news/story/us-envoy-sergio-gor-first-bengaluru-visit-tejasvi-surya-dosa-coffee-namma-auto-ride-2869829-2026-02-17",
+      "headline": "US envoy's first Bengaluru visit with Tejasvi Surya features dosa, coffee and auto rideUS Ambassador Sergio Gor's first visit to Bengaluru included local experiences with BJP MP Tejasvi Surya and discussions on strengthening India-US ties in trade and technology."
     },
     {
       "sentiment": "negative",
@@ -236,91 +311,36 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/india-pakistan-ravi-river-shahpur-kandi-dam-water-flow-indus-treaty-2869727-2026-02-17",
-      "headline": "India to turn off Ravi water tap for Pakistan ahead of summerWater woes for Pakistan are unlikely to end soon. Ahead of a harsh summer, India is now set to block surplus water flow from the Ravi River to Pakistan with the completion of the Shahpur Kandi barrage. How will it impact Pakistan? Read on to find out."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/standpoint/story/trisha-condemns-bjp-chiefs-sexist-remark-weaponising-women-tamil-nadu-politics-2869635-2026-02-18",
-      "headline": "Trisha's stand in Vijay row is a refusal to be patriarchy's political weaponWhen Tamil Nadu BJP chief Nainar Nagendran invoked Trisha's name in a bid to discredit Vijay, he inadvertently sparked a larger conversation about women's agency in public discourse. Her swift and dignified response drew a firm line between political rivalry and personal dignity."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/ai-startup-neosapien-founder-wearables-stolen-ai-summit-high-security-zone-delhi-police-files-case-2869887-2026-02-17",
-      "headline": "Lost and found in 24 hours: AI startup devices stolen from AI summit recoveredA Bengaluru-based AI startup founder alleged that the company's wearable devices were stolen when exhibitors were asked to vacate their stalls ahead of the PM's visit. The stolen devices were recovered on Tuesday."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/indo-french-strategic-partnership-emmanuel-macron-india-innovation-and-defence-cooperation-mumbai-2869937-2026-02-17",
-      "headline": "Jai Ho: Macron praises India-France strategic partnership at Mumbai innovation forumFrench President Emmanuel Macron and Prime Minister Narendra Modi highlighted deepening cooperation in technology, defence, and innovation at the India\u2013France Innovation Forum in Mumbai."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/usman-tariq-babar-azam-shaheen-afridi-pakistan-press-conference-t20-world-cup-2869987-2026-02-18",
-      "headline": "Babar Azam, Shaheen Afridi under pressure after India debacle? Usman Tariq opens upT20 World Cup, PAK vs NAM: Usman Tariq has backed Shaheen Shah Afridi and Babar Azam to bounce back following their disappointing performance against India, which saw Pakistan suffer a 61-run defeat at the R. Premadasa Stadium in Colombo."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/us-envoy-sergio-gor-first-bengaluru-visit-tejasvi-surya-dosa-coffee-namma-auto-ride-2869829-2026-02-17",
-      "headline": "US envoy's first Bengaluru visit with Tejasvi Surya features dosa, coffee and auto rideUS Ambassador Sergio Gor's first visit to Bengaluru included local experiences with BJP MP Tejasvi Surya and discussions on strengthening India-US ties in trade and technology."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/elections/assembly/story/himanta-biswa-sarma-reveals-2014-drama-assam-congress-sonia-gandhi-backing-cm-post-rahul-intervention-2869982-2026-02-18",
       "headline": "Sonia Gandhi backed me as CM, Rahul intervened: Himanta Sarma reveals 2014 dramaHimanta Biswa Sarma claimed that he had the backing of then Congress chief Sonia Gandhi as well 58 MLAs for the Assam CM post in 2014. However, Rahul Gandhi's intervention changed the situation, Sarma said."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/us-congressman-randy-fine-under-fire-over-dogs-preferable-to-muslims-post-glbs-2869943-2026-02-17",
-      "headline": "Dogs preferable to Muslims? US Congressman under fire for X postDespite the backlash, Florida Congressman Randy Fine doubled down, sharing images of dogs alongside a slogan linked to the historic Gadsden flag and accusing critics of hypocrisy in remarks about Islam and cultural norms."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/prime-minister-narendra-modi-french-president-emmanuel-macron-deals-defence-partnership-ai-collaboration-free-trade-2869731-2026-02-17",
       "headline": "Hammer missiles, choppers: India-France ties enter new phase with defence pushDescribing France as one of India's oldest strategic partners, Prime Minister Modi said the two nations have given their relationship unprecedented depth and energy, based on trust and a shared vision for the future."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/iit-bombay-students-left-amused-as-dog-steals-the-spotlight-in-lecture-hall-2869872-2026-02-17",
-      "headline": "IIT Bombay students left amused as dog steals the spotlight in lecture hallA video shot at IIT Bombay featuring a dog confidently standing on a classroom table has left the internet giggling hard."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/western-disturbance-to-bring-early-rain-on-wednesday-snow-in-the-himalayas-2869812-2026-02-17",
-      "headline": "Western disturbance to bring early rain, thunderstorms on WednesdayWeather activity may also extend into western Uttar Pradesh, with rainfall chances from Meerut to Lucknow and Bahraich, and possible showers in Agra, Kanpur, Mathura, Jhansi, and Lalitpur. "
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/indore/story/indore-mba-student-murder-accused-raped-corpse-drank-alcohol-searched-occult-practice-youtube-2869680-2026-02-17",
-      "headline": "Indore man killed girlfriend, abused corpse, searched YouTube to speak to spiritThe man who murdered his girlfriend in Indore admitted to violating her corpse afterwards. He later searched on YouTube for ways to communicate with spirits."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/india-today-group-unveils-sutra-an-ai-news-anchor-at-india-ai-impact-summit-2869747-2026-02-17",
-      "headline": "India Today Group unveils Sutra, an AI news anchor, at India AI Impact SummitThe India Today Group has unveiled Sutra, an AI-assisted anchor, in partnership with BharatGen. The AI anchor has been deployed to provide contextual and relevant news from the India AI Impact Summit. \r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/auto/cars/story/nissan-gravite-launched-at-rs-665-lakh-takes-on-the-triber-2869880-2026-02-17",
-      "headline": "Nissan Gravite launched at Rs 6.65 lakh, takes on the TriberNissan has launched the Gravite, a 7-seater compact MPV at Rs 6.65 lakh (ex-showroom) and it directly competes with the Renault Triber."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/prime-minister-narendra-modi-ai-take-away-jobs-fears-ai-summit-delhi-2026-technology-creation-opportunities-2869779-2026-02-17",
-      "headline": "Will AI take away jobs? PM Modi addresses biggest concern among youthPrime Minister Narendra Modi has addressed the biggest fear among India's youth: whether AI will take away jobs. Here's what he said."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/days-after-resigning-as-assam-congress-chief-bhupen-borah-to-join-bjp-on-february-22-says-himanta-sarma-2869866-2026-02-17",
-      "headline": "Ex-Assam Congress chief Bhupen Borah to join BJP on Feb 22: Himanta SarmaAssam CM Himanta Biswa Sarma announced that former Assam Congress chief Bhupen Borah will join the BJP on February 22, along with several other Congress leaders."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/pm-modi-invites-bangladesh-tarique-rahman-to-strengthen-india-bangladesh-ties-glbs-2869878-2026-02-17",
-      "headline": "Warm welcome awaits you: PM Modi's India invite to Bangladesh's Tarique RahmanIn a letter to Tarique Rahman following the Bangladesh Nationalist Party's (BNP) electoral win and inauguration of government, PM Modi expressed confidence in strengthening bilateral ties with the neighbouring country."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/south-africa-vs-uae-t20-world-cup-live-score-today-match-updates-new-delhi-2870073-2026-02-18",
+      "headline": "South Africa vs UAE Live: Proteas look to maintain momentum before India tie South Africa (SA) vs United Arab Emirates (UAE) Live Score T20 World Cup: Ahead of their Super 8 clash against hosts India, South Africa will be aiming to maintain their momentum and ensure they finish the group stage with a 100 percent win record. UAE will be aiming to finish their campaign on a high and secure a big win in New Delhi. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/sikandar-raza-zimbabwe-t20-world-cup-2026-super-8-redemption-story-2870059-2026-02-18",
+      "headline": "Muqaddar ka Sikandar: How Raza turned heartbreak into happiness for Zimbabwe T20 World Cup: Zimbabwe missed out on qualifying for the tournament in 2024, but this time around, Sikandar Raza's men have secured their berth in the Super 8. It was Raza, with his inspirational leadership and attitude, aims to keep his side grounded and continue their journey towards bigger goals at the T20 World Cup 2026. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/pakistan-vs-namibia-t20-world-cup-2026-must-win-clash-colombo-2870028-2026-02-18",
+      "headline": "PAK vs NAM weather forecast: Will Pakistan suffer Australia's fate? Pakistan takes on Namibia in a crucial Group A fixture at the Sinhalese Sports Club in Colombo, needing a win to stay alive in the T20 World Cup 2026. But will the weather play spoilsport during the contest?"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ms-dhoni-biopic-inspired-usman-tariq-pakistan-t20-world-cup-comeback-2870024-2026-02-18",
+      "headline": "How Dhoni's Biopic sparked Usman Tariq's stunning cricket comeback T20 World Cup: Pakistan's Usman Tariq credited MS Dhoni's biopic for inspiring him to make a comeback in cricket and make his bow in the ongoing T20 World Cup 2026. Tariq has been one of Pakistan's main bowlers during the competition. "
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-netherlands-t20-world-cup-preview-ahmedabad-pitch-report-predicted-playing-xi-2869857-2026-02-18",
@@ -359,22 +379,22 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-rajasthan-royals-indemnity-waiver-jaipur-stadium-safety-concerns-2869875-2026-02-17",
-      "headline": "Royals seek waiver from state govt to host IPL in Jaipur after safety concerns Rajasthan Royals are racing to get their home ground ready for the Indian Premier League and have sought an indemnity waiver from the state government to host matches in Jaipur. The request follows concerns over the venue's readiness raised by an independent auditor and the Board of Control for Cricket in India."
+      "headline": "Royals seek waiver from state govt to host IPL in Jaipur after safety concernsRajasthan Royals are racing to get their home ground ready for the Indian Premier League and have sought an indemnity waiver from the state government to host matches in Jaipur. The request follows concerns over the venue's readiness raised by an independent auditor and the Board of Control for Cricket in India."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/video/t20-world-cup-ind-vs-ned-sitanshu-kotak-press-conference-2869879-2026-02-17",
-      "headline": "No need to overanalyse Abhishek Sharma's duck against Pakistan: Sitanshu Kotak T20 World Cup, IND vs NED: India batting coach Sitanshu Kotak said that there was no need to overanalyse Abhishek Sharma's form in the tournament. Abhishek came back into the line-up after recovering from illness, but got out for a duck against Pakistan."
+      "headline": "No need to overanalyse Abhishek Sharma's duck against Pakistan: Sitanshu KotakT20 World Cup, IND vs NED: India batting coach Sitanshu Kotak said that there was no need to overanalyse Abhishek Sharma's form in the tournament. Abhishek came back into the line-up after recovering from illness, but got out for a duck against Pakistan."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ranji-trophy-semi-final-karnataka-vs-uttarakhand-devdutt-padikkal-2869863-2026-02-17",
-      "headline": "Devdutt Padikkal charges towards India spot as Karnataka inch closer to Ranji final Devdutt Padikkal scored a career-best 232 to help Karnataka to a mammoth total in the Ranji Trophy semi-finals. Should Indian selectors consider him for the No.3 Test spot?"
+      "headline": "Devdutt Padikkal charges towards India spot as Karnataka inch closer to Ranji finalDevdutt Padikkal scored a career-best 232 to help Karnataka to a mammoth total in the Ranji Trophy semi-finals. Should Indian selectors consider him for the No.3 Test spot?"
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-netherlands-t20-world-cup-predicted-xi-arshdeep-singh-2869865-2026-02-17",
-      "headline": "IND vs NED Predicted XI: Will Arshdeep Singh replace Kuldeep Yadav? T20 World Cup, IND vs NED: Suryakumar Yadav's India have qualified for the Super 8 and are favourites to finish at the top of their group. One potential change could be bringing Arshdeep Singh back in place of Kuldeep Yadav."
+      "headline": "IND vs NED Predicted XI: Will Arshdeep Singh replace Kuldeep Yadav?T20 World Cup, IND vs NED: Suryakumar Yadav's India have qualified for the Super 8 and are favourites to finish at the top of their group. One potential change could be bringing Arshdeep Singh back in place of Kuldeep Yadav."
     },
     {
       "sentiment": "positive",
@@ -455,21 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/mohammed-shami-8-wickets-bengal-vs-jammu-and-kashmir-ranji-trophy-semi-final-2869515-2026-02-17",
       "headline": "Shami scalps 8 wickets in Ranji semis, puts India selectors on high alertMohammed Shami put India selectors on alert with an eight-wicket haul for Bengal in the Ranji Trophy semi-final against Jammu & Kashmir. The veteran pacer now has 38 wickets this season."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/t20-world-cup-ian-healy-slams-australias-selection-calls-after-defeat-vs-sri-lanka-2869455-2026-02-17",
-      "headline": "Ian Healy slams Australia's selection calls after defeat vs Sri LankaAUS vs SL, T20 World Cup: Former Australia wicketkeeper Ian Healy has strongly criticised the team's selection after a heavy defeat to Sri Lanka. Australia now face an uphill battle to qualify for the Super 8 with their final group match against Oman."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/gautam-gambhir-rajasthan-royals-ceo-new-role-mentor-india-head-coach-2869438-2026-02-17",
-      "headline": "Gambhir to join Rajasthan Royals? IPL franchise approach India coachRajasthan Royals have approached India head coach Gautam Gambhir for a senior role in their setup amid an ownership change. However, Gambhir is unlikely to accept due to conflict-of-interest rules and national commitments.\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-pakistan-abhishek-sharma-t20-world-cup-sunil-gavaskar-advice-take-single-2869421-2026-02-17",
-      "headline": "Abhishek Sharma, just take a single first: Gavaskar's advice to India openerT20 World Cup: Sunil Gavaskar offered simple advice to Abhishek Sharma amid his tough start to the T20 World Cup. The former captain urged him to get off the mark first before unleashing his attacking game."
     }
   ],
   "education": [
