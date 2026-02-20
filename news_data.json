@@ -2,6 +2,21 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/companies/story/dutch-company-asml-jumps-90-last-si-months-global-tech-ecosystem-explained-2871359-2026-02-20",
+      "headline": "Why has this Dutch company's stock gained over 90% on Nasdaq in six months?ASML Holding's stock has gained 94.66% in the past six months on the US stock exchange Nasdaq, where\u00a0many of the world's biggest technology companies list their shares.\u00a0"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/market/story/infosys-tech-mahindra-tcs-why-it-stocks-are-crashing-again-today-2871347-2026-02-20",
+      "headline": "Infosys, Tech Mahindra, TCS: Why IT stocks are falling again todayThe slide in IT stocks raises fresh questions about what is spooking investors and how long this uneasy phase could last. A closer look may reveal more than the morning numbers suggest."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/market/story/stock-market-opening-bell-sensex-nifty-high-volatility-us-iran-tensions-2871341-2026-02-20",
+      "headline": "Sensex, Nifty open flat amid volatility, IT stocks continue to declineWith global cues expected to remain volatile, investors are likely to stay cautious. Movements in crude oil, the rupee and developments in the US\u2013Iran standoff will remain key drivers for market direction through the day."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/video/uk-and-india-must-shape-ai-together-says-kanishka-narayan-2871082-2026-02-19",
       "headline": "UK and India must shape AI together, says Kanishka NarayanIn an exclusive conversation with India Today,\u00a0UK AI Minister Kanishka Narayan\u00a0highlighted the strengthening technological partnership between India and the United Kingdom."
     },
@@ -84,24 +99,59 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/video/can-india-turn-its-data-edge-into-global-ai-leadership-experts-debate-2870604-2026-02-18",
       "headline": "Can India turn its data edge into global AI leadership? Experts debateAt the India Today AI Summit, the conversation moved beyond algorithms and valuations to a more fundamental question: power. As panellists noted, artificial intelligence runs not just on data and chips but on massive, uninterrupted energy supply to fuel data centres and high-performance computing. With AI workloads rising globally, advanced economies such as the United States and parts of Europe are already grappling with grid stress and delays in expanding generation capacity. Against this backdrop, speakers argued that India's relative energy sufficiency and ongoing renewable expansion could offer a strategic edge. India has added significant power capacity in recent years and is pushing solar, wind and green hydrogen projects, positioning itself to meet rising digital infrastructure demand. If managed well, this energy readiness could help India scale domestic data centres, strengthen data sovereignty and even emerge as a competitive AI hub, turning power security into economic advantage in the global AI race."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/video/how-infrastructure-and-innovation-are-driving-indias-ai-growth-2870557-2026-02-18",
-      "headline": "How infrastructure and innovation are driving India's AI growthAt the India Today AI Summit 2026, industry leaders unpacked what truly powers AI, i.e., from advanced chips and data centres to voice tools and open-source platforms."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/video/indias-ai-opportunity-is-real-says-openais-chief-economist-2870554-2026-02-18",
-      "headline": "India's AI opportunity is real, says OpenAI's chief economistArtificial intelligence is not hype and it is not a bubble. That was the clear message from Dr Aaron Ronnie Chatterji, Chief Economist at OpenAI, at the India Today AI Summit 2026. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/inside-indias-rapid-ai-rise-experts-talk-infrastructure-and-innovation-2870538-2026-02-18",
-      "headline": "Inside India's rapid AI rise: Experts talk infrastructure and innovationExperts said that India is on the brink of a major AI expansion. If infrastructure, open technology and user-friendly applications grow together, AI could become part of everyday life for hundreds of millions."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/ranveer-singh-gets-rs-10-crore-extortion-note-bishnoi-gang-us-number-under-lens-2871358-2026-02-20",
+      "headline": "Ranveer Singh gets Rs 10-crore extortion note, Bishnoi gang, US number under lens The Bishnoi gang allegedly demanded Rs 10 crore from Ranveer Singh through a threatening voice note sent from an American number. Mumbai Crime Branch has launched a preliminary enquiry into the case."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/heated-rivalry-review-hudson-williams-connor-storrie-queer-romance-raises-heat-2871350-2026-02-20",
+      "headline": "Heated Rivalry review: Hudson-Connor's queer romance raises the heat and the barRelease Date:Fri Feb 20, 2026 Heated Rivalry series review: Heated Rivalry brings a fearless queer romance to Indian screens with a unique ice hockey setting. The series delves into themes of desire, denial and vulnerability in a hypermasculine world."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/eric-danes-wife-rebeccas-last-post-on-his-struggle-familys-strength-resurfaces-2871346-2026-02-20",
+      "headline": "Eric Dane's wife Rebecca's last post on his struggle, family's strength resurfaces Eric Dane, known for roles in Euphoria and Grey's Anatomy, died at the age of 53 following a battle with ALS. His wife earlier wrote an essay, describing his struggle and her decision to stand by him as family."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/toxic-teaser-yash-builds-an-empire-of-fear-in-gritty-crime-saga-set-in-goa-2871340-2026-02-20",
+      "headline": "Toxic teaser: Yash builds an empire of fear in gritty crime saga set in Goa The teaser of Toxic: A Fairytale for Grown-Ups marks Yash's return to the big screen after KGF: Chapter 2, introducing a dark crime saga set in mid-20th century Goa."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/kennedy-review-anurag-kashyap-crime-drama-psychological-thriller-2871329-2026-02-20",
+      "headline": "Kennedy review: Anurag Kashyap's crime drama grips but lacks full impactRelease Date:Fri Feb 20, 2026 Anurag Kashyap's Kennedy explores power and moral erosion in a post-pandemic setting. The film's chilling performances highlight a dark, unsettling world yet lack full narrative cohesion. Here's our review."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/director-mm-baig-who-helped-hrithik-roshan-with-diction-found-dead-at-mumbai-home-2871323-2026-02-20",
+      "headline": "Director MM Baig, who helped Hrithik Roshan with diction, found dead at Mumbai home Hindi film director MM Baig, father of former child actor Baby Guddu, was found dead at his residence earlier this week. He helped Hrithik Roshan with his diction and voice modulation before the actor's debut."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/reviews/story/shatak-review-ambitious-rss-legacy-tale-shines-in-intent-stumbles-in-execution-2871262-2026-02-20",
+      "headline": "Shatak review: Ambitious RSS legacy drama shines in intent, stumbles in executionRelease Date:Thu Feb 19, 2026 Director Aashish Mall's Shatak unravels the hidden struggles of unsung national leaders who helped in the formation of Rashtriya Swayamsevak Sangh (RSS). Does the film do justice to the legacy of one of India's oldest ideological movements? Here is our review."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/from-jassi-to-dhanwant-kaur-mona-singh-2o-we-didnt-see-coming-2870999-2026-02-20",
+      "headline": "From Jassi to Dhanwant Kaur: Mona Singh 2.O we didn't see coming Once the girl next door who redefined beauty as Jassi in Jassi Jaissi Koi Nahin, Mona Singh is now owning screens with powerful and unconventional roles. Version 2.0 of the actor refuses to be boxed by age, image or expectation."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/priyanka-chopra-recalls-when-mother-madhu-confronted-cab-driver-2871303-2026-02-20",
+      "headline": "Priyanka Chopra recalls when mother Madhu confronted cab driver: She held his neck Priyanka Chopra recalled a childhood incident where her mother Madhu Chopra fiercely confronted a cab driver after sensing danger."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/eric-dane-grey-anatomy-actor-dies-als-battle-2871305-2026-02-20",
+      "headline": "Eric Dane, Grey's Anatomy's McSteamy, dies at 53, one year after ALS diagnosis Eric Dane, famed for his role in Grey's Anatomy, died at 53 after a year-long ALS battle. His family sought privacy as they mourn the loss of the beloved actor."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/the-kerala-story-2-row-explained-the-scene-the-politics-the-pushback-2871066-2026-02-20",
@@ -146,98 +196,28 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/the-lincoln-lawyer-season-4-tops-netflix-english-tv-chart-9-6-million-views-2871125-2026-02-19",
       "headline": "The Lincoln Lawyer tops Netflix chart, beats Bridgerton this week with 9.6M views The Lincoln Lawyer overtook Bridgerton on Netflix's weekly chart, but what drove the sudden shift in viewers?\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/why-episode-5-of-a-knight-of-the-seven-kingdoms-beats-got-at-its-own-game-2871101-2026-02-19",
-      "headline": "Why Episode 5 of A Knight of the Seven Kingdoms beats GoT at its own game Episode 5 of A Knight of the Seven Kingdoms, titled In the Name of the Mother, delivers its most powerful chapter yet with the tense Trial of Seven and a defining turn for Ser Duncan the Tall."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/the-kerala-story-2-teaser-shows-state-negatively-petition-in-high-court-alleges-2871103-2026-02-19",
-      "headline": "The Kerala Story 2 trailer shows state negatively, petition in High Court alleges A petition challenging the release of The Kerala Story 2 \u2013 Goes Beyond has led the Kerala High Court to issue notices to the I&B Ministry, CBFC, and the film's producer. The court will hear the case on February 24, amid concerns over the film's portrayal of Kerala and potential impact on regional harmony."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/kennedy-film-cbfc-cleared-edits-dialogue-visuals-indian-release-2871073-2026-02-19",
-      "headline": "Anurag Kashyap's Kennedy: Censors tweak Trump, Dawood references; mute cuss words The Central Board of Film Certification (CBFC) has approved Anurag Kashyap's Kennedy for release, but only after the filmmakers implemented several edits, including muting explicit language and replacing references to public figures with generic terms."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/the-pitt-adaptation-by-tvf-to-spotlight-challenges-in-indian-public-hospitals-2871104-2026-02-19",
-      "headline": "Emmy-winning series The Pitt is coming to India, TVF has the rights TVF secured rights to adapt Emmy-winning medical drama The Pitt, but how will the Indian version reshape the story?\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/television/story/khanzaadi-criticises-the-50-reality-show-for-biased-editing-and-unfair-eviction-2871089-2026-02-19",
-      "headline": "Khanzaadi calls The 50 unfair, says show portrayed her negatively Singer Khanzaadi has slammed The 50 makers for an \"unfair\" portrayal after her eviction but what exactly was left out?\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/siddhant-chaturvedi-recalls-being-rejected-after-filmy-school-proposal-2871054-2026-02-19",
-      "headline": "Siddhant Chaturvedi, Mrunal Thakur recall how filmi romance skewed their love lives In an exclusive chat with India Today, Mrunal Thakur and Siddhant Chaturvedi opened up about growing up on filmy romances and how those cinematic ideals shaped, and sometimes skewed, their own love lives."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/rajeev-khandelwal-recalls-sanjay-leela-bhansali-shelved-chenab-gandhi-signed-it-for-script-2870945-2026-02-19",
-      "headline": "Rajeev Khandelwal recalls Bhansali's shelved Chenab Gandhi: Signed it for script Actor Rajeev Khandelwal said he signed filmmaker Sanjay Leela Bhansali's film Chenab Gandhi solely for its powerful script. The actor revealed it was the only commercial film he agreed to, but it never took off."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/dhruv-vikrams-cozy-selfie-with-anupama-parameswaran-has-fans-talking-2871019-2026-02-19",
-      "headline": "Dhruv Vikram's cozy selfie with Anupama Parameswaran has fans talking Dhruv Vikram and Anupama Parameswaran have once again sparked dating rumours after she reshared his selfie with a heart emoji, setting off fan speculation. The two were recently seen in the movie Bison Kaalamaadan. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/music/story/taylor-swift-tops-ifpi-global-artist-chart-2025-record-breaking-album-sales-2870976-2026-02-19",
-      "headline": "Taylor Swift crowned world's best-selling artist again, after Spotify triumph Taylor Swift secures IFPI's Biggest-Selling Global Artist title for 2025, extending her remarkable winning streak, but what powered her latest triumph?\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/rajpal-yadav-dances-to-salman-khan-song-at-niece-pre-wedding-function-watch-2870983-2026-02-19",
-      "headline": "Rajpal Yadav dances to Salman Khan's song at niece's pre-wedding function. Watch Actor Rajpal Yadav was seen dancing at his niece's pre-wedding celebrations after his release from Tihar Jail. In a statement earlier, the actor said he needs \"time more than sympathy\" to prove the truth about his case."
     }
   ],
   "general news": [
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/uk-blocks-donald-trump-from-using-raf-base-near-swindon-for-potential-iran-strikes-report-2871267-2026-02-20",
-      "headline": "UK blocks Trump from using RAF base near Swindon for potential Iran strikesUK government declined to authorise American long-range bombing operations from RAF Fairford in Gloucestershire, citing that participation in pre-emptive attacks on Iran could breach international law. Washington has stepped up its military presence in the Middle East and is drawing up contingency plans for possible strikes against Iran."
+      "url": "https://www.indiatoday.in/world/story/i-threatened-india-pak-with-200-tariffs-to-secure-truce-shehbaz-sharif-said-i-saved-25-million-lives-trump-2871182-2026-02-19",
+      "headline": "11 very expensive jets shot down: Trump's new twist on old India-Pak conflict claimSpeaking at the initial meeting of the Board of Peace in Washington, Trump repeated that tariff threats and direct calls to Prime Minister Narendra Modi and Shehbaz Sharif halted hostilities between India and Pakistan in May last year. "
     },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/cities/story/gurugram-tripura-woman-critical-savage-assault-by-live-in-partner-over-doubts-2871287-2026-02-20",
-      "headline": "Savage assault by live-in partner leaves woman critical after fight over marriageAccording to police, the woman, a biotechnology student\u00a0at GD Goenka University, had been living with the accused after they met in September 2025. They were reportedly discussing marriage, with talks initiated between the families."
+      "headline": "Savage assault by live-in partner leaves woman critical after fight over marriageAccording to police, the woman, a biotechnology student\u00a0at a university in Gurugram, had been living with the accused after they met in September 2025. They were reportedly discussing marriage, with talks initiated between the families."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/epstein-was-a-psychopath-used-different-forms-of-abuse-survivor-recalls-horror-2871246-2026-02-19",
-      "headline": "Epstein was a psychopath, used different forms of abuse: Survivor recalls horrorCalling him a \"psychopath\", she alleges he relied not just on physical coercion but on psychological domination - a pattern of control she believes enabled him to operate unchecked for years."
+      "url": "https://www.indiatoday.in/world/us-news/story/trump-to-direct-agencies-to-release-files-on-ufos-alien-extraterrestrial-life-after-tremendous-interest-2871334-2026-02-20",
+      "headline": "Trump says will declassify UFO files after Obama's viral 'aliens are real' remarkUS President Donald Trump said he would direct Pentagon chief Pete Hegseth and other agencies to make the information public, calling the matter \"extremely interesting and important.\" This comes after former US President Barack Obama's 'aliens are real' claims."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/faridabad-man-sells-rs-15-lakh-gold-jewellery-as-junk-by-mistake-scrap-dealer-returns-it-after-4-months-2871118-2026-02-19",
-      "headline": "Faridabad man sells gold as junk by mistake, scrap dealer returns it after 4 monthsThe packet containing 100 grams of gold jewellery belonged to Ashok Sharma, who had by mistake sold it during a Diwali clean-up."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/google-ai-data-centre-water-consumption-environmental-impact-fresh-water-cooling-2871047-2026-02-20",
-      "headline": "AI is very thirsty, and it only wants fresh water. Here's whyData centres are consuming billions of gallons of fresh water to keep AI servers cool. This rising demand poses a significant threat to local water supplies in drought-prone regions.\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/donald-trump-accuses-barack-obama-alien-life-area-51-disclosing-classified-information-2871285-2026-02-20",
-      "headline": "He made a big mistake: Trump says Obama revealed classified info on aliensFormer US President Barack Obama said in a recent interview that aliens are real. Donald Trump claimed he took it out from classified information."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/king-charles-brother-andrew-mountbatten-windsor-released-after-arrest-over-misconduct-relating-to-epstein-2871268-2026-02-20",
-      "headline": "Former Prince Andrew released from police custody after arrest in Epstein caseFormer Prince and King Charles' younger brother, Andrew Mountbatten-Windsor, was arrested in the United Kingdom on Thursday, on suspicion of misconduct in public office.\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/passport-revoked-uk-ban-in-place-mallya-tells-bombay-high-court-he-has-no-return-timeline-2870686-2026-02-19",
-      "headline": "Passport revoked, travel from UK barred: Mallya tells court he can't return to IndiaMallya, who left India in March 2016, is accused of defaulting on multiple loan repayments amounting to several thousand crores. He was declared a Fugitive Economic Offender in January 2019 by a special court hearing cases under the Prevention of Money Laundering Act (PMLA). Following the declaration, extradition proceedings against him were initiated.\r\n"
+      "url": "https://www.indiatoday.in/technology/features/story/from-rishi-sunak-to-sriram-everyone-wants-india-to-use-american-ai-india-should-keep-an-open-mind-2871300-2026-02-20",
+      "headline": "From Sunak to Sriram, everyone wants India to use American AI. But should India?At the India AI Impact Summit, Western companies are pitching themselves as AI producers and they want Indians to be AI consumers. This reflects in statements from White House policy advisor Sriram to Rishi Sunak to Anthropic CEO Dario Amodei. India should keep an open mind on it, and Sarvam in its sight."
     },
     {
       "sentiment": "positive",
@@ -246,81 +226,126 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/ex-prince-andrew-arrested-jeffrey-epstein-ties-grand-uncle-lord-louis-mountbatten-child-sex-abuse-uk-royal-family-2871187-2026-02-19",
-      "headline": "Was Lord Mountbatten involved in child sex abuse?Andrew Windsor Mountbatten, who was stripped of his prince title over his links with convicted paedophile Jeffrey Epstein, was arrested in the UK on Thursday. Andrew is the grand-nephew of Lord Mountbatten, the last British viceroy in India. Lord Mountbatten was accused of being involved in a child sex ring, involving an orphanage in Belfast. Here's what we know about the Kincora Boys' Home scandal."
+      "url": "https://www.indiatoday.in/science/story/google-ai-data-centre-water-consumption-environmental-impact-fresh-water-cooling-2871047-2026-02-20",
+      "headline": "AI is very thirsty, and it only wants fresh water. Here's whyData centres are consuming billions of gallons of fresh water to keep AI servers cool. This rising demand poses a significant threat to local water supplies in drought-prone regions.\r\n"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/bangladesh-news-india-to-restore-all-visa-services-to-diplomat-dhaka-new-delhi-relations-2870972-2026-02-19",
-      "headline": "Yunus out, India to restore all visa services in Bangladesh soonIndia would soon be resuming all visa services in Bangladesh, a senior Indian diplomat was quoted by Bangladeshi media as saying. Amid threats to its missions, India had stopped visa services, beginning December 17 last year. This is a big signal on the improving ties between New Delhi and Dhaka, with PM Tarique Rahman's government taking over from Muhammad Yunus."
+      "url": "https://www.indiatoday.in/movies/celebrities/story/ranveer-singh-gets-rs-10-crore-extortion-note-bishnoi-gang-us-number-under-lens-2871358-2026-02-20",
+      "headline": "Ranveer Singh gets Rs 10-crore extortion note, Bishnoi gang, US number under lensThe Bishnoi gang allegedly demanded Rs 10 crore from Ranveer Singh through a threatening voice note sent from an American number. Mumbai Crime Branch has launched a preliminary enquiry into the case."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/must-make-meaningful-deal-with-tehran-trump-at-board-of-peace-meet-amid-us-military-build-up-near-iran-2871184-2026-02-19",
-      "headline": "Make a deal now or bad things will happen: Trump's Iran ultimatum amid build-upThis came as Washington has been deploying fighter jets, naval and air defence assets near Iran in an apparent attempt to exert military pressure to persuade Tehran to strike a deal with Washington."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/the-kerala-story-2-row-explained-the-scene-the-politics-the-pushback-2871066-2026-02-20",
-      "headline": "The Kerala Story 2 row explained: The scene, the politics, the pushbackThe Kerala Story 2 has sparked fresh controversy after its trailer drew sharp criticism from Kerala Chief Minister Pinarayi Vijayan, who called it \"false propaganda.\" As the film heads toward its February 27 release, the row has reignited discussions on cinema, communal representation and the line between provocation and propaganda."
+      "url": "https://www.indiatoday.in/movies/hollywood/story/eric-dane-grey-anatomy-actor-dies-als-battle-2871305-2026-02-20",
+      "headline": "Eric Dane, Grey's Anatomy's McSteamy, dies at 53, one year after ALS diagnosisEric Dane, famed for his role in Grey's Anatomy, died at 53 after a year-long ALS battle. His family sought privacy as they mourn the loss of the beloved actor."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/sam-altman-on-awkward-moment-anthropic-dario-amodei-delhi-ai-summit-unity-hand-raise-2871156-2026-02-19",
-      "headline": "I was confused: Sam Altman on awkward moment during AI summit unity hand-raiseWhile other tech titans held each other's hands as they held them high at the India AI Summit in New Delhi, Open AI chief Sam Altman and Anthropic's CEO Amodei Dario Amodei ended up with fists in the air."
+      "url": "https://www.indiatoday.in/entertainment/ott/story/kennedy-review-anurag-kashyap-crime-drama-psychological-thriller-2871329-2026-02-20",
+      "headline": "Kennedy review: Anurag Kashyap's crime drama grips but lacks full impactRelease Date:Fri Feb 20, 2026Anurag Kashyap's Kennedy explores power and moral erosion in a post-pandemic setting. The film's chilling performances highlight a dark, unsettling world yet lack full narrative cohesion. Here's our review."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/rafale-makes-your-country-stronger-dont-know-why-people-criticise-macron-to-india-today-ahead-of-mega-deal-2871049-2026-02-19",
-      "headline": "Rafale makes your country stronger, don't know why people criticise: MacronThe Defence Acquisition Council approved the purchase of 114 Rafale fighter jets worth Rs 3.25 lakh crore last week, boosting the Indian Air Force's capabilities ahead of Emmanuel Macron's visit to India."
+      "url": "https://www.indiatoday.in/interactive/visuals/time-tide-tamil-annas-cm-crown-landmarks-legacy-and-lingering-loss-part-26-351-19-02-2026",
+      "headline": "Time, Tide & Tamil Part 26 | Anna's CM Crown: Landmarks, Legacy & Lingering LossTamil Nadu is the graveyard of national political parties. It buried the Congress at its peak then in 1967. The BJP, also at its peak now, has been pregnant with possibilities but has failed to deliver. Never a serious player in the state before the dawn of the Modi-era, the BJP has been humbled in every election since his arrival in 2014 (2019, 2021 and 2024)."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/rashmika-mandanna-vijay-deverakonda-private-wedding-international-security-udaipur-2871217-2026-02-19",
-      "headline": "Rashmika-Vijay rope in global security agency for wedding: SourcesRashmika Mandanna and Vijay Deverakonda are set to have a private wedding on February 26, and they have reportedly hired an international security agency for the ceremony.\r\n"
+      "url": "https://www.indiatoday.in/sports/cricket/story/t20-world-cup-india-off-spin-struggles-super-8s-ind-vs-sa-shivam-dube-2871296-2026-02-20",
+      "headline": "T20 World Cup: India must solve familiar off-spin question as Super 8 test loomsT20 World Cup: Defending champions India have entered the Super 8s unbeaten in the ongoing ICC tournament. On paper, they remain overwhelming title contenders. On the field, however, a quieter subplot has begun to gather weight\u2014India's vulnerability against off-spin."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/house-of-the-dragon-season-3-teaser-rhaenyra-strengthens-her-claim-with-new-dragons-2871281-2026-02-20",
-      "headline": "House of the Dragon S3 teaser: Rhaenyra strengthens her claim with new dragonsThe teaser for House of the Dragon season 3 hints at a darker and deadlier chapter in the Targaryen civil war, with dragons multiplying and tensions reaching breaking point. The show will premiere on JioHotstar in June."
+      "url": "https://www.indiatoday.in/india/story/epstein-was-a-psychopath-used-different-forms-of-abuse-survivor-recalls-horror-2871246-2026-02-19",
+      "headline": "Epstein was a psychopath, used different forms of abuse: Survivor recalls horrorCalling him a \"psychopath\", she alleges he relied not just on physical coercion but on psychological domination - a pattern of control she believes enabled him to operate unchecked for years."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/at-board-of-peace-donald-trump-says-he-likes-women-not-young-handsome-men-2871276-2026-02-20",
-      "headline": "At Board of Peace, Trump says he likes women, not young, handsome menDonald Trump launched his Board of Peace with Gaza funding pledges and joked about liking women, not \"young, handsome men,\" during remarks welcoming Paraguayan President Santiago Pe\u00f1a in Washington."
+      "url": "https://www.indiatoday.in/world/story/baloch-liberation-army-releases-video-captive-pakistani-soldiers-exchange-deadline-2871342-2026-02-20",
+      "headline": "After Pak denies abduction claim, Baloch rebels release new video of captive soldier'I fought for Pakistan, and today the Pakistani Army does not acknowledge me,' one of the alleged soldiers in Baloch rebel custody can be heard saying in the video."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/the-kerala-story-2-teaser-shashi-tharoor-slams-film-makers-hate-mongering-kamakhya-narayan-singh-2871214-2026-02-19",
-      "headline": "Will spread hatred in people's minds: Shashi Tharoor criticises Kerala Story 2The second installment of The Kerala Story 2 faced political criticism from Shashi Tharoor and Chief Minister Pinarayi Vijayan, with continued controversy ahead of its February 27 release."
+      "url": "https://www.indiatoday.in/education-today/news/story/cbse-class-12-board-exam-live-physics-paper-today-key-updates-here-2871318-2026-02-20",
+      "headline": "Live: Do not forget these exam essentialsCBSE Class 12 Physics Board exam Live Updates: The physics paper has brought thousands of students to examination centres across the country today, marking one of the most important papers for the science stream. Scheduled to begin at 10:30 am, the exam comes amid last-minute revisions, quiet discussions, and visible nervousness outside centres. Here are the latest updates. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/india-weather-friday-february-20-temperature-rise-delhi-haryana-rajasthan-rain-karnataka-2871116-2026-02-19",
-      "headline": "Temperatures to rise in North India from Friday, South braces for rainNorthern India will see rising temperatures and clear skies tomorrow while parts of the south prepare for heavy rainfall. Experts suggest a warm weekend ahead for the plains."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/food/story/india-ai-impact-summit-2026-dinner-narendra-modi-bharat-mandapam-2870938-2026-02-19",
-      "headline": "What was on menu at PM's AI Summit dinner with world leadersAs the India AI Impact Summit 2026 continues at Bharat Mandapam in New Delhi, the conversations extend beyond tech and policy to a gala dinner hosted by Prime Minister Narendra Modi \u2014 an evening where India served world leaders a seasonal, soulful taste of its culinary heritage.\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/the-day-an-ai-summit-felt-strangely-beautifully-human-ai-impact-summit-sam-altman-dario-amodei-sundar-pichai-2871105-2026-02-19",
-      "headline": "The day an AI summit felt strangely, beautifully humanAt the summit of AI giants, the technology was impressive, but the experience was even more memorable. Messy queues outside, serene discussions inside, and an irony that made the whole day feel wonderfully, unmistakably human. Here's how I spent my day at the India AI Impact Summit..."
+      "url": "https://www.indiatoday.in/movies/celebrities/story/director-mm-baig-who-helped-hrithik-roshan-with-diction-found-dead-at-mumbai-home-2871323-2026-02-20",
+      "headline": "Director MM Baig, who helped Hrithik Roshan with diction, found dead at Mumbai homeHindi film director MM Baig, father of former child actor Baby Guddu, was found dead at his residence earlier this week. He helped Hrithik Roshan with his diction and voice modulation before the actor's debut."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/us-news/story/indian-truck-driver-detained-fatal-three-vehicle-crash-indianapolis-glbs-2871244-2026-02-19",
-      "headline": "Indian truck driver arrested after 3-vehicle collision kills man in IndianaThe collision occurred shortly before noon at US 36 and County Road 525 East in Hendricks County, between Avon and Danville. According to the report, a Freightliner tractor-trailer travelling eastbound failed to stop at a red signal and struck a northbound Chevrolet pickup."
+      "url": "https://www.indiatoday.in/technology/news/story/gemini-31-pro-is-here-benchmarks-says-google-is-once-again-leader-in-ai-2871338-2026-02-20",
+      "headline": "Gemini 3.1 Pro is here, benchmarks says Google is once again leader in AIGoogle has announced a major update to its AI models, with Gemini 3.1 Pro. The company states that Gemini 3.1 Pro outperforms other LLMs, including Anthropic's Claude Opus 4.6 in major benchmarks. Here are all the details."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/heated-rivalry-review-hudson-williams-connor-storrie-queer-romance-raises-heat-2871350-2026-02-20",
+      "headline": "Heated Rivalry review: Hudson-Connor's queer romance raises the heat and the barRelease Date:Fri Feb 20, 2026Heated Rivalry series review: Heated Rivalry brings a fearless queer romance to Indian screens with a unique ice hockey setting. The series delves into themes of desire, denial and vulnerability in a hypermasculine world."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/auto/cars/story/tata-punch-ev-to-launch-today-price-features-range-and-all-you-need-to-know-2871273-2026-02-20",
+      "headline": "Tata Punch EV facelift launch live: Price, features, range and all you need to knowTata Punch EV facelift launch today live updates: The Tata Punch EV receives its first facelift today, bringing design tweaks, feature upgrades and the possibility of a larger battery pack to strengthen its position in the entry-level EV space."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/mumbai/story/navi-mumbai-tutor-hits-class-8-girl-multiplication-tables-2871238-2026-02-19",
-      "headline": "Have a problem? Leave: Navi Mumbai tutor after hitting Class 8 girl 20 timesA private tutor in Navi Mumbai allegedly hit a Class 8 girl 20 times with a wooden tong for failing to memorise multiplication tables.\r\n"
+      "url": "https://www.indiatoday.in/world/story/uk-blocks-donald-trump-from-using-raf-base-near-swindon-for-potential-iran-strikes-report-2871267-2026-02-20",
+      "headline": "UK blocks Trump from using RAF base near Swindon for potential Iran strikesUK government declined to authorise American long-range bombing operations from RAF Fairford in Gloucestershire, citing that participation in pre-emptive attacks on Iran could breach international law. Washington has stepped up its military presence in the Middle East and is drawing up contingency plans for possible strikes against Iran."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/cities/mumbai/story/mumbai-chawl-explosion-man-thrown-off-seat-powerful-cylinder-blast-rips-through-santacruz-house-incident-caught-on-camera-2871298-2026-02-20",
+      "headline": "Watch: Man thrown off seat after powerful cylinder blast rips through Mumbai houseThe explosion was so intense that vibrations were felt in adjoining homes, and an elderly man sitting on the veranda outside was hurled to the ground by the pressure wave. He escaped with minor injuries."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/health/story/indias-first-food-allergy-rules-feed-peanuts-early-know-real-vs-intolerance-2871018-2026-02-20",
+      "headline": "India's first food allergy rules: Feed peanuts early, know real vs intoleranceNew national guidelines describe how India should diagnose, prevent and manage food allergies in children\r\n\r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/former-prince-andrew-accused-of-watching-girl-tortured-with-electric-shocks-by-maxwell-report-2871286-2026-02-20",
+      "headline": "Epstein files allege Andrew watched girl tortured with electric shocksUK media citing FBI documents allege Andrew Mountbatten-Windsor was present during the torture of a young girl in the 1990s. He has consistently denied all wrongdoing."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/trending-news/story/faridabad-man-sells-rs-15-lakh-gold-jewellery-as-junk-by-mistake-scrap-dealer-returns-it-after-4-months-2871118-2026-02-19",
+      "headline": "Faridabad man sells gold as junk by mistake, scrap dealer returns it after 4 monthsThe packet containing 100 grams of gold jewellery belonged to Ashok Sharma, who had by mistake sold it during a Diwali clean-up."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/toxic-teaser-yash-builds-an-empire-of-fear-in-gritty-crime-saga-set-in-goa-2871340-2026-02-20",
+      "headline": "Toxic teaser: Yash builds an empire of fear in gritty crime saga set in GoaThe teaser of Toxic: A Fairytale for Grown-Ups marks Yash's return to the big screen after KGF: Chapter 2, introducing a dark crime saga set in mid-20th century Goa."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/jonathan-trott-afghanistan-coach-farewell-t20-world-cup-2026-rashid-khan-2871351-2026-02-20",
+      "headline": "Jonathan Trott: The messiah who nurtured Afghanistan like his own T20 World Cup 2026, AFG vs CAN: Jonathan Trott has taken Afghanistan cricket to greater heights and ended his tenure as head coach following the group match against Canada on Thursday at the MA Chidambaram Stadium. \r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/t20-world-cup-zimbabwe-super-8-ryan-burl-torn-shoes-103-meter-six-journey-sponsor-2871349-2026-02-20",
+      "headline": "From torn shoes to towering six: Ryan Burl's chapter in Zimbabwe's T20 World Cup tale T20 World Cup: From a viral 2021 torn-shoes post to a 103-metre six in Colombo, Ryan Burl's journey mirrors Zimbabwe's T20 World Cup revival. His all-round impact has helped power them into the Super 8s."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/abhishek-sharma-slogger-remark-mohammad-amir-warning-t20-world-cup-2871335-2026-02-20",
+      "headline": "After Abhishek Sharma slogger remark, Amir warns India opener amid poor form T20 World Cup: After calling Abhishek Sharma a slogger, Mohammad Amir has sent a warning to the Indian opener amidst his poor run of form in the T20 World Cup. Abhishek is yet to get off the mark in the competition, scoring three consecutive ducks. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/mesut-ozil-bangladesh-convoy-road-accident-no-injuries-rohingya-university-2871326-2026-02-20",
+      "headline": "Mesut Ozil's convoy involved in road accident during Bangladesh tour A vehicle in Mesut Ozil's convoy was involved in a road accident in Cox's Bazar during his Bangladesh visit. The former Germany star was unharmed as authorities launched an investigation into the incident."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/t20-world-cup-india-off-spin-struggles-super-8s-ind-vs-sa-shivam-dube-2871296-2026-02-20",
+      "headline": "T20 World Cup: India must solve familiar off-spin question as Super 8 test looms T20 World Cup: Defending champions India have entered the Super 8s unbeaten in the ongoing ICC tournament. On paper, they remain overwhelming title contenders. On the field, however, a quieter subplot has begun to gather weight\u2014India's vulnerability against off-spin."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/t20-world-cup-india-vs-south-africa-super-8s-jasprit-bumrah-varun-chakravarthy-difference-makers-shaun-pollock-2871294-2026-02-20",
@@ -354,27 +379,27 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/andrew-mcdonald-press-conference-australia-t20-world-cup-oman-2871201-2026-02-19",
-      "headline": "Devastated Australia strive for motivation in face-saving Oman clash T20 World Cup 2026, AUS vs OMA: Andrew McDonald admitted Australia are devastated after their group-stage exit from the T20 World Cup 2026 but urged the team to reset and focus on finishing strongly against Oman."
+      "headline": "Devastated Australia strive for motivation in face-saving Oman clashT20 World Cup 2026, AUS vs OMA: Andrew McDonald admitted Australia are devastated after their group-stage exit from the T20 World Cup 2026 but urged the team to reset and focus on finishing strongly against Oman."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ranji-trophy-final-at-hubballi-due-to-safety-works-at-chinnaswamy-stadium-karnataka-2871194-2026-02-19",
-      "headline": "Ranji final at Hubballi due to safety works at Chinnaswamy: Karnataka Association The Karnataka State Cricket Association on Thursday confirmed that the Ranji Trophy final between Karnataka and Jammu and Kashmir will be held in Hubballi, as officials aim to fast-track ongoing safety upgrade work at the M Chinnaswamy Stadium."
+      "headline": "Ranji final at Hubballi due to safety works at Chinnaswamy: Karnataka AssociationThe Karnataka State Cricket Association on Thursday confirmed that the Ranji Trophy final between Karnataka and Jammu and Kashmir will be held in Hubballi, as officials aim to fast-track ongoing safety upgrade work at the M Chinnaswamy Stadium."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/real-madrid-submits-evidence-uefa-vinicius-junior-racism-champions-league-2871185-2026-02-19",
-      "headline": "Real Madrid send 'all available evidence' to UEFA for Vinicius racism row Real Madrid have submitted \"all available evidence\" to UEFA as European football's governing body investigates allegations of racist abuse made by forward Vin\u00edcius J\u00fanior during Tuesday's Champions League clash in Lisbon."
+      "headline": "Real Madrid send 'all available evidence' to UEFA for Vinicius racism rowReal Madrid have submitted \"all available evidence\" to UEFA as European football's governing body investigates allegations of racist abuse made by forward Vin\u00edcius J\u00fanior during Tuesday's Champions League clash in Lisbon."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/west-indies-captain-shai-hope-explains-clinical-run-t20-world-cup-2871150-2026-02-19",
-      "headline": "T20 World Cup: Shai Hope explains the secret behind West Indies' clinical run West Indies captain Shai Hope has credited clarity of roles, calm execution, and strong collective belief for his team's dominant run into the Super Eights of the T20 World Cup."
+      "headline": "T20 World Cup: Shai Hope explains the secret behind West Indies' clinical runWest Indies captain Shai Hope has credited clarity of roles, calm execution, and strong collective belief for his team's dominant run into the Super Eights of the T20 World Cup."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/zimbabwe-t20-world-cup-super-8s-sikandar-raza-sri-lanka-2871143-2026-02-19",
-      "headline": "Confident Sikandar Raza plots Super 8 twist in Zimbabwe's underdog story T20 World Cup, SL vs ZIM: Sikandar Raza said that Zimbabwe would look to carry their good form into the Super 8 after beating Sri Lanka by six wickets on Thursday in Colombo."
+      "headline": "Confident Sikandar Raza plots Super 8 twist in Zimbabwe's underdog storyT20 World Cup, SL vs ZIM: Sikandar Raza said that Zimbabwe would look to carry their good form into the Super 8 after beating Sri Lanka by six wickets on Thursday in Colombo."
     },
     {
       "sentiment": "positive",
@@ -440,26 +465,6 @@
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/other-sports/story/delhi-rugby-stadium-maidan-garhi-turned-park-dda-controversy-2870849-2026-02-19",
       "headline": "Delhi's unfulfilled rugby promise: Stadium turns into park as players struggleThe promise of India's first dedicated rugby stadium in Delhi fails as the land in Maidan Garhi becomes a public space, leaving players struggling without basic facilities. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/varun-chakravarthy-jasprit-bumrah-t20-world-cup-2026-india-vs-netherlands-2870816-2026-02-19",
-      "headline": "Is Varun Chakravarthy more lethal for India than Bumrah? Srikkanth reactsT20 World Cup: Kris Srikkanth called Varun Chakravarthy a modern-day T20I great and claimed that the spinner is more lethal for India than Jasprit Bumrah at the moment. Varun continues to spin his web around the batters in T20 World Cup 2026. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/t20-world-cup-navneet-dhaliwal-canada-retirement-punjab-born-exclusive-associate-teams-2870802-2026-02-19",
-      "headline": "Navneet Dhaliwal: The Punjab boy who carried Canada's flag to two World CupsT20 World Cup: Retiring as Canada's highest run-scorer in T20Is, Navneet Dhaliwal, in an exclusive interview, reflects on his journey from Punjab's Under-19 grounds to leading Canada to two World Cups, while also speaking about his consistent push for greater exposure for Associate teams."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/bangladesh-india-cricket-bnp-government-youth-sports-minister-aminul-haque-bcb-bcci-cricket-ties-repair-2870758-2026-02-19",
-      "headline": "Bangladesh seeks fast reset in India cricket ties after World Cup drama, Yunus exitBangladesh's new Youth and Sports Minister, Aminul Haque, hinted that Dhaka was moving to repair strained cricket ties with India after a fallout over the ICC Men's T20 World Cup 2026. Haque said he held talks with India's Deputy High Commissioner and emphasised a desire to resolve differences through \"friendly talks\"."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/t20-world-cup-india-bowling-concerns-super-8s-virender-sehwag-mohit-sharma-vs-netherlands-2870782-2026-02-19",
-      "headline": "India's bowling troubles in T20 World Cup: Former stars flag Super 8s questions T20 World Cup: Former India cricketers Virender Sehwag and Mohit Sharma have flagged India's bowling lapses despite their unbeaten group-stage run in the T20 World Cup. With Super 8s looming, India's death-overs control remains under scrutiny."
     }
   ],
   "education": [
