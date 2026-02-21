@@ -103,6 +103,11 @@
   ],
   "entertainment": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/hrithik-roshan-mourns-mentor-mm-baig-reflects-career-impact-2872166-2026-02-21",
+      "headline": "Hrithik Roshan's tribute to mentor MM Baig: You helped me find my way Hrithik Roshan has shared a heartfelt message following the death of his former teacher, MM Baig. He highlighted the impact Baig had on his early years as an actor."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/allu-sirish-pre-wedding-celebrations-hyderabad-tollywood-stars-march-6-wedding-2872131-2026-02-21",
       "headline": "Allu Arjun hosts cocktail bash ahead of Allu Sirish-Nayanika wedding. Guest list Allu Arjun's brother, Allu Sirish, is set to marry Nayanika Reddy on March 6. The wedding celebrations have officially begun with family members coming together for a special cocktail party."
@@ -191,11 +196,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/chiraiya-teaser-divya-dutta-leads-hard-hitting-social-drama-on-marital-consent-2871743-2026-02-20",
       "headline": "Chiraiya teaser: Divya Dutta leads hard-hitting social drama on marital consent The teaser of Chiraiya, starring Divya Dutta, raises pressing questions about marital consent. Directed by Shashant Shah, the release date of the upcoming series is yet to be revealed."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/bollywood-actor-shanaya-kapoor-career-setbacks-growth-acting-journey-2871726-2026-02-20",
-      "headline": "Actor Shanaya Kapoor says shelved Bedhadak shaped her journey Shanaya Kapoor looks back at the shelving of Bedhadak and reveals how the setback shaped her journey in Bollywood.\r\n"
     }
   ],
   "general news": [
@@ -215,14 +215,19 @@
       "headline": "Social good, human capital: Over 75 nations sign Delhi Declaration on AI impactIn a statement on Saturday, the External Affairs Ministry said that over 85 nations and international organisations, including the European Union, the US, and the UK, have adopted the Delhi Declaration on AI impact."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/congress-shirtless-protest-at-ai-summit-inspired-by-nepals-gen-z-movement-delhi-police-tell-court-2871999-2026-02-21",
-      "headline": "Congress's shirtless protest at AI Summit inspired by Nepal's Gen Z: PoliceDelhi Police told a court that the shirtless Youth Congress protest against PM Modi at the AI Summit was part of a larger conspiracy allegedly inspired by Nepal's violent Gen Z movement. "
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/pakistan-vs-new-zealand-live-score-super-8-t20-world-cup-rain-updates-colombo-2872162-2026-02-21",
+      "headline": "PAK vs NZ Super 8 Live Score: Rain arrives after Pakistan opt to batPakistan (PAK) vs New Zealand (NZ), T20 World Cup 2026 Super 8s live score: Pakistan have won the toss and opted to bat. The drizzle has resumed at R Premadasa Stadium in Colombo. There's no Abrar Ahmed. Pakistan have brought back Fakhar Zaman while retaining Babar Azam. Meanwhile, New Zealand have Lockie Ferguson and Ish Sodhi back. "
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/technology/talking-points/story/ai-will-not-kill-indian-saas-but-will-make-it-bleed-with-1000-cuts-2871950-2026-02-21",
       "headline": "AI will not kill Indian SaaS, but will make it bleed with 1000 cutsThe rumours that Indian SaaS is dead are greatly exaggerated. But it also doesn't mean that pain is not ahead."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/congress-shirtless-protest-at-ai-summit-inspired-by-nepals-gen-z-movement-delhi-police-tell-court-2871999-2026-02-21",
+      "headline": "Congress's shirtless protest at AI Summit inspired by Nepal's Gen Z: PoliceDelhi Police told a court that the shirtless Youth Congress protest against PM Modi at the AI Summit was part of a larger conspiracy allegedly inspired by Nepal's violent Gen Z movement. "
     },
     {
       "sentiment": "positive",
@@ -235,11 +240,6 @@
       "headline": "Karnataka BJP MLA caught red-handed taking Rs 5 lakh bribe, arrestedThe complainant, Vijay Pujar, a Class-1 contractor from Gadag, approached the anti-corruption authorities after he was allegedly asked to pay Rs 11 lakh to secure necessary clearances for the project."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/congress-shirtless-protests-delhi-chandigarh-indore-ai-summit-rahul-gandhi-black-flags-2872152-2026-02-21",
-      "headline": "Shirtless Congressi banners ft Gandhi come up amid protests in Delhi, ChandigarhThe row over a shirtless march by the Congress during the AI Summit in Delhi escalated on Saturday as Youth Congress members held protests in several cites and clashed with the BJP in Indore. The BJP also held counterprotests, waving black flags at Rahul Gandhi and burning his effigy in UP."
-    },
-    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-south-africa-t20-world-cup-super-8s-practice-session-ahmedabad-ring-of-fire-2871909-2026-02-21",
       "headline": "IND vs SA: Under the ring of fire, new subplots emerge in India practiceIndia vs South Africa, T20 World Cup: India practised in the night session at the Narendra Modi Stadium on Friday. The session was indicative of changes that the team might make in their line-up and strategies for the South Africa game."
@@ -250,9 +250,9 @@
       "headline": "Time, Tide & Tamil Part 27 | The tricolour twilight - How Congress abandoned the KaveriWe will now take a U-Turn in time before doubling back to the Dravidian highway."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/pakistan-vs-new-zealand-live-score-super-8-t20-world-cup-rain-updates-colombo-2872162-2026-02-21",
-      "headline": "PAK vs NZ Super 8 Live Score: Will Pakistan drop Babar Azam today?Pakistan (PAK) vs New Zealand (NZ), T20 World Cup 2026 Super 8s live score: Pakistan and New Zealand will meet in the first Super 8 match in Colombo today. However, rain is predicted to play a part in what promises to be an exciting contest. Follow all the updates from the Saturday evening special here. "
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/congress-shirtless-protests-delhi-chandigarh-indore-ai-summit-rahul-gandhi-black-flags-2872152-2026-02-21",
+      "headline": "Shirtless Congressi banners ft Gandhi come up amid protests in Delhi, ChandigarhThe row over a shirtless march by the Congress during the AI Summit in Delhi escalated on Saturday as Youth Congress members held protests in several cites and clashed with the BJP in Indore. The BJP also held counterprotests, waving black flags at Rahul Gandhi and burning his effigy in UP."
     },
     {
       "sentiment": "positive",
@@ -276,8 +276,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/trump-tariff-us-supreme-court-ruling-neal-katyal-indian-origin-lawyer-2871992-2026-02-21",
-      "headline": "The Indian-origin lawyer behind Trump's tariff setback in US courtNeal Katyal, a former Acting Solicitor General of the US and author, has emerged as a central figure in the Supreme Court case that struck down Trump's global tariffs. Who is he?"
+      "url": "https://www.indiatoday.in/science/story/february-22-sunday-weather-update-bay-of-bengal-system-south-india-rain-sunday-north-india-heat-forecast-2026-el-nino-imd-skymet-devendra-tripathi-weather-news-2872185-2026-02-21",
+      "headline": "South India to see heavy rain from Sunday, North to witness hot daysA low-pressure system in the Bay of Bengal is set to trigger rain across South India this Sunday. In contrast, North India will stay dry with temperatures expected to soar above 30 degrees Celsius."
     },
     {
       "sentiment": "positive",
@@ -291,13 +291,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/iran-news-ayatollah-ali-khamenei-dangerous-weapon-sink-us-aircraft-carrier-hyprsonic-misisle-fattah-anti-ship-missiles-2871785-2026-02-21",
-      "headline": "Iran can sink US aircraft carriers, says Khamenei. What weapon can it use?Iran's Supreme Leader, Ali Khamenei, stated the country possesses a dangerous weapon capable of sending US aircraft carriers to the bottom of the sea. While he did not mention the exact weapon, Iran does possess a vast arsenal of hypersonic and subsonic missiles that it could use against US warships, should need arise."
+      "url": "https://www.indiatoday.in/world/story/trump-tariff-us-supreme-court-ruling-neal-katyal-indian-origin-lawyer-2871992-2026-02-21",
+      "headline": "The Indian-origin lawyer behind Trump's tariff setback in US courtNeal Katyal, a former Acting Solicitor General of the US and author, has emerged as a central figure in the Supreme Court case that struck down Trump's global tariffs. Who is he?"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/cbse-class-10-english-exam-2026-full-paper-section-wise-details-2872111-2026-02-21",
-      "headline": "CBSE Class 10 English Exam 2026: Full Questions paper, section-wise detailsCBSE Class 10 English Exam 2026 has concluded, and the question paper is now available. Students can check it here for reference."
+      "url": "https://www.indiatoday.in/world/story/iran-news-ayatollah-ali-khamenei-dangerous-weapon-sink-us-aircraft-carrier-hyprsonic-misisle-fattah-anti-ship-missiles-2871785-2026-02-21",
+      "headline": "Iran can sink US aircraft carriers, says Khamenei. What weapon can it use?Iran's Supreme Leader, Ali Khamenei, stated the country possesses a dangerous weapon capable of sending US aircraft carriers to the bottom of the sea. While he did not mention the exact weapon, Iran does possess a vast arsenal of hypersonic and subsonic missiles that it could use against US warships, should need arise."
     },
     {
       "sentiment": "positive",
@@ -339,7 +339,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/pakistan-vs-new-zealand-live-score-super-8-t20-world-cup-rain-updates-colombo-2872162-2026-02-21",
-      "headline": "PAK vs NZ Super 8 Live Score: Will Pakistan drop Babar Azam today? Pakistan (PAK) vs New Zealand (NZ), T20 World Cup 2026 Super 8s live score: Pakistan and New Zealand will meet in the first Super 8 match in Colombo today. However, rain is predicted to play a part in what promises to be an exciting contest. Follow all the updates from the Saturday evening special here. "
+      "headline": "PAK vs NZ Super 8 Live Score: Rain arrives after Pakistan opt to bat Pakistan (PAK) vs New Zealand (NZ), T20 World Cup 2026 Super 8s live score: Pakistan have won the toss and opted to bat. The drizzle has resumed at R Premadasa Stadium in Colombo. There's no Abrar Ahmed. Pakistan have brought back Fakhar Zaman while retaining Babar Azam. Meanwhile, New Zealand have Lockie Ferguson and Ish Sodhi back. "
     },
     {
       "sentiment": "positive",
