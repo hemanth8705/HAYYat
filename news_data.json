@@ -1,6 +1,11 @@
 {
   "business": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/india-us-reschedule-chief-negotiations-meeting-on-interim-trade-deal-2872501-2026-02-22",
+      "headline": "India, US reschedule chief negotiators meeting on interim trade deal: ReportThe Indian team was earlier scheduled to start the three-day meeting on February 23 in the US. Joint Secretary in the Commerce Ministry, Darpan Jain, is the chief negotiator of India for this agreement."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/story/jpmorgan-concedes-it-closed-donald-trump-accounts-after-january-6-attack-2872283-2026-02-22",
       "headline": "JPMorgan concedes it closed Trump's accounts after January 6 attackUntil now, JPMorgan had never admitted that it closed Donald Trump's accounts in writing after January 6. The bank would only speak hypothetically about when the bank closes accounts and its reasons for closing accounts, citing bank privacy laws."
@@ -94,18 +99,18 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/video/uk-and-india-must-shape-ai-together-says-kanishka-narayan-2871082-2026-02-19",
       "headline": "UK and India must shape AI together, says Kanishka NarayanIn an exclusive conversation with India Today,\u00a0UK AI Minister Kanishka Narayan\u00a0highlighted the strengthening technological partnership between India and the United Kingdom."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/real-estate/story/bnw-developments-radisson-hotel-group-launch-radisson-blu-rak-central-ras-al-khaimah-hotel-branded-residences-uae-property-market-2871035-2026-02-19",
-      "headline": "BNW Developments partners with Radisson Hotel Group for hotel and residencesThe development will include the Radisson Blu Hotel, RAK Central, with 361 rooms, and Radisson Blu Residences, RAK Central, with 222 branded homes."
     }
   ],
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/jai-hanuman-film-launched-at-anjanadri-betta-with-rishab-shetty-2872494-2026-02-22",
+      "headline": "Jai Hanuman: Rishab Shetty begins shoot with puja ceremony, Teja Sajja attends The upcoming film Jai Hanuman, starring Rishab Shetty, was launched today with a grand mahurat ceremony. The film is envisioned as a high-scale cinematic tribute to the revered deity Hanuman.\r\n"
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/kerala-story-2-controversy-film-certification-propaganda-claims-india-2872406-2026-02-22",
-      "headline": "The Kerala Story 2 filmmaker is greedy, wants to divide people: Anurag Kashyap Anurag Kashyap recently slammed The Kerala Story 2 and called it a propaganda film. The film, produced by Vipul Amrutlal Shah, has attracted controversy similar to its predecessor, prompting court involvement and public debate over its themes and portrayal."
+      "headline": "The Kerala Story 2 filmmaker is greedy, wants to divide people: Anurag Kashyap Anurag Kashyap recently slammed the makers of The Kerala Story 2 and called it a propaganda film. The film has attracted controversy similar to its predecessor, prompting court involvement and public debate over its themes and portrayal."
     },
     {
       "sentiment": "positive",
@@ -191,18 +196,13 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/accused-trailer-konkona-pratibha-play-same-sex-couple-in-psychological-thriller-2872001-2026-02-21",
       "headline": "Accused trailer: Konkona-Pratibha play same-sex couple in psychological-thriller The trailer of director Anubhuti Kashyap's Accused, shows Konkona Sen Sharma and Pratibha Ranta playing a same-sex couple. The psychological-thriller focusses on public perception around a sexual misconduct allegation."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/hollywood/story/eric-danes-final-message-to-his-daughters-revealed-overall-we-had-a-blast-2872067-2026-02-21",
-      "headline": "Eric Dane's final message to his daughters revealed: Overall, we had a blast Grey's Anatomy actor Eric Dane died at 53 following a battle with ALS (Amyotrophic lateral sclerosis). He had recorded an interview few months before his death, in which he addressed his teenage daughters."
     }
   ],
   "general news": [
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/nation-knows-congress-already-naked-pm-modi-shreds-party-over-shirtless-protest-at-ai-summit-2872474-2026-02-22",
-      "headline": "Used global event for dirty politics: PM shreds Congress over shirtless protestPM Modi criticised the Congress over a shirtless protest staged by Youth Congress workers during the India AI Impact Summit at Bharat Mandapam, accusing the party of using a global platform for \"dirty politics\" and violating the decorum of a national event."
+      "headline": "Used global event for dirty politics: PM shreds Congress over shirtless protestPM Modi criticised the Congress over a shirtless protest staged by Youth Congress workers during the India AI Impact Summit at Bharat Mandapam. He accused the party of using a global platform for \"dirty politics\" and violating the decorum of a national event."
     },
     {
       "sentiment": "positive",
@@ -237,7 +237,7 @@
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/cities/hyderabad/story/speeding-ferrari-loses-control-rams-multiple-cars-in-hyderabad-jubilee-hills-several-injured-2872433-2026-02-22",
-      "headline": "Speeding Ferrari loses control, rams multiple cars in Hyderabad; several injuredA speeding Ferrari lost control, jumped onto the wrong side, and rammed multiple vehicles in Hyderabad's Jubilee Hills, injuring several people."
+      "headline": "Hyderabad man's Ferrari 'malfunctions', rams multiple cars; several injuredA speeding Ferrari lost control, jumped onto the wrong side, and rammed multiple vehicles in Hyderabad's Jubilee Hills, injuring several people."
     },
     {
       "sentiment": "positive",
@@ -256,6 +256,11 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/sri-lanka-vs-england-live-score-super-8-t20-world-cup-rain-updates-pallekele-2872426-2026-02-22",
+      "headline": "SL vs ENG Super 8 Live: England in trouble after Brook departsSri Lanka (SL) vs England (ENG) Live Score, T20 World Cup: England are in big trouble. Phil Salt is under incredible pressure. They have lost four wickets in the first ten overs, with the captain Harry Brook being, the birthday boy, being the latest victim of the Sri Lanka bowling attack. "
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/dhurandhar-2-toxic-box-office-clash-dhuroxic-ram-gopal-varma-2872366-2026-02-22",
       "headline": "Dhurandhar 2 vs Toxic: RGV makes his choice, calls it a clash between two culturesDirector Ram Gopal Varma reaffirmed support for Aditya Dhar's Dhurandhar and its sequel ahead of its highly anticipated box office clash with Yash's Toxic: A Fairytale for Grown-Ups."
     },
@@ -267,7 +272,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/gunfight-erupts-between-security-forces-and-terrorists-in-jks-kishtwar-2872371-2026-02-22",
-      "headline": "2 terrorists killed in gunbattle in J&K's KishtwarA terrorist was killed in a gunbattle with security forces in Jammu and Kashmir's Kishtwar. During the operation, a top Jaish-e-Mohammed (JeM) commander was trapped."
+      "headline": "2 terrorists killed in gunbattle in J&K's KishtwarTwo terrorists were killed in a gunbattle with security forces in Jammu and Kashmir's Kishtwar. Search operations are under way in the area."
     },
     {
       "sentiment": "positive",
@@ -318,6 +323,16 @@
   "sports": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/indian-origin-players-shine-t20-world-cup-global-pride-pm-modi-2872509-2026-02-22",
+      "headline": "Indian-origin players global ambassadors of Indianness at T20 World Cup: PM Modi Many players of Indian origin are making their countries proud, reflecting the true spirit of being Indian, Prime Minister Narendra Modi said on Sunday. He added that wherever Indians go, they remain connected to their roots while contributing to the growth and development of the country they live and work in."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/abhishek-sharma-india-vs-south-africa-t20-world-cup-ravi-shastri-2872507-2026-02-22",
+      "headline": "Abhishek Sharma's 3 ducks a positive: Shastri's stunning claim before IND vs SA T20 World Cup: Ravi Shastri feels that Abhishek Sharma's three ducks in the T20 World Cup 2026 is actually a good thing for India. Shastri feels that the other teams will be scared of the Indian opener knowing that he is due for runs. "
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/smriti-mandhana-instagram-story-cryptic-heartfelt-note-sports-doesnt-care-about-feelings-ausw-vs-indw-2872483-2026-02-22",
       "headline": "Smriti Mandhana writes heartfelt note on Instagram after Australia T20I heroics Smriti Mandhana posted a cryptic message after her match-winning 82 in the T20I decider against Australia. The India opener stressed that performance, not emotions, ultimately defines success in sport."
     },
@@ -330,6 +345,11 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/premier-league-chelsea-burnley-wesley-fofana-hannibal-mejbri-vinicius-jr-2872400-2026-02-22",
       "headline": "After Vini Jr., Fofana, Hannibal receive racial abuse after Chelsea-Burnley draw Wesley Fofana and Hannibal Mejbri have been subjected to racial abuse following Chelsea's draw with Burnley in the Premier League. This happens days after Vinicius Jr was allegedly racially abused during the Real Madrid vs Benfica game. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/sri-lanka-vs-england-live-score-super-8-t20-world-cup-rain-updates-pallekele-2872426-2026-02-22",
+      "headline": "SL vs ENG Super 8 Live: England in trouble after Brook departs Sri Lanka (SL) vs England (ENG) Live Score, T20 World Cup: England are in big trouble. Phil Salt is under incredible pressure. They have lost four wickets in the first ten overs, with the captain Harry Brook being, the birthday boy, being the latest victim of the Sri Lanka bowling attack. "
     },
     {
       "sentiment": "positive",
@@ -359,12 +379,12 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-south-africa-t20-world-cup-super-8-match-preview-ahmedabad-2872343-2026-02-22",
-      "headline": "India, South Africa set for Super 8 showdown in 2024 final rematch T20 World Cup: India take on South Africa in their first Super 8 clash in the T20 World Cup. In Ahmedabad's cricketing circles, this is being billed as the toughest challenge for India yet in this World Cup.\r\n"
+      "headline": "India, South Africa set for Super 8 showdown in 2024 final rematchT20 World Cup: India take on South Africa in their first Super 8 clash in the T20 World Cup. In Ahmedabad's cricketing circles, this is being billed as the toughest challenge for India yet in this World Cup.\r\n"
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/virat-kohli-pakistan-ahmed-shehzad-umar-akmal-2872341-2026-02-22",
-      "headline": "Chasing Virat Kohli, losing themselves: Pakistan stars who faded away Pakistan has produced several cricketers, including Babar Azam, who were compared to Virat Kohli. While many made impressive starts to their careers, most struggled to demonstrate the level of consistency and dedication that Kohli has maintained over the years at the highest level of cricket."
+      "headline": "Chasing Virat Kohli, losing themselves: Pakistan stars who faded awayPakistan has produced several cricketers, including Babar Azam, who were compared to Virat Kohli. While many made impressive starts to their careers, most struggled to demonstrate the level of consistency and dedication that Kohli has maintained over the years at the highest level of cricket."
     },
     {
       "sentiment": "positive",
@@ -455,16 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/pakistan-vs-new-zealand-live-score-super-8-t20-world-cup-rain-updates-colombo-2872162-2026-02-21",
       "headline": "PAK vs NZ Super 8 highlights: Match abandoned, both teams share a point eachPakistan (PAK) vs New Zealand (NZ), T20 World Cup 2026 Super 8s highlights: The Super 8s began in a rather anti-climactic manner, with the opening game being washed out before a ball was bowled. Both Pakistan and New Zealand share a point each. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/hockey/story/fih-men-pro-league-india-vs-spain-hardik-singh-craig-fulton-2872132-2026-02-21",
-      "headline": "India's FIH Pro League woes continue, lose 1st match of Hobart leg 0-2 to SpainSpain piled on the misery on India as Craig Fulton's side slipped to their fifth straight loss in the FIH Pro League on Saturday, February 21. This was India's first match in the Hobart leg of the Pro League. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/video/t20-world-cup-jos-buttler-finds-form-super-8s-harry-brook-2872136-2026-02-21",
-      "headline": "Hope Jos Buttler brings out his best in Super 8s: Harry BrookHere is the full excerpt from England captain Harry Brook ahead of their game against Sri Lanka in Kandy."
     }
   ],
   "education": [
