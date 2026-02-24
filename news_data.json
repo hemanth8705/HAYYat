@@ -2,6 +2,11 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/real-estate/story/why-indias-ultra-rich-are-buying-rs-10-crore-homes-in-gurugram-over-mumbai-2025-2873514-2026-02-24",
+      "headline": "Why are India's ultra-rich preferring Gurugram over Mumbai for their homesMumbai recorded ultra-luxury home sales worth Rs 24,120 crore during the calendar year. This is the highest ever value achieved by any Indian city in this segment."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/paying-rent-to-parents-or-spouse-to-save-tax-new-rules-mean-think-twice-hra-claim-2873443-2026-02-24",
       "headline": "Paying rent to parents or spouse to save tax? New rules tighten HRA claimsClaiming HRA by paying rent to family members has been a common tax-saving method. Yet, changes expected from April 2026 could make these claims more closely examined than before.\r\n"
     },
@@ -28,7 +33,7 @@
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/market/story/why-is-stock-market-falling-today-sensex-down-500-points-nifty-tank-market-crash-it-shares-ai-disruption-tariff-2873319-2026-02-24",
-      "headline": "Sensex plunges 1,300 points: Why is the stock market falling today?By 12:30 PM, the Bombay Stock Exchange (BSE) Sensex had dropped 1,010.90 points to 82,283.76, while the National Stock Exchange (NSE) of India Nifty50 was down 287.25 points at 25,425.75."
+      "headline": "Sensex plunges 1,000 points: Why is the stock market falling today?By 12:30 PM, the Bombay Stock Exchange (BSE) Sensex had dropped 1,010.90 points to 82,283.76, while the National Stock Exchange (NSE) of India Nifty50 was down 287.25 points at 25,425.75."
     },
     {
       "sentiment": "positive",
@@ -94,14 +99,34 @@
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/personal-finance/story/how-a-fake-itr-refund-message-led-to-a-rs-15-lakh-loss-2872863-2026-02-23",
       "headline": "How a fake ITR refund message led to a Rs 1.5 lakh lossIt started with a simple message about a pending tax refund. Within minutes, a taxpayer had lost Rs 1.5 lakh. The case reveals how scammers are exploiting refund anxiety."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/retirement-in-india-idea-corpus-inflation-omniscience-capital-study-2872864-2026-02-23",
-      "headline": "Are you saving enough for retirement? Why the Rs 1 crore target is outdatedMany Indians underestimate how fast expenses rise after 60 and how long their savings must last. A new study analyses how inflation, longevity and market risks reshape the real retirement corpus you need."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/vijay-deverakonda-rashmika-mandanna-intimate-family-games-before-mehendi-udaipur-wedding-2873500-2026-02-24",
+      "headline": "Vijay\u2013Rashmika keep it intimate with family games before mehndi ceremony Vijay Deverakonda and Rashmika Mandanna kickstarted their wedding celebrations in Udaipur with fun family games. They will get married on February 26."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/varanasi-release-date-ai-mahesh-babu-fight-clip-cinema-debate-2873488-2026-02-24",
+      "headline": "AI fight video of Mahesh Babu and Rajamouli draws RGV's reaction: Death of cinema Fan-made AI visuals have been gaining popularity ever since the makers of Varanasi confirmed the film's release date. Filmmaker Ramgopal Varma has reacted to one such video featuring Varanasi actor Mahesh Babu and director Rajamouli."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/rashmika-mandanna-vijay-deverakonda-wedding-itc-mementos-udaipur-february-26-2873465-2026-02-24",
+      "headline": "Rashmika-Vijay's wedding venue: All you need to know about plush hillside resort Rashmika Mandanna and Vijay Deverakonda will marry on February 26, and approximately 100 guests are expected to attend. Here's all you need to know about the wedding venue, ITC Mementos Udaipur."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/rajinikanth-kamal-haasan-reunion-anirudh-breaking-bad-tribute-tamil-cinema-2873428-2026-02-24",
+      "headline": "Bablu, Chintu, Sonu-Monu: Mystery credits of Anirudh's Aaja Raja in KH X RK reunion Rajinikanth and Kamal Haasan reunite on the Tamil screen after nearly five decades in Nelson's upcoming film tentatively being called KH X RK reunion. The promo has Anirudh Ravichander's playful Breaking Bad references, besides mystery credits for singers and lyricist."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/how-sanjay-leela-bhansali-turned-film-music-into-his-signature-strength-ram-leela-gangubai-kathiadwadi-2873462-2026-02-24",
+      "headline": "How Sanjay Leela Bhansali turned film music into his signature strength On Sanjay Leela Bhansali's birthday, we take a closer look at how the celebrated filmmaker has quietly emerged as one of Hindi cinema's most distinctive music composers."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/story/cannot-be-loose-tongued-like-this-karnataka-high-court-raps-actor-ranveer-singh-over-kantara-mimicry-row-2873472-2026-02-24",
@@ -171,53 +196,28 @@
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/movies/bollywood/story/sabeer-bhatia-criticises-dhurandhar-film-promoting-revenge-and-hate-2873337-2026-02-24",
       "headline": "Hotmail founder Sabeer Bhatia calls Dhurandhar disgusting: Spreads revenge Hotmail founder Sabeer Bhatia has criticised Dhurandhar for its message of revenge and hate. He urged viewers to reject the Ranveer Singh-starrer."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/lakshay-jaggi-clarifies-rakul-preet-singh-award-ceremony-snub-social-media-debate-2873348-2026-02-24",
-      "headline": "Was Rakul Preet ignored at awards? Fitness influencer Lakshay Jaggi breaks silence A video showing influencer Lakshay Jaggi appearing to ignore actor Rakul Preet Singh at an award ceremony has attracted attention online. Jaggi has now clarified what happened through a statement on social media."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/vicky-kaushal-katrina-kaif-celebrate-fatherhood-motherhood-newborn-son-vihaan-2873334-2026-02-24",
-      "headline": "Vicky Kaushal calls Katrina Kaif a warrior mother as he reflects on parenthood Vicky Kaushal shared his admiration for Katrina Kaif's dedication as a mother while discussing his own role as a father to their three-month-old son, Vihaan. He called Kaif a warrior mother, appreciating her resilience."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/when-and-where-to-watch-boong-the-bafta-winning-indian-film-on-ott-2873329-2026-02-24",
-      "headline": "When and where to watch Boong, the BAFTA-winning Indian film, on OTT Boong, a Manipuri-language feature film, recently won Best Children's and Family Film at the 79th British Academy Film Awards. While the film has earned international recognition, audiences in India are still waiting for its release on streaming platforms."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/music/story/blackpink-go-teaser-cosmic-visuals-deadline-album-february-2024-2873320-2026-02-24",
-      "headline": "BLACKPINK teases cosmic new era with GO, third mini album DEADLINE out February 27 Blackpink has released the first teaser for their new title track GO. The teaser hints at a bold, cosmic visual direction and a major cultural collaboration."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/samantha-ruth-prabhu-raj-nidimoru-close-relationship-collaborations-indian-entertainment-2873286-2026-02-24",
-      "headline": "Actor Samantha calls herself and Raj Nidimoru an irritating couple. Here's why Actor Samantha Ruth Prabhu lightheartedly described herself and Raj Nidimoru as an 'irritating couple'. In an interview, she discussed her dynamic with filmmaker and husband Raj Nidimoru."
     }
   ],
   "general news": [
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/noida/story/caught-on-cctv-man-shot-dead-outside-home-broad-daylight-greater-noida-video-2873471-2026-02-24",
-      "headline": "Bullets, screams, kids: CCTV captures Noida daylight murder horrorTwo suspects have been taken into custody for questioning, police said, adding that heavy police deployment has been made in the village to maintain law and order."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/lucknow-murder-case-son-killed-father-in-blue-drum-murder-to-take-over-pathology-labs-alcohol-business-2873508-2026-02-24",
+      "headline": "Lucknow blue drum murder: Man eyed father's pathology, liquor businessesThe father, a successful businessman with labs and liquor shops, wanted his son to be a doctor, but the son aimed to take over the family business, leading to tragedy."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/youth-congress-chief-uday-bhanu-chib-arrested-over-shirtless-protest-at-ai-summit-to-be-produced-before-court-2873326-2026-02-24",
-      "headline": "Youth Congress chief arrested for masterminding shirtless AI Summit protest: CopsSources said the Youth Congress chief, Uday Bhanu Chib, was arrested after being grilled for nearly 20 hours. He faces charges of criminal conspiracy, voluntarily causing harm to a public servant, obstructing a public servant on duty, and wilful disobedience."
+      "url": "https://www.indiatoday.in/cities/noida/story/caught-on-cctv-man-shot-dead-outside-home-broad-daylight-greater-noida-video-2873471-2026-02-24",
+      "headline": "Murder in Greater Noida alley, gunmen open fire on man as woman, children screamTwo suspects have been taken into custody for questioning, police said, adding that heavy police deployment has been made in the village to maintain law and order."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/story/cannot-be-loose-tongued-like-this-karnataka-high-court-raps-actor-ranveer-singh-over-kantara-mimicry-row-2873472-2026-02-24",
-      "headline": "You are reckless: Karnataka High Court raps Ranveer Singh over Kantara mimicry rowThe Karnataka High Court rapped actor Ranveer Singh over the Kantara mimicry row during a hearing on Tuesday, while also granting him interim relief. The matter is scheduled to be heard next on March 2."
+      "url": "https://www.indiatoday.in/world/story/did-donald-trump-threaten-india-higher-tariffs-trade-deal-2873430-2026-02-24",
+      "headline": "Is Trump's 'higher tariff' threat directed at India?With the US Supreme Court striking down his global tariffs, a bruised Trump has warned countries against 'playing games' by trying to back away from trade commitments. The post came hours after India postponed its trade delegation's visit. Was Trump's rant directed at India?"
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/lucknow/story/lucknow-murder-bcom-student-stole-jewellery-home-father-tracked-killer-son-before-killing-2873349-2026-02-24",
-      "headline": "Lucknow killer son was on father's radar for stealing family jewellery: CopsPolice now believe that 21-year-old Akshat Singh shot dead his father, Manvendra Pratap Singh, after the 50-year-old businessman uncovered his son's alleged role in a jewellery theft at their home months earlier and began closely monitoring him."
+      "url": "https://www.indiatoday.in/business/market/story/why-is-stock-market-falling-today-sensex-down-500-points-nifty-tank-market-crash-it-shares-ai-disruption-tariff-2873319-2026-02-24",
+      "headline": "Sensex plunges 1,000 points: Why is the stock market falling today?By 12:30 PM, the Bombay Stock Exchange (BSE) Sensex had dropped 1,010.90 points to 82,283.76, while the National Stock Exchange (NSE) of India Nifty50 was down 287.25 points at 25,425.75."
     },
     {
       "sentiment": "positive",
@@ -226,68 +226,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/did-donald-trump-threaten-india-higher-tariffs-trade-deal-2873430-2026-02-24",
-      "headline": "Is Trump's 'higher tariff' threat directed at India?With the US Supreme Court striking down his global tariffs, a bruised Trump has warned countries against 'playing games' by trying to back away from trade commitments. The post came hours after India postponed its trade delegation's visit. Was Trump's rant directed at India?"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/airfares-shoot-up-185-percent-holi-festival-travel-rush-delhi-kolkata-patna-gorakhpur-bengaluru-rs-20000-2873434-2026-02-24",
-      "headline": "Airfares shoot up by 185% for Holi travel; a seat costs up to Rs 20,000With Holi around the corner, airfares on key domestic routes have surged as demand for tickets peaked. On routes from New Delhi and Bengaluru to Gorakhpur and Patna, ticket prices have surged by up to 185%. In some sectors, one-way fares are nearing Rs 20,000 on the weekend before Holi."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/how-namo-bharat-delhi-meerut-rrts-metro-share-tracks-launch-alwar-panipat-karnal-neemrana-2873080-2026-02-24",
-      "headline": "How India rolled out high-speed rail, metro using common tracksPM Narendra Modi inaugurated both, India's first full RRTS corridor connecting New Delhi and Meerut, and a metro system for the city in western Uttar Pradesh. The shared-track model, with both the services using the same infrastructure, will deliver high-speed regional travel and a seamless urban commute."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/rashmika-mandanna-vijay-deverakonda-stayed-silent-until-wedding-why-celebs-now-announce-love-at-mandap-2873366-2026-02-24",
-      "headline": "Rashmika-Vijay stayed silent until wedding: Why celebs now announce love at mandap?Why did Rashmika Mandanna and Vijay Deverakonda confirm their relationship only days before their wedding? From fear of public fallout to brand value and performance pressure, experts decode why celebrity couples today are choosing silence over buzz."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/story/arrange-kerala-story-2-screening-tomorrow-we-will-watch-it-says-kerala-high-court-amid-certification-row-2873420-2026-02-24",
-      "headline": "We will watch Kerala Story 2 tomorrow: High Court amid certification rowThe Kerala High Court has ordered a screening of The Kerala Story 2 amid a row over the film's alleged negative portrayal of the state. Observing that \"Kerala lives in harmony,\" the court said concerns about possible communal tension \"cannot be ignored.\""
+      "url": "https://www.indiatoday.in/india/story/bsnl-director-prayagraj-visit-cancelled-vip-protocol-sangam-bath-goes-viral-2873357-2026-02-24",
+      "headline": "50 staff, bath kits: BSNL official's Prayagraj visit in limelight over trip planThe visit was cancelled shortly after the internal document outlining elaborate arrangements for the visit went viral, drawing sharp reactions over what many users described as excessive VIP treatment."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/bangladesh-news-president-mohammed-shahbuddin-house-arrest-chief-advisor-muhammad-yunus-kaler-kontho-interview-2873453-2026-02-24",
-      "headline": "Yunus kept me under house arrest: Bangladesh President's damning accusationBangladesh President Mohammed Shahabuddin told newspaper Kaler Kontho that he was virtually kept under house arrest by the regime of Muhammad Yunus for 18 months. He was neither allowed to venture out for the traditional Eid namaz nor for his treatment after bypass surgery in Singapore. This is a damning indictment of Yunus for the way the head of state was treated."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/jharkhand/story/jharkhand-air-ambulance-victims-family-took-rs-8-lakh-loan-to-save-him-2873331-2026-02-24",
-      "headline": "Jharkhand couple killed in air ambulance crash had taken Rs 8 lakh loan for planeIn a desperate attempt to save the life of 41-year-old Sanjay, the family took a loan of 8 lakh from friends and relatives. Sanjay, along with 6 others, died in the air ambulance crash. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/chinas-classified-space-plane-is-in-orbit-again-no-one-knows-what-it-is-doing-2873397-2026-02-24",
-      "headline": "China's secret plane is in space again. No one knows what it's doingThat lack of transparency has left space experts and trackers piecing together clues from satellite data, amateur observations and orbital tracking. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/fashion/story/met-gala-2026-dress-code-revealed-and-its-all-about-art-2873409-2026-02-24",
-      "headline": "Met Gala 2026 dress code is out. Expect a seriously fun red carpetA-listers will gather at the legendary Metropolitan Museum of Art in New York City on Monday, May 4, to celebrate fashion, culture, art, and much more. Met Gala's dress code for 2026 has been announced, and it is \"Fashion is Art.\""
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/education-today/story/neet-pg-zero-percentile-doctors-are-a-competency-crisis-not-a-statistical-glitch-neet-nmc-2873394-2026-02-24",
-      "headline": "NEET PG: Zero-percentile doctors are a competency crisis, not a statistical glitchNO! NEET PG cannot be reduced to past qualification. If someone cleared UG but cannot even secure 36% in PG after six years of training, the issue is competency, not vacancies. Read this because when merit filters weaken in medical education, the risk ultimately moves from exam halls to hospital wards."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/nasa-mars-curiosity-rover-spider-webs-possibility-of-life-inter-planetary-exploration-space-travel-clues-ridges-2873422-2026-02-24",
-      "headline": "Spider webs on Mars: Nasa rover discovers clues about ancient lifeThe existence of life for a prolonged period is the possibility that is driving this deep exploration mission on Mars. What do the clue reveal?"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/gk-current-affairs/story/major-yunus-yaqub-khan-brothers-face-off-kashmir-war-1948-partition-2873379-2026-02-24",
-      "headline": "One family, two flags: The true story of brothers on opposite sides in the Indo-Pak warThey trained together, laughed together, and then faced each other in battle. Yunus and Yaqub Khan's story is history written in family ties."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/the-bluff-review-priyanka-chopra-powers-a-pirate-drama-that-rarely-sets-sail-2873437-2026-02-24",
-      "headline": "The Bluff review: Priyanka Chopra powers a pirate drama that rarely sets sailRelease Date:Wed Feb 25, 2026The Bluff places Priyanka Chopra at the centre of a gritty 19th-century Caribbean revenge tale, mixing high-stakes action with raw emotion. While the film looks ambitious and benefits from a commanding lead performance, uneven writing holds it back from truly packing a punch."
+      "url": "https://www.indiatoday.in/india/story/youth-congress-chief-uday-bhanu-chib-arrested-over-shirtless-protest-at-ai-summit-to-be-produced-before-court-2873326-2026-02-24",
+      "headline": "Youth Congress chief arrested for masterminding shirtless AI Summit protest: CopsSources said the Youth Congress chief, Uday Bhanu Chib, was arrested after being grilled for nearly 20 hours. He faces charges of criminal conspiracy, voluntarily causing harm to a public servant, obstructing a public servant on duty, and wilful disobedience."
     },
     {
       "sentiment": "positive",
@@ -296,31 +241,101 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/how-namo-bharat-delhi-meerut-rrts-metro-share-tracks-launch-alwar-panipat-karnal-neemrana-2873080-2026-02-24",
+      "headline": "How India rolled out high-speed rail, metro using common tracksPM Narendra Modi inaugurated both, India's first full RRTS corridor connecting New Delhi and Meerut, and a metro system for the city in western Uttar Pradesh. The shared-track model, with both the services using the same infrastructure, will deliver high-speed regional travel and a seamless urban commute."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/the-bluff-review-priyanka-chopra-powers-a-pirate-drama-that-rarely-sets-sail-2873437-2026-02-24",
+      "headline": "The Bluff review: Priyanka Chopra powers a pirate drama that rarely sets sailRelease Date:Wed Feb 25, 2026The Bluff places Priyanka Chopra at the centre of a gritty 19th-century Caribbean revenge tale, mixing high-stakes action with raw emotion. While the film looks ambitious and benefits from a commanding lead performance, uneven writing holds it back from truly packing a punch."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/airfares-shoot-up-185-percent-holi-festival-travel-rush-delhi-kolkata-patna-gorakhpur-bengaluru-rs-20000-2873434-2026-02-24",
+      "headline": "Airfares shoot up by 185% for Holi travel; a seat costs up to Rs 20,000With Holi around the corner, airfares on key domestic routes have surged as demand for tickets peaked. On routes from New Delhi and Bengaluru to Gorakhpur and Patna, ticket prices have surged by up to 185%. In some sectors, one-way fares are nearing Rs 20,000 on the weekend before Holi."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/education-today/story/neet-pg-zero-percentile-doctors-are-a-competency-crisis-not-a-statistical-glitch-neet-nmc-2873394-2026-02-24",
+      "headline": "NEET PG: Zero-percentile doctors are a competency crisis, not a statistical glitchNO! NEET PG cannot be reduced to past qualification. If someone cleared UG but cannot even secure 36% in PG after six years of training, the issue is competency, not vacancies. Read this because when merit filters weaken in medical education, the risk ultimately moves from exam halls to hospital wards."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/rashmika-mandanna-vijay-deverakonda-stayed-silent-until-wedding-why-celebs-now-announce-love-at-mandap-2873366-2026-02-24",
+      "headline": "Rashmika-Vijay stayed silent until wedding: Why celebs now announce love at mandap?Why did Rashmika Mandanna and Vijay Deverakonda confirm their relationship only days before their wedding? From fear of public fallout to brand value and performance pressure, experts decode why celebrity couples today are choosing silence over buzz."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/jharkhand/story/jharkhand-air-ambulance-victims-family-took-rs-8-lakh-loan-to-save-him-2873331-2026-02-24",
+      "headline": "Jharkhand couple killed in air ambulance crash had taken Rs 8 lakh loan for planeIn a desperate attempt to save the life of 41-year-old Sanjay, the family took a loan of 8 lakh from friends and relatives. Sanjay, along with 6 others, died in the air ambulance crash. "
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/cities/lucknow/story/lucknow-murder-bcom-student-stole-jewellery-home-father-tracked-killer-son-before-killing-2873349-2026-02-24",
+      "headline": "Lucknow killer son was on father's radar for stealing family jewellery: CopsPolice now believe that 21-year-old Akshat Singh shot dead his father, Manvendra Pratap Singh, after the 50-year-old businessman uncovered his son's alleged role in a jewellery theft at their home months earlier and began closely monitoring him."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/health/story/india-set-to-soon-launch-a-nationwide-hpv-vaccination-programme-to-prevent-cervical-cancer-2873503-2026-02-24",
+      "headline": "India set to soon launch a nationwide HPV vaccination programme to prevent cervical cancerA major women's health promise from Budget 2024 is set to take shape. The nationwide HPV vaccination campaign may begin within days.\r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/chinas-classified-space-plane-is-in-orbit-again-no-one-knows-what-it-is-doing-2873397-2026-02-24",
+      "headline": "China's secret plane is in space again. No one knows what it's doingThat lack of transparency has left space experts and trackers piecing together clues from satellite data, amateur observations and orbital tracking. "
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/technology/news/story/anthropic-says-claude-can-understand-cobol-ibm-stock-suffers-worst-fall-in-25-years-2873406-2026-02-24",
+      "headline": "Anthropic says Claude can understand COBOL, IBM stock suffers worst fall in 25 yearsIBM shares saw their sharpest fall in over 25 years after AI startup Anthropic said its Claude Code tool can understand and modernise COBOL, a language deeply tied to IBM's mainframe business. Here is everything that you need to know."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/news/story/ncert-class-8-social-science-textbook-revised-chapter-added-on-judicial-corruption-2873479-2026-02-24",
+      "headline": "NCERT Class 8 Social Science book adds judicial corruption, pending cases chapterThe NCERT Class 8 Social Science textbook has been revised to include a new chapter on corruption in the judiciary and the massive backlog of court cases. The updated edition also expands sections on judicial accountability, judge removal processes, and the balance of powers within India's constitutional framework."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/story/arrange-kerala-story-2-screening-tomorrow-we-will-watch-it-says-kerala-high-court-amid-certification-row-2873420-2026-02-24",
+      "headline": "We will watch Kerala Story 2 tomorrow: High Court amid certification rowThe Kerala High Court has ordered a screening of The Kerala Story 2 amid a row over the film's alleged negative portrayal of the state. Observing that \"Kerala lives in harmony,\" the court said concerns about possible communal tension \"cannot be ignored.\""
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/cities/bengaluru/story/bengaluru-villa-gang-rape-case-accuses-extortion-woman-sexual-assault-police-valentines-day-party-2872995-2026-02-23",
+      "headline": "She wanted sugar daddy: Bengaluru gang-rape accused alleges extortionPolice are investigating conflicting claims in the Bengaluru villa case, where an accused has alleged an extortion attempt, while the woman has accused two men of gang-raping her during a Valentine's Day party."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/jobs/story/cowherder-is-now-a-legit-job-rajasthan-government-offers-rs-10000-salary-details-here-2873398-2026-02-24",
       "headline": "Cowherder is now a legit job. Rajasthan offers Rs 10,000 salary \u2013 Details hereThe Rajasthan government has launched a new scheme, the Gaon Gwala Yojana, which offers a Rs 10,000 monthly pay to village cowherds to help revive traditional cattle care practices. The initiative has drawn attention across the state, particularly following remarks by Rajasthan Education Minister Madan Dilawar about milk consumption."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-t20-world-cup-2026-abhishek-sharma-sanju-samson-selection-dilemma-2873354-2026-02-24",
-      "headline": "Spin troubles aside, India should stay patient with Abhishek SharmaT20 World Cup: Abhishek Sharma's continuous poor form in T20 World Cup 2026 has intensified calls for change, with Sanju Samson emerging as a possible alternative. With India in a do-or-die situation, their next selection move could determine the fate of their World Cup campaign."
+      "url": "https://www.indiatoday.in/movies/story/cannot-be-loose-tongued-like-this-karnataka-high-court-raps-actor-ranveer-singh-over-kantara-mimicry-row-2873472-2026-02-24",
+      "headline": "You are reckless: Karnataka High Court raps Ranveer Singh over Kantara mimicry rowThe Karnataka High Court rapped actor Ranveer Singh over the Kantara mimicry row during a hearing on Tuesday, while also granting him interim relief. The matter is scheduled to be heard next on March 2."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/bsnl-director-prayagraj-visit-cancelled-vip-protocol-sangam-bath-goes-viral-2873357-2026-02-24",
-      "headline": "50 staff, bath kits: BSNL official's Prayagraj visit in limelight over trip planThe visit was cancelled shortly after the internal document outlining elaborate arrangements for the visit went viral, drawing sharp reactions over what many users described as excessive VIP treatment."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/pawan-hans-helicopter-makes-emergency-landing-in-andaman-after-snag-all-7-rescued-2873424-2026-02-24",
-      "headline": "Helicopter crash lands in Andaman Sea after snag, all 7 on board rescuedAccording to a Pawan Hans spokesperson, the helicopter had taken off from Port Blair around 9.30 am carrying two crew members and five passengers when it experienced a \"short landing incident\" near Mayabunder."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/indians-in-ireland-racial-attack-online-irish-food-bank-report-2873090-2026-02-23",
-      "headline": "How a photo triggered racist tirade against Indians in IrelandAn Irish media report about a university turning away students from food bank due to rising demand has triggered racial attacks against Indians. An Irish social media user accused Indians of \"looting\" services."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/bangladesh-news-president-mohammed-shahbuddin-house-arrest-chief-advisor-muhammad-yunus-kaler-kontho-interview-2873453-2026-02-24",
+      "headline": "Yunus kept me under house arrest: Bangladesh President's damning accusationBangladesh President Mohammed Shahabuddin told newspaper Kaler Kontho that he was virtually kept under house arrest by the regime of Muhammad Yunus for 18 months. He was neither allowed to venture out for the traditional Eid namaz nor for his treatment after bypass surgery in Singapore. This is a damning indictment of Yunus for the way the head of state was treated."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ind-w-vs-aus-w-1st-odi-harmanpreet-kaur-injury-blow-smriti-mandhana-brisbane-2873517-2026-02-24",
+      "headline": "India suffer injury blow as Harmanpreet Kaur does not come out to field in Brisbane IND-W vs AUS-W, 1st ODI: Harmanpreet Kaur suffered a left knee injury during the first ODI in Brisbane and did not field in the second innings, with Smriti Mandhana stepping in to lead India against Australia."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/icc-womens-t20-world-cup-schedule-india-pakistan-clash-confirmed-lords-final-2873515-2026-02-24",
+      "headline": "India vs Pakistan clash confirmed as ICC unveils Women's T20 World Cup schedule Bangladesh will be slotted alongside India and Pakistan in an explosive Group 1 after the International Cricket Council on Tuesday announced the complete list of fixtures for the upcoming Women's T20 World Cup 2026."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/gautam-gambhir-politics-ahmed-shehzad-india-t20-world-cup-2873502-2026-02-24",
+      "headline": "Gautam Gambhir's politics has damaged Indian team's image: Ex-PAK batter T20 World Cup: Former Pakistan batter Ahmed Shehzad has slammed India coach Gautam Gambhir and claimed that he has brought politics into the Indian team environment. Gambhir is facing mounting pressure after India's loss to South Africa. "
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/steve-bucknor-admits-mistake-sachin-tendulkar-2004-lbw-decision-ind-aus-test-2873473-2026-02-24",
@@ -364,17 +379,17 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-t20-world-cup-2026-abhishek-sharma-sanju-samson-selection-dilemma-2873354-2026-02-24",
-      "headline": "Spin troubles aside, India should stay patient with Abhishek Sharma T20 World Cup: Abhishek Sharma's continuous poor form in T20 World Cup 2026 has intensified calls for change, with Sanju Samson emerging as a possible alternative. With India in a do-or-die situation, their next selection move could determine the fate of their World Cup campaign."
+      "headline": "Spin troubles aside, India should stay patient with Abhishek SharmaT20 World Cup: Abhishek Sharma's continuous poor form in T20 World Cup 2026 has intensified calls for change, with Sanju Samson emerging as a possible alternative. With India in a do-or-die situation, their next selection move could determine the fate of their World Cup campaign."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/angkrish-raghuvanshi-interview-rohit-sharma-kkr-india-ipl-2026-abhishek-nayar-2873276-2026-02-24",
-      "headline": "With lessons from Rohit, Raghuvanshi embraces the long road to India cap An Under-19 World Cup winner and now a rising force at Kolkata Knight Riders, Angkrish Raghuvanshi is navigating the early years of his career with clarity and patience. The Mumbai youngster speaks about growth, mentorship under Abhishek Nayar, learning alongside Rohit Sharma, and his ambitions for IPL 2026 and beyond."
+      "headline": "With lessons from Rohit, Raghuvanshi embraces the long road to India capAn Under-19 World Cup winner and now a rising force at Kolkata Knight Riders, Angkrish Raghuvanshi is navigating the early years of his career with clarity and patience. The Mumbai youngster speaks about growth, mentorship under Abhishek Nayar, learning alongside Rohit Sharma, and his ambitions for IPL 2026 and beyond."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/karnataka-vs-jammu-and-kashmir-live-score-ranji-trophy-final-updates-hubli-2873305-2026-02-24",
-      "headline": "Ranji Trophy final Day 1 Live: Prasidh Krishna gives Karnataka breakthroughKarnataka (KAR) vs Jammu and Kashmir (J&K) Live Score, Ranji Trophy final: Yawer Hassan's brilliant innings comes to an end at 88. Once again, it is Prasidh Krishna who gets the breakthrough for Karnataka and in walks the J&K captain, Paras Dogra. "
+      "headline": "Ranji Trophy final Day 1 Live: Paras Dogra looks to rebuild inningsKarnataka (KAR) vs Jammu and Kashmir (J&K) Live Score, Ranji Trophy final: Tea has been taken, and Jammu and Kashmir are piling up the runs. Paras Dogra has come in some time back and he will look to get set quickly and ensure that they put up a big score. "
     },
     {
       "sentiment": "positive",
@@ -455,21 +470,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ranji-trophy-final-jammu-and-kashmir-vs-karnataka-preview-predicted-xi-pitch-report-2873034-2026-02-23",
       "headline": "Jammu and Kashmir eye historic title, Karnataka target ninth crownRanji Trophy Final: Jammu and Kashmir will need to pull off a giant-sized miracle against eight-time champions Karnataka if they are to win their first-ever title over the next five days, starting Monday."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/south-africa-dragged-india-along-the-ground-insulted-them-saqlain-mushtaq-t20-world-cup-2873018-2026-02-23",
-      "headline": "SA dragged India along the ground and insulted them: Former Pakistan cricketerSouth Africa handed India their first T20 World Cup defeat after 12 wins with a 76-run victory. The loss has raised questions over India's batting strategy and tournament prospects."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/t20-world-cup-daryl-mitchell-banks-on-india-second-favourite-tag-for-semi-final-push-2872921-2026-02-23",
-      "headline": "New Zealand's Mitchell banks on India's '2nd favourite' tag for semi-final pushNew Zealand all-rounder Daryl Mitchell said his side was ready to embrace their tag as Indian cricket fans' \"second favourite team\" as they attempt to steer through a demanding Super Eight group and return to the semi-finals of the T20 World Cup."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/vaishnavi-adkar-itf-w100-bengaluru-final-wta-top-500-breakthrough-2872949-2026-02-23",
-      "headline": "Who is Vaishnavi Adkar? Pune star becomes India's No.2 with dream run in BengaluruVaishnavi Adkar had a remarkable run at the ITF Women's W100 Open in Bengaluru, finishing as the runner-up. The 21-year-old also rose to become India's No.\u202f2 ranked player following this impressive performance."
     }
   ],
   "education": [
