@@ -38,7 +38,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/market/story/why-is-stock-market-falling-today-sensex-nifty-down-global-cues-uncertain-us-tariff-iran-nasdaq-selloff-nvidia-2875224-2026-02-27",
-      "headline": "Sensex tumbles 1,000 points: Why is stock market falling todayAt 3:22 PM, the S&P BSE Sensex was down 980.03 points at 81,268.58. The NSE Nifty50 fell 322.80 points to 25,173.75. Both indices were down over 1%."
+      "headline": "Sensex closes 961 points lower: Why stock market fell todayThe S&P BSE Sensex tanked 961.42 points to close at\u00a081,287.19, while the NSE Nifty50 lost 317.90 points to end at\u00a025,178.65.\u00a0 Both indices lost over 1%."
     },
     {
       "sentiment": "positive",
@@ -104,13 +104,28 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/boong-set-for-theatrical-release-check-date-when-bafta-winning-film-arrives-2875493-2026-02-27",
+      "headline": "Boong set for theatrical release. Check date when BAFTA-winning film arrives Farhan Akhtar announced the theatrical release date of his BAFTA-winning Manipuri film Boong. The Lakshmipriya Devi directorial won the award in Best Children's and Family Film category."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/spirit-vivek-oberoi-joins-sandeep-reddy-vanga-dark-world-see-poster-2875537-2026-02-27",
+      "headline": "Spirit: Vivek Oberoi joins Sandeep Reddy Vanga's dark world. See poster Sandeep Reddy Vanga has added Vivek Oberoi to the cast of his upcoming film, Spirit. The actor's first-look poster screams raw intensity and quiet menace."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/karan-johar-calls-artists-nobodies-says-loyalty-is-myth-in-bollywood-2875445-2026-02-27",
+      "headline": "Karan Johar calls artists 'nobodies', says loyalty is myth in Bollywood Karan Johar opened up about actors' \"insecurities\" and lack of loyalty in Bollywood. He called talent management a \"thankless job\" amid reports of Janhvi Kapoor exiting his agency."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/music/story/deadline-review-blackpink-still-know-how-to-chant-their-way-into-your-head-2875461-2026-02-27",
       "headline": "Deadline review: BLACKPINK still know how to chant their way into your head BLACKPINK made a confident return with Deadline, delivering a sleek, global sound driven by strong English lyrics and personal touches. Balancing bold anthems with softer moments, the mini-album reinforced their place at the top of modern pop."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/story/tvk-chief-and-actor-vijays-wife-files-for-divorce-accuses-him-of-infidelity-2875467-2026-02-27",
-      "headline": "TVK chief and actor Vijay's wife files for divorce, accuses him of infidelity TVK chief and actor Vijay's wife files for divorce, accuses him of infidelity"
+      "headline": "Actor and TVK chief Vijay's wife files for divorce, alleges affair with actor Actor and TVK chief Vijay's wife, Sangeetha, has filed for divorce. She has accused Vijay of infidelity, alleging that he was involved in an extramarital relationship with a fellow actor."
     },
     {
       "sentiment": "positive",
@@ -181,21 +196,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/reviews/story/scream-7-review-neve-campbell-sidney-prescott-script-flaws-ghostface-violence-2875280-2026-02-27",
       "headline": "Scream 7 review: Neve Campbell's Sidney Prescott deserves a sharper scriptRelease Date:Fri Feb 27, 2026 Scream 7 movie review: Scream 7 brings back Neve Campbell's Sidney Prescott in a familiar horror setting. The film blends legacy trauma with digital fears but falls short on narrative depth and innovation."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/kit-harington-industry-game-of-thrones-flawed-characters-high-finance-drama-season-4-2875253-2026-02-27",
-      "headline": "Kit Harington compares Industry to GoT: Both are full of pretty horrific people Actor Kit Harington draws parallels between Game of Thrones and Industry, focusing on their morally complex characters. The latest season of Industry delves into high finance's ruthless world, highlighting privilege and ambition."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/daisy-shah-marriage-not-needed-for-family-egg-freezing-independence-2875208-2026-02-27",
-      "headline": "Daisy Shah freezes her eggs, says she wants motherhood on her own terms Actor Daisy Shah shared her views on marriage and motherhood. She revealed freezing her eggs and cautious approach towards marriage influenced by recent relationship news."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/charak-vs-censor-board-producer-sudipto-sen-superstition-human-sacrifice-ancient-festival-india-2873623-2026-02-27",
-      "headline": "Charak vs censors: Producer Sudipto Sen says art shouldn't be restricted Filmmaker Sudipto Sen's upcoming film Charak faces censorship challenges, but he firmly believes art should not be restricted. He trusts the maturity of Indian audiences."
     }
   ],
   "general news": [
@@ -207,7 +207,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/story/tvk-chief-and-actor-vijays-wife-files-for-divorce-accuses-him-of-infidelity-2875467-2026-02-27",
-      "headline": "TVK chief and actor Vijay's wife files for divorce, accuses him of infidelityActor and TVK Chief Vijay's wife has filed for a divorce. She accused him of infidelity. "
+      "headline": "Actor and TVK chief Vijay's wife files for divorce, alleges affair with actorActor and TVK chief Vijay's wife, Sangeetha, has filed for divorce. She has accused Vijay of infidelity, alleging that he was involved in an extramarital relationship with a fellow actor."
     },
     {
       "sentiment": "negative",
@@ -225,9 +225,14 @@
       "headline": "Rashmika-Vijay make 1st public appearance as Mrs and Mr at Udaipur airport. WatchRashmika Mandanna and Vijay Deverakonda have finally made their first appearances as a married couple. They were clicked waving and blowing kisses to the paps stationed at the Udaipur airport on Friday. "
     },
     {
-      "sentiment": "positive",
+      "sentiment": "negative",
       "url": "https://www.indiatoday.in/world/story/afghanistan-pakistan-war-tensions-conflict-live-updates-afghan-forces-kabul-kandahar-shehbaz-sharif-2875170-2026-02-27",
-      "headline": "Live: China, Russia call for de-escalation; Iran offers help after cross-border strikesPakistan-Afghanistan War Live Updates: Pakistan has launched Operation Ghazib Lil-haq against Afghanistan, targeting several military installations in cities like Kabul, Paktia, and Kandahar, after the border conflict between the two countries escalated on Thursday. Earlier, the Taliban administration in Afghanistan claimed that it had conquered 19 Pakistani checkposts, killing 55 soldiers in large-scale airstrikes. Catch all the live updates of the fresh tension in Indiatoday.in."
+      "headline": "Live: Pak says 12 soldiers killed in recent attacks, 274 Talibani fighters deadPakistan-Afghanistan War Live Updates: Pakistan has launched Operation Ghazib Lil-haq against Afghanistan, targeting several military installations in cities like Kabul, Paktia, and Kandahar, after the border conflict between the two countries escalated on Thursday. Earlier, the Taliban administration in Afghanistan claimed that it had conquered 19 Pakistani checkposts, killing 55 soldiers in large-scale airstrikes. Catch all the live updates of the fresh tension in Indiatoday.in."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/jobs/story/deepinder-goyals-startup-temple-is-hiring-but-he-has-some-fitness-requirements-2875507-2026-02-27",
+      "headline": "Deepinder Goyal's startup Temple is hiring, but he has some fitness requirementsDeepinder Goyal's startup Temple is hiring engineers with strict fitness standards to develop next-generation wearables. Social media users, however, have mixed feelings about the criteria."
     },
     {
       "sentiment": "positive",
@@ -236,13 +241,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/prelim-enquiry-finds-no-wrongdoing-by-union-minister-hardeep-puri-in-epstein-files-row-probe-ongoing-sources-2875342-2026-02-27",
-      "headline": "Internal verification finds no wrongdoing by Hardeep Puri in Epstein row: SourcesThe entire episode was examined at an internal level and Puri's version was recorded in detail during the process, according to sources. Based on the Internal verification, the government is satisfied that no objectionable or criminal involvement has emerged against the minister."
+      "url": "https://www.indiatoday.in/the-lowdown/story/pakistan-bombs-kabul-kandahar-afghanistan-retaliation-ttp-durand-line-hindu-kush-history-conflict-2875353-2026-02-27",
+      "headline": "Afghanistan: The graveyard of empires, and now Pakistan's nightmareTension had been brewing since February 21 when Pakistan launched airstrikes on Afghanistan's Nangarhar, Paktika, and Khost provinces, claiming to target seven militant camps linked to the TTP and Islamic State Khorasan. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/the-lowdown/story/pakistan-bombs-kabul-kandahar-afghanistan-retaliation-ttp-durand-line-hindu-kush-history-conflict-2875353-2026-02-27",
-      "headline": "Afghanistan: The graveyard of empires, and now Pakistan's nightmareTension had been brewing since February 21 when Pakistan launched airstrikes on Afghanistan's Nangarhar, Paktika, and Khost provinces, claiming to target seven militant camps linked to the TTP and Islamic State Khorasan. "
+      "url": "https://www.indiatoday.in/india/story/prelim-enquiry-finds-no-wrongdoing-by-union-minister-hardeep-puri-in-epstein-files-row-probe-ongoing-sources-2875342-2026-02-27",
+      "headline": "Internal verification finds no wrongdoing by Hardeep Puri in Epstein row: SourcesThe entire episode was examined at an internal level and Puri's version was recorded in detail during the process, according to sources. Based on the Internal verification, the government is satisfied that no objectionable or criminal involvement has emerged against the minister."
     },
     {
       "sentiment": "negative",
@@ -256,18 +261,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/history-of-it/story/delhi-name-change-praveen-khandelwal-mahabharata-pandava-history-mughal-british-2875028-2026-02-27",
-      "headline": "How Indraprastha became DelhiA BJP MP has demanded that New Delhi be named Indraprastha. But how did Indraprastha, associated with the Pandavas of Mahabharata, get the name Delhi? The etymological roots can be traced back to over 2,000 years ago to Raja Dhillu. Here's how India's National Capital got various names through the ages, till New Delhi stuck."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/jobs/story/frequent-job-changes-rise-ai-skills-reshape-career-success-india-2875297-2026-02-27",
       "headline": "One job for 10 years or 10 jobs in 10 years: What works today?In today's economy, staying isn't loyalty and switching isn't impatience; the real question is whether your career is compounding or standing still."
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/history-of-it/story/delhi-name-change-praveen-khandelwal-mahabharata-pandava-history-mughal-british-2875028-2026-02-27",
+      "headline": "How Indraprastha became DelhiA BJP MP has demanded that New Delhi be named Indraprastha. But how did Indraprastha, associated with the Pandavas of Mahabharata, get the name Delhi? The etymological roots can be traced back to over 2,000 years ago to Raja Dhillu. Here's how India's National Capital got various names through the ages, till New Delhi stuck."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/market/story/why-is-stock-market-falling-today-sensex-nifty-down-global-cues-uncertain-us-tariff-iran-nasdaq-selloff-nvidia-2875224-2026-02-27",
-      "headline": "Sensex tumbles 1,000 points: Why is stock market falling todayAt 3:22 PM, the S&P BSE Sensex was down 980.03 points at 81,268.58. The NSE Nifty50 fell 322.80 points to 25,173.75. Both indices were down over 1%."
+      "headline": "Sensex closes 961 points lower: Why stock market fell todayThe S&P BSE Sensex tanked 961.42 points to close at\u00a081,287.19, while the NSE Nifty50 lost 317.90 points to end at\u00a025,178.65.\u00a0 Both indices lost over 1%."
     },
     {
       "sentiment": "negative",
@@ -276,18 +281,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/pakistan-wheat-crisis-usda-report-flour-shortage-afghanistan-conflict-2026-2875416-2026-02-27",
-      "headline": "Pakistan to run short of flour? Wheat output likely to fall amid Afghanistan warAccording to a report by the United States Department of Agriculture (USDA), Pakistan's wheat production is expected to decline by 2 to 2.2 million tonnes compared to last year."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/rashmika-mandanna-vijay-deverakonda-marry-udaipur-intimate-ceremony-2875149-2026-02-27",
       "headline": "Steady breaths, welled-up eyes: Lokah star Kalyani on special Virosh momentActor Kalyani Priyadarshan shared a moving moment from Rashmika Mandanna and Vijay Deverakonda's Udaipur wedding, and her words are hard to ignore.\r\n"
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/pakistan-wheat-crisis-usda-report-flour-shortage-afghanistan-conflict-2026-2875416-2026-02-27",
+      "headline": "Pakistan to run short of flour? Wheat output likely to fall amid Afghanistan warAccording to a report by the United States Department of Agriculture (USDA), Pakistan's wheat production is expected to decline by 2 to 2.2 million tonnes compared to last year."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/arvind-kejriwal-manish-sisodia-delhi-excise-policy-court-aam-aadmi-party-2875236-2026-02-27",
-      "headline": "Live: Kejriwal hits out after clean chit in liquor case, calls it conspiracy by PM Excise Policy Case Live Updates: Former Delhi Chief Minister Arvind Kejriwal and former Deputy Chief Minister Manish Sisodia have been discharged in the Delhi excise policy case, with the court ruling that the CBI failed to prove the charges against them.\r\n\r\nThe court, flagging lack of evidence against Kejriwal, said serious allegations need to be supported with material, as the attribution of a central conspiratorial role cannot be sustained without evidence. Public confidence in the office is affected if it is found that the prosecution's claims were unsupported by material, the court noted. Catch all the live updates in indiatoday.in"
+      "headline": "Live: Delhi CM questions Kejriwal's acquittal, claims evidence was tampered with Excise Policy Case Live Updates: Former Delhi Chief Minister Arvind Kejriwal and former Deputy Chief Minister Manish Sisodia have been discharged in the Delhi excise policy case, with the court ruling that the CBI failed to prove the charges against them.\r\n\r\nThe court, flagging lack of evidence against Kejriwal, said serious allegations need to be supported with material, as the attribution of a central conspiratorial role cannot be sustained without evidence. Public confidence in the office is affected if it is found that the prosecution's claims were unsupported by material, the court noted. Catch all the live updates in indiatoday.in"
     },
     {
       "sentiment": "positive",
@@ -296,13 +301,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/jobs/story/zoho-founder-sridhar-vembu-reveals-list-of-10-jobs-that-are-safe-from-ai-and-pay-well-tchc-2875448-2026-02-27",
-      "headline": "Zoho founder Sridhar Vembu reveals list of 10 jobs that are safe from AI and pay wellZoho founder Sridhar Vembu says the AI era will force societies to rethink work, value, and purpose, with human-centred roles staying relevant even as machines take over productivity."
+      "url": "https://www.indiatoday.in/entertainment/ott/story/accused-review-konkona-sensharma-pratibha-ranntas-restrained-drama-may-test-your-patience-2875267-2026-02-27",
+      "headline": "Accused review: Konkona-Pratibha Rannta's restrained drama may test your patienceRelease Date:Fri Feb 27, 2026Netflix's Hindi psychological thriller Accused follows a queer gynaecologist in London as her life unravels after disturbing allegations. While the premise offers a fresh take on workplace politics and social scrutiny, the slow burn and uneven performances keep it from making a lasting impact."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/accused-review-konkona-sensharma-pratibha-ranntas-restrained-drama-may-test-your-patience-2875267-2026-02-27",
-      "headline": "Accused review: Konkona-Pratibha Rannta's restrained drama may test your patienceRelease Date:Fri Feb 27, 2026Netflix's Hindi psychological thriller Accused follows a queer gynaecologist in London as her life unravels after disturbing allegations. While the premise offers a fresh take on workplace politics and social scrutiny, the slow burn and uneven performances keep it from making a lasting impact."
+      "url": "https://www.indiatoday.in/jobs/story/zoho-founder-sridhar-vembu-reveals-list-of-10-jobs-that-are-safe-from-ai-and-pay-well-tchc-2875448-2026-02-27",
+      "headline": "Zoho founder Sridhar Vembu reveals list of 10 jobs that are safe from AI and pay wellZoho founder Sridhar Vembu says the AI era will force societies to rethink work, value, and purpose, with human-centred roles staying relevant even as machines take over productivity."
     },
     {
       "sentiment": "positive",
@@ -313,14 +318,34 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/people-report-feeling-earthquake-tremors-in-and-around-kolkata-2875332-2026-02-27",
       "headline": "Earthquake tremors felt across Kolkata, people rush out of buildingsTremors were felt across Kolkata and nearby areas, with panicked residents and office workers rushing out of buildings. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/arvind-kejriwal-breaks-down-after-court-clean-chit-in-delhi-liquor-policy-case-2875241-2026-02-27",
-      "headline": "Arvind Kejriwal in tears after court clears him, says proof he's kattar imaandarAfter Arvind Kejriwal was discharged in the Delhi excise policy case due to lack of evidence, the former Delhi Chief Minister broke down before cameras as supporters gathered around him, urging him to stay strong."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ranji-trophy-final-auqib-nabi-qamran-iqbal-take-jk-maiden-triumph-vs-karnataka-2875558-2026-02-27",
+      "headline": "Ranji Trophy final: Auqib Nabi, Qamran Iqbal take J&K on cusp of historic triumph Jammu and Kashmir finished Day 4 of the Ranji Trophy final in a strong position against Karnataka. Their dominant performance have brought them closer to their maiden title victory."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ranji-trophy-final-jammu-kashmir-omar-abdullah-karnataka-hubli-2875564-2026-02-27",
+      "headline": "J&K on brink of maiden Ranji Trophy title as CM Omar Abdullah heads to final venue Jammu and Kashmir Chief Minister Omar Abdullah is heading to Hubli as the state stands on the brink of winning their maiden Ranji Trophy title with a commanding 477-run lead over Karnataka."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/england-vs-new-zealand-live-score-super-8s-t20-world-cup-cololmbo-2875530-2026-02-27",
+      "headline": "ENG vs NZ Live Score Super 8: Pakistan keep fingers crossed as New Zealand eye semis spot England (ENG) vs New Zealand (NZ) Live Score, T20 World Cup Super 8: New Zealand will look to seal their spot in the semis when they meet England on Friday at the R Premadasa Stadium in Colombo. But Pakistan will also watch the match closely with their semifinal hopes hanging by a thread. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/uefa-champions-league-round-of-16-draw-real-madrid-man-city-psg-chelsea-full-list-2875495-2026-02-27",
+      "headline": "Real Madrid to face Man City as UCL's R016 serves up heavyweight clashes UEFA Champions League: Real Madrid will face Manchester City in a heavyweight clash as the Champions League Round of 16 draw delivered blockbuster matchups, with PSG taking on Chelsea in another standout fixture."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/australia-women-odi-series-win-against-india-georgia-voll-century-2875477-2026-02-27",
+      "headline": "India Women make horror start to post World Cup-era, lose ODI series to Australia INDW vs AUSW: India defeated Australia by five wickets in the second ODI on Friday to take a 2-0 lead in the three-match series. Chasing 252, Georgia Voll's 101 helped the Aussies romp home with 83 balls to spare."
+    },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/cricket/story/rinku-singh-performs-father-khanchand-singh-last-rites-liver-cancer-2875465-2026-02-27",
@@ -354,27 +379,27 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/aquib-nabi-ranji-trophy-final-karnataka-vs-jammu-and-kashmir-sourav-ganguly-india-debut-2875352-2026-02-27",
-      "headline": "Auqib Nabi for IND vs ENG? Ganguly urges selectors after Ranji final heroics Auqib Nabi's five-wicket haul in the Ranji Trophy final has earned strong backing from Sourav Ganguly. The former India captain urged selectors to consider the J&K pacer for the England tour this summer."
+      "headline": "Auqib Nabi for IND vs ENG? Ganguly urges selectors after Ranji final heroicsAuqib Nabi's five-wicket haul in the Ranji Trophy final has earned strong backing from Sourav Ganguly. The former India captain urged selectors to consider the J&K pacer for the England tour this summer."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/sanju-samson-csk-chettan-t20-world-cup-2026-focus-ind-vs-zim-2875334-2026-02-27",
-      "headline": "Chennai's chettan can wait: Sanju Samson puts CSK buzz aside for T20 World Cup T20 World Cup: Sanju Samson was thankful for the loud cheers he got in Chennai, but isn't ready to lose focus on the T20 World Cup 2026. Samson said that he is keeping the CSK excitement aside to focus on India's goal of retaining their crown. "
+      "headline": "Chennai's chettan can wait: Sanju Samson puts CSK buzz aside for T20 World CupT20 World Cup: Sanju Samson was thankful for the loud cheers he got in Chennai, but isn't ready to lose focus on the T20 World Cup 2026. Samson said that he is keeping the CSK excitement aside to focus on India's goal of retaining their crown. "
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/rinku-singh-father-death-shaping-career-lpg-cylinder-distributor-liver-cancer-t20-world-cup-2875324-2026-02-27",
-      "headline": "Remembering Khanchand Singh: The father who shaped Rinku Singh's rise Rinku Singh's father, Khachandra Singh, passed away during India's T20 World Cup campaign after battling stage 4 liver cancer. The man who delivered gas cylinders in Aligarh played a defining role in shaping India's calm new-age finisher."
+      "headline": "Remembering Khanchand Singh: The father who shaped Rinku Singh's riseRinku Singh's father, Khachandra Singh, passed away during India's T20 World Cup campaign after battling stage 4 liver cancer. The man who delivered gas cylinders in Aligarh played a defining role in shaping India's calm new-age finisher."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/eng-vs-nz-super-8-match-preview-t20-world-cup-2026-pakistan-colombo-2875273-2026-02-27",
-      "headline": "ENG vs NZ: Pakistan hold their breath as New Zealand chase semi-final spot T20 World Cup: Pakistan will be keeping a close eye on the contest in Colombo as New Zealand and England lock horns in the Super 8 clash on Friday, February 27. A win for the Blackcaps will seal their spot and eliminate Pakistan from the tournament. "
+      "headline": "ENG vs NZ: Pakistan hold their breath as New Zealand chase semi-final spotT20 World Cup: Pakistan will be keeping a close eye on the contest in Colombo as New Zealand and England lock horns in the Super 8 clash on Friday, February 27. A win for the Blackcaps will seal their spot and eliminate Pakistan from the tournament. "
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-zim-t20-world-cup-shivam-dube-bowling-aakash-chopra-no-confidence-key-issue-2875254-2026-02-27",
-      "headline": "Shivam Dube's bowling lacks confidence: Ex-India batter flags key issue T20 World Cup: Aakash Chopra warned that Shivam Dube's bowling is becoming a concern for India. Ahead of the must-win clash against West Indies, fixing the sixth bowling option could prove crucial to their semi-final hopes."
+      "headline": "Shivam Dube's bowling lacks confidence: Ex-India batter flags key issueT20 World Cup: Aakash Chopra warned that Shivam Dube's bowling is becoming a concern for India. Ahead of the must-win clash against West Indies, fixing the sixth bowling option could prove crucial to their semi-final hopes."
     },
     {
       "sentiment": "positive",
@@ -440,31 +465,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/video/aiden-markram-south-africa-vs-west-indies-press-conference-2875118-2026-02-27",
       "headline": "Aiden Markram cautious despite South Africa's unbeaten run: Can't take things for grantedT20 World Cup 2026, SA vs WI: Aiden Markram said that South Africa can't take things for granted despite their unbeaten run in the tournament. On Thursday, the Proteas beat West Indies by nine wickets after which India's win over Zimbabwe helped them qualify for the semis. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/video/west-indies-vs-south-africa-t20-world-cup-shai-hope-super-8-semifinals-2875110-2026-02-26",
-      "headline": "West Indies will look to turn things around quickly against India: Shai HopeT20 World Cup, WI vs SA: Speaking to the reporters after the nine-wicket loss to South Africa, Shai Hope said that West Indies will look to bounce back when they face India in their must-win clash at the Eden Gardens in Kolkata."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/arshdeep-singh-becomes-indias-highest-wicket-taker-t20-world-cup-india-beats-zimbabwe-2875092-2026-02-26",
-      "headline": "Arshdeep Singh breaks Jasprit Bumrah's major record with 3-wicket haul vs ZimbabweArshdeep Singh became India's highest wicket-taker in T20 World Cup history during the Super 8 match against Zimbabwe. His record-breaking performance helped India secure a dominant 72-run victory and strengthened their semi-final hopes."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/t20-world-cup-2026-ind-vs-zim-super-8-avengers-assemble-chepauk-india-alive-semifinal-race-2875089-2026-02-26",
-      "headline": "IND vs ZIM: Avengers Assemble in Chennai as India storm back into semifinal raceIND vs ZIM, T20 World Cup Super 8: Forget solo acts. India's ensemble cast turned up the heat at Chepauk, plundering a record 256 to outclass Zimbabwe and reignite their T20 World Cup dreams in Chennai. Brian Bennett's valiant 97 went in vain as Zimbabwe lost by 72 runs.\u00a0"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-t20-world-cup-win-zimbabwe-keeps-semifinal-qualification-2875082-2026-02-26",
-      "headline": "Zimbabwe conquered. How can India qualify for T20 World Cup semis? ExplainedT20 World Cup, IND vs ZIM: Suryakumar Yadav's India defeated Zimbabwe by 72 runs at the MA Chidambaram Stadium on Thursday and will next face the West Indies on March 1 in a bid to secure a place in the semifinals."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/jos-buttler-t20-world-cup-2026-form-tim-southee-backs-england-star-2875025-2026-02-26",
-      "headline": "Jos Buttler's form a concern? Tim Southee backs England batter amid horrid formT20 World Cup, NZ vs ENG: Tim Southee has backed Jos Buttler to bounce back when England lock horns with New Zealand in their last Super 8 game on Friday in Colombo."
     }
   ],
   "education": [
