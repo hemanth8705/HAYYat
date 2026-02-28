@@ -103,6 +103,11 @@
   ],
   "entertainment": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/rajpal-yadav-launches-youtube-channel-after-release-on-bail-seeks-fans-support-2875833-2026-02-28",
+      "headline": "Rajpal Yadav launches YouTube channel after release on bail, seeks fans' support Rajpal Yadav has launched his official YouTube channel shortly after being released on interim bail in a cheque-bounce case."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/entertainment/ott/story/hello-bachchon-trailer-viineet-kumar-singh-leads-in-series-on-alakh-pandey-journey-2875824-2026-02-28",
       "headline": "Hello Bachchon trailer: Viineet Kumar toplines series on Alakh Pandey's journey The trailer for Hello Bachchon was unveiled on February 28, introducing a series inspired by educator Alakh Pandey. The Netflix show follows students from different backgrounds and premieres on March 6."
@@ -191,33 +196,28 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/malayalam-actor-2017-assault-case-kerala-government-challenges-dileep-acquittal-2875573-2026-02-27",
       "headline": "2017 Kerala actor assault case: State government challenges Dileep's acquittal The Kerala government has filed an appeal in the High Court challenging the acquittal of actor Dileep and three others. The state also sought stronger sentences for those already convicted in the 2017 actor assault case."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/boong-set-for-theatrical-release-check-date-when-bafta-winning-film-arrives-2875493-2026-02-27",
-      "headline": "Boong set for release. Check date when BAFTA-winning film arrives in theatres Farhan Akhtar announced the theatrical release date of his BAFTA-winning Manipuri film Boong. The Lakshmipriya Devi directorial won the award in Best Children's and Family Film category."
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/israel-iran-conflict-attack-state-of-emergency-explosions-tehran-us-warnings-2875811-2026-02-28",
-      "headline": "Live: Iran launches 30 rockets at Israel after US-Israel strikes against TehranUS-Israel Iran Strike Live Updates: The US and Israel launched strikes on Iran on Saturday, igniting military tensions in the Middle East, which has been on the brink of a conflict for several weeks. Israel said it had launched pre-emptive strikes while US President Donald Trump confirmed a \"major combat operation\" as explosions were heard in several parts of Iran. Tehran, on its part, issued a statement promising a \"crushing\" response as it prepared for retaliation. Follow indiatoday.in for live updates."
+      "headline": "Live: Iran hits US bases in Bahrain, Kuwait, UAE in retaliatory strikesUS-Israel's Iran Strikes Live Updates: The US and Israel launched strikes on Iran on Saturday, igniting military tensions in the Middle East, which has been on the brink of a conflict for several weeks. Israel said it had launched pre-emptive strikes while US President Donald Trump confirmed a \"major combat operation\" as explosions were heard in several parts of Iran. Tehran, on its part, issued a statement promising a \"crushing\" response as it prepared for retaliation. Follow indiatoday.in for live updates."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/explosions-rock-tehran-as-israel-launches-preventive-attack-on-iran-defence-minister-says-2875809-2026-02-28",
+      "headline": "US, Israel launch Operation Epic Fury against Iran; Tehran strikes back  Live UpdatesMassive explosions were heard in Tehran as Israel launched what it described as a preventive missile strike, amid escalating tensions between Washington and Tehran."
     },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/world/story/attempted-to-rebuild-its-nuclear-program-developing-missiles-trump-after-us-israels-joint-strike-on-iran-2875826-2026-02-28",
-      "headline": "Stand down or face death, Trump warns Iran in televised speech amid US strikesThe US President further mentioned that Iran was trying to rebuild its nuclear programme and, as a result, it suffered a joint attack by the US and Israel."
+      "headline": "Stand down or face death, Trump warns Iran in televised speech amid US strikesThe US President mentioned that Iran was trying to rebuild its nuclear programme and, as a result, it suffered a joint attack by the US and Israel."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/missiles-launched-from-iran-toward-israel-after-joint-us-israel-strike-on-tehran-says-israeli-military-2875832-2026-02-28",
-      "headline": "Missiles launched from Iran toward Israel after strike on Tehran: Israeli militaryThe Israel Defense Forces said missiles were launched from Iran toward Israel following a pre-emptive Israeli strike on Tehran. Air raid sirens sounded nationwide, and emergency alerts were sent directly to civilians' mobile phones instructing them to stay near protected spaces."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/explosions-rock-tehran-as-israel-launches-preventive-attack-on-iran-defence-minister-says-2875809-2026-02-28",
-      "headline": "US, Israel launch Operation Roar of the Lion against Iran; explosions rock Tehran  Live UpdatesMassive explosions were heard in Tehran as Israel launched what it described as a preventive missile strike, amid escalating tensions between Washington and Tehran."
+      "url": "https://www.indiatoday.in/world/story/us-israel-iran-attack-trump-regime-change-khamenei-target-2875847-2026-02-28",
+      "headline": "US-Israel strikes target Khamenei. Attack aimed at regime change?The first wave of US-Israel strikes was directed towards damaging the political leadership of Iran, as the President's residence and Ali Khamenei's office were targeted. It has led to questions if the US is aiming at regime change in Iran as it did in Venezuela."
     },
     {
       "sentiment": "positive",
@@ -226,13 +226,33 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/why-donald-trump-banned-anthropic-ai-firm-claude-2875802-2026-02-28",
-      "headline": "Spying, powering killer robots: Behind Trump's war with AI firm AnthropicA dispute over how the US military can use AI has Anthropic facing the full wrath of US President Donald Trump. The development is crucial amid the threat of a US-Iran conflict. But why has Trump suddenly gone nuclear on Anthropic? What comes next for the AI firm?\r\n"
+      "url": "https://www.indiatoday.in/sports/cricket/story/ranji-trophy-final-jammu-and-kashmir-beat-karnataka-maiden-title-auqib-nabi-qamran-iqbal-2875839-2026-02-28",
+      "headline": "Jammu and Kashmir dominate Karnataka to end 67-year wait for maiden Ranji titleJammu and Kashmir finally broke their 67-year wait to lift a maiden Ranji Trophy title. A commanding first-innings lead and complete control over five days ensured Karnataka were left with no path back in the 2026 final."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/iran-attack-us-israel-live-updates-trump-khamenei-what-we-know-2875818-2026-02-28",
       "headline": "All-out war as Iran fires missiles after US-Israel strikes. What we know so farThe US and Israel attacked Iran on Saturday in coordinated strikes. The strikes against Iran are being carried out by air and sea. Iran said it was preparing for retaliation."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/why-donald-trump-banned-anthropic-ai-firm-claude-2875802-2026-02-28",
+      "headline": "Spying, powering killer robots: Behind Trump's war with AI firm AnthropicA dispute over how the US military can use AI has Anthropic facing the full wrath of US President Donald Trump. The development is crucial amid the threat of a US-Iran conflict. But why has Trump suddenly gone nuclear on Anthropic? What comes next for the AI firm?\r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/trending-news/story/video-how-flights-cleared-iran-airspace-after-us-israel-strikes-2875835-2026-02-28",
+      "headline": "Video: How flights cleared Iran airspace after US-Israel strikesJoint US-Israel strikes on Iran triggered explosions in Tehran and led to the closure of Iranian airspace, as seen in a video that surfaced showing flights clearing out in the airspace after the attacks."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/news/story/cbse-class-12-chemistry-board-exam-2026-live-expert-tips-timings-analysis-rules-2875762-2026-02-28",
+      "headline": "Live: Experts call paper comfortable, moderate and scoringCBSE Chemistry Board Exam 2026 LIVE: The CBSE Class 12 Chemistry exam 2026 has concluded at 1:30 pm across centres in the country. In line with recent trends, the paper is expected to be moderate and scoring. Detailed paper analysis and expert review are now available, with students also sharing their reactions. Check full details and expert review here."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/smoke-seen-from-bahrains-juffair-area-housing-us-navy-base-reuters-reports-amid-escalating-tension-2875846-2026-02-28",
+      "headline": "Iranian missile hits US Navy's Fifth Fleet naval base in Bahrain amid rising tensionThe retaliation by Iran came after the country was hit by a joint military action by the United States and Iran."
     },
     {
       "sentiment": "positive",
@@ -246,38 +266,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/cbse-class-12-chemistry-board-exam-2026-live-expert-tips-timings-analysis-rules-2875762-2026-02-28",
-      "headline": "Live: Was the paper difficult? Experts answerCBSE Chemistry Board Exam 2026 LIVE: The CBSE Class 12 Chemistry exam 2026 has concluded at 1:30 pm across centres in the country. In line with recent trends, the paper is expected to be moderate and scoring. Detailed paper analysis and expert review are now available, with students also sharing their reactions. Check full details and expert review here."
+      "url": "https://www.indiatoday.in/india/story/air-india-delhi-tel-aviv-flight-turns-back-mid-air-as-israel-closes-airspace-amid-conflict-with-iran-2875834-2026-02-28",
+      "headline": "Air India Delhi-Tel Aviv flight returns as Israel shuts airspace amid Iran attackAirspace in both Israel and Iran has been shut after the United States and Israel launched strikes across Iran, including in the capital Tehran."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/exercise-utmost-caution-india-issues-advisory-for-citizens-in-iran-after-us-israel-joint-strikes-2875822-2026-02-28",
-      "headline": "Utmost caution: India issues advisory for citizens in Israel after strikes on IranIndian Embassy urges nationals in Israel to remain near shelters, avoid non-essential travel as regional tensions escalate following reported strikes on Iran."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/t20-world-cup-pakistan-qualification-scenario-semi-final-england-beat-new-zealand-2875684-2026-02-27",
-      "headline": "Pakistan still have an outside chance of reaching the T20 World Cup semisT20 World Cup Pakistan's semi final qualification scenario: England's four-wicket victory over New Zealand has kept Pakistan's semi-final hopes alive in the tournament. Here's the complete explanation of what Pakistan need to do to progress ahead in the event:"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/fashion/story/exclusive-what-went-behind-making-rashmika-vijays-heavy-gold-wedding-jewellery-2875759-2026-02-28",
-      "headline": "Exclusive: What went behind making Rashmika-Vijay's heavy gold wedding jewelleryHint: It took over 10 months to craft Rashmika Mandanna and Vijay Deverakonda's wedding jewellery, and the couple was deeply involved in the process."
+      "url": "https://www.indiatoday.in/world/story/missiles-launched-from-iran-toward-israel-after-joint-us-israel-strike-on-tehran-says-israeli-military-2875832-2026-02-28",
+      "headline": "Missiles and drones launched from Iran toward Israel after Tehran strike, says IRGCThe escalation by Iran follows what Israel described as a pre-emptive strike on Tehran, raising the prospect of a broader confrontation between the two regional adversaries."
     },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/odisha-woman-raped-twice-murder-jagatsinghpur-accused-arrested-2875758-2026-02-28",
       "headline": "Odisha woman raped by boyfriend during elopement plan, later killed by strangerThe woman was first raped by her boyfriend, who later abandoned her. She was then taken by a stranger to another location, where he raped her and pushed her from the fourth floor."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/pakistan-afghanistan-war-300-afghan-taliban-fighters-killed-operation-ghazab-lil-haq-pak-claims-global-powers-urge-restraint-2875794-2026-02-28",
-      "headline": "300 Afghan Taliban fighters killed, Pakistan claims as global powers urge restraint Live UpdatesThe escalation follows Pakistan's launch of Operation Ghazab lil-Haq after alleged cross-border attacks, even as the Afghan Taliban signalled willingness for dialogue. Multiple countries and international organisations have meanwhile called for immediate de-escalation between the two sides."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/air-india-delhi-tel-aviv-flight-turns-back-mid-air-as-israel-closes-airspace-amid-conflict-with-iran-2875834-2026-02-28",
-      "headline": "Air India Delhi-Tel Aviv flight returns as Israel shuts airspace amid Iran attackAir India Delhi-Tel Aviv flight turns back mid-air as Israel closes airspace amid conflict with Iran"
     },
     {
       "sentiment": "positive",
@@ -291,13 +291,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/jobs/story/zoho-founder-sridhar-vembu-reveals-list-of-10-jobs-that-are-safe-from-ai-and-pay-well-tchc-2875448-2026-02-27",
-      "headline": "Zoho founder Sridhar Vembu reveals list of 10 jobs that are safe from AI and pay wellZoho founder Sridhar Vembu says the AI era will force societies to rethink work, value, and purpose, with human-centred roles staying relevant even as machines take over productivity."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/fact-check/story/influencers-claim-cong-asked-them-to-defame-ai-summit-strangely-now-they-are-scrubbing-evidence-2875665-2026-02-27",
-      "headline": "Paid to defame AI Summit? Influencers accusing Congress now deleting videosJust after it ended, at least 15 content creators on Instagram alleged that the Congress offered them money to malign the India AI Impact Summit. But what really happened?"
+      "url": "https://www.indiatoday.in/india/story/exercise-utmost-caution-india-issues-advisory-for-citizens-in-iran-after-us-israel-joint-strikes-2875822-2026-02-28",
+      "headline": "Utmost caution: India issues advisory for citizens in Israel after strikes on IranIndian Embassy urges nationals in Israel to remain near shelters, avoid non-essential travel as regional tensions escalate following reported strikes on Iran."
     },
     {
       "sentiment": "positive",
@@ -306,21 +301,36 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/india-military-k9-military-dog-soldiers-fought-jammu-kashmir-counter-insurgency-operations-rvc-meerut-2875442-2026-02-28",
-      "headline": "The empty leash: The K9 dog soldiers who took bullets firstFrom counter-terror operations in Jammu and Kashmir to high-risk search missions across India, the dogs of the Indian military and paramilitary have always taken the lead, and have often paid with their lives while protecting the soldiers they serve beside. This write-up is a reminder of the wars they have fought for us."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/haryana-supplements-shop-attacked-lawrence-bishnoi-gang-cctv-footage-rohit-godara-rivalry-2875766-2026-02-28",
-      "headline": "3 Bishnoi gang shooters fire at Haryana supplements shop, attack caught on cameraThree armed men linked to the Lawrence Bishnoi gang opened fire at a supplements store in Haryana's Sonipat. Police suspect the shooting as a case of gang rivalry and identified two shooters based on the CCTV footage."
+      "url": "https://www.indiatoday.in/lifestyle/fashion/story/exclusive-what-went-behind-making-rashmika-vijays-heavy-gold-wedding-jewellery-2875759-2026-02-28",
+      "headline": "Exclusive: What went behind making Rashmika-Vijay's heavy gold wedding jewelleryHint: It took over 10 months to craft Rashmika Mandanna and Vijay Deverakonda's wedding jewellery, and the couple was deeply involved in the process."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/story/openai-to-run-ai-models-on-department-of-war-classified-networks-after-reaching-deal-amid-anthropic-row-2875748-2026-02-28",
-      "headline": "OpenAI reaches key deal with US Department of War amid Trump-Anthropic falloutOpenAI signed a deal with the Department of War to deploy its AI models on the department's classified networks, the firm's CEO Sam Altman said. The agreement comes amid rising tensions between the Pentagon and rival AI firm Anthropic over the military use of AI."
+      "url": "https://www.indiatoday.in/sports/cricket/story/t20-world-cup-pakistan-qualification-scenario-semi-final-england-beat-new-zealand-2875684-2026-02-27",
+      "headline": "Pakistan still have an outside chance of reaching the T20 World Cup semisT20 World Cup Pakistan's semi final qualification scenario: England's four-wicket victory over New Zealand has kept Pakistan's semi-final hopes alive in the tournament. Here's the complete explanation of what Pakistan need to do to progress ahead in the event:"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/pakistan-afghanistan-war-300-afghan-taliban-fighters-killed-operation-ghazab-lil-haq-pak-claims-global-powers-urge-restraint-2875794-2026-02-28",
+      "headline": "300 Afghan Taliban fighters killed, Pakistan claims as global powers urge restraint Live UpdatesThe escalation follows Pakistan's launch of Operation Ghazab lil-Haq after alleged cross-border attacks, even as the Afghan Taliban signalled willingness for dialogue. Multiple countries and international organisations have meanwhile called for immediate de-escalation between the two sides."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/jobs/story/zoho-founder-sridhar-vembu-reveals-list-of-10-jobs-that-are-safe-from-ai-and-pay-well-tchc-2875448-2026-02-27",
+      "headline": "Zoho founder Sridhar Vembu reveals list of 10 jobs that are safe from AI and pay wellZoho founder Sridhar Vembu says the AI era will force societies to rethink work, value, and purpose, with human-centred roles staying relevant even as machines take over productivity."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/formula-one/story/f1-return-india-karun-chandhok-buddh-circuit-2875838-2026-02-28",
+      "headline": "The lights went out too soon: Can India finally get Formula 1 right? India had Formula 1 for three years, then lost it to taxes, red tape, and short-termism. More than a decade on, the fight to bring it back is finally getting serious."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ranji-trophy-final-jammu-and-kashmir-beat-karnataka-maiden-title-auqib-nabi-qamran-iqbal-2875839-2026-02-28",
+      "headline": "Jammu and Kashmir dominate Karnataka to end 67-year wait for maiden Ranji title Jammu and Kashmir finally broke their 67-year wait to lift a maiden Ranji Trophy title. A commanding first-innings lead and complete control over five days ensured Karnataka were left with no path back in the 2026 final."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/t20-world-cup-india-pakistan-semi-final-qualification-scenario-mohammad-amir-2875823-2026-02-28",
@@ -364,12 +374,12 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/t20-world-cup-eng-vs-nz-mitchell-santner-nervous-pakistan-vs-sri-lanka-semi-final-hopes-2875742-2026-02-28",
-      "headline": "Nervous New Zealand will have eyes on PAK vs SL: Mitchell Santner on semi-final hopes T20 World Cup: New Zealand's semi-final hopes now hinge on Pakistan's final Super 8 result against Sri Lanka. After missing their own chance against England, the Kiwis can only wait nervously as qualification slipped out of their control."
+      "headline": "Nervous New Zealand will have eyes on PAK vs SL: Mitchell Santner on semi-final hopesT20 World Cup: New Zealand's semi-final hopes now hinge on Pakistan's final Super 8 result against Sri Lanka. After missing their own chance against England, the Kiwis can only wait nervously as qualification slipped out of their control."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-west-indies-t20-world-cup-2016-heartbreak-past-kolkata-super-8-semi-final-hopes-2875729-2026-02-28",
-      "headline": "2016 heartbreak in past, India look to return the favour to West Indies T20 World Cup, IND vs WI: Back in 2016, it was the West Indies who eliminated India with a thrilling semifinal victory. This time, India have the opportunity to turn the tables when the two teams meet in the Super 8 clash on March 1 in Kolkata."
+      "headline": "2016 heartbreak in past, India look to return the favour to West IndiesT20 World Cup, IND vs WI: Back in 2016, it was the West Indies who eliminated India with a thrilling semifinal victory. This time, India have the opportunity to turn the tables when the two teams meet in the Super 8 clash on March 1 in Kolkata."
     },
     {
       "sentiment": "positive",
@@ -460,16 +470,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/smriti-mandhana-ellyse-perry-reunite-hobart-rcb-womens-odi-2875428-2026-02-27",
       "headline": "Smriti Mandhana, Ellyse Perry reunite in Hobart, exchange smiles, friendly chatINDW vs AUSW: Smriti Mandhana and Ellyse Perry reunited in Hobart during the second Women's ODI on Friday, February 27, at Bellerive Oval. Perry missed the earlier matches in the series after sustaining a quad injury during the T20Is."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/video/ind-vs-zim-t20-world-cup-tilak-varma-gautam-gambhir-fearless-brand-press-conference-2875419-2026-02-27",
-      "headline": "Remember how to be fearless: How Gambhir got India batters firing again vs ZIMT20 World Cup: Tilak Varma revealed how Gautam Gambhir urged India to stick to fearless cricket before Zimbabwe clash. The message boosted confidence and played a key role in India's commanding Super 8 win."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-zimbabwe-t20-world-cup-varun-chakravarthy-concern-irfan-pathan-turnaround-2875412-2026-02-27",
-      "headline": "Varun Chakravarthy will bounce back in IND vs WI: Irfan Pathan back spinnerT20 World Cup: Irfan Pathan flagged Varun Chakravarthy's recent dip as a concern but backed him to bounce back. He believes Eden Gardens could help the mystery spinner regain rhythm in India's must-win clash vs West Indies."
     }
   ],
   "education": [
