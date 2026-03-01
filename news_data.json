@@ -1,6 +1,11 @@
 {
   "business": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/story/india-wont-face-immediate-oil-disruption-amid-iran-crisis-2876159-2026-03-01",
+      "headline": "Sufficient stock, India won't face immediate oil disruption amid Iran crisisIndia imports 88 per cent of its crude oil \u2013 the raw material for making fuels like petrol and diesel \u2013 and about half of its requirement for natural gas - the feedstock for generating electricity, producing fertiliser, fuel for household kitchens and CNG for automobiles \u2013 and cooking gas LPG."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/personal-finance/story/why-india-needs-indian-cibil-credit-score-framework-cibil-credit-bureau-rbi-data-sovereignty-financial-inclusion-thin-file-borrowers-2875815-2026-02-28",
       "headline": "India built UPI and Aadhaar, is it time for an Aatmanirbhar credit score too?A three-digit number may look small on paper. But for millions of Indians, it quietly decides how far they can go. India built digital infrastructure for identity (AADHAAR) and payment (UPI). The next question is whether credit deserves the same clarity and control."
@@ -89,11 +94,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/borge-brende-steps-down-as-president-and-ceo-of-world-economic-forum-after-epstein-revelations-2874873-2026-02-26",
       "headline": "World Economic Forum chief Borge Brende quits amid probe into Epstein tiesBorge Brende, President and CEO of the World Economic Forum, has stepped down amid scrutiny over his past interactions with Jeffrey Epstein. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/market/story/stock-market-closing-bell-sensex-nifty-lower-us-iran-conflict-it-stocks-rise-2874819-2026-02-26",
-      "headline": "Sensex and Nifty erase early gains to end flat over global uncertaintyThe S&P BSE Sensex lost 27.46 points to close at\u00a082,248.61, while the NSE Nifty50 gained 14.05 points to end at 25,496.55."
     }
   ],
   "entertainment": [
@@ -196,28 +196,33 @@
   "general news": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/senior-cleric-ayatollah-arafi-to-serve-as-interim-supreme-leader-after-ali-khamenei-killing-iran-news-agency-2876153-2026-03-01",
+      "headline": "Senior cleric Ayatollah Arafi named interim Supreme Leader after Khamenei killingKhamenei, 86, who had ruled Iran since 1989, was killed in a large US-Israel military strike on Saturday. The operation targeted military bases, government sites and senior leadership locations, including those linked to Defence Minister Amir Naserzadeh and commander-in-chief Mohammad Pakpour."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/israel-iran-conflict-attack-state-of-emergency-explosions-tehran-us-warnings-2875811-2026-02-28",
       "headline": "Live: Several explosions in Tehran after Israel launches fresh waves of missilesUS-Israel's Iran Strikes Live Updates: Iran on Sunday confirmed that Supreme Leader Ayatollah Ali Khamenei was killed at his office in US\u2013Israeli strikes on Tehran, a development that marks a major escalation in the conflict that began on Saturday. The claim followed coordinated attacks by the US and Israel, with Israel saying the US-led operation \u2014 codenamed Epic Fury \u2014 involved pre-emptive strikes. US President Donald Trump confirmed a \"major combat operation\" as explosions were reported across Iran. Tehran, which vowed a \"crushing\" response to the strikes, targeted US bases across the Middle East, including in the UAE, Bahrain, Qatar and Jordan. Several countries in the region shut their airspace, while governments issued advisories urging citizens to stay indoors and avoid unnecessary movement. Follow indiatoday.in for live updates."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/mob-attacks-us-consulate-with-sticks-stones-in-paks-karachi-over-khameneis-death-2876115-2026-03-01",
-      "headline": "12 killed in Karachi as American troopers at US consulate fire at pro-Khamenei mobThe protests erupted following the killing of Iran's Supreme Leader Ayatollah Ali Khamenei in joint US-Israel strikes, triggering anger among Shia groups across the city. Authorities used tear gas and imposed road closures as security forces prevented protesters from reaching the diplomatic mission."
+      "headline": "12 killed in Karachi as American troopers at US consulate fire at pro-Khamenei mobProtests erupted in Karachi and Lahore following the killing of Iran's Supreme Leader Ayatollah Ali Khamenei in joint US-Israel strikes, triggering anger among Shia groups across the city. Authorities used tear gas and imposed road closures as security forces prevented protesters from reaching the diplomatic mission."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/unite-your-forces-to-overthrow-the-regime-and-secure-your-future-netanyahus-new-message-for-iranians-2876149-2026-03-01",
-      "headline": "Unite your forces to overthrow the regime: Netanyahu's new message for IraniansWhile stating that regime change was not an official military objective, Netanyahu said ongoing strikes could create conditions for Iranians to take control of their future amid escalating regional tensions."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/go-back-to-your-senses-your-war-is-not-with-your-neighbours-uae-president-slams-iran-2876140-2026-03-01",
-      "headline": "Go back to your senses, your war is not with neighbours: UAE President warns IranPresident Mohammed bin Zayed Al Nahyan slammed Iran for targeting several provinces of the United Arab Emirates with its missiles."
+      "headline": "Unite your forces to overthrow the regime: Netanyahu's new message for IraniansWhile stating that regime change was not an official military objective, Benjamin Netanyahu said ongoing strikes could create conditions for Iranians to take control of their future amid escalating regional tensions."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/dubai-international-airport-damaged-in-iranian-overnight-attack-four-injured-2876052-2026-03-01",
       "headline": "Dubai airport, iconic Burj Al Arab hotel damaged in Iranian missile strikesOne of the terminals at the airport, normally one of the world's busiest aviation hubs, was damaged during an overnight Iranian attack that authorities publicly referred to only as an \"incident.\""
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/go-back-to-your-senses-your-war-is-not-with-your-neighbours-uae-president-slams-iran-2876140-2026-03-01",
+      "headline": "Return to your senses, your war is not with neighbours: UAE President warns IranPresident Mohammed bin Zayed Al Nahyan slammed Iran for targeting several provinces of the United Arab Emirates with its missiles."
     },
     {
       "sentiment": "positive",
@@ -231,13 +236,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-west-indies-t20-world-cup-preview-pitch-report-predicted-xi-semi-final-fight-kolkata-2876074-2026-03-01",
-      "headline": "West Indies, at home in Kolkata, stand between India and semifinalIND vs WI Preview, T20 World Cup: India are facing West Indies in a virtual knockout. Windies feel at home in Eden Gardens, having played two of their fixtures at the ground already. And they also have that one fond memory of 2016, where they beat England in the final of the tournament to clinch their second T20 World Cup."
+      "url": "https://www.indiatoday.in/sunday-special/story/insurance-mis-selling-in-india-human-cost-high-commissions-rbi-irdai-regulatory-lapses-2875939-2026-03-01",
+      "headline": "Insurance mis-selling hits families. But regulators kept ignoring it for yearsIt has taken India decades to see the seriousness and scale of insurance mis-selling for what it is. We tell you the stories of some people who suffered because of it, and why the problem was allowed to go unchecked for so long."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sunday-special/story/insurance-mis-selling-in-india-human-cost-high-commissions-rbi-irdai-regulatory-lapses-2875939-2026-03-01",
-      "headline": "Insurance mis-selling hits families. But regulators kept ignoring it for yearsIt has taken India decades to see the seriousness and scale of insurance mis-selling for what it is. We tell you the stories of some people who suffered because of it, and why the problem was allowed to go unchecked for so long."
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-west-indies-t20-world-cup-preview-pitch-report-predicted-xi-semi-final-fight-kolkata-2876074-2026-03-01",
+      "headline": "West Indies, at home in Kolkata, stand between India and semifinalIND vs WI Preview, T20 World Cup: India are facing West Indies in a virtual knockout. Windies feel at home in Eden Gardens, having played two of their fixtures at the ground already. And they also have that one fond memory of 2016, where they beat England in the final of the tournament to clinch their second T20 World Cup."
     },
     {
       "sentiment": "positive",
@@ -251,13 +256,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/brigadier-general-ahmad-vahidi-appointed-as-irans-elite-military-force-irgcs-new-commander-in-chief-report-2876073-2026-03-01",
-      "headline": "Brigadier General Ahmad Vahidi appointed as IRGC's new Commander-in-ChiefPrior to this, Vahidi served as the nation's Minister of Defence and Minister of Interior. He also held the position of Deputy Commander-in-Chief at the IRGC."
+      "url": "https://www.indiatoday.in/sports/cricket/story/t20-world-cup-content-creators-cringe-david-miller-reel-cupcake-ad-influencers-journalists-access-2876094-2026-03-01",
+      "headline": "When cricket took a backseat as cringe ads and influencers took overT20 World Cup: This is not about influencers versus journalists. It is about why access is being decided by follower count instead of understanding of the game."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/t20-world-cup-content-creators-cringe-david-miller-reel-cupcake-ad-influencers-journalists-access-2876094-2026-03-01",
-      "headline": "When cricket took a backseat as cringe ads and influencers took overT20 World Cup: This is not about influencers versus journalists. It is about why access is being decided by follower count instead of understanding of the game."
+      "url": "https://www.indiatoday.in/world/story/brigadier-general-ahmad-vahidi-appointed-as-irans-elite-military-force-irgcs-new-commander-in-chief-report-2876073-2026-03-01",
+      "headline": "Brigadier General Ahmad Vahidi appointed as IRGC's new Commander-in-ChiefPrior to this, Vahidi served as the nation's Minister of Defence and Minister of Interior. He also held the position of Deputy Commander-in-Chief at the IRGC."
     },
     {
       "sentiment": "positive",
@@ -271,11 +276,6 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/loud-blasts-heard-in-kabul-amid-clashes-between-afghanistan-pakistan-forces-2876058-2026-03-01",
-      "headline": "Loud blasts heard in Kabul amid clashes between Afghanistan, Pakistan forcesPakistan targeted multiple Afghan cities alleging militant safe havens, while the Taliban denied the claims and expressed willingness to resolve the crisis through dialogue. Both sides have reported casualties, though figures remain unverified."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/information/story/is-burj-khalifa-insured-against-war-damage-2876131-2026-03-01",
       "headline": "Is Burj Khalifa insured against war damage?Missiles launched by Iran over Dubai have raised questions about safety and insurance for landmarks like the Burj Khalifa. Here's a clear look at what's happened, what's covered, and what it means."
     },
@@ -285,14 +285,19 @@
       "headline": "Question Time: Weekly News QuizThink you read the headlines this week? Let's test that!"
     },
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/loud-blasts-heard-in-kabul-amid-clashes-between-afghanistan-pakistan-forces-2876058-2026-03-01",
+      "headline": "Loud blasts heard in Kabul amid clashes between Afghanistan, Pakistan forcesPakistan targeted multiple Afghan cities alleging militant safe havens, while the Taliban denied the claims and expressed willingness to resolve the crisis through dialogue. Both sides have reported casualties, though figures remain unverified."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/world/story/twenty-four-hours-conflict-west-asia-what-is-confirmed-so-far-israel-iran-tensions-us-strikes-khamenei-dead-osint-updates-2876102-2026-03-01",
       "headline": "24 Hours of conflict in west Asia: What is confirmed so farIndia Today's OSINT team answers the most-asked questions on the widening West Asia conflict, separating verified facts from speculation."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/information/story/delhi-igi-airport-flight-cancellations-amid-middle-east-airspace-crisis-2876101-2026-03-01",
-      "headline": "Travel chaos erupts as airlines cancel flights after US-Israel strikes on IranTravel chaos erupts as airlines cancel flights after US-Israel strikes on Iran, with Middle East airspace closures forcing widespread disruptions at Delhi IGI Airport and leaving thousands of passengers across South Asia stranded. Europe and gulf routes impacted as well. "
+      "url": "https://www.indiatoday.in/science/story/china-moon-landing-2030-nasa-artemis-2028-lunar-race-progress-china-manned-space-agency-science-news-2876129-2026-03-01",
+      "headline": "China races to land humans on Moon as Nasa revamps Artemis. Know moreChina announces steady advances in its crewed Moon mission with successful tests on lunar spacecraft, and a detailed 2026 space station schedule. "
     },
     {
       "sentiment": "positive",
@@ -301,21 +306,26 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/information/story/delhi-igi-airport-flight-cancellations-amid-middle-east-airspace-crisis-2876101-2026-03-01",
+      "headline": "Travel chaos erupts as airlines cancel flights after US-Israel strikes on IranTravel chaos erupts as airlines cancel flights after US-Israel strikes on Iran, with Middle East airspace closures forcing widespread disruptions at Delhi IGI Airport and leaving thousands of passengers across South Asia stranded. Europe and gulf routes impacted as well. "
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/education-today/news/story/iran-us-israel-conflict-disrupt-flights-84-pune-students-stranded-in-dubai-2876121-2026-03-01",
       "headline": "84 Pune MBA students stranded in Dubai as flights halt amid Iran-US-Israel crisisEighty-four MBA students from Pune's Indira School of Business Studies are stranded in Dubai after airspace closures linked to the escalating Iran-US-Israel conflict. Institute officials say all students and staff are safe, housed in a hotel, and efforts are underway to bring them back to India soon."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/vishnu-manchu-shares-missile-visuals-from-dubai-no-child-should-hear-war-2876084-2026-03-01",
-      "headline": "Actor Vishnu Manchu shares missile visuals from Dubai: No child should hear warVishnu Manchu shared a disturbing video of missiles lighting up the Dubai sky amid rising Middle East tensions. He revealed that the loud interceptions frightened his daughter."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/pv-sindhu-dubai-airport-explosion-coach-stranded-iran-attacks-vs-israel-usa-2876064-2026-03-01",
-      "headline": "Stranded PV Sindhu says explosion near Dubai airport, reveals frightening ordealStranded in Dubai, PV Sindhu revealed an explosion occurred near the airport where she was sheltering. The Olympic medallist described the moment as tense and frightening as she and her team await a safe return."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/video/ind-vs-wi-t20-world-cup-ryan-ten-doeschate-fire-with-fire-press-conference-2876157-2026-03-01",
+      "headline": "India will play fire with fire vs West Indies: Assistant coach Ryan ten Doeschate T20 World Cup: India assistant coach Ryan ten Doeschate emphasised that the side won't leave any stones unturned against West Indies during their upcoming T20 World Cup clash. The two sides will face each other in Kolkata in a fight for a semi-final spot."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/cricket/story/shree-charani-most-expensive-odi-spell-indian-spinner-runs-australia-hobart-2876150-2026-03-01",
+      "headline": "Shree Charani sets embarrassing ODI record for India with horror spell against Australia INDW vs AUSW, 3rd ODI: Shree Charani bowled the most expensive spell by an Indian spinner in ODIs with figures of 10-0-106-2 against Australia on Sunday at the Bellerive Oval in Hobart."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-wi-t20-world-cup-jasprit-bumrah-new-ball-dinesh-karthik-powerplay-plans-2876135-2026-03-01",
@@ -354,12 +364,12 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-west-indies-t20-world-cup-preview-pitch-report-predicted-xi-semi-final-fight-kolkata-2876074-2026-03-01",
-      "headline": "West Indies, at home in Kolkata, stand between India and semifinal IND vs WI Preview, T20 World Cup: India are facing West Indies in a virtual knockout. Windies feel at home in Eden Gardens, having played two of their fixtures at the ground already. And they also have that one fond memory of 2016, where they beat England in the final of the tournament to clinch their second T20 World Cup."
+      "headline": "West Indies, at home in Kolkata, stand between India and semifinalIND vs WI Preview, T20 World Cup: India are facing West Indies in a virtual knockout. Windies feel at home in Eden Gardens, having played two of their fixtures at the ground already. And they also have that one fond memory of 2016, where they beat England in the final of the tournament to clinch their second T20 World Cup."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/pak-vs-sl-t20-world-cup-sanath-jayasuriya-step-down-sri-lanka-head-coach-super-8-losses-2876067-2026-03-01",
-      "headline": "Jayasuriya to step down as Sri Lanka coach after forgetful T20 World Cup run? T20 World Cup: Sanath Jayasuriya hinted at stepping down after Sri Lanka's T20 World Cup exit but has not taken a final decision yet. The coach remains open to discussions with Sri Lanka Cricket before deciding his future."
+      "headline": "Jayasuriya to step down as Sri Lanka coach after forgetful T20 World Cup run?T20 World Cup: Sanath Jayasuriya hinted at stepping down after Sri Lanka's T20 World Cup exit but has not taken a final decision yet. The coach remains open to discussions with Sri Lanka Cricket before deciding his future."
     },
     {
       "sentiment": "positive",
@@ -445,16 +455,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-west-indies-ryan-ten-doeschate-pressure-kolkata-virat-rohit-2875964-2026-02-28",
       "headline": "First high-pressure clash without Virat and Rohit. Is new-look India ready?T20 World Cup 2026, IND vs WI: Speaking to the press on the eve of their must-win Super 8 match against the West Indies, assistant coach Ryan ten Doeschate said the Indian players are looking to embrace the pressure of the big contest rather than trying to brush it under the carpet. India will play a high-pressure match in an ICC event for the first time since Rohit Sharma and Virat Kohli retired from T20Is."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/t20-world-cup-pakistan-vs-sri-lanka-babar-azam-dropped-pallekele-2875963-2026-02-28",
-      "headline": "T20 World Cup: Pakistan drop Babar Azam for must-win clash vs Sri LankaT20 World Cup: With a spot in the semi-final on the line, Pakistan have decided to drop Babar Azam for the clash against Sri Lanka in Pallekele on Saturday, February 28. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/sachin-tendulkar-jammu-and-kashmir-ranji-trophy-maiden-title-reaction-2875910-2026-02-28",
-      "headline": "From enablers to champions: Tendulkar leads tributes to J&K after Ranji Trophy winSachin Tendulkar led the way with praises as Jammu and Kashmir won their maiden Ranji Trophy title on Saturday, February 28. J&K secured their title win after drawing the final after securing a first innings lead. "
     }
   ],
   "education": [
