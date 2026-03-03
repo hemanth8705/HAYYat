@@ -1,6 +1,11 @@
 {
   "business": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/market/story/dubai-safe-haven-under-threat-iran-israel-conflict-impact-billionaire-investors-real-estate-2876965-2026-03-03",
+      "headline": "Dubai caught in geopolitical storm. Will it hurt its billionaire-friendly image?According to the latest Henley & Partners Private Wealth Migration Report, at least 9,800 millionaires were projected to move to the UAE in 2025 alone.\u00a0"
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/story/india-trims-gas-supply-to-industries-after-qatar-halts-lng-production-report-2876920-2026-03-03",
       "headline": "India trims gas supply to industries after Qatar halts LNG production: ReportQatar halted its LNG production on Monday as Iran continued strikes in the Gulf in response to Israeli and US attacks. The situation has disrupted energy shipments and pushed up global fuel prices and shipping costs."
@@ -94,14 +99,14 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/market/story/larsen-and-toubro-share-price-tumbles-iran-us-israel-tensions-middle-east-exposure-2876391-2026-03-02",
       "headline": "L&T share price tumbles over 5%. Why is the stock falling today?L&T's slide highlights how surging crude and geopolitical uncertainty are unsettling infrastructure stocks, prompting investors to reassess cost risks and project visibility until conditions stabilise in conflict-hit regions."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/market/story/paras-defence-bel-data-patterns-bdl-defence-stock-rising-explained-2876376-2026-03-02",
-      "headline": "Paras Defence shares jump 12%: Why are defence stocks rising today?Defence stocks across the board were firm even as the rest of the market struggled with weak sentiment linked to rising crude prices and the worsening conflict involving Iran and the United States."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/anubhav-sinha-on-deepika-padukones-8-hour-shift-stance-why-create-controversy-2876937-2026-03-03",
+      "headline": "Anubhav Sinha on Deepika Padukone's 8-hour shift stance: Resolve disputes privately Filmmaker Anubhav Sinha weighed in on fixed working hours in Bollywood, a conversation that was started by actor Deepika Padukone. He advocated for professional agreements between actors and producers."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/saiyami-kher-reviews-taapsee-pannu-assi-one-of-the-most-important-films-2876939-2026-03-03",
@@ -125,7 +130,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/music/story/karan-aujla-pays-auto-rickshaw-fines-mumbai-p-pop-culture-india-tour-2876819-2026-03-03",
-      "headline": "Heart of gold: Karan Aujla's kind gesture for Mumbai auto drivers wins praise Punjabi singer Karan Aujla recently won hearts after he settled pending fines for two Mumbai auto rickshaw drivers, totaling Rs 22,000, ahead of his concert in the city. "
+      "headline": "Heart of gold: Karan Aujla's kind gesture for Mumbai auto drivers wins praise Punjabi singer Karan Aujla recently won hearts after he settled pending fines for two Mumbai auto rickshaw drivers, totalling Rs 22,000, ahead of his concert in the city. "
     },
     {
       "sentiment": "positive",
@@ -191,23 +196,33 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/kerala-story-2-box-office-collection-drops-rs-12-8-crore-net-day-4-legal-clearance-2876762-2026-03-03",
       "headline": "The Kerala Story 2 box office Day 4: Film sees dip, earns Rs 12.8 crore The Kerala Story 2: Goes Beyond, which released amid controversy, witnessed a significant drop compared to the first installment. The Hindi film's total earnings now stand at Rs 12.8 crore after four days."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/love-war-alia-bhatt-calls-working-with-sanjay-leela-bhansali-magical-shares-filming-update-2876780-2026-03-03",
-      "headline": "Love & War: Alia Bhatt calls working with Bhansali magical, shares filming update Alia Bhatt revealed that Love & War, directed by Sanjay Leela Bhansali, is nearing completion and described the experience as \"magical.\""
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/iran-state-media-says-death-toll-from-us-israel-strikes-rises-to-787-as-war-escalates-2876959-2026-03-03",
+      "headline": "Toll from US-Israel strikes on Iran rises to 787 amid escalation in Middle EastThe death toll from the US-Israeli strikes on Iran, which began on February 28, has risen to 787. The strikes, which resulted in the killing of Supreme Leader Ali Khamenei, has triggered retaliatory attacks by Tehran on US and Israeli bases across the Gulf."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/iran-israel-war-us-how-mossad-pinpointed-khamenei-for-strike-viral-theories-dental-implant-irgc-mole-2876930-2026-03-03",
+      "headline": "Spy dental chip to IRGC mole: Theories on how Mossad pinpointed Khamenei for strikeIran's Supreme Leader, Ayatollah Ali Khamenei, was killed in a US-Israeli air strike. Reports suggest that it was Israeli intelligence agency Mossad that pinpointed Khamenei's location for the hit. Now, wild theories are circulating about how Mossad might have got the Iranian leader's location."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/us-israel-attacks-iran-live-updates-middle-east-war-dubai-pakistan-tehran-khamenei-trump-gulf-2876296-2026-03-02",
-      "headline": "Live: Israel indicates no ground op in Iran, says 'not practical'US-Israel Iran Strikes Live Updates: The US\u2013Israel\u2013Iran conflict entered its fourth day with escalating strikes across the Middle East. The US launched air raids targeting Iran's government and military leadership, while Tehran retaliated by attacking American bases and interests in the Gulf, widening the crisis. US President Donald Trump refused to rule out deploying US ground troops, saying Washington is prepared for a prolonged campaign. Iran, however, said it would not bow to pressure but remains open to negotiations. Tehran also announced the closure of the Strait of Hormuz, warning that any vessel attempting to pass through the vital waterway would be set ablaze. Stay tuned to IndiaToday.in for the latest updates on the escalating military conflict in the Middle East."
+      "headline": "Live: Israel indicates no ground op in Iran, says 'not practical'US-Israel Iran Strikes Live Updates: The death toll from US-Israel strikes on Iran rose to 787 on Tuesday as the conflict entered its fourth day, with escalating attacks across the Middle East. The United States carried out air raids targeting Iran's government and military leadership, while Tehran retaliated by striking American bases and interests in the Gulf, widening the crisis. US President Donald Trump declined to rule out deploying ground troops, saying Washington is prepared for a prolonged campaign. Iran, however, said it would not bow to pressure but remains open to negotiations. Tehran also announced the closure of the Strait of Hormuz, warning that any vessel attempting to pass through the strategic waterway would be set ablaze. Stay tuned to IndiaToday.in for the latest updates on the escalating military conflict in the Middle East."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/india-pm-modi-choses-side-us-israel-iran-war-middle-east-strategy-2876887-2026-03-03",
       "headline": "Has India quietly chosen a side in US-Israel's war with Iran?The messaging from India on the US-Israel conflict with Iran seems to indicate a careful review of its decades-long balancing act. Neither has India condemned the strikes on Iran, a strategic partner, nor spoken on the killing of Iran's Supreme Leader Ali Khamenei. Has India already chosen a side in the war?"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/ayatollah-khamenei-india-interference-kashmir-caa-delhi-riots-iran-us-attack-2876929-2026-03-03",
+      "headline": "Was Ayatollah Khamenei India's friend?Ayatollah Ali Khamenei repeatedly commented on India's internal matters \u2013 from Kashmir to the CAA, Delhi riots and comparisons with Gaza \u2013 prompting diplomatic protests from New Delhi."
     },
     {
       "sentiment": "negative",
@@ -221,23 +236,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/ayatollah-khamenei-india-interference-kashmir-caa-delhi-riots-iran-us-attack-2876929-2026-03-03",
-      "headline": "Was Ayatollah Khamenei's India's friend?Ayatollah Ali Khamenei repeatedly commented on India's internal matters \u2013 from Kashmir to the CAA, Delhi riots and comparisons with Gaza \u2013 prompting diplomatic protests from New Delhi."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/pakistan-airstrikes-devastate-afghanistans-bagram-air-base-taliban-tensions-2876938-2026-03-03",
-      "headline": "Pak strikes Bagram Air Base in Afghanistan, satellite pics capture damageSatellite photos obtained by The New York Times show that the Pakistani military hit Bagram Air Base, signalling a sharp escalation in its war with Afghanistan and hitting one of the Taliban administration's most valued military assets. Bagram once served as the largest US military base in Afghanistan."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/cant-evacuate-make-own-plans-us-embassy-in-israel-to-americans-as-iran-war-rages-2876931-2026-03-03",
-      "headline": "Can't evacuate, make own plans: US Embassy in Israel to Americans as Iran war ragesThe embassy stated it is not currently in a position to evacuate or directly assist private U.S. citizens in departing Israel, urging individuals to make their own security plans."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/science/story/lunar-eclipse-2026-live-updates-timings-india-chandra-grahan-sutak-kaal-blood-moon-science-news-india-today-astronomy-news-space-2876877-2026-03-03",
-      "headline": "Lunar Eclipse 2026: Blood Moon to rise in India shortlyThe world is set to witness the first lunar eclipse of the year today. The Moon will turn fiery red. Follow this live blog on India Today Science for the latest updates on the lunar eclipse, also known as the Blood Moon. Find the exact chandra grahan timings in India and tips on how to watch it."
+      "headline": "Blood Moon 2026 LIVE: Rare lunar eclipse rises in India. WATCHThe world is set to witness the first lunar eclipse of the year today. The Moon will turn fiery red. Follow this live blog on India Today Science for the latest updates on the lunar eclipse, also known as the Blood Moon. Find the exact chandra grahan timings in India and tips on how to watch it."
     },
     {
       "sentiment": "positive",
@@ -246,8 +246,43 @@
     },
     {
       "sentiment": "negative",
+      "url": "https://www.indiatoday.in/technology/news/story/claude-goes-offline-twice-in-24-hours-after-us-labels-anthropic-as-supply-risk-heres-what-went-wrong-2876951-2026-03-03",
+      "headline": "Claude goes offline twice in 24 hours after US labels Anthropic as supply riskClaude went offline twice within 24 hours after the US Government labelled Anthropic as a \"supply chain risk\" mandating all federal agencies to stop using the chatbot immediately."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/us-news/story/indian-american-voter-atlas-anang-mittal-demographic-data-economic-status-michigan-texas-new-york-2873400-2026-03-03",
+      "headline": "New Voter Atlas launched to track Indian-American voters, counter racial rhetoricIndian-origin US political strategist Anang Mittal has created a new freely accessible online platform compiling publicly available data on the Indian-American community. Titled the Indian American Voter Atlas, it seeks to provide policymakers with a consolidated database on various aspects of Indian-origin citizens in the US to help understand their civic and political influence, as well as counter-racist rhetoric."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/pakistan-airstrikes-devastate-afghanistans-bagram-air-base-taliban-tensions-2876938-2026-03-03",
+      "headline": "Pak strikes Bagram Air Base in Afghanistan, satellite pics capture damageSatellite photos obtained by The New York Times show that the Pakistani military hit Bagram Air Base, signalling a sharp escalation in its war with Afghanistan and hitting one of the Taliban administration's most valued military assets. Bagram once served as the largest US military base in Afghanistan."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/vijay-deverakonda-rashmika-mandanna-sangeet-emotional-laughter-surprises-wedding-2876813-2026-03-03",
+      "headline": "Laughs, tears and surprises: Inside Rashmika Mandanna-Vijay Deverakonda's sangeetVijay Deverakonda and Rashmika Mandanna shared heartfelt moments during their sangeet ceremony. Their joyous celebrations featured emotional speeches, romantic dances and stunning outfits, setting the tone for their wedding."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/impact-feature/story/robotic-knee-replacement-makes-recovery-faster-and-smoother-2873652-2026-02-24",
+      "headline": "How Robotic Knee Replacement is Redefining the Journey Back to MobilityEarly consultation with an orthopaedic specialist is essential. Delaying surgery in severe cases can lead to worsening deformity and reduced functional outcomes."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/cant-evacuate-make-own-plans-us-embassy-in-israel-to-americans-as-iran-war-rages-2876931-2026-03-03",
+      "headline": "Can't evacuate, make own plans: US Embassy in Israel to Americans as Iran war ragesThe embassy stated it is not currently in a position to evacuate or directly assist private U.S. citizens in departing Israel, urging individuals to make their own security plans."
+    },
+    {
+      "sentiment": "negative",
       "url": "https://www.indiatoday.in/world/story/magnitude-43-earthquake-hits-irans-gerash-amid-escalating-israeli-us-attacks-2876925-2026-03-03",
       "headline": "Magnitude 4.3 earthquake hits Iran's Gerash amid escalating Israeli-US attacksThe earthquake comes amid raging regional hostilities as the US and Israel have escalated attacks against Iran. There were no immediate reports of significant damage or casualties."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/lunar-eclipse-blood-moon-sphere-las-vegas-sphere-live-updates-2026-2876932-2026-03-03",
+      "headline": "Watch: Las Vegas Sphere turns blood-red ahead of rare lunar eclipseThe Las Vegas Sphere has turned into a giant Blood Moon to mark the total lunar eclipse. Learn why the Moon turns red and how to watch this celestial event.\r\n"
     },
     {
       "sentiment": "positive",
@@ -256,18 +291,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/jobs/story/rs-1-crore-campus-offers-rare-at-iit-bombay-median-salary-explained-2876852-2026-03-03",
+      "url": "https://www.indiatoday.in/jobs/story/rs-1-crore-campus-offers-rare-at-iit-bombay-median-salary-explained-educ-2876852-2026-03-03",
       "headline": "Rs 1 crore package in placement, but what is the real take-home?Rs 1 crore packages in campus placements are often headline grabbers but not common. Most graduates receive modest salaries with complex compensation structures affecting take-home pay."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/vijay-deverakonda-rashmika-mandanna-sangeet-emotional-laughter-surprises-wedding-2876813-2026-03-03",
-      "headline": "Laughs, tears and surprises: Inside Rashmika Mandanna-Vijay Deverakonda's sangeetVijay Deverakonda and Rashmika Mandanna shared heartfelt moments during their sangeet ceremony. Their joyous celebrations featured emotional speeches, romantic dances and stunning outfits, setting the tone for their wedding."
     },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/world/story/us-embassies-in-saudi-kuwait-bahrain-jordan-shut-iran-conflict-escalates-american-citizens-security-alert-2876922-2026-03-03",
       "headline": "US Embassies in Saudi, Kuwait, Bahrain, Jordan shut as Iran conflict escalatesThe United States has closed multiple embassies and ordered the evacuation of non-emergency personnel across parts of the Gulf after Iranian drone attacks targeted the US Embassy in Riyadh."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/lifestyle/what-s-hot/story/kidulting-this-holi-grown-ups-spend-adult-money-on-super-cool-pichkaris-2876792-2026-03-03",
+      "headline": "Kidulting this Holi: Grown-ups spend 'adult money' on super-cool pichkarisNot just kids, but grown-ups are splurging, spending what they jokingly call their 'adult money' on the coolest designs they can find."
     },
     {
       "sentiment": "positive",
@@ -281,46 +316,26 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/lunar-eclipse-blood-moon-sphere-las-vegas-sphere-live-updates-2026-2876932-2026-03-03",
-      "headline": "Watch: Las Vegas Sphere turns blood-red ahead of rare lunar eclipseThe Las Vegas Sphere has turned into a giant Blood Moon to mark the total lunar eclipse. Learn why the Moon turns red and how to watch this celestial event.\r\n"
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/maharashtra/story/why-congress-is-pushing-hard-for-maharashtras-lone-rajya-sabha-seat-2876840-2026-03-03",
       "headline": "Why Congress is pushing hard for Maharashtra's lone Rajya Sabha seatWith 72 Rajya Sabha seats falling vacant this year, the Congress party faces a crucial test of numbers that could determine whether it retains the Leader of Opposition (LoP) position. With the retirement of senior Congress leaders shortly and the party falling short of the threshold numbers to fetch the LoP post, negotiations have begun. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/israel-hacked-tehrans-traffic-cameras-mobile-networks-to-track-khamenei-ft-2876766-2026-03-03",
-      "headline": "From traffic cameras to phone networks, how Israel tracked Khamenei: Financial TimesNearly all traffic cameras in Tehran had allegedly been compromised for years, the Financial Times reported, adding that even the mobile phone systems were infiltrated to track Iran's Supreme Leader Ayatollah Ali Khamenei. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/market/story/holi-2026-stock-market-holiday-why-nse-bse-closed-march-3-is-market-open-march-4-2876901-2026-03-03",
-      "headline": "Why is stock market closed today when people are celebrating Holi on March 4?The Bombay Stock Exchange (BSE) and the National Stock Exchange (NSE) have declared March 3 as the official trading holiday for Holi 2026 in their annual calendar. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/what-s-hot/story/kidulting-this-holi-grown-ups-spend-adult-money-on-super-cool-pichkaris-2876792-2026-03-03",
-      "headline": "Kidulting this Holi: Grown-ups spend 'adult money' on super-cool pichkarisNot just kids, but grown-ups are splurging, spending what they jokingly call their 'adult money' on the coolest designs they can find."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/silence-on-khameneis-killing-not-neutral-but-abdication-sonia-gandhi-slams-govt-2876801-2026-03-03",
-      "headline": "Sonia Gandhi slams govt for 'silence' on Khamenei killing, calls it abdicationThe former Congress president also demanded that when Parliament reconvenes for the second part of the Budget session, the government's \"disturbing silence\" over the breakdown of international order must be debated openly and without evasion."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/thank-you-for-helping-us-video-shows-kuwaiti-man-seen-helping-downed-us-pilot-f-15-jet-crash-friendly-fire-incident-middle-east-conflict-2876838-2026-03-03",
-      "headline": "You're safe: Kuwaiti man seen helping downed US pilot after friendly fire incidentThe Pentagon on Monday confirmed that three F-15 Strike Eagles taking part in operations against Iran were \"mistakenly\" shot down by Kuwaiti air defence systems earlier in the day. All six crew members ejected safely and are in stable condition, US Central Command said."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/iran-strategy-attacking-gulf-countries-pressure-us-israel-2876817-2026-03-03",
-      "headline": "Iran's war is with US, Israel. But why are Gulf states being attacked?Over the course of 4 days, Iran has launched a barrage of missiles targeting at least nine Gulf countries and US military bases located there. What's behind the move? Will it pay dividends for Iran?"
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/gautam-gambhir-rinku-singh-tribute-father-death-india-west-indies-t20-world-cup-2876973-2026-03-03",
+      "headline": "Gautam Gambhir salutes Rinku Singh's courage for turning up after personal tragedy Gautam Gambhir delivered an emotional tribute to Rinku Singh in a team huddle, praising him for rejoining the squad days after his father's death ahead of India's clash against the West Indies."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/abhishek-sharma-india-vs-england-t20-world-cup-2026-semi-final-manoj-tiwary-2876972-2026-03-03",
+      "headline": "Abhishek Sharma needs to change mindset: EX-IND batter slams opener after WI flopshow T20 World Cup: Former India batter Manoj Tiwary has asked Abhishek Sharma to tweak his mindset a bit after his slump in form continued in the T20 World Cup 2026. Abhishek was dismissed for 10 off 11 balls in Kolkata. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-virat-kohli-sons-ahaan-akaay-viral-video-2027-odi-world-cup-2876955-2026-03-03",
+      "headline": "Father time for Ro-Ko: Rohit Sharma, Virat Kohli embrace dad duties, videos go viral Rohit Sharma and Virat Kohli are embracing the roles of doting fathers perfectly as the duo were seen spending time with their sons, Ahaan and Akaay, respectively. "
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/travis-head-defends-australia-commitment-t20-world-cup-exit-2876944-2026-03-03",
@@ -364,12 +379,12 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/formula-one/story/atiqa-mir-historic-podium-finish-european-cotfa-karting-india-2876823-2026-03-03",
-      "headline": "Atiqa dazzles in Europe, becomes 1st Indian to get podium in COTFA series Atiqa Mir made history by finishing third overall in the opening round of the Champions of the Future Academy karting series in Europe. The 11-year-old, racing in the OKNJ junior category, delivered strong performances across the weekend despite penalties and setbacks."
+      "headline": "Atiqa dazzles in Europe, becomes 1st Indian to get podium in COTFA seriesAtiqa Mir made history by finishing third overall in the opening round of the Champions of the Future Academy karting series in Europe. The 11-year-old, racing in the OKNJ junior category, delivered strong performances across the weekend despite penalties and setbacks."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/the-hundred-auction-14-pakistan-players-haris-rauf-indian-owners-shadow-ban-row-2876822-2026-03-03",
-      "headline": "14 Pakistan players in The Hundred auction list: Will Indian owners buy them? Haris Rauf is among the 14 Pakistani men's cricketers in the 247-player auction list for this year's Hundred, amid reports that Indian-owned franchises could refrain from signing players from across the border."
+      "headline": "14 Pakistan players in The Hundred auction list: Will Indian owners buy them?Haris Rauf is among the 14 Pakistani men's cricketers in the 247-player auction list for this year's Hundred, amid reports that Indian-owned franchises could refrain from signing players from across the border."
     },
     {
       "sentiment": "positive",
@@ -455,21 +470,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/t20-world-cup-india-vs-west-indies-sanju-samson-irfan-pathan-2876451-2026-03-02",
       "headline": "Justice by Samson: Irfan Pathan says wicketkeeper reminded everyone of KohliT20 World Cup: Irfan Pathan said that Sanju Samson reminded everyone of Virat Kohli with his knock in the India vs West Indies clash on Sunday, March 1. Samson's knock helped India reach the semi-finals of the T20 World Cup. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-recalls-2007-final-favourite-india-pakistan-t20-world-cup-clash-2876518-2026-03-02",
-      "headline": "Rohit Sharma rates 2007 final as his favourite India-Pakistan clashIndia's great Rohit Sharma relived some of his fondest memories from past T20 World Cup clashes against Pakistan, reflecting on a rivalry that has defined the tournament over the years."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/t20-world-cup-india-vs-west-indies-sanju-samson-sourav-ganguly-kolkata-2876512-2026-03-02",
-      "headline": "Sanju Samson should be a regular in India's white-ball setup: Sourav GangulyT20 World Cup: Sourav Ganguly heaped praise on Sanju Samson for his match-winning knock against the West Indies on Sunday, March 1. Samson was the star of the show as India won the match by five wickets. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/bcci-approaches-harbhajan-singh-zaheer-khan-coe-specialist-camps-2876510-2026-03-02",
-      "headline": "After talks with Zaheer Khan, BCCI approaches Harbhajan Singh for off-spinners campBCCI has approached former India greats Zaheer Khan and Harbhajan Singh for specialised camps at the Centre of Excellence in Bengaluru. VVS Laxman initiated talks to help groom the next generation."
     }
   ],
   "education": [
