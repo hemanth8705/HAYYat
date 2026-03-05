@@ -1,6 +1,11 @@
 {
   "business": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/how-companies-can-use-ai-safely-ai-governance-shadow-ai-enterprise-security-2877500-2026-03-05",
+      "headline": "How companies can embrace AI without losing controlAlmost every major organisation now uses AI in customer-facing products. But this rapid adoption has exposed an uncomfortable truth. Governance frameworks have not kept pace with the speed of innovation."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/market/story/stock-market-crash-sensex-ends-1100-points-nifty-tumlbes-us-iran-israel-war-2877398-2026-03-04",
       "headline": "Sensex falls 1,110 points, Nifty below 24,500; Tata Steel tumbles 7%The BSE Sensex fell 1,122.66 points, or 1.40%, to close at 79,116.19, while the Nifty 50 declined 385.20 points to settle at 24,480.50."
@@ -94,14 +99,24 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/commodities/story/oil-prices-surge-us-israel-iran-conflict-strait-of-hormuz-supply-risk-commodity-buying-2876844-2026-03-03",
       "headline": "Oil climbs for third day as US-Israel conflict with Iran threatens supplyThe main concern in the market remains the Strait of Hormuz, a narrow waterway through which about 20% of the world's oil and gas supply passes."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/market/story/holi-2026-stock-market-holiday-is-nse-bse-open-or-closed-march-3-mcx-timings-2876785-2026-03-03",
-      "headline": "Holi 2026: Is stock market open or closed today?The stock market is closed on March 3, on account of Holi 2026. While the exchanges have declared the holiday for Tuesday, the festival of colours will be observed across many parts of the country on Wednesday, March 4."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/bts-comeback-live-seoul-arirang-album-netflix-documentary-2877501-2026-03-05",
+      "headline": "Seven together, we can do anything: BTS's comeback promo ahead of Netflix premiere BTS is set to return with a live performance in Seoul on March 21, alongside the release of their fifth studio album ARIRANG and a behind-the-scenes documentary capturing their comeback."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/hbo-keen-on-collaborating-aryan-khan-after-the-bads-of-bollywood-source-2877496-2026-03-05",
+      "headline": "HBO keen on collaborating with Aryan Khan after The Ba***ds of Bollywood: Source Following the success of The Ba***ds of Bollywood, India Today has exclusively learnt that Aryan Khan has been approached by HBO, after expressing keen interest in collaborating with the director."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/music/story/liam-paynes-death-impact-harry-styles-one-direction-music-community-2877492-2026-03-05",
+      "headline": "I really struggled: Harry Styles on losing Liam Payne and its impact on his life In a recent interview, Harry Styles discussed the death of former One Direction bandmate Liam Payne, sharing his grief and personal reflections. The singer even addressed the circumstances of Payne's death and its influence on his outlook."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/stressed-out-lara-dutta-stranded-in-dubai-with-husband-mahesh-bhupathi-daughter-2877456-2026-03-04",
@@ -181,28 +196,23 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/hollywood/story/iranian-german-actor-elnaaz-norouzi-highlights-irans-multicultural-history-calls-for-democracy-2877378-2026-03-04",
       "headline": "Actor Elnaaz Norouzi on Iran: Like India, it was diverse and not solely Islamic Iranian-German actor Elnaaz Norouzi compared Iran's past to India's diversity and spoke of democracy, identity and fear of returning home. Her remarks have sparked fresh debate.\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/vijay-crishna-srks-devdas-co-actor-dies-at-81-anupam-kher-pays-tribute-2877340-2026-03-04",
-      "headline": "Vijay Crishna, SRK's Devdas co-actor, dies at 81; Anupam Kher pays tribute Shah Rukh Khan's Devdas co-actor Vijay Crishna died at the age of 81. Anupam Kher, Lillete Dubey and others paid emotional tributes to the late actor."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/the-kerala-story-2-row-vipul-shah-hits-back-at-sudipto-sen-defends-cbfc-clearance-2877343-2026-03-04",
-      "headline": "The Kerala Story 2 producer Vipul Shah slams Sudipto Sen criticism: Grapes are sour The Kerala Story 2 has stirred fresh controversy with producer Vipul Amrutlal Shah firmly rejecting criticisms about the film's research and certification. Despite disputes and legal questions, the sequel has successfully hit Indian theatres."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/rajpal-yadav-denies-crying-in-court-calls-social-media-reports-imaginary-2877338-2026-03-04",
-      "headline": "Rajpal Yadav denies crying in court, calls social media reports imaginary Actor Rajpal Yadav dismissed reports claiming he cried in court or said he had no money, calling them \"imaginary stories\". The actor was arrested and later released on bail in a 2012 cheque-bounce case."
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/were-in-a-very-strong-position-donald-trump-rates-iran-war-effort-15-out-of-10-2877485-2026-03-05",
-      "headline": "We're in a very strong position: Trump rates Iran war effort 15 out of 10Donald Trump said US forces are gaining the upper hand in the war with Iran, claiming Tehran's leadership and missile arsenal are being rapidly destroyed as the conflict intensifies.\r\n"
+      "headline": "15 out of 10: Trump rates Iran war effort as conflict kills over 1,000 IraniansDonald Trump said US forces are gaining the upper hand in the war with Iran, claiming Tehran's leadership and missile arsenal are being rapidly destroyed as the conflict intensifies.\r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/nepal-general-elections-first-after-gen-z-protests-toppled-kp-sharma-oli-government-sushila-karki-2877497-2026-03-05",
+      "headline": "Nepal votes in crucial polls months after Gen Z protests toppled KP Sharma Oli govtMore than 18.9 million eligible voters are set to elect Nepal's 275-member House of Representatives in what is being seen as a referendum on the old guard versus the young Gen Z electorate that took to the streets last September in protests that toppled the coalition government led by KP Sharma Oli."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/us-israel-iran-war-live-updates-middle-east-tension-crisis-beirut-uae-qatar-bahrain-trump-netanyahu-irgc-2877215-2026-03-04",
+      "headline": "Live: Blasts rock Jerusalem, central Israel as Iran launches fresh wave of missilesUS-Israel-Iran War Live Updates: The armed conflict between Iran and the joint front of Israel and the US continues to widen and spread across the Middle East as no immediate pause in fighting appears on the horizon. The US Senate, dominated by Republicans, on Wednesday (local time) blocked an attempt to rein in President Donald Trump's war against Iran. In another development, Israel carried out a fresh strike on targets in the Iranian capital of Tehran, per the Israeli military. Meanwhile, in Washington, White House Press Secretary Karoline Leavitt asserted that whenever Trump makes a 'threat', it is not a bluff, adding that his words are backed by 'the mightiest warriors in the world.' Follow IndiaToday.in for live updates on the ongoing Middle East conflict."
     },
     {
       "sentiment": "positive",
@@ -211,18 +221,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/us-israel-iran-war-live-updates-middle-east-tension-crisis-beirut-uae-qatar-bahrain-trump-netanyahu-irgc-2877215-2026-03-04",
-      "headline": "Live: US Senate backs Trump on Iran strikes, blocks bid to limit his war powersUS-Israel-Iran War Live Updates: The armed conflict between Iran and the joint front of Israel and the US continues to widen and spread across the Middle East as no immediate pause in fighting appears on the horizon. The US Senate, dominated by Republicans, on Wednesday (local time) blocked an attempt to rein in President Donald Trump's war against Iran. In another development, Israel carried out a fresh strike on targets in the Iranian capital of Tehran, per the Israeli military. Meanwhile, in Washington, White House Press Secretary Karoline Leavitt asserted that whenever Trump makes a 'threat', it is not a bluff, adding that his words are backed by 'the mightiest warriors in the world.' Follow IndiaToday.in for live updates on the ongoing Middle East conflict."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/bihar/story/rajya-sabha-elections-2026-nitish-kumar-likely-rajya-sabha-pick-intense-jdu-activity-fuels-bihar-cm-buzz-2877405-2026-03-04",
-      "headline": "Nitish Kumar's Rajya Sabha nomination today, Bihar may get new BJP CMThe move hints at a potential change in the state's political future. Speculations are high that the BJP might opt for the Chief Minister's post once Kumar gets elected to the Rajya Sabha."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/fashion/story/rashmika-mandanna-vijay-deverakomda-mysore-silk-saree-and-ivory-veshti-hyderabad-reception-2877448-2026-03-04",
-      "headline": "In Mysore Silk saree and ivory veshti, Rashmika-Vijay go traditional at receptionRashmika Mandanna and Vijay Deverakonda's reception look was minimal yet brimming with subtle traditional and cultural details."
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/rashmika-vijay-greet-paps-pose-with-family-at-star-studded-hyderabad-reception-2877430-2026-03-04",
+      "headline": "Kriti Sanon, Karan Johar and Homi Adajania attend Rashmika-Vijay's receptionRashmika Mandanna and Vijay Deverakonda greeted the photographers at their invitation-only wedding reception in Hyderabad. Kriti Sanon, Karan Johar and Homi Adajania also attended the event."
     },
     {
       "sentiment": "negative",
@@ -230,9 +230,9 @@
       "headline": "Russia says ready to ship 9.5 million oil barrels to India amid supply crisisIndia has witnessed a vulnerability in terms of its crude reserves, following the breakout of the Middle East crisis. At present, it has crude stocks covering 25 days of demand along with low inventories of gasoil, petrol, and liquefied petroleum."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/watch-karoline-leavitt-erupts-at-cnns-kaitlan-collins-in-fiery-briefing-clash-2877484-2026-03-05",
-      "headline": "Watch: Leavitt erupts at CNN reporter in fiery clash over troop deathsWhite House Press Secretary Karoline Leavitt clashed with CNN's Kaitlan Collins during a heated briefing exchange over media coverage of US troops killed in the Iran conflict and criticism of Defense Secretary Pete Hegseth."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/bihar/story/rajya-sabha-elections-2026-nitish-kumar-likely-rajya-sabha-pick-intense-jdu-activity-fuels-bihar-cm-buzz-2877405-2026-03-04",
+      "headline": "Nitish Kumar's Rajya Sabha nomination today, Bihar may get new BJP CMBihar is expected to witness a major political transition as Chief Minister Nitish Kumar is set to file his nomination for the Rajya Sabha election on Thursday. This development could potentially clear the path for the formation of the state's first BJP-led government."
     },
     {
       "sentiment": "positive",
@@ -241,28 +241,28 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/south-africa-vs-new-zealand-match-report-highlights-finn-allen-t20-world-cup-2877447-2026-03-04",
+      "headline": "Eden haunts South Africa again as Finn Allen storms Kiwis into T20 World Cup finalUnbeaten till the semi-final, South Africa were knocked out of the T20 World Cup by New Zealand. The Aiden Markram side failed with both bat and ball and ended up losing at Eden Gardens by 9 wickets."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/nepal-general-election-kp-sharma-oli-gen-z-protests-balen-shah-prachanda-contenders-2877506-2026-03-05",
+      "headline": "Nepal votes in first polls after Gen Z stir: Top contenders and what's at stake?Nepal, which witnessed Gen Z protests that led to the ouster of Prime Minister KP Sharma Oli's government six months ago, is voting in a crucial election that will determine the future of the Himalayan nation's fragile democracy. Read on to know who are the top contenders and what's at stake."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/trump-global-tariffs-may-jump-to-15-per-cent-this-week-treasury-secretary-scott-bessent-hints-2877495-2026-03-05",
+      "headline": "Trump's global tariff may jump to 15% this week, US Treasury Secretary saysThe proposed increase forms part of Trump's effort to rebuild his tariff framework after the US Supreme Court ruled in February that the President lacked the authority to impose certain sweeping duties under the International Emergency Economic Powers Act (IEEPA)."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/stressed-out-lara-dutta-stranded-in-dubai-with-husband-mahesh-bhupathi-daughter-2877456-2026-03-04",
       "headline": "Unnerving but not unsafe: Teary-eyed Lara Dutta, stranded in Dubai with daughterLara Dutta on Wednesday shared she is stuck in Dubai with her daughter Saira. She praised the UAE government for ensuring the safety of citizens."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/south-africa-vs-new-zealand-match-report-highlights-finn-allen-t20-world-cup-2877447-2026-03-04",
-      "headline": "Eden haunts South Africa again as Finn Allen storms Kiwis into T20 World Cup finalUnbeaten till the semi-final, South Africa were knocked out of the T20 World Cup by New Zealand. The Aiden Markram side failed with both bat and ball and ended up losing at Eden Gardens by 9 wickets."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/white-house-says-spain-agrees-to-cooperate-with-us-military-after-trump-trade-threat-2877479-2026-03-05",
-      "headline": "Spain denies cooperating with US Mideast operations, contradicts White HouseSpain will coordinate with American forces after tensions flared between Washington and Madrid over Iran strikes, the White House said, following sharp trade warnings from President Donald Trump."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/trump-does-not-bluff-karoline-leavitt-defends-iran-strikes-as-operation-epic-fury-intensifies-2877481-2026-03-05",
-      "headline": "Trump does not bluff, White House says as US defends Iran strikesThe White House defended US strikes on Iran, outlining four military objectives while saying ground troops are not planned and Washington is monitoring possible leadership changes in Tehran."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/entertainment/photo/rashmika-vijay-hyderabad-reception-allu-arjun-ram-charan-upasana-arrive-at-venue-2877442-2026-03-04",
-      "headline": "Rashmika-Vijay Hyderabad reception: Allu Arjun, Ram Charan-Upasana arrive at venueAllu Arjun, Ram Charan and Upasana Konidela were among the attendees at Rashmika Mandanna and Vijay Deverakonda's reception in Hyderabad."
+      "url": "https://www.indiatoday.in/lifestyle/fashion/story/rashmika-mandanna-vijay-deverakomda-mysore-silk-saree-and-ivory-veshti-hyderabad-reception-2877448-2026-03-04",
+      "headline": "In Mysore Silk saree and ivory veshti, Rashmika-Vijay go traditional at receptionRashmika Mandanna and Vijay Deverakonda's reception look was minimal yet brimming with subtle traditional and cultural details."
     },
     {
       "sentiment": "positive",
@@ -270,9 +270,19 @@
       "headline": "How Robotic Knee Replacement is Redefining the Journey Back to MobilityEarly consultation with an orthopaedic specialist is essential. Delaying surgery in severe cases can lead to worsening deformity and reduced functional outcomes."
     },
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/cities/bengaluru/story/software-engineer-suicide-dispute-mother-in-law-cooking-bengaluru-second-techie-suicide-in-city-week-2877299-2026-03-04",
+      "headline": "Bengaluru techie dies by suicide after dispute with mother-in-law over cookingThe victim's family has accused her in-laws of frequently harassing their daughter over trivial matters. They have also levelled dowry harassment allegations against Sushma's husband Puneet Kumar's family."
+    },
+    {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/assembly/story/congress-to-contest-28-assembly-seats-in-upcoming-tamil-nadu-polls-2877466-2026-03-04",
-      "headline": "Congress gets 28 assembly constituencies as seat-sharing deal with DMK finalisedBesides the 28 assembly constituencies, the party also got one Rajya Sabha berth as part of the Secular Progressive Alliance."
+      "url": "https://www.indiatoday.in/world/story/middle-east-crisis-masoud-pezeshkian-message-to-regional-governments-says-iran-forced-to-defend-itself-2877482-2026-03-05",
+      "headline": "Tried diplomacy, were forced to defend ourselves: Iran president to Gulf leadersIn a message directed at neighbouring and 'friendly' countries, Iranian President Masoud Pezeshkian said Iran had worked with regional leaders to keep tensions from escalating before the ongoing armed hostilities broke out."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/music/story/liam-paynes-death-impact-harry-styles-one-direction-music-community-2877492-2026-03-05",
+      "headline": "I really struggled: Harry Styles on losing Liam Payne and its impact on his lifeIn a recent interview, Harry Styles discussed the death of former One Direction bandmate Liam Payne, sharing his grief and personal reflections. The singer even addressed the circumstances of Payne's death and its influence on his outlook."
     },
     {
       "sentiment": "positive",
@@ -281,18 +291,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/is-cillian-murphy-playing-voldemort-in-new-harry-potter-series-heres-what-he-said-2877412-2026-03-04",
-      "headline": "Is Cillian Murphy playing Voldemort in new Harry Potter series? Here's what he saidCillian Murphy spoke about reports of his casting as Lord Voldemort in the new Harry Potter series. He also addressed speculation about his return in the next film of the 28 Years Later franchise."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/moment-when-us-submarine-struck-iranian-warship-iris-dena-near-sri-lanka-glbs-2877441-2026-03-04",
-      "headline": "Video: Moment US submarine struck Iranian warship 'IRIS Dena' near Sri LankaThe video, shared by the US Department of War, showed unclassified drone footage of the Iran's IRIS Dena moments during the strike. The ship initially appears intact and moving steadily across calm waters. A sudden, massive explosion then erupts near the stern, sending up a huge plume of white water, fire and debris."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/iran-hezbollah-coordinated-missile-attacks-israel-middle-east-conflict-escalation-2877460-2026-03-04",
-      "headline": "In a first, Iran and Hezbollah launch coordinated missile strikes on Israel: ReportThe Israeli military said a barrage of missiles was launched from Iran while several projectiles, including drones, were fired by Hezbollah from Lebanon at roughly the same time. The attacks triggered red alert sirens across major Israeli cities, including Jerusalem and Tel Aviv, sending civilians rushing to shelters."
+      "url": "https://www.indiatoday.in/world/story/ayatollah-ali-khamenei-funeral-postponed-by-iran-as-large-crowds-expected-amid-middle-east-crisis-2877487-2026-03-05",
+      "headline": "Iran postpones Khamenei's funeral in anticipation of unprecedented crowdsThousands of mourners gathered in central Tehran in the days following the strike, according to journalists on the ground. The state broadcaster of Iran said the farewell ceremony, which had been scheduled for Wednesday evening in Tehran, would take place at a later date."
     },
     {
       "sentiment": "positive",
@@ -306,21 +306,26 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/apple-launches-budget-macbook-neo-its-most-affordable-laptop-yet-2877436-2026-03-04",
-      "headline": "Apple launches budget MacBook Neo, its most affordable laptop ever, starting at Rs 69,900It's official, Apple has launched the most affordable MacBook ever. It is called the MacBook Neo and here is everything you need to know about it."
+      "url": "https://www.indiatoday.in/elections/assembly/story/congress-to-contest-28-assembly-seats-in-upcoming-tamil-nadu-polls-2877466-2026-03-04",
+      "headline": "Congress gets 28 assembly constituencies as seat-sharing deal with DMK finalisedBesides the 28 assembly constituencies, the party also got one Rajya Sabha berth as part of the Secular Progressive Alliance."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/iran-israel-war-news-china-link-to-tehran-drone-missile-arsenal-dual-use-components-shahed-drone-fattah-missile-rocket-fuel-2876861-2026-03-04",
-      "headline": "Is there a Chinese secret behind Iran's deadly missile and drone arsenal?Iran's massive firepower has been on display in the last couple of days. China delivered weapons to Iran right ahead of the US-Israeli strikes, reported the Middle East Eye. Does the huge missile and drone arsenal that Iran is using have a Chinese link? This is what we can tell you for sure."
+      "url": "https://www.indiatoday.in/world/story/iran-denies-sending-messages-to-us-says-armed-forces-prepared-for-long-war-2877488-2026-03-05",
+      "headline": "Iran denies sending messages to US, says armed forces ready for long warIran denied sending messages to the United States after reports of possible contacts, saying its armed forces are prepared for a long war while Washington and Israel insist no negotiations with Tehran are underway."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/pakistan-may-join-iran-war-saudi-arabia-defence-pact-2877367-2026-03-04",
-      "headline": "Pakistan signals it may be drawn into Iran war. Here's whyIshaq Dar, Pakistan's foreign minister, said he warned his Iranian counterpart against attacking Saudi Arabia and cited the defence pact. This is the first time that any Pakistani official has clarified that the pact would apply to the Iran war."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/trump-does-not-bluff-karoline-leavitt-defends-iran-strikes-as-operation-epic-fury-intensifies-2877481-2026-03-05",
+      "headline": "Trump does not bluff, White House says as US defends Iran strikesThe White House defended US strikes on Iran, outlining four military objectives while saying ground troops are not planned and Washington is monitoring possible leadership changes in Tehran."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/finn-allen-t20-world-cup-century-new-zealand-beat-south-africa-press-conference-2877469-2026-03-05",
+      "headline": "India series helped New Zealand a lot in T20 World Cup preparations: Finn Allen T20 World Cup, IND vs NZ: Finn Allen credited New Zealand's pre-World Cup T20I series in India for preparing the team for subcontinental conditions after their dominant nine-wicket semi-final win over South Africa in Kolkata."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/south-africa-coach-shukri-conrads-hilarious-take-on-chokers-tag-sa-vs-nz-t20-world-cup-2026-2877462-2026-03-05",
@@ -374,7 +379,7 @@
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-england-harry-brook-press-conference-2877429-2026-03-04",
-      "headline": "England put their faith on data, video analysis in semi-final against India IND vs ENG semi final: England will be relying on data in their T20 World Cup semi-final against India, said Harry Brook. England are set for a steep test against the hosts at the Wankhede Stadium in Mumbai on Thursday, March 5."
+      "headline": "England put their faith on data, video analysis in semi-final against IndiaIND vs ENG semi final: England will be relying on data in their T20 World Cup semi-final against India, said Harry Brook. England are set for a steep test against the hosts at the Wankhede Stadium in Mumbai on Thursday, March 5."
     },
     {
       "sentiment": "positive",
@@ -470,11 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/rodrygo-acl-injury-world-cup-ruled-out-heartbroken-real-madrid-vs-getafe-neymar-2877294-2026-03-04",
       "headline": "Rodrygo heartbroken after ACL injury spoils World Cup dream: Do I deserve this?Rodrygo will miss the rest of Real Madrid's season and the upcoming World Cup after suffering an ACL and meniscus tear. The Brazilian forward called it one of the worst days of his life."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/arjun-tendulkar-wedding-celebrations-mumbai-cricket-saaniya-chandhok-2877285-2026-03-04",
-      "headline": "Arjun Tendulkar's sangeet: Yuvraj, Harbhajan add to cricketing royalty at eventArjun Tendulkar and Saaniya Chandhok's wedding festivities began in Mumbai on March 4, following pre-wedding celebrations in Jamnagar. Yuvraj Singh, Harbhajan Singh and others brought a touch of cricketing royalty to the event. "
     }
   ],
   "education": [
