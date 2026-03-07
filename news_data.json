@@ -103,6 +103,11 @@
   ],
   "entertainment": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/dhurandhar-the-revenge-trailer-x-reactions-social-media-review-ranveer-singh-arjun-rampal-sanjay-dutt-2878588-2026-03-07",
+      "headline": "Fans react to Dhurandhar The Revenge trailer: You are not ready for this The trailer of Dhurandhar: The Revenge has sparked a frenzy online. Fans are sharing intense reactions to Ranveer Singh's return and the film's high-octane preview ahead of its release.\r\n"
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/movies/bollywood/story/dhurandhar-the-revenge-trailer-unveils-ranveer-singh-brutal-new-chapter-2878565-2026-03-07",
       "headline": "Dhurandhar The Revenge trailer: Ranveer's Hamza vows India will write Pak's future The trailer of Dhurandhar: The Revenge is out. Ranveer Singh returns as Hamza Ali Mazari in a darker, more brutal avatar as the sequel promises bigger action and higher stakes. Directed by Aditya Dhar, the film releases on March 19, 2026."
@@ -191,16 +196,16 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/vijay-thalapathy-bodyguard-cryptic-post-goes-viral-as-actor-appears-with-trisha-at-event-2878350-2026-03-06",
       "headline": "Vijay's bodyguard shares viral cryptic post on rumours, later deletes it After Vijay and Trisha Krishnan were seen together at a wedding reception in Chennai, speculation intensified when the actor's bodyguard shared and later deleted a cryptic Instagram post about \"rising above rumours\"."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/ram-gopal-varma-responds-backlash-kiara-advani-bikini-tweet-war-2-teaser-2878237-2026-03-06",
-      "headline": "Ram Gopal Varma says deleted tweet on Kiara Advani bikini shot was compliment Ram Gopal Varma has finally broken his silence on the controversy surrounding his deleted tweet about Kiara Advani's bikini appearance in the War 2 teaser. The tweet had sparked significant backlash online."
     }
   ],
   "general news": [
     {
-      "sentiment": "positive",
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/india-trump-russia-oil-waiver-iran-war-significance-impact-2878581-2026-03-07",
+      "headline": "How India had the last laugh after Trump's Russian oil waiverHandcrafted ByOur Editors With global oil prices shooting through the roof due to the Iran war and the subsequent closure of the Strait of Hormuz, the US has fallen back on India to purchase sanctioned Russian crude to keep oil flowing into the global market. What's behind Trump's sudden change of heart?"
+    },
+    {
+      "sentiment": "negative",
       "url": "https://www.indiatoday.in/world/story/us-israel-iran-war-live-updates-middle-east-conflict-crisis-lebanon-dubai-saudiarabia-uae-qatar-bahrain-trump-netanyahu-mojtabakhamenei-2878019-2026-03-06",
       "headline": "Live: Several blasts rock Abu Dhabi, UAE activates air defence against missile threatUS-Israel-Iran War Live Updates: Tensions in the Middle East escalated as the Israel Defense Forces reported multiple missile launches from Iran targeting the Greater Tel Aviv area, central Israel and southern regions including Be'er Sheva. Air raid sirens were activated across several areas, including Jerusalem, as defence systems moved to intercept the projectiles. Meanwhile, Saudi Arabia said its air defences intercepted four drones aimed at the Shaybah oil field in the Empty Quarter desert, hours after another drone attack was stopped near Riyadh. In Beirut, Israeli air strikes hit the southern suburbs after the military ordered a large-scale evacuation of the area, targeting sites linked to Hezbollah. The group later said its fighters clashed with Israeli troops near Nabi Sheet in Lebanon's Bekaa Valley. Elsewhere, authorities in Dubai reported a minor debris incident after an aerial interception, with no injuries. Iranian officials also rejected remarks by Donald Trump about surrender and leadership change, reaffirming that the country's leadership process is determined internally. Stay tuned to IndiaToday.in for live updates."
     },
@@ -215,24 +220,19 @@
       "headline": "Russia sharing intel on US military assets with Iran as Middle East war ragesUS intelligence indicates that Russia provided Iran with information that could help target American forces in the region, though officials say there is no evidence Moscow is directing Tehran's military actions."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/nepal-election-result-2026-live-updates-vote-counting-balen-shah-rashtriya-swantantra-party-k-p-sharma-oli-pushpa-kamal-dahal-2878048-2026-03-06",
-      "headline": "Live: Rapper-mayor Balen Shah's party wins 34 seats, leads in 85 seatsNepal Election Results 2026 Live Updates: Rapper-turned-politician Balendra Shah's newly launched Rastriya Swatantra Party (RSP) is steering toward a landslide victory in Nepal's first general elections since the Gen Z protests, breaking the stronghold of traditional parties in the politically fragile nation. According to the Election Commission's data available from 161 of the total 165 constituencies, the RSP has already won 34 seats and is leading in 85 more. The Nepali Congress has won 4 seats and is ahead in 11, while the CPN-UML has secured 2 seats and is leading in 8 constituencies. Stay tuned to indiatoday.in for the latest updates."
-    },
-    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/movies/bollywood/story/dhurandhar-the-revenge-trailer-unveils-ranveer-singh-brutal-new-chapter-2878565-2026-03-07",
       "headline": "Dhurandhar The Revenge trailer: Ranveer's Hamza vows India will write Pak's futureThe trailer of Dhurandhar: The Revenge is out. Ranveer Singh returns as Hamza Ali Mazari in a darker, more brutal avatar as the sequel promises bigger action and higher stakes. Directed by Aditya Dhar, the film releases on March 19, 2026."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/days-before-us-sank-iranian-warship-near-sri-lanka-tehran-sought-urgent-docking-for-another-vessel-in-kochi-2878433-2026-03-06",
-      "headline": "India gave safe harbour to another Iranian ship days before IRIS Dena's sinkingDays before a US submarine sank IRIS Dena in the Indian Ocean off the coast of Sri Lanka, India gave safe harbour to another Iranian frigate. According to government sources, the ship's crew has been put up at naval quarters in Kochi."
+      "url": "https://www.indiatoday.in/world/story/nepal-election-result-2026-live-updates-vote-counting-balen-shah-rashtriya-swantantra-party-k-p-sharma-oli-pushpa-kamal-dahal-2878048-2026-03-06",
+      "headline": "Live: Rapper-mayor Balen Shah's party wins 34 seats, leads in 85 seatsNepal Election Results 2026 Live Updates: Rapper-turned-politician Balendra Shah's newly launched Rastriya Swatantra Party (RSP) is steering toward a landslide victory in Nepal's first general elections since the Gen Z protests, breaking the stronghold of traditional parties in the politically fragile nation. According to the Election Commission's data available from 161 of the total 165 constituencies, the RSP has already won 34 seats and is leading in 85 more. The Nepali Congress has won 4 seats and is ahead in 11, while the CPN-UML has secured 2 seats and is leading in 8 constituencies. Stay tuned to indiatoday.in for the latest updates."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/our-friends-in-india-us-energy-secretary-chris-wright-explains-why-it-allowed-delhi-to-buy-russian-oil-2878486-2026-03-07",
-      "headline": "Our friends in India: US clarifies reasons behind Russian oil waiver for DelhiUS Energy Secretary Chris Wright said Washington is allowing India to refine stranded Russian oil at sea as a short-term measure to stabilize global supply and ease price pressure amid West Asia tensions."
+      "url": "https://www.indiatoday.in/india/story/days-before-us-sank-iranian-warship-near-sri-lanka-tehran-sought-urgent-docking-for-another-vessel-in-kochi-2878433-2026-03-06",
+      "headline": "India gave safe harbour to another Iranian ship days before IRIS Dena's sinkingDays before a US submarine sank IRIS Dena in the Indian Ocean off the coast of Sri Lanka, India gave safe harbour to another Iranian frigate. According to government sources, the ship's crew has been put up at naval quarters in Kochi."
     },
     {
       "sentiment": "positive",
@@ -247,17 +247,17 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/education-today/news/story/cbse-class-10-social-science-exam-2026-live-paper-analysis-question-paper-student-reactions-difficulty-level-and-expert-review-2878446-2026-03-07",
-      "headline": "LIVE: Detailed paper analysis, student reactions at 1:30pmCBSE Class 10 Social Science Exam 2026 LIVE Updates: Students across India are appearing for the SST board paper today. Follow this live blog for real-time paper analysis, difficulty level, student reactions, and expert review.\r\n"
+      "headline": "Live: Paper to end in next 30 mins, question paper analysis soonCBSE Class 10 Social Science Exam 2026 Live updates: Students across India are appearing for the SST board paper today. Follow this live blog for real-time paper analysis, difficulty level, student reactions, and expert review.\r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/our-friends-in-india-us-energy-secretary-chris-wright-explains-why-it-allowed-delhi-to-buy-russian-oil-2878486-2026-03-07",
+      "headline": "Our friends in India: US clarifies reasons behind Russian oil waiver for DelhiUS Energy Secretary Chris Wright said Washington is allowing India to refine stranded Russian oil at sea as a short-term measure to stabilize global supply and ease price pressure amid West Asia tensions."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-nz-t20-world-cup-final-ahmedabad-pitch-report-red-black-soil-jasprit-bumrah-mitchell-santner-2878509-2026-03-07",
       "headline": "India vs New Zealand, T20 World Cup final: What type of pitch awaits in Ahmedabad?T20 World Cup: A fresh mixed-soil surface at Ahmedabad could shape the T20 World Cup final between India and New Zealand. With pace, bounce and big hitters on both sides, the pitch may set up another high-scoring showdown."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/law-news/story/high-court-clears-dera-chief-gurmeet-ram-rahim-singh-in-journalist-murder-case-2878553-2026-03-07",
-      "headline": "Court clears Ram Rahim Singh in journalist murder case, but he will stay in jailThe Punjab and Haryana High Court acquitted Dera Sacha Sauda chief Gurmeet Ram Rahim Singh in the 2002 murder case of a journalist. However, he will stay in jail as he is currently serving a 20-year sentence in two rape cases."
     },
     {
       "sentiment": "positive",
@@ -270,14 +270,14 @@
       "headline": "How Robotic Knee Replacement is Redefining the Journey Back to MobilityEarly consultation with an orthopaedic specialist is essential. Delaying surgery in severe cases can lead to worsening deformity and reduced functional outcomes."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/information/story/iran-israel-war-air-india-indigo-run-limited-flights-to-middle-east-2878572-2026-03-07",
-      "headline": "IndiGo, Air India to run special flights to Gulf to bring back stranded passengersAmid the Iran-Israel war and ongoing airspace restrictions, Air India, Air India Express and IndiGo are running limited Middle East flights on March 7, while airlines like Qatar Airways remain suspended."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/kash-patel-firing-agents-spree-iran-us-israel-war-middle-east-crisis-trump-probe-2878592-2026-03-07",
+      "headline": "Kash Patel fires 10 FBI agents amid escalating Iran war. Here's whyLast month, FBI chief Kash Patel fired at least 10 agents linked to investigations into President Donald Trump, including the Mar-a-Lago classified documents probe. The dismissals came as the US-Israel strikes on Iran triggered retaliatory attacks by Tehran on US assets in the Middle East."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/history-of-it/story/why-pakistan-desecrate-nobel-laureate-abdus-salam-grave-nuclear-scientist-physicist-ahmadiyya-ahmadi-muslim-2877994-2026-03-06",
-      "headline": "He made Pak nuclear power, but Pak bombed his memoryPakistan's only Nobel laureate, Abdus Salam, helped build the foundations of the country's nuclear programme. Because he belonged to the Ahmadiyya sect, his religious identity was stripped away, and his legacy was erased in Pakistan. Islamabad boasts of its nuclear weapons, but gives no credit to Salam."
+      "url": "https://www.indiatoday.in/jobs/story/anthropic-data-reveals-22-career-options-that-remain-safe-from-ai-tchc-2878512-2026-03-07",
+      "headline": "Anthropic data reveals 22 career options that remain safe from AIA new study by Anthropic suggests that while AI tools are spreading across workplaces, many professions still remain largely outside the reach of automation. The research, based on usage data from Claude, shows a wide gap between what AI can theoretically do and how much it is actually used in real jobs."
     },
     {
       "sentiment": "positive",
@@ -290,6 +290,26 @@
       "headline": "Question Time: Weekly News QuizThink you read the headlines this week? Let's test that!"
     },
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/information/story/iran-israel-war-air-india-indigo-run-limited-flights-to-middle-east-2878572-2026-03-07",
+      "headline": "IndiGo, Air India to run special flights to Gulf to bring back stranded passengersAmid the Iran-Israel war and ongoing airspace restrictions, Air India, Air India Express and IndiGo are running limited Middle East flights on March 7, while airlines like Qatar Airways remain suspended."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/law-news/story/high-court-clears-dera-chief-gurmeet-ram-rahim-singh-in-journalist-murder-case-2878553-2026-03-07",
+      "headline": "Court clears Ram Rahim Singh in journalist murder case, but he will stay in jailThe Punjab and Haryana High Court acquitted Dera Sacha Sauda chief Gurmeet Ram Rahim Singh in the 2002 murder case of a journalist. However, he will stay in jail as he is currently serving a 20-year sentence in two rape cases."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/jobs/story/from-ias-to-ai-babu-sarkari-naukri-gets-a-tech-upgrade-educ-2878561-2026-03-07",
+      "headline": "From IAS to AI babu: Sarkari Naukri gets a tech upgradeHandcrafted ByOur Editors As thousands of aspirants celebrated the UPSC Civil Services results, the dream of a sarkari naukri once again dominated India's imagination. But the future of government service may look very different. The question we need to ask is this: in the age of artificial intelligence, is it possible that the next generation of babus may be coders?"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/history-of-it/story/why-pakistan-desecrate-nobel-laureate-abdus-salam-grave-nuclear-scientist-physicist-ahmadiyya-ahmadi-muslim-2877994-2026-03-06",
+      "headline": "He made Pak nuclear power, but Pak bombed his memoryPakistan's only Nobel laureate, Abdus Salam, helped build the foundations of the country's nuclear programme. Because he belonged to the Ahmadiyya sect, his religious identity was stripped away, and his legacy was erased in Pakistan. Islamabad boasts of its nuclear weapons, but gives no credit to Salam."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/after-nitish-kumar-who-jdu-holds-organisational-polls-amid-turmoil-2878277-2026-03-06",
       "headline": "I'll come to Bihar only: Nitish Kumar to party amid anger over Rajya Sabha moveJD(U)'s internal polls come a day after Nitish Kumar filed his nomination for the Rajya Sabha, a move that marks a major shift in Bihar politics and leaves a power void in his party."
@@ -298,29 +318,19 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/opinion/story/us-iran-israel-conflict-middle-east-war-trump-vance-rubio-washington-tehran-airstrikes-2878543-2026-03-07",
       "headline": "Misfiring American communicators to warAs the US-Iran war escalates, shifting explanations from Washington \u2014 from nuclear threats to regime change and presidential \"intuition\" \u2014 highlight the confusion and controversy surrounding the rationale of the conflict."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/jobs/story/from-ias-to-ai-babu-sarkari-naukri-gets-a-tech-upgrade-educ-2878561-2026-03-07",
-      "headline": "From IAS to AI babu: Sarkari Naukri gets a tech upgradeHandcrafted ByOur Editors As thousands of aspirants celebrated the UPSC Civil Services results, the dream of a sarkari naukri once again dominated India's imagination. But the future of government service may look very different. The question we need to ask is this: in the age of artificial intelligence, is it possible that the next generation of babus may be coders?"
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/pak-man-convicted-in-us-over-iran-linked-plot-to-kill-trump-biden-faces-life-sentence-2878510-2026-03-07",
-      "headline": "Pakistani man convicted in US over alleged Iran-linked plot to kill Trump, BidenProsecutors said the plot was linked to Iran's Islamic Revolutionary Guard Corps, though Tehran has denied involvement. The plan collapsed after Asif Merchant unknowingly approached undercover FBI agents while seeking hired killers."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/are-bank-lockers-safe-in-india-rbi-locker-rules-bank-locker-safety-liability-insurance-guide-2878578-2026-03-07",
-      "headline": "Are bank lockers still the safest place for your valuables?Bank lockers are trusted to store gold and valuables, but recent cases have raised questions about safety. At the same time, getting a bank locker itself has become increasingly difficult, with waiting lists stretching months or even years in many cities."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/science/story/climate-change-india-disasters-15-disasters-extreme-weather-events-floods-heatwave-monsoon-displacement-adaptation-needed-2878231-2026-03-07",
-      "headline": "When Earth gets hot by 1.5\u00b0C: The climate disasters waiting for IndiaThe world is already facing extreme consequences that are yet to reach the worst levels. But what exactly can India expect when the world fails to limit Earth's warming to 1.5\u00b0C? "
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-nz-t20-world-cup-final-team-india-team-hotel-ahmedabad-change-superstition-2878602-2026-03-07",
+      "headline": "India trying to end Ahmedabad hoodoo? Switch team hotel ahead of T20 World Cup final T20 World Cup: India have switched their team hotel in Ahmedabad ahead of the T20 World Cup final. While officially a logistical change, the move has sparked talk about breaking memories of past defeats at the venue."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/formula-one/story/australian-gp-2026-qualifying-russell-pole-verstappen-crash-2878589-2026-03-07",
+      "headline": "Russell, Mercedes storm to AUS GP pole as Verstappen crashes out in qualifying Australian Grand Prix: George Russell and Mercedes laid down an early marker as the British driver secured pole position for the season-opening Australian GP on Saturday, March 7. It was an awful day for Max Verstappen, who crashed out early in qualifying. "
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/hardik-pandya-zen-mode-india-vs-england-t20-world-cup-semi-final-2878577-2026-03-07",
@@ -364,12 +374,12 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/iran-players-labelled-wartime-traitors-anthem-silence-asian-cup-opener-2878470-2026-03-06",
-      "headline": "Iran players labelled wartime traitors after anthem silence in Asian Cup opener An Iranian state TV presenter called the women's national football team \"wartime traitors\" after they did not sing the national anthem before an Asian Cup match against South Korea in Australia."
+      "headline": "Iran players labelled wartime traitors after anthem silence in Asian Cup openerAn Iranian state TV presenter called the women's national football team \"wartime traitors\" after they did not sing the national anthem before an Asian Cup match against South Korea in Australia."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/badminton/story/all-england-open-lakshya-sen-beats-li-shifeng-reaches-mens-semi-finals-2878469-2026-03-06",
-      "headline": "All England Open: Lakshya Sen storms into semis after thrashing World No. 6 Li India's Lakshya Sen continued his impressive run at the All England Open Badminton Championships as the 12th seed outclassed China's Li Shifeng in straight games to reach the men's singles semi-finals in Birmingham on Friday."
+      "headline": "All England Open: Lakshya Sen storms into semis after thrashing World No. 6 LiIndia's Lakshya Sen continued his impressive run at the All England Open Badminton Championships as the 12th seed outclassed China's Li Shifeng in straight games to reach the men's singles semi-finals in Birmingham on Friday."
     },
     {
       "sentiment": "positive",
@@ -460,16 +470,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/jos-buttler-future-england-cricket-questioned-tough-t20-world-cup-2878276-2026-03-06",
       "headline": "Has Buttler fallen out of love playing for England? Ex England pacer thinks soAs Jos Buttler reflects on a challenging T20 World Cup, former teammates and observers say the England veteran must decide if he has the desire to continue playing international cricket."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/alyssa-healy-australia-women-india-perth-farewell-innings-nephew-2878256-2026-03-06",
-      "headline": "Alyssa Healy's nephew, Mitchell Starc accompany Australia star for farewell TestINDW vs AUSW: Alyssa Healy bid an emotional farewell in Perth as her nephew joined her during the national anthem before her final Test for Australia, with Mitchell Starc also present at the WACA."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/badminton/story/lakshya-sen-all-england-open-quarterfinal-li-shi-feng-livestreaming-head-to-head-2878264-2026-03-06",
-      "headline": "Lakshya Sen takes on Li Shi Feng in high-stakes All England Open quarter-finalLakshya Sen stands as India's last hope at the All England Open as he faces world No. 6 Li Shi Feng in the quarter-final in Birmingham. The clash revives a long-standing rivalry that is perfectly balanced at 7-7."
     }
   ],
   "education": [
