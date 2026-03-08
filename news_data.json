@@ -104,6 +104,11 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/t20-world-cup-final-aparshakti-khurrana-basil-joseph-karan-kundrra-tejasswi-prakash-cheer-for-india-2879119-2026-03-08",
+      "headline": "T20 WC final: Aparshakti Khurrana, Basil Joseph, Karan-Tejasswi cheer for India Aparshakti Khurrana, Basil Joseph, Karan Kundrra, and Tejasswi Prakash were among several celebrities seen cheering for India at the ICC T20 World Cup final. The closing ceremony also saw performances by Ricky Martin, Sukhbir Singh, and Falguni Pathak."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/women-day-celebrity-wishes-kareena-kapoor-khan-chiranjeevi-ajay-devgn-hema-malini-anupam-kher-tahira-kashyap-2879104-2026-03-08",
       "headline": "Women's Day: Kangana, Kareena, Chiranjeevi, Ajay Devgn and others post wishes Chiranjeevi, Ajay Devgn, Kangana Ranaut, Kareena Kapoor, Hema Malini and Anupam Kher were among celebrities who posted on social media to commemorate International Women's Day on March 8."
     },
@@ -191,11 +196,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/music/story/tateeree-song-row-badshah-says-forgive-me-as-haryana-ka-beta-2878734-2026-03-07",
       "headline": "Tateeree song row: Badshah says 'forgive me' after cops issue lookout notice Rapper-singer Badshah issued a public apology on Saturday following uproar over alleged vulgar lyrics in his song Tateeree. He said the track is being removed from all platforms. Meanwhile, an FIR and a lookout notice have been issued against the singer."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/kareena-kapoor-ananya-panday-rally-behind-deepika-padukone-8-hour-shift-demand-its-completely-fine-2878675-2026-03-07",
-      "headline": "Kareena, Ananya rally behind Deepika's 8-hour shift demand: It's completely fine Actors Kareena Kapoor Khan and Ananya Panday have backed Deepika Padukone's demand for an eight-hour work shift for actors. The two emphasised honest conversations with producers to balance work commitments and personal life."
     }
   ],
   "general news": [
@@ -206,18 +206,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/trump-considers-ground-operation-in-iran-to-capture-nuclear-stockpile-glbs-2879083-2026-03-08",
-      "headline": "Trump considers ground operation in Iran to capture nuclear stockpile: ReportThe US and Israel have discussed the possibility of sending special forces into Iran at a later stage of the war to secure the country's stockpile of highly enriched uranium. Such an operation could involve troops entering heavily fortified underground facilities where the material is believed to be stored."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/iran-war-middle-east-water-security-desalination-threat-gulf-nations-oil-gas-supplies-hormuz-2879106-2026-03-08",
       "headline": "It's water, not oil: Iran war exposes Gulf's greatest vulnerabilityRecent attacks and allegations surrounding desalination facilities in the Gulf have revived fears that the Iran war could spill over into the Middle East's fragile water systems, triggering a humanitarian crisis. Not just oil, drinking water could be in the crosshairs too."
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/trump-considers-ground-operation-in-iran-to-capture-nuclear-stockpile-glbs-2879083-2026-03-08",
+      "headline": "Trump considers ground operation in Iran to capture nuclear stockpile: ReportThe US and Israel have discussed the possibility of sending special forces into Iran at a later stage of the war to secure the country's stockpile of highly enriched uranium. Such an operation could involve troops entering heavily fortified underground facilities where the material is believed to be stored."
+    },
+    {
+      "sentiment": "negative",
       "url": "https://www.indiatoday.in/world/story/us-israel-iran-war-live-updates-middle-east-tension-lebanon-dubai-saudiarabia-uae-qatar-bahrain-trump-netanyahu-khamenei-glbs-2878853-2026-03-08",
-      "headline": "Live: Israel says missiles launched from Iran; explosions reported across TehranUS-Israel-Iran War Live Updates: As the war in the Middle East rages for a ninth consecutive day, the Israeli military has warned it will target every successor of Supreme Leader Khamenei, killed in US-Israeli strikes on February 28. As hostilitied continued, Tehran was shrouded in smoke after Israeli airstrikes hit four oil storage facilities and a production transfer centre in Tehran and Alborz, killing four tanker drivers, with fuel spills igniting a \"river of fire\" along city streets. Explosions also struck Yazd, Tehran, and Isfahan, widening the conflict's impact. The Islamic Revolutionary Guard Corps claimed drone and missile strikes on Kuwait's Al-Adiri Airbase, destroying US helicopter repair centres, fuel tanks, and a command post. Also, US-Israeli jets hit workshops and a horse-riding club in Isfahan, killing 11. Earlier, the Israel Defense Forces said several Iranian F-14 jets and air defence systems at Isfahan Airport were destroyed, following previous strikes on IRGC-linked aircraft at Tehran's Mehrabad Airport. Stay tuned to IndiaToday.in for live updates."
+      "headline": "Live: Iran's Isfahan nuclear site hit in Israel-US strikes, no radiation leakUS-Israel-Iran War Live Updates: As the war in the Middle East rages for a ninth consecutive day, the Israeli military has warned it will target every successor of Supreme Leader Khamenei, killed in US-Israeli strikes on February 28. As hostilitied continued, Tehran was shrouded in smoke after Israeli airstrikes hit four oil storage facilities and a production transfer centre in Tehran and Alborz, killing four tanker drivers, with fuel spills igniting a \"river of fire\" along city streets. Explosions also struck Yazd, Tehran, and Isfahan, widening the conflict's impact. The Islamic Revolutionary Guard Corps claimed drone and missile strikes on Kuwait's Al-Adiri Airbase, destroying US helicopter repair centres, fuel tanks, and a command post. Also, US-Israeli jets hit workshops and a horse-riding club in Isfahan, killing 11. Earlier, the Israel Defense Forces said several Iranian F-14 jets and air defence systems at Isfahan Airport were destroyed, following previous strikes on IRGC-linked aircraft at Tehran's Mehrabad Airport. Stay tuned to IndiaToday.in for live updates."
     },
     {
       "sentiment": "positive",
@@ -226,8 +226,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/before-iris-dena-strike-iran-sailor-told-father-us-issues-two-warnings-report-middle-east-crisis-2879005-2026-03-08",
-      "headline": "Before Dena strike, Iran sailor told father US warned crew twice: ReportUS forces issued two warnings to abandon the Iranian warship IRIS Dena, a sailor aboard the ill-fated ship told his father, according to a report by Iran International."
+      "url": "https://www.indiatoday.in/world/story/israel-hit-tehran-oil-depots-iran-president-warns-of-expanded-attacks-glbs-2879120-2026-03-08",
+      "headline": "Tehran burns as oil depots hit, Israel warns it will target next supreme leaderThe Iran war intensified as Israeli strikes set parts of Tehran ablaze after striking oil deports. President Masoud Pezeshkian warned Tehran could expand attacks on US targets as casualties rise and fears grow that the conflict could spread further across the Middle East with no clear end in sight."
     },
     {
       "sentiment": "positive",
@@ -246,6 +246,11 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/before-iris-dena-strike-iran-sailor-told-father-us-issues-two-warnings-report-middle-east-crisis-2879005-2026-03-08",
+      "headline": "Before Dena strike, Iran sailor told father US warned crew twice: ReportUS forces issued two warnings to abandon the Iranian warship IRIS Dena, a sailor aboard the ill-fated ship told his father, according to a report by Iran International."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/science/story/delhi-weather-monday-9-march-2026-snow-jammu-kashmir-imd-heat-wave-forecast-2879114-2026-03-08",
       "headline": "Delhi to hit 36 degrees on Monday, Himachal Pradesh on heat wave alertDelhi is set to touch 36 degrees Celsius on Monday as the IMD warns of heat waves across northwest India and incoming snow in Jammu and Kashmir. "
     },
@@ -253,11 +258,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/television/story/youtuber-anurag-dobhal-smiles-from-icu-after-live-streamed-car-crash-viral-video-2879014-2026-03-08",
       "headline": "Viral video: YouTuber Anurag Dobhal smiles from ICU after live-streamed car crashAn early video to surface after Anurag Dobhal's car crash shows the YouTuber briefly smiling while lying in a hospital bed. Fellow social media influencer Yogesh Kathuria shared the video following a hospital visit after the accident."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/iran-new-supreme-leader-to-succeed-khamenei-selected-assembly-of-experts-war-2879006-2026-03-08",
-      "headline": "Iran has a new Supreme Leader. Top clerical body keeps name under wraps amid warIran's Assembly of Experts is nearing consensus on the next Supreme Leader following Ayatollah Ali Khamenei's death, though procedural issues delay formal announcement. The selection reflects the late leader's criteria amid ongoing conflict and political tension.\r\n"
     },
     {
       "sentiment": "positive",
@@ -271,13 +271,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/claude-ai-does-months-of-work-in-minutes-fewer-humans-will-be-needed-says-ark-invest-ceo-2878990-2026-03-08",
-      "headline": "Claude AI does months of work in minutes, fewer humans needed: Ark Invest CEOArk Invest CEO Cathie Wood says her team saw Claude AI automate months of pending work in minutes. The experience, she said, reminded her of the early days of personal computers in offices. But, she also suggested that rising productivity from AI could mean fewer humans are needed for some tasks."
+      "url": "https://www.indiatoday.in/world/story/iran-new-supreme-leader-to-succeed-khamenei-selected-assembly-of-experts-war-2879006-2026-03-08",
+      "headline": "Iran has a new Supreme Leader. Top clerical body keeps name under wraps amid warIran's Assembly of Experts is nearing consensus on the next Supreme Leader following Ayatollah Ali Khamenei's death, though procedural issues delay formal announcement. The selection reflects the late leader's criteria amid ongoing conflict and political tension.\r\n"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/australian-high-commission-celebrates-women-diplomats-in-dhurandhar-style-womens-day-2026-2879010-2026-03-08",
-      "headline": "Australian High Commission celebrates women diplomats in Dhurandhar styleA video shared by the Australian High Commission in India on International Women's Day highlights the contributions of women diplomats in advancing Australia-India relations."
+      "url": "https://www.indiatoday.in/technology/news/story/claude-ai-does-months-of-work-in-minutes-fewer-humans-will-be-needed-says-ark-invest-ceo-2878990-2026-03-08",
+      "headline": "Claude AI does months of work in minutes, fewer humans needed: Ark Invest CEOArk Invest CEO Cathie Wood says her team saw Claude AI automate months of pending work in minutes. The experience, she said, reminded her of the early days of personal computers in offices. But, she also suggested that rising productivity from AI could mean fewer humans are needed for some tasks."
     },
     {
       "sentiment": "positive",
@@ -291,8 +291,18 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/trending-news/story/australian-high-commission-celebrates-women-diplomats-in-dhurandhar-style-womens-day-2026-2879010-2026-03-08",
+      "headline": "Australian High Commission celebrates women diplomats in Dhurandhar styleA video shared by the Australian High Commission in India on International Women's Day highlights the contributions of women diplomats in advancing Australia-India relations."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/prithvi-shaw-akriti-agarwal-girlfiend-engagement-social-media-2879045-2026-03-08",
       "headline": "My perfect innings: Prithvi Shaw announces engagement with girlfriend Akriti AgarwalIndian batter Prithvi Shaw announced his engagement to social media influencer Akriti Agarwal, sharing romantic photos on Instagram that went viral. The couple were recently seen together at Arjun Tendulkar and Saaniya Chandhok's wedding. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/lifestyle/interviews/story/sanjeev-kapoor-the-accidental-chef-who-became-a-household-name-2878407-2026-03-08",
+      "headline": "How the women in Sanjeev Kapoor's life shaped India's most famous chefBefore food influencers and viral recipes, there was Sanjeev Kapoor. This week on Anything But, we talk to the Padma Shri awardee about being an accidental chef, holding on to love at 60, and living a full life beyond the kitchen. "
     },
     {
       "sentiment": "negative",
@@ -301,26 +311,21 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/interviews/story/sanjeev-kapoor-the-accidental-chef-who-became-a-household-name-2878407-2026-03-08",
-      "headline": "How the women in Sanjeev Kapoor's life shaped India's most famous chefBefore food influencers and viral recipes, there was Sanjeev Kapoor. This week on Anything But, we talk to the Padma Shri awardee about being an accidental chef, holding on to love at 60, and living a full life beyond the kitchen. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/ali-larijani-donald-trump-iran-us-israel-middle-east-crisis-war-2878956-2026-03-08",
-      "headline": "Khamenei's top advisor says Iran won't leave Trump alone, US President retortsIran's security chief Ali Larijani has warned that US President Donald Trump will \"pay the price\" for the killing of Supreme Leader Ayatollah Ali Khamenei, as the war involving his country, the United States and Israel continues to escalate across the Middle East."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/lifestyle/society/story/i-ditched-upi-and-switched-to-only-cash-for-a-week-heres-what-happened-2878481-2026-03-07",
       "headline": "I ditched UPI and switched to only cash for a week. Here's what happenedHandcrafted ByOur Editors Here are some key anecdotes from my week-long experiment of ditching UPI for cash."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/delhi-metro-pink-line-magenta-line-ring-metro-inauguration-key-infrastructure-projects-2878874-2026-03-08",
-      "headline": "PM inaugurates India's 1st ring metro, key Magenta Line stretch in DelhiPrime Minister Narendra Modi inaugurated the Majlis Park\u2013Maujpur-Babarpur stretch of the Pink Line and the Deepali Chowk\u2013Majlis Park extension of the Magenta Line. The Pink Line corridor becomes India's first operational ring metro network."
+      "url": "https://www.indiatoday.in/world/story/ali-larijani-donald-trump-iran-us-israel-middle-east-crisis-war-2878956-2026-03-08",
+      "headline": "Khamenei's top advisor says Iran won't leave Trump alone, US President retortsIran's security chief Ali Larijani has warned that US President Donald Trump will \"pay the price\" for the killing of Supreme Leader Ayatollah Ali Khamenei, as the war involving his country, the United States and Israel continues to escalate across the Middle East."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-nz-t20-world-cup-final-gautam-gambhir-ovation-abhishek-sharma-fifty-2879123-2026-03-08",
+      "headline": "Gautam Gambhir a proud coach after Abhishek Sharma lights up Ahmedabad: See pic T20 World Cup final, IND vs NZ: Experts called on India to drop out-of-form Abhishek Sharma in the final. But, the team management persisted with him. The young left-hander responded with a 21-ball 52, which laid the foundation for India's 255-run total at Narendra Modi Stadium in Ahmedabad. "
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/t20-world-cup-south-africa-england-quinton-de-kock-david-miller-2879117-2026-03-08",
@@ -374,7 +379,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/brett-randell-six-wickets-eight-balls-first-class-cricket-record-2878982-2026-03-08",
-      "headline": "New Zealand cricketer creates history, picks up five wickets in five balls Brett Randell delivered a historic performance in the Plunkett Shield, taking six wickets in eight balls for Central Districts and finishing with 7 for 25, as Northern Districts collapsed to 82 all out and were forced to follow on."
+      "headline": "New Zealand cricketer creates history, picks up five wickets in five ballsBrett Randell delivered a historic performance in the Plunkett Shield, taking six wickets in eight balls for Central Districts and finishing with 7 for 25, as Northern Districts collapsed to 82 all out and were forced to follow on."
     },
     {
       "sentiment": "positive",
@@ -454,7 +459,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-new-zealand-t20-world-cup-final-live-score-updates-ahmedabad-2878871-2026-03-08",
-      "headline": "T20 World Cup final live: Dube's late onslaught helps India post 255India vs New Zealand Live Score, T20 World Cup Final: India (255/5 in 20 ov). India have posted the highest score in T20 World Cup knockouts as Shivam Dube slammed James Neesham for 24 runs in the final over. Can New Zealand chase down the record total?"
+      "headline": "T20 World Cup final live: NZ (103/5 in 11 ov, chasing 256), India 5 wickets away from historic winIndia vs New Zealand Live Score, T20 World Cup Final: New Zealand (103/5 in 11 ov). Varun Chakravarthy has dismissed Tim Seifert for a well-made half-century. New Zealand are falling apart in their massive run chase."
     },
     {
       "sentiment": "positive",
@@ -465,11 +470,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-new-zealand-preview-t20-world-cup-final-predicted-xi-pitch-conditions-weather-report-2878862-2026-03-08",
       "headline": "Final preview: Favourites India look to bury ghosts of Nov 19 in AhmedabadT20 World Cup Final, IND vs NZ Preview: India take on New Zealand in the final of the T20 World Cup. The hosts are set to play the summit clash at the Narendra Modi Stadium once again, a venue where they lost the ODI World Cup 2023 final. Will Suryakumar Yadav's India be able to bury the ghosts of the past?"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/video/t20-world-cup-final-india-vs-new-zealand-suryakumar-yadav-press-conference-2878832-2026-03-07",
-      "headline": "Suryakumar Yadav reveals his leadership mantra: No point being father figureHere is the full transcript of the pre-match press conference of India captain Suryakumar Yadav ahead of the T20 World Cup final against New Zealand in Ahmedabad."
     }
   ],
   "education": [
