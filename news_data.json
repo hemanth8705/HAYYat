@@ -1,6 +1,11 @@
 {
   "business": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/story/indias-russian-oil-imports-jump-50-in-march-as-middle-east-war-hits-energy-supply-2880635-2026-03-12",
+      "headline": "India's Russian oil imports jump 50% in March as Middle East war hits energy supplyIndia currently consumes about 5.8 million barrels of crude oil per day, with nearly 88 per cent of that demand met through imports. A large portion of these supplies typically comes from Middle Eastern producers such as Saudi Arabia, Iraq and the United Arab Emirates."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/personal-finance/story/stock-market-crash-dont-stop-mutual-fund-sip-in-panic-explained-2880416-2026-03-11",
       "headline": "Stock market crash: Why you should not stop your mutual fund SIPs in panicWhen markets fall sharply, fear often takes over investing decisions. But did you know continuing SIPs during market crashes has historically rewarded disciplined investors?"
@@ -94,11 +99,6 @@
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/story/saudi-arabia-uae-iraq-oil-output-cust-strait-of-hormuz-disruption-aramco-chief-warning-2879853-2026-03-10",
       "headline": "Middle East countries cut daily oil output amid Hormuz disruptionFour of the region's largest producers, including Saudi Arabia, Iraq, the United Arab Emirates and Kuwait have collectively reduced output by as much as 6.7 million barrels per day. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/market/story/market-closing-belll-sensex-closes-640-points-higher-nifty-above-24200-mm-gains-4-percent-crude-oil-lpg-2879852-2026-03-10",
-      "headline": "Sensex closes 640 points higher, Nifty above 24,200; M&M gains 4%The S&P BSE Sensex jumped 639.82 points to close at 78,205.98, while the NSE Nifty50 added 233.55 points to end at\u00a024,261.60.\u00a0"
     }
   ],
   "entertainment": [
@@ -202,12 +202,12 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/shots-fired-wedding-farooq-abdullah-jammu-kashmir-deputy-cm-suspect-beaten-arrest-2880609-2026-03-11",
-      "headline": "Shot fired at wedding attended by Farooq Abdullah, man points gun at ex-J&K CMShots were fired at a wedding in Jammu in the presence of former Chief Minister Farooq Abdullah and serving Deputy Chief Minister Surinder Choudhary, the police said. The accused was overpowered by the crowd present there and taken into custody by the police later.\u00a0"
+      "headline": "Shot fired at wedding attended by Farooq Abdullah, man points gun at ex-J&K CMA shot was fired at a wedding in Jammu in the presence of former Chief Minister Farooq Abdullah and serving Deputy Chief Minister Surinder Choudhary, the police said. The accused was overpowered by the crowd present there and taken into custody by the police later.\u00a0"
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/us-israel-iran-war-live-updates-middle-east-crisis-crude-oil-west-asia-tension-strait-of-hormuz-lebanon-trump-irgc-hezbollah-2880076-2026-03-11",
-      "headline": "Live: Trump claims US knocked out Iran leadership twice, says oil prices matter of warUS-Israel-Iran War Live Updates: The conflict between Iran and the joint front of Israel and the United States entered its 12th day on Wednesday, with fresh Iranian missile attacks targeting central Israel before dawn as air raid sirens sounded, and Israeli air defences intercepted incoming rockets. Iranian state media also reported new strikes on US military installations in Bahrain early Wednesday, following a wave of Iranian missile and drone attacks late Tuesday on bases linked to the US in Qatar, Iraq's Kurdistan, the UAE and Bahrain. The escalation comes after intense US and Israeli airstrikes on Iran on Tuesday, described by the Pentagon and witnesses as among the heaviest of the war so far. Iran's Islamic Revolutionary Guard Corps warned it could block oil shipments from the Gulf unless the attacks stop, raising fears of disruption to global energy supplies. Meanwhile, the White House reiterated US President Donald Trump's warning of severe retaliation if Iran attempts to halt shipping through the Strait of Hormuz, even as he said US forces had destroyed 10 Iranian 'inactive' mine-laying vessels in recent strikes. Follow IndiaToday.in for live updates on the Middle East war."
+      "headline": "Live: UN Security Council adopts resolution demanding Iran stop attacks on Gulf nationsUS-Israel-Iran War Live Updates: The conflict between Iran and the joint front of Israel and the United States entered its 12th day on Wednesday, with fresh Iranian missile attacks targeting central Israel before dawn as air raid sirens sounded, and Israeli air defences intercepted incoming rockets. Iranian state media also reported new strikes on US military installations in Bahrain early Wednesday, following a wave of Iranian missile and drone attacks late Tuesday on bases linked to the US in Qatar, Iraq's Kurdistan, the UAE and Bahrain. The escalation comes after intense US and Israeli airstrikes on Iran on Tuesday, described by the Pentagon and witnesses as among the heaviest of the war so far. Iran's Islamic Revolutionary Guard Corps warned it could block oil shipments from the Gulf unless the attacks stop, raising fears of disruption to global energy supplies. Meanwhile, the White House reiterated US President Donald Trump's warning of severe retaliation if Iran attempts to halt shipping through the Strait of Hormuz, even as he said US forces had destroyed 10 Iranian 'inactive' mine-laying vessels in recent strikes. Follow IndiaToday.in for live updates on the Middle East war."
     },
     {
       "sentiment": "positive",
@@ -225,6 +225,11 @@
       "headline": "Iran war: God is great. So is the other God. Also, the other oneThe current war in the Middle East isn't being fought for oil or money or power. All the parties involved, Iran, the US and Israel, are utterly convinced that it is a divine task and the Almighty Himself is on their side."
     },
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/story/indias-russian-oil-imports-jump-50-in-march-as-middle-east-war-hits-energy-supply-2880635-2026-03-12",
+      "headline": "India's Russian oil imports jump 50% in March as Middle East war hits energy supplyIndia currently consumes about 5.8 million barrels of crude oil per day, with nearly 88 per cent of that demand met through imports. A large portion of these supplies typically comes from Middle Eastern producers such as Saudi Arabia, Iraq and the United Arab Emirates."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/south-korea-lesson-learnt-iran-war-middle-east-crisis-conflict-tension-united-states-thaad-patriot-defence-systems-move-gamble-explained-2880464-2026-03-11",
       "headline": "US strikes Iran, South Korea learns a hard lesson about alliancesSouth Korea had put a lot at stake for cooperating with the US on the THAAD project in 2016 \u2013 from the wrath of China, Seoul's largest trading partner, to protests from its own citizens. Now, ten years later, one may wonder if the gamble was too big a political investment."
@@ -236,13 +241,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/lpg-crisis-in-india-induction-cooktops-run-out-of-stock-quick-commerce-blinkit-instamart-2880339-2026-03-11",
-      "headline": "Induction stoves vanish from stores as India grapples with LPG crisisA shortage in LPG cylinders across India has triggered a sharp surge in demand for induction cooktops. Quick commerce platforms and retailers in several neighbourhoods across Mumbai, Delhi and Bengaluru are running out of stock. Retailers report selling 50 to 70 units of induction stoves a day amid panic-buying."
+      "url": "https://www.indiatoday.in/india/story/monalisa-bhosle-marries-farman-khan-kerala-family-opposition-kumbh-mela-2880530-2026-03-11",
+      "headline": "Kumbh fame Monalisa defies family, marries Muslim boyfriend under cop protectionThe couple tied the knot at a temple in Kerala after police said both were adults and free to decide their future."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/monalisa-bhosle-marries-farman-khan-kerala-family-opposition-kumbh-mela-2880530-2026-03-11",
-      "headline": "Kumbh fame Monalisa defies family, marries Muslim boyfriend under cop protectionThe couple tied the knot at a temple in Kerala after police said both were adults and free to decide their future."
+      "url": "https://www.indiatoday.in/india/story/lpg-crisis-in-india-induction-cooktops-run-out-of-stock-quick-commerce-blinkit-instamart-2880339-2026-03-11",
+      "headline": "Induction stoves vanish from stores as India grapples with LPG crisisA shortage in LPG cylinders across India has triggered a sharp surge in demand for induction cooktops. Quick commerce platforms and retailers in several neighbourhoods across Mumbai, Delhi and Bengaluru are running out of stock. Retailers report selling 50 to 70 units of induction stoves a day amid panic-buying."
     },
     {
       "sentiment": "positive",
@@ -256,13 +261,18 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/kritika-kamra-gaurav-kapur-wedding-mumbai-ceremony-newlyweds-first-photos-2880480-2026-03-11",
+      "headline": "Kritika Kamra, Gaurav Kapur are now married: Newlyweds pose for media. See picsActor Kritika Kamra and cricket commentator Gaurav Kapur got married in a private signing ceremony in Mumbai on March 11. Actors Farhan Akhtar, Malaika Arora, Neha Dhupia, Soha Ali Khan, among others were in attendance.\u00a0"
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/cities/mumbai/story/mumbai-doctor-dental-student-suicide-muslim-dating-app-note-recovered-blames-boyfriend-insults-derogatory-remarks-mental-trauma-abuse-disrespect-bumble-2880548-2026-03-11",
       "headline": "Feel the lowest ever: Dentist dies by suicide, blames boyfriend in 6-page noteStuti Sonawne detailed in the suicide note how her boyfriend,\u00a0Faizul Mohammad Khan, constantly insulted her and used derogatory remarks. She wrote that his constant disrespectful behaviour had made her feel the \"lowest ever\" in life."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/kritika-kamra-gaurav-kapur-wedding-mumbai-ceremony-newlyweds-first-photos-2880480-2026-03-11",
-      "headline": "Kritika Kamra, Gaurav Kapur are now married: Newlyweds pose for media. See picsActor Kritika Kamra and cricket commentator Gaurav Kapur got married in a private signing ceremony in Mumbai on March 11. Actors Farhan Akhtar, Malaika Arora, Neha Dhupia, Soha Ali Khan, among others were in attendance.\u00a0"
+      "url": "https://www.indiatoday.in/health/story/meet-the-designer-rice-scientists-say-could-tackle-diabetes-and-malnutrition-2880310-2026-03-11",
+      "headline": "India's high-protein 'designer rice' could help fight diabetesScientists in India have developed a new type of rice that contains three times more protein and has a lower glycaemic index. The innovation could help tackle diabetes, malnutrition, and nutrient deficiencies without changing people's eating habits."
     },
     {
       "sentiment": "positive",
@@ -271,18 +281,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/health/story/meet-the-designer-rice-scientists-say-could-tackle-diabetes-and-malnutrition-2880310-2026-03-11",
-      "headline": "India's high-protein 'designer rice' could help fight diabetesScientists in India have developed a new type of rice that contains three times more protein and has a lower glycaemic index. The innovation could help tackle diabetes, malnutrition, and nutrient deficiencies without changing people's eating habits."
+      "url": "https://www.indiatoday.in/entertainment/music/story/fa9la-singer-flipperachi-cancelled-shows-in-india-days-before-gig-heres-why-2880594-2026-03-11",
+      "headline": "FA9LA singer Flipperachi cancelled shows in India days before gig. Here's whyBahraini rapper Flipperachi became a household name in India after his viral hit FA9LA from the film Dhurandhar. However, he will not perform at scheduled shows in Bengaluru and Mumbai. Read to know the reason."
     },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/cities/bengaluru/story/bengaluru-pgs-limit-meals-avoid-dosa-lpg-shortage-guidelines-2880355-2026-03-11",
       "headline": "2 meals a day, no dosa-poori: Bengaluru PG body's guidelines amid LPG crunchBengaluru PG accommodations have begun restricting meal options and limiting gas-heavy dishes like dosa, poori and chapati due to a shortage of commercial LPG cylinders. PG owners have advised switching to rice-based dishes, reducing weekday meals to two, and using electric cooking alternatives.\r\n\r\n"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/music/story/fa9la-singer-flipperachi-cancelled-shows-in-india-days-before-gig-heres-why-2880594-2026-03-11",
-      "headline": "FA9LA singer Flipperachi cancelled shows in India days before gig. Here's whyBahraini rapper Flipperachi became a household name in India after his viral hit FA9LA from the film Dhurandhar. However, he will not perform at scheduled shows in Bengaluru and Mumbai. Read to know the reason."
     },
     {
       "sentiment": "positive",
@@ -296,11 +301,6 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/jobs/story/what-is-the-us-wisa-bill-new-proposal-could-reshape-h-1b-rules-for-indians-educ-2880490-2026-03-11",
-      "headline": "New US WISA bill may ease strict H-1B rules, major relief likely for IndiansA new US proposal called the WISA bill could roll back strict rules imposed on the H-1B visa programme in 2025. If passed, the legislation may ease hiring barriers for companies and benefit thousands of Indian professionals and students who rely on the H-1B pathway to build careers in the United States."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/education-today/gk-current-affairs/story/when-architecture-meets-physics-the-wind-tunnel-of-iit-delhi-2880280-2026-03-11",
       "headline": "This IIT Delhi wind tunnel turns Bernoulli's Principle into a breezeThe 'Wind Tunnel', yes, you read that right, at IIT Delhi is often referred to by students as a real-life example of Bernoulli's Principle, a concept they usually study in physics textbooks."
     },
@@ -311,13 +311,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/trump-announces-historic-300-billion-oil-refinery-in-texas-thanks-partners-in-india-reliance-2880097-2026-03-11",
-      "headline": "Trump announces historic $300 billion oil refinery in Texas, thanks RelianceAnnouncing the project in a Truth Social post, Trump said the refinery will be built in Brownsville, Texas, as part of a USD 300 billion deal aimed at boosting American energy production and strengthening economic ties with international partners."
+      "url": "https://www.indiatoday.in/jobs/story/what-is-the-us-wisa-bill-new-proposal-could-reshape-h-1b-rules-for-indians-educ-2880490-2026-03-11",
+      "headline": "New US WISA bill may ease strict H-1B rules, major relief likely for IndiansA new US proposal called the WISA bill could roll back strict rules imposed on the H-1B visa programme in 2025. If passed, the legislation may ease hiring barriers for companies and benefit thousands of Indian professionals and students who rely on the H-1B pathway to build careers in the United States."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/hansika-motwani-sohail-khaturiya-end-4-year-marriage-with-mutual-consent-2880328-2026-03-11",
-      "headline": "Actor Hansika Motwani, businessman husband Sohael Khaturiya granted divorceActor Hansika Motwani and businessman Sohael Khaturiya have ended their four-year marriage. A family court in Mumbai has granted the couple a divorce."
+      "url": "https://www.indiatoday.in/world/story/trump-announces-historic-300-billion-oil-refinery-in-texas-thanks-partners-in-india-reliance-2880097-2026-03-11",
+      "headline": "Trump announces historic $300 billion oil refinery in Texas, thanks RelianceAnnouncing the project in a Truth Social post, Trump said the refinery will be built in Brownsville, Texas, as part of a USD 300 billion deal aimed at boosting American energy production and strengthening economic ties with international partners."
     }
   ],
   "sports": [
