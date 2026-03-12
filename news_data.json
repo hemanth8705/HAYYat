@@ -1,6 +1,21 @@
 {
   "business": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/lpg-cylinder-storage-crisis-limit-india-hoarding-law-penalty-fine-essential-commodities-act-2880763-2026-03-12",
+      "headline": "Stocking LPG cylinders during shortage? Know the legal limits and penaltiesUnder law, a domestic household is generally allowed to keep two LPG cylinders of 14.2 kg each at a time. This usually includes one cylinder connected for use and another spare cylinder kept as backup."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/market/story/rupee-sinks-to-record-low-of-rs-9236-against-us-dollar-2880738-2026-03-12",
+      "headline": "Rupee sinks to record low of Rs 92.36 against US dollarThe currency weakened as global markets reacted to escalating tensions in West Asia and a sharp jump in oil prices, with Brent crude climbing above $100 per barrel."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/commodities/story/brent-crude-oil-100-dollar-per-barrel-why-are-prices-rising-again-iran-war-strait-of-hormuz-2880718-2026-03-12",
+      "headline": "Brent crude back above $100 per barrel: Why are oil prices rising again?Brent crude has crossed $100 again. With tanker attacks and rising war tensions threatening supply routes, the big question now is how long oil prices will stay this high."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/story/iran-us-israel-war-bank-closures-reported-across-gulf-countries-2880708-2026-03-12",
       "headline": "Bank closures reported across Gulf after Iran warns civilians to stay 1 km awayIran's warning came after reports that an administrative building linked to Bank Sepah, one of Iran's largest state-owned banks, was hit overnight in Tehran."
@@ -23,7 +38,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/lpg-cylinder-shortage-live-updates-chennai-kolkata-bengaluru-gas-supply-crisis-hotels-restaurants-2880671-2026-03-12",
-      "headline": "LPG shortage live: Tamil Nadu hostels to cut tea, coffee, dosa from menusLPG shortage live updates: Police in several states have stepped up monitoring amid rumours and panic around LPG supply, warning of strict action against misinformation and illegal activities such as hoarding and theft of gas cylinders. Authorities have already made arrests in some cases linked to stolen or illegally stored LPG cylinders. Meanwhile, reports of disruption in commercial LPG supply have surfaced in several Indian cities, with hotels and restaurants saying they are facing difficulties in getting cooking gas cylinders. Hospitality associations in cities such as Mumbai, Bengaluru and Kolkata say many eateries are struggling to secure commercial LPG, forcing some businesses to limit operations or reduce menu offerings. The government, however, maintains that there is no nationwide LPG crisis and says refineries have been asked to raise production, with output increased by around 10% to stabilise supply. The concerns come at a time when global energy markets are facing disruptions linked to tensions in West Asia, which have affected fuel supply chains. Follow this live blog for the latest updates on LPG supply, government measures, city-wise impact and developments related to the cooking gas situation across India."
+      "headline": "LPG shortage live: PM Modi tells ministers to counter misinformation and panicLPG shortage live updates: Police in several states have stepped up monitoring amid rumours and panic around LPG supply, warning of strict action against misinformation and illegal activities such as hoarding and theft of gas cylinders. Authorities have already made arrests in some cases linked to stolen or illegally stored LPG cylinders. Meanwhile, reports of disruption in commercial LPG supply have surfaced in several Indian cities, with hotels and restaurants saying they are facing difficulties in getting cooking gas cylinders. Hospitality associations in cities such as Mumbai, Bengaluru and Kolkata say many eateries are struggling to secure commercial LPG, forcing some businesses to limit operations or reduce menu offerings. The government, however, maintains that there is no nationwide LPG crisis and says refineries have been asked to raise production, with output increased by around 10% to stabilise supply. The concerns come at a time when global energy markets are facing disruptions linked to tensions in West Asia, which have affected fuel supply chains. Follow this live blog for the latest updates on LPG supply, government measures, city-wise impact and developments related to the cooking gas situation across India."
     },
     {
       "sentiment": "negative",
@@ -33,7 +48,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/personal-finance/story/stock-market-crash-dont-stop-mutual-fund-sip-in-panic-explained-2880416-2026-03-11",
-      "headline": "Stock market crash: Why you should not stop your mutual fund SIPs in panicWhen markets fall sharply, fear often takes over investing decisions. But did you know continuing SIPs during market crashes has historically rewarded disciplined investors?"
+      "headline": "Stock market crash? Why stopping your SIPs in panic is a bad ideaWhen markets fall sharply, fear often takes over investing decisions. But did you know continuing SIPs during market crashes has historically rewarded disciplined investors?"
     },
     {
       "sentiment": "positive",
@@ -84,24 +99,24 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/market/story/stock-market-opening-bell-sensex-nifty-see-improvement-reliance-jumps-2880136-2026-03-11",
       "headline": "Sensex, Nifty trade flat in early session; Reliance gains, banks weighAt around 9:18 a.m., the BSE Sensex was at 78,279.66, up 73.68 points or 0.09%. The Nifty 50 stood at 24,256.90, down 4.70 points or 0.02% after touching an intraday high of 24,292.35."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/air-india-raises-fuel-surcharge-as-iran-war-pushes-up-jet-fuel-prices-travel-to-get-costlier-2880044-2026-03-10",
-      "headline": "Air India fares to rise as Iran war pushes up jet fuel pricesAir India said the fuel surcharge is due to the sharp rise in aviation turbine fuel (ATF) prices since early March 2026, triggered by supply disruptions in the Gulf region."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/g7-stops-short-of-releasing-oil-reserve-asks-iea-to-assess-market-options-2880033-2026-03-10",
-      "headline": "G7 stops short of releasing oil reserves, asks IEA to assess market optionsAfter soaring to a more than three-year high in the previous session, oil prices plummeted 7 per cent on Tuesday as US President Donald Trump predicted the war in the Middle East could end soon, easing concerns about prolonged disruptions to oil supplies."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/india-eases-fdi-rules-china-border-nations-10-percent-stake-without-approval-2880027-2026-03-10",
-      "headline": "India eases FDI rules for China, allows up to 10% stake without govt approvalUnder the revised policy, overseas investors with up to 10% beneficial ownership from countries sharing a land border with India will now be allowed to invest through the automatic route."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/understanding-anurag-dobhal-how-a-family-rift-spiralled-into-a-livestream-crash-2880350-2026-03-12",
+      "headline": "Understanding Anurag Dobhal: How a family rift spiralled into a livestream crash We look at the events that led to YouTuber Anurag Dobhal aka UK07 Rider's livestream crash. From family disputes and legal battles to mounting mental health struggles, here's all there is to know."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/dhurandhar-mall-scene-goof-sparks-viral-debate-among-fans-2880724-2026-03-12",
+      "headline": "Dhurandhar goof? Fans say Pakistan scene, actually Mumbai mall in Ranveer's film A surprising filming oversight in Ranveer Singh's Dhurandhar has gone viral months after release. As fans discovered, the Pakistani setting may not be what it seemed."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/actor-vishal-hits-back-at-senior-telugu-actor-rajendra-prasad-mgr-would-wet-his-pants-remark-2880717-2026-03-12",
+      "headline": "Actor Vishal hits back at senior Telugu actor's 'MGR would wet his pants' remark Actor Vishal condemned Rajendra Prasad's comments about MGR, calling for an apology after the senior Telugu actor praised Kantha Rao. The Telugu actor's comments were met with a severe backlash."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/anurag-dobhals-wife-ritika-is-pregnant-their-well-being-is-priority-manager-2880712-2026-03-12",
@@ -181,43 +196,28 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/television/story/gaurav-khanna-receive-rs-50-lakh-for-winning-bigg-boss-19-read-what-he-said-2880502-2026-03-11",
       "headline": "Did Gaurav Khanna receive Rs 50 lakh for winning Bigg Boss 19? Read what he said Gaurav Khanna has revealed if he is yet to receive the Rs 50-lakh prize money after winning Bigg Boss Season 19 in December 2025. Read to find out."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/why-ashish-chanchlani-chose-ekaki-release-on-youtube-not-ott-2880477-2026-03-11",
-      "headline": "Here's why Ashish Chanchlani chose Ekaki release on YouTube, not OTT In an exclusive interview with India Today, Ashish Chachlani spoke about his new sci-fi comedy show Ekaki. He even reflected on his decision to release the show on YouTube instead of OTT. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/karnataka-film-chamber-acts-against-paparazzi-for-indecent-filming-of-actresses-2880326-2026-03-11",
-      "headline": "Karnataka film body warns paps after Sapthami Gowda flags objectionable filming The Karnataka Film Chamber of Commerce (KFCC) issued a strong warning to paparazzi, digital media, and content creators after concerns were raised about the way female actors are being filmed at public events, following complaints from Sapthami Gowda and other industry members."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/maamla-legal-hai-season-2-trailer-ravi-kishan-vd-tyagi-takes-the-judge-chair-2880468-2026-03-11",
-      "headline": "Maamla Legal Hai Season 2 trailer: Ravi Kishan's VD Tyagi takes the judge's chair The trailer for Maamla Legal Hai Season 2 offers a glimpse into new cases and developments at Patparganj District Court. The upcoming season will see returning cast members alongside new additions, with the show set for an April 3 premiere on Netflix."
     }
   ],
   "general news": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/iran-allows-indian-oil-tankers-to-pass-through-strait-of-hormuz-after-jaishankars-call-sources-2880728-2026-03-12",
+      "headline": "Indian oil to get safe passage through Hormuz after Jaishankar's call to IranThe Strait of Hormuz is one of the world's most important maritime passages, through which a significant portion of global crude oil and natural gas shipments transit."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/world/story/oil-tankers-attacked-iran-iraqi-crude-persian-gulf-hormuz-us-israel-war-tensions-2880683-2026-03-12",
-      "headline": "Indian killed after Iran hits 2 oil tankers in overnight strikes amid Gulf war Live updatesAn Indian national was killed after Iran struck two oil tankers \u2014 including one owned by a US firm \u2014 off the coast of Iraq overnight, sparking tensions in the region already gripped by the escalating US-Israel-Iran war, which has entered its second week."
+      "headline": "Indian killed after Iran hits 2 oil tankers in overnight strikes amid Gulf war  Live updatesAn Indian national was killed after Iran struck two oil tankers \u2014 including one owned by a US firm \u2014 off the coast of Iraq overnight, sparking tensions in the region already gripped by the escalating US-Israel-Iran war, which has entered its second week."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/farooq-abdullah-attacked-wanted-to-kill-him-for-20-years-says-accused-kamal-singh-jamwal-after-jammu-wedding-firing-2880637-2026-03-12",
-      "headline": "Wanted to kill Farooq Abdullah for 20 years, says Jammu wedding shooterThe gunman, who was caught on camera attempting to shoot former Jammu and Kashmir Chief Minister Farooq Abdullah at a wedding in Jammu, revealed he had been plotting the attack on the 88-year-old National Conference chief for the past 20 years."
+      "url": "https://www.indiatoday.in/india/story/middle-east-war-geopolitical-expert-author-micheal-kugleman-delhi-balancing-act-india-tough-spot-2880663-2026-03-12",
+      "headline": "India in a spot: Michael Kugelman cautions Delhi over its Iran war 'balancing act'The senior fellow at the Asia Pacific Foundation said that, while on one hand, India maintains strong ties with Israel, it also has good ties with Iran, keeping in mind New Delhi's interests in the Middle East. Hence, it won't be easy for India to perfect a balancing act during the ongoing war."
     },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/lpg-cylinder-shortage-gas-india-delhi-noida-up-black-market-restaurants-domestic-supply-2880420-2026-03-12",
       "headline": "Feels like lockdown: LPG shortage revives Covid-time ghosts as lakhs lose workStories from the ground reveal desperation and panic over the LPG refill shortage in India amid the Iran war. Scores of outlets have either increased food prices or shut down, resulting in work losses. People say the crisis is bringing scary memories of the Covid lockdown."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/middle-east-war-geopolitical-expert-author-micheal-kugleman-delhi-balancing-act-india-tough-spot-2880663-2026-03-12",
-      "headline": "India in a spot: Micheal Kugelman cautions Delhi over its Iran war 'balancing act'The senior fellow at the Asia Pacific Foundation said that, while on one hand, India maintains strong ties with Israel, it also has good ties with Iran, keeping in mind New Delhi's interests in the Middle East. Hence, it won't be easy for India to perfect a balancing act during the ongoing war."
     },
     {
       "sentiment": "positive",
@@ -227,17 +227,27 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/iran-us-israel-war-middle-east-gulf-conflict-end-rights-recognition-reparations-conditions-donald-trump-masoud-pezeshkian-2880716-2026-03-12",
-      "headline": "Rights recognition, reparations, among Iran's 3 conditions to end Gulf warIran has set three conditions to end its conflict with the United States and Israel -- recognition of its rights, reparations for war damage, and firm international guarantees against future attacks. "
+      "headline": "Rights recognition, reparations among Iran's 3 conditions to end Gulf warIran has set three conditions to end its conflict with the United States and Israel -- recognition of its rights, reparations for war damage, and firm international guarantees against future attacks. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/trump-administration-launches-trade-probe-targeting-china-eu-india-and-others-after-tariff-setback-2880650-2026-03-12",
-      "headline": "India, China, EU among 16 US trading partners hit by Trump's '301' tariff probesThe Trump administration has launched a Section 301 probe into excess manufacturing capacity in 16 trading partners, a move that could pave the way for new tariffs after the US Supreme Court struck down a key tariff policy."
+      "url": "https://www.indiatoday.in/india/story/farooq-abdullah-attacked-wanted-to-kill-him-for-20-years-says-accused-kamal-singh-jamwal-after-jammu-wedding-firing-2880637-2026-03-12",
+      "headline": "Wanted to kill Farooq Abdullah for 20 years, says Jammu wedding shooterThe gunman, who was caught on camera attempting to shoot former Jammu and Kashmir Chief Minister Farooq Abdullah at a wedding in Jammu, revealed he had been plotting the attack on the 88-year-old National Conference chief for the past 20 years."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/iranian-girls-school-tomahawk-missile-strike-us-at-fault-military-probe-outdated-data-2880607-2026-03-11",
-      "headline": "US behind deadly strike on Iran school, probe finds usage of outdated data: NYTA US military investigation has determined that officers used outdated data provided by the Defense Intelligence Agency during the initial days of the Iran war and the strike was likely a targeting mistake, The New York Times reported."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/lpg-cylinder-shortage-live-updates-chennai-kolkata-bengaluru-gas-supply-crisis-hotels-restaurants-2880671-2026-03-12",
+      "headline": "LPG shortage live: PM Modi tells ministers to counter misinformation and panicLPG shortage live updates: Police in several states have stepped up monitoring amid rumours and panic around LPG supply, warning of strict action against misinformation and illegal activities such as hoarding and theft of gas cylinders. Authorities have already made arrests in some cases linked to stolen or illegally stored LPG cylinders. Meanwhile, reports of disruption in commercial LPG supply have surfaced in several Indian cities, with hotels and restaurants saying they are facing difficulties in getting cooking gas cylinders. Hospitality associations in cities such as Mumbai, Bengaluru and Kolkata say many eateries are struggling to secure commercial LPG, forcing some businesses to limit operations or reduce menu offerings. The government, however, maintains that there is no nationwide LPG crisis and says refineries have been asked to raise production, with output increased by around 10% to stabilise supply. The concerns come at a time when global energy markets are facing disruptions linked to tensions in West Asia, which have affected fuel supply chains. Follow this live blog for the latest updates on LPG supply, government measures, city-wise impact and developments related to the cooking gas situation across India."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-t20-world-cup-champions-no-lesser-prize-odi-title-sanjay-manjrekar-2880729-2026-03-12",
+      "headline": "A trophy is a trophy: Why India's T20 World Cup win is no lesser prizeIndia's T20 World Cup 2026 triumph has triggered familiar attempts to diminish the format and the achievement. Yet conquering a 20-team tournament in cricket's most volatile format demands extraordinary precision, making India's dominance impossible to dismiss."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/news/story/cbse-class-12-english-paper-2026-live-exam-analysis-question-paper-and-student-reactions-2880596-2026-03-12",
+      "headline": "Live: Paper underway, expert analysis, students' review at 1:30pmClass 12 English Board Exam Live Updates: The Central Board of Secondary Education Class 12 English exam 2026 is being held on March 12 from 10:30 am to 1:30 pm. Students can check key details such as the reporting time, exam pattern, marking scheme, and expected questions here. Follow this live blog for real-time updates, exam analysis, expert reactions, and students' feedback."
     },
     {
       "sentiment": "positive",
@@ -246,38 +256,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/lpg-cylinder-shortage-live-updates-chennai-kolkata-bengaluru-gas-supply-crisis-hotels-restaurants-2880671-2026-03-12",
-      "headline": "LPG shortage live: Tamil Nadu hostels to cut tea, coffee, dosa from menusLPG shortage live updates: Police in several states have stepped up monitoring amid rumours and panic around LPG supply, warning of strict action against misinformation and illegal activities such as hoarding and theft of gas cylinders. Authorities have already made arrests in some cases linked to stolen or illegally stored LPG cylinders. Meanwhile, reports of disruption in commercial LPG supply have surfaced in several Indian cities, with hotels and restaurants saying they are facing difficulties in getting cooking gas cylinders. Hospitality associations in cities such as Mumbai, Bengaluru and Kolkata say many eateries are struggling to secure commercial LPG, forcing some businesses to limit operations or reduce menu offerings. The government, however, maintains that there is no nationwide LPG crisis and says refineries have been asked to raise production, with output increased by around 10% to stabilise supply. The concerns come at a time when global energy markets are facing disruptions linked to tensions in West Asia, which have affected fuel supply chains. Follow this live blog for the latest updates on LPG supply, government measures, city-wise impact and developments related to the cooking gas situation across India."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/monalisa-bhosle-marries-farman-khan-kerala-family-opposition-kumbh-mela-2880530-2026-03-11",
-      "headline": "Kumbh fame Monalisa defies family, marries Muslim boyfriend under cop protectionThe couple tied the knot at a temple in Kerala after police said both were adults and free to decide their future."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/cbse-class-12-english-paper-2026-live-exam-analysis-question-paper-and-student-reactions-2880596-2026-03-12",
-      "headline": "Live: Students get 15 minutes to read the question paperThe CBSE Class 12 English Board Exam 2026 is scheduled for March 12 from 10:30 am to 1:30 pm. Students appearing for the paper can check key details such as reporting time, paper pattern, marking scheme and expected questions here. Follow this live blog for real-time updates, exam analysis, expert reactions and students' feedback."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/us-israel-iran-war-god-is-great-so-is-the-other-god-amalek-armageddon-al-mahdi-2880364-2026-03-11",
-      "headline": "Iran war: God is great. So is the other God. Also, the other oneThe current war in the Middle East isn't being fought for oil or money or power. All the parties involved, Iran, the US and Israel, are utterly convinced that it is a divine task and the Almighty Himself is on their side."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/anurag-dobhals-wife-ritika-is-pregnant-their-well-being-is-priority-manager-2880712-2026-03-12",
-      "headline": "Anurag Dobhal's wife Ritika is pregnant, their well-being is priority: Manager\u00a0Anurag Dobhal's manager has shared a new statement after YouTuber's brother shared a series of videos denying all his mental harassment claims against their parents. The manager revealed that Anurag and his wife Ritika are expecting their first child. "
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/cricket/story/hardik-pandya-police-complaint-pune-advocate-t20-world-cup-celebrations-india-flag-insult-2880681-2026-03-12",
-      "headline": "Pune lawyer alleges Hardik Pandya insulted national flag, files police complaintIndia's T20 World Cup celebrations have landed in legal controversy after a Pune lawyer accused Hardik Pandya of disrespecting the national flag during the on-field festivities. The complainant has urged police to register an FIR over the alleged incident."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/trump-says-us-won-iran-war-but-wont-leave-early-vows-to-finish-the-job-2880640-2026-03-12",
-      "headline": "We won in the first hour: Trump claims Iran war victory, vows to finish jobTrump said the United States will remain engaged in the Iran conflict to \"finish the job,\" citing major military gains including the destruction of dozens of Iranian naval vessels."
+      "url": "https://www.indiatoday.in/health/story/extramarital-affairs-intimacy-with-ai-what-does-it-say-about-psychological-well-being-2880730-2026-03-12",
+      "headline": "Extramarital affairs, intimacy with AI: what does it say about psychological well-being?A survey highlighted that Bangalore has the highest number of users seeking extramarital affairs in India."
     },
     {
       "sentiment": "positive",
@@ -286,41 +266,76 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/market/story/stock-market-crash-dalal-street-bloodbath-continues-sensex-nifty-explained-2880700-2026-03-12",
-      "headline": "Sensex tanks over 1,000 points: 3 reasons behind today's stock market crashSensex and Nifty extended their sell-off on Thursday as oil prices surged amid West Asia tensions, weak global cues persisted and foreign investors continued selling, keeping pressure on Indian equities."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/jobs/story/after-claude-saaspocalypse-atlassian-cuts-1600-jobs-to-invest-in-ai-tchc-2880688-2026-03-12",
-      "headline": "After Claude SaaSpocalypse, Atlassian cuts 1,600 jobs to invest in AISaaS giant Atlassian has announced that it is laying off 1,600 employees, accounting for roughly 10 per cent of its global workforce. The company says that it made this decision in an effort to self-fund investments for AI and enterprise sales."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-t20-world-cup-axar-patel-dropped-suryakumar-yadav-mistake-apology-ind-vs-sa-2880719-2026-03-12",
       "headline": "Dropping Axar Patel in IND vs SA was my mistake, I apologised: Suryakumar YadavT20 World Cup: India's only defeat in their triumphant T20 World Cup 2026 campaign came with a selection call that later haunted the team management. Captain Suryakumar Yadav has now admitted dropping Axar Patel for the South Africa clash was his mistake."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/skydiving-science-freefall-explained-gravity-drag-lift-parachute-2880269-2026-03-12",
-      "headline": "I jumped from a plane, and physics made me flyWhy does skydiving work and how do humans safely experience one of the most dramatic adventures in the sky? To better understand it, I jumped from a plane. "
+      "url": "https://www.indiatoday.in/india/story/monalisa-bhosle-marries-farman-khan-kerala-family-opposition-kumbh-mela-2880530-2026-03-11",
+      "headline": "Kumbh fame Monalisa defies family, marries Muslim boyfriend under cop protectionThe couple tied the knot at a temple in Kerala after police said both were adults and free to decide their future."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/amazon-asks-us-government-to-reject-musks-plan-to-launch-1-million-satellites-2880740-2026-03-12",
+      "headline": "Amazon asks US to reject Musk's Plan to launch 1 Million SatellitesThe company said that assuming the use of the entire global launch capacity, the plan still appears impractical."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/lifestyle/fashion/story/kritika-kamra-in-red-saree-gaurav-kapur-in-bandhgala-nail-minimal-wedding-aesthetic-2880735-2026-03-12",
+      "headline": "Kritika Kamra in red saree, Gaurav Kapur in bandhgala nail minimal wedding aestheticKritika Kamra and Gaurav Kapur's wedding was an intimate affair with only close friends and family members in attendance. They even kept the aesthetic minimal but tasteful."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/bird-flew-13000-km-without-stopping-it-shrank-its-organs-to-fly-non-stop-2880751-2026-03-12",
+      "headline": "This bird flew 13,000 km without stopping by shrinking its organsThe journey was tracked using a satellite tag by the United States Geological Survey, offering rare insight into one of nature's most extreme endurance feats."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/cricket/story/hardik-pandya-police-complaint-pune-advocate-t20-world-cup-celebrations-india-flag-insult-2880681-2026-03-12",
+      "headline": "Pune lawyer alleges Hardik Pandya insulted national flag, files police complaintIndia's T20 World Cup celebrations have landed in legal controversy after a Pune lawyer accused Hardik Pandya of disrespecting the national flag during the on-field festivities. The complainant has urged police to register an FIR over the alleged incident."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/trump-administration-launches-trade-probe-targeting-china-eu-india-and-others-after-tariff-setback-2880650-2026-03-12",
+      "headline": "India, China, EU among 16 US trading partners hit by Trump's '301' tariff probesThe Trump administration has launched a Section 301 probe into excess manufacturing capacity in 16 trading partners, a move that could pave the way for new tariffs after the US Supreme Court struck down a key tariff policy."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/music/story/katy-perry-shares-cosy-photos-with-justin-trudeau-fans-call-them-canadas-royals-2880676-2026-03-12",
+      "headline": "Katy Perry shares cosy photos with Justin Trudeau, fans call them Canada's royalsSinger Katy Perry's latest Instagram post included playful moments with Justin Trudeau. The couple confirmed their romance in 2025. "
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/education-today/gk-current-affairs/story/when-architecture-meets-physics-the-wind-tunnel-of-iit-delhi-2880280-2026-03-11",
-      "headline": "This IIT Delhi wind tunnel turns Bernoulli's Principle into a breezeThe 'Wind Tunnel', yes, you read that right, at IIT Delhi is often referred to by students as a real-life example of Bernoulli's Principle, a concept they usually study in physics textbooks."
+      "headline": "At IIT Delhi, a secret wind tunnel turns Bernoulli's Principle into a breezeThe 'Wind Tunnel', yes, you read that right, at IIT Delhi is often referred to by students as a real-life example of Bernoulli's Principle, a concept they usually study in physics textbooks."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/mumbai/story/mumbai-doctor-dental-student-suicide-muslim-dating-app-note-recovered-blames-boyfriend-insults-derogatory-remarks-mental-trauma-abuse-disrespect-bumble-2880548-2026-03-11",
-      "headline": "Feel the lowest ever: Dentist dies by suicide, blames boyfriend in 6-page noteStuti Sonawne detailed in the suicide note how her boyfriend,\u00a0Faizul Mohammad Khan, constantly insulted her and used derogatory remarks. She wrote that his constant disrespectful behaviour had made her feel the \"lowest ever\" in life."
+      "url": "https://www.indiatoday.in/business/market/story/stock-market-crash-dalal-street-bloodbath-continues-sensex-nifty-explained-2880700-2026-03-12",
+      "headline": "Sensex tanks over 1,000 points: 3 reasons behind today's stock market crashSensex and Nifty extended their sell-off on Thursday as oil prices surged amid West Asia tensions, weak global cues persisted and foreign investors continued selling, keeping pressure on Indian equities."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/elections/assembly/story/bjp-kerala-west-bengal-election-candidates-strategy-meeting-pm-modi-amit-shah-2880691-2026-03-12",
-      "headline": "BJP key meet today to finalise candidates, strategy for Kerala, Bengal pollsThe BJP's candidates and poll strategy for Kerala and West Bengal is set to be finalised today at a meeting chaired by Prime Minister Narendra Modi. "
+      "url": "https://www.indiatoday.in/world/story/iranian-girls-school-tomahawk-missile-strike-us-at-fault-military-probe-outdated-data-2880607-2026-03-11",
+      "headline": "US behind deadly strike on Iran school, probe finds usage of outdated data: NYTA US military investigation has determined that officers used outdated data provided by the Defense Intelligence Agency during the initial days of the Iran war and the strike was likely a targeting mistake, The New York Times reported."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-t20-world-cup-white-ball-dominance-viv-richards-different-level-2880759-2026-03-12",
+      "headline": "India are now on a different level: Viv Richards praises white-ball dominance India's recent run in global white-ball tournaments has drawn praise from one of cricket's greatest icons. Viv Richards said the team's dominance in ODIs and T20Is has taken the modern limited-overs game to a new level."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/shivam-dube-gifts-t20-world-cup-2026-medal-to-father-video-viral-2880732-2026-03-12",
+      "headline": "Watch: Dube presents T20 World Cup medal to his father, calls him his real hero Shivam Dube won hearts on social media by placing his T20 World Cup 2026 winner's medal around his father's neck after India's title win. Dube hailed his father as his real hero in the Instagram post. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-t20-world-cup-champions-no-lesser-prize-odi-title-sanjay-manjrekar-2880729-2026-03-12",
+      "headline": "A trophy is a trophy: Why India's T20 World Cup win is no lesser prize India's T20 World Cup 2026 triumph has triggered familiar attempts to diminish the format and the achievement. Yet conquering a 20-team tournament in cricket's most volatile format demands extraordinary precision, making India's dominance impossible to dismiss."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-t20-world-cup-axar-patel-dropped-suryakumar-yadav-mistake-apology-ind-vs-sa-2880719-2026-03-12",
@@ -364,17 +379,17 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/richa-ghosh-deepti-sharma-smriti-mandhana-hundred-auction-manchester-originals-sunrisers-leeds-2880575-2026-03-11",
-      "headline": "Richa Ghosh, Smriti Mandhana reunite at Manchester, Deepti Sharma joins Sunrisers Richa Ghosh joined Manchester Originals Women in The Hundred Women's auction, reuniting with Smriti Mandhana, while Deepti Sharma was picked by Sunrisers Leeds Women. Meanwhile, Yastika Bhatia and N Shree Charani went unsold. \r\n"
+      "headline": "Richa Ghosh, Smriti Mandhana reunite at Manchester, Deepti Sharma joins SunrisersRicha Ghosh joined Manchester Originals Women in The Hundred Women's auction, reuniting with Smriti Mandhana, while Deepti Sharma was picked by Sunrisers Leeds Women. Meanwhile, Yastika Bhatia and N Shree Charani went unsold. \r\n"
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/t20-world-cup-jitesh-sharma-squad-snub-father-death-ipl-rcb-2880534-2026-03-11",
-      "headline": "No regrets about T20 World Cup snub, spent time with dying father: Jitesh Sharma Speaking in the lead-up to IPL 2026, Jitesh Sharma said he was disheartened after being left out of India's T20 World Cup squad. However, the RCB wicketkeeper-batter added that he has no regrets, as the snub allowed him to spend precious time with his father, who died on February 1."
+      "headline": "No regrets about T20 World Cup snub, spent time with dying father: Jitesh SharmaSpeaking in the lead-up to IPL 2026, Jitesh Sharma said he was disheartened after being left out of India's T20 World Cup squad. However, the RCB wicketkeeper-batter added that he has no regrets, as the snub allowed him to spend precious time with his father, who died on February 1."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/arshdeep-singh-fined-gambhir-defends-pacer-after-t20-world-cup-final-incident-2880514-2026-03-11",
-      "headline": "Arshdeep Singh didn't need to say sorry to Daryl Mitchell: Gautam Gambhir Gautam Gambhir said Arshdeep Singh did not need to apologise to Daryl Mitchell after their on-field exchange in the ICC Men's T20 World Cup final. Arshdeep was later fined 15 per cent of his match fee by the ICC for breaching the Code of Conduct."
+      "headline": "Arshdeep Singh didn't need to say sorry to Daryl Mitchell: Gautam GambhirGautam Gambhir said Arshdeep Singh did not need to apologise to Daryl Mitchell after their on-field exchange in the ICC Men's T20 World Cup final. Arshdeep was later fined 15 per cent of his match fee by the ICC for breaching the Code of Conduct."
     },
     {
       "sentiment": "positive",
@@ -460,16 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ishan-kishan-no2-icc-t20-rankings-sanju-samson-career-best-2880295-2026-03-11",
       "headline": "T20 World Cup: Abhishek Sharma, Ishan Kishan top ICC rankings, Samson makes big leapIshan Kishan has climbed to No.2 in the ICC T20I batter rankings, while Sanju Samson jumps 18 spots to 22nd with a career-best 637 points after India's T20 World Cup triumph."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/kirti-azad-defends-remarks-team-india-temple-visit-gambhir-responds-2880286-2026-03-11",
-      "headline": "Kirti Azad defends remarks on Team India's temple visit: Everyone should be respectedFormer India cricketer Kirti Azad has defended his criticism of Team India for taking the T20 World Cup 2026 trophy to a temple, as head coach Gautam Gambhir hit back at the remarks."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/iran-fifa-world-cup-usa-donald-trump-green-light-gianni-infantino-west-asia-tensions-2880259-2026-03-11",
-      "headline": "Donald Trump has given Iran green light to play FIFA World Cup in USA: InfantinoFIFA president Gianni Infantino said US President Donald Trump had assured that Iran would be allowed to travel to the United States to compete in the 2026 FIFA World Cup. The confirmation came amid growing doubts over Iran's participation due to rising geopolitical tensions."
     }
   ],
   "education": [
