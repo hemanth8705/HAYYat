@@ -2,6 +2,11 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/airlines-warn-of-airfare-hike-over-dgca-60-per-cent-free-seat-allocation-rule-2885157-2026-03-21",
+      "headline": "May lead to spike in fares: Airlines oppose 60% free seat ruleA new government directive on free seat allocation has triggered sharp opposition from airlines, who warn it could push up fares, hurt affordability and reshape how tickets are priced across India's aviation sector."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/personal-finance/story/why-bank-lockers-are-hard-to-get-in-india-locker-shortage-alternatives-private-locker-options-2885100-2026-03-21",
       "headline": "Why bank lockers are hard to get and what you can do insteadThis is the third part of Lock & Key, a series that looks at how India's bank locker system works, the risks involved, and what customers need to know. After examining safety and insurance in the first two parts, this story focusses on a new problem \u2013 access. "
     },
@@ -94,11 +99,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/us-new-general-license-russian-crude-oil-sales-excluding-north-korea-cuba-crimea-2884459-2026-03-20",
       "headline": "US issues fresh 30-day sanctions waiver for purchase of Russian oil at seaThe license, which expires on April 11, replaces and supersedes a similar 30-day sanctions waiver issued on March 12."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/us-remove-sanctions-iranian-oil-boost-global-supply-reduce-prices-2884408-2026-03-19",
-      "headline": "US says it may lift sanctions on Iranian oil stranded in tankers to calm pricesUS Treasury Secretary Scott Bessent said the addition of sanctioned Iranian oil into global supplies would help keep oil prices down for the next 10 to 14 days. Oil prices have been above $100 per barrel for much of the past two weeks as Iran has closed the Strait of Hormuz to shipping and has attacked tankers."
     }
   ],
   "entertainment": [
@@ -145,7 +145,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/dhurandhar-2-the-revenge-box-office-collection-day-2-detailed-report-rs-200-crore-milestone-achieved-by-ranveer-singh-eid-bonanza-ahead-2885035-2026-03-20",
-      "headline": "Dhurandhar 2 box office Day 2: Rs 200 crore milestone done, Eid bonanza ahead Dhurandhar: The Revenge has entered the Rs 200 crore club in just two days at the box office, but the real surge is yet to begin as the weekend and Eid festivities kick in. The film's winning run has only just begun."
+      "headline": "Dhurandhar 2 box office Day 2: Rs 200 crore milestone done, Eid bonanza ahead Dhurandhar: The Revenge has officially entered into its festive weekend at the box office with a lot of swag and buzz. The film has already crossed the benchmark of Rs 200 crore, and the sky is the limit from here. Here's a detailed box office report after its two-day run. "
     },
     {
       "sentiment": "positive",
@@ -200,9 +200,9 @@
   ],
   "general news": [
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/two-indian-lpg-tankers-ready-to-cross-strait-of-hormuz-as-shipping-slows-amid-tensions-2885096-2026-03-21",
-      "headline": "Two more India-bound LPG tankers to cross war-hit Strait of HormuzWith hundreds of vessels anchored and crude flows stalled, two Indian LPG tankers prepare to sail through Hormuz."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/refiners-in-india-to-buy-iranian-oil-after-us-waives-sanctions-await-govt-approval-2885151-2026-03-21",
+      "headline": "It's back to Iranian oil for India after US waiver, but Tehran throws a spannerRefiners in India are planning to resume buying Iranian oil after the US lifted sanctions. It came as energy prices shot up amid the Iran war. It comes on the back of India already snapping up Russian oil currently stranded at sea."
     },
     {
       "sentiment": "positive",
@@ -210,9 +210,14 @@
       "headline": "India bans Oscar-nominated film amid Israel-Iran war. Know the real storyThe Voice of Hind Rajab, an Oscar-nominated film scheduled for release this week, has been blocked in India. The reason cited was that it could affect India's cordial ties with Israel amid the Iran war, as per a report. Why has the film stirred controversy? What is it about?"
     },
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/student-shot-dead-in-varanasi-college-father-refuses-cremation-seeks-encounter-2885063-2026-03-21",
+      "headline": "Student shot dead at UP college; father refuses cremation, seeks encounterA student was shot dead on campus in Varanasi, triggering protests, while his father refused cremation and demanded an encounter of the accused amid an ongoing police probe."
+    },
+    {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/iran-war-us-israel-gone-rogue-ali-larijani-killin-south-pars-gas-field-donald-trump-benjamin-netanyahu-2884969-2026-03-21",
-      "headline": "Has Israel gone rogue on the US?\u00a0Israel and the US started the Iran war together. But the killing of Larijani and the striking of the South Pars gas field by Israel are being seen as \"unilateral\" acts. Has Israel gone rogue?\u00a0"
+      "url": "https://www.indiatoday.in/india/story/two-indian-lpg-tankers-ready-to-cross-strait-of-hormuz-as-shipping-slows-amid-tensions-2885096-2026-03-21",
+      "headline": "Two more India-bound LPG tankers to cross war-hit Strait of HormuzWith hundreds of vessels anchored and crude flows stalled, two Indian LPG tankers prepare to sail through Hormuz."
     },
     {
       "sentiment": "positive",
@@ -236,8 +241,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/why-bank-lockers-are-hard-to-get-in-india-locker-shortage-alternatives-private-locker-options-2885100-2026-03-21",
-      "headline": "Why bank lockers are hard to get and what you can do insteadThis is the third part of Lock & Key, a series that looks at how India's bank locker system works, the risks involved, and what customers need to know. After examining safety and insurance in the first two parts, this story focusses on a new problem \u2013 access. "
+      "url": "https://www.indiatoday.in/lifestyle/society/story/technology-impact-food-habits-health-dating-culture-mental-health-india-2884667-2026-03-21",
+      "headline": "From dating to health: How technology has ruined our livesHandcrafted ByOur Editors Men overwhelmed by choices on dating apps, teens placing 2 am pizza orders out of boredom, couples planning vacations because their friends also went and even elderly scrolling endlessly before sleep: technology has taken away more than it has given."
     },
     {
       "sentiment": "positive",
@@ -250,9 +255,9 @@
       "headline": "Rare March fog shrouds Delhi on Eid: What's behind it?The dense cover of fog that covered Delhi-NCR early Saturday was unseasonal. What caused it?"
     },
     {
-      "sentiment": "positive",
+      "sentiment": "negative",
       "url": "https://www.indiatoday.in/world/story/us-israel-iran-war-live-updates-donald-trump-netanyahu-strait-of-hormuz-ali-mohammad-naini-middle-east-dubai-uae-2885056-2026-03-21",
-      "headline": "Live: Israeli forces claim 20+ Hezbollah terrorists killed in 24 hours in LebanonUS-Israel-Iran War Live Updates: The United States is reinforcing its Middle East presence, sending three additional warships and about 2,500 Marines, bringing troop levels to roughly 50,000. The Pentagon is seeking $200 billion in war funding as national debt reaches $39 trillion. Fighting has intensified, with Iran launching strikes on Israel and Gulf energy sites while Israel targets Tehran. Prime Minister Benjamin Netanyahu claimed Iran's nuclear and missile capabilities are crippled, though damage remains unclear. Civilian tolls are mounting across the region, with thousands killed or displaced in Iran, Lebanon and beyond, while energy infrastructure attacks have driven global oil and gas prices sharply higher. Stay tuned to IndiaToday.in for the latest updates."
+      "headline": "Live: Iran fires 2 missiles at US base Diego Garcia, 4,000 km away from TehranUS-Israel-Iran War Live Updates: The United States is reinforcing its Middle East presence, sending three additional warships and about 2,500 Marines, bringing troop levels to roughly 50,000. The Pentagon is seeking $200 billion in war funding as national debt reaches $39 trillion. Fighting has intensified, with Iran launching strikes on Israel and Gulf energy sites while Israel targets Tehran. Prime Minister Benjamin Netanyahu claimed Iran's nuclear and missile capabilities are crippled, though damage remains unclear. Civilian tolls are mounting across the region, with thousands killed or displaced in Iran, Lebanon and beyond, while energy infrastructure attacks have driven global oil and gas prices sharply higher. Stay tuned to IndiaToday.in for the latest updates."
     },
     {
       "sentiment": "positive",
@@ -261,18 +266,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/dhurandhar-2-spreading-lies-and-hatred-aimim-leader-demands-film-ban-2885135-2026-03-21",
-      "headline": "Dhurandhar 2 spreading lies and hatred: AIMIM leader demands film banHowever, amid criticism about the film's messaging, former Jammu and Kashmir Director General of Police SP Vaid has defended the film. Vaid said that the movie reflects uncomfortable truths."
+      "url": "https://www.indiatoday.in/world/story/iran-war-us-israel-gone-rogue-ali-larijani-killin-south-pars-gas-field-donald-trump-benjamin-netanyahu-2884969-2026-03-21",
+      "headline": "Has Israel gone rogue on the US?\u00a0Israel and the US started the Iran war together. But the killing of Larijani and the striking of the South Pars gas field by Israel are being seen as \"unilateral\" acts. Has Israel gone rogue?\u00a0"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/trump-says-us-is-considering-winding-down-its-middle-east-military-operation-2885061-2026-03-21",
-      "headline": "Trump considers winding down Iran war, says others must guard Strait of HormuzPresident Donald Trump said the US is close to meeting its Iran war objectives, signalled a possible drawdown of military efforts, and urged other nations to take responsibility for securing the Strait of Hormuz."
+      "url": "https://www.indiatoday.in/auto/story/renault-duster-first-drive-review-the-icon-returns-2885155-2026-03-21",
+      "headline": "Renault Duster first drive review: The icon returnsThe all-new Renault Duster returns with contemporary styling, a modern cabin and a turbo-petrol punch, aiming to rekindle its legacy as a rugged yet engaging SUV for Indian buyers."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/mumbai/story/beat-report-mumbais-mithi-river-isnt-dirty-its-a-system-in-decay-2885106-2026-03-21",
-      "headline": "Mumbai's Mithi river isn't dirty, it's a system in decayWith no contractors stepping forward to clean the Mithi river and the monsoon fast approaching, Mumbai faces rising flood risks, exposing systemic failures, administrative gaps and public neglect that continue to leave the city vulnerable year after year."
+      "url": "https://www.indiatoday.in/movies/bollywood/story/dhurandhar-how-aditya-dhar-made-india-sit-in-theatres-for-7-hours-in-reels-era-ranveer-singh-2884753-2026-03-20",
+      "headline": "Dhurandhar: How Aditya Dhar made India sit in theatres for 7 hours in reels eraIn an age of dwindling attention span, director Aditya Dhar has achieved the remarkable feat of holding Indian audiences captive for over seven hours across two films. His Dhurandhar series blends history and fiction to create a compelling cinematic universe."
     },
     {
       "sentiment": "positive",
@@ -286,13 +291,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/jobs/story/notice-period-trap-when-waiting-means-losing-your-next-job-educ-2884739-2026-03-21",
-      "headline": "Caught in the notice period trap: When waiting means losing your next jobWhat if your next job offer slipped away, not because you lacked skills, but because you could not join in time? The Foundit Insights Tracker - Jan'26 Trends has shown that hiring urgency has raced ahead of candidate availability. As companies rush to hire faster, long notice periods are quietly becoming career roadblocks for many professionals. "
+      "url": "https://www.indiatoday.in/science/story/inside-an-oil-tanker-gas-transport-west-asia-conflict-us-israel-iran-war-lpg-ship-2884825-2026-03-21",
+      "headline": "Inside an oil tanker: The high-stakes journey of oil and gas across oceansAs India wrestles with disruptions in LPG and crude oil supplies amid escalating tensions in the Middle East, the spotlight has turned to a critical yet often invisible link in the energy chain: oil and gas tankers. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/trump-says-he-doesnt-want-ceasefire-with-iran-claims-us-is-obliterating-enemy-2885058-2026-03-21",
-      "headline": "I don't want a ceasefire: Trump says US is 'obliterating' Iran as war rages onTrump ruled out a ceasefire with Iran, saying the US will continue military operations despite openness to dialogue, as he claimed Tehran's military capabilities have been largely destroyed."
+      "url": "https://www.indiatoday.in/business/personal-finance/story/why-bank-lockers-are-hard-to-get-in-india-locker-shortage-alternatives-private-locker-options-2885100-2026-03-21",
+      "headline": "Why bank lockers are hard to get and what you can do insteadThis is the third part of Lock & Key, a series that looks at how India's bank locker system works, the risks involved, and what customers need to know. After examining safety and insurance in the first two parts, this story focusses on a new problem \u2013 access. "
     },
     {
       "sentiment": "positive",
@@ -301,21 +306,26 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/opinion/story/jesus-genghis-khan-and-israel-that-netanyahu-has-made-2884949-2026-03-21",
-      "headline": "Jesus,\u00a0Genghis Khan\u00a0and Israel that Netanyahu has madeOn Thursday night, Netanyahu said, \"Jesus Christ has no advantage over Genghis Khan. Because if you are strong enough, ruthless enough, powerful enough, evil will overcome good. Aggression will overcome moderation.\""
+      "url": "https://www.indiatoday.in/india/story/dhurandhar-2-spreading-lies-and-hatred-aimim-leader-demands-film-ban-2885135-2026-03-21",
+      "headline": "Dhurandhar 2 spreading lies and hatred: AIMIM leader demands film banHowever, amid criticism about the film's messaging, former Jammu and Kashmir Director General of Police SP Vaid has defended the film. Vaid said that the movie reflects uncomfortable truths."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/dhurandhar-how-aditya-dhar-made-india-sit-in-theatres-for-7-hours-in-reels-era-ranveer-singh-2884753-2026-03-20",
-      "headline": "Dhurandhar: How Aditya Dhar made India sit in theatres for 7 hours in reels eraIn an age of dwindling attention span, director Aditya Dhar has achieved the remarkable feat of holding Indian audiences captive for over seven hours across two films. His Dhurandhar series blends history and fiction to create a compelling cinematic universe."
+      "url": "https://www.indiatoday.in/cities/mumbai/story/beat-report-mumbais-mithi-river-isnt-dirty-its-a-system-in-decay-2885106-2026-03-21",
+      "headline": "Mumbai's Mithi river isn't dirty, it's a system in decayWith no contractors stepping forward to clean the Mithi river and the monsoon fast approaching, Mumbai faces rising flood risks, exposing systemic failures, administrative gaps and public neglect that continue to leave the city vulnerable year after year."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/iran-war-shahed-136-drones-us-israel-moped-sound-german-engine-middle-east-war-2884772-2026-03-21",
-      "headline": "Why Iran's killer Shahed drones have moped-like soundThe Shahed-136 drone has emerged as Tehran's weapon of choice in the ongoing war in the Middle East. It was used by Russia in the Ukraine war. The Ukrainians call the Shahed-136 \"a moped\" because of the sound it makes. Here's more about Shahed-136's unique journey and the reason behind the distinctive sound."
+      "url": "https://www.indiatoday.in/world/story/trump-says-us-is-considering-winding-down-its-middle-east-military-operation-2885061-2026-03-21",
+      "headline": "Trump considers winding down Iran war, says others must guard Strait of HormuzPresident Donald Trump said the US is close to meeting its Iran war objectives, signalled a possible drawdown of military efforts, and urged other nations to take responsibility for securing the Strait of Hormuz."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/laxman-sivaramakrishnan-bcci-jay-shah-commentary-exit-controversy-2885159-2026-03-21",
+      "headline": "Laxman Sivaramakrishnan says no BCCI, Jay Shah links to commentary exit L Sivaramakrishnan denies BCCI and Jay Shah's role in his commentary exit, saying his issue was with an individual after alleging bias. Sivaramakrishnan retired from BCCI commentary on March 20. "
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/pakistan-cricket-gary-kirsten-mohsin-naqvi-toxic-work-culture-2885141-2026-03-21",
@@ -369,7 +379,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/sayali-satghare-wpl-win-perth-test-debut-india-journey-2884993-2026-03-20",
-      "headline": "Sayali Satghare relishes special 2026 journey: From WPL glory to Perth Test debut Sayali Satghare reflected on a dream few months that saw her go from unsold in the 2026 WPL auction to winning the title with RCB and making her India Test debut at the WACA in Perth."
+      "headline": "Sayali Satghare relishes special 2026 journey: From WPL glory to Perth Test debutSayali Satghare reflected on a dream few months that saw her go from unsold in the 2026 WPL auction to winning the title with RCB and making her India Test debut at the WACA in Perth."
     },
     {
       "sentiment": "positive",
@@ -460,11 +470,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/sanju-samson-shashi-tharoor-ms-dhoni-remark-ipl-2026-csk-2884581-2026-03-20",
       "headline": "'Uncle' Shashi Tharoor recalls meeting 14-year-old Samson, Dhoni predictionShashi Tharoor said that he is more like an uncle to Sanju Samson and recalled meeting the wicketkeeper when he was 14 years old. Tharoor also said that he had dubbed Samson to be the next MS Dhoni right after he met him. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/champions-league-premier-league-laliga-real-madrid-barcelona-manchester-city-2884537-2026-03-20",
-      "headline": "Best in the world? Premier League clubs handed a European reality checkLaLiga sides outclassed Premier League clubs in the Champions League Round of 16, exposing the gap between hype and execution. Spanish teams once again showed why they remained Europe's most reliable performers."
     }
   ],
   "education": [
