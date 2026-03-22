@@ -1,6 +1,11 @@
 {
   "business": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/story/crude-oil-supply-shortage-west-asia-war-iran-us-global-recession-risk-explained-2885418-2026-03-22",
+      "headline": "Oil shock deepens as West Asia war escalates. Is a global recession coming?The world is already feeling the heat as the West Asia conflict enters its fourth week, pushing global crude oil prices higher. In this article, we speak to experts to understand whether this shock could tip the world toward a recession."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/lpg-crisis-supply-government-approves-commercial-allocation-increase-domestic-output-improves-fuel-crisis-iran-war-middle-east-tension-conflict-2885330-2026-03-21",
       "headline": "Govt nod to hike commercial LPG allocation to 50% as domestic output improvesThe additional allocation will be subject to commercial establishments registering with oil companies and applying for a piped natural gas connection, according to a letter written by the oil secretary to states."
@@ -94,11 +99,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/real-estate/story/dubai-property-bubble-burst-west-asia-conflict-iran-strikes-2884515-2026-03-20",
       "headline": "Is Dubai's luxury housing boom starting to crack as Gulf conflict escalates?Dubai's property market faces a key test as tensions rise, sentiment weakens, and luxury villa deals come under pressure, with the outlook hinging on how demand and geopolitical risks evolve."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/market/story/market-opening-bell-sensex-jumps-800-points-nifty-above-23200-it-stocks-rally-crude-oil-price-fall-iran-war-us-israel-2884505-2026-03-20",
-      "headline": "Sensex jumps 800 points, Nifty above 23,200; IT stocks rallyThe S&P BSE Sensex jumped 808.29 points to\u00a075,015.53, while the NSE Nifty50 added 257.45 points to\u00a023,259.60 as of 9:26 am.\u00a0"
     }
   ],
   "entertainment": [
@@ -205,9 +205,9 @@
       "headline": "If US targets our nukes, we'll bomb Delhi, Mumbai: Ex-Pak envoy's bizarre remarkA controversial remark by a former Pakistani diplomat has triggered concern amid rising regional tensions, with references to India drawing sharp reactions as geopolitical fault lines appear to widen further.\r\n"
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/trump-threatens-strikes-on-irans-power-infrastructure-over-hormuz-blockade-2885379-2026-03-22",
-      "headline": "Open Hormuz or will obliterate power plants: Trump's 48-hour ultimatum to IranIn a social media post, Trump said the United States would \"hit and obliterate\" Iranian power plants, beginning with the largest facility, if the waterway is not \"fully open, without threat\" within the specified timeframe."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/russian-oil-tanker-aqua-titan-arrives-india-bound-for-china-hormuz-crisis-iran-2885419-2026-03-22",
+      "headline": "Russian oil tanker bound for China arrives in India; first of seven vesselsOil tanker Aqua Titan carrying Russian crude arrived at the New Mangaluru port on Saturday evening. The re-routing of such vessels comes after Indian refiners stepped up purchases of Russian oil following the 30-day waiver."
     },
     {
       "sentiment": "positive",
@@ -231,13 +231,23 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/technology/news/story/nvidia-ceo-jensen-huang-says-engineers-should-be-evaluated-on-basis-of-how-many-ai-tokens-they-use-2885149-2026-03-21",
+      "headline": "Nvidia CEO says engineers should be evaluated on basis of how many AI tokens they useNvidia CEO Jensen Huang says the rise of AI is changing software engineering so much that companies may soon judge engineers by how many AI tokens they use instead of just how much code they write. He believes access to AI compute will become a key productivity tool, and engineers who use more AI effectively will deliver better results."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/story/crude-oil-supply-shortage-west-asia-war-iran-us-global-recession-risk-explained-2885418-2026-03-22",
+      "headline": "Oil shock deepens as West Asia war escalates. Is a global recession coming?The world is already feeling the heat as the West Asia conflict enters its fourth week, pushing global crude oil prices higher. In this article, we speak to experts to understand whether this shock could tip the world toward a recession."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/aditya-dhars-dhurandhar-2-politics-explained-anti-terror-not-anti-pakistan-2885313-2026-03-22",
       "headline": "Aditya Dhar's Dhurandhar 2 politics explained: Anti-terror, not anti-PakistanAditya Dhar doesn't make it easy to watch Dhurandhar: The Revenge. He lets you experience the discomfort, the silence that haunts and the screams that linger longer than you want. But at the centre of it all is India's clear policy: anti-terror, not anti-Pakistan. Consider this your spoiler warning. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/air-india-bmi-policy-for-cabin-crew-derostering-pay-loss-rules-explained-2885388-2026-03-22",
-      "headline": "Air India tightens cabin crew fitness rules, weight gain may lead to pay lossA new policy at Air India could directly impact cabin crew rosters and salaries, linking fitness levels to employment status, as the airline moves to enforce stricter health standards from May 1.\r\n"
+      "url": "https://www.indiatoday.in/world/story/us-israel-iran-war-live-updates-donald-trump-netanyahu-strait-of-hormuz-ali-mohammad-naini-middle-east-dubai-uae-2885056-2026-03-21",
+      "headline": "Live: Explosions heard in central Israel as Iran launches fresh missile attacksUS-Israel-Iran War Live Updates: The conflict in the Middle East witnessed an escalation on Sunday (IST) after a missile struck the city of Dimona, which hosts Israel's main nuclear research facility. This came as Iran said it was targeting Israel's nuclear programme in retaliation for an earlier strike on its nuclear enrichment facility in Natanz. Arad, another city in southern Israel, also came under a missile strike. The two incidents resulted in injuries to more than 100 people, including children. Israel has denied responsibility for the strike on Natanz. Hours after the strikes on Dimona and Arad, the Israeli military said it was conducting a fresh airstrike on Tehran. In another development, US President Donald Trump threatened Iran with strikes on its power plants if the Strait of Hormuz is not reopened \"within 48 hours.\" Follow IndiaToday.in for live updates on the Middle East conflict."
     },
     {
       "sentiment": "positive",
@@ -246,33 +256,23 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/us-israel-iran-war-live-updates-donald-trump-netanyahu-strait-of-hormuz-ali-mohammad-naini-middle-east-dubai-uae-2885056-2026-03-21",
-      "headline": "Live: Explosions heard in central Israel as Iran launches fresh missile attacksUS-Israel-Iran War Live Updates: The conflict in the Middle East witnessed a sharp escalation on Saturday (IST) as a missile struck the city of Dimona, which hosts Israel's main nuclear research facility. This came as Iran said it was targeting Israel's nuclear programme in retaliation for an earlier strike on its nuclear enrichment facility in Natanz. Arad, another city in southern Israel, also came under a missile strike. The two incidents resulted in injuries to dozens of people, including children. Israel has denied responsibility for the strike on Natanz. Hours after the strikes on Dimona and Arad, the Israeli military said it was conducting a fresh airstrike on Tehran. In another development, US President Donald Trump threatened Iran with strikes on its power plants if the Strait of Hormuz is not reopened \"within 48 hours.\" Follow IndiaToday.in for live updates on the Middle East conflict."
+      "url": "https://www.indiatoday.in/world/story/trump-threatens-strikes-on-irans-power-infrastructure-over-hormuz-blockade-2885379-2026-03-22",
+      "headline": "Open Hormuz or will obliterate power plants: Trump's 48-hour ultimatum to IranIn a social media post, Trump said the United States would \"hit and obliterate\" Iranian power plants, beginning with the largest facility, if the waterway is not \"fully open, without threat\" within the specified timeframe."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/nvidia-ceo-jensen-huang-says-engineers-should-be-evaluated-on-basis-of-how-many-ai-tokens-they-use-2885149-2026-03-21",
-      "headline": "Nvidia CEO says engineers should be evaluated on basis of how many AI tokens they useNvidia CEO Jensen Huang says the rise of AI is changing software engineering so much that companies may soon judge engineers by how many AI tokens they use instead of just how much code they write. He believes access to AI compute will become a key productivity tool, and engineers who use more AI effectively will deliver better results."
+      "url": "https://www.indiatoday.in/lifestyle/what-s-hot/story/the-death-of-lived-in-homes-is-instagram-algorithm-killing-indian-interior-design-2885428-2026-03-22",
+      "headline": "The death of 'lived-in homes'In the race to design the \"perfect\" home, are we losing what made homes feel like ours?"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/iran-war-british-nuclear-powered-submarine-positioned-in-arabian-sea-says-report-2885380-2026-03-22",
-      "headline": "British nuclear-powered submarine deployed in Arabian Sea amid Iran war: ReportIf true, the deployment will give Britain the capability to launch strikes on Iran in case the regional conflict escalates drastically. Earlier, on Friday, the British government had authorised the US military to use military bases in Britain to\u00a0carry out\u00a0strikes on\u00a0Iranian\u00a0missile\u00a0sites\u00a0that are attacking\u00a0ships\u00a0in\u00a0the Strait of Hormuz."
+      "url": "https://www.indiatoday.in/india/story/air-india-bmi-policy-for-cabin-crew-derostering-pay-loss-rules-explained-2885388-2026-03-22",
+      "headline": "Air India tightens cabin crew fitness rules, weight gain may lead to pay lossA new policy at Air India could directly impact cabin crew rosters and salaries, linking fitness levels to employment status, as the airline moves to enforce stricter health standards from May 1.\r\n"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/shreyanka-patil-exclusive-interview-t20-world-cup-india-comeback-2885309-2026-03-22",
-      "headline": "Shreyanka, stronger and wiser, fights past pain to reignite T20 World Cup flameIn an exclusive interview with India Today Digital, Shreyanka Patil opened up on battling one of the toughest phases of her career, with multiple injuries leaving her full of doubt. Having recently made her India comeback on the Australia tour, Shreyanka now hopes to help India chase their maiden Women's T20 World Cup title."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/health/story/women-willing-to-give-organs-but-more-men-get-them-india-gender-gap-organ-donation-2884877-2026-03-22",
-      "headline": "A silent imbalance: Women still donate the organs and men get themHandcrafted ByOur Editors Four out of five organ donors in India are women, and four out of five people who received the organs were men. The imbalance remains a telling reflection of society itself."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/video/us-iran-israel-war-moment-iranian-missile-hits-near-israeli-nuclear-facility-2885396-2026-03-22",
-      "headline": "Video: Moment Iranian missile hits near Israeli nuclear facilityIran targeted the nuclear facilities in Dimona hours after its own nuclear facility in Natanz was hit. "
+      "url": "https://www.indiatoday.in/jobs/story/should-ai-be-allowed-in-job-interviews-hiring-debate-educ-2885262-2026-03-22",
+      "headline": "The AI Hiring Hypocrisy: Why AI is okay at work, but 'cheating' in job interviewsCompanies want AI-driven productivity at work, but penalise it in interviews. That contradiction in hiring practices is now raising questions bigger questions about outdated evaluation systems."
     },
     {
       "sentiment": "positive",
@@ -281,8 +281,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/dhurandhar-wildest-twist-belongs-to-rakesh-bedi-jameel-jamali-and-fans-werent-ready-for-it-2885240-2026-03-22",
-      "headline": "Dhurandhar's wildest twist belongs to Jameel Jamali, and fans weren't ready for itSpoiler alert: Dhurandhar: The Revenge flips the script with a quiet but powerful reveal \u2013 Jameel Jamali as the true mastermind. The twist reshapes the story, turning it into a game of control, patience, and hidden power."
+      "url": "https://www.indiatoday.in/sports/cricket/story/shreyanka-patil-exclusive-interview-t20-world-cup-india-comeback-2885309-2026-03-22",
+      "headline": "Shreyanka, stronger and wiser, fights past pain to reignite T20 World Cup flameIn an exclusive interview with India Today Digital, Shreyanka Patil opened up on battling one of the toughest phases of her career, with multiple injuries leaving her full of doubt. Having recently made her India comeback on the Australia tour, Shreyanka now hopes to help India chase their maiden Women's T20 World Cup title."
     },
     {
       "sentiment": "positive",
@@ -291,13 +291,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/prakash-raj-takes-jibe-at-allu-arjun-jr-ntr-over-dhurandhar-2-praise-2884800-2026-03-20",
-      "headline": "Prakash Raj takes jibe at Allu Arjun, Jr NTR over Dhurandhar 2 praiseActor Prakash Raj has questioned the increasing praise for Dhurandhar 2 from South stars such as Allu Arjun, Ram Charan and Jr NTR. He took a subtle dig at the espionage thriller on social media."
+      "url": "https://www.indiatoday.in/health/story/women-willing-to-give-organs-but-more-men-get-them-india-gender-gap-organ-donation-2884877-2026-03-22",
+      "headline": "A silent imbalance: Women still donate the organs and men get themHandcrafted ByOur Editors Four out of five organ donors in India are women, and four out of five people who received the organs were men. The imbalance remains a telling reflection of society itself."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/cbse-cracks-down-schools-must-follow-new-menstrual-hygiene-norms-now-2885402-2026-03-22",
-      "headline": "CBSE's new menstrual hygiene rules every student and parent must knowIn a push towards more inclusive school environments, the Central Board of Secondary Education has rolled out fresh directives on menstrual hygiene across its affiliated institutions. The move comes after a landmark ruling by the Supreme Court of India that places menstrual health within the framework of fundamental rights.\r\n"
+      "url": "https://www.indiatoday.in/world/story/iran-war-british-nuclear-powered-submarine-positioned-in-arabian-sea-says-report-2885380-2026-03-22",
+      "headline": "British nuclear-powered submarine deployed in Arabian Sea amid Iran war: ReportIf true, the deployment will give Britain the capability to launch strikes on Iran in case the regional conflict escalates drastically. Earlier, on Friday, the British government had authorised the US military to use military bases in Britain to\u00a0carry out\u00a0strikes on\u00a0Iranian\u00a0missile\u00a0sites\u00a0that are attacking\u00a0ships\u00a0in\u00a0the Strait of Hormuz."
     },
     {
       "sentiment": "positive",
@@ -306,13 +306,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/glad-hes-dead-trump-on-death-of-ex-fbi-chief-robert-mueller-who-investigated-his-alleged-ties-with-russia-2885367-2026-03-21",
-      "headline": "Glad he's dead: Trump on death of ex-FBI chief who probed his alleged Russia tiesAt the FBI, Mueller set about almost immediately overhauling the bureau's mission to meet the law enforcement needs of the 21st century, beginning his 12-year tenure just one week before the September 11 attacks and serving across presidents of both political parties."
+      "url": "https://www.indiatoday.in/world/video/us-iran-israel-war-moment-iranian-missile-hits-near-israeli-nuclear-facility-2885396-2026-03-22",
+      "headline": "Video: Moment Iranian missile hits near Israeli nuclear facilityIran targeted the nuclear facilities in Dimona hours after its own nuclear facility in Natanz was hit. "
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-pay-cut-players-cameron-green-kkr-workload-r-ashwin-2885390-2026-03-22",
-      "headline": "IPL teams should deduct player's money if he is unable to fulfill role: R AshwinR Ashwin has suggested that IPL teams should be allowed to cut money from the players' wages if they're unable to fulfill their role for the side. Ashwin used the example of Cameron Green and KKR to drive home the point. "
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/gk-current-affairs/story/battlefield-to-kitchen-how-wars-taught-us-to-cook-without-cooking-2884935-2026-03-22",
+      "headline": "Battlefield to kitchen: How wars taught us to cook without cookingHandcrafted ByOur Editors As fuel prices rise and global tensions ripple into everyday life, the kitchen once again feels the shadow of war. In Part 2 of our ongoing series, we trace how battlefield innovations have reshaped how we eat today. Cooking, it seems, is no longer bound to the moment of hunger."
     },
     {
       "sentiment": "negative",
@@ -374,7 +374,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/wimbledon-video-review-technology-new-era-six-courts-2885319-2026-03-21",
-      "headline": "Wimbledon steps into new era, to introduce video review technology from 2026 Wimbledon confirmed the introduction of video review technology from the 2026 edition. Players will be able to challenge umpire decisions without any limit on reviews."
+      "headline": "Wimbledon steps into new era, to introduce video review technology from 2026Wimbledon confirmed the introduction of video review technology from the 2026 edition. Players will be able to challenge umpire decisions without any limit on reviews."
     },
     {
       "sentiment": "positive",
@@ -470,11 +470,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-jasprit-bumrah-kkr-vaibhav-arora-goal-2885019-2026-03-20",
       "headline": "Jasprit Bumrah of KKR: Vaibhav Arora outlines his goal for IPL 2026 seasonFast bowler Vaibhav Arora aims to serve the Kolkata Knight Riders in IPL 2026 the way Jasprit Bumrah serves the Indian team. The speedster has taken 33 wickets for KKR from 27 matches. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/video/ipl-2026-kkr-world-class-players-experience-youth-shane-watson-press-conference-2885001-2026-03-20",
-      "headline": "KKR have powerful, world-class players, along with experience and youth: Shane WatsonIPL 2026: In a press conference facilitated by JioStar on Friday, assistant coach Shane Watson said that the Kolkata Knight Riders have a strong squad at their disposal with a blend of youth and experience. "
     }
   ],
   "education": [
