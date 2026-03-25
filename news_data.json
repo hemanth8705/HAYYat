@@ -1,6 +1,11 @@
 {
   "business": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/story/india-buys-iran-lpg-cargo-us-eases-sanctions-amid-global-energy-crunch-2887119-2026-03-25",
+      "headline": "In a 1st since 2019, India buys Iran LPG cargo as US eases sanctions, claims reportIndia had shunned energy purchases from Iran in 2019 under pressure from Western sanctions. The tanker was initially bound for China, according to LSEG data."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/free-gas-up-to-rs-500-zero-security-fee-govt-pushes-png-shift-for-households-2887032-2026-03-25",
       "headline": "Free gas up to Rs 500, zero security fee: Govt pushes PNG shift for householdsThe government's focus remains on maintaining supply and reducing dependence on imports, while ensuring households have access to reliable and affordable energy."
@@ -94,18 +99,28 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/market/story/sensex-settles-1372-points-higher-nifty-above-22900-hdfc-bank-jumps-3-2886350-2026-03-24",
       "headline": "Markets bounce back, Sensex up 1,300 points, banks leadThe Sensex surged 1,372 points to close at 74,068.45, while the Nifty 50 rose 399.75 points to settle at 22,912.40, reclaiming the 22,900 mark."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/market/story/markets-gold-silver-falling-where-to-invest-now-india-iran-war-donald-trump-us-2886319-2026-03-24",
-      "headline": "Markets in panic mode, gold and silver also hit: What's left for investors?Since the Iran war began, the Sensex has fallen about 10.6%, while the Nifty has dropped nearly 11%. At the same time, gold and silver have also declined, leaving investors with limited places to hide."
     }
   ],
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/abhishek-bachchan-critics-didnt-understand-my-work-werent-qualified-2887128-2026-03-25",
+      "headline": "Abhishek Bachchan: Critics didn't understand my work, weren't qualified Abhishek Bachchan reflects on his early scepticism towards critics and reveals how his perspective changed over time, shaping his career."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/nani-the-paradise-release-august-2026-bloody-romeo-filming-update-2887093-2026-03-25",
+      "headline": "Nani's The Paradise shoot nears completion, director Sujeeth's Bloody Romeo next Nani likely to wrap The Paradise soon, plans to begin Bloody Romeo in June 2026 as reports suggest next move after ongoing shoot."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/mohanlal-drishyam-2-to-debut-in-theatres-ahead-of-drishyam-3-may-release-2887086-2026-03-25",
+      "headline": "Mohanlal's Drishyam 2 to debut in theatres ahead of Drishyam 3's May release Drishyam 2 to re-release, this time in theatres on April 10 as makers build momentum for Drishyam 3, now set to release on May 21."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/amid-dhurandhar-buzz-imran-khan-says-no-to-hairy-angry-man-roles-2887087-2026-03-25",
-      "headline": "Amid Dhurandhar buzz, Imran Khan says won't play hairy angry men covered in blood Actor Imran Khan opened up in a Reddit Ask Me Anything about Bollywood's changing trends, his film choices, and why he is steering clear of hyper-violent roles.\r\n"
+      "headline": "Amid Dhurandhar buzz, Imran Khan says won't play hairy angry men covered in blood Actor Imran Khan opened up in a Reddit Ask Me Anything about Bollywood's changing trends, his film choices, and why he is steering clear of hyper-violent roles amid Dhurandhar hype.\r\n"
     },
     {
       "sentiment": "positive",
@@ -181,21 +196,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/ashwath-marimuthu-considered-for-rajinikanth-thalaivar-173-director-str51-work-2886859-2026-03-25",
       "headline": "Dragon director Ashwath Marimuthu: I almost directed Rajinikanth's Thalaivar 173 Ashwath Marimuthu opens up on developing a script for Rajinikanth, nearly directing Thalaivar 173 before the project moved to Cibi Chakravarthy."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/ram-charan-injured-on-peddi-set-returns-to-shoot-after-stitches-2886855-2026-03-25",
-      "headline": "Ram Charan injured on Peddi set, returns to shoot after stitches Ram Charan sustained a minor injury above his eye while shooting an action sequence for his film Peddi. The incident, clarified by his team, caused brief concern among fans but did not halt production."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/entertainment/television/story/anurag-dobhal-fears-he-may-not-walk-again-after-car-crash-leg-is-numb-2886833-2026-03-25",
-      "headline": "Anurag Dobhal fears he may not walk again after car crash: Leg is numb Bigg Boss 17 fame Anurag Dobhal has shared a distressing health update after a severe car crash, revealing one of his legs is completely numb. He fears he may never walk again. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/the-most-haunting-scene-in-dhurandhar-2-that-says-everything-without-saying-much-2886815-2026-03-25",
-      "headline": "The most haunting scene in Dhurandhar 2 that says everything without saying much Aditya Dhar's Dhurandhar 2 is high on testosterone - it hits more than it says. Yet, its most haunting, cathartic moment comes without any gore. Here's breaking down the scene with the potential of leaving you speechless, wondering and taking a leaf out of Jassi's emotional playbook. "
     }
   ],
   "general news": [
@@ -207,32 +207,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/we-cant-be-a-dalal-nation-s-jaishankar-says-at-all-party-meet-when-asked-about-pak-mediating-us-iran-talks-2887071-2026-03-25",
-      "headline": "We can't be a dalal nation: Jaishankar at all-party meet on Pak mediating US-Iran talksThe External Affairs Minister's remarks came after Pakistan Prime Minister Shehbaz Sharif said Islamabad was ready to host negotiations, even as the West Asia conflict entered its fourth week."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/why-india-is-pushing-lpg-users-to-switch-to-piped-png-liquefied-natural-gas-explained-2887073-2026-03-25",
-      "headline": "Why India is pushing LPG users to switch to PNG | Explained in 5 pointsEnergy disruption due to the war in the Middle East has exposed India's dependence on imported gas. It has prompted a policy shift mandating a switch from LPG to piped natural gas (PNG) where available. With supply constraints looming, the government is fast-tracking pipelines and pushing a nationwide transition to strengthen energy security."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/enough-energy-security-more-ships-on-the-way-government-assured-at-all-party-meet-2887040-2026-03-25",
-      "headline": "Enough energy security, more ships on the way, govt assures at all-party meetThe Centre assured all political parties that India's energy security remains stable, with sufficient supplies and additional shipments already on the way."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/dhurandhar-2-hangover-5-unanswered-questions-about-ranveer-singh-film-that-still-hit-hard-2886599-2026-03-25",
-      "headline": "Dhurandhar 2 hangover: 5 unanswered questions that still hit hardAditya Dhar's Dhurandhar: The Revenge has wreaked havoc at the box office and has largely received a positive response from critics and audiences. However, a few questions remain unanswered about some of the supporting characters in the film."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/iran-cruise-missile-launched-uss-abraham-lincoln-military-warnings-us-war-2886947-2026-03-25",
-      "headline": "Iran says it fired missile at USS Abraham Lincoln, shares videoIran has claimed it fired a cruise missile towards the USS Abraham Lincoln after issuing warnings to the United States, though there is no independent confirmation or US response. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/iran-us-israel-war-shutdown-of-us-bases-hormuz-transit-fees-sanction-relief-iran-sets-tough-terms-for-ceasefire-as-per-reports-2886768-2026-03-25",
-      "headline": "Shutdown of US bases, Hormuz transit fees: Iran sets tough terms for ceasefireFrom shutting US bases to controlling a key global oil route, Iran's demands in response to Trump's proposal set a steep stage for talks, but hints of flexibility quietly emerge behind the scenes."
+      "headline": "India not a dalal nation, S Jaishankar tells all-party meet on Pak mediationThe External Affairs Minister's remarks came after Pakistan Prime Minister Shehbaz Sharif said Islamabad was ready to host negotiations, even as the West Asia conflict entered its fourth week."
     },
     {
       "sentiment": "positive",
@@ -241,38 +216,28 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/cji-surya-kant-tears-into-petitioner-father-after-call-to-his-brother-over-supreme-court-order-2887091-2026-03-25",
+      "headline": "Never ever dare: CJI Kant to man who called his brother over Supreme Court orderThe matter pertains to a petition filed by one Nikhil Kumar Punia, who was born into an upper-caste Hindu family but supposedly converted to Buddhism later. He, along with another General Category candidate, has sought minority reservation benefits for admission to a Buddhist medical college on grounds of their purported conversion."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/dhurandhar-2-hangover-5-unanswered-questions-about-ranveer-singh-film-that-still-hit-hard-2886599-2026-03-25",
+      "headline": "Dhurandhar 2 hangover: 5 unanswered questions that still hit hardAditya Dhar's Dhurandhar: The Revenge has wreaked havoc at the box office and has largely received a positive response from critics and audiences. However, a few questions remain unanswered about some of the supporting characters in the film."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/us-israel-iran-war-why-pakistan-shehbaz-sharif-mediation-offer-is-joke-of-the-year-2886919-2026-03-25",
       "headline": "Joke of the year: Shehbaz Sharif's mediation offer and Trump's retweetPakistan, a country struggling to contain violence within and around its own borders, now wants to broker peace between the US and Iran. The contradiction is glaring."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/trump-pm-modi-phone-call-iran-war-pakistan-mediator-role-hormuz-2886876-2026-03-25",
-      "headline": "Why did Trump call Modi after 4 weeks of war? There may be a Pakistan angleUS President Donald Trump dialled Prime Minister Narendra Modi on Tuesday, four weeks after the Iran war started. The timing is crucial, coming on the back of Pakistan's emergence as Trump's choice as a mediator. Was Trump's call a damage-control exercise?"
+      "url": "https://www.indiatoday.in/india/story/why-india-is-pushing-lpg-users-to-switch-to-piped-png-liquefied-natural-gas-explained-2887073-2026-03-25",
+      "headline": "Why India is pushing LPG users to switch to PNG | Explained in 5 pointsEnergy disruption due to the war in the Middle East has exposed India's dependence on imported gas. It has prompted a policy shift mandating a switch from LPG to piped natural gas (PNG) where available. With supply constraints looming, the government is fast-tracking pipelines and pushing a nationwide transition to strengthen energy security."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/health/story/creatine-is-the-top-selling-supplement-what-makes-it-so-popular-2886952-2026-03-25",
-      "headline": "Creatine is the top-selling supplement, what makes it so popular?Many of us take supplements, and we are always concerned about their safety. This series of our stories will address all your concerns. This is the first of the series on supplements which covers every aspect of creatine. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/pakistan-hands-over-trumps-15-point-ceasefire-proposal-to-iran-as-war-rages-on-2886892-2026-03-25",
-      "headline": "Pakistan hands over Trump's 15-point ceasefire proposal to Iran as war rages onAccording to officials in Islamabad, the proposal was handed over through Pakistani intermediaries, underscoring Islamabad's emerging role as a potential mediator between the two adversaries."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/gautam-singhania-boat-accident-maldives-search-missing-crew-2886805-2026-03-25",
-      "headline": "Didn't know he's a billionaire: Man who rescued Gautam Singhania after boat crash\"At that time, we did not know that one of them was an Indian billionaire,\" a Maldives official said after rushing to aid victims of a speedboat crash involving industrialist Gautam Singhania."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/us-israel-iran-war-live-updates-middle-east-conflict-donald-trump-netanyahu-strait-of-hormuz-lebanon-uae-dubai-gulf-iraq-west-asia-2886676-2026-03-25",
-      "headline": "Live: Iran's President praises Turkey's firm stance against IsraelUS-Israel-Iran War Live Updates: On the fourth week of the US-Israel-Iran war, Washington sent a 15-point truce plan to Tehran to end the Middle East conflict. The conditions include strict curbs on Tehran's nuclear programme, an end to support for proxy groups and the reopening of the Strait of Hormuz. Washington is also pushing for a month-long ceasefire to enable negotiations. However, with Iran's military dismissing Trump's claim of negotiation talks, it seems unlikely that Iran will accept a proposal compromising on its nuclear facilities. \r\n\r\nMeanwhile, both Iran and Israel continue to attack each other on Wednesday. Israel targeted several places in Tehran with newly launched air raids on Wednesday. Iran, on the other hand, targeted US and Israeli military bases in the Gulf region in retaliatory measures. Catch all the live updates of the prevailing Middle East conflict on Indiatoday.in-"
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/iran-wary-trump-peace-talks-distrust-past-bombings-military-buildup-2886995-2026-03-25",
-      "headline": "Twice bitten, thrice shy: Why Iran is wary of Trump's peace talks pushDonald Trump has said that the US was engaged in productive talks with Iran to end the war. Iran has, however, rejected Trump's claims publicly. Tehran has already been burnt twice in the name of negotiations over its nuclear program."
+      "url": "https://www.indiatoday.in/world/story/iran-cruise-missile-launched-uss-abraham-lincoln-military-warnings-us-war-2886947-2026-03-25",
+      "headline": "Iran says it fired missile at USS Abraham Lincoln, shares videoIran has claimed it fired a cruise missile towards the USS Abraham Lincoln after issuing warnings to the United States, though there is no independent confirmation or US response. "
     },
     {
       "sentiment": "positive",
@@ -281,23 +246,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/rcb-sale-van-meekeren-0-5-percent-netherlands-cricket-gap-2886695-2026-03-25",
-      "headline": "Give us 0.5%: Netherlands cricketer's blunt take on Rs 16,660 crore RCB saleAfter RCB's Rs. 16,660 crore sale to a multi-industry consortium, Netherlands pacer Paul van Meekeren said that 0.5 percent of that price is enough to change Dutch cricket and help them bridge the gap to big teams in international cricket. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/dhurandhar-2-the-revenge-live-updates-box-office-collection-review-celebs-ranveer-singh-aditya-dhar-winning-spree-2886167-2026-03-24",
-      "headline": "Dhurandhar 2 box office collection live: Ranveer Singh is the second best spyDhurandhar The Revenge live updates: Aditya Dhar's Dhurandhar: The Revenge is on a phenomenal run at the box office \u2013 both domestic and worldwide. The film has finished six days at the ticket window and is looking at recording the biggest Wednesday for a Hindi film. "
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/major-oil-gas-shock-coming-energy-hubs-up-in-flames-in-us-russia-middle-east-iea-warning-2886543-2026-03-25",
-      "headline": "Biggest oil disruption in history? Energy hubs are up in flames in US, Russia tooOil and gas refineries and hubs are up in flames not just in the Middle East, but also in Russia and the US. Crude oil prices have surged over $100 a barrel. With the energy infrastructure in the Middle East likely to take years to be rebuilt, the world could be set for the biggest oil disruption in history."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/science/story/western-distrubance-north-india-spell-rain-thunderstorm-summer-rain-weather-pattern-imd-2886753-2026-03-25",
       "headline": "More rain soon: Western disturbances to hit India. See forecastJust as North India was preparing to begin summer, the weather is bound to shift again."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/gautam-singhania-boat-accident-maldives-search-missing-crew-2886805-2026-03-25",
+      "headline": "Didn't know he's a billionaire: Man who rescued Gautam Singhania after boat crash\"At that time, we did not know that one of them was an Indian billionaire,\" a Maldives official said after rushing to aid victims of a speedboat crash involving industrialist Gautam Singhania."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/enough-energy-security-more-ships-on-the-way-government-assured-at-all-party-meet-2887040-2026-03-25",
+      "headline": "Enough energy security, more shipments on the way, govt assures at all-party meetThe Centre assured all political parties that India's energy security remains stable, with sufficient supplies and additional shipments already on the way."
     },
     {
       "sentiment": "positive",
@@ -305,22 +265,77 @@
       "headline": "Tarique Rahman's genocide message signals shift away from Pakistan?Tarique Rahman invoked the 1971 genocide at Pakistan's hands, countering what critics described as the soft-pedalling of those atrocities under the Muhammad Yunus-led caretaker government. The message signals Bangladesh's intent to keep Pakistan at arm's length while projecting a balanced regional posture."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/free-gas-up-to-rs-500-zero-security-fee-govt-pushes-png-shift-for-households-2887032-2026-03-25",
-      "headline": "Free gas up to Rs 500, zero security fee: Govt pushes PNG shift for householdsThe government's focus remains on maintaining supply and reducing dependence on imports, while ensuring households have access to reliable and affordable energy."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/us-israel-iran-war-live-updates-middle-east-conflict-donald-trump-netanyahu-strait-of-hormuz-lebanon-uae-dubai-gulf-iraq-west-asia-2886676-2026-03-25",
+      "headline": "Live: Hezbollah attacks Israel's logistics base, rejects negotiation talksUS-Israel-Iran War Live Updates: On the fourth week of the US-Israel-Iran war, Washington sent a 15-point truce plan to Tehran to end the Middle East conflict. The conditions include strict curbs on Tehran's nuclear programme, an end to support for proxy groups and the reopening of the Strait of Hormuz. Washington is also pushing for a month-long ceasefire to enable negotiations. However, with Iran's military dismissing Trump's claim of negotiation talks, it seems unlikely that Iran will accept a proposal compromising on its nuclear facilities. \r\n\r\nMeanwhile, both Iran and Israel continue to attack each other on Wednesday. Israel targeted several places in Tehran with newly launched air raids on Wednesday. Iran, on the other hand, targeted US and Israeli military bases in the Gulf region in retaliatory measures. Catch all the live updates of the prevailing Middle East conflict on Indiatoday.in-"
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/iran-wary-trump-peace-talks-distrust-past-bombings-military-buildup-2886995-2026-03-25",
+      "headline": "Twice bitten, thrice shy: Why Iran is wary of Trump's peace talks pushDonald Trump has said that the US was engaged in productive talks with Iran to end the war. Iran has, however, rejected Trump's claims publicly. Tehran has already been burnt twice in the name of negotiations over its nuclear program."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/india-approves-ambitious-climate-targets-2031-2035-emissions-renewables-forests-2887016-2026-03-25",
-      "headline": "India pledges 45% emission cut, targets 60% clean power by 2035New targets, old track record. India has stepped up on the global climate stage with ambition."
+      "url": "https://www.indiatoday.in/world/story/iran-us-israel-war-shutdown-of-us-bases-hormuz-transit-fees-sanction-relief-iran-sets-tough-terms-for-ceasefire-as-per-reports-2886768-2026-03-25",
+      "headline": "Shutdown of US bases, Hormuz transit fees: Iran sets tough terms for ceasefireFrom shutting US bases to controlling a key global oil route, Iran's demands in response to Trump's proposal set a steep stage for talks, but hints of flexibility quietly emerge behind the scenes."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/naveen-john-cycling-journey-india-national-champion-story-exclusive-2886769-2026-03-25",
+      "headline": "From a challenge to a legacy: How Naveen John's unlikely cycling journey startedA challenge with his college friend made Naveen John start a side quest to come back to India to become a national champion in cycling. The 39-year-old opens up on his journey in the sport, not chasing the Olympic dream as an athlete but setting it up for future talent. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/dhurandhar-2-the-revenge-live-updates-box-office-collection-review-celebs-ranveer-singh-aditya-dhar-winning-spree-2886167-2026-03-24",
+      "headline": "Dhurandhar 2 box office collection live: Film storms overseas with Rs 250 crore haulDhurandhar The Revenge live updates: Aditya Dhar's Dhurandhar: The Revenge is on a phenomenal run at the box office \u2013 both domestic and worldwide. The film has finished six days at the ticket window and is looking at recording the biggest Wednesday for a Hindi film. "
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/iran-shares-video-bombing-statue-of-liberty-with-head-of-baal-middle-east-war-2887078-2026-03-25",
+      "headline": "Vengeance for all: Iran shares video bombing Statue of Liberty with head of BaalThe video seems to piece together a story of long-standing anger, tying together past and present conflicts involving the US. Through different scenes, it shows several countries as having suffered from American military actions, before building up to a final, symbolic act of revenge."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/iran-mocks-trump-ceasefire-talks-claim-us-point-plan-middle-east-israel-airstrikes-2886824-2026-03-25",
+      "headline": "Are you negotiating with yourself? Iran mocks Trump over ceasefire talks claimIran military spokesperson Ebrahim Zolfaqari mocked US President Donald Trump over his claims of a ceasefire deal, saying his internal confusion had reached a point where he was effectively negotiating with himself."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/rcb-sale-van-meekeren-0-5-percent-netherlands-cricket-gap-2886695-2026-03-25",
+      "headline": "Give us 0.5%: Netherlands cricketer's blunt take on Rs 16,660 crore RCB saleAfter RCB's Rs. 16,660 crore sale to a multi-industry consortium, Netherlands pacer Paul van Meekeren said that 0.5 percent of that price is enough to change Dutch cricket and help them bridge the gap to big teams in international cricket. "
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/health/story/indias-first-patient-recovery-guidelines-on-supplements-all-you-need-to-know-2887010-2026-03-25",
       "headline": "India's first patient recovery guidelines: All you need to knowA new set of national guidelines aims to reshape how doctors approach recovery \u2013 placing vitamins and minerals at the centre of the journey.\r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/trump-pm-modi-phone-call-iran-war-pakistan-mediator-role-hormuz-2886876-2026-03-25",
+      "headline": "Why did Trump call Modi after 4 weeks of war? There may be a Pakistan angleUS President Donald Trump dialled Prime Minister Narendra Modi on Tuesday, four weeks after the Iran war started. The timing is crucial, coming on the back of Pakistan's emergence as Trump's choice as a mediator. Was Trump's call a damage-control exercise?"
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/major-oil-gas-shock-coming-energy-hubs-up-in-flames-in-us-russia-middle-east-iea-warning-2886543-2026-03-25",
+      "headline": "Biggest oil disruption in history? Energy hubs are up in flames in US, Russia tooOil and gas refineries and hubs are up in flames not just in the Middle East, but also in Russia and the US. Crude oil prices have surged over $100 a barrel. With the energy infrastructure in the Middle East likely to take years to be rebuilt, the world could be set for the biggest oil disruption in history."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/sourav-ganguly-ms-dhoni-india-greatest-captain-young-jharkhand-2887109-2026-03-25",
+      "headline": "Loved young MS Dhoni more, he is India's greatest white-ball captain: Sourav Ganguly Former India captain Sourav Ganguly said he preferred the younger, fearless version of MS Dhoni, recalling how the wicketkeeper-batter from Jharkhand could effortlessly hit sixes under pressure. Dhoni made his international debut under Ganguly's captaincy in 2004."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-prithvi-shaw-india-comeback-strong-season-delhi-capitals-2887104-2026-03-25",
+      "headline": "Who doesn't want to play for India? Prithvi Shaw eyes strong season for DC IPL 2026: Prithvi Shaw eyes India comeback after move to Maharashtra and return to Delhi Capitals, aiming to rediscover form and consistency in IPL 2026 after a difficult phase in his career."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/bcci-ipl-2026-captains-meeting-full-rules-discussion-2887092-2026-03-25",
+      "headline": "Impact Player to ball change: What was discussed at IPL captains' meet? BCCI officials and franchise captains met in Mumbai to finalise IPL 2026 playing conditions, addressing the contentious Impact Player rule, ball-change protocols for dew, and stricter match-day training guidelines."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-navdeep-saini-harshit-rana-kolkata-knight-riders-replacement-2887089-2026-03-25",
@@ -364,17 +379,17 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/amelia-kerr-rohit-sharma-5th-t20i-century-record-2886972-2026-03-25",
-      "headline": "Incredible Amelia Kerr joins Rohit Sharma in elite club with 2nd T20I century NZW vs SAW: Amelia Kerr continued her incredible run as captain after scoring a 52-ball century in the fifth and final T20I against South Africa at the Hagley Oval in Christchurch."
+      "headline": "Incredible Amelia Kerr joins Rohit Sharma in elite club with 2nd T20I centuryNZW vs SAW: Amelia Kerr continued her incredible run as captain after scoring a 52-ball century in the fifth and final T20I against South Africa at the Hagley Oval in Christchurch."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/story/jasprit-bumrah-ipl-2026-mumbai-indians-bcci-coe-bengaluru-2886904-2026-03-25",
-      "headline": "Injury or routine visit? Why Jasprit Bumrah is at BCCI COE before IPL IPL 2026: Fast bowler Jasprit Bumrah has not been part of the Mumbai Indians training camp. He checked into the BCCI Centre for Excellence in Bengaluru, but speculation about a fresh injury has now been debunked."
+      "headline": "Injury or routine visit? Why Jasprit Bumrah is at BCCI COE before IPLIPL 2026: Fast bowler Jasprit Bumrah has not been part of the Mumbai Indians training camp. He checked into the BCCI Centre for Excellence in Bengaluru, but speculation about a fresh injury has now been debunked."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/gautam-gambhir-personality-rights-protection-deepfake-case-2886909-2026-03-25",
-      "headline": "Gautam Gambhir gets personality rights protection in deepfake case The Delhi High Court has granted Gautam Gambhir protection of his personality rights and ordered the removal of objectionable deepfake and misleading content circulating across social media and internet platforms.\r\n"
+      "headline": "Gautam Gambhir gets personality rights protection in deepfake caseThe Delhi High Court has granted Gautam Gambhir protection of his personality rights and ordered the removal of objectionable deepfake and misleading content circulating across social media and internet platforms.\r\n"
     },
     {
       "sentiment": "positive",
@@ -455,21 +470,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/rcb-ipl-team-sale-aditya-birla-group-toi-rs-16000-crore-2886630-2026-03-24",
       "headline": "IPL champions RCB sold to Aditya Birla Group-led consortium for Rs 16,660 croreIPL franchise, Royal Challengers Bengaluru, has been sold to a consortium, led by Aditya Birla Group, for a record sum of over Rs 16,000 crore, marking the league's most expensive franchise takeover ever."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/andre-russell-ipl-2026-kkr-jersey-retire-ceremony-kolkata-2886619-2026-03-24",
-      "headline": "Andre Russell emotional after KKR retire his No. 12 jersey in special ceremonyIPL 2026: Kolkata Knight Riders on Tuesday retired Andre Russell's No. 12 jersey in honour of his contributions to the team. Russell, who retired from IPL last year, joined the backroom staff for the upcoming season, starting March 28. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-rinku-singh-shah-rukh-khan-kolkata-knight-riders-ajinkya-rahane-2886606-2026-03-24",
-      "headline": "When you think of KKR, it's Shah Rukh Khan first and then Rinku Singh: Ajinkya RahaneIPL 2026: Rinku Singh named KKR vice-captain as Rahane and Nayar praised his growth, leadership and impact, with the T20 World Cup winner now taking on a bigger role."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/koneru-humpy-withdraws-womens-candidates-cyprus-chess-reaction-2886604-2026-03-24",
-      "headline": "Chess great Koneru Humpy slammed for pulling out of Candidates over security fearsCyprus Chess Federation chief Criton Tornaritis has criticised Koneru Humpy's withdrawal from the Women's Candidates over safety concerns, calling it a bad move that harms the sport and organisers."
     }
   ],
   "education": [
