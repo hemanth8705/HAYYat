@@ -1,6 +1,16 @@
 {
   "business": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/commodities/video/government-cuts-excise-duty-on-petrol-diesel-amid-west-asia-war-2887888-2026-03-27",
+      "headline": "Government cuts excise duty on petrol, diesel amid West Asia warThe government has sharply cut the additional excise duty on petrol and diesel amid the West Asia conflict and rising global fuel prices."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/market/story/sensex-ends-1690-points-lower-nifty-below-22900-reliance-tumbles-over-4-2887896-2026-03-27",
+      "headline": "Sensex ends nearly 1,700 points lower, investors lose over 8.5 lakh croreThe sharp fall on Dalal Street wiped out nearly Rs 8.5 lakh crore in investor wealth, underlining the intensity of the sell-off amid rising uncertainty over the West Asia conflict."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/commodities/story/gold-price-today-rises-rs-3000-silver-up-rs-6000-should-you-buy-now-2887870-2026-03-27",
       "headline": "Gold up Rs 3,000, silver rises Rs 6,000: Should you buy now?Gold and silver prices have inched up but expert also pointed out that the macroeconomic environment is currently mixed, which is limiting the upside in gold and silver."
@@ -26,9 +36,9 @@
       "headline": "Anthropic eyes $60 billion IPO: Here's all you need to knowBeyond the headline numbers, Anthoropic's IPO could become a key test for the AI sector, revealing whether strong growth and investor optimism can outweigh rising costs and ongoing concerns around profitability."
     },
     {
-      "sentiment": "positive",
+      "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/market/story/sensex-falls-1000-points-crude-oil-spikes-geopolitical-tensions-indian-markets-2887712-2026-03-27",
-      "headline": "Sensex crashes 1,700 points: 3 reasons why markets are falling todayThe Sensex was down over 1,150 points, or around 1.5%, hovering near 74,100 around 10:54 am, while the Nifty 50 fell close to 350 points, or about 1.5%, slipping below the 23,000 mark to around 22,960."
+      "headline": "Sensex crashes 1,700 points: 3 reasons why markets are falling todayThe Sensex ended 1,690 points, or 2.25%, lower at 73,581, while the Nifty 50 fell 478 points, or 2.05%, to 22,828. The sharp fall wiped out nearly Rs 8.5 lakh crore in investor wealth compared to the previous close, underlining the intensity of the sell-off."
     },
     {
       "sentiment": "negative",
@@ -89,19 +99,29 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/personal-finance/story/8th-pay-commission-timeline-clear-salary-hike-and-arrears-details-explained-2887280-2026-03-26",
       "headline": "8th Pay Commission: Timeline clear, salary hike and arrears details explainedWith the 8th Pay Commission timeline clearer, the big question remains: when will employees see the real benefit?"
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/market/story/dalal-street-recovery-uncertain-us-iran-conflict-talks-stall-2887245-2026-03-26",
-      "headline": "Will Dalal Street's recovery run end as US, Iran fail to end war?With domestic markets shut today, Friday's opening becomes the first real test of whether the recent rally can hold as investors react to fresh geopolitical developments and global market cues."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/market/story/nse-bse-holiday-march-26-ram-navami-stock-market-closed-open-today-mcx-timings-2026-iran-war-2887207-2026-03-26",
-      "headline": "NSE, BSE holiday: Is stock market open or closed today for Ram Navami?The Bombay Stock Exchange (BSE) and the National Stock Exchange (NSE) will remain closed on March 26 due to Ram Navami. There will be no trading activity across segments on both exchanges for the day."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/vijay-deverakonda-steps-in-as-fans-mob-him-and-rashmika-mandanna-on-ranabaali-sets-2887923-2026-03-27",
+      "headline": "Vijay steps in as fans mob him and Rashmika Mandanna on Ranabaali sets Vijay Deverakonda and Rashmika Mandanna's one-month anniversary on the sets of Ranabaali turned into a fan frenzy, with crowds swarming the couple as Vijay was seen stepping in to shield Rashmika."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/story/prime-video-maa-ka-sum-trailer-release-april-3-2887890-2026-03-27",
+      "headline": "Maa Ka Sum trailer dives into love, logic and a math prodigy's experiment Prime Video's Maa Ka Sum trailer shows a math prodigy who tries to solve love through logic, but emotions may have other plans.\r\n"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/toaster-rajkummar-rao-sanya-malhotra-in-quirky-chaos-release-date-out-2887889-2026-03-27",
+      "headline": "Toaster: Rajkummar Rao, Sanya Malhotra in quirky chaos. Release date out The dark comedy film Toaster, starring Rajkummar Rao and Sanya Malhotra, is all set to stream on Netflix from April 15, 2026, promising a quirky tale centred around a wedding and a common household item. "
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/shobhaa-de-hit-first-gabriella-hit-back-shots-fired-over-arjun-rampals-speech-2887872-2026-03-27",
+      "headline": "Shobhaa De hit first, Gabriella hit back: Shots fired over Arjun Rampal's speech Shobhaa De had a lot to say about Arjun Rampal invoking \"Bharat Mata Ki Jai\" at an awards ceremony. Turns out, the real performance began after the awards ended, with his partner Gabriella Demetriades entering the spotlight. "
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/never-in-two-minds-aamir-khan-says-ott-was-always-the-plan-for-sitaare-zameen-par-2887818-2026-03-27",
@@ -176,29 +196,19 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/anurag-dobhals-wife-ritika-says-stress-affecting-unborn-child-denies-his-claims-2887678-2026-03-27",
       "headline": "Anurag Dobhal's wife Ritika says stress affecting unborn child, denies his claims Anurag Dobhal's wife, Ritika Chauhan, broke her silence after his car crash and allegations against in-laws. She hinted at deeper tensions within the family. Her emotional note raised questions about what really went wrong."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/scene-stealer-at-20-why-dhurandhars-sara-arjun-is-the-heart-of-the-film-2887373-2026-03-27",
-      "headline": "Scene-stealer at 20: Why Sara Arjun in Dhurandhar 2 is the heart of the film Sara Arjun has captivated audiences with her nuanced portrayal of Yalina Jamali in Dhurandhar: The Revenge. Her restrained acting and expressive eyes bring depth to a complex character amid intense action and drama despite limited footage."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/hollywood/story/meryl-streep-praises-anne-hathaways-stand-on-body-image-in-devil-wears-prada-2-2887666-2026-03-27",
-      "headline": "Meryl Streep praises Anne Hathaway's stand on body image in Devil Wears Prada 2 Meryl Streep praised Anne Hathaway for taking a stand on body image on The Devil Wears Prada 2 sets. She urged producers not to cast 'thin models' and promote healthier portrayals."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/rakesh-bedi-arjun-rampal-gaurav-gera-how-dhurandhar-reinvents-familiar-faces-2887485-2026-03-27",
-      "headline": "Rakesh Bedi, Arjun Rampal, Gaurav Gera: How Dhurandhar reinvents familiar faces What's really heartening about the Dhurandhar franchise is how it's quietly giving a second wind to several seasoned actors who had been pushed to the sidelines in recent years. Instead of relying only on fresh faces or big stars, the films have smartly tapped into experienced talent. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/hollywood/story/the-end-of-oak-street-trailer-anne-hathaway-ewan-mcgregor-lead-eerie-sci-fi-drama-2887661-2026-03-27",
-      "headline": "The End of Oak Street trailer: Anne Hathaway, Ewan McGregor lead eerie sci-fi drama The trailer of The End of Oak Street, starring Anne Hathaway and Ewan McGregor, offers a glimpse into a mysterious sci-fi story set in a strange new world. The film will release in August this year."
     }
   ],
   "general news": [
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/elections/assembly/story/annamalai-unhappy-with-bjp-aiadmk-seat-distribution-for-tamil-nadu-polls-writes-to-hq-2887951-2026-03-27",
+      "headline": "Annamalai unhappy over BJP-AIADMK seat division, may not contest in protestAnnamalai unhappy with BJP-AIADMK seat distribution for Tamil Nadu polls, writes to HQ"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/india-prepares-energy-crisis-west-asia-war-60-days-fuel-reserve-2887738-2026-03-27",
+      "headline": "PM to meet CMs amid Iran war: 'Team India' model from Covid crisis back in focusAs India readies itself to face the challenge emerging out of West Asia, PM Modi's clarion call for 'Team India' underlines the country's unique polity, which is federal in form and unitary in spirit."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/iran-war-trump-us-kharg-island-ground-invasion-gallipoli-battle-mistakes-2887793-2026-03-27",
@@ -210,9 +220,9 @@
       "headline": "Married man's live-in relation not illegal, morality can't override law: CourtThe Allahabad High Court ruled that a married man in a consensual live-in relationship with a woman commits no offence."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/iran-warns-hotels-sheltering-american-soldiers-us-military-bases-strikes-2887841-2026-03-27",
-      "headline": "Gulf hotels housing US troops forced into hiding to be targets, Iran warnsUS soldiers who have been forced into hiding in hotels across the Gulf after strikes on military sites have come in Iran's crosshairs. Iran's military has now warned that hotels sheltering American troops would be targeted as well. "
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/technology/news/story/is-dhurandhar-propaganda-or-not-wikipedia-war-so-intense-jimmy-wales-makes-rare-intervention-2887801-2026-03-27",
+      "headline": "Is Dhurandhar 2 propaganda or not? Wikipedia war so intense Jimmy Wales intervenesDhurandhar: The Revenge or Dhurandhar 2 is a blockbuster that has set the box office on fire. But guess where else there is a fire burning? On the Wikipedia page of the movie where editors are fighting on how to describe it so fiercely that Wikipedia founder Jimmy Wales intervened. \r\n"
     },
     {
       "sentiment": "negative",
@@ -221,13 +231,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/is-dhurandhar-propaganda-or-not-wikipedia-war-so-intense-jimmy-wales-makes-rare-intervention-2887801-2026-03-27",
-      "headline": "Is Dhurandhar 2 propaganda or not? Wikipedia war so intense Jimmy Wales intervenesDhurandhar: The Revenge or Dhurandhar 2 is a blockbuster that has set the box office on fire. But guess where else there is a fire burning? On the Wikipedia page of the movie where editors are fighting on how to describe it so fiercely that Wikipedia founder Jimmy Wales intervened. \r\n"
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/us-israel-iran-war-live-updates-middle-east-crisis-conflict-strait-of-hormuz-2887660-2026-03-27",
-      "headline": "Live: We'll defend ourselves, Iran's Abbas Araghchi says amid escalating conflictUS-Israel-Iran War Live Updates: The Middle East conflict showed no signs of easing as fresh strikes were reported in Iran, Israel and Lebanon. Israel struck key infrastructure at multiple locations inside Iran, while Iranian missiles targeted not just Israel but also the UAE. At least two people were killed in the UAE from the debris of an intercepted missile. Israel also claimed it killed Alireza Tangsiri, the commander of Iran's IRGC navy, in a strike. Israel also intensified operations in Lebanon. On the diplomatic front, US President Donald Trump said Iran's leaders are begging to make a deal, while warning Washington could escalate further if needed. He also halted strikes on Iran's energy sites until April 6. The US has put forward a 15-point peace plan, with Pakistan acting as a mediator, but Iran has rejected the proposal as \"one-sided and unfair\". Follow all the latest updates on the ongoing Middle East conflict on indiatoday.in."
+      "headline": "Live: US fired over 850 Tomahawks at Iran in 4 weeks, pace alarms PentagonUS-Israel-Iran War Live Updates: The Middle East conflict showed no signs of easing as fresh strikes were reported in Iran, Israel and Lebanon. Israel struck key infrastructure at multiple locations inside Iran, while Iranian missiles targeted not just Israel but also the UAE. At least two people were killed in the UAE from the debris of an intercepted missile. Israel also claimed it killed Alireza Tangsiri, the commander of Iran's IRGC navy, in a strike. Israel also intensified operations in Lebanon. On the diplomatic front, US President Donald Trump said Iran's leaders are begging to make a deal, while warning Washington could escalate further if needed. He also halted strikes on Iran's energy sites until April 6. The US has put forward a 15-point peace plan, with Pakistan acting as a mediator, but Iran has rejected the proposal as \"one-sided and unfair\". Follow all the latest updates on the ongoing Middle East conflict on indiatoday.in."
     },
     {
       "sentiment": "positive",
@@ -236,18 +241,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/psl-2026-ball-turns-red-jersey-dye-marnus-labuschagne-controversy-pakistan-2887680-2026-03-27",
-      "headline": "PSL's poor quality shocks Labuschagne after ball turns red due to jersey dyePakistan Super League 2026: Marnus Labuschagne was left shocked after the ball turned red due to poor-quality jersey dye in the season opener between Lahore Qalandars and Hyderabad Kingsmen at Gaddafi Stadium, leaving players and fans stunned."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/science/story/india-lng-imports-domestic-gas-production-kg-basin-qatar-strait-hormuz-war-2026-2887829-2026-03-27",
       "headline": "LPG crisis: Where does piped gas come from and will it run out?India produces natural gas from offshore basins like the KG basin and onshore fields in Assam and Tripura, but domestic output meets only half of what the country needs. Offshore gas is extracted from within the seabed, while onshore gas is drilled on the land."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/iran-war-trump-deadline-ceasefire-us-troops-kharg-island-strait-of-hormuz-2887433-2026-03-27",
-      "headline": "Trump extends Iran pause but US military build-up tells another storyDonald Trump has extended the pause in attacking Iran's energy facilities by 10 days. Such a large-hearted gesture by Trump has not only taken Iran by surprise, but has, at the same time, made it sceptical whether it was a ruse to buy time to amass thousands of additional troops near Tehran. However, several experts have predicted Saturday to be D-day, with a high likelihood that the US will put boots on the ground. "
+      "url": "https://www.indiatoday.in/sports/cricket/story/psl-2026-ball-turns-red-jersey-dye-marnus-labuschagne-controversy-pakistan-2887680-2026-03-27",
+      "headline": "PSL's poor quality shocks Labuschagne after ball turns red due to jersey dyePakistan Super League 2026: Marnus Labuschagne was left shocked after the ball turned red due to poor-quality jersey dye in the season opener between Lahore Qalandars and Hyderabad Kingsmen at Gaddafi Stadium, leaving players and fans stunned."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/madhya-pradesh/story/madhya-pradesh-flood-relief-scam-kbc-winner-amita-singh-tomar-tehsilder-arrested-257-crore-2887897-2026-03-27",
+      "headline": "Official, who won Rs 50 lakh on KBC, arrested in Rs 2.6-crore flood relief scamAmita Singh Tomar held the post of Baroda tehsildar at the time of the incident, and along with other accused, she siphoned off approximately Rs 2.57 crore by transferring the\u00a0money into 127 fake bank accounts."
     },
     {
       "sentiment": "positive",
@@ -256,28 +261,23 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/market/story/sensex-falls-1000-points-crude-oil-spikes-geopolitical-tensions-indian-markets-2887712-2026-03-27",
-      "headline": "Sensex crashes 1,700 points: 3 reasons why markets are falling todayThe Sensex was down over 1,150 points, or around 1.5%, hovering near 74,100 around 10:54 am, while the Nifty 50 fell close to 350 points, or about 1.5%, slipping below the 23,000 mark to around 22,960."
+      "url": "https://www.indiatoday.in/auto/bikes/story/royal-enfield-guerrilla-450-updated-gets-apes-variant-improved-grip-and-new-features-2887931-2026-03-27",
+      "headline": "Royal Enfield Guerrilla 450 updated, gets Apex variant, improved grip and new featuresRoyal Enfield has updated the Guerrilla 450 for 2026, the bike now comes with an Apex variant, improved tyre grip, refined ride modes and added features, enhancing its appeal as a sharper, more engaging urban roadster."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/news-analysis/story/bengaluru-professor-proposes-student-mid-lecture-viral-video-2887492-2026-03-27",
-      "headline": "The old man and the she: Why older men pursue far younger womenA viral video captures a professor proposing to a student during class, raising discussions on classroom behaviour and societal dynamics."
+      "url": "https://www.indiatoday.in/movies/celebrities/story/shobhaa-de-hit-first-gabriella-hit-back-shots-fired-over-arjun-rampals-speech-2887872-2026-03-27",
+      "headline": "Shobhaa De hit first, Gabriella hit back: Shots fired over Arjun Rampal's speechShobhaa De had a lot to say about Arjun Rampal invoking \"Bharat Mata Ki Jai\" at an awards ceremony. Turns out, the real performance began after the awards ended, with his partner Gabriella Demetriades entering the spotlight. "
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/rumours-of-lockdown-amid-iran-war-completely-false-no-such-proposal-under-consideration-union-ministers-2887730-2026-03-27",
-      "headline": "Govt rubbishes lockdown rumours amid panic buying at petrol pumps over Iran warUnion Minister Hardeep Puri on Friday clarified that the central government is not considering any plan to impose a nationwide lockdown like at the time of the Covid-19 pandemic."
+      "url": "https://www.indiatoday.in/world/story/balen-shah-sworn-in-nepal-prime-minister-peaceful-transition-2887912-2026-03-27",
+      "headline": "After the blood, the ballot: Balen's Nepal shows the world how it's doneBalen Shah was sworn in as Nepal Prime Minister on Friday. The story isn't just who he is. It's how he got there."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/india-prepares-energy-crisis-west-asia-war-60-days-fuel-reserve-2887738-2026-03-27",
-      "headline": "PM to meet CMs amid Iran war: 'Team India' model from Covid crisis back in focusAs India readies itself to face the challenge emerging out of West Asia, PM Modi's clarion call for 'Team India' underlines the country's unique polity, which is federal in form and unitary in spirit."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/jobs/story/h1b-visa-programme-news-us-trump-wage-hike-for-visa-holders-foreign-workers-to-protect-american-jobs-2887828-2026-03-27",
-      "headline": "US plans to raise H-1B wages to match American payThe Trump administration has unveiled a proposal to increase the wages of H-1B visa holders and other foreign workers. The proposal by the US Department of Labour, seeks to protect American jobs, which are allegedly getting undercut by companies replacing American citizens with lower-paid immigrants."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/iran-warns-hotels-sheltering-american-soldiers-us-military-bases-strikes-2887841-2026-03-27",
+      "headline": "Gulf hotels housing US troops forced into hiding to be targets, Iran warnsUS soldiers who have been forced into hiding in hotels across the Gulf after strikes on military sites have come in Iran's crosshairs. Iran's military has now warned that hotels sheltering American troops would be targeted as well. "
     },
     {
       "sentiment": "positive",
@@ -286,18 +286,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/nato-should-join-us-end-iran-war-before-global-crisis-escalate-hungary-pm-victor-orban-2887766-2026-03-27",
-      "headline": "Nato should join US to end Iran war before global crisis hits: ExpertsOne of Europe's longest-serving leaders, Hungary's Prime Minister Viktor Orban, has urged that Nato alliance should join the US to end the war with Iran as soon as possible. He believes the war could trigger a new crisis and a fresh wave of refugees into Europe."
+      "url": "https://www.indiatoday.in/india/interactive/story/time-tide-and-tamil-part-37-1996-summer-karunanidhi-springs-jayalalithaa-winter-and-legal-chills-2887520-2026-03-27",
+      "headline": "Karunanidhi Springs, Jayalalithaa's Winter & Legal Chills | Part 37"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/health/story/virat-kohli-gets-vegan-tattoo-dermat-says-lifestyle-choice-not-health-upgrade-2887722-2026-03-27",
-      "headline": "Virat Kohli gets vegan tattoo; dermat says lifestyle choice, not health upgradeAmid the buzz around Virat Kohli's tattoos, questions around ink safety and vegan alternatives are growing. Here's a closer look at what goes into modern tattoo inks, how they differ, and what truly matters before getting inked."
+      "url": "https://www.indiatoday.in/world/story/iran-war-trump-deadline-ceasefire-us-troops-kharg-island-strait-of-hormuz-2887433-2026-03-27",
+      "headline": "Trump extends Iran pause but US military build-up tells another storyDonald Trump has extended the pause in attacking Iran's energy facilities by 10 days. Such a large-hearted gesture by Trump has not only taken Iran by surprise, but has, at the same time, made it sceptical whether it was a ruse to buy time to amass thousands of additional troops near Tehran. However, several experts have predicted Saturday to be D-day, with a high likelihood that the US will put boots on the ground. "
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/market/story/rupee-record-low-oil-prices-capital-outflows-impact-india-economy-2887823-2026-03-27",
-      "headline": "Rupee nears 95 against US dollar: Why is it falling and how does it impact you?On Friday, it slipped past Rs 94.7 against the US dollar, its weakest level yet. That number may not seem dramatic, but it reflects pressures that have been building for weeks and are now becoming harder to ignore."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/news-analysis/story/bengaluru-professor-proposes-student-mid-lecture-viral-video-2887492-2026-03-27",
+      "headline": "The old man and the she: Why older men pursue far younger womenA viral video captures a professor proposing to a student during class, raising discussions on classroom behaviour and societal dynamics."
     },
     {
       "sentiment": "positive",
@@ -306,21 +306,31 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/history-of-it/story/us-failed-military-operations-bay-of-pigs-invasion-cuba-1961-lessons-iran-conflict-middle-east-war-2887653-2026-03-27",
-      "headline": "When the US invaded a small nation, and lost bigHistory says that military might cannot guarantee victory, especially when leaders misread a nation's resolve. Amid the US' war with Iran, let's take a look back at one of America's most humiliating defeats, in which the force it backed surrendered within 72 hours."
+      "url": "https://www.indiatoday.in/elections/assembly/story/aiadmk-second-list-tamil-nadu-assembly-polls-candidates-2887901-2026-03-27",
+      "headline": "AIADMK releases 2nd list of 127 candidates, DMK claims internal riftAIADMK on Thursday released its second list of 127 candidates for the Tamil Nadu Assembly polls, taking its total tally to 150 so far. The DMK was quick to react, claiming the selections expose infighting and a \"shadow war\" within the party."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/market/story/sensex-falls-1000-points-crude-oil-spikes-geopolitical-tensions-indian-markets-2887712-2026-03-27",
+      "headline": "Sensex crashes 1,700 points: 3 reasons why markets are falling todayThe Sensex ended 1,690 points, or 2.25%, lower at 73,581, while the Nifty 50 fell 478 points, or 2.05%, to 22,828. The sharp fall wiped out nearly Rs 8.5 lakh crore in investor wealth compared to the previous close, underlining the intensity of the sell-off."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/jobs/story/5-cities-where-job-opportunities-are-growing-faster-than-salaries-is-it-a-smart-bet-educ-2887761-2026-03-27",
-      "headline": "5 cities where job opportunities are growing faster than salariesA new job map is emerging in India, and it is not centred on its biggest cities. Across Indore, Coimbatore, Jaipur, Bhubaneswar and Lucknow, hiring is expanding rapidly even as salary growth remains measured. This divergence is revealing a deeper shift where opportunity is no longer defined by the highest pay, but where jobs are growing fastest and most sustainably"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/assembly/story/north-bengal-battleground-bjp-trinamool-congress-assembly-elections-darjeeling-siliguri-2887775-2026-03-27",
-      "headline": "54 seats, one outcome: Tea-growing North Bengal at heart of brewing poll battleIn the tea belt of North Bengal, the political brew is once again heating up, with 54 Assembly seats set to play a decisive role in shaping the next government in West Bengal."
+      "url": "https://www.indiatoday.in/india/story/rumours-of-lockdown-amid-iran-war-completely-false-no-such-proposal-under-consideration-union-ministers-2887730-2026-03-27",
+      "headline": "Govt rubbishes lockdown rumours amid panic buying at petrol pumps over Iran warUnion Minister Hardeep Puri on Friday clarified that the central government is not considering any plan to impose a nationwide lockdown like at the time of the Covid-19 pandemic."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/badminton/story/carolina-marin-retires-badminton-knee-injury-olympic-champion-pv-sindhu-tribute-2887946-2026-03-27",
+      "headline": "PV Sindhu pays heartfelt tribute as Carolina Marin retires: A complete pain on court PV Sindhu paid an emotional tribute to longtime rival Carolina Marin after the Spaniard announced her retirement due to a persistent knee injury, calling her 'a complete pain on court' but praising the deep respect they shared."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-2026-iran-replacements-which-team-usa-israel-war-2887898-2026-03-27",
+      "headline": "Who replaces Iran if they withdraw from FIFA World Cup 2026? Iran's World Cup 2026 participation remains uncertain amid rising geopolitical tensions. With FIFA holding full discretion, questions grow over potential replacements and how the tournament could adapt if a qualified team withdraws at short notice."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-fitness-transformation-mumbai-indians-ipl-2026-preparation-2887837-2026-03-27",
@@ -369,12 +379,12 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ms-dhoni-ipl-2026-impact-sub-r-ashwin-csk-playing-xi-debate-2887714-2026-03-27",
-      "headline": "Dhoni shouldn't play IPL if he has to remain on CSK's Impact Sub list: Ashwin Former India off-spinner Ravichandran Ashwin has firmly stated that MS Dhoni should not be used as an Impact Player for Chennai Super Kings in IPL 2026. Ashwin insisted that if Dhoni is part of the squad, he must be included in the playing XI rather than being a substitute."
+      "headline": "Dhoni shouldn't play IPL if he has to remain on CSK's Impact Sub list: AshwinFormer India off-spinner Ravichandran Ashwin has firmly stated that MS Dhoni should not be used as an Impact Player for Chennai Super Kings in IPL 2026. Ashwin insisted that if Dhoni is part of the squad, he must be included in the playing XI rather than being a substitute."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/nuwan-thushara-rcb-to-miss-ipl-2026-slc-noc-fitness-policy-2887697-2026-03-27",
-      "headline": "RCB's Nuwan Thushara likely to miss IPL 2026 after Sri Lanka Cricket denies NOC Royal Challengers Bengaluru (RCB) are set to miss the services of overseas pacer Nuwan Thushara after Sri Lanka Cricket reportedly denied him a No Objection Certificate (NOC) for Indian Premier League 2026."
+      "headline": "RCB's Nuwan Thushara likely to miss IPL 2026 after Sri Lanka Cricket denies NOCRoyal Challengers Bengaluru (RCB) are set to miss the services of overseas pacer Nuwan Thushara after Sri Lanka Cricket reportedly denied him a No Objection Certificate (NOC) for Indian Premier League 2026."
     },
     {
       "sentiment": "positive",
@@ -465,16 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/rodri-vinicius-jr-rift-ballon-dor-real-madrid-transfer-2887358-2026-03-26",
       "headline": "Rodri denies feud with Vinicius Jr, open to La Liga transferManchester City midfielder Rodri denies any rift with Vin\u00edcius Junior after the Ballon d'Or controversy and hints at a possible move to Madrid, potentially in La Liga, as his Manchester City contract nears expiry."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/border-gavaskar-trophy-2027-five-test-series-india-vs-australia-schedule-2887331-2026-03-26",
-      "headline": "Chennai, Ahmedabad among venues to host Border-Gavaskar Trophy 2027India will host Australia in the much-anticipated Border-Gavaskar Trophy, with the five-Test series beginning on January 21, 2027, in Nagpur."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/bcci-schedule-2026-27-home-season-virat-kohli-rohit-sharma-border-gavaskar-2887329-2026-03-26",
-      "headline": "More ODIs for Virat and Rohit as BCCI announces 2026-27 home season scheduleThe BCCI announced the schedule for the senior men's team's 2026-27 home season on Thursday, 26 March. A total of nine ODIs will be played in this period, offering fans ample opportunities to watch Virat Kohli and Rohit Sharma in action."
     }
   ],
   "education": [
