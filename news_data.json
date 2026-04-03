@@ -2,6 +2,11 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/jobs/story/tech-layoffs-india-ai-vs-overhiring-job-cuts-oracle-amazon-microsoft-busc-2891174-2026-04-03",
+      "headline": "Tech layoffs: Is AI replacing jobs or are companies fixing overhiring?Job cuts have been reported across tech companies, showing that the trend is not limited to a single type of company. The trend has raised a key question. Are companies correcting overhiring from the past, or is artificial intelligence starting to reduce the need for certain roles?"
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/personal-finance/story/da-hike-how-much-will-your-salary-and-pension-increase-this-time-2891158-2026-04-03",
       "headline": "DA hike: How much will your salary and pension increase this time?With the next dearness allowance (DA) hike expected soon, central government employees and pensioners are watching closely. Even a small rise can push up monthly income, but how much extra can you really expect this time?"
     },
@@ -94,14 +99,19 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/commodities/story/gold-silver-prices-today-why-silver-falling-more-than-gold-mcx-rates-trump-iran-impact-2890530-2026-04-02",
       "headline": "Gold, silver prices today: Why is silver falling more than gold?On the Multi Commodity Exchange (MCX), gold futures were trading at Rs 1,49,283 at 11:15 am, down Rs 4,425 or 2.88%. Silver futures saw a steeper fall. Prices were at Rs 2,28,891, down Rs 14,610 or 6.00%. "
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/companies/story/india-retail-internal-logistics-inefficiency-rs-2000-crore-loss-2890505-2026-04-02",
-      "headline": "India's retail boom is hiding a Rs 2,000 crore problemIndia's retail boom is moving faster than ever on the surface, but inside, slow and messy inventory movement is quietly holding back efficiency, profitability and the next phase of growth."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/vikrant-massey-on-his-gruelling-tv-days-had-to-shoot-for-110-hours-non-stop-2891159-2026-04-03",
+      "headline": "Vikrant Massey on his gruelling TV days: Had to shoot for 110 hours non-stop Vikrant Massey opened up on the relentless schedule during his initial days as a television actor. He recalled 110 hours\" non-stop at that time."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/reviews/story/biker-telugu-motocross-racing-dr-rajasekhar-sharwanand-review-2891144-2026-04-03",
+      "headline": "Biker review: Less sport and too much drama bogs down this Sharwanand filmRelease Date:Fri Apr 03, 2026 Biker movie review: Written and directed by Abhilash Reddy, Biker starring Sharwanand, Rajashekhar and Malvika Nair has its moments of shine but lacks enough engagement to pass as compelling."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/music/story/honey-singh-postpones-sold-out-pune-concert-due-to-weather-new-date-out-2891135-2026-04-03",
@@ -186,16 +196,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/laetitia-hollard-nurse-emma-the-pitt-authenticity-care-exclusive-2889990-2026-04-03",
       "headline": "I was surprisingly calm, my family freaked out: Laetitia Hollard on landing The Pitt Actor Laetitia Hollard shared her emotional journey and the authenticity involved in portraying nurse Emma Nolan in the medical drama, The Pitt."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/tanuja-crowns-aditya-dhar-the-real-hero-of-dhurandhar-2-in-her-review-of-film-watch-2890973-2026-04-03",
-      "headline": "Tanuja crowns Aditya Dhar the real hero of Dhurandhar 2 in her review of film. Watch Kajol's mother and veteran actor Tanuja recently watched Dhurandhar: The Revenge and seemed deeply impressed with director Aditya Dhar's work. Her daughter Tanishaa Mukerji shared a video of her review."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/drishyam-3-row-explained-prime-video-claims-digital-rights-what-it-means-for-producers-mohanlal-jeethu-joseph-2890957-2026-04-03",
-      "headline": "Drishyam 3 row explained: Prime Video claims rights, what it means for producers? Amazon Prime Video issued a public notice on April 2 asserting exclusive digital rights over Drishyam 3. But, what about the producers?"
     }
   ],
   "general news": [
@@ -207,7 +207,7 @@
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/aam-aadmi-party-attacks-raghav-chadha-over-silence-on-pm-modi-2891124-2026-04-03",
-      "headline": "AAP launches full-blown attack against Raghav Chadha, BJP comes in supportSeveral Aam Aadmi Party leaders on Friday shared videos attacking Raghav Chadha for not speaking against PM Modi and the BJP-led Central government."
+      "headline": "AAP launches full-blown attack on Raghav Chadha, BJP comes out in supportSeveral Aam Aadmi Party leaders on Friday shared videos attacking Raghav Chadha for not speaking against PM Modi and the BJP-led Central government."
     },
     {
       "sentiment": "positive",
@@ -216,8 +216,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/nasa-artemis-ii-hot-sauce-space-food-taste-smell-microgravity-moon-mission-2891141-2026-04-03",
-      "headline": "A spicy mission: Why Nasa has launched 5 hot sauces to the MoonWhen Nasa's Artemis crew launched on April 2, five bottles of hot sauce were on the menu alongside 189 other food items. The reason will surprise you."
+      "url": "https://www.indiatoday.in/science/story/expect-rain-satellite-captures-1000-km-long-cloud-build-up-over-india-pakistan-2891031-2026-04-03",
+      "headline": "Satellite captures 1000-km-long cloud build-up over India, PakistanThe satellite imagery shows thick, multi-layered cloud cover extending across regions including Jammu and Kashmir, Himachal Pradesh, Punjab, Haryana, and parts of Rajasthan."
     },
     {
       "sentiment": "positive",
@@ -226,23 +226,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/french-container-ship-cma-cgm-kribi-strait-of-hormuz-western-european-transit-emmanuel-macron-donald-trump-2891147-2026-04-03",
-      "headline": "French-owned ship exits Strait of Hormuz in first western transit since war beganA French-linked container ship has successfully transited the Strait of Hormuz, amid the differences between Paris and Washington over the war in West Asia."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/expect-rain-satellite-captures-1000-km-long-cloud-build-up-over-india-pakistan-2891031-2026-04-03",
-      "headline": "Satellite captures 1000-km-long cloud build-up over India, PakistanThe satellite imagery shows thick, multi-layered cloud cover extending across regions including Jammu and Kashmir, Himachal Pradesh, Punjab, Haryana, and parts of Rajasthan."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/dhurandhar-2-15-day-run-rs-1492-crore-box-office-collection-worldwide-still-far-behind-pushpa-2-2890998-2026-04-03",
       "headline": "Dhurandhar 2's 15-day run: Rs 1,492 crore box office; behind Pushpa 2, Baahubali 2Dhurandhar: The Revenge has finished its two-week run at the box office, creating new records and breaking the existing ones - both globally and domestically. It is just behind Pushpa 2, Baahubali 2 and Dangal on the list of top Indian films of all-time worldwide."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/jobs/story/former-apple-employee-rakesh-quits-corporate-world-drives-autorickshaw-finds-purpose-educ-2891065-2026-04-03",
-      "headline": "From Apple to auto-rickshaw: How Rakesh found freedom beyond the corporate worldA former Apple and corporate professional walked away from high-paying jobs to find peace and purpose in a very different way. His Instagram reel went viral as he explained why he chose freedom over pressure."
     },
     {
       "sentiment": "positive",
@@ -256,8 +241,48 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/us-israel-iran-war-live-updates-middle-east-conflict-strait-of-hormuz-ceasefire-donald-trump-2890414-2026-04-02",
-      "headline": "Live: Debris from intercepted threat hit Habshan gas facilities, says Abu DhabiUS-Israel-Iran War Live Updates: The Iran-US-Israel conflict is intensifying, with tensions spreading across the region and new flashpoints emerging. Iran says the war will continue until its enemies face \"humiliation\" and \"surrender,\" warning against any US ground invasion, while also claiming unverified strikes on the USS Abraham Lincoln and US drone units at Ali Al Salem Air Base. US President Donald Trump said Iran's largest bridge had been hit and urged Tehran to reach a deal \"before it is too late,\" as US and Israeli attacks intensified, targeting sites in Tehran and key infrastructure. Despite Trump's claim that Iran sought a ceasefire, Tehran has denied it, with the IRGC adding that the Strait of Hormuz will remain closed to its enemies. Iran says more than 2,000 people have been killed and over 26,000 wounded since February 28. Stay with IndiaToday.in for the latest and live updates."
+      "url": "https://www.indiatoday.in/jobs/story/former-apple-employee-rakesh-quits-corporate-world-drives-autorickshaw-finds-purpose-educ-2891065-2026-04-03",
+      "headline": "From Apple to auto-rickshaw: How Rakesh found freedom beyond the corporate worldA former Apple and corporate professional walked away from high-paying jobs to find peace and purpose in a very different way. His Instagram reel went viral as he explained why he chose freedom over pressure."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/elections/story/assembly-election-2026-live-updates-april-3-tmc-bjp-kerala-west-bengal-tamil-nadu-puducherry-assam-candidates-seat-sharing-2890963-2026-04-03",
+      "headline": "Live: BJP candidate list for Tamil Nadu out, ex-party chief Annamalai snubbedAssembly Election News 2026 Live Updates: Election campaigning across four states and one Union Territory is in full swing. The counting of votes in Tamil Nadu, Kerala, Assam, West Bengal and Puducherry will be held on May 4 (Monday). Elections have taken a curious turn in West Bengal, with the TMC alleging that voters from Bihar have been added to the state's electoral roll. In Kerala, the Congress has accused the ruling Left Front government of being the BJP's B-team. Meanwhile, the entry of Vijay-led TVK could change the electoral dynamics in Tamil Nadu, where the DMK and the AIADMK have taken turns to rule the state. In Assam, the Congress is looking to dislodge the BJP after being out of power for 10 years. On April 3, Home Minister Amit Shah will hold rallies in Assam while PM Narendra Modi will undertake a roadshow in Puducherry. Follow indiatoday.in for all the latest updates."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/iran-war-claims-to-have-hit-us-f-35-jet-second-such-claim-since-conflict-began-2891040-2026-04-03",
+      "headline": "Iran claims to have hit second F-35 jet since conflict with US, Israel beganWhile there was no independent confirmation of the claim, the Iranian military officials said that the pilot may have been killed after the jet exploded on impact in Central Iran."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/jobs/story/survived-30000-layoffs-oracle-employee-says-do-not-give-extra-hour-to-work-set-boundaries-tchc-2891175-2026-04-03",
+      "headline": "Survived 30,000 layoffs, Oracle employee says do not give extra hour to workOracle's massive layoffs, impacting around 30,000 employees globally, have reportedly left remaining staff dealing with heavier workloads and growing pressure. A viral Reddit post from an alleged employee is now urging workers to set boundaries and avoid overworking to compensate for the cuts."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/nasa-artemis-ii-hot-sauce-space-food-taste-smell-microgravity-moon-mission-2891141-2026-04-03",
+      "headline": "A spicy mission: Why Nasa has launched 5 hot sauces to the MoonWhen Nasa's Artemis crew launched on April 2, five bottles of hot sauce were on the menu alongside 189 other food items. The reason will surprise you."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/drishyam-3-row-explained-prime-video-claims-digital-rights-what-it-means-for-producers-mohanlal-jeethu-joseph-2890957-2026-04-03",
+      "headline": "Drishyam 3 row explained: Prime Video claims rights, what it means for producers?Amazon Prime Video issued a public notice on April 2 asserting exclusive digital rights over Drishyam 3. But, what about the producers?"
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/elections/story/malda-bengal-mofakkarul-islam-arrested-hostage-case-judicial-officers-sir-assembly-elections-mastermind-close-to-kalyan-banerjee-mamata-banerjee-2891157-2026-04-03",
+      "headline": "TMC, BJP trade barbs after mastermind AIMIM leader held for Malda hostage crisisAdvocate and AIMIM leader, Mofakkarul Islam, has been named as the mastermind of the hostage situation in Bengal's Malda on April 1. He was arrested at Siliguri's Bagdogra airport while trying to flee."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/ins-aridhaman-nuclear-submarine-launch-india-sea-based-deterrence-2890993-2026-04-03",
+      "headline": "India to get 3rd nuclear submarine? Rajnath Singh teases INS AridhamanDefence Minister Rajnath Singh hinted at the launch of INS Aridaman, India's third indigenously built nuclear-powered ballistic missile submarine, in a social media post."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/dont-want-to-be-in-marriage-where-my-wife-has-to-stop-abhishek-bachchan-2891076-2026-04-03",
+      "headline": "It comes from ego: Abhishek Bachchan rejects gender roles in marriage with AishwaryaActor Abhishek Bachchan opened up about ego, masculinity, and why he rejected traditional gender roles in his marriage to Aishwarya Rai Bachchan. He also explained why he believes a partner should never have to \"stop\" for the other to feel successful."
     },
     {
       "sentiment": "positive",
@@ -266,38 +291,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/jobs/story/tech-layoffs-india-ai-vs-overhiring-job-cuts-oracle-amazon-microsoft-busc-2891174-2026-04-03",
-      "headline": "Tech layoffs: Is AI replacing jobs or are companies fixing overhiring?Job cuts have been reported across tech companies, showing that the trend is not limited to a single type of company. The trend has raised a key question. Are companies correcting overhiring from the past, or is artificial intelligence starting to reduce the need for certain roles?"
+      "url": "https://www.indiatoday.in/world/story/french-container-ship-cma-cgm-kribi-strait-of-hormuz-western-european-transit-emmanuel-macron-donald-trump-2891147-2026-04-03",
+      "headline": "French-owned ship exits Strait of Hormuz in first western transit since war beganA French-linked container ship has successfully transited the Strait of Hormuz, amid the differences between Paris and Washington over the war in West Asia."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/bengal-police-arrests-aimim-leader-for-leading-malda-protest-that-led-to-sir-officers-being-held-hostage-2891006-2026-04-03",
-      "headline": "Bengal hostage row: AIMIM leader arrested, named 'mastermind' of protestsAIMIM leader Mofakkerul Islam was arrested at Bagdogra Airport for masterminding the Malda protest that led to the hostage-taking of seven judicial officers."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/story/assembly-election-2026-live-updates-april-3-tmc-bjp-kerala-west-bengal-tamil-nadu-puducherry-assam-candidates-seat-sharing-2890963-2026-04-03",
-      "headline": "Live: BJP's list for Tamil Nadu out, ex-party chief Annamalai not includedAssembly Election News 2026 Live Updates: Election campaigning across four states and one Union Territory is in full swing. The counting of votes in Tamil Nadu, Kerala, Assam, West Bengal and Puducherry will be held on May 4 (Monday). Elections have taken a curious turn in West Bengal, with the TMC alleging that voters from Bihar have been added to the state's electoral roll. In Kerala, the Congress has accused the ruling Left Front government of being the BJP's B-team. Meanwhile, the entry of Vijay-led TVK could change the electoral dynamics in Tamil Nadu, where the DMK and the AIADMK have taken turns to rule the state. In Assam, the Congress is looking to dislodge the BJP after being out of power for 10 years. On April 3, Home Minister Amit Shah will hold rallies in Assam while PM Narendra Modi will undertake a roadshow in Puducherry. Follow indiatoday.in for all the latest updates."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/dont-want-to-be-in-marriage-where-my-wife-has-to-stop-abhishek-bachchan-2891076-2026-04-03",
-      "headline": "It comes from ego: Abhishek Bachchan rejects gender roles in marriage with AishwaryaActor Abhishek Bachchan opened up about ego, masculinity, and why he rejected traditional gender roles in his marriage to Aishwarya Rai Bachchan. He also explained why he believes a partner should never have to \"stop\" for the other to feel successful."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/iran-war-claims-to-have-hit-us-f-35-jet-second-such-claim-since-conflict-began-2891040-2026-04-03",
-      "headline": "Iran claims to have hit second F-35 jet since conflict with US, Israel beganWhile there was no independent confirmation of the claim, the Iranian military officials said that the pilot may have been killed after the jet exploded on impact in Central Iran."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/us-defense-secretary-pete-hegseth-asks-army-chief-randy-george-to-step-down-retire-immediately-reuters-2890943-2026-04-03",
-      "headline": "Pete Hegseth asks US Army chief Randy George to step down, retire immediatelyWhile the Pentagon has not given a reason for the firing, sources told CBS News that the move was driven by the Defence Secretary's desire for \"someone who will implement President Donald Trump's vision for the Army.\""
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/youre-afraid-to-speak-against-pm-modi-aap-hits-back-after-raghav-chadhas-video-message-against-party-2891037-2026-04-03",
-      "headline": "Raised samosa issue in Parliament: AAP fires back after Raghav Chadha's attackThe rift within Aam Aadmi Party is now out in the open, with party MPs openly lashing out at Raghav Chadha for not speaking out against PM Modi. This comes a day after the party dropped Chadha as Rajya Sabha deputy leader."
+      "url": "https://www.indiatoday.in/education-today/news/story/cbse-new-curriculum-2026-27-third-language-vocational-subjects-new-books-2890968-2026-04-03",
+      "headline": "CBSE new curriculum released: What the changes mean for studentsCBSE rolled out a revised curriculum for Classes 9 to 12 for 2026\u201327. With languages, skills and new books in focus, classrooms are set for a shift. But, as new sessions are beginning, what do these changes mean for students, and how do the changes differ from previous curriculum?"
     },
     {
       "sentiment": "positive",
@@ -305,22 +305,27 @@
       "headline": "Does a luxury handbag made from dinosaur collagen interest you? It's up for auctionWho knew that a fragment of the prehistoric past could be reimagined as a future luxury product! Although it's not without raising a few scientific eyebrows."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/civilian-infrastructure-iran-us-israel-middle-east-war-international-law-2891148-2026-04-03",
-      "headline": "Civilian infrastructure in Iran war crosshairs: What does international law say?With US President Donald Trump's doubling down on his threat to target Iran's power plants and Iran issuing a hit list of bridges across the Gulf, any relief on this front seems unlikely. However, are these attacks on civilian infrastructure allowed under international law? The answer is complicated."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/jobs/story/tech-layoffs-india-ai-vs-overhiring-job-cuts-oracle-amazon-microsoft-busc-2891174-2026-04-03",
+      "headline": "Tech layoffs: Is AI replacing jobs or are companies fixing overhiring?Job cuts have been reported across tech companies, showing that the trend is not limited to a single type of company. The trend has raised a key question. Are companies correcting overhiring from the past, or is artificial intelligence starting to reduce the need for certain roles?"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/ramayana-teaser-ranbir-kapoor-nitesh-tiwari-remind-predecessors-2890606-2026-04-03",
-      "headline": "The good, the sub-par, the OG: Ranbir's Ramayana teaser reminds of its predecessorsRanbir Kapoor's Ramayana teaser has sparked widespread nostalgia and debate, reminding audiences of the epic's rich cinematic history from Ramanand Sagar's devotional classic to Japan's acclaimed animation and the controversial Adipurush."
+      "url": "https://www.indiatoday.in/world/story/us-israel-iran-war-live-updates-middle-east-conflict-strait-of-hormuz-ceasefire-donald-trump-2890414-2026-04-02",
+      "headline": "Live: 5 Indians among 12 injured by interception debris in Abu DhabiUS-Israel-Iran War Live Updates: The Iran-US-Israel conflict is intensifying, with tensions spreading across the region and new flashpoints emerging. Iran says the war will continue until its enemies face \"humiliation\" and \"surrender,\" warning against any US ground invasion, while also claiming unverified strikes on the USS Abraham Lincoln and US drone units at Ali Al Salem Air Base. US President Donald Trump said Iran's largest bridge had been hit and urged Tehran to reach a deal \"before it is too late,\" as US and Israeli attacks intensified, targeting sites in Tehran and key infrastructure. Despite Trump's claim that Iran sought a ceasefire, Tehran has denied it, with the IRGC adding that the Strait of Hormuz will remain closed to its enemies. Iran says more than 2,000 people have been killed and over 26,000 wounded since February 28. Stay with IndiaToday.in for the latest and live updates."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/ins-aridhaman-nuclear-submarine-launch-india-sea-based-deterrence-2890993-2026-04-03",
-      "headline": "India to get 3rd nuclear submarine? Rajnath Singh teases INS AridhamanDefence Minister Rajnath Singh hinted at the launch of INS Aridaman, India's third indigenously built nuclear-powered ballistic missile submarine, in a social media post."
+      "url": "https://www.indiatoday.in/world/us-news/story/us-defense-secretary-pete-hegseth-asks-army-chief-randy-george-to-step-down-retire-immediately-reuters-2890943-2026-04-03",
+      "headline": "Pete Hegseth asks US Army chief Randy George to step down, retire immediatelyWhile the Pentagon has not given a reason for the firing, sources told CBS News that the move was driven by the Defence Secretary's desire for \"someone who will implement President Donald Trump's vision for the Army.\""
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-ipl-2026-preparation-dc-vs-mi-mahela-jayawardene-2891176-2026-04-03",
+      "headline": "How did Rohit Sharma get ready for IPL 2026? MI coach breaks down the process Mahela Jayawardene broke down the process adopted by Rohit Sharma as he got himself ready for the IPL 2026 campaign. Rohit scored a brilliant 78 against KKR in Mumbai's opening game."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/rishabh-pant-white-ball-struggles-yuvraj-singh-mentorship-ipl-2025-comeback-2891125-2026-04-03",
@@ -374,7 +379,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/abhishek-sharma-fine-run-out-controversy-kkr-vs-srh-ipl-2026-2890964-2026-04-03",
-      "headline": "Abhishek Sharma handed hefty fine by IPL for breach of conduct in KKR vs SRH Abhishek Sharma has been fined 25 percent of his match fees and handed one demerit point after SRH's win over KKR at the Eden Gardens on Thursday, April 2. Abhishek was sanctioned for breaching IPL's Code of Conduct during the game."
+      "headline": "Abhishek Sharma handed hefty fine by IPL for breach of conduct in KKR vs SRHAbhishek Sharma has been fined 25 percent of his match fees and handed one demerit point after SRH's win over KKR at the Eden Gardens on Thursday, April 2. Abhishek was sanctioned for breaching IPL's Code of Conduct during the game."
     },
     {
       "sentiment": "positive",
@@ -470,11 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/cristiano-ronaldo-lionel-messi-lego-minifigures-fifa-world-cup-2026-2890781-2026-04-02",
       "headline": "Ronaldo, Messi reimagined by Lego: Football icons join hands for World Cup adFootball legends Ronaldo and Messi unite with LEGO ahead of World Cup 2026 in an exciting new ad. The advertisement comes as a part of Lego launching the minifigures of both legends, along with Kylian Mbappe and Vinicius Jr."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/iga-swiatek-appoints-francisco-roig-after-miami-open-exit-rafael-nadal-2890775-2026-04-02",
-      "headline": "After Miami Open horror, Iga Swiatek hires Rafael Nadal's former coachIga Swiatek has hired Rafael Nadal's former coach Francisco Roig after her shock Miami Open exit. Roig was a part of Nadal's team and briefly coached Emma Raducanu."
     }
   ],
   "education": [
