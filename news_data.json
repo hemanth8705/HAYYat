@@ -103,6 +103,21 @@
   ],
   "entertainment": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/varun-dhawan-claps-back-at-influencer-alleging-fake-reviews-for-hai-jawani-teaser-2896275-2026-04-14",
+      "headline": "Varun Dhawan claps back at influencer alleging fake reviews for Hai Jawani teaser A social media row broke out after a Delhi-based influencer accused actor Varun Dhawan of orchestrating fake reviews for the teaser of his upcoming film Hai Jawani Toh Ishq Hona Hai. The actor responded to the claims, triggering a public exchange that has drawn attention."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/is-ranveer-singh-ad-with-prakash-padukone-a-dig-at-dhruv-rathee-fans-think-so-2896232-2026-04-14",
+      "headline": "Is Ranveer Singh's ad with Prakash Padukone a dig at Dhruv Rathee? Fans think so Actor Ranveer Singh's new ad with father-in-law Prakash Padukone is going viral, with fans spotting a cheeky Dhruv Rathee nod. Meanwhile, the Dhurandhar franchise is smashing records, having crossed Rs 3,000 crore worldwide."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/story/nani-reveals-he-wouldnt-have-produced-adivi-seshs-dacoit-heres-why-2895970-2026-04-14",
+      "headline": "Nani reveals he wouldn't have produced Adivi Sesh's Dacoit. Here's why Actor Nani, in a promotional interview with Adivi Sesh, praised his recent film Dacoit, calling it better than his films Major and Goodachari."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/ram-charan-calls-himself-rough-dad-praises-upasana-for-being-the-nurturer-2896176-2026-04-14",
       "headline": "Ram Charan calls himself a rough dad, praises Upasana for being the nurturer Actor Ram Charan has opened up about his parenting style, calling himself a 'rough dad' while describing wife Upasana Kamineni as the nurturing force in their family. The couple have a three-year-old daughter and welcomed twins earlier this year."
@@ -181,21 +196,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/hai-jawani-toh-ishq-hona-hai-teaser-and-varun-dhawans-return-to-romance-watch-2895916-2026-04-14",
       "headline": "Hai Jawani Toh Ishq Hona Hai teaser and Varun Dhawan's return to romance. Watch Varun Dhawan returns to his signature romantic-comedy space with Hai Jawani Toh Ishq Hona Hai. The teaser hints at a lively love triangle set in a vibrant, high-energy world."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/music/story/pakistan-news-media-regulator-pulls-up-geo-tv-channel-asha-bhosle-tribute-song-dhurandhar-the-revenge-track-tops-spotify-charts-2895866-2026-04-14",
-      "headline": "Pak pulls up TV channel for Asha Bhosle songs. But Dhurandhar 2 tops its Spotify A tribute to Asha Bhosle triggered regulatory action in Pakistan, with the government citing a ban on Indian content on television. Yet Indian songs continue to trend on streaming platforms like Spotify, exposing a paradox between broadcast restrictions and digital access."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/hollywood/story/kendall-jenner-and-jacob-elordi-coachella-vibes-or-something-more-2895784-2026-04-14",
-      "headline": "Kendall Jenner and Jacob Elordi: Coachella vibes or something more? Coachella is buzzing with fresh whispers around Kendall Jenner and Jacob Elordi, and the chatter is hard to ignore. The duo was reportedly seen getting cosy at an after-party over the weekend."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/ramayana-against-dune-3-the-odyssey-producer-namit-says-world-wants-freshness-2895836-2026-04-14",
-      "headline": "Ramayana against Dune 3, The Odyssey? Producer Namit says world wants freshness Namit Malhotra explains why Ramayana stands out in a year packed with global epics like Dune 3 and The Odyssey. The filmmaker believes the story offers something fresh for worldwide audiences."
     }
   ],
   "general news": [
@@ -207,12 +207,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/iran-talks-could-happen-over-next-2-days-in-pak-field-marshal-asim-munir-doing-great-job-trump-to-ny-post-2896216-2026-04-14",
-      "headline": "Iran talks 2.0 may happen in next two days in Pak, says Trump. Then praises MunirIran talks could happen over next 2 days in Pak, Field Marshal Asim Munir doing great job: Trump to NY Post"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/government-proposes-to-increase-total-number-of-seats-in-lok-sabha-from-543-to-850-2895988-2026-04-14",
-      "headline": "Lok Sabha strength to rise from 543 to 850, setting stage for women's reservationThe government has shared the draft bill with MPs ahead of a likely push to amend the Constitution. If implemented, the new Lok Sabha will comprise 850 members, up from its current strength of 543."
+      "headline": "Iran talks 2.0 may happen in next two days in Pak, says Trump. Then praises MunirTrump's latest remarks come as tensions between the United States and Iran escalate following the American blockade of Iranian ports, with Tehran threatening regional strikes in response. The showdown over the Strait of Hormuz risks reigniting hostilities and deepening the regional war's economic fallout."
     },
     {
       "sentiment": "positive",
@@ -221,8 +216,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/baloch-liberation-army-first-naval-operation-maritime-attack-jiwani-gwadar-pakistan-2896165-2026-04-14",
-      "headline": "Video: In first naval operation, Baloch rebels kill Pak soldiers off Gwadar coastThe Baloch Liberation Army (BLA) conducted its first naval operation in the Jiwani region of Gwadar and killed three Pakistani coast guard soldiers. A video, shared by the BLA's media wing Hakkal, shows Baloch rebels on a speed boat using machine guns to attack the Pakistani personnel."
+      "url": "https://www.indiatoday.in/india/story/samrat-choudhary-bihar-cm-nitish-kumar-steps-down-muretha-vow-oust-mahagathbandhan-2896112-2026-04-14",
+      "headline": "When Samrat Choudhary vowed on muretha: Won't remove turban till Nitish oustedFor 22 months, BJP leader Samrat Choudhary wore the muretha (turban) as a vow. He pledged to remove it only after ousting Nitish Kumar from the chief minister's post. Choudhary was named Bihar's new CM on Tuesday. But the muretha was off over a year ago."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/is-ranveer-singh-ad-with-prakash-padukone-a-dig-at-dhruv-rathee-fans-think-so-2896232-2026-04-14",
+      "headline": "Is Ranveer Singh's ad with Prakash Padukone a dig at Dhruv Rathee? Fans think soActor Ranveer Singh's new ad with father-in-law Prakash Padukone is going viral, with fans spotting a cheeky Dhruv Rathee nod. Meanwhile, the Dhurandhar franchise is smashing records, having crossed Rs 3,000 crore worldwide."
     },
     {
       "sentiment": "positive",
@@ -231,23 +231,23 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/samrat-choudhary-bihar-cm-nitish-kumar-steps-down-muretha-vow-oust-mahagathbandhan-2896112-2026-04-14",
-      "headline": "When Samrat Choudhary vowed on muretha: Won't remove turban till Nitish oustedFor 22 months, BJP leader Samrat Choudhary wore the muretha (turban) as a vow. He pledged to remove it only after ousting Nitish Kumar from the chief minister's post. Choudhary was named Bihar's new CM on Tuesday. But the muretha was off over a year ago."
+      "url": "https://www.indiatoday.in/world/story/baloch-liberation-army-first-naval-operation-maritime-attack-jiwani-gwadar-pakistan-2896165-2026-04-14",
+      "headline": "Video: In first naval operation, Baloch rebels kill Pak soldiers off Gwadar coastThe Baloch Liberation Army (BLA) conducted its first naval operation in the Jiwani region of Gwadar and killed three Pakistani coast guard soldiers. A video, shared by the BLA's media wing Hakkal, shows Baloch rebels on a speed boat using machine guns to attack the Pakistani personnel."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/israel-lebanon-hold-first-direct-talks-in-decades-to-discuss-ceasefire-after-days-of-deadly-bombardment-2896221-2026-04-14",
-      "headline": "Israel, Lebanon envoys begin historic talks in Washington to discuss peace dealA rare moment of direct Israel-Lebanon engagement after decades of hostility, as the Hezbollah-linked conflict devastates Lebanon and fuels wider regional tensions."
+      "url": "https://www.indiatoday.in/india/story/government-proposes-to-increase-total-number-of-seats-in-lok-sabha-from-543-to-850-2895988-2026-04-14",
+      "headline": "Lok Sabha strength to rise from 543 to 850, setting stage for women's reservationThe government has shared the draft bill with MPs ahead of a likely push to amend the Constitution. If implemented, the new Lok Sabha will comprise 850 members, up from its current strength of 543."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/bhimrao-ambedkar-jayanti-noida-mayawati-park-dalit-bahujan-celebrations-uttar-pradesh-politics-2896053-2026-04-14",
-      "headline": "I was at Ambedkar's birthday bash in Noida, saw biryani, bikes edge out politicsThe birth anniversary celebration of Bhimrao Ambedkar turned Noida's green Rashtriya Dalit Prerna Sthal into a sea of blue. Bheem Geets blared, bike stunts performed and bhandaras of biryani and chole kulche were doled out. Dalit politics was reserved for another day."
+      "url": "https://www.indiatoday.in/trending-news/story/employee-quits-in-7-days-over-toxic-behaviour-hr-denies-salary-on-whatsapp-2896095-2026-04-14",
+      "headline": "Employee quits in 7 days over 'toxic behaviour,' HR denies salary on WhatsAppOn Reddit's r/IndianWorkplace, the employee shared a post titled, \"Company refused to pay because I resigned within a week due to toxic behavior.\" The employee had joined a small firm with a team of around 20 people as a marketing executive at a salary of Rs 5.04 lakh per annum."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/csk-vs-kkr-live-score-ipl-2026-chennai-super-kings-kolkata-knight-riders-match-ajinkya-rahane-ruturaj-gaikwad-2896100-2026-04-14",
-      "headline": "CSK vs KKR Live: Sunil Narine opens with Finn Allen in 193 chaseChennai Super Kings (CSK) vs Kolkata Knight Riders (KKR) Live Score, IPL 2026: Sunil Narine has finally been given an opportunity to open by the Kolkata Knight Riders. KKR are chasing 193 after a tremendous bowling display by the spinners."
+      "headline": "CSK vs KKR Live: Noor Ahmad wins it for Chennai, Kolkata sink furtherChennai Super Kings (CSK) vs Kolkata Knight Riders (KKR) Live Score, IPL 2026: Ajinkya Rahane's Kolkata Knight Riders fail to chase 193 at the MA Chidambaram Stadium. Noor Ahmad spins his web and hands KKR a huge thrashing in Chennai."
     },
     {
       "sentiment": "positive",
@@ -256,13 +256,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/africa-news-elon-muck-slams-racist-south-africa-rules-deny-starlink-license-for-not-being-black-officials-tell-him-to-move-on-2896032-2026-04-14",
-      "headline": "Because I am not Black: Musk calls South Africa racist in tirade over StarlinkTesla boss Elon Musk has reignited a global debate over race-based policies in his birthplace, South Africa. He accused the regime of racial discrimination after it stalled its Starlink plans. South Africa is insisting Musk either comply with local laws or take his Starlink venture elsewhere."
+      "url": "https://www.indiatoday.in/india/story/bhimrao-ambedkar-jayanti-noida-mayawati-park-dalit-bahujan-celebrations-uttar-pradesh-politics-2896053-2026-04-14",
+      "headline": "I was at Ambedkar's birthday bash in Noida, saw biryani, bikes edge out politicsThe birth anniversary celebration of Bhimrao Ambedkar turned Noida's green Rashtriya Dalit Prerna Sthal into a sea of blue. Bheem Geets blared, bike stunts performed and bhandaras of biryani and chole kulche were doled out. Dalit politics was reserved for another day."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/rs-3000-crore-for-dhurandhar-franchise-indias-1st-beats-pushpa-baahubali-series-2896029-2026-04-14",
-      "headline": "Rs 3,000 crore for Dhurandhar franchise: India's 1st, beats Pushpa-Baahubali seriesDhurandhar has rewritten the rules of Indian box office success, crossing the Rs 3,000-crore mark and leaving rival franchises behind. But the real story lies in how it achieved this milestone, and what it signals for Bollywood's global future."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/varun-dhawan-claps-back-at-influencer-alleging-fake-reviews-for-hai-jawani-teaser-2896275-2026-04-14",
+      "headline": "Varun Dhawan claps back at influencer alleging fake reviews for Hai Jawani teaserA social media row broke out after a Delhi-based influencer accused actor Varun Dhawan of orchestrating fake reviews for the teaser of his upcoming film Hai Jawani Toh Ishq Hona Hai. The actor responded to the claims, triggering a public exchange that has drawn attention."
     },
     {
       "sentiment": "positive",
@@ -271,8 +271,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/trump-pm-modi-praise-during-call-hormuz-iran-war-ceasefire-2896205-2026-04-14",
-      "headline": "We all love you: Trump's special message for PM Modi during callUS President Donald Trump conveyed a warm message to Prime Minister Narendra Modi during their nearly 40-minute call, saying, \"we all love you\", PTI reported, citing US Ambassador to India Sergio Gor."
+      "url": "https://www.indiatoday.in/world/story/africa-news-elon-muck-slams-racist-south-africa-rules-deny-starlink-license-for-not-being-black-officials-tell-him-to-move-on-2896032-2026-04-14",
+      "headline": "Because I am not Black: Musk calls South Africa racist in tirade over StarlinkTesla boss Elon Musk has reignited a global debate over race-based policies in his birthplace, South Africa. He accused the regime of racial discrimination after it stalled its Starlink plans. South Africa is insisting Musk either comply with local laws or take his Starlink venture elsewhere."
     },
     {
       "sentiment": "positive",
@@ -281,13 +281,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/health/story/sleeping-9-hours-but-still-tired-alia-bhatt-sadhguru-chat-puts-focus-on-sleep-2895900-2026-04-14",
-      "headline": "Sleeping 9 hours but still tired? Alia Bhatt\u2013Sadhguru chat puts focus on sleepFor years, 8 hours of sleep has been seen as the gold standard for good health. But many, including Alia Bhatt, say even 9 hours sometimes doesn't feel enough."
+      "url": "https://www.indiatoday.in/cities/bengaluru/story/bengaluru-fitness-trainer-suicide-family-alleges-blackmail-married-woman-2896244-2026-04-14",
+      "headline": "Fitness trainer dies by suicide, family claims harassment by married womanA 27-year-old fitness trainer was found hanging at his home in Bengaluru, with his family alleging that he was being blackmailed by a married woman, with whom he was in a relationship, over money and property."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/at-least-30-workers-seriously-injured-after-explosion-at-vedanta-power-plant-in-chhattisgarh-triggers-stampede-2896126-2026-04-14",
-      "headline": "10 killed, over 30 injured after blast at Vedanta power plant in Chhattisgarh; toll may riseA deadly boiler explosion at a Vedanta power plant in Chhattisgarh has left at least 10 workers dead and many injured, but with rescue operations ongoing, the final toll and cause remain uncertain."
+      "url": "https://www.indiatoday.in/movies/bollywood/story/rs-3000-crore-for-dhurandhar-franchise-indias-1st-beats-pushpa-baahubali-series-2896029-2026-04-14",
+      "headline": "Rs 3,000 crore for Dhurandhar franchise: India's 1st, beats Pushpa-Baahubali seriesDhurandhar has rewritten the rules of Indian box office success, crossing the Rs 3,000-crore mark and leaving rival franchises behind. But the real story lies in how it achieved this milestone, and what it signals for Bollywood's global future."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-2026-boston-bus-service-rs-10000-2896214-2026-04-14",
+      "headline": "Rs 10,000 for a bus ride? USA sets ridiculous fares for FIFA World CupFIFA World Cup: The city of Boston has announced a paid bus service, the \"Boston Stadium Express,\" for the FIFA World Cup 2026, costing Rs 8,840.90 per round trip to Gillette Stadium. The service, operated with Yankee Line, is part of broader concerns over rising costs and accessibility for fans attending the tournament."
     },
     {
       "sentiment": "positive",
@@ -301,26 +306,31 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/mexico-zoos-baby-monkey-clings-to-teddy-bear-reminds-internet-of-japans-punch-2896204-2026-04-14",
-      "headline": "Mexico zoo's baby monkey clings to teddy bear, reminds Internet of Japan's PunchThe tiny patas monkey is now under constant supervision at the Mexican Zoo, being hand-fed and closely monitored to ensure it develops normally along with a plushie."
+      "url": "https://www.indiatoday.in/world/story/israel-lebanon-hold-first-direct-talks-in-decades-to-discuss-ceasefire-after-days-of-deadly-bombardment-2896221-2026-04-14",
+      "headline": "Rubio calls Israel-Lebanon talks a 'historic opportunity' but warns no quick dealA rare moment of direct Israel-Lebanon engagement after decades of hostility, as the Hezbollah-linked conflict devastates Lebanon and fuels wider regional tensions."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/noida/story/noida-salary-protest-industries-wage-hike-police-coordinated-online-mobilisation-police-2895886-2026-04-14",
-      "headline": "Noida protests were planned via social media, workers urged to bring chilli powderNoida witnessed large-scale, and at times violent, protests over wage hike demands, with police arresting nearly 400 people so far."
+      "url": "https://www.indiatoday.in/india/story/trump-pm-modi-praise-during-call-hormuz-iran-war-ceasefire-2896205-2026-04-14",
+      "headline": "We all love you: Trump's special message for PM Modi during callUS President Donald Trump conveyed a warm message to Prime Minister Narendra Modi during their nearly 40-minute call, saying, \"we all love you\", PTI reported, citing US Ambassador to India Sergio Gor."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/imf-forecasts-india-growth-at-65-for-2026-and-2027-on-strong-momentum-and-lower-us-tariff-rates-2896146-2026-04-14",
       "headline": "IMF raises India FY27 GDP to 6.5% despite global conflict headwindsOne of the key reasons behind the improved outlook is a reduction in additional US tariffs on Indian goods. These tariffs have come down from 50% to 10%, easing pressure on exports."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/bengaluru-police-play-referee-in-unusual-kitten-custody-drama-2896192-2026-04-14",
-      "headline": "Bengaluru Police play referee in unusual kitten custody dramaA resident's male pet cat had allegedly mated with a neighbour's female cat, which later gave birth to four kittens. What followed had to be solved by the intervention of Bengaluru Police."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/javier-mascherano-resigns-inter-miami-coach-hoyos-appointed-2896287-2026-04-14",
+      "headline": "Javier Mascherano resigns as Inter Miami head coach after historic MLS Cup win Javier Mascherano has resigned as head coach of Inter Miami CF, just four months after leading the team to its first MLS Cup title. The club said the Argentine stepped down due to \"personal reasons.\""
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-2026-boston-bus-service-rs-10000-2896214-2026-04-14",
+      "headline": "Rs 10,000 for a bus ride? USA sets ridiculous fares for FIFA World Cup FIFA World Cup: The city of Boston has announced a paid bus service, the \"Boston Stadium Express,\" for the FIFA World Cup 2026, costing Rs 8,840.90 per round trip to Gillette Stadium. The service, operated with Yankee Line, is part of broader concerns over rising costs and accessibility for fans attending the tournament."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/lsg-vs-rcb-ipl-2026-mayank-yadav-2896238-2026-04-14",
@@ -364,12 +374,12 @@
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-virat-kohli-injury-update-rcb-vs-lsg-bengaluru-2896133-2026-04-14",
-      "headline": "Virat Kohli injury update: RCB star trains in Bengaluru. Will he play vs LSG? IPL 2026: Virat Kohli trained on Tuesday, batting fluently in the nets as concerns over his ankle injury eased. The star batter is likely to feature in RCB's home game against Lucknow Super Giants on Wednesday."
+      "headline": "Virat Kohli injury update: RCB star trains in Bengaluru. Will he play vs LSG?IPL 2026: Virat Kohli trained on Tuesday, batting fluently in the nets as concerns over his ankle injury eased. The star batter is likely to feature in RCB's home game against Lucknow Super Giants on Wednesday."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/will-jacks-mumbai-indians-return-ipl-2026-after-absence-2896128-2026-04-14",
-      "headline": "IPL 2026: Will Jacks set to join Mumbai Indians after missing first four games England all-rounder Will Jacks is set to arrive in India later this week to link up with Mumbai Indians, having missed the franchise's first four matches of the IPL 2026 season following a busy international schedule."
+      "headline": "IPL 2026: Will Jacks set to join Mumbai Indians after missing first four gamesEngland all-rounder Will Jacks is set to arrive in India later this week to link up with Mumbai Indians, having missed the franchise's first four matches of the IPL 2026 season following a busy international schedule."
     },
     {
       "sentiment": "positive",
@@ -389,7 +399,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/csk-vs-kkr-live-score-ipl-2026-chennai-super-kings-kolkata-knight-riders-match-ajinkya-rahane-ruturaj-gaikwad-2896100-2026-04-14",
-      "headline": "CSK vs KKR Live Score: Sunil Narine opens with Finn AllenChennai Super Kings (CSK) vs Kolkata Knight Riders (KKR) Live Score, IPL 2026: The Super Kings have posted 192 for five after being asked to bat first. Sanju Samson top-scored with 38, followed by Dewald Brevis' 41. For KKR, Kartik Tyagi picked up two wickets while Sunil Narine bowled with an incredibe economy rate of 5.25."
+      "headline": "CSK vs KKR Live: Ramandeep, Powell struggle, match slipping away from KKRChennai Super Kings (CSK) vs Kolkata Knight Riders (KKR) Live Score, IPL 2026: Chennai Super Kings are dominating at their home turf. Ramandeep and Rovman are struggling, and the match is slipping away from KKR."
     },
     {
       "sentiment": "positive",
@@ -460,16 +470,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-vaibhav-sooryavanshi-india-debut-ireland-t20i-series-reports-2895746-2026-04-14",
       "headline": "Sooryavanshi's India debut loading? 15-year-old in talks for Ireland seriesIPL 2026: Vaibhav Sooryavanshi's IPL rise could soon fast-track him into India colours. With selectors watching closely, the 15-year-old now reportedly stands on the brink of a historic international debut."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-praful-hinge-instagram-followers-increase-debut-srh-vs-rr-2895736-2026-04-14",
-      "headline": "4 wickets, 181k followers: Praful Hinge's IPL debut night breaks the internetIPL 2026: Praful Hinge turned his debut into a viral moment with a record-breaking spell. The SRH pacer's four-wicket burst not only dismantled RR but also saw his Instagram following explode from 4K to 185K overnight."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-srh-vs-rr-praful-hinge-four-wickets-debut-play-of-the-day-vaibhav-sooryavanshi-2895728-2026-04-14",
-      "headline": "IPL Play Of The Day: Hinge swipes left on RR after baiting them into temptationsIPL 2026: Praful Hinge decided to swipe right on SRH's request and decided to bait the RR batters into giving away their wickets and ghost them in the end. Hinge finished with four wickets for 34 runs in his spell, helping Hyderabad claim their second win of the season."
     }
   ],
   "education": [
