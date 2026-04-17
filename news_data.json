@@ -103,6 +103,16 @@
   ],
   "entertainment": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/pakistani-dhurandhar-internet-mocks-javed-sheikhs-show-jahannum-baraasta-jannat-2897825-2026-04-17",
+      "headline": "Pakistani Dhurandhar? Internet mocks Javed Sheikh's show Jahannum Ba'raasta Jannat Social media users mocked the Pakistani show Jahannum Ba'raasta Jannat over the portrayal of RAW and the Hindi accent. Many on social media feel it is a copy of Aditya Dhar's Dhurandhar."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/samay-raina-visits-botezlive-sisters-los-angeles-home-roasts-them-with-zero-filter-2897920-2026-04-17",
+      "headline": "Samay Raina visits Botez sisters' Los Angeles home, roasts them with zero filter Samay Raina recently visited the popular Botez sisters' Los Angeles home, where he roasted them left, right and centre for keeping their house messy. The vlog was shared by the sisters on their popular YouTube channel BotezLive."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/vikrams-next-chiyaan-63-announced-on-actors-60th-birthday-watch-teaser-2897881-2026-04-17",
       "headline": "Vikram's next Chiyaan 63 announced on actor's 60th birthday, watch teaser Actor Vikram's upcoming film Chiyaan 63, directed by Anand Shankar, promises a gritty, rustic story with the actor in an unconventional role. The teaser hints at a dark, suspenseful narrative and showcases his striking transformation."
@@ -110,7 +120,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/kalyani-priyadarshan-pranav-mohanlal-to-marry-lokah-actor-lissy-priyadarshan-mother-reacts-2897833-2026-04-17",
-      "headline": "Kalyani Priyadarshan, Pranav Mohanlal to marry? Lokah actor's mother reacts Kalyani Priyadarshan and Pranav Mohanlal have once again been at the centre of dating rumours, with Lissy Priyadarshan calling them false and saying the two share a sibling-like bond. The speculation dates back to their 2022 film Hridayam."
+      "headline": "Kalyani Priyadarshan, Pranav Mohanlal to marry? Lokah actor's mother reacts Kalyani Priyadarshan and Pranav Mohanlal are once again at the centre of dating rumours, with the Lokah star's mother Lissy Priyadarshan dismissing all such talk."
     },
     {
       "sentiment": "positive",
@@ -186,16 +196,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/alia-bhatts-sister-shaheen-gets-engaged-to-fitness-instructor-ishaan-mehra-pics-2897587-2026-04-17",
       "headline": "Alia Bhatt shares emotional post as sister Shaheen is engaged to Ishaan Mehra Alia Bhatt's sister Shaheen got engaged to fitness trainer Ishaan Mehra. Alia and other celebrities from the Hindi film industry reacted to the couple's announcement on social media."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/kangana-ranaut-reacts-to-chirag-paswan-dating-buzz-with-a-witty-remark-2897505-2026-04-17",
-      "headline": "Kangana Ranaut reacts to Chirag Paswan dating buzz with a witty remark Actor-politician Kangana Ranaut has set the record straight on her bond with her fellow parliamentarian Chirag Paswan. She clarified that Chirag is her friend and there is no romantic relationship between them."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/bhooth-bangla-x-reviews-akshay-kumar-priyadarshans-comedy-gets-mixed-response-2897497-2026-04-17",
-      "headline": "Bhooth Bangla X reviews: Akshay Kumar-Priyadarshan's comedy gets mixed response Akshay Kumar-Priyadarshan's horror comedy, Bhooth Bangla received a mixed response in its early reviews. The film's paid previews were held on April 16."
     }
   ],
   "general news": [
@@ -216,8 +216,8 @@
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/nida-khan-family-rejects-religious-conversion-charges-tcs-nashik-godman-2897626-2026-04-17",
-      "headline": "Conspiracy to save Nashik godman, parents of TCS case accused Nida Khan claimThe parents of TCS Nashik conversion case accused Nida Khan' have denied all allegations of forcible conversion, calling the case fake and politically motivated. They said she is currently at her in-laws' home in Bhiwandi."
+      "url": "https://www.indiatoday.in/india/story/parliament-session-live-updates-womens-reservation-bill-lok-sabha-rajya-sabha-deputy-chairman-election-delimitation-congress-bjp-2897446-2026-04-17",
+      "headline": "Live: NDA announces nationwide protests after women's bill fails Lok Sabha testSpecial Parliament Session Live Updates: Chaos erupted in the Lok Sabha as Rahul Gandhi attacked the government over amendments to the Women's Reservation Act, alleging it aims to sideline the caste census and reshape India's electoral map. He also took a swipe at Narendra Modi, calling him the \"magician of Balakot, demonetisation and Operation Sindoor,\" sparking protests from BJP members. Gandhi questioned the intent behind three bills to operationalise 33 per cent reservation for women in Parliament and Assemblies, alongside a proposed delimitation exercise that could expand Lok Sabha seats to 850. Voting is expected around 4 pm. In the Rajya Sabha, Harivansh Narayan Singh was re-elected Deputy Chairman for the third consecutive time. Follow indiatoday.in for live updates."
     },
     {
       "sentiment": "positive",
@@ -225,14 +225,14 @@
       "headline": "People paid Rs 8 crore to run, lift at Hyrox Bengaluru event that has India talkingAround 9,000 people gathered at the Bangalore International Exhibition Centre on the weekend to do workouts one could easily do in a park or gym. Each person paid Hyrox over Rs 9,000 for that. It has sparked a debate over whether Hyrox workouts are merely a status symbol or a shift in how India approaches fitness."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/rahul-gandhi-calls-pm-modi-as-magician-jibe-bjp-reacts-bills-special-session-2897690-2026-04-17",
-      "headline": "Rahul Gandhi's magician of Balakot swipe at PM draws angry protests from BJPCongress MP Rahul Gandhi caused an uproar in Parliament after targeting Narendra Modi with a sarcastic jibe, referring to him as the \"magician of Balakot, demonetisation and Operation Sindoor,\" drawing strong protests from BJP members, who demanded his remarks be removed from the record."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/nida-khan-family-rejects-religious-conversion-charges-tcs-nashik-godman-2897626-2026-04-17",
+      "headline": "Conspiracy to save Nashik godman, parents of TCS case accused Nida Khan claimThe parents of TCS Nashik conversion case accused Nida Khan' have denied all allegations of forcible conversion, calling the case fake and politically motivated. They said she is currently at her in-laws' home in Bhiwandi."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/us-israel-iran-war-news-live-updates-ceasefire-strait-of-hormuz-blockade-centcom-donald-trump-lebanon-hezbollah-netanyahu-2896860-2026-04-15",
-      "headline": "Live: Trump says Iran agreed to never close Strait of Hormuz againUS-Israel-Iran War Live Updates: A 10-day truce came into effect in Lebanon on Friday, aimed at pausing fighting between Israel and the Hezbollah militant group and supporting efforts to extend a broader ceasefire involving Iran, US and Israel after weeks of intense conflict. However, Lebanon's army said Israel carried out \"acts of aggression\" that it described as violations of the ceasefire, which took effect at midnight local time. However, the situation on the ground remains uncertain, with Hezbollah indicating that its participation in any truce depends on Israel halting all forms of hostilities. Meanwhile, the humanitarian toll continues to rise, with Lebanon's National News Agency reporting 2,196 deaths and 7,185 injuries from ongoing Israeli attacks. Additionally, US President Donald Trump said a deal to end the war with Iran was \"very close\" and suggested talks could resume in Islamabad as early as this weekend. Follow indiatoday.in for live updates."
+      "url": "https://www.indiatoday.in/science/story/delhi-rain-today-western-disturbance-relief-weather-update-heatwave-2897919-2026-04-17",
+      "headline": "Rain hits Delhi amid rising heat: What's going on with the weather?Triggered by a weak Western Disturbance, Delhi saw sudden cloud cover, gusty winds and light to moderate rain, bringing a temporary dip in temperatures without signalling the onset of monsoon."
     },
     {
       "sentiment": "positive",
@@ -246,18 +246,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/jobs/story/anthropic-ceo-says-engineering-jobs-will-end-soon-but-company-opened-429-roles-in-same-field-tchc-2897805-2026-04-17",
-      "headline": "Anthropic CEO says engineering jobs will end soon, yet company opens 429 rolesAnthropic CEO Dario Amodei is warning that engineering jobs could shrink as AI takes over coding, but his company is still hiring over 429 engineers. The contrast suggests a transitional phase in which AI is rising, yet human talent remains critical."
+      "url": "https://www.indiatoday.in/world/story/us-israel-iran-war-news-live-updates-ceasefire-strait-of-hormuz-blockade-centcom-donald-trump-lebanon-hezbollah-netanyahu-2896860-2026-04-15",
+      "headline": "Live: Trump says Iran agreed to never close Strait of Hormuz againUS-Israel-Iran War Live Updates: A 10-day truce came into effect in Lebanon on Friday, aimed at pausing fighting between Israel and the Hezbollah militant group and supporting efforts to extend a broader ceasefire involving Iran, US and Israel after weeks of intense conflict. However, Lebanon's army said Israel carried out \"acts of aggression\" that it described as violations of the ceasefire, which took effect at midnight local time. However, the situation on the ground remains uncertain, with Hezbollah indicating that its participation in any truce depends on Israel halting all forms of hostilities. Meanwhile, the humanitarian toll continues to rise, with Lebanon's National News Agency reporting 2,196 deaths and 7,185 injuries from ongoing Israeli attacks. Additionally, US President Donald Trump said a deal to end the war with Iran was \"very close\" and suggested talks could resume in Islamabad as early as this weekend. Follow indiatoday.in for live updates."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/rahul-gandhi-number-16-riddle-parliament-delimitation-bill-women-reservation-bill-modi-2897692-2026-04-17",
-      "headline": "What is the Number 16 riddle that Rahul Gandhi referred to in Parliament?Rahul Gandhi left people guessing after mentioning in his speech the 'Number 16' riddle, while debating on the three bills which will pave the way for women's quota in Parliament. With no explanation offered, social media erupted in speculation over what exactly the Congress leader was hinting at."
+      "url": "https://www.indiatoday.in/india/story/caterer-throws-11-year-old-into-burning-tandoor-at-up-wedding-for-eating-sweets-2897854-2026-04-17",
+      "headline": "Caterer throws 11-year-old into burning tandoor at UP wedding for eating sweetsThe boy, identified as Chaman, went to a wedding where he ate rasgullas without permission. Annoyed by his actions, one of the caterers picked him up and threw him in a burning tandoor."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-chinnaswamy-ticket-racket-busted-ksca-canteen-worker-arrested-2897648-2026-04-17",
-      "headline": "IPL 2026: Canteen worker arrested for selling 100 RCB tickets in black marketIPL 2026: A Chinnaswamy stadium canteen worker was arrested in Bengaluru after 100 IPL tickets were seized in a black marketing crackdown. The incident adds to growing concerns over transparency in ticket distribution in Karnataka."
+      "url": "https://www.indiatoday.in/world/us-news/story/h1b-visa-programme-news-selection-rates-jump-record-level-donald-trump-100000-fee-wage-based-lottery-2897511-2026-04-17",
+      "headline": "H-1B visa selection rate hits a high of 75%, thanks to TrumpThe selection rate in the H-1B visa lottery has improved sharply this year, hitting 75% in some instances. The jump from 33% H-1B visa approvals is being reported due to the steep drop in applications, driven by the Donald Trump administration's changes to the visa programme."
     },
     {
       "sentiment": "positive",
@@ -271,13 +271,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/amit-shah-slams-opposition-womens-reservation-law-delimitation-parliament-session-2897857-2026-04-17",
-      "headline": "Opposition is opposing women's quota, not its implementation: Amit ShahHome Minister Amit Shah alleged that the Opposition was opposing women's reservation in practice, even as it claimed to support it in principle, by attaching \"ifs and buts\" to its implementation."
+      "url": "https://www.indiatoday.in/jobs/story/anthropic-ceo-says-engineering-jobs-will-end-soon-but-company-opened-429-roles-in-same-field-tchc-2897805-2026-04-17",
+      "headline": "Anthropic CEO says engineering jobs will end soon, yet company opens 429 rolesAnthropic CEO Dario Amodei is warning that engineering jobs could shrink as AI takes over coding, but his company is still hiring over 429 engineers. The contrast suggests a transitional phase in which AI is rising, yet human talent remains critical."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/parliament-session-live-updates-womens-reservation-bill-lok-sabha-rajya-sabha-deputy-chairman-election-delimitation-congress-bjp-2897446-2026-04-17",
-      "headline": "Live: BJP leaders protest outside Parliament after quota bill rejected; NDA meet underwaySpecial Parliament Session Live Updates: Chaos erupted in the Lok Sabha as Rahul Gandhi attacked the government over amendments to the Women's Reservation Act, alleging it aims to sideline the caste census and reshape India's electoral map. He also took a swipe at Narendra Modi, calling him the \"magician of Balakot, demonetisation and Operation Sindoor,\" sparking protests from BJP members. Gandhi questioned the intent behind three bills to operationalise 33 per cent reservation for women in Parliament and Assemblies, alongside a proposed delimitation exercise that could expand Lok Sabha seats to 850. Voting is expected around 4 pm. In the Rajya Sabha, Harivansh Narayan Singh was re-elected Deputy Chairman for the third consecutive time. Follow indiatoday.in for live updates."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/rahul-gandhi-number-16-riddle-parliament-delimitation-bill-women-reservation-bill-modi-2897692-2026-04-17",
+      "headline": "What is the Number 16 riddle that Rahul Gandhi referred to in Parliament?Rahul Gandhi left people guessing after mentioning in his speech the 'Number 16' riddle, while debating on the three bills which will pave the way for women's quota in Parliament. With no explanation offered, social media erupted in speculation over what exactly the Congress leader was hinting at."
     },
     {
       "sentiment": "positive",
@@ -286,8 +286,23 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-chinnaswamy-ticket-racket-busted-ksca-canteen-worker-arrested-2897648-2026-04-17",
+      "headline": "IPL 2026: Canteen worker arrested for selling 100 RCB tickets in black marketIPL 2026: A Chinnaswamy stadium canteen worker was arrested in Bengaluru after 100 IPL tickets were seized in a black marketing crackdown. The incident adds to growing concerns over transparency in ticket distribution in Karnataka."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/amit-shah-slams-opposition-womens-reservation-law-delimitation-parliament-session-2897857-2026-04-17",
+      "headline": "Opposition is opposing women's quota, not its implementation: Amit ShahHome Minister Amit Shah alleged that the Opposition was opposing women's reservation in practice, even as it claimed to support it in principle, by attaching \"ifs and buts\" to its implementation."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/raghav-chadha-criticises-aap-leaders-absence-in-rajya-sabha-session-2897640-2026-04-17",
       "headline": "Leader not present, deputy missing: Raghav Chadha's dig at AAP in Rajya SabhaRaghav Chadha took a sharp dig at his party's Rajya Sabha leadership by highlighting their absence while noting his own presence despite being recently removed as deputy leader."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/lifestyle/society/story/why-do-indians-love-sleep-shaming-so-much-2896491-2026-04-16",
+      "headline": "'Still sleeping?' The most annoying question in Indian homesTell us you've never been judged for sleeping a little extra or taking an additional nap, and we'll stop right here. The truth is, Indians love shaming others for sleep, even though it is one of the most essential things the body needs to function properly."
     },
     {
       "sentiment": "positive",
@@ -300,27 +315,17 @@
       "headline": "Bengal father's biryani treat for son amid financial crisis draws prayers onlineA video featuring Bengal digital creator Narayan Sarkar and his son has gone viral on social media as it captured what followed after the young boy's wish was finally fulfilled."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/society/story/why-do-indians-love-sleep-shaming-so-much-2896491-2026-04-16",
-      "headline": "'Still sleeping?' The most annoying question in Indian homesTell us you've never been judged for sleeping a little extra or taking an additional nap, and we'll stop right here. The truth is, Indians love shaming others for sleep, even though it is one of the most essential things the body needs to function properly."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/h1b-visa-programme-news-selection-rates-jump-record-level-donald-trump-100000-fee-wage-based-lottery-2897511-2026-04-17",
-      "headline": "H-1B visa selection rate hits a high of 75%, thanks to TrumpThe selection rate in the H-1B visa lottery has improved sharply this year, hitting 75% in some instances. The jump from 33% H-1B visa approvals is being reported due to the steep drop in applications, driven by the Donald Trump administration's changes to the visa programme."
-    },
-    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/world/story/pakistan-fortifies-nur-khan-air-base-india-operation-sindoor-2897636-2026-04-17",
       "headline": "Panicked Pakistan shields key air base struck by India during Op SindoorRecent satellite images show new construction at Pakistan's vital Nur Khan air base. Experts said it points to bigger military concerns after India's Operation Sindoor last year, which targeted 11 military sites."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/india-gdp-rank-falls-to-6th-due-to-rupee-depreciation-2897672-2026-04-17",
-      "headline": "Explained: Why India slipped to 6th-largest economy despite strong growthIndia has slipped to the 6th-largest economy in the IMF's latest outlook. Why did it happen despite strong growth? IndiaToday.in spoke to economists to find out."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/story/ipl-2026-ajinkya-rahane-faces-backlash-as-kkr-struggles-2897915-2026-04-17",
+      "headline": "Drop Ajinkya Rahane: Fans urge KKR to take tough calls after golden duck vs GT IPL 2026: Ajinkya Rahane faced heavy criticism after a golden duck against Gujarat Titans, with fans calling for his removal as KKR captain amid the team's poor run. Despite being among the team's top scorers, his leadership and tactical decisions continue to come under scrutiny."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/pat-cummins-srh-return-vs-csk-vettori-selection-update-ipl-2026-2897902-2026-04-17",
@@ -364,12 +369,12 @@
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-rajasthan-royals-manager-romi-bhinder-bcci-phone-dugout-2897689-2026-04-17",
-      "headline": "IPL 2026: Rajasthan Royals manager escapes ban, fined Rs 1 lakh for using phone at dugout IPL 2026: BCCI fined RR manager Romi Bhinder Rs 1 lakh and issued a strict warning for using a phone in the dugout during an IPL match, after the ACU found his explanation unsatisfactory."
+      "headline": "IPL 2026: Rajasthan Royals manager escapes ban, fined Rs 1 lakh for using phone at dugoutIPL 2026: BCCI fined RR manager Romi Bhinder Rs 1 lakh and issued a strict warning for using a phone in the dugout during an IPL match, after the ACU found his explanation unsatisfactory."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/south-africa-women-vs-india-women-t20-series-world-cup-preparations-2897658-2026-04-17",
-      "headline": "India Women begin T20 World Cup prep with a five-match series against South Africa SA-W vs IND-W: India Women begin their ICC Women's T20 World Cup preparations with a five-match series against South Africa in Durban. Captain Harmanpreet Kaur stressed the series is crucial for building combinations and momentum, with the team entering the contest in strong form after recent series wins over Australia and Sri Lanka."
+      "headline": "India Women begin T20 World Cup prep with a five-match series against South AfricaSA-W vs IND-W: India Women begin their ICC Women's T20 World Cup preparations with a five-match series against South Africa in Durban. Captain Harmanpreet Kaur stressed the series is crucial for building combinations and momentum, with the team entering the contest in strong form after recent series wins over Australia and Sri Lanka."
     },
     {
       "sentiment": "positive",
@@ -460,16 +465,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-mi-vs-pbks-jasprit-bumrah-hardik-pandya-fight-mumbai-2897430-2026-04-17",
       "headline": "Trouble in MI? Jasprit Bumrah's reaction to Hardik Pandya's captaincy call goes viralThings don't seem to be good inside the Mumbai Indians camp as a viral video shows Jasprit Bumrah being unhappy at the call made by Hardik Pandya during the loss to Punjab Kings at the Wankhede Stadium on Thursday, April 16."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/vinod-kambli-health-update-hospital-wife-2897371-2026-04-17",
-      "headline": "Vinod Kambli is fine: Wife addresses health speculationFormer cricketer Vinod Kambli's wife, Andrea Hewitt, has dismissed speculation around his health, stating that the former India batter is 'fine'. Her statement comes amid reports suggesting Kambli was battling serious medical issues and remained at risk of a brain stroke."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/cricket/story/mumbai-vs-punjab-mi-pbks-hardik-pandya-comment-2897407-2026-04-16",
-      "headline": "Frustrated Hardik Pandya slams teammates after embarrassing loss vs Punjab KingsMI vs PBKS: Mumbai Indians captain Hardik Pandya cut a frustrated figure after the team's loss against Punjab Kings at the Wankhede Stadium. Asked what went wrong in the game, Hardik said they were outplayed by the visiting team on Thursday, April 16."
     }
   ],
   "education": [
