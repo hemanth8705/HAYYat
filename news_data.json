@@ -103,6 +103,11 @@
   ],
   "entertainment": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/french-actor-nathalie-baye-known-for-catch-me-if-you-can-dies-at-77-2898629-2026-04-19",
+      "headline": "French actor Nathalie Baye, known for Catch Me If You Can, dies at 77 French actor Nathalie Baye, known for playing Leonardo DiCaprio's mother in Catch Me If You Can, died at 77 after battling Lewy body dementia."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/shruti-haasan-loses-her-cool-at-paps-for-calling-her-mumma-what-are-you-saying-2898608-2026-04-19",
       "headline": "Shruti Haasan loses her cool at paps for calling her mumma: What are you saying? Shruti Haasan reacted sharply after a paparazzo called her \"mumma\" during a public outing, in a moment that quickly went viral. The incident has sparked debate around personal boundaries, with many backing her stance."
@@ -191,11 +196,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/actor-ali-asgar-on-quitting-kapil-sharma-shows-dadi-role-was-starting-to-get-that-image-2898248-2026-04-18",
       "headline": "Was starting to get that image: Ali Asgar on quitting Dadi act in Kapil Sharma show Ali Asgar said he quit playing Dadi on The Kapil Sharma Show as he was starting to get offers only to play female roles. He added that he wanted to move beyond typecasting and grow as an actor."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/prakash-raj-slams-pawan-kalyan-challenges-him-to-debate-over-womens-bill-2898220-2026-04-18",
-      "headline": "Prakash Raj slams Pawan Kalyan over Women's Bill comment, challenges him to debate Prakash Raj has criticised actor and Andhra Pradesh Deputy Chief Minister Pawan Kalyan for his remarks on the Women's Reservation Bill. Prakash Raj accused Pawan Kalyan of misleading citizens and challenged him to a public debate."
     }
   ],
   "general news": [
@@ -210,19 +210,24 @@
       "headline": "Trump threatens Iran as his envoys head to Pak for 2nd round of talksDonald Trump confirmed that his special envoys, Steve Witkoff and Jared Kushner, will arrive in Islamabad on Monday evening for the next round of talks."
     },
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/elections/assembly/story/narendra-modi-warns-to-tmc-as-bjp-targets-women-voters-2898471-2026-04-19",
+      "headline": "Surrender or you won't be spared: PM's last warning to 'TMC goons, syndicates'Prime Minister Narendra Modi warned Trinamool Congress \"goons and syndicates\" to surrender by April 29, while promising welfare schemes for women ahead of the West Bengal polls."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/2-us-nationals-detained-at-srinagar-airport-after-satellite-phone-found-in-luggage-2898555-2026-04-19",
       "headline": "2 Americans detained at Srinagar airport after satellite phone found in luggageTwo US nationals were questioned and handed over to the police after a satellite phone was recovered from their bags during a security screening at Srinagar airport."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/assembly/story/narendra-modi-warns-to-tmc-as-bjp-targets-women-voters-2898471-2026-04-19",
-      "headline": "Surrender or you won't be spared: PM Modi's last warning to TMC goons, syndicatesPrime Minister Narendra Modi warned Trinamool Congress \"goons and syndicates\" to surrender by April 29, while promising welfare schemes for women ahead of the West Bengal polls."
+      "url": "https://www.indiatoday.in/world/story/pakistan-halts-transport-islamabad-rawalpindi-amid-us-iran-talks-uncertainty-rawalpindi-trump-asim-munir-2898519-2026-04-19",
+      "headline": "US-Iran talks uncertain but Pak bans public transport in twin citiesPakistan's twin cities, Islamabad and Rawalpindi, have imposed sweeping curbs on public and goods transport and shut major hubs as they hope to hold the second round of US-Iran talks. The preparations come even as it isn't certain if the talks will take place at all."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/pakistan-halts-transport-islamabad-rawalpindi-amid-us-iran-talks-uncertainty-rawalpindi-trump-asim-munir-2898519-2026-04-19",
-      "headline": "US-Iran talks uncertain but Pak bans public transport in twin citiesPakistan's twin cities, Islamabad and Rawalpindi, have imposed sweeping curbs on public and goods transport and shut major hubs as they hope to hold the second round of US-Iran talks. The preparations come even as it isn't certain if the talks will take place at all."
+      "url": "https://www.indiatoday.in/india/story/indian-tanker-desh-garima-crosses-strait-of-hormuz-on-the-day-iran-fired-on-two-other-vessels-2898627-2026-04-19",
+      "headline": "Indian-flagged tanker crossed Hormuz on the day Iran fired on two other vesselsThe tanker Desh Garima, carrying 31 Indian crew members, successfully crossed the Strait and is expected to reach Mumbai on April 22, according to the Ministry of Petroleum and Natural Gas."
     },
     {
       "sentiment": "positive",
@@ -235,24 +240,19 @@
       "headline": "19 dead in blast at firecracker factory in Tamil NaduTamil Nadu firecracker unit blast: Visuals from the site showed anxious locals gathered near the blast area, while fire department officials continued clearing the debris. A preliminary probe indicated that the factory had committed a major violation by operating on Sunday, a rest day."
     },
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/why-did-india-and-the-world-watch-dhurandhar-2-despite-propaganda-claims-final-box-office-review-aditya-dhar-ranveer-singh-2898346-2026-04-19",
+      "headline": "Why did India and the world watch Dhurandhar 2 despite propaganda claims?A four-hour cinematic experience that dares to unsettle got audiences to sit inside theatres and enjoy cinema as a community viewing experience - not just in India, but worldwide. This is the era of Dhurandhar: The Revenge that continues even 30 days into its box office run. But why? Why couldn't you ignore this Aditya Dhar juggernaut?"
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/world/story/iranian-officials-too-afraid-to-bury-ali-khamenei-weeks-after-assassination-report-2898458-2026-04-19",
       "headline": "7 weeks after assassination, Iran yet to bury Ali Khamenei. Here's whyIran has yet to finalise the burial of Supreme Leader Ali Khamenei weeks after his assassination, with reports pointing to security concerns, war conditions and fears of unrest delaying a state funeral."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/why-did-india-and-the-world-watch-dhurandhar-2-despite-propaganda-claims-final-box-office-review-aditya-dhar-ranveer-singh-2898346-2026-04-19",
-      "headline": "Why did India and the world watch Dhurandhar 2 despite propaganda claims?A four-hour cinematic experience that dares to unsettle got audiences to sit inside theatres and enjoy cinema as a community viewing experience - not just in India, but worldwide. This is the era of Dhurandhar: The Revenge that continues even 30 days into its box office run. But why? Why couldn't you ignore this Aditya Dhar juggernaut?"
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/cities/gurugram/story/illegal-mounjaro-drug-worth-rs-70-lakh-seized-in-gurugram-arrested-police-2898609-2026-04-19",
       "headline": "Illegal Mounjaro injections worth Rs 70 lakh seized in Gurugram, 2 arrestedTwo accused were arrested after officials seized suspected spurious Mounjaro injections worth Rs 70 lakh from a Sector 69 flat in Gurugram. Probe is underway to trace the supply network."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/kanpur-man-kills-twin-daughters-by-slitting-their-throats-uttar-pradesh-crime-news-2898412-2026-04-19",
-      "headline": "UP man kills twin daughters by slitting their throats, then calls police himselfThe police received information about the killings during the early hours of Sunday. Following the double-murder, the wife of the accused levelled serious allegations of torture against him, saying that he was an alcoholic and would regularly beat her."
     },
     {
       "sentiment": "positive",
@@ -265,19 +265,19 @@
       "headline": "Is that ship flying? The ghost, the myth and the physics of the Flying DutchmanVideos of ships appearing to hover above the sea have gone viral, but the explanation is pure science, a rare phenomenon called Fata Morgana. Here is how physics playing tricks with light is the answer to the Flying Dutchman legend."
     },
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/science/story/scorching-heat-heavy-rain-india-monday-april-20-imd-forecast-states-warning-2898614-2026-04-19",
+      "headline": "Scorching heat, heavy rain: What's in store for India on MondayThe IMD has issued heatwave warnings for Jharkhand, West Uttar Pradesh, West Rajasthan, Vidarbha, and several other states for Monday, April 20, with temperatures expected to touch 45 degrees Celsius in isolated pockets."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/kanpur-man-kills-twin-daughters-by-slitting-their-throats-uttar-pradesh-crime-news-2898412-2026-04-19",
+      "headline": "UP man kills twin daughters by slitting their throats, then calls police himselfThe police received information about the killings during the early hours of Sunday. Following the double-murder, the wife of the accused levelled serious allegations of torture against him, saying that he was an alcoholic and would regularly beat her."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/deepika-padukone-ranveer-singh-confirm-second-pregnancy-with-a-cute-pic-2898421-2026-04-19",
       "headline": "Deepika Padukone, Ranveer Singh confirm second pregnancy with a cute picDeepika Padukone and Ranveer Singh have announced that they are expecting their second child with a heartfelt Instagram post featuring their daughter Dua."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sunday-special/story/iran-war-lpg-shortage-hormuz-west-bengal-election-khurja-up-ceramic-pottery-industry-labour-crunch-2898182-2026-04-19",
-      "headline": "Distress in India's Ceramic City: Cold kilns in factories, cold stoves at homesThe war in the Middle East has brought manufacturing in India's ceramic hub Khurja to a standstill, with 90% of the 300 units shutting shops temporarily. The election in West Bengal has added to the crisis. With workers scrambling to survive, Khurja is a microcosm of the distress in India's manufacturing hubs."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/iran-gunboats-fire-on-indian-tankers-in-strait-of-hormuz-call-clearance-2898450-2026-04-19",
-      "headline": "You gave me clearance to go, now firing: Indian tanker's frantic call in HormuzA frantic audio of an Indian-flagged tanker's radio message with Iran after being cleared to transit and then allegedly fired upon by Iranian forces in the Strait of Hormuz has emerged, forcing ships to turn back."
     },
     {
       "sentiment": "positive",
@@ -290,14 +290,14 @@
       "headline": "Question Time: Weekly News QuizThink you read the headlines this week? Let's test that!"
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/iran-defies-us-authority-as-nuclear-rights-dispute-escalates-2898528-2026-04-19",
-      "headline": "Who is Trump to deny us our nuclear rights? Iran President draws red linePezeshkian expressed defiance as the tenuous ceasefire between the US and Iran is set to expire on April 22. The two sides have yet to come to an agreement on Iran's nuclear programme and control of the Strait of Hormuz."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/elections/assembly/story/we-belong-here-deleted-voters-in-kolkatas-chinatown-anxious-as-deadline-looms-2898595-2026-04-19",
+      "headline": "We belong here: Deleted voters in Kolkata's Chinatown anxious as deadline loomsKolkata's Chinatown, centred in Tangra and spread across adjoining localities, is among the oldest Chinese settlements in India. But after hundreds were deleted from the voter rolls during SIR, many now say they feel like outsiders in the only country they have ever known."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/video-police-lathicharge-crowd-surge-at-surat-udhna-railway-station-migrants-head-home-2898509-2026-04-19",
-      "headline": "Video: Crowd surge at Surat station as migrants head home, police lathichargeThe surge in crowds at the station can be partly attributed to the summer holiday season. However, the ongoing LPG crisis over the past few months has also led to a steady outflow of workers."
+      "url": "https://www.indiatoday.in/sunday-special/story/iran-war-lpg-shortage-hormuz-west-bengal-election-khurja-up-ceramic-pottery-industry-labour-crunch-2898182-2026-04-19",
+      "headline": "Distress in India's Ceramic City: Cold kilns in factories, cold stoves at homesThe war in the Middle East has brought manufacturing in India's ceramic hub Khurja to a standstill, with 90% of the 300 units shutting shops temporarily. The election in West Bengal has added to the crisis. With workers scrambling to survive, Khurja is a microcosm of the distress in India's manufacturing hubs."
     },
     {
       "sentiment": "positive",
@@ -306,21 +306,36 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/iran-mosquito-boats-star-of-hormuz-counter-us-naval-power-2898438-2026-04-19",
-      "headline": "Fast, small, deadly: Iran's mosquito fleet puts US Navy on edge in HormuzAmid US pressure in the Strait of Hormuz, Iran is leaning on its IRGC Navy's fast \"mosquito boat\" fleet and drone-missile tactics to disrupt shipping through asymmetric warfare, despite heavy losses to its larger warships."
+      "url": "https://www.indiatoday.in/india/story/iran-gunboats-fire-on-indian-tankers-in-strait-of-hormuz-call-clearance-2898450-2026-04-19",
+      "headline": "You gave me clearance to go, now firing: Indian tanker's frantic call in HormuzA frantic audio of an Indian-flagged tanker's radio message with Iran after being cleared to transit and then allegedly fired upon by Iranian forces in the Strait of Hormuz has emerged, forcing ships to turn back."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/iran-defies-us-authority-as-nuclear-rights-dispute-escalates-2898528-2026-04-19",
+      "headline": "Who is Trump to deny us our nuclear rights? Iran President draws red linePezeshkian expressed defiance as the tenuous ceasefire between the US and Iran is set to expire on April 22. The two sides have yet to come to an agreement on Iran's nuclear programme and control of the Strait of Hormuz."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/assembly/story/we-belong-here-deleted-voters-in-kolkatas-chinatown-anxious-as-deadline-looms-2898595-2026-04-19",
-      "headline": "We belong here: Deleted voters in Kolkata's Chinatown anxious as deadline loomsKolkata's Chinatown, centred in Tangra and spread across adjoining localities, is among the oldest Chinese settlements in India. But after hundreds were deleted from the voter rolls during SIR, many now say they feel like outsiders in the only country they have ever known."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/cbi-arrests-dgca-official-in-bribery-case-2898613-2026-04-19",
-      "headline": "DGCA official, corporate executive arrested in Rs 2.5 lakh drone import bribe caseThe CBI arrested DGCA Deputy Director General Mudavath Devula and corporate executive Bharat Mathur in a Rs 2.5 lakh bribery case linked to drone import approvals."
+      "url": "https://www.indiatoday.in/india/story/video-police-lathicharge-crowd-surge-at-surat-udhna-railway-station-migrants-head-home-2898509-2026-04-19",
+      "headline": "Video: Crowd surge at Surat station as migrants head home, police lathichargeThe surge in crowds at the station can be partly attributed to the summer holiday season. However, the ongoing LPG crisis over the past few months has also led to a steady outflow of workers."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/kkr-wins-first-match-rahane-lauds-rinku-singh-chakravarthy-2898630-2026-04-19",
+      "headline": "Relieved Ajinkya Rahane jokes of getting 5 extra minutes after KKR's win over RR A relieved Ajinkya Rahane joked that he was happy to get the five extra minutes to conduct the post-match interview after KKR secured their first win of the season against RR."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-south-africa-middle-order-collapse-leads-defeat-durban-2nd-womens-t20i-2898633-2026-04-19",
+      "headline": "India Women's familiar frailties exposed again as South Africa go 2-0 up in Durban SAW vs INDW, 2nd T20I: India Women lost the second T20I by eight wickets on Sunday at the Kingsmead in Durban to go 0-2 down in the five-match series. Chasing 148, South Africa romped home with 17 balls to spare."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/rashid-khan-declines-indian-australian-citizenship-remain-afghan-cricketer-2898623-2026-04-19",
+      "headline": "Rashid Khan turned down citizenship offer from India: I will play for Afghanistan Afghanistan talisman Rashid Khan has revealed that he turned down offers of citizenship from India and Australia, choosing instead to remain committed to representing his country."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-rinku-singh-mental-lapse-kkr-vs-rr-match-winning-fifty-2898618-2026-04-19",
@@ -359,17 +374,17 @@
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/story/mohammad-rizwan-shocking-admission-psl-slump-pakistan-place-2898545-2026-04-19",
-      "headline": "After PSL slump, Mohammad Rizwan admits he doesn't deserve Pakistan selection After a poor run in the Pakistan Super League, Mohammad Rizwan offered a frank assessment of his form, admitting that he does not currently deserve a place in Pakistan's T20I side."
+      "headline": "After PSL slump, Mohammad Rizwan admits he doesn't deserve Pakistan selectionAfter a poor run in the Pakistan Super League, Mohammad Rizwan offered a frank assessment of his form, admitting that he does not currently deserve a place in Pakistan's T20I side."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/shreyas-iyer-fearless-leadership-punjab-kings-ipl-2026-success-2898499-2026-04-19",
-      "headline": "Hate hearing the word impossible: Shreyas Iyer's mantra for PBKS in IPL 2026 Shreyas Iyer's 'impossible' mantra is powering Punjab Kings' unbeaten IPL 2026 run as they gear up to face LSG, with the skipper stressing belief, clarity and finishing games."
+      "headline": "Hate hearing the word impossible: Shreyas Iyer's mantra for PBKS in IPL 2026Shreyas Iyer's 'impossible' mantra is powering Punjab Kings' unbeaten IPL 2026 run as they gear up to face LSG, with the skipper stressing belief, clarity and finishing games."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-csk-leadership-woes-sanju-samsons-potential-captaincy-2898485-2026-04-19",
-      "headline": "Samson to replace Ruturaj as CSK's captain? R Ashwin makes bold prediction IPL 2026: Chennai Super Kings' poor run under Ruturaj Gaikwad has reignited leadership debates, with Ravichandran Ashwin suggesting Sanju Samson could take over captaincy in the near future. With ongoing struggles in big chases and injuries in the squad, CSK will rely on Samson's form and leadership potential moving forward."
+      "headline": "Samson to replace Ruturaj as CSK's captain? R Ashwin makes bold predictionIPL 2026: Chennai Super Kings' poor run under Ruturaj Gaikwad has reignited leadership debates, with Ravichandran Ashwin suggesting Sanju Samson could take over captaincy in the near future. With ongoing struggles in big chases and injuries in the squad, CSK will rely on Samson's form and leadership potential moving forward."
     },
     {
       "sentiment": "positive",
@@ -455,21 +470,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-sunrisers-hyderabad-disciplined-bowlers-stun-chennai-super-kings-2898374-2026-04-19",
       "headline": "IPL 2026 Play Of The Day: Resolute Hyderabad bowlers defy odds to choke ChennaiSRH vs CSK, IPL 2026: If someone had told you that a team would defend a sub-200 total in Hyderabad, you would have probably laughed it off and credited them with a fine sense of humour. After all, this is a venue where bowlers often come just to survive the carnage, not control it."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-srh-vs-csk-r-ashwin-shocking-ayush-mhatre-injury-management-2898377-2026-04-19",
-      "headline": "Made Ayush Mhatre run when limping! Ashwin slams CSK's poor injury managementIPL 2026, SRH vs CSK: Former spinner R Ashwin did not hold back in his critique of Chennai Super Kings, saying he was shocked to see the five-time champions let Ayush Mhatre carry on despite a hamstring injury on Saturday. Ashwin added that those in the commentary box could not believe their eyes, slamming CSK's poor injury management."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/travis-head-struggling-ipl-2026-rayudu-finch-srh-form-slump-2898365-2026-04-19",
-      "headline": "What's wrong with Head? Pundits analyse SRH batter's lukewarm start to IPLAaron Finch and Ambati Rayudu dissected the reason behind Travis Head's lacklustre start to the IPL 2026 campaign. Head has scored just 143 runs in six matches."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/srh-vs-csk-match-report-ishan-kishan-ehsan-malinga-2898355-2026-04-18",
-      "headline": "Yellow mellowed at Uppal as disciplined SRH snatch win from CSK in HyderabadA disciplined SRH bowling unit fought back with a lot of pride as SunRisers Hyderabad beat Chennai Super Kings in a nervy game on Saturday. Defending 194, SRH fought till the end and restricted CSK to 184/8 in 20 overs."
     }
   ],
   "education": [
