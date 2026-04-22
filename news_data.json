@@ -1,6 +1,16 @@
 {
   "business": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/story/govt-allows-ethanol-blending-in-aviation-turbine-fuel-atf-2900004-2026-04-22",
+      "headline": "Govt allows ethanol blending in Aviation Turbine FuelThe move is aimed at promoting Sustainable Aviation Fuel (SAF) and reducing India's dependence on imported oil."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/why-more-roads-wont-fix-gurugram-traffic-crisis-explained-2899948-2026-04-22",
+      "headline": "Why more roads won't fix Gurugram's traffic crisisGurugram's population has doubled from 1.5 million in 2011 to over 3 million today. Only 12 to 15% of residents regularly use public transport."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/market/story/market-closing-bell-sensex-ends-757-points-lower-nifty-below-24400-it-shares-hcltech-sinks-11-2899938-2026-04-22",
       "headline": "Sensex ends 757 points lower, Nifty below 24,400; HCLTech sinks 11%The S&P BSE Sensex tanked 756.84 points to close at 78,516.49, while the NSE Nifty50 lost 198.50 points to end at 24,378.10."
@@ -18,7 +28,7 @@
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/story/how-long-will-india-petrol-diesel-prices-remain-stable-global-crude-oil-crisis-assembly-elections-2899837-2026-04-22",
-      "headline": "Fuel prices unchanged in India, but for how long?Global oil prices are surging amid the West Asia war, but petrol and diesel rates in India have stayed frozen since May 2022. How much longer can that last?"
+      "headline": "Petrol, diesel prices unchanged in India, but for how long?Global crude is rising amid the West Asia war, but India's petrol and diesel prices have not changed since May 2022. How much longer can this continue?"
     },
     {
       "sentiment": "positive",
@@ -89,19 +99,29 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/market/story/stock-market-closing-bell-sensex-ends-753-points-higher-nifty-climbs-over-24500-hul-up-4-iran-us-peace-talk-2899465-2026-04-21",
       "headline": "Sensex ends 753 points higher, Nifty climbs over 24,500; HUL up 4%The S&P BSE Sensex jumped 753.03 points to close at 79,273.33, while the NSE Nifty50 gained 211.75 points to end at 24,576.60."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/jobs/story/can-you-skip-notice-period-after-resignation-90-days-india-law-rules-explained-busc-2899443-2026-04-21",
-      "headline": "Can you skip notice period after quitting your job? What the law really saysFor many employees eager to move on to their new job, one question keeps coming up: do you really have to serve those 30, 60 or 90 days, or can you leave sooner?"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/market/story/groww-shares-hit-52-week-high-why-stock-surged-should-you-buy-groww-stock-2899343-2026-04-21",
-      "headline": "Groww shares hit 52-week high: What's driving the rally and should you buy now?Groww stock up 10%: The main trigger behind the rally is strong earnings performance. The company, operated by Billionbrains Garage Ventures, reported a 122% jump in net profit to Rs 686 crore in the March quarter."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/dhurandhar-2-the-revenge-smashes-pathaan-to-become-uk-no-1-indian-film-in-34-days-box-office-2900003-2026-04-22",
+      "headline": "Dhurandhar 2 smashes Pathaan to become UK's No. 1 Indian film in 34 days Dhurandhar: The Revenge continues its record-breaking run, overtaking Pathaan to become the highest-grossing Indian film in the UK. With strong numbers overseas and a dominant global performance, the film's box office journey seems to be far from slowing down."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/hansika-motwani-casting-couch-remark-draw-backlash-2899965-2026-04-22",
+      "headline": "Hansika Motwani's casting couch remark draws flak: Another one living in a bubble Hansika Motwani's recent remarks on the casting couch have drawn sharp criticism, with many calling her comments dismissive of the issue."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/shashi-tharoor-turns-photographer-for-priyanka-mohan-at-rashtrapati-bhavan-event-2899898-2026-04-22",
+      "headline": "Shashi Tharoor turns photographer for actor Priyanka Mohan at Rashtrapati Bhavan Actor Priyanka Mohan attended the prestigious President's banquet at Rashtrapati Bhavan hosted for South Korean President Lee Jae-myung. The event celebrated cultural exchange and diplomatic relations between India and South Korea with notable guests from politics and entertainment."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/ajith-kumar-returns-belgium-chennai-vote-tamil-nadu-elections-2899930-2026-04-22",
+      "headline": "Actor Ajith returns to Chennai from Belgium to vote in Tamil Nadu elections. Watch Renowned actor and racer Ajith Kumar has returned to Chennai to cast his vote in the Tamil Nadu Assembly Elections on April 23. Fans greeted him enthusiastically as he arrived from Belgium."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/salman-khan-begins-director-vamshis-film-with-his-signature-swag-nayanthara-joins-2899911-2026-04-22",
@@ -176,43 +196,43 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/suresh-triveni-teases-maa-behan-says-fans-will-rediscover-madhuri-dixit-exclusive-2899804-2026-04-22",
       "headline": "Suresh Triveni teases Maa-Behan, says fans will rediscover Madhuri Dixit | Exclusive Suresh Triveni, in an interview with India Today, spoke about Madhuri Dixit's comedic turn in his next directorial Maa Behan. He also opened up on his professional rapport with Vidya Balan."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/patriot-in-censor-limbo-over-villain-name-that-resembles-politicians-son-2899800-2026-04-22",
-      "headline": "Patriot in censor limbo over villain name resembling a politician's son Mohanlal and Mammootty's Patriot has now encountered issues with the Censor Board over a character's name resembling a politician's son. The film has been re-edited and resubmitted ahead of its May 1 theatrical release."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/entertainment/music/story/babul-supriyo-on-how-himesh-reshammiyas-rise-hit-his-career-after-hum-tum-2899799-2026-04-22",
-      "headline": "Babul Supriyo on how Himesh Reshammiya's rise hit his career after Hum Tum Babul Supriyo said the rise of Himesh Reshammiya and changing music trends impacted his career after Hum Tum. He also spoke about industry politics, lack of recognition, and how the phase that followed was personally and professionally difficult."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/story/bharathanatyam-2-mohiniyattam-success-amidst-vaazha-2-dominance-2899576-2026-04-22",
-      "headline": "As Vaazha 2 dominates, another Malayalam film makes its mark Bharathanatyam 2 Mohiniyattam records steady growth at the box office, performing strongly despite competition from Vaazha 2."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/harry-styles-zoe-kravitz-engaged-actor-diamond-ring-adds-fuel-to-rumours-2899717-2026-04-22",
-      "headline": "Are Harry Styles, Zoe Kravitz engaged? Actor's diamond ring adds fuel to rumours Harry Styles and Zoe Kravitz have sparked engagement rumours after being seen together in London, with Kravitz seen wearing a striking diamond ring."
     }
   ],
   "general news": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/gujarat-bound-cargo-ship-among-two-vessels-seized-by-iran-in-hormuz-2899956-2026-04-22",
+      "headline": "India-bound ship among two vessels attacked, seized by Iran in HormuzThe incident is bound to escalate tensions between Iran and India after two India-flagged ships were attacked last week in the Strait of Hormuz."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/indus-waters-treaty-abeyance-pakistan-pressure-media-victim-narrative-chatham-house-dawn-pahalgam-attack-2899696-2026-04-22",
       "headline": "A conspiracy to get Pakistan water from India under Indus treaty?As summer temperatures rise, the pressure on Pakistan is mounting due to India keeping the Indus Waters Treaty in abeyance after the Pahalgam terror attack. But an insidious game is on to make India relent even as the West plays along Pakistan's latest peacemaker farce."
     },
     {
-      "sentiment": "positive",
+      "sentiment": "negative",
       "url": "https://www.indiatoday.in/cities/delhi/story/delhi-woman-murder-case-income-tax-officer-daughter-strangled-to-death-amar-colony-sex-assault-suspected-2899864-2026-04-22",
-      "headline": "Delhi IRS officer's daughter strangled, parents were at gym; ex-servant suspectedPolice said the woman was alone at home when the crime occurred after her parents stepped out in the morning. Her body was later found under suspicious circumstances, following which the police reached the spot."
+      "headline": "IRS officer's daughter strangled in Delhi, parents were at gym; ex-servant suspectPolice said the woman was alone at home when the crime occurred after her parents stepped out in the morning. Her body was later found under suspicious circumstances, following which the police reached the spot."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/law-news/story/walked-in-during-probe-put-democracy-in-peril-supreme-court-pulls-up-mamata-banerjee-in-i-pac-raids-case-2899969-2026-04-22",
+      "headline": "Walked in during ED raid on I-PAC, put democracy in peril: SC raps Mamata BanerjeeThe Supreme Court came down heavily on West Bengal Chief Minister Mamata Banerjee for entering the premises of an ED raid on the residence of I-PAC co-founder Pratik Jain in January, saying such conduct puts \"democracy in peril\"."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/elections/assembly/story/bengal-elections-tourist-restrictions-hotels-digha-liquor-ban-2899905-2026-04-22",
+      "headline": "Why Election Commission suddenly asked tourists to leave Bengal's beach resortsThe Election Commission, in a rare directive, has directed hotels and resorts in Bengal not to accommodate people who are not from the local constituency. This comes after a ban on plying of bikes and confusion over an unprecedented 96-hour liquor ban."
     },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/cities/story/mumbai-traffic-jam-bjp-womens-reservation-bill-protest-rally-commuter-confronts-minister-girish-mahajan-2899721-2026-04-22",
       "headline": "Get out, you are causing jam: Frustrated woman berates BJP minister at rallyFrustrated by the standstill, a Mumbai woman stepped out of her vehicle, walked into the middle of the march, confronted the BJP minister and got into a heated argument with police officers."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/nepal-protests-against-balen-shah-customs-duty-rule-on-indian-goods-has-border-connection-kathmandu-news-2899824-2026-04-22",
+      "headline": "Even chips being seized: How protests against Nepal PM have Indian border linkWithin a month of taking over as Nepal's Prime Minister, Balen Shah is facing protests. The protests are linked to Nepal's enforcement of customs duties at the Indo-Nepal border, which is restricting the easy flow of goods and making products costlier for Nepalese people. Videos of clashes between the Nepal police and people at the border checkpoints have emerged."
     },
     {
       "sentiment": "negative",
@@ -221,13 +241,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/assembly/story/bengal-elections-tourist-restrictions-hotels-digha-liquor-ban-2899905-2026-04-22",
-      "headline": "Why Bengal's beach resorts were emptied overnight ahead of pollsThe Election Commission, in a rare directive, has directed hotels and resorts in Bengal not to accommodate people who are not from the local constituency. This comes after a ban on plying of bikes and confusion over an unprecedented 96-hour liquor ban."
+      "url": "https://www.indiatoday.in/lifestyle/relationship/story/is-chatgpt-fuelling-divorces-and-breakups-in-india-2899951-2026-04-22",
+      "headline": "Is ChatGPT fuelling divorces and breakups in India?Across the US and parts of Europe, there is a growing pile of anecdotal evidence\u2014partners turning to AI not just for advice, but for companionship, validation, even intimacy. Is it very much like that in India?"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/nepal-protests-against-balen-shah-customs-duty-rule-on-indian-goods-has-border-connection-kathmandu-news-2899824-2026-04-22",
-      "headline": "Even chips being seized: How protests against Nepal PM have Indian border linkWithin a month of taking over as Nepal's Prime Minister, Balen Shah is facing protests. The protests are linked to Nepal's enforcement of customs duties at the Indo-Nepal border, which is restricting the easy flow of goods and making products costlier for Nepalese people. Videos of clashes between the Nepal police and people at the border checkpoints have emerged."
+      "url": "https://www.indiatoday.in/auto/in-depth/story/e85-in-india-are-we-ready-for-the-next-big-fuel-leap-2899937-2026-04-22",
+      "headline": "E85 in India: Are we ready for the next big fuel leap?As India adjusts to E20, the sudden shift in conversation toward E85 raises critical questions. The transition is far more complex and still appears distant. But the real question is: are we ready, and what challenges will E85 bring?"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/elections/assembly/story/bjp-counters-tmcs-anti-fish-claims-with-non-veg-display-in-bengal-2899949-2026-04-22",
+      "headline": "I'm a non-vegetarian by hobby: BJP's Temjen Imna claps back at Mamata BanerjeeNagaland minister Temjen Imna Along hit out at Mamata Banerjee a day after campaigning for the first phase of Bengal polls wrapped up, with food habits, particularly fish and meat, emerging as a key political flashpoint in the state."
     },
     {
       "sentiment": "positive",
@@ -236,8 +261,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/general-naravane-book-india-military-myths-folklore-four-stars-of-destiny-rahul-gandhi-caravan-2899897-2026-04-22",
-      "headline": "General Naravane's book is released. No, not that oneWithin three months of his memoir Four Stars of Destiny getting caught in a controversy and regulatory landmines, former Army Chief, General MM Naravane, has unveiled another book. The Curious and The Classified, which has stories of brave military mules, catchy chants, and cantonment quirks, is unlikely to be controversial."
+      "url": "https://www.indiatoday.in/jobs/story/gen-z-5pm-log-off-insights-from-7-indian-managers-educ-2899909-2026-04-22",
+      "headline": "5 pm and gone: What 7 bosses really think of Gen Z's work styleThe Gen Z overtime debate is exhausted, so we tried something different. We asked seven bosses what actually crosses their mind when a young employee shuts their laptop at 5 pm. No LinkedIn answers... just the bare truth."
     },
     {
       "sentiment": "positive",
@@ -246,38 +271,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/rbi-auto-debit-payments-limit-raise-rs-15000-no-otp-rule-explained-how-does-it-work-2899775-2026-04-22",
-      "headline": "RBI changes auto-debit rules: Your Netflix, SIPs and bill payments may get easierThe RBI has raised the no-OTP auto-debit limit to Rs 15,000, making recurring payments like subscriptions, SIPs, insurance premiums and bills smoother, faster and less prone to failure."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/us-president-donald-trump-said-that-he-was-extending-the-iran-ceasefire-until-an-iranian-proposal-is-submitted-2899708-2026-04-22",
-      "headline": "Trump credits Pak's Asim Munir, cites fractured Iran as he extends ceasefireUS President Donald Trump extended the Iran ceasefire after a request from Pakistan, citing appeals by Asim Munir and Shehbaz Sharif, while maintaining the Hormuz blockade and military readiness until a unified proposal is submitted."
+      "url": "https://www.indiatoday.in/elections/assembly/story/tmc-claims-secret-meet-diamond-harbour-police-observer-bjp-candidate-bengal-polls-2899950-2026-04-22",
+      "headline": "Diamond Harbour police observer held secret meet with BJP candidate: TMC's big claimThe Trinamool Congress alleged a police observer assigned to West Bengal's Diamond Harbour held a private meeting with a BJP candidate in a hotel room, terming it a breach of protocol. The charge surfaced a day before the first phase of Assembly polling."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/us-iran-israel-war-live-upadates-ceasefire-talks-strait-of-hormuz-blockade-donald-trump-pakistan-jd-vance-middle-east-hezbollah-lebanon-2899707-2026-04-22",
       "headline": "Live: Iran seizes 2 vessels, fires on 3 ships in Hormuz as Trump extends ceasefireThe fragile ceasefire in the US-Israel war on Iran has been extended, offering a narrow window for diplomacy even as uncertainty persists over whether talks can prevent a return to conflict. US President Donald Trump has signalled he remains prepared to resume military action if negotiations fail, even as Washington calls for a unified proposal from Tehran. Efforts to restart dialogue remain uneven, with Iran yet to confirm participation in proposed talks in Pakistan and Vice President JD Vance cancelling his planned Islamabad visit indefinitely. The Strait of Hormuz remains tense as multiple vessels have come under fire and shipping restrictions have intensified, raising concerns over disruption to a route critical to global oil and LNG flows. Iran has stepped up warnings and military posturing, while reports of increased US aerial activity over Iraq point to heightened operational readiness. Beyond the diplomatic impasse, Israeli operations in Lebanon continue despite a ceasefire, with both sides trading accusations of violations. As the extended deadline unfolds, the risk of escalation remains high if diplomacy fails to gain traction. Catch all the live updates at indiatoday.in."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/mumbai-man-explains-why-gen-z-wont-be-the-reliable-employee-anymore-2899763-2026-04-22",
-      "headline": "High performers at work are punished: Mumbai man says Gen Z has spotted the 'trap'A man from Mumbai explained why Gen Z employees avoid going \"above and beyond,\" emphasising how high performers often faced burnout instead of rewards."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/just-weeks-into-office-nepal-pm-balen-shah-faces-protests-student-union-ban-india-goods-duty-singha-darbar-2899728-2026-04-22",
-      "headline": "Just weeks into office, Nepal PM Balen Shah faces protests over student union banThe unrest has been triggered by the scrapping of student unions, a controversial customs duty on goods from India, and growing demands for Home Minister Sudan Gurung's resignation over alleged financial irregularities."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/indian-ship-sanmar-herald-fired-upon-by-iran-hormuz-amid-crypto-scam-concerns-2899896-2026-04-22",
-      "headline": "Did crypto scam by fake IRGC trigger real IRGC firing on Indian ship in Hormuz?Did a crypto scam involving fake clearance leave an Indian ship caught off guard when Iranian forces opened fire in the Strait of Hormuz, despite the crew believing they had permission to transit? Find out."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/karnataka/story/us-tourist-raped-in-kodagu-homestay-two-arrested-karnataka-washington-american-woma-2899753-2026-04-22",
-      "headline": "US tourist raped, confined to room at Karnataka homestay; owner, staff arrestedAn American tourist was allegedly raped by a homestay worker in Karnataka's Kodagu, with the owner accused of confining and threatening her."
     },
     {
       "sentiment": "negative",
@@ -286,8 +286,28 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/pahalgam-tourism-economy-struggles-as-baisaran-remains-closed-one-year-jammuy-and-kashmir-2899894-2026-04-22",
-      "headline": "A year after attack, Pahalgam's Baisaran struggles with empty trails, broken livesOne year after the Pahalgam terror attack, the Baisaran meadows remain shut, leaving ponywallahs, hoteliers and local traders mired in a prolonged tourism slump with no clear path to recovery."
+      "url": "https://www.indiatoday.in/trending-news/story/mumbai-man-explains-why-gen-z-wont-be-the-reliable-employee-anymore-2899763-2026-04-22",
+      "headline": "High performers at work are punished: Mumbai man says Gen Z has spotted the 'trap'A man from Mumbai explained why Gen Z employees avoid going \"above and beyond,\" emphasising how high performers often faced burnout instead of rewards."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/personal-finance/story/rbi-auto-debit-payments-limit-raise-rs-15000-no-otp-rule-explained-how-does-it-work-2899775-2026-04-22",
+      "headline": "RBI changes auto-debit rules: Your Netflix, SIPs and bill payments may get easierThe RBI has raised the no-OTP auto-debit limit to Rs 15,000, making recurring payments like subscriptions, SIPs, insurance premiums and bills smoother, faster and less prone to failure."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/story/how-long-will-india-petrol-diesel-prices-remain-stable-global-crude-oil-crisis-assembly-elections-2899837-2026-04-22",
+      "headline": "Petrol, diesel prices unchanged in India, but for how long?Global crude is rising amid the West Asia war, but India's petrol and diesel prices have not changed since May 2022. How much longer can this continue?"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/hansika-motwani-casting-couch-remark-draw-backlash-2899965-2026-04-22",
+      "headline": "Hansika Motwani's casting couch remark draws flak: Another one living in a bubbleHansika Motwani's recent remarks on the casting couch have drawn sharp criticism, with many calling her comments dismissive of the issue."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/karnataka/story/us-tourist-raped-in-kodagu-homestay-two-arrested-karnataka-washington-american-woma-2899753-2026-04-22",
+      "headline": "US tourist raped, confined to room at Karnataka homestay; owner, staff arrestedAn American tourist was allegedly raped by a homestay worker in Karnataka's Kodagu, with the owner accused of confining and threatening her."
     },
     {
       "sentiment": "positive",
@@ -296,31 +316,16 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/indian-air-force-intercepts-pakistani-missile-over-haryana-averting-delhi-strike-2899738-2026-04-22",
-      "headline": "How air defence unit in Sirsa foiled Pak ballistic missile threat during Op SindoorA Pakistani ballistic missile, believed to be from the Fateh or Shaheen series, was intercepted mid-air over Haryana during May last year before it could reach Delhi. The neutralisation was carried out by an IAF unit stationed at Sirsa, led by Air Commodore Rohit Kapil."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/aluminium-supply-problem-causes-diet-coke-shortage-in-indian-markets-summer-middle-east-war-sugarfree-drink-2899741-2026-04-22",
-      "headline": "Why your favourite Diet Coke is suddenly disappearing from stores this summerSupply bottlenecks, delayed shipments and a summer demand surge are making Diet Coke harder to find on store shelves and quick-commerce apps across several cities."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/irans-power-shift-irgc-ahmad-vahidi-tehran-leadership-us-war-ceasefire-security-chief-2899787-2026-04-22",
-      "headline": "Supreme Leader no longer supreme? Who is calling the shots in Iran?Far from fractured, Iran's power structure appears to be hardening under a unified military-security command."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/featurephilia/story/degrees-losing-value-india-job-market-mba-btech-ca-roi-2899452-2026-04-21",
-      "headline": "MBA, BTech, CA: Are costly degrees losing value in India job market?In India, education's promise of stability is under scrutiny as rising costs and uneven returns challenge traditional beliefs. Families spend lakhs on engineering, MBA and professional courses expecting stable careers. But new data points to weaker placements, modest starting salaries and long recovery periods. Here is why India's education ROI debate is growing, and what students should check before choosing expensive degrees today."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/education-today/story/jee-mains-2026-rs-25-lakh-for-coaching-99-percentile-yet-no-iit-2899408-2026-04-21",
       "headline": "Rs 25 lakh for coaching, 99 percentile in JEE Mains, yet no IITEvery year, lakhs chase the IIT dream. More than a lakh now cross 90 percentile and thousands hit 99, once a near guarantee. While JEE Main is only the first step before JEE Advanced, even these soaring scores show how mark inflation has made the IIT dream harder than ever."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/real-madrid-jude-bellingham-invests-birmingham-phoenix-cricket-franchise-2899955-2026-04-22",
+      "headline": "Real Madrid star Bellingham invests in cricket: Buys stake in Hundred franchise Jude Bellingham steps into cricket with a stake in Birmingham Phoenix. The Real Madrid star's investment reflects both his sporting interests and deep-rooted connection to Birmingham."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/pakistan-mohammad-nawaz-pcb-investigation-drug-use-t20-world-cup-2899934-2026-04-22",
@@ -374,7 +379,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-srh-vs-dc-nitish-rana-bowling-abhishek-sharma-venugopal-rao-criticism-2899752-2026-04-22",
-      "headline": "SRH vs DC: Delhi Capitals reflect on Nitish Rana ploy that ultimately backfired Delhi Capitals' Venugopal Rao addresses the controversial decision to bowl Nitish Rana for his full quota and the tactical middle-order collapse that handed SRH a 47-run victory in Hyderabad."
+      "headline": "SRH vs DC: Delhi Capitals reflect on Nitish Rana ploy that ultimately backfiredDelhi Capitals' Venugopal Rao addresses the controversial decision to bowl Nitish Rana for his full quota and the tactical middle-order collapse that handed SRH a 47-run victory in Hyderabad."
     },
     {
       "sentiment": "positive",
@@ -470,11 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/athletics/story/usain-bolt-advice-gout-gout-fastest-man-in-the-world-2899607-2026-04-21",
       "headline": "Australian teenager Gout Gout breaks Usain Bolt's U20 record. Legend reactsAustralian teenager Gout Gout shattered legendary Usain Bolt's youth 200m record. The Jamaican reacted to the feat and hoped that the teenager would surround himself with the correct type of people."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-why-is-shreyas-iyer-not-in-indian-t20i-team-2899534-2026-04-21",
-      "headline": "If Shreyas Iyer's has issues with not being selected for India, it's valid: ManjrekarIPL 2026: Former Indian cricketer Sanjay Manjrekar has labelled Shreyas Iyer's continued exclusion from the national T20 squad as 'unfair,' arguing that the captain's 'raw deal' from selectors is unjustified given his elite form. Iyer has since silenced critics by leading the Punjab Kings to the top of the 2026 IPL table while maintaining a staggering 182.46 strike rate."
     }
   ],
   "education": [
