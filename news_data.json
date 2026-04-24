@@ -2,6 +2,56 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/ai-security-risk-banks-nirmala-sitharaman-warning-anthropic-mythos-cyberfraud-banking-security-2900807-2026-04-24",
+      "headline": "AI security risk for banks? Why has Nirmala Sitharaman raised concernsAt the centre of the issue is Anthropic's new AI model, known as Claude Mythos Preview, capable of identifying and exploiting vulnerabilities across major operating systems and web browsers when prompted."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/market/story/infosys-share-price-tumbles-5-percent-it-stocks-down-q4-results-explained-2900814-2026-04-24",
+      "headline": "Infosys shares down 5%, hit 52-week low: Why IT stock tumbled after Q4 resultsAt around 11:01 am, Infosys shares were trading at Rs 1,178.20 on the NSE, down 5.03% or Rs 62.40 for the day. The fall made it one of the worst performers on benchmark indices as the IT pack remained under pressure."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/story/petrol-diesel-price-hike-after-elections-government-denies-proposal-2900790-2026-04-24",
+      "headline": "Will petrol, diesel prices rise after elections? Here's what we knowThe government has dismissed rumours of a petrol and diesel price hike, but elevated crude prices and pressure on oil retailers have kept the debate firmly alive."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/market/story/hcltech-tcs-infosys-shares-fall-global-growth-worries-it-stocks-2900784-2026-04-24",
+      "headline": "HCLTech, TCS, Infosys: Why are IT stocks falling again?HCLTech led losses as frontline IT stocks fell up nearly 5% amid renewed worries over global demand, weak guidance and continued foreign investor selling pressure."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/market/story/sensex-falls-800-points-nifty-down-brent-crude-fpi-selling-it-stocks-explained-2900779-2026-04-24",
+      "headline": "Sensex falls 850 points: 3 factors behind today's market bloodbathRising crude prices, fresh FPI selling and weak IT stocks dragged benchmarks lower, as investors grappled with West Asia tensions and growing fears of prolonged market volatility."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/market/story/opening-bell-stock-market-sensex-nifty-brent-crude-fpi-selling-large-caps-hormuz-clarity-2900771-2026-04-24",
+      "headline": "Sensex, Nifty open lower as oil surge, FPI selling weigh on marketsThe BSE Sensex fell 409.66 points, or 0.53%, to 77,254.34 as of 9:30 am. The NSE Nifty 50 also slipped 104.35 points, or 0.43%, to 24,068.70."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/market/story/zodiac-energy-shares-jump-10-percent-after-zambia-solar-epc-contract-2900766-2026-04-24",
+      "headline": "Zodiac Energy shares jump 10%: Why is the stock rising today?The rally appears to have been sparked by Zodiac Energy's recent disclosure that it has secured a Rs 30.85 crore solar EPC contract in Zambia."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/jobs/story/microsoft-buyouts-explained-what-employee-buyouts-mean-amid-voluntary-us-offer-busc-2900763-2026-04-24",
+      "headline": "Microsoft offers buyouts to staff: What does employee buyout mean?The company's voluntary offer has put a workplace term under the spotlight"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/personal-finance/story/8th-pay-commission-minimum-basic-pay-rs-72000-buzz-nc-jcm-demand-rs-69000-2900761-2026-04-24",
+      "headline": "8th Pay Commission: Can minimum basic pay rise to Rs 72,000? Here's the latest buzzSo where did Rs 72,000 figure come from? The figure appears to stem from projected salary calculations and speculative estimates tied to revised pay matrix levels under different fitment factor scenarios."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/diamond-gold-dispute-dubai-court-orders-rs-140-crore-payment-2900758-2026-04-24",
+      "headline": "Dubai court orders Rs 140 crore payout in diamond, gold consignment disputeThe Dubai Court of First Instance also directed the company to pay legal interest of 5% per year from the date the lawsuit was filed until full payment is made, along with court fees and Dh1,000 in legal costs."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/companies/story/warner-bros-paramount-deal-shareholder-approval-111-billion-merger-explained-2900744-2026-04-24",
       "headline": "Warner Bros shareholders approve $111 billion Paramount takeoverThe deal, which includes debt, values Warner Bros at nearly $111 billion, with Paramount offering $31 per share to acquire the company."
     },
@@ -49,59 +99,59 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/just-1-2-traders-drive-70-indias-fo-volumes-zerodha-nithin-kamath-warns-of-imbalance-2900328-2026-04-23",
       "headline": "Just 1-2% traders drive 70% India's F&O volumes: Nithin Kamath warns of imbalanceIndia's booming derivatives market may look large from the outside, but the reality is far more concentrated. Zerodha's Nithin Kamath says a tiny group of traders is driving most of the activity, raising concerns about balance."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/story/crude-oil-price-above-100-dollars-per-barrel-will-petrol-diesel-price-rise-2900269-2026-04-23",
-      "headline": "Crude oil above $100 again: Will petrol, diesel get costlier soon?Global crude oil prices climbed above $100 per barrel on Thursday, raising a question millions of Indian consumers care about most. Will this lead to costlier petrol and diesel prices?"
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/story/rupee-falls-crude-oil-100-impact-rbi-intervention-dollar-rate-vs-usd-2900249-2026-04-23",
-      "headline": "Rupee slides to 94 against US dollar: Is crude oil the biggest risk right now?The rupee has already fallen nearly 1% this week and has slipped well past its recent highs of around 92.50. That earlier rise was largely supported by measures taken by the Reserve Bank of India (RBI) in late March and April."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/market/story/dr-reddys-stock-jumps-5-percent-as-investors-seek-safety-in-pharma-2900262-2026-04-23",
-      "headline": "Dr Reddy's shares jump 10% as Sensex falls: Why is the pharma stock rising?Shares of Dr Reddy's Laboratories surged sharply on Thursday, extending gains to 10% even as Dalal Street remained under pressure amid rising crude oil prices and global uncertainty."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/market/story/stock-market-down-today-sensex-nifty-tumble-key-reasons-explained-2900246-2026-04-23",
-      "headline": "Sensex tumbles 800 points: Why is the stock market falling?Dalal Street fell sharply on Thursday as crude oil surged above $100, banking and auto stocks declined, and investors worried about the economic fallout from the West Asia conflict."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/market/story/market-opening-bell-sensex-sinks-700-points-nifty-below-24200-indigo-falls-crude-oil-rise-usd-100-iran-us-war-2900236-2026-04-23",
-      "headline": "Sensex, Nifty sink as crude oil prices reach $100; IndiGo down 2%The S&P BSE Sensex was down by 625.09 points to 77,891.40, while the NSE Nifty50 lost 173.90 points to 24,204.20 as of 9:26 am."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/story/sensex-nifty-opening-stock-market-today-crude-oil-100-iran-tensions-fii-selling-nse-bse-trade-setup-2900221-2026-04-23",
-      "headline": "Stock market today: Will rising crude and Iran tensions drag Sensex, Nifty down?Early indicators suggest a weak start. GIFT Nifty futures were trading at 24,138 as of 8:30 am, pointing to a gap-down opening for the Nifty 50, which had closed at 24,378.1 in the previous session."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/commodities/story/brent-crude-oil-price-exceeds-100-as-middle-east-tensions-rise-iran-us-peace-talk-2900217-2026-04-23",
-      "headline": "Brent crude crosses $100 as Iran tensions rise, peace talks stallOil prices have now risen for a fourth straight session, supported by larger-than-expected draws in US gasoline and distillate inventories, indicating robust demand."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/commodities/story/gold-at-rs-152-lakh-silver-near-rs-247-lakh-should-you-stay-invested-or-sell-2900087-2026-04-22",
-      "headline": "Gold at Rs 1.52 lakh, silver near Rs 2.47 lakh: Should you stay invested or sell?Gold and silver prices are moving sharply, and many investors are wondering what to do next. With gold around Rs 1.52 lakh and silver near Rs 2.47 lakh, is it time to stay invested or consider selling?"
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/story/govt-allows-ethanol-blending-in-aviation-turbine-fuel-atf-2900004-2026-04-22",
-      "headline": "Govt allows ethanol blending in Aviation Turbine FuelThe move is aimed at promoting Sustainable Aviation Fuel (SAF) and reducing India's dependence on imported oil."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/why-more-roads-wont-fix-gurugram-traffic-crisis-explained-2899948-2026-04-22",
-      "headline": "Why more roads won't fix Gurugram's traffic crisisGurugram's population has doubled from 1.5 million in 2011 to over 3 million today. Only 12 to 15% of residents regularly use public transport."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/nukkad-natak-review-tanmaya-shekhar-indie-film-on-activism-has-the-intent-but-lacks-consistency-2900793-2026-04-24",
+      "headline": "Nukkad Natak review: Indie film on activism has the intent but lacks consistencyRelease Date:Fri Apr 24, 2026 Nukkad Natak is a sincere, passion-driven film that captures the struggles of young outsiders through street theatre. While it occasionally struggles to balance its message with storytelling, its raw honesty and relatable characters make it an engaging watch."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/sonam-kapoor-shares-a-glimpse-of-newborn-son-with-family-pics-life-is-a-dream-2900796-2026-04-24",
+      "headline": "Sonam Kapoor shares a glimpse of newborn son with family pics: Life is a dream Sonam Kapoor shared fresh family photos featuring husband Anand Ahuja, son Vayu Ahuja and a glimpse of their newborn baby boy. The actor called this phase of her life \"a dream\"."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/dhurandhar-2-the-revenge-box-office-collection-day-36-report-rs-1-crore-on-5th-thursday-as-it-enters-6th-weekend-2900789-2026-04-24",
+      "headline": "Dhurandhar 2 box office Day 36: Rs 1 crore on 5th Thursday as it enters 6th weekend Dhurandhar: The Revenge continues its record-breaking run as it enters week six, inching closer to the Rs 1,800 crore mark worldwide. Can the spy thriller surpass Baahubali 2: The Conclusion to become one of the highest-grossing Indian films ever?"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/kajol-explains-breaking-her-no-kissing-policy-after-30-years-in-the-trial-2900777-2026-04-24",
+      "headline": "Kajol explains breaking her no-kissing policy after 30 years in The Trial Kajol has finally opened up about breaking her long-standing no-kissing rule on screen in The Trial. She hinted that the choice was deeply tied to her character, who was opposite Jisshu Sengupta."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/music/story/deewane-toh-deewane-hai-singer-shweta-shetty-comeback-mumbai-show-alibaug-life-2900772-2026-04-24",
+      "headline": "Remember Deewane To Deewane Hain singer Shweta Shetty? Here's what she is doing now Shweta Shetty, the 90s pop singer known for songs like Deewane Toh Deewane Hai and Dil Tote Tote Ho Gaya, spoke about her comeback plans. Read on to find out what she is doing now."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/reviews/story/jerax-review-zee5-kannada-series-supernatural-xerox-machine-premise-2900751-2026-04-24",
+      "headline": "Jerax review: Nagabhushan's show has innovative concept, but a wasted opportunityRelease Date:Fri Apr 24, 2026 Jerax series review: The Nagabhushan-starrer Kannada thriller series offers a fresh supernatural idea but falters due to underdeveloped drama."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/yami-gautam-spent-4-months-learning-quran-for-shazia-bano-role-haq-director-2900778-2026-04-24",
+      "headline": "Yami Gautam spent 4 months learning Quran for Shazia Bano role: Haq director Yami Gautam spent four months learning the Quran as part of her preparation for Haq, director Suparn S Varma revealed. He also shared that the team spent nearly a year and a half researching Islamic law to ensure the film remained authentic."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/trisha-krishnan-voting-post-vijay-link-tamil-nadu-assembly-elections-2026-2900746-2026-04-24",
+      "headline": "Actor Trisha's voting post on Instagram sets off Vijay-linked chatter online The Tamil Nadu Assembly elections saw actor Vijay contesting with his TVK party for the first time. Actor Trisha's Instagram post after voting, featuring a song linked to Vijay, sparked social media speculation on political support."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/tamil-actor-akshaya-hariharan-claims-someone-cast-vote-in-her-name-seeks-action-2900750-2026-04-24",
+      "headline": "Tamil actor Akshaya Hariharan claims someone voted in her name, seeks action Akshaya Hariharan claimed that someone else cast a vote in her name during the Tamil Nadu polls, calling the incident \"shocking.\" Sharing a video, she urged voters to stay alert and said she plans to file a complaint."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/d4vd-murder-case-child-sexual-abuse-material-icloud-court-2900754-2026-04-24",
+      "headline": "Murder-charged singer D4vd had huge amount of child porn on iCloud: US prosecutors The 21-year-old singer, whose real name is David Burke, faces first-degree murder charges in the death of Celeste Rivas Hernandez, 14, whose dismembered remains were found in his Tesla in September last year."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/maamla-legal-hai-2-amit-vikram-pandey-on-laws-harassment-storyline-2900470-2026-04-24",
@@ -146,63 +196,33 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/music/story/arijit-singh-votes-in-west-bengal-assembly-elections-2026-at-jiaganj-2900613-2026-04-23",
       "headline": "Arijit Singh, wife Koel Roy arrive hand in hand to vote in Murshidabad. Watch A viral video showed singer Arijit Singh walking hand in hand with his wife, Koel Roy, as he cast his vote in Murshidabad. Another clip of the singer at the polling booth was also widely shared online."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/kartik-aaryan-sreeleela-film-on-track-for-release-this-year-anurag-basu-2900602-2026-04-23",
-      "headline": "Kartik Aaryan-Sreeleela film on track for release this year, says Anurag Basu Director Anurag Basu cleared the air on the shooting timeline of his romantic film starring Kartik Aaryan and Sreeleela. He said that the film is on schedule and progressing well."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/story/dhurandhar-2-ending-ai-video-hamza-yalina-reunion-2900553-2026-04-23",
-      "headline": "Dhurandhar 2 ending gets an AI twist with Hamza and Yalina. Seen it yet? An AI version of Dhurandhar 2 ending has caught widespread attention. The reimagined clip gives a unique twist to Ranveer Singh and Sara Arjun's characters, Hamza and Yalina, and their relationship."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/television/story/karan-wahi-spirituality-actor-not-quitting-acting-2900540-2026-04-23",
-      "headline": "Is Karan Wahi quitting acting amid spiritual journey? Actor reacts Karan Wahi has reacted to rumours of quitting acting following his spiritual remarks that went viral on social media. He clarified that his growing interest in spirituality will not affect his acting career."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/anubhav-sinha-i-will-always-release-my-films-in-theatres-first-2900552-2026-04-23",
-      "headline": "I will always release my films in theatres first: Anubhav Sinha Director Anubhav Sinha has made a popular OTT series as IC814: The Kandahar Hijack, but the maker of films such as Article 15, Thappad, Mulk and Assi says his first love will always be the big screen."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/jackky-bhagnani-rakul-preet-singh-marriage-situationship-exclusive-2900460-2026-04-23",
-      "headline": "Jackky Bhagnani says marriage to Rakul Preet is situationship but exclusive Actor-producer Jackky Bhagnani said his marriage to actor Rakul Preet Singh is like a situationship. The confession came in a recent interview, where the Bollywood couple opened up about their relationship dynamics. Both highlighted a bond where neither depends on the other for happiness."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/akshay-kumar-vidya-balan-reunite-fourth-film-aneez-bazmee-comedy-drama-2900523-2026-04-23",
-      "headline": "Akshay Kumar, Vidya Balan reunite: All you need to know about their fourth film Actors Akshay Kumar and Vidya Balan have reunited for a comedy-drama film. Akshay shared a video of them leaving together for Kerala and confirmed their fourth project."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/keerthy-suresh-krithi-shetty-anil-ravipudi-venkatesh-kalyanram-film-2900391-2026-04-23",
-      "headline": "Krithi Shetty joins Anil Ravipudi's next, Keerthy Suresh likely opposite Venkatesh Director Anil Ravipudi is set to bring Keerthy Suresh and Krithi Shetty on board for his next film with Venkatesh and Kalyanram."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/story/anne-hathaway-quran-gift-devil-wears-prada-2-london-premiere-2900485-2026-04-23",
-      "headline": "Fan gifts Quran to Anne Hathaway at London event after viral Inshallah clip. Watch Anne Hathaway grabbed attention at The Devil Wears Prada 2 London premiere after she accepted a Quran from a fan. This came after the viral buzz around her 'Inshallah' clip."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/reviews/story/mercy-hindi-movie-review-thought-provoking-but-not-quite-immersive-2900488-2026-04-23",
-      "headline": "Mercy review: Thought-provoking, but not quite immersiveRelease Date:Thu Apr 23, 2026 Mercy review: The film takes on the difficult subject of passive euthanasia with sincerity, but struggles to translate its intent into a consistently engaging cinematic experience."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/story/imran-khan-denies-ashneer-grover-biopic-rumours-2900431-2026-04-23",
-      "headline": "Imran Khan denies working on Ashneer Grover biopic Actor Imran Khan reacted to rumours about starring in Ashneer Grover's biopic. The actor said he had not even heard of the project."
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/us-iran-war-depletes-jassm-tomahawk-patriot-stockpiles-united-states-army-donald-trump-middle-east-2900737-2026-04-24",
-      "headline": "US's high-end weapons deplete rapidly as Iran war exposes strain on militaryDonald Trump's Iran war is rapidly draining America's stockpile of high-end, costly munitions, exposing strains in military readiness and raising concerns over the US's ability to sustain future conflicts against major adversaries."
+      "url": "https://www.indiatoday.in/technology/news/story/finance-minister-nirmala-sitharaman-raises-alarm-on-bank-security-risk-due-to-anthropic-mythos-ai-2900767-2026-04-24",
+      "headline": "Nirmala Sitharaman raises alarm on bank security risk due to Anthropic Mythos AIFinance Minister Nirmala Sitharaman held a high-level meeting with heads of banks on Thursday to discuss the potential risks with Anthropic's Claude Mythos, an AI so powerful that it can potentially hack any system. Sitharaman has advised for the creation of mechanisms that can identify and act on any cyberattacks on the financial sector."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/delhi-irs-officer-daughter-murder-accused-rahul-meena-90-percent-class-12-pawned-marksheet-gambling-gaming-amar-colony-2900794-2026-04-24",
+      "headline": "Delhi murder accused pawned marksheet to feed gambling habitOnce a promising student, Rahul Meena's descent into online gambling and mounting debt culminated in the brutal murder of the IRS officer in Delhi."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/gauhati-high-court-rejects-pawan-khera-plea-for-pre-arrest-bail-in-defamation-fir-filed-by-assam-cms-wife-2900805-2026-04-24",
+      "headline": "High Court denies pre-arrest bail to Pawan Khera in Assam CM's wife caseWith the Guahati High Court refusing pre-arrest relief, and the Supreme Court having earlier declined to intervene, Pawan Khera is now likely to surrender and seek regular bail."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/elections/assembly/story/west-bengal-assembly-elections-home-minister-amit-shah-bjp-cpm-tmc-kolkata-city-of-slums-2011-census-chennai-mumbai-delhi-2900492-2026-04-24",
+      "headline": "Is Kolkata a city of slums like Amit Shah said? Here's the factAddressing a rally for the West Bengal election, Home Minister Amit Shah said Kolkata had turned into a city of slums under successive Communist and Trinamool Congress governments. Is it a fact that Kolkata, the capital of West Bengal, is a city of slums? Here's the fact."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/india-trump-hellhole-remarks-iran-praise-culture-mea-objection-2900795-2026-04-24",
+      "headline": "Reduce random bakwaas: Iran's suggestion to Trump over India 'hellhole' remarkIran's missions in India mocked Donald Trump after he shared remarks calling India a \"hellhole,\" prompting strong backlash from New Delhi, which termed the comments \"uninformed and inappropriate.\""
     },
     {
       "sentiment": "positive",
@@ -211,8 +231,23 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/india-slams-trumps-hellhole-jibe-says-comments-uninformed-inappropriate-and-in-poor-taste-2900665-2026-04-23",
-      "headline": "India slams Trump's 'hellhole' jibe, says comments uninformed, inappropriateIndia criticised US President Donald Trump for amplifying a post that referred to India as a \"hellhole on the planet,\" calling the remarks uninformed, inappropriate, in poor taste and not reflective of the broader bilateral relationship."
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-mi-vs-csk-shashi-tharoor-poem-sanju-samson-2900768-2026-04-24",
+      "headline": "A poem for Sanju Samson: Shashi Tharoor celebrates CSK star's century in verseMI vs CSK, IPL 2026: Shashi Tharoor, a long-time admirer of Sanju Samson, penned a poem after the Chennai Super Kings batter's match-winning hundred against Mumbai Indians on Thursday."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/lifestyle/society/story/one-vote-in-bengal-and-delhi-ncr-is-back-to-covid-chore-days-2900803-2026-04-24",
+      "headline": "One vote in Bengal, and Delhi-NCR is back to Covid chore daysCleaning, washing, cooking and the list is never ending for residents of not just Delhi-NCR but beyond who are having a hard time juggling work and home with their house helps."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/elections/assembly/story/assembly-election-2026-live-updates-april-24-west-bengal-bjp-congress-tmc-voting-result-date-timings-details-2900749-2026-04-24",
+      "headline": "Live: Record voter turnout in Bengal is clarion call for new era, says Amit ShahAssembly Election Live Updates: With a record voter turnout in the first phase, West Bengal is now gearing up for the second phase of Assembly elections on April 29. With just days to go, the Trinamool Congress\u2013BJP standoff has reached a peak, as Prime Minister Narendra Modi and Union Home Minister Amit Shah address rallies across the state today. The Trinamool camp is also intensifying its campaign, with Chief Minister Mamata Banerjee leading from the front. Meanwhile, post-poll discussions are gaining momentum in states that have already concluded voting, Kerala, Tamil Nadu, Assam, and Puducherry. Stay tuned to IndiaToday.in for the latest updates."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/us-iran-war-depletes-jassm-tomahawk-patriot-stockpiles-united-states-army-donald-trump-middle-east-2900737-2026-04-24",
+      "headline": "Iran war burns through expensive US stockpiles, exposes military strainDonald Trump's Iran war is rapidly draining America's stockpile of high-end, costly munitions, exposing strains in military readiness and raising concerns over the ability to sustain future conflicts."
     },
     {
       "sentiment": "positive",
@@ -221,28 +256,28 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/assembly/story/west-bengal-assembly-elections-home-minister-amit-shah-bjp-cpm-tmc-kolkata-city-of-slums-2011-census-chennai-mumbai-delhi-2900492-2026-04-24",
-      "headline": "Is Kolkata a city of slums like Amit Shah said? Here's the factAddressing a rally for the West Bengal election, Home Minister Amit Shah said Kolkata had turned into a city of slums under successive Communist and Trinamool Congress governments. Is it a fact that Kolkata, the capital of West Bengal, is a city of slums? Here's the fact."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/delhi/story/delhi-irs-officer-daughter-murder-home-rahul-meena-accused-didi-given-money-remorseless-former-househelp-servant-alwar-rape-2900558-2026-04-23",
-      "headline": "Had didi given money...: Ex-help remorseless after killing IRS officer's daughterDuring questioning, Rahul Meena, 23, maintained a calm and composed demeanour, and stressed that he had only gone to the IRS officer's home in Delhi's upscale Kailash Hills to get money."
+      "url": "https://www.indiatoday.in/science/story/solar-flare-eruption-radio-blackout-coronal-mass-ejections-x-class-solar-flare-2026-radio-blackout-earth-ionosphere-signals-2900759-2026-04-24",
+      "headline": "Powerful solar storm causes radio blackout across half the EarthThe Sun has erupted with an X-class solar flare, the most powerful kind, blacking out shortwave radio communications across the sunlit side of Earth. Here is what happened, why your radio went silent, and what could come next."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/strait-of-hormuz-iran-strike-plans-us-donald-trump-weighs-new-options-if-ceasefire-collapses-2900742-2026-04-24",
-      "headline": "Trump weighing fresh Iran strike plans to break Strait of Hormuz stalemateUS military planners may target Iranian infrastructure to force Tehran back to the negotiating table, with Trump warning strikes could resume if diplomacy fails. However, current and former US officials caution that such action could backfire by escalating tensions and worsening an already fragile global economy."
+      "url": "https://www.indiatoday.in/science/story/early-monsoon-2026-india-kerala-arrival-heatwave-imd-ecmwf-el-nino-india-ocean-la-nina-heat-rain-2900792-2026-04-24",
+      "headline": "Early monsoon alert: Weather systems signal ahead-of-time arrival likely in IndiaFresh forecasts from the European Centre for Medium-Range Weather Forecasts (ECMWF) suggest the southwest monsoon could make an early start, bringing much-needed relief from rising heat."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/iran-india-ship-seized-armed-masked-iranian-soldiers-video-hormuz-strait-2900393-2026-04-23",
-      "headline": "Video: How masked Iranian commandos seized India-bound ship in HormuzA day after two merchant vessels were seized, including one bound for Gujarat, Iran released dramatic footage showing masked commandos taking control of the ships."
+      "url": "https://www.indiatoday.in/movies/celebrities/story/sonam-kapoor-shares-a-glimpse-of-newborn-son-with-family-pics-life-is-a-dream-2900796-2026-04-24",
+      "headline": "Sonam Kapoor shares a glimpse of newborn son with family pics: Life is a dreamSonam Kapoor shared fresh family photos featuring husband Anand Ahuja, son Vayu Ahuja and a glimpse of their newborn baby boy. The actor called this phase of her life \"a dream\"."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/mi-vs-csk-ipl-2026-play-of-the-day-akeal-hosein-wankhede-demolition-derby-2900717-2026-04-24",
-      "headline": "IPL Play of the Day: CSK went Plan B, then Akeal Hosein made Mumbai Indians payIPL Play of the Day, MI vs CSK: Sanju Samson's century set the stage, but Chennai Super Kings' mid-innings pivot with the Impact Sub proved decisive. Akeal Hosein's 4 for 17 turned that gamble into a match-winning masterclass against Mumbai Indians."
+      "url": "https://www.indiatoday.in/business/story/ai-security-risk-banks-nirmala-sitharaman-warning-anthropic-mythos-cyberfraud-banking-security-2900807-2026-04-24",
+      "headline": "AI security risk for banks? Why has Nirmala Sitharaman raised concernsAt the centre of the issue is Anthropic's new AI model, known as Claude Mythos Preview, capable of identifying and exploiting vulnerabilities across major operating systems and web browsers when prompted."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/kajol-explains-breaking-her-no-kissing-policy-after-30-years-in-the-trial-2900777-2026-04-24",
+      "headline": "Kajol explains breaking her no-kissing policy after 30 years in The TrialKajol has finally opened up about breaking her long-standing no-kissing rule on screen in The Trial. She hinted that the choice was deeply tied to her character, who was opposite Jisshu Sengupta."
     },
     {
       "sentiment": "positive",
@@ -251,13 +286,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/donald-trump-rules-out-nuclear-strike-says-iran-running-out-of-time-2900724-2026-04-24",
-      "headline": "I wouldn't use it: Trump rules out nuclear strike, says Iran running out of timeAddressing reporters at the White House, Trump said there was no justification for deploying nuclear arms. He maintained that Iran had already been \"decimated\" through conventional means and stressed that such weapons should never be used."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/israel-lebanon-ceasefire-extended-by-three-weeks-says-trump-2900725-2026-04-24",
-      "headline": "Israel-Lebanon ceasefire extended by three weeks, says TrumpThe ceasefire extension came after a high-level meeting at the White House, where US President Donald Trump hosted Israeli ambassador Yechiel Leiter and Lebanese ambassador Nada Moawad in the Oval Office for a second round of US-mediated talks."
+      "url": "https://www.indiatoday.in/india/story/india-slams-trumps-hellhole-jibe-says-comments-uninformed-inappropriate-and-in-poor-taste-2900665-2026-04-23",
+      "headline": "India slams Trump's 'hellhole' jibe, says comments uninformed, inappropriateIndia criticised US President Donald Trump for amplifying a post that referred to India as a \"hellhole on the planet,\" calling the remarks uninformed, inappropriate, in poor taste and not reflective of the broader bilateral relationship."
     },
     {
       "sentiment": "positive",
@@ -266,61 +296,51 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/imd-heatwave-jharsuguda-44c-storms-rain-forecast-april-2026-weather-forecast-2900545-2026-04-23",
-      "headline": "No relief: Heatwaves to get worse in North India, temp to climb on FridayTemperatures across northwest and central India are likely to climb a further 2\u20133C before any relief arrives."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/assembly/story/west-bengal-assembly-polls-phase-one-90-record-turout-what-it-reveals-sir-citizenship-2900619-2026-04-23",
-      "headline": "What highest-ever voting of 93% in West Bengal election revealsWest Bengal saw a 92.9% voter turnout, its highest ever, in Phase 1 of the Assembly election. What does the high turnout, which follows the SIR exercise, reveal about the ground situation?"
+      "url": "https://www.indiatoday.in/entertainment/ott/story/nukkad-natak-review-tanmaya-shekhar-indie-film-on-activism-has-the-intent-but-lacks-consistency-2900793-2026-04-24",
+      "headline": "Nukkad Natak review: Indie film on activism has the intent but lacks consistencyRelease Date:Fri Apr 24, 2026Nukkad Natak is a sincere, passion-driven film that captures the struggles of young outsiders through street theatre. While it occasionally struggles to balance its message with storytelling, its raw honesty and relatable characters make it an engaging watch."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/rahul-meena-accused-raping-two-women-delhi-alwar-delhi-rape-2900220-2026-04-23",
-      "headline": "Ex-help raped Alwar woman 12 hours before raping and killing IRS officer's daughterA 23-year-old former house help allegedly carried out two rapes within 12 hours -- first in Rajasthan's Alwar and then in a Delhi apartment belonging to his former employer, the police said."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/maamla-legal-hai-2-amit-vikram-pandey-on-laws-harassment-storyline-2900470-2026-04-24",
-      "headline": "Actor Amit Vikram on using comedy to address male harassment in Maamla Legal Hai 2Actor Amit Vikram Pandey opens up about playing a male harassment survivor in Maamla Legal Hai Season 2 and why the story goes beyond a \"man vs woman\" debate."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/maduro-capture-operation-us-soldier-charged-over-polymarket-bets-using-classified-information-2900735-2026-04-24",
-      "headline": "US soldier used secret Maduro raid intel to place bets to win $400,000, chargedUS Special Forces soldier Gannon Ken Van Dyke was part of the operation to capture Venezuelan President Nicolas Maduro in January and used his access to classified information to make money on the prediction market site Polymarket, according to presecutors."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/hours-after-trumps-hellhole-remark-against-india-uss-damage-control-2900616-2026-04-23",
-      "headline": "Hours after Trump's hellhole remark against India, US's damage controlAfter a controversy erupted over his remarks, President Donald Trump spoke warmly of India, calling it \"a great country\" and a close partner, according to a US embassy spokesperson."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/marijuana-reclassification-us-eases-medical-cannabis-restrictions-starts-wider-review-2900731-2026-04-24",
-      "headline": "US to relax marijuana curbs, reclassifies some products as less dangerousThe move does not legalise marijuana across the United States, but it is likely to reshape the USD 47 billion industry, which has faced continued barriers at the federal level, even as all but two US states have legalised it in some form for medical use and nearly half have legalised it for recreational use as well."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/kajol-says-gen-z-wouldnt-live-like-ddlj-simran-nobody-is-asking-for-permission-2900728-2026-04-24",
-      "headline": "Can DDLJ's Simran exist in a Gen Z world? Here's what Kajol saidKajol reflected on how relationships and parenting have evolved since the 1990s. He said that today's generation has a very different approach compared to the world of DDLJ."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/health/story/summer-fatigue-causes-heat-dehydration-poor-sleep-drain-energy-2900532-2026-04-24",
-      "headline": "The summer fatigue: Why you feel more tired even when doing lessSummer fatigue isn't about laziness, it's your body struggling to cope with heat stress."
+      "url": "https://www.indiatoday.in/india/story/irs-officer-daughter-murder-rape-case-delhi-police-recover-cash-violent-past-psychopath-2900760-2026-04-24",
+      "headline": "IRS officer's daughter's killer showed psychopathic traits with violent past: ProbeA 23-year-old accused in the IRS officer's daughter murder case has been described as psychopathic, with a history of violence and a gambling addiction, investigators said."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/iran-us-peace-talks-islamabad-power-struggle-supreme-leader-president-irgc-trump-hormuz-tensions-2900608-2026-04-23",
-      "headline": "Did Iran's power struggle stall planned peace talks with US in Islamabad?Internal disagreements within Iran's leadership have reportedly delayed plans to dispatch a negotiating team to Islamabad for talks with the US on ending the eight-week-old conflict, fuelling renewed debate over whose decision-making power truly rests in Tehran."
+      "url": "https://www.indiatoday.in/cities/delhi/story/delhi-irs-officer-daughter-murder-home-rahul-meena-accused-didi-given-money-remorseless-former-househelp-servant-alwar-rape-2900558-2026-04-23",
+      "headline": "Had didi given money...: Ex-help remorseless after killing IRS officer's daughterDuring questioning, Rahul Meena, 23, maintained a calm and composed demeanour, and stressed that he had only gone to the IRS officer's home in Delhi's upscale Kailash Hills to get money."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/music/story/rihanna-returns-to-india-after-2-years-films-crowd-gathering-around-her-car-2900738-2026-04-24",
-      "headline": "Rihanna returns to India after 2 years, films crowd gathering around her car. WatchRihanna's latest India visit comes two years after her performance at Anant Ambani and Radhika Merchant's pre-wedding celebrations in Jamnagar. During her Mumbai arrival, the singer interacted with paparazzi and was also seen recording the crowd gathered outside her car."
+      "url": "https://www.indiatoday.in/world/story/iran-india-ship-seized-armed-masked-iranian-soldiers-video-hormuz-strait-2900393-2026-04-23",
+      "headline": "Video: How masked Iranian commandos seized India-bound ship in HormuzA day after two merchant vessels were seized, including one bound for Gujarat, Iran released dramatic footage showing masked commandos taking control of the ships."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-rcb-vs-gt-rajat-patidar-aggressive-cricket-mo-bobat-2900816-2026-04-24",
+      "headline": "Patidar has stuck to team's line of thinking: Mo Bobat on RCB's aggressive cricket IPL 2026: RCB are doubling down on their ultra-aggressive identity ahead of a key clash with Gujarat Titans, with Mo Bobat backing Rajat Patidar's calm leadership at the heart of it. As questions linger over Chinnaswamy's shifting pitches, Bobat makes it clear the franchise is focused on control within chaos, not conditions."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-mi-vs-csk-akeal-hosein-jadeja-like-performance-old-tweet-2900774-2026-04-24",
+      "headline": "Called it? Akeal Hosein's Jadeja-like performance resurfaces old tweet IPL 2026: Akeal Hosein's four-wicket haul for CSK against MI at the Wankhede brought back an old tweet where he had expressed admiration for Ravindra Jadeja, drawing striking comparisons. His powerplay impact and all-round consistency once again underlined his abilities as a match-winner."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-mi-vs-csk-shashi-tharoor-poem-sanju-samson-2900768-2026-04-24",
+      "headline": "A poem for Sanju Samson: Shashi Tharoor celebrates CSK star's century in verse MI vs CSK, IPL 2026: Shashi Tharoor, a long-time admirer of Sanju Samson, penned a poem after the Chennai Super Kings batter's match-winning hundred against Mumbai Indians on Thursday."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-rcb-vs-gt-preview-virat-kohli-shubman-gill-chinnaswamy-2900571-2026-04-24",
+      "headline": "RCB look to reclaim fortress Chinnaswamy, prey on wounded Gujarat Titans IPL 2026: The Gujarat Titans face Royal Challengers Bengaluru at the M. Chinnaswamy Stadium in a high-stakes clash between Shubman Gill's side with struggling middle order and Rajat Patidar's side with vulnerable death bowling. With the head-to-head record at this venue favoring the Titans, both teams are seeking a crucial batting resurgence in their final home league game of the season."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/csk-vs-mi-ipl-2026-chennai-super-kings-record-win-mumbai-indians-stats-2900719-2026-04-24",
+      "headline": "Mumbai's El Clasico nightmare, Chennai's delight at Wankhede: In Stats IPL 2026, MI vs CSK: Chennai Super Kings dominated the El Clasico on Thursday, beating Mumbai Indians by 103 runs at the Wankhede Stadium. Sanju Samson starred with an unbeaten 101, while Akeal Hosein picked up four wickets to help restrict the home side."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/mi-vs-csk-ipl-2026-mitchell-santner-concussion-sub-controversy-explained-2900745-2026-04-24",
@@ -354,27 +374,27 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/other-sports/story/sony-ai-robot-ace-defeats-national-level-table-tennis-players-2900707-2026-04-23",
-      "headline": "AI vs Human: Sony's table tennis robot 'Ace' outplays national-level players A robot built by Sony has defeated elite human table tennis players in a breakthrough that researchers say could mark a new phase in robotics, particularly in tasks that demand speed, precision and real-time decision-making."
+      "headline": "AI vs Human: Sony's table tennis robot 'Ace' outplays national-level playersA robot built by Sony has defeated elite human table tennis players in a breakthrough that researchers say could mark a new phase in robotics, particularly in tasks that demand speed, precision and real-time decision-making."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-mi-vs-csk-report-samson-akeal-csk-beat-mi-no-dhoni-2900691-2026-04-23",
-      "headline": "Samson, spin twins decimate MI as CSK win IPL El Clasico without Thala IPL, MI vs CSK: Chennai Super Kings inflicted Mumbai Indians' biggest defeat by runs in IPL history, cruising to a dominant El Cl\u00e1sico win on the back of Sanju Samson's unbeaten century and Akeal Hosein's match-turning spell."
+      "headline": "Samson, spin twins decimate MI as CSK win IPL El Clasico without ThalaIPL, MI vs CSK: Chennai Super Kings inflicted Mumbai Indians' biggest defeat by runs in IPL history, cruising to a dominant El Cl\u00e1sico win on the back of Sanju Samson's unbeaten century and Akeal Hosein's match-turning spell."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/mi-vs-csk-ipl-2026-sanju-samson-century-wankhede-rohit-sharma-t20-hundreds-2900659-2026-04-23",
-      "headline": "Sanju turns up vs arch-rivals, becomes CSK's joint-top centurion in just 7 games MI vs CSK: Sanju Samson silenced the Wankhede crowd with a masterclass in resilience and power-hitting. In his first appearance for CSK against the arch-rivals, Samson slammed a century to join Suresh Raina and Shane Watson in an elite bracket."
+      "headline": "Sanju turns up vs arch-rivals, becomes CSK's joint-top centurion in just 7 gamesMI vs CSK: Sanju Samson silenced the Wankhede crowd with a masterclass in resilience and power-hitting. In his first appearance for CSK against the arch-rivals, Samson slammed a century to join Suresh Raina and Shane Watson in an elite bracket."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/mustafizur-rahman-bangladesh-vs-new-zealand-odi-series-win-ipl-2900654-2026-04-23",
-      "headline": "Away from IPL, Mustafizur Rahman emulates Wasim Akram to rock New Zealand in ODI series BAN vs NZ, 3rd ODI: Mustafizur Rahman finished with figures of 9-2-43-5 as Bangladesh beat New Zealand by 55 runs in Chattogram on Thursday to win the three-match series 2-1."
+      "headline": "Away from IPL, Mustafizur Rahman emulates Wasim Akram to rock New Zealand in ODI seriesBAN vs NZ, 3rd ODI: Mustafizur Rahman finished with figures of 9-2-43-5 as Bangladesh beat New Zealand by 55 runs in Chattogram on Thursday to win the three-match series 2-1."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/rehan-ahmed-delhi-capitals-ben-duckett-replacement-ipl-2026-2900642-2026-04-23",
-      "headline": "Surplus spinner? Delhi Capitals baffle fans with signing of Ben Duckett replacement IPL 2026: Delhi Capitals have signed England spinner Rehan Ahmed as a replacement for Ben Duckett for the remainder of the tournament. While Rehan has batting credentials, his speciality lies in bowling leg-spin."
+      "headline": "Surplus spinner? Delhi Capitals baffle fans with signing of Ben Duckett replacementIPL 2026: Delhi Capitals have signed England spinner Rehan Ahmed as a replacement for Ben Duckett for the remainder of the tournament. While Rehan has batting credentials, his speciality lies in bowling leg-spin."
     },
     {
       "sentiment": "negative",
@@ -450,31 +470,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-lsg-vs-rr-mayank-yadav-criticism-ian-bishop-defends-2900367-2026-04-23",
       "headline": "Mayank Yadav criticism horrifying: Bishop defends LSG pacer's costly IPL returnIPL 2026: Ian Bishop has backed Mayank Yadav after criticism over his IPL return. The former pacer called the backlash \"horrifying\" and urged fans to focus on the youngster's recovery and long-term fitness."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-mitchell-starc-cleared-delhi-capitals-cricket-australia-rr-match-2900350-2026-04-23",
-      "headline": "Mitchell Starc cleared to play IPL: DC pacer expected to be available for RR clashIPL 2026: Mitchell Starc has been cleared to return to IPL 2026 after recovering from injury. The Delhi Capitals pacer is set to rejoin the squad and could feature in their upcoming clash against Rajasthan Royals."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/badminton/story/thomas-uber-cup-2026-india-eyes-success-denmark-badminton-showdown-2900321-2026-04-23",
-      "headline": "India eye strong Thomas & Uber Cup run as badminton heads to DenmarkIndia head into the Thomas & Uber Cup 2026 with a mix of proven stars and rising talent. With Ayush Shetty's recent surge and Sindhu leading the women, the focus will be on how far these squads can go."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-lsg-vs-rr-match-up-obsession-questioned-as-tactics-falter-2900279-2026-04-23",
-      "headline": "IPL's war against left-arm spin and what Ravindra Jadeja makes of itIPL 2026: The IPL's reliance on match-ups has reshaped how left-arm spinners are used, often at the cost of context. Ravindra Jadeja weighs in on the balance between data, conditions, and on-field judgement."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-lsg-vs-rr-vaibhav-sooryavanshi-watches-cartoon-pre-match-routine-2900271-2026-04-23",
-      "headline": "Cartoons first, bowlers next: Vaibhav Sooryavanshi reveals his IPL routine at 15IPL 2026: Vaibhav Sooryavanshi continues to grab attention with his performances and personality in IPL 2026. The 15-year-old's revelation about watching cartoons before matches adds a unique layer to his growing story."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-lsg-vs-rr-nandre-burger-fined-abusive-celebration-rishabh-pant-2900270-2026-04-23",
-      "headline": "Rajasthan Royals' Nandre Burger fined for abusive send off to LSG's Rishabh PantIPL 2026: Nandre Burger, pacer for Rajasthan Royals, was fined for breaching the Indian Premier League Code of Conduct after an abusive send-off to Rishabh Pant. He was also handed one demerit point for his behaviour."
     }
   ],
   "education": [
