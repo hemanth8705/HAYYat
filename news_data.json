@@ -1,6 +1,11 @@
 {
   "business": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/personal-finance/story/how-this-25-year-old-built-a-rs-20-lakh-portfolio-in-almost-3-years-2901067-2026-04-24",
+      "headline": "How this 25-year old built a Rs 20 lakh portfolio in almost 3 yearsBuilding a Rs 20 lakh portfolio usually feels like a long-term goal. But a 25-year-old techie managed to do it in just about three years. The surprising part? His salary wasn't very high, so what did he do differently?"
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/market/story/closing-bell-sensex-ends-982-points-lower-nifty-below-24000-it-infosys-hcltech-stocks-tank-2900983-2026-04-24",
       "headline": "Sensex ends 982 points lower, Nifty below 24,000; IT stocks tankSensex ends 982 points lower, Nifty below 24,000; IT stocks tank"
@@ -94,14 +99,44 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/diamond-gold-dispute-dubai-court-orders-rs-140-crore-payment-2900758-2026-04-24",
       "headline": "Dubai court orders Rs 140 crore payout in diamond, gold consignment disputeThe Dubai Court of First Instance also directed the company to pay legal interest of 5% per year from the date the lawsuit was filed until full payment is made, along with court fees and Dh1,000 in legal costs."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/companies/story/warner-bros-paramount-deal-shareholder-approval-111-billion-merger-explained-2900744-2026-04-24",
-      "headline": "Warner Bros shareholders approve $111 billion Paramount takeoverThe deal, which includes debt, values Warner Bros at nearly $111 billion, with Paramount offering $31 per share to acquire the company."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/story/jana-nayagan-editor-pradeep-e-raghav-suspended-by-south-indian-film-editors-association-2901140-2026-04-24",
+      "headline": "Jana Nayagan editor suspended by South editor body over bylaw violations The South Indian Film Editors Association has suspended Pradeep E Raghav over alleged bylaw violations and negligence linked to Jana Nayagan. The body said the lapse, including his admitted contribution to the film's online leak, raised wider concerns over industry standards."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/is-veronica-back-deepika-padukones-cocktail-2-cameo-rumours-are-trending-2901103-2026-04-24",
+      "headline": "Is Veronica back? Deepika Padukone's Cocktail 2 cameo rumours are trending A Reddit post has claimed actor Deepika Padukone may return as Veronica in Cocktail 2, sparking fresh buzz around the sequel. There is no official confirmation yet but the film has already garnered attention for its cast, music and vibe."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/no-china-no-gulf-dhurandhar-2-the-revenge-box-office-supremacy-still-unabated-after-5-weeks-2901137-2026-04-24",
+      "headline": "No China, no Gulf, Dhurandhar 2's box office supremacy still unabated after 5 weeks Dhurandhar: The Revenge has completed 36 days in theatres and is closing in on Baahubali 2's global total. Its run stands out because it has crossed Rs 1,766 crore without releases in China or the Gulf markets."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/story/prabhas-darling-re-release-controversy-hyderabad-theatre-assault-video-2901102-2026-04-24",
+      "headline": "Row at Darling re-release show: Fan beaten with slippers, sticks. Viral videos The re-release of Prabhas' Darlings sparked a row after a man was beaten with sticks and slippers at a Hyderabad theatre. Several videos from the altercations have emerged online."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/darling-re-release-box-office-prabhas-film-second-biggest-telugu-opening-2901075-2026-04-24",
+      "headline": "Prabhas' Darling records 2nd biggest Telugu re-release debut, earns Rs 7.59 crore Prabhas and Kajal Aggarwal's Darling has returned to theatres with its 4K re-release, with a smashing opening globally. The film now stands as the second-biggest Telugu re-release opener after Baahubali: The Epic."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/music/story/billie-eilish-relives-justin-bieber-fangirl-days-after-surprise-coachella-cameo-2901026-2026-04-24",
+      "headline": "Billie Eilish relives Justin Bieber fangirl days after surprise Coachella cameo At Coachella 2026, Billie Eilish shared the stage with Justin Bieber, fulfilling a long-held dream that dates back to her teenage years. She later posted nostalgic photos on Instagram, celebrating her journey as a devoted fan and the emotional milestone of performing alongside her idol."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/kunal-kapoor-cameo-ek-din-aamir-khan-call-reason-enough-sai-pallavi-junaid-khan-2901014-2026-04-24",
+      "headline": "Kunal Kapoor to make cameo in Ek Din, says Aamir's call was reason enough Actor Kunal Kapoor is set to make a guest appearance in Ek Din after his Rang De Basanti co-star Aamir Khan personally asked him to join the film. He described the romantic drama as warm and said he believes it will connect with audiences."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/story/priyanka-chopra-global-vanguard-honour-gold-gala-2026-2900997-2026-04-24",
@@ -161,68 +196,33 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/annu-kapoor-tamannaah-bhatia-controversy-dudhiya-badan-remark-apology-2900830-2026-04-24",
       "headline": "Annu Kapoor on 'milky body' remark on Tamannaah: I'll touch her feet if she's hurt Annu Kapoor clarified that his 'milky body' comment on Tamannaah Bhatia was meant as appreciation of her performance. He expressed willingness to apologise and even touch her feet if she felt hurt by his remark."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/story/salman-khan-nayanthara-film-announced-vamshi-paidipally-eid-2027-2900822-2026-04-24",
-      "headline": "SVC 63: Salman Khan's next with Nayanthara on Eid 2027 Salman Khan's upcoming film with Nayanthara is slated for Eid 2027 release. Directed by Vamshi Paidipally, the film is tentatively titled SVC63."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/nukkad-natak-review-tanmaya-shekhar-indie-film-on-activism-has-the-intent-but-lacks-consistency-2900793-2026-04-24",
-      "headline": "Nukkad Natak review: Indie film on activism has the intent but lacks consistencyRelease Date:Fri Apr 24, 2026 Nukkad Natak is a sincere, passion-driven film that captures the struggles of young outsiders through street theatre. While it occasionally struggles to balance its message with storytelling, its raw honesty and relatable characters make it an engaging watch."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/sonam-kapoor-shares-a-glimpse-of-newborn-son-with-family-pics-life-is-a-dream-2900796-2026-04-24",
-      "headline": "Sonam Kapoor shares a glimpse of newborn son with family pics: Life is a dream Sonam Kapoor shared fresh family photos featuring husband Anand Ahuja, son Vayu Ahuja and a glimpse of their newborn baby boy. The actor called this phase of her life \"a dream\"."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/dhurandhar-2-the-revenge-box-office-collection-day-36-report-rs-1-crore-on-5th-thursday-as-it-enters-6th-weekend-2900789-2026-04-24",
-      "headline": "Dhurandhar 2 box office Day 36: Rs 1 crore on 5th Thursday as it enters 6th weekend Dhurandhar: The Revenge continues its record-breaking run as it enters week six, inching closer to the Rs 1,800 crore mark worldwide. Can the spy thriller surpass Baahubali 2: The Conclusion to become one of the highest-grossing Indian films ever?"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/kajol-explains-breaking-her-no-kissing-policy-after-30-years-in-the-trial-2900777-2026-04-24",
-      "headline": "Kajol explains breaking her no-kissing policy after 30 years in The Trial Kajol has finally opened up about breaking her long-standing no-kissing rule on screen in The Trial. She hinted that the choice was deeply tied to her character, who was opposite Jisshu Sengupta."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/music/story/deewane-toh-deewane-hai-singer-shweta-shetty-comeback-mumbai-show-alibaug-life-2900772-2026-04-24",
-      "headline": "Remember Deewane To Deewane Hain singer Shweta Shetty? Here's what she is doing now Shweta Shetty, the 90s pop singer known for songs like Deewane Toh Deewane Hai and Dil Tote Tote Ho Gaya, spoke about her comeback plans. Read on to find out what she is doing now."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/reviews/story/jerax-review-zee5-kannada-series-supernatural-xerox-machine-premise-2900751-2026-04-24",
-      "headline": "Jerax review: Nagabhushan's show has innovative concept, but a wasted opportunityRelease Date:Fri Apr 24, 2026 Jerax series review: The Nagabhushan-starrer Kannada thriller series offers a fresh supernatural idea but falters due to underdeveloped drama."
     }
   ],
   "general news": [
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/my-own-party-silenced-me-raghav-chadha-resigns-from-aap-praises-pm-modi-2900985-2026-04-24",
-      "headline": "Raghav Chadha, Harbhajan Singh among 7 MPs set to join BJP, dealing blow to AAPAddressing a press conference, Raghav Chadha announced his decision to part ways with the Aam Aadmi Party (AAP) and join the BJP. He also said that 7 other AAP Rajya Sabha MPs will also merge with the saffron party."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/raghav-chadha-sandeep-pathak-ashok-mittal-join-bjp-after-quitting-aap-4-more-mps-to-follow-2901107-2026-04-24",
+      "headline": "Raghav Chadha, Sandeep Pathak, Ashok Mittal join BJP after quitting AAPFollowing their bombshell exits from AAP, Rajya Sabha MPs Raghav Chadha, Ashok Mittal and Sandeep Pathak joined the BJP in the presence of party chief Nitin Nabin in Delhi on Friday."
     },
     {
-      "sentiment": "negative",
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/bjps-operation-lotus-dividing-party-aap-after-7-of-10-rajya-sabha-mps-quit-2901027-2026-04-24",
       "headline": "Gave everything to Raghav Chadha, he landed in BJP's lap: AAP's stinging criticismAddressing a press conference in New Delhi, AAP MP Sanjay Singh accused the BJP of using the Enforcement Directorate and the CBI to poach seven of its MPs."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/elections/assembly/story/bengal-elections-pm-modi-rg-kar-rape-murder-victim-mother-tmc-women-2900917-2026-04-24",
-      "headline": "TMC took away her daughter: PM Modi at rally with RG Kar rape victim's motherPM Narendra Modi, addressing a rally in Bengal with the mother of the RG Kar rape victim, accused the TMC of failing to protect women and silencing their demands for justice."
-    },
-    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/ashok-mittal-raghav-chadha-replacement-joins-bjp-rajya-sabha-big-jolt-arvind-kejriwal-setback-2901021-2026-04-24",
-      "headline": "Ashok Mittal replaced Raghav Chadha, then joined him to dump AAPIn a big jolt to Arvind Kejriwal's AAP, Ashok Mittal \u2013 who replaced Raghav Chadha in Rajya Sabha \u2013 is among seven MPs who are going to join the BJP. The announcement was made by Chadha at a press conference on Friday."
+      "headline": "Ashok Mittal replaced Raghav Chadha, then joined him to dump AAPIn a big jolt to Arvind Kejriwal's AAP, Ashok Mittal \u2013 who replaced Raghav Chadha in Rajya Sabha \u2013 is among seven MPs who are going to join the BJP. The announcement was made by Chadha himself at a press conference on Friday."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/history-of-it/story/first-battle-of-panipat-babur-used-homes-human-shield-ibrahim-lodi-mughals-india-2900831-2026-04-24",
-      "headline": "How Babur used village homes as a shield in the Battle of PanipatIt has been 500 years since the first Battle of Panipat was fought, and it is remembered mainly for the first use of cannons in India, and the beginning of the Mughal empire. However, some literature suggests that the conquest was built not only on gunpowder and cavalry, but on civilians caught between his and Ibrahim Lodi's armies."
+      "url": "https://www.indiatoday.in/india/story/israel-india-operation-northeast-manipur-bnei-menashe-tribe-2900845-2026-04-24",
+      "headline": "Why Israel is airlifting this 'lost tribe' from India's northeastFar from the Middle East, Israel undertook a silent mission in India. Announced last year by Benjamin Netanyahu, Israel on Thursday airlifted around 250 members of the Bnei Menashe community as part of its Operation Wings of Dawn."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/raghav-chadha-swati-maliwal-harbhajan-singh-seven-aap-mps-joining-bjp-2901078-2026-04-24",
+      "headline": "The Secret Seven who left AAP high and dryRaghav Chadha, who had been with the AAP since its inception, and six Rajya Sabha MPs dealt a big blow to the party ahead of the 2027 Punjab Assembly elections by merging with the BJP."
     },
     {
       "sentiment": "positive",
@@ -232,32 +232,27 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/opinion/story/us-president-donald-trump-news-why-america-is-almost-a-failed-state-india-china-hellholes-2900953-2026-04-24",
-      "headline": "America right now is a failed state, well, almostEconomic might and robust internal security aside, Trump's America ticks enough boxes to qualify as a failed state in the political theatre of the absurd."
+      "headline": "US right now is a failed state, well, almostEconomic might and robust internal security aside, Trump's America ticks enough boxes to qualify as a failed state in the political theatre of the absurd."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/raghav-chadha-joins-bjp-west-bengal-election-punjab-election-2027-aap-mps-rajya-sabha-narendra-modi-amit-shah-2901136-2026-04-24",
+      "headline": "Even before Bengal is over, Punjab has begun for BJPEven before the completion of the West Bengal election, the BJP's eyes are already locked on the Punjab 2027 polls. With Rajya Sabha MP Raghav Chadha and six others crossing over from AAP, the BJP signals that its electoral juggernaut never powers down."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/russia-roscosmos-electro-l-satellite-earth-image-weather-space-2026-2900938-2026-04-24",
+      "headline": "India glows green from space in stunning Russian satellite images. See picsRussia's Roscosmos has released stunning new images of Earth taken by its Electro-L weather satellite, which orbits the planet from 36,000 kilometres above."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/raghav-chadha-quits-aap-to-join-bjp-other-party-mps-arvind-kejriwal-rift-2901019-2026-04-24",
-      "headline": "My own party silenced me: Why Raghav Chadha quit AAP after 15 yearsIn a massive jolt to the Arvind Kejriwal-led Aam Aadmi Party (AAP), Raghav Chadha on Friday announced that he has quit the party and will join the BJP along with six other Rajya Sabha MPs."
+      "url": "https://www.indiatoday.in/elections/assembly/story/bengal-elections-pm-modi-rg-kar-rape-murder-victim-mother-tmc-women-2900917-2026-04-24",
+      "headline": "TMC took away her daughter: PM Modi at rally with RG Kar rape victim's motherPM Narendra Modi, addressing a rally in Bengal with the mother of the RG Kar rape victim, accused the TMC of failing to protect women and silencing their demands for justice."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/society/story/one-vote-in-bengal-and-delhi-ncr-is-back-to-covid-chore-days-2900803-2026-04-24",
-      "headline": "One vote in Bengal, and Delhi-NCR is back to Covid chore daysCleaning, washing, cooking, the list is never-ending for residents of not just Delhi-NCR but beyond, who are having a hard time juggling work and home with their house help having gone to Bengal to cast their vote."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/israel-india-operation-northeast-manipur-bnei-menashe-tribe-2900845-2026-04-24",
-      "headline": "Why Israel is airlifting this 'lost tribe' from India's northeastFar from the Middle East, Israel undertook a silent mission in India. Announced last year by Benjamin Netanyahu, Israel on Thursday airlifted around 250 members of the Bnei Menashe community as part of its Operation Wings of Dawn."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/finance-minister-nirmala-sitharaman-raises-alarm-on-bank-security-risk-due-to-anthropic-mythos-ai-2900767-2026-04-24",
-      "headline": "Nirmala Sitharaman raises alarm on bank security risk due to Anthropic Mythos AIFinance Minister Nirmala Sitharaman held a high-level meeting with heads of banks on Thursday to discuss the potential risks with Anthropic's Claude Mythos, an AI so powerful that it can potentially hack any system. Sitharaman has advised for the creation of mechanisms that can identify and act on any cyberattacks on the financial sector."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/opposition-submits-removal-notice-cec-gyanesh-kumar-rajya-sabha-2900991-2026-04-24",
-      "headline": "Opposition submits removal notice against CEC Gyanesh Kumar in Rajya SabhaSources told India Today that the Opposition decided to submit the notice against the Chief Election Commissioner, alleging that he has not changed his conduct and continues to act in a partisan manner."
+      "url": "https://www.indiatoday.in/technology/news/story/what-is-meta-doing-with-employees-random-layoffs-micro-managing-work-new-appraisal-system-2901101-2026-04-24",
+      "headline": "Meta employee shake-up: layoffs, micro-management, new appraisal systemMeta employees are facing a mix of frequent layoffs, tighter work tracking, and a new appraisal system as the company doubles down on AI. The changes are reshaping how people work, perform, and even keep their jobs inside the company."
     },
     {
       "sentiment": "positive",
@@ -266,13 +261,23 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/jobs/story/meta-oracle-and-microsoft-lay-off-46750-employees-in-just-one-month-tchc-2900914-2026-04-24",
-      "headline": "Meta, Oracle, and Microsoft lay off 46,750 employees in just one monthMeta, Oracle, and Microsoft have together impacted nearly 46,750 employees in just one month as the tech industry pivots sharply towards AI. While companies call it restructuring and investment in AI, thousands of workers are now facing the immediate reality of job loss and uncertainty."
+      "url": "https://www.indiatoday.in/history-of-it/story/first-battle-of-panipat-babur-used-homes-human-shield-ibrahim-lodi-mughals-india-2900831-2026-04-24",
+      "headline": "How Babur used village homes as a shield in the Battle of PanipatIt has been 500 years since the first Battle of Panipat was fought, and it is remembered mainly for the first use of cannons in India, and the beginning of the Mughal empire. However, some literature suggests that the conquest was built not only on gunpowder and cavalry, but on civilians caught between his and Ibrahim Lodi's armies."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/raghav-chadha-resigns-live-updates-aap-mps-likely-to-join-bjp-ashok-mittal-harbajan-singh-sandeep-pathak-swati-maliwal-rajya-sabha-mp-quit-2901050-2026-04-24",
+      "headline": "Live: AAP remains united, party bigger than few individuals, says Bhagwant MannRaghav Chadha Quits AAP Live Updates: The public fallout between the AAP and its Rajya Sabha MP Raghav Chadha witnessed a decisive escalation on Friday, when the parliamentarian, announced leaving the party alongside fellow MPs Sandeep Pathak and Ashok Mittal. Addressing a joint press conference, the trio said they were going to join the BJP. Moreover, Chadha said that nearly two-thirds of AAP's Rajya Sabha MPs have quit the party and will join the BJP as a faction. He said several Rajya Sabha MPs including disgruntled party leader Swati Maliwal and Harbhajan Singh have also quit AAP. The trio told the press gathering that seven out of 10 Rajya Sabha MPs of AAP have quit the party. Follow IndiaToday.in for live updates on Raghav Chadha and other AAP MPs' resignation from the party."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/cities/mumbai/story/women-reservation-bill-protest-police-complaint-woman-berated-girish-mahajan-traffic-jam-due-to-rally-2900934-2026-04-24",
+      "headline": "Complaint against Mumbai woman who berated minister over traffic jam due to protestOn Tuesday, an agitated woman confronted minister Mahajan, who was speaking to reporters, shouting at him for blocking roads and causing inconvenience to commuters."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/feng-yanghe-death-chinese-military-ai-scientist-crash-us-nuclear-death-raises-questions-2900776-2026-04-24",
-      "headline": "20 scientists die or vanish across US, China: What's happening?The deaths of several defence-related scientists in the US and China in recent years raise questions due to the sensitivity of their fields. While no evidence of foul play has been found, the timing and circumstances have drawn public scrutiny."
+      "url": "https://www.indiatoday.in/movies/bollywood/story/no-china-no-gulf-dhurandhar-2-the-revenge-box-office-supremacy-still-unabated-after-5-weeks-2901137-2026-04-24",
+      "headline": "No China, no Gulf, Dhurandhar 2's box office supremacy still unabated after 5 weeksDhurandhar: The Revenge has completed 36 days in theatres and is closing in on Baahubali 2's global total. Its run stands out because it has crossed Rs 1,766 crore without releases in China or the Gulf markets."
     },
     {
       "sentiment": "positive",
@@ -281,46 +286,61 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/shortage-not-for-me-himanta-sarma-drinks-coke-from-can-amid-crunch-buzz-2900918-2026-04-24",
-      "headline": "Shortage? Not for me: Himanta Sarma drinks Coke from can amid crunch buzzAssam Chief Minister Himanta Biswa Sarma was seen sipping Coca-Cola from the can during a rally in West Bengal amid reports of aluminium shortages impacting canned beverages across India."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/us-iran-israel-war-live-upadates-ceasefire-talks-strait-of-hormuz-blockade-donald-trump-pakistan-jd-vance-middle-east-hezbollah-lebanon-2900723-2026-04-24",
-      "headline": "Live: Iran's Araghchi holds calls with Asim Munir on ceasefire, says state mediaUS-Iran War Live Updates: The situation in the Middle East remains tense as military activity and diplomatic efforts continue at the same time. The USS George HW Bush has arrived in the region, increasing the number of US aircraft carriers in operation there to three. Donald Trump has stated that any deal with Iran will be made only when it is \"appropriate and good\" for the United States. Iranian leaders, including President Masoud Pezeshkian, Parliament Speaker Mohammad Bagher Ghalibaf and judiciary chief Gholamhossein Mohseni Ejei, have rejected claims that there are divisions within the country's leadership. The US has taken further military steps. The US President has ordered the Navy to \"shoot and kill\" Iranian boats suspected of placing mines in the Strait of Hormuz. The US military has also intensified mine-clearing operations in the waterway. In addition, the Pentagon said US forces boarded the tanker Majestic X in the Indian Ocean. These developments come after the US extended a ceasefire with Iran, although there is no formal extension or confirmed timeline for further talks. Diplomatic efforts are continuing alongside military developments. The United States is hosting a second round of talks between Israel and Lebanon in Washington. The discussions are focused on extending a ceasefire between Israel and Hezbollah. Both sides have carried out strikes during the truce period. So far, there is no clear deadline for ending the conflict or for reaching a new agreement. Catch all the live updates at indiatoday.in."
+      "headline": "Live: US says ball in Iran's court, but clock not on their side amid Hormuz blockadeUS-Iran War Live Updates: The situation in the Middle East remains tense as military activity and diplomatic efforts continue at the same time. The USS George HW Bush has arrived in the region, increasing the number of US aircraft carriers in operation there to three. Donald Trump has stated that any deal with Iran will be made only when it is \"appropriate and good\" for the United States. Iranian leaders, including President Masoud Pezeshkian, Parliament Speaker Mohammad Bagher Ghalibaf and judiciary chief Gholamhossein Mohseni Ejei, have rejected claims that there are divisions within the country's leadership. The US has taken further military steps. The US President has ordered the Navy to \"shoot and kill\" Iranian boats suspected of placing mines in the Strait of Hormuz. The US military has also intensified mine-clearing operations in the waterway. In addition, the Pentagon said US forces boarded the tanker Majestic X in the Indian Ocean. These developments come after the US extended a ceasefire with Iran, although there is no formal extension or confirmed timeline for further talks. Diplomatic efforts are continuing alongside military developments. The United States is hosting a second round of talks between Israel and Lebanon in Washington. The discussions are focused on extending a ceasefire between Israel and Hezbollah. Both sides have carried out strikes during the truce period. So far, there is no clear deadline for ending the conflict or for reaching a new agreement. Catch all the live updates at indiatoday.in."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/raghav-chadha-quits-aap-to-join-bjp-other-party-mps-arvind-kejriwal-rift-2901019-2026-04-24",
+      "headline": "Why Raghav Chadha, once Arvind Kejriwal's blue-eyed boy, quit AAP after 15 yearsIn a major blow to AAP, Rajya Sabha MP Raghav Chadha announced his exit from the party after 15 years and said he would join the BJP, along with six other parliamentarians. The move came amid a rift between Chadha and AAP after his removal as the party's Deputy Leader in the Rajya Sabha."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/sridhar-vembu-iitians-left-india-zoho-founder-recalls-1980s-brain-drain-2900954-2026-04-24",
-      "headline": "Most IITians went abroad: Zoho CEO Sridhar Vembu's 80s brain drain post hits a nerveZoho founder Sridhar Vembu's viral post on leaving India in 1989 has reopened the IIT brain drain debate. He said most IITians went abroad because opportunities were limited and the country felt stuck. His post is now resonating widely with Indians discussing talent, growth and nation-building."
+      "url": "https://www.indiatoday.in/world/story/delayed-report-to-avoid-false-propaganda-netanyahu-says-he-was-treated-for-early-stage-prostate-cancer-2901104-2026-04-24",
+      "headline": "Benjamin Netanyahu says he was treated for early-stage prostate cancerBenjamin Netanyahu said that he had been under routine medical monitoring after successfully undergoing surgery for an enlarged benign prostate more than a year ago. However, he added that a tiny spot of less than a centimetre was discovered in the prostate in the last monitoring."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/irs-daughter-rape-rahul-meena-alwar-case-husband-recounts-wedding-trip-return-to-house-and-alleged-deception-2900933-2026-04-24",
+      "headline": "How killer of IRS officer's daughter used deceit to rape friend's wife in AlwarFocus has shifted to Alwar, where Rahul Meena allegedly used deception and familiarity to target a neighbour's wife hours before the Delhi crime. The survivor's husband said he learnt of the incident after his wife called him, saying Rahul had come and \"did something wrong,\" breaking down during the call."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/ram-madhav-india-trump-ties-russia-oil-controversy-apology-congress-2901001-2026-04-24",
+      "headline": "Ram Madhav's Russia, Iran oil remark boomerangs, gives Congress ammoSenior BJP and RSS leader Ram Madhav's remarks in the US, suggesting that India had aligned closely with US interests by halting oil purchases from Iran and Russia, came under heavy criticism from the Congress. He issued an apology later and clarified his remarks."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/reviews/story/ginny-wedss-sunny-2-review-avinash-tiwary-medha-shankr-film-regressive-2900922-2026-04-24",
-      "headline": "Ginny Wedss Sunny 2 review: No magic, no logic. It's tragicRelease Date:Fri Apr 24, 2026Ginny Wedss Sunny 2 movie review: Ginny Weds Sunny 2 attempts to explore arranged marriage and societal expectations but falters with a scattered narrative and clich\u00e9d storytelling, says our review."
+      "url": "https://www.indiatoday.in/education-today/story/cuet-pg-result-2026-live-updates-nta-direct-link-to-check-scorecard-at-exams-nta-nic-in-cuet-pg-2900852-2026-04-24",
+      "headline": "CUET PG Result 2026 Live Declared: Direct link to scorecard, result details hereCUET PG Result 2026 live updates: NTA has declared the result. Check scorecard link, official website, final answer key, cut off updates and counselling details here."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/raman-effect-ks-krishnan-raman-effect-nobel-prize-indian-physicist-forgotten-cv-raman-2900810-2026-04-24",
-      "headline": "This Indian physicist helped prove the Raman Effect, but got no NobelIndian physicist K.S. Krishnan spent months in a darkroom testing 65 liquids to prove what the world now calls the Raman Effect, yet C.V. Raman alone took the Nobel home."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/amal-khalil-killed-in-israeli-strike-on-south-lebanon-house-after-earlier-attack-2900943-2026-04-24",
-      "headline": "How Lebanese journalist was tracked for 2 years and killed in Israeli strikesAmal Khalil, 43, a reporter with Al Akhbar, had been reporting on the ongoing Israel-Hezbollah conflict from al-Tayri in southern Lebanon on Wednesday alongside freelance photographer Zeinab Faraj when an Israeli strike hit a vehicle ahead of them, killing two people."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/iran-us-peace-talks-islmabad-rawalpindi-lockdown-anger-in-pakistan-cities-closed-schools-shut-economic-impact-2900812-2026-04-24",
-      "headline": "Pakistan's peace virus leads to lockdowns in twin cities, fuels public angerPakistan's bid to broker US-Iran peace talks is increasingly backfiring at home. Islamabad and Rawalpindi have remained under near-lockdown for days awaiting negotiations that have yet to materialise. This has crippled businesses, displaced workers and squeezed incomes, resulting in public anger."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/india-trump-hellhole-remarks-iran-praise-culture-mea-objection-2900795-2026-04-24",
-      "headline": "India aa ke dekho: Iran slams Trump's hellhole remark, shares breathtaking videoIran's missions in India mocked Donald Trump after he shared remarks calling India a \"hellhole,\" prompting strong backlash from New Delhi, which termed the comments \"uninformed and inappropriate.\""
+      "url": "https://www.indiatoday.in/technology/news/story/finance-minister-nirmala-sitharaman-raises-alarm-on-bank-security-risk-due-to-anthropic-mythos-ai-2900767-2026-04-24",
+      "headline": "Nirmala Sitharaman raises alarm on bank security risk due to Anthropic Mythos AIFinance Minister Nirmala Sitharaman held a high-level meeting with heads of banks on Thursday to discuss the potential risks with Anthropic's Claude Mythos, an AI so powerful that it can potentially hack any system. Sitharaman has advised for the creation of mechanisms that can identify and act on any cyberattacks on the financial sector."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-must-nurture-vaibhav-sooryavanshi-test-cricketer-harbhajan-singh-2901128-2026-04-24",
+      "headline": "India must nurture Sooryavanshi if he is to play Test cricket: Harbhajan Singh Former India spinner Harbhajan Singh said India will need to handle teenage sensation Vaibhav Sooryavanshi with patience and proper planning, emphasising that he must be carefully nurtured to become a Test cricketer."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/pat-cummins-return-sunrisers-hyderabad-rajasthan-royals-available-ipl-2026-2901115-2026-04-24",
+      "headline": "Pat Cummins confirms availability for Rajasthan Royals clash: Been a long time coming IPL 2026, RR vs SRH: Pat Cummins confirmed his availability for Sunrisers Hyderabad's clash against Rajasthan Royals after recovering from a long-term back injury, boosting the side after missing the first seven matches."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/rcb-vs-gt-live-score-ipl-2026-royal-challengers-bengaluru-gujarat-titans-match-today-2901081-2026-04-24",
+      "headline": "RCB vs GT Live Score: Jacob Bethell replaces Phil Salt, Bengaluru to bowl first Bengaluru (RCB) vs Gujarat (GT) Live Score, IPL 2026: The Royal Challengers Bengaluru have opted to bowl first. Interestingly Phil Salt misses out and Jacob Bethell replaces him. For GT, Shubman Gill revealed that Jason Holder makes his debut for the franchise."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/story/thomas-cup-india-take-lead-over-canada-ayush-shetty-satwik-chirag-2901032-2026-04-24",
+      "headline": "Thomas Cup: Lakshya loses, but Ayush Shetty inspires India to 4-1 win vs Canada India secured a commanding 4-1 lead over Canada in their opening Thomas Cup tie, powered by wins from Ayush Shetty and both doubles pairs, including Satwiksairaj Rankireddy and Chirag Shetty. After Lakshya Sen's early loss, India bounced back strongly with dominant performances to seal the tie."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-india-selection-debate-cook-passport-remark-ipl-2026-2901000-2026-04-24",
@@ -354,27 +374,27 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-rcb-vs-gt-rajat-patidar-aggressive-cricket-mo-bobat-2900816-2026-04-24",
-      "headline": "Patidar has stuck to team's line of thinking: Mo Bobat on RCB's aggressive cricket IPL 2026: RCB are doubling down on their ultra-aggressive identity ahead of a key clash with Gujarat Titans, with Mo Bobat backing Rajat Patidar's calm leadership at the heart of it. As questions linger over Chinnaswamy's shifting pitches, Bobat makes it clear the franchise is focused on control within chaos, not conditions."
+      "headline": "Patidar has stuck to team's line of thinking: Mo Bobat on RCB's aggressive cricketIPL 2026: RCB are doubling down on their ultra-aggressive identity ahead of a key clash with Gujarat Titans, with Mo Bobat backing Rajat Patidar's calm leadership at the heart of it. As questions linger over Chinnaswamy's shifting pitches, Bobat makes it clear the franchise is focused on control within chaos, not conditions."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-mi-vs-csk-akeal-hosein-jadeja-like-performance-old-tweet-2900774-2026-04-24",
-      "headline": "Called it? Akeal Hosein's Jadeja-like performance resurfaces old tweet IPL 2026: Akeal Hosein's four-wicket haul for CSK against MI at the Wankhede brought back an old tweet where he had expressed admiration for Ravindra Jadeja, drawing striking comparisons. His powerplay impact and all-round consistency once again underlined his abilities as a match-winner."
+      "headline": "Called it? Akeal Hosein's Jadeja-like performance resurfaces old tweetIPL 2026: Akeal Hosein's four-wicket haul for CSK against MI at the Wankhede brought back an old tweet where he had expressed admiration for Ravindra Jadeja, drawing striking comparisons. His powerplay impact and all-round consistency once again underlined his abilities as a match-winner."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-mi-vs-csk-shashi-tharoor-poem-sanju-samson-2900768-2026-04-24",
-      "headline": "A poem for Sanju Samson: Shashi Tharoor celebrates CSK star's century in verse MI vs CSK, IPL 2026: Shashi Tharoor, a long-time admirer of Sanju Samson, penned a poem after the Chennai Super Kings batter's match-winning hundred against Mumbai Indians on Thursday."
+      "headline": "A poem for Sanju Samson: Shashi Tharoor celebrates CSK star's century in verseMI vs CSK, IPL 2026: Shashi Tharoor, a long-time admirer of Sanju Samson, penned a poem after the Chennai Super Kings batter's match-winning hundred against Mumbai Indians on Thursday."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-rcb-vs-gt-preview-virat-kohli-shubman-gill-chinnaswamy-2900571-2026-04-24",
-      "headline": "RCB look to reclaim fortress Chinnaswamy, prey on wounded Gujarat Titans IPL 2026: The Gujarat Titans face Royal Challengers Bengaluru at the M. Chinnaswamy Stadium in a high-stakes clash between Shubman Gill's side with struggling middle order and Rajat Patidar's side with vulnerable death bowling. With the head-to-head record at this venue favoring the Titans, both teams are seeking a crucial batting resurgence in their final home league game of the season."
+      "headline": "RCB look to reclaim fortress Chinnaswamy, prey on wounded Gujarat TitansIPL 2026: The Gujarat Titans face Royal Challengers Bengaluru at the M. Chinnaswamy Stadium in a high-stakes clash between Shubman Gill's side with struggling middle order and Rajat Patidar's side with vulnerable death bowling. With the head-to-head record at this venue favoring the Titans, both teams are seeking a crucial batting resurgence in their final home league game of the season."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/csk-vs-mi-ipl-2026-chennai-super-kings-record-win-mumbai-indians-stats-2900719-2026-04-24",
-      "headline": "Mumbai's El Clasico nightmare, Chennai's delight at Wankhede: In Stats IPL 2026, MI vs CSK: Chennai Super Kings dominated the El Clasico on Thursday, beating Mumbai Indians by 103 runs at the Wankhede Stadium. Sanju Samson starred with an unbeaten 101, while Akeal Hosein picked up four wickets to help restrict the home side."
+      "headline": "Mumbai's El Clasico nightmare, Chennai's delight at Wankhede: In StatsIPL 2026, MI vs CSK: Chennai Super Kings dominated the El Clasico on Thursday, beating Mumbai Indians by 103 runs at the Wankhede Stadium. Sanju Samson starred with an unbeaten 101, while Akeal Hosein picked up four wickets to help restrict the home side."
     },
     {
       "sentiment": "positive",
@@ -450,31 +470,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/mohammad-amir-faheem-ashraf-heated-exchange-psl-2026-karachi-2900564-2026-04-23",
       "headline": "Tempers flare in PSL as Mohammad Amir, Faheem Ashraf trade heated words in ugly spatTempers flared in the Pakistan Super League clash as Mohammad Amir and Faheem Ashraf engaged in a heated on-field exchange after a key dismissal. Amir's fiery send-off triggered Ashraf's reaction, leading to a brief confrontation before players intervened."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/mohammad-nawaz-doping-case-icc-response-pcb-t20-world-cup-2900573-2026-04-23",
-      "headline": "Pakistan's Nawaz breaks silence on doping allegations, submits stance to ICCExperienced Pakistan all-rounder Mohammad Nawaz has submitted his response to the International Cricket Council and the Pakistan Cricket Board after testing positive during the T20 World Cup, co-hosted by India and Sri Lanka earlier this year, insisting that he did not knowingly ingest any banned substance."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/lamine-yamal-fifa-world-cup-2026-hamstring-injury-availability-2900563-2026-04-23",
-      "headline": "Lamine Yamal's FIFA World Cup hopes still intact after hamstring injuryLamine Yamal's hopes to take part in the upcoming FIFA World Cup remain intact after FC Barcelona confirmed that he is expected to be available for the tournament."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/mi-vs-csk-ipl-2026-rohit-sharma-availaibility-sanjay-bangar-impact-substitute-2900551-2026-04-23",
-      "headline": "IPL: Rohit Sharma should be used as an impact substitute, says Sanjay BangarSanjay Bangar reckons MI can use Rohit Sharma as an impact sub vs CSK despite injury concerns, highlighting strong form, key player performances, and team balance ahead of the high-stakes clash."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/mi-vs-csk-live-score-ipl-2026-mumbai-indians-chennai-super-kings-match-today-2900526-2026-04-23",
-      "headline": "MI vs CSK Highlights: Mumbai suffer complete humiliation, lose by 103 runsMumbai (MI) vs Chennai (CSK) Highlights, IPL 2026: Mumbai suffer their worst defeat in the history of the tournament as Chennai complete an out and out demolition at the Wankhede."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-akash-madhwal-joins-csk-ayush-mhatre-injury-replacement-2900453-2026-04-23",
-      "headline": "IPL: Akash Madhwal joins Chennai Super Kings as injured Ayush Mhatre's replacementChennai Super Kings have signed Akash Madhwal as a replacement for Ayush Mhatre, who has been ruled out of the remainder of the Indian Premier League 2026 due to injury."
     }
   ],
   "education": [
