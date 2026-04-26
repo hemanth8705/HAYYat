@@ -103,6 +103,11 @@
   ],
   "entertainment": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/riteish-deshmukh-slams-distorted-nonsense-chhatrapati-shivaji-maharaj-godman-bageshwar-baba-raja-shivaji-2901918-2026-04-26",
+      "headline": "Riteish Deshmukh slams godman's 'distorted nonsense' about Raja Shivaji Actor Riteish Deshmukh reacted strongly to Godman Bageshwar Baba's recent remarks on Chhatrapati Shivaji Maharaj. The row comes as his film Raja Shivaji, based on the Maratha king's life, prepares for release on May 1."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/hollywood/story/selena-gomez-benny-blanco-to-divorce-heres-what-we-know-about-the-viral-claim-2901924-2026-04-26",
       "headline": "Selena Gomez-Benny Blanco to divorce? Here's what we know about the viral claim Viral posts have claimed Selena Gomez and Benny Blanco are heading for a divorce. Read on to know what led to the speculation about the couple, who got married on September 27, 2025."
@@ -191,18 +196,13 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/mohanlal-viral-moment-with-the-chainsmokers-cinema-meets-the-sound-of-music-2901545-2026-04-25",
       "headline": "Mohanlal's viral moment with The Chainsmokers: Cinema meets the sound of music Actor Mohanlal shared a picture with The Chainsmokers, after meeting the American DJ duo in Dallas. The unexpected crossover quickly caught the attention of fans online. The duo called the actor a friend."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/karan-johar-confirms-kabhi-alvida-naa-kehna-series-koffee-with-karan-season-9-2901540-2026-04-25",
-      "headline": "KJo's double bonanza for fans: Kabhi Alvida Na Kehna series, Koffee with Karan 9 Filmmaker and show host Karan Johar will adapt his 2006 film, Kabhi Alvida Naa Kehna, into a long-form series for a streaming platform. He also confirmed Koffee with Karan would return this year with Season 9."
     }
   ],
   "general news": [
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/trump-likely-target-in-white-house-dinner-shooting-says-blanche-2901897-2026-04-26",
-      "headline": "Gunman likely targeted Trump, officials; stayed in hotel hosting White House eventA gunman opened fire at a security checkpoint during the White House Correspondents' Association dinner in Washington. Investigators said President Donald Trump and other administration officials were likely the intended targets."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/shooter-fired-at-secret-service-agent-what-went-down-at-white-house-press-dinner-2901640-2026-04-26",
+      "headline": "Shots fired, guests duck, Vance whisked away: A blow-by-blow of press gala chaosA gunman opened fire outside the White House press dinner and was taken into custody. The breach triggered panic, evacuations and a sweeping security lockdown at the venue."
     },
     {
       "sentiment": "negative",
@@ -226,8 +226,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/law-news/story/pawan-khera-himanta-biswa-sarma-wife-defamation-supreme-court-gauhati-hc-denies-anticipatory-bail-2901907-2026-04-26",
-      "headline": "Pawan Khera vs Assam CM's wife in Supreme Court after HC denies pre-arrest bailCongress leader Pawan Khera has approached the Supreme Court after being denied anticipatory bail, seeking relief in a case linked to his remarks against Assam Chief Minister Himanta Biswa Sarma's wife."
+      "url": "https://www.indiatoday.in/world/us-news/story/trump-likely-target-in-white-house-dinner-shooting-says-blanche-2901897-2026-04-26",
+      "headline": "Gunman likely targeted Trump, officials; stayed in hotel hosting White House eventA gunman opened fire at a security checkpoint during the White House Correspondents' Association dinner in Washington. Investigators said President Donald Trump and other administration officials were likely the intended targets."
     },
     {
       "sentiment": "positive",
@@ -236,8 +236,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/lsg-vs-kkr-angkrish-raghuvanshi-dismissal-controversy-lucknow-2901929-2026-04-26",
-      "headline": "Angkrish Raghuvanshi run-out controversy: Was it out or not out?LSG vs KKR: Kolkata Knight Riders were left fuming after the TV umpire gave Angkrish Raghuvanshi run-out for obstructing the field. KKR coaches Shane Watson and Abhishek Nayar were seen arguing with the umpire after their batter was given out for obstructing the field."
+      "url": "https://www.indiatoday.in/india/law-news/story/pawan-khera-himanta-biswa-sarma-wife-defamation-supreme-court-gauhati-hc-denies-anticipatory-bail-2901907-2026-04-26",
+      "headline": "Pawan Khera vs Assam CM's wife in Supreme Court after HC denies pre-arrest bailCongress leader Pawan Khera has approached the Supreme Court after being denied anticipatory bail, seeking relief in a case linked to his remarks against Assam Chief Minister Himanta Biswa Sarma's wife."
     },
     {
       "sentiment": "positive",
@@ -250,19 +250,24 @@
       "headline": "Do terrorists live in Bengal? Kejriwal jabs BJP over central forces' deploymentCampaigning for the TMC candidate in Kolkata, Arvind Kejriwal questioned why the BJP had sent paramilitary forces to Bengal and framed the election as a battle to protect democracy and Bengali identity."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/us-president-donald-trump-white-house-event-shooting-assassination-bid-abraham-lincoln-comparison-2901884-2026-04-26",
-      "headline": "Trump on his 'dangerous profession' and an Abraham Lincoln comparisonA night of panic at the White House Correspondents' dinner was followed by a familiar Trump refrain. Back at the White House, he invoked Abraham Lincoln again, tying danger to presidential greatness."
-    },
-    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/science/story/india-weather-tomorrow-heatwave-forecast-delhi-north-rain-northeast-imd-27-april-2901926-2026-04-26",
       "headline": "Delhi to boil at 45\u00b0C on Monday, Northeast set for stormy soakingIndia braces for a sharply split weather day on Monday, April 27, with heatwave conditions roasting Delhi, Punjab, Haryana, Rajasthan, Bihar and Gujarat at 43 to 45 degrees Celsius."
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/lsg-vs-kkr-angkrish-raghuvanshi-dismissal-controversy-lucknow-2901929-2026-04-26",
+      "headline": "Angkrish Raghuvanshi run-out controversy: Was it out or not out?LSG vs KKR: Kolkata Knight Riders were left fuming after the TV umpire gave Angkrish Raghuvanshi run-out for obstructing the field. KKR coaches Shane Watson and Abhishek Nayar were seen arguing with the umpire after their batter was given out for obstructing the field."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/hollywood/story/selena-gomez-benny-blanco-to-divorce-heres-what-we-know-about-the-viral-claim-2901924-2026-04-26",
       "headline": "Selena Gomez-Benny Blanco to divorce? Here's what we know about the viral claimViral posts have claimed Selena Gomez and Benny Blanco are heading for a divorce. Read on to know what led to the speculation about the couple, who got married on September 27, 2025."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/us-president-donald-trump-white-house-event-shooting-assassination-bid-abraham-lincoln-comparison-2901884-2026-04-26",
+      "headline": "Trump on his 'dangerous profession' and an Abraham Lincoln comparisonA night of panic at the White House Correspondents' dinner was followed by a familiar Trump refrain. Back at the White House, he invoked Abraham Lincoln again, tying danger to presidential greatness."
     },
     {
       "sentiment": "negative",
@@ -276,13 +281,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/raghu-rai-photography-legacy-raj-chengappa-recalls-magic-instinct-and-presence-2901746-2026-04-26",
-      "headline": "Photojournalist Raghu Rai dies at 83: The eye that found a soul in every frameA tribute to Raghu Rai's meditative approach to photography, tracing his India Today years and how presence, instinct, and a keen eye turned ordinary moments into enduring images, as recalled by a colleague who worked closely with him."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sunday-special/story/india-running-events-why-runners-spend-rs-50000-on-marathons-5-10-km-races-corporate-lifestyle-2901533-2026-04-26",
-      "headline": "Why Indians are spending up to Rs 50,000 to run on JUST ONE DAYThousands of runners are spending heavily on travelling and participating in marathons in India like the TCS World 10K Bengaluru, and Wipro Bengaluru Marathon. Marathons have mushroomed and the number of participants has grown manifold. A simple sport like running has become a part of corporate India's fitness ritual."
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-robin-singh-bhojpuri-commentator-bihar-cricket-vaibhav-sooryavanshi-sakib-2901702-2026-04-26",
+      "headline": "Meet Robin Singh, the Bhojpuri commentator who is giving Bihar cricket its voiceFrom dusty fields to floodlit stadiums, Bihar's cricketing voice is finally being heard. Robin Singh, a coach-turned Bhojpuri commentator, who first built cricketers in silence and now tells their stories to millions."
     },
     {
       "sentiment": "positive",
@@ -296,18 +296,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/rain-coming-multiple-western-disturbances-to-hit-india-break-intense-heat-cycle-2901712-2026-04-26",
-      "headline": "Rain alert: Multiple western disturbances to hit India. Here's whenBack-to-back western disturbances are expected to bring dust storms, thunderstorms and rain across north India over the next few days. The change could push temperatures below 42\u00b0C in some areas, while also causing localised disruption."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/trending-news/story/man-stays-seated-eats-as-gunshot-scare-sparks-chaos-at-white-house-dinner-memes-follow-2901733-2026-04-26",
       "headline": "Man stays seated, eats as gunshot scare sparks chaos at White House dinnerA viral video from the White House Correspondents' Dinner shows a man continuing to eat as reports of gunshots sparked panic nearby."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/assembly/story/west-bengal-election-modi-attacks-tmc-maa-mati-manush-slogan-mamata-banerjee-2901825-2026-04-26",
-      "headline": "Maa crying, mati given to infiltrators, manush fled: PM shreds TMC in BengalAt an election rally in North 24 Parganas, PM Modi accused the TMC of abandoning its founding slogan and failing Bengal. He said the first-phase turnout had dented the ruling party's confidence."
+      "url": "https://www.indiatoday.in/sunday-special/story/india-running-events-why-runners-spend-rs-50000-on-marathons-5-10-km-races-corporate-lifestyle-2901533-2026-04-26",
+      "headline": "Why Indians are spending up to Rs 50,000 to run on JUST ONE DAYThousands of runners are spending heavily on travelling and participating in marathons in India like the TCS World 10K Bengaluru, and Wipro Bengaluru Marathon. Marathons have mushroomed and the number of participants has grown manifold. A simple sport like running has become a part of corporate India's fitness ritual."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/rain-coming-multiple-western-disturbances-to-hit-india-break-intense-heat-cycle-2901712-2026-04-26",
+      "headline": "Rain alert: Multiple western disturbances to hit India. Here's whenBack-to-back western disturbances are expected to bring dust storms, thunderstorms and rain across north India over the next few days. The change could push temperatures below 42\u00b0C in some areas, while also causing localised disruption."
     },
     {
       "sentiment": "positive",
@@ -316,11 +316,26 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/iran-war-us-israel-lebanon-donald-trump-shehbaz-sharif-abbas-aragchi-islamabad-steve-witkoff-jared-kushner-regional-instability-ceasefire-fragile-ceasefire-tehran-2901591-2026-04-26",
-      "headline": "Live: Iran delegation arrives in Islamabad amid renewed peace pushUS-Iran War Live: US President Donald Trump has called off a planned visit by American officials to Pakistan, effectively halting a second round of indirect negotiations with Iran. Speaking to Fox News, Trump dismissed the long journey, arguing that an 18-hour trip was unnecessary given what he described as the United States' strong negotiating position. He stated that his team had been preparing to depart, but he intervened, saying the journey would be unproductive. According to Trump, Washington holds decisive leverage and sees no reason to engage in lengthy discussions abroad when Tehran could initiate contact instead. The cancelled trip was expected to include envoy Steve Witkoff and Trump's son-in-law Jared Kushner, who were scheduled to meet Iranian representatives in Islamabad. The development came shortly after Iranian Foreign Minister Abbas Aragchi concluded meetings with Pakistani leaders, including Prime Minister Shehbaz Sharif. Iran has maintained it will reject what it calls excessive US demands and remains wary following past negotiations and subsequent military tensions. Although a fragile ceasefire currently exists, regional instability persists, particularly around energy supplies and disruptions linked to the strategically vital Strait of Hormuz. Catch all the live updates at indiatoday.in."
+      "url": "https://www.indiatoday.in/elections/assembly/story/west-bengal-election-modi-attacks-tmc-maa-mati-manush-slogan-mamata-banerjee-2901825-2026-04-26",
+      "headline": "Maa crying, mati given to infiltrators, manush fled: PM shreds TMC in BengalAt an election rally in North 24 Parganas, PM Modi accused the TMC of abandoning its founding slogan and failing Bengal. He said the first-phase turnout had dented the ruling party's confidence."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/deepti-sharma-india-beat-south-africa-fourth-womens-t20i-comeback-2901950-2026-04-26",
+      "headline": "Self-belief, small tweaks: How Deepti Sharma bounced back to silence critics SAW vs INDW, 4th T20I: Deepti Sharma bounced back to form and silenced her critics, finishing with figures of 4-0-19-5 to help India beat South Africa by 14 runs on Saturday in Johannesburg."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ms-dhoni-new-injury-ipl-2026-stephen-fleming-chennai-super-kings-2901947-2026-04-26",
+      "headline": "MS Dhoni injured again? CSK head coach explains why he did not play vs GT IPL 2026: Stephen Fleming highlighted that MS Dhoni's calf injury resurfaced during their warm-up game. CSK are looking to play it safe so that the injury does not rule him out of the season."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/gt-vs-csk-match-report-chennai-pitch-ipl-2901943-2026-04-26",
+      "headline": "Unpredictable Chepauk pitch digs CSK's grave in Chennai Chennai Super Kings faltered at home against Gujarat Titans in a day-game on Sunday, April 26. An unpredictable pitch turned out to be the downfall for CSK, who simply did not score enough runs against Shubman Gill's Gujarat."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/csk-vs-gt-chennai-super-kings-fans-ipl-2026-chepauk-2901934-2026-04-26",
@@ -339,7 +354,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/lsg-vs-kkr-live-score-ipl-2026-lucknow-super-giants-kolkata-knight-riders-match-today-2901892-2026-04-26",
-      "headline": "LSG vs KKR Live: Rinku Singh fights alone after Mohsin Khan takes 5-wicket haul Lucknow (LSG) vs Kolkata (KKR) Live Score, IPL 2026: KKR (100/7 in 16 ovs), Mohsin Khan has taken his maiden five-wicket haul in the tournament, putting the Lucknow Super Giants on top against the Kolkata Knight Riders."
+      "headline": "LSG vs KKR Live: Pressure builds on Pant, Markram as required rate climbs past 9 Lucknow (LSG) vs Kolkata (KKR) Live Score, IPL 2026: LSG (32/1 in 5.4 ovs), chasing 156. Rishabh Pant and Aiden Markram have steadied the ship after Lucknow Super Giants lost the early wicket of Mitchell Marsh."
     },
     {
       "sentiment": "positive",
@@ -364,17 +379,17 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ishowspeed-virat-kohli-babar-azam-trinidad-cricket-video-2901813-2026-04-26",
-      "headline": "Ishowspeed sends shoutout to Virat Kohli, trolls Babar Azam in viral video YouTuber IShowSpeed went viral after praising Virat Kohli and taking a playful swipe at Babar Azam while playing cricket in Trinidad during his latest trip. Speed has been known to be an ardent fan of Kohli."
+      "headline": "Ishowspeed sends shoutout to Virat Kohli, trolls Babar Azam in viral videoYouTuber IShowSpeed went viral after praising Virat Kohli and taking a playful swipe at Babar Azam while playing cricket in Trinidad during his latest trip. Speed has been known to be an ardent fan of Kohli."
     },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/cricket/story/ms-dhoni-ipl-2026-absence-csk-vs-gt-chepauk-chennai-2901814-2026-04-26",
-      "headline": "Why is MS Dhoni not playing? CSK fans enraged as Thala misses 8th IPL 2026 game MS Dhoni missed his eighth game of IPL 2026 as Chennai Super Kings faced Gujarat Titans at Chepauk. The lack of any clear update from the franchise or captain Ruturaj Gaikwad fuelled fan anger and retirement speculation."
+      "headline": "Why is MS Dhoni not playing? CSK fans enraged as Thala misses 8th IPL 2026 gameMS Dhoni missed his eighth game of IPL 2026 as Chennai Super Kings faced Gujarat Titans at Chepauk. The lack of any clear update from the franchise or captain Ruturaj Gaikwad fuelled fan anger and retirement speculation."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-dropped-catches-fielding-errors-dc-vs-pbks-fatigue-karun-nair-2901756-2026-04-26",
-      "headline": "A dangerous virus that doesn't catch spreads in IPL 2026 IPL 2026: The catching efficiency in the Indian Premier League has consistently gone down since 2020. It seems to have hit rock bottom in IPL 2026 where, every single day, several important chances are going down every single game. The question is, in the age of hyper-athleticism, why are so many catches being dropped in this high-profile tournament?"
+      "headline": "A dangerous virus that doesn't catch spreads in IPL 2026IPL 2026: The catching efficiency in the Indian Premier League has consistently gone down since 2020. It seems to have hit rock bottom in IPL 2026 where, every single day, several important chances are going down every single game. The question is, in the age of hyper-athleticism, why are so many catches being dropped in this high-profile tournament?"
     },
     {
       "sentiment": "positive",
@@ -455,21 +470,6 @@
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/cricket/story/deepti-sharma-india-beat-south-africa-in-fourth-womens-t20i-johannesburg-2901594-2026-04-26",
       "headline": "Deepti Sharma redeems herself, saves India from T20I series whitewash vs South AfricaSAW vs INDW, 4th T20I: Deepti Sharma was under scrutiny for her form, but the all-rounder responded in style as India beat South Africa by 14 runs on Saturday at the Wanderers in Johannesburg."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/italy-rejects-donald-trump-idea-replace-iran-fifa-world-cup-2901587-2026-04-25",
-      "headline": "Trump envoy wants Italy to replace Iran in FIFA World Cup. Country says nopeDonald Trump's envoy for global relations, Paolo Zampolli, suggested that Italy should replace Iran at this year's FIFA World Cup, but the idea was swiftly rejected by Italian officials, who insisted that qualification must be earned on the pitch and not through political influence."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/rr-vs-srh-ipl-2026-abhishek-sharma-ishan-kishan-vaibhav-sooryavanshi-jaipur-welcome-2901583-2026-04-25",
-      "headline": "Sooryavanshi storm in vain as Abhishek, Ishan leave RR parched in JaipurRR vs SRH, IPL 2026: Vaibhav Sooryavanshi's stunning second IPL ton lit up Jaipur, but SRH spoiled the 15-year-old's big night as Abhishek Sharma and Ishan Kishan powered a ruthless chase for Sunrisers Hyderabad."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/badminton/story/badminton-rule-change-new-point-system-bwf-thomas-cup-2901582-2026-04-25",
-      "headline": "Biggest rule change in badminton history: BWF approves new scoring systemThe Badminton World Federation has approved a major rule change, replacing the 3x21 format with a 3x15 system from January 2027. While BWF says it will boost player welfare and excitement, Saina Nehwal has cautioned against altering the sport's core character."
     }
   ],
   "education": [
