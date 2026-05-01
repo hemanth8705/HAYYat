@@ -1,6 +1,16 @@
 {
   "business": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/story/fuel-prices-may-go-up-by-rs-4-5litre-lpg-price-by-rs-40-50cylinder-decision-likely-soon-govt-sources-2904423-2026-05-01",
+      "headline": "Fuel prices may go up by Rs 4-5/litre, LPG cost by Rs 40-50/cylinder: SourcesPetrol, diesel prices may rise by Rs 4\u20135 per litre and LPG by Rs 40\u201350 per cylinder, following a sharp jump in global crude oil prices driven by West Asia war."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/personal-finance/story/will-your-minimum-pension-rise-from-rs-1000-to-rs-7500-find-out-who-benefits-2904373-2026-05-01",
+      "headline": "Will your minimum pension rise from Rs 1,000 to Rs 7,500? Find out who benefitsPensioners across the country may soon see a shift in their monthly income if the proposed changes go through. Here's what we know so far and who could benefit."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/personal-finance/story/8th-pay-commission-to-visit-hyderabad-srinagar-ladakh-what-does-this-mean-2904280-2026-05-01",
       "headline": "8th Pay Commission to visit Hyderabad, Srinagar, Ladakh: What does this mean?The 8th Pay Commission is taking its discussions beyond Delhi, with visits planned to Hyderabad, Srinagar and Ladakh. But what does this outreach mean for government employees and pensioners awaiting revisions?"
@@ -89,19 +99,59 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/personal-finance/story/big-epfo-update-minimum-pension-may-rise-75-times-atm-withdrawals-soon-2903329-2026-04-30",
       "headline": "Big EPFO update: Minimum pension may rise 7.5 times, ATM withdrawals soonThe government is mulling a sharp increase in the minimum pension under the Employees' Pension Scheme (EPS-95), say sources."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/from-tds-mismatches-to-capital-gains-errors-3-risks-under-income-tax-act-2025-2903622-2026-04-30",
-      "headline": "From TDS mismatches to capital gains errors: 3 risks under Income Tax Act 2025The Income Tax Act, 2025 is now in force, and for many companies, the transition seems smooth so far. But could small gaps like TDS mismatches and capital gains errors turn into bigger compliance issues?"
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/story/rupee-record-low-against-us-dollar-as-crude-oil-surges-and-fed-signals-weigh-2903602-2026-04-30",
-      "headline": "Rupee sinks to record low as oil spike and Fed stance pile on pressureThe rupee slipped to a record low against the US dollar as crude oil prices surged and the Federal Reserve stayed hawkish. The move underlines pressure from India's rising import bill, firmer dollar demand and tighter global financial conditions."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/hrithik-roshan-revisits-2021-poem-for-son-hridaan-on-18th-birthday-2904419-2026-05-01",
+      "headline": "Hrithik Roshan's birthday poem for son Hridaan is love wrapped in emotion Hrithik Roshan and Sussanne Khan shared special posts as their son Hridaan turned 18. Hrithik revived a 2021 poem that described his emotions as a proud father."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/swapped-review-netflix-animation-michael-b-jordan-body-swap-premise-2904392-2026-05-01",
+      "headline": "Swapped review: Netflix's animated film is lost in safe storytellingRelease Date:Fri May 01, 2026 Netflix's animated film Swapped follows Olly and Ivy after a magical plant forces them into each other's bodies. The film pairs handsome visuals and committed voice work with a body-swap story that stays resolutely safe."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/ram-charans-peddi-finally-locks-a-release-date-to-hit-theatres-in-june-2904385-2026-05-01",
+      "headline": "Ram Charan's Peddi finally locks a release date in June. Read details here The makers of Peddi have announced June 2026 as the film's release window. Directed by Buchi Babu Sana, the film is headlined by Ram Charan and stars Janhvi Kapoor opposite him."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/glory-review-netflix-boxing-drama-family-trauma-pulkit-samrat-divyenndu-suvinder-vicky-2904340-2026-05-01",
+      "headline": "Glory review: A sports thriller that is ambitious, but not quite a knockoutRelease Date:Fri May 01, 2026 Glory, now streaming on Netflix, is a boxing drama that looks beyond the ring to explore family, ambition and inherited pressure. It blends strong performances with a layered story, but it isn't flawless."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/oscar-winner-trophy-goes-missing-us-airport-security-flags-it-weapon-pavel-talankin-lufthansa-2904379-2026-05-01",
+      "headline": "Oscar winner's trophy goes missing after US airport security flags it as 'weapon' A Russian filmmaker's Oscar statuette was confiscated by US airport security, who deemed it a potential weapon, leading to its disappearance after being checked into Lufthansa's hold."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/sanjay-dutts-aakhri-sawal-trailer-stuck-with-censor-board-a-week-before-release-2904331-2026-05-01",
+      "headline": "Sanjay Dutt's Aakhri Sawal trailer stuck with censor board a week before release The trailer of Sanjay Dutt's Aakhri Sawal is awaiting clearance from the censor board despite repeated revisions. With the film due in cinemas on May 8, the delay has left the makers anxious."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/raja-shivaji-review-riteish-deshmukh-grand-ode-has-scale-needs-sharper-edges-2904315-2026-05-01",
+      "headline": "Raja Shivaji review: Riteish Deshmukh's grand ode has scale, needs sharper edgesRelease Date:Fri May 01, 2026 Riteish Deshmukh's Raja Shivaji stages Chhatrapati Shivaji Maharaj's rise with scale and conviction. The film draws strength from its action and performances, even as the screenplay lacks precision."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/allu-arjun-birthday-video-sneha-reddy-photo-dump-raaka-first-look-2904306-2026-05-01",
+      "headline": "Allu Arjun's wife Sneha Reddy gives peek into actor's 44th birthday in April dump Sneha Reddy shared glimpses from Allu Arjun's intimate 44th birthday celebration in an April photo dump, pairing it with personal family moments that have delighted fans."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/ajith-kumar-turns-55-vivek-oberoi-recalls-touching-vivegam-memory-with-his-anna-2904288-2026-05-01",
+      "headline": "Ajith Kumar turns 55: Vivek Oberoi recalls touching Vivegam memory with his 'anna' On Ajith Kumar's 55th birthday, Vivek Oberoi recalled his warmth on the Vivegam set in Bulgaria, while Adhik Ravichandran shared an unseen Good Bad Ugly picture."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/vaibhav-gupta-dhurandhar-2-song-mann-atkeya-manifested-singing-for-ranveer-singh-2904282-2026-05-01",
+      "headline": "Vaibhav Gupta on Dhurandhar 2's Mann Atkeya: Manifested singing for Ranveer Singer Vaibhav Gupta, in an exclusive interview, talked about how he manifested his dream of singing for actor Ranveer Singh. He also recalled meeting the actor for the first time and shared how he landed the opportunity to sing Dhurandhar 2 song Mann Atkeya."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/ashutosh-gowariker-appointed-iffi-57-festival-director-goa-2904254-2026-05-01",
@@ -146,73 +196,18 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/what-if-i-die-aamir-khan-fears-plane-crash-always-writes-note-to-cousin-mansoor-2904224-2026-05-01",
       "headline": "What if I die?: Aamir Khan fears plane crash, always writes note to cousin Mansoor Aamir Khan said he writes a note to cousin Mansoor Khan before flights once a film reaches final post-production. The ritual reflects his complete faith in his cousin's instinct and role as a longtime creative support."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/ram-charan-wraps-peddi-shoot-rathnavelu-confirms-release-date-awaited-2904198-2026-05-01",
-      "headline": "Ram Charan completes Peddi shoot, cinematographer shares BTS pics Ram Charan has wrapped his portions for Peddi, with cinematographer Rathnavelu announcing the update on X. The film remains in post-production after a delay, and the makers have yet to reveal a new release date."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/raja-shivaji-x-review-riteish-deshmukh-earns-praise-salman-khan-cameo-steals-show-2904176-2026-05-01",
-      "headline": "Raja Shivaji X review: Riteish earns praise, Salman's cameo steals show The film Raja Shivaji opened in theatres on May 1 with largely positive reactions on X. Several X users praised Riteish Deshmukh's direction and performance, while Salman Khan's cameo became a major talking point."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/raja-shivaji-box-office-and-advance-booking-day-1-early-estimates-riteish-deshmukh-film-beats-sairat-up-for-biggest-marathi-opening-2904178-2026-05-01",
-      "headline": "Raja Shivaji box office: Riteish's film beats Sairat, up for biggest Marathi opening Riteish Deshmukh's Raja Shivaji opened with the biggest advance booking ever for a Marathi film. Its pre-release numbers have already overtaken key benchmarks and set up a strong first day."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/dhurandhar-2-the-revenge-box-office-collection-day-43-report-ranveer-singh-film-enters-its-last-ruling-weekend-2904151-2026-05-01",
-      "headline": "Dhurandhar 2 box office Day 43: Ranveer's film enters its last ruling weekend Ranveer Singh's Dhurandhar: The Revenge has completed 43 days in theatres and is closing in on Baahubali 2's worldwide total. Its sustained run and approaching the 50-day mark underline a rare post-pandemic box office feat for a Hindi film."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/story/park-dong-bin-death-south-korean-actor-juice-uncle-dies-at-56-2904134-2026-05-01",
-      "headline": "South Korean actor Park Dong-bin found dead at 56, probe underway South Korean actor Park Dong-bin died at 56. He was found unresponsive at a restaurant he was preparing to open in Pyeongtaek."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/abhijeet-bhattacharya-shah-rukh-khan-rift-ego-self-respect-no-apology-2904142-2026-05-01",
-      "headline": "SRK's couldn't even say sorry once: Singer Abhijeet blames actor's ego for fallout Abhijeet Bhattacharya has spoken again about his long-running fallout with Shah Rukh Khan. He said the rift was rooted in ego, self-respect, and the absence of an apology from the superstar."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/evelyn-sharma-tushaan-bhindi-confirm-separation-co-parent-children-2904139-2026-05-01",
-      "headline": "Actor Evelyn Sharma, husband Tushaan Bhindi split; to co-parent children Actor Evelyn Sharma and dental surgeon Tushaan Bhindi have decided to part ways. They say the split is amicable and that their focus remains on co-parenting their two children."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/salman-khans-superhero-film-with-raj-and-dk-see-when-hes-set-to-start-shoot-2904112-2026-05-01",
-      "headline": "Salman Khan's superhero film with Raj and DK: See when project is set to start Salman Khan teams up with directors Raj and DK for his first full-fledged superhero film. Although the makers are yet to finalise the title and female lead, read here when the film is set to start."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/salman-khan-raja-shivaji-cameo-goes-viral-jiva-mahala-2904109-2026-05-01",
-      "headline": "Salman Khan's cameo in Riteish Deshmukh's Raja Shivaji sparks online frenzy. Watch Salman Khan appears as Jiva Mahala in Riteish Deshmukh's Raja Shivaji, and his cameo has gone viral online. The brief sword-wielding sequence and standout dialogue have become an early talking point as the film opens in cinemas."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/reviews/story/ek-din-movie-review-sai-pallavi-junaid-khan-film-is-scenic-sweet-and-strangely-lifeless-2904111-2026-05-01",
-      "headline": "Ek Din review: Sai-Junaid's film is scenic, sweet and strangely lifelessRelease Date:Fri May 01, 2026 Ek Din review: Sai Pallavi and Junaid Khan's romantic film follows Dinesh and Meera through a one-day love story shaped by memory loss. The film's striking Japan backdrop cannot compensate for thin writing and a romance that never convinces."
     }
   ],
   "general news": [
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/bhagwant-mann-punjab-assembly-session-labour-day-inebriation-allegation-2904239-2026-05-01",
-      "headline": "Bhagwant Mann drunk in Assembly? Opposition seeks alcohol testTensions erupted in the Punjab Assembly on Labour Day as the Opposition accused Chief Minister Bhagwant Mann of attending the session under the influence of alcohol, with leaders like Pratap Singh Bajwa demanding alcohol and dope tests for all MLAs."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/assembly/story/west-bengal-election-tmc-mamata-banerjee-flags-evm-tampering-druing-transport-storage-eci-safeguards-protocols-2904167-2026-05-01",
-      "headline": "Mamata Banerjee raises EVM swap charge. Is that even possible?West Bengal CM Mamata Banerjee asked Trinamool Congress workers to keep a round-the-clock watch on EVM strongrooms in Kolkata after alleging a plot to swap machines during transit. Can EVMs in the strongrooms be swapped? What do the Election Commission protocols say?"
-    },
-    {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/himanta-sarma-illegal-bangladesh-migrants-push-back-dhaka-india-envoy-2904236-2026-05-01",
-      "headline": "Himanta Sarma's 'push back Bangladeshis at night' remark stirs row with DhakaHimanta Biswa Sarma's string of controversial remarks on illegal immigration from Bangladesh seems not to have gone down well with Dhaka. This week, Dhaka summoned the Indian envoy after Sarma remarked on 'pushing back' Bangladeshis, which went viral."
+      "url": "https://www.indiatoday.in/business/story/fuel-prices-may-go-up-by-rs-4-5litre-lpg-price-by-rs-40-50cylinder-decision-likely-soon-govt-sources-2904423-2026-05-01",
+      "headline": "Fuel prices may go up by Rs 4-5/litre, LPG cost by Rs 40-50/cylinder: SourcesPetrol, diesel prices may rise by Rs 4\u20135 per litre and LPG by Rs 40\u201350 per cylinder, following a sharp jump in global crude oil prices driven by West Asia war."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/elections/assembly/story/election-commission-to-hold-repoll-in-15-stations-in-bengals-diamond-harbour-and-magrahat-paschim-tomorrow-2904407-2026-05-01",
+      "headline": "Repolling in 15 Bengal booths tomorrow; decision on Falta polling stations awaitedRepolling will be held on Saturday at 15 polling stations across Diamond Harbour and Magrahat Paschim Assembly constituencies in South 24 Parganas district following complaints of EVM tampering. Polling will take place from 7 am to 6 pm."
     },
     {
       "sentiment": "negative",
@@ -221,23 +216,28 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/womans-body-found-clutching-4-year-old-son-after-boat-sinks-in-madhya-pradeshs-jabalpur-2904082-2026-05-01",
+      "headline": "Jabalpur tragedy: Woman and son tied to same life jacket, minister breaks downRescuers at Jabalpur boat tragedy site recovered the bodies of a mother and her young son, still locked in their final embrace."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/reviews/story/patriot-review-mammootty-is-invincible-mohanlal-fahadh-ably-support-spy-drama-2904255-2026-05-01",
       "headline": "Patriot review: Mammootty is invincible, Mohanlal-Fahadh Faasil boost spy dramaRelease Date:Fri May 01, 2026Patriot movie review: Director Mahesh Narayanan's Patriot, starring Mammootty, Mohanlal and Fahadh Faasil, is a surveillance thriller that exposes the perils of spyware installed in civilians' tech devices. With intelligent writing and a grounded vision, it is spy cinema done right \u2014 minor shortcomings and all."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/assembly/story/mamata-banerjee-west-bengal-evm-strongroom-row-ec-says-kolkata-tampering-claim-false-2904090-2026-05-01",
-      "headline": "Blow-by-blow account: How TMC dharna over 'EVM manipulation' ended in anti-climaxA late-night row erupted over alleged EVM tampering after the Trinamool Congress claimed suspicious movement at a Kolkata strongroom. Election officials said the activity was part of routine postal ballot segregation even as as Mamata Banerjee asked party workers to maintain round-the-clock vigil outside strongrooms."
+      "url": "https://www.indiatoday.in/sports/badminton/story/india-beat-chinese-taipei-badminton-quarterfinals-thomas-cup-2026-2904397-2026-05-01",
+      "headline": "Lakshya Sen, Ayush Shetty star as India crush Chinese Taipei to reach semisThomas Cup 2026: India booked their place in the semifinals of the tournament with a dominant 3\u20130 victory over Chinese Taipei. Lakshya Sen and Ayush Shetty secured wins in their singles matches, while the doubles pair of Satwiksairaj Rankireddy and Chirag Shetty triumphed in their match to power India into the top four."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/bhagwant-mann-punjab-assembly-session-labour-day-inebriation-allegation-2904239-2026-05-01",
+      "headline": "Punjab Speaker rejects Opposition's alcohol test demand on Bhagwant Mann; CM reactsThe Punjab Assembly descended into chaos after Opposition MLAs claimed that Chief Minister Bhagwant Mann attended the special one-day Labour Day session in the House under the influence of alcohol. The Congress staged a walkout from the House as the Speaker rejected the Opposition's demand for an alcohol test for Mann."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/education-today/story/cbse-parenting-calendar-2026-27-debate-on-schools-guiding-parents-2903650-2026-04-30",
       "headline": "Papa don't preach: CBSE's parenting guide raises concerns about overreachCBSE may call it a partnership, but for many parents, this feels like something new. A system that doesn't just teach children, but quietly begins to teach parents how to raise them."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/unemployed-indian-man-iraganaboyina-chandu-suicide-chicago-debt-ridden-family-nara-lokesh-ram-mohan-naidu-andhra-pradesh-2904218-2026-05-01",
-      "headline": "Indian man, stressed over unemployment and father's debt, dies by suicide in USIraganaboyina Chandu, from Kurnool, completed his master's in Chicago and struggled to find a job. Prolonged unemployment caused stress, worsened by concerns about his family's financial burden and his father's work."
     },
     {
       "sentiment": "positive",
@@ -251,18 +251,58 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/jpmorgan-lawsuit-chirayu-rana-lorna-hajdini-probe-no-evidence-2904108-2026-05-01",
-      "headline": "Sex harassment claims against JPMorgan exec fabricated by staffer? Report adds twistA former JPMorgan employee identified as Chirayu Rana has accused executive director Lorna Hajdini of sexual abuse in a lawsuit, while the bank says its internal inquiry found no evidence. The dispute has widened into claims of retaliation, with the case drawing scrutiny because the complainant and executive worked as colleagues rather than in a direct reporting line."
+      "url": "https://www.indiatoday.in/elections/assembly/story/west-bengal-election-tmc-mamata-banerjee-flags-evm-tampering-druing-transport-storage-eci-safeguards-protocols-2904167-2026-05-01",
+      "headline": "Mamata Banerjee raises EVM swap charge. Is that even possible?West Bengal CM Mamata Banerjee asked Trinamool Congress workers to keep a round-the-clock watch on EVM strongrooms in Kolkata after alleging a plot to swap machines during transit. Can EVMs in the strongrooms be swapped? What do the Election Commission protocols say?"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/womans-body-found-clutching-4-year-old-son-after-boat-sinks-in-madhya-pradeshs-jabalpur-2904082-2026-05-01",
-      "headline": "Jabalpur tragedy: Woman and son tied to same life jacket, minister breaks downRescuers at Jabalpur boat tragedy site recovered the bodies of a mother and her young son, still locked in their final embrace."
+      "url": "https://www.indiatoday.in/india/story/unemployed-indian-man-iraganaboyina-chandu-suicide-chicago-debt-ridden-family-nara-lokesh-ram-mohan-naidu-andhra-pradesh-2904218-2026-05-01",
+      "headline": "Indian man, stressed over unemployment and father's debt, dies by suicide in USIraganaboyina Chandu, from Kurnool, completed his master's in Chicago and struggled to find a job. Prolonged unemployment caused stress, worsened by concerns about his family's financial burden and his father's work."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/jabalpur-dam-boat-tragedy-video-shows-tourists-moments-before-cruize-capsize-2904323-2026-05-01",
+      "headline": "Bad weather, no life jacket: Video shows tourists enjoying before Jabalpur tragedyA video shows tourists aboard the Bargi Dam cruise boat shortly before it overturned in strong winds in Jabalpur. The footage has sharpened focus on safety lapses as the death toll reached nine."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/india-gets-first-barrierless-multi-lane-free-flow-toll-how-does-it-work-2904210-2026-05-01",
+      "headline": "India gets first barrierless, multi-lane free-flow toll: How does it work?India has launched its first barrierless MLFF tolling system at Choryasi on NH-48 near Surat. The pilot is expected to cut travel time and test a nationwide shift to digital tolling."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/uk-court-convicts-james-holder-co-founder-superdry-clothing-brand-2022-rape-2904336-2026-05-01",
+      "headline": "UK court convicts co-founder of British clothing brand Superdry of 2022 rapeJames Holder denied the charges of rape and assault by penetration, claiming that he had consensual sex with the woman. The jury, while pronouncing the verdict, acquitted Holder of assault by penetration but found him guilty of rape."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/jpmorgan-sex-harassment-who-is-lorna-hajdini-chirayu-rana-lawsuit-2904117-2026-05-01",
+      "headline": "Who is Lorna Hajdini, the JPMorgan exec accused of using junior as 'sex slave'A former male employee has accused JPMorgan executive Lorna Hajdini of sexual abuse, coercion and racial harassment in a bombshell lawsuit. Hajdini has denied the allegations. However, this case has put spotlight on the 37-year-old Hajdini, who has been working with JPMorgan for 15 years."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/history-of-it/story/sikotar-mata-socotra-island-how-indian-mariners-gujaratis-kolis-worshipped-yemen-sakotar-2903948-2026-05-01",
-      "headline": "How Socotra island of Yemen became Sikotar Mata in GujaratAncient Indian mariners worshipped a Yemeni island and brought it back home as a deity. The island of Socotra, near East Africa, is believed to have manifested as Sikotar Mata, a sea goddess worshipped in Gujarat even today. Socotra was a vital refuge in the Arabian Sea for maritime traders, over 2,000 km from home."
+      "headline": "Why Gujaratis worship this Yemeni islandAncient Indian mariners worshipped a Yemeni island and brought it back home as a deity. The island of Socotra, near East Africa, is believed to have manifested as Sikotar Mata, a sea goddess worshipped in Gujarat even today. Socotra was a vital refuge in the Arabian Sea for maritime traders, over 2,000 km from home."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/himanta-sarma-illegal-bangladesh-migrants-push-back-dhaka-india-envoy-2904236-2026-05-01",
+      "headline": "Himanta Sarma's 'push back Bangladeshis at night' remark stirs row with DhakaHimanta Biswa Sarma's string of controversial remarks on illegal immigration from Bangladesh seems not to have gone down well with Dhaka. This week, Dhaka summoned the Indian envoy after Sarma remarked on 'pushing back' Bangladeshis, which went viral."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/health/story/infant-screen-time-autism-signs-aiims-no-screens-before-3-years-2904314-2026-05-01",
+      "headline": "Early screen time linked to autism signs by age 3, AIIMS study flagsAn AIIMS Delhi study has linked higher screen exposure in infancy with autism-related signs by age three. Doctors say the finding reinforces the need for limited screens and stronger human interaction in the first 1,000 days."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/india-climate-change-data-fact-check-warming-imd-global-trends-false-claims-copernicus-2904302-2026-05-01",
+      "headline": "India not warming as fast as the world claim goes viral. Is it true?In addressing climate change, a good place to start is by admitting that accurate information is essential. There's no treatment without a credible, accurate diagnosis."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/raja-shivaji-review-riteish-deshmukh-grand-ode-has-scale-needs-sharper-edges-2904315-2026-05-01",
+      "headline": "Raja Shivaji review: Riteish Deshmukh's grand ode has scale, needs sharper edgesRelease Date:Fri May 01, 2026Riteish Deshmukh's Raja Shivaji stages Chhatrapati Shivaji Maharaj's rise with scale and conviction. The film draws strength from its action and performances, even as the screenplay lacks precision."
     },
     {
       "sentiment": "positive",
@@ -271,56 +311,31 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/rich-dad-poor-dad-author-exposes-paks-oil-shock-vs-indias-remarkable-stability-2904040-2026-05-01",
-      "headline": "Rich Dad Poor Dad author exposes Pak's oil shock vs India's remarkable stabilityAcross the border, the picture looked very different. Despite the same global oil shock and crude prices climbing above $120 per barrel, petrol and diesel rates in India stayed largely unchanged across major cities."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/iran-us-talks-abbas-araghchi-ouster-pezeshkian-vahidi-rift-2904237-2026-05-01",
-      "headline": "Iran president pushes to sack Abbas Araghchi over IRGC tilt in US talks: ReportIran's leadership is facing sharp internal divisions as President Masoud Pezeshkian and Speaker Mohammad Bagher Ghalibaf push to remove Foreign Minister Abbas Araghchi, accusing him of sidelining the government and aligning with the Revolutionary Guards during US talks."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/amur-falcon-apapang-6000km-migration-somalia-manipur-tracking-somalia-zimbabwe-migration-conservation-2904214-2026-05-01",
-      "headline": "6,000 km in 6 days? Amur falcon begins daring flight back to IndiaThe tiny raptor is expected to fly nearly 6,000 km almost non-stop towards the forests along the India-Myanmar border in Manipur."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/khamenei-health-rumours-office-says-supreme-leader-fully-healthy-2904248-2026-05-01",
-      "headline": "Enemies spreading rumours, Mojtaba Khamenei healthy, overseeing affairs: IranWord of Mojtaba Khamenei's death was first floated in the second week of March when Donald Trump, in an interview with NBC News, said he did not even know if he was alive. This came after Khamenei did not make any public appearance following joint Israeli and US strikes that killed his father."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/assembly/story/tvk-office-fire-srirangam-vandalised-cctv-two-men-bike-site-attack-2904273-2026-05-01",
-      "headline": "TVK office set on fire in Tamil Nadu, CCTV shows 2 men getting off bike at siteTwo miscreants vandalised and set a TVK office on fire in Tamil Nadu's Srirangam ahead of vote counting for the Assembly polls on May 4. CCTV footage surfaced showing two men getting off a bike at the spot and later fleeing."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/wellness/story/is-gen-z-actually-healthier-than-millennials-2903782-2026-05-01",
-      "headline": "Is Gen Z actually healthier than Millennials?Experts say Gen Z is more health-aware than millennials were at the same age. They caution that rising stress, burnout and lifestyle risks may be undermining those gains."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/gaganyaan-mission/story/isro-reveals-gaganyaan-astronaut-training-details-whats-ready-whats-pending-2904225-2026-05-01",
-      "headline": "Isro finally reveals Gaganyaan astronaut training detailsIsro has outlined how Gaganyatris are being trained through mock-ups and virtual reality simulations for Gaganyaan. The update also shows wider mission readiness work across control, communication and tracking systems."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/nothing-oneplus-xiaomi-realme-phone-prices-increased-with-immediate-effect-check-new-prices-here-2904246-2026-05-01",
-      "headline": "Nothing, OnePlus, Xiaomi, Realme phone prices increased with immediate effectSmartphone prices in India have gone up from May 1, with Nothing, OnePlus, Realme and Xiaomi revising rates on several models. Updated prices are already visible on official brand websites. Here is the full list of new prices."
+      "url": "https://www.indiatoday.in/movies/hollywood/story/oscar-winner-trophy-goes-missing-us-airport-security-flags-it-weapon-pavel-talankin-lufthansa-2904379-2026-05-01",
+      "headline": "Oscar winner's trophy goes missing after US airport security flags it as 'weapon'A Russian filmmaker's Oscar statuette was confiscated by US airport security, who deemed it a potential weapon, leading to its disappearance after being checked into Lufthansa's hold."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/science/story/more-rain-coming-may-to-witness-above-normal-rainfall-confirms-imd-2904274-2026-05-01",
       "headline": "More rain coming: May to witness above normal rainfall, confirms IMDThe IMD has forecast above-normal rainfall across India in May 2026, with storms in several regions. The outlook may ease heat stress but raises concerns over flooding and crop damage."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/earning-rs-50000-a-month-the-right-way-to-spend-save-and-invest-2904216-2026-05-01",
-      "headline": "Earning Rs 50,000 a month? The right way to spend, save and investManaging money at Rs 50,000 a month isn't just about covering expenses, it's about making choices that shape your financial future. But are you allocating it in the right way?"
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-rs-ambrish-joins-sunrisers-hyderabad-shivam-mavi-injury-replacement-2904432-2026-05-01",
+      "headline": "Sunrisers Hyderabad rope in U19 star as injury replacement for Shivam Mavi IPL 2026: Sunrisers Hyderabad signed India U19 all-rounder RS Ambrish as Shivam Mavi's replacement, with the teenager becoming their latest injury-enforced addition this season."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/badminton/story/india-beat-chinese-taipei-badminton-quarterfinals-thomas-cup-2026-2904397-2026-05-01",
+      "headline": "Lakshya Sen, Ayush Shetty star as India crush Chinese Taipei to reach semis Thomas Cup 2026: India booked their place in the semifinals of the tournament with a dominant 3\u20130 victory over Chinese Taipei. Lakshya Sen and Ayush Shetty secured wins in their singles matches, while the doubles pair of Satwiksairaj Rankireddy and Chirag Shetty triumphed in their match to power India into the top four."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/rr-vs-dc-live-score-ipl-2026-rajasthan-royals-delhi-capitals-match-2904359-2026-05-01",
+      "headline": "RR vs DC Live: Rajasthan Royals to bat first, big changes for Delhi Capitals Rajasthan (RR) vs Delhi (DC) Live Score, IPL 2026: Rajasthan Royals won the toss and Riyan Parag has chosen to bat first against Delhi Capitals. Both teams have made quite a few changes to their playing XIs."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-heinrich-klaasen-warns-fan-over-filming-family-viral-video-2904221-2026-05-01",
@@ -339,7 +354,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/badminton/story/thomas-cup-live-score-india-vs-chinese-taipei-quarterfinals-score-lakshya-ayush-satwik-chirag-2904172-2026-05-01",
-      "headline": "India vs Chinese Taipei Live: Sat-Chi 20-12 Chiu-Wang in 3rd game, Indian duo loses second game Thomas Cup 2026 live, India vs Chinese Taipei: Satwik and Chirag lead the tie-breaker after dropping the second game 19-21. Earlier, Lakshya Sen completed a comeback to beat Chinese Taipei's Chou Tien Chen 18-21, 22-20, 21-17 to give India the lead 1-0 in the quarterfinals of the Thomas Cup."
+      "headline": "India vs Chinese Taipei Highlights: Ayush beats Lin Chun-Yi, India storm to semis Thomas Cup 2026 Highlights, India vs Chinese Taipei: Aysuh Shetty beats Lin Chun-Yi by 21-16, 21-17, and that seals India spot in the semi-finals. Previously, Satwik and Chirag gave India a 2-0 lead in the quarterfinals. They beat Chiu Hsiang Chieh and Wang Chi-Lin 23-21, 19-21, 21-12. Earlier, Lakshya Sen completed a comeback to beat Chinese Taipei's Chou Tien Chen 18-21, 22-20, 21-17."
     },
     {
       "sentiment": "positive",
@@ -364,17 +379,17 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/shubman-gill-instagram-post-rcb-gujarat-titans-virat-kohli-banter-2904096-2026-05-01",
-      "headline": "After CSK jibe, Shubman Gill makes play bold dig at RCB with Virat Kohli picture Shubman Gill followed Gujarat Titans' win over Royal Challengers Bengaluru with an Instagram post praising Jason Holder and appearing to needle RCB. The post extended the night's playful edge, which also featured banter with Virat Kohli before the two embraced after the match."
+      "headline": "After CSK jibe, Shubman Gill makes play bold dig at RCB with Virat Kohli pictureShubman Gill followed Gujarat Titans' win over Royal Challengers Bengaluru with an Instagram post praising Jason Holder and appearing to needle RCB. The post extended the night's playful edge, which also featured banter with Virat Kohli before the two embraced after the match."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/rr-vs-dc-ipl-2026-riyan-parag-vaping-controversy-mitchell-starc-return-jaipur-2904091-2026-05-01",
-      "headline": "RR vs DC Preview: Time for Riyan Parag to step up amidst myriad of controversies RR vs DC Preview: Riyan Parag faces mounting pressure in Jaipur as Rajasthan Royals seek stability, while Delhi Capitals arrive searching for inspiration, clarity and a much-needed spark."
+      "headline": "RR vs DC Preview: Time for Riyan Parag to step up amidst myriad of controversiesRR vs DC Preview: Riyan Parag faces mounting pressure in Jaipur as Rajasthan Royals seek stability, while Delhi Capitals arrive searching for inspiration, clarity and a much-needed spark."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-gt-vs-rcb-jason-holder-hardik-pandya-vikram-solanki-2904083-2026-05-01",
-      "headline": "How has Holder filled the Hardik Pandya void for GT? Vikram Solanki explains Jason Holder's all-round display against Royal Challengers Bengaluru powered Gujarat Titans' win and earned warm praise from Vikram Solanki. As Gujarat push for the playoffs, Holder provides balance, experience and communication to fill the gap left by Hardik Pandya's exit in 2024."
+      "headline": "How has Holder filled the Hardik Pandya void for GT? Vikram Solanki explainsJason Holder's all-round display against Royal Challengers Bengaluru powered Gujarat Titans' win and earned warm praise from Vikram Solanki. As Gujarat push for the playoffs, Holder provides balance, experience and communication to fill the gap left by Hardik Pandya's exit in 2024."
     },
     {
       "sentiment": "positive",
@@ -460,21 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-hardik-pandya-mumbai-indians-simon-doull-says-mi-should-release-captain-2903725-2026-04-30",
       "headline": "Release Hardik Pandya: Mumbai Indians told to reset after 3 mellow years in IPLSimon Doull has urged Mumbai Indians to consider releasing Hardik Pandya if they don't think he will be able to lead the team into the next cycle. Mumbai Indians have had a tough time in IPL 2026. They are rooted to the 9th spot with just two wins in eight games."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-riyan-parag-vape-visuals-womens-group-seeks-probe-bcci-2903722-2026-04-30",
-      "headline": "Fresh trouble for Riyan Parag? RR captain escapes ban, but women's group seeks probeA women's group has sought an inquiry into visuals purportedly showing Riyan Parag with a vape-like device during an IPL match. It says the incident could normalise a banned product among young viewers and wants accountability."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/riyan-parag-vaping-incident-ipl-fine-rajasthan-royals-punjab-kings-match-2903670-2026-04-30",
-      "headline": "Riyan Parag escapes ban for vaping during IPL match, fined by BCCIIPL 2026: The Board of Control for Cricket in India has fined Riyan Parag 25% of his match fee for vaping during an IPL match in Mullanpur, with the Rajasthan Royals captain escaping a stricter punishment."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/bengaluru-hailstorm-venkatesh-prasad-childlike-viral-video-2903666-2026-04-30",
-      "headline": "Watch: Venkatesh Prasad's child-like joy in Bengaluru hailstorm, tastes it tooFormer India cricketer Venkatesh Prasad stopped his car during Bengaluru's sudden hailstorm and shared a playful video online. The clip struck a chord as the rare spell cooled the city and briefly turned parts of it white."
     }
   ],
   "education": [
