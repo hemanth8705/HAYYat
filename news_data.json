@@ -1,6 +1,16 @@
 {
   "business": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/banking-risks-cyber-scam-digital-arrests-fraud-victims-experience-2904097-2026-05-01",
+      "headline": "Even the bank didn't help me: What victims face after reporting digital fraudFor part two of our series on Banking Risks in Digital India, I spoke to victims of digital fraud to understand what they experienced after being scammed. Their stories show how the aftermath can be just as distressing as the fraud itself."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/story/commercial-lpg-price-hike-crude-oil-hormuz-risks-govt-strategy-domestic-gas-cyliner-increase-2904107-2026-05-01",
+      "headline": "Commercial LPG up by nearly Rs 1,000: Why have prices increased?Commercial LPG cylinder prices have risen again as global oil tensions keep costs elevated. The move shields households for now but raises pressure on restaurants, hotels and small businesses."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/market/story/stock-market-closed-today-bse-nse-shut-on-may-1-for-maharashtra-day-2904073-2026-05-01",
       "headline": "Maharashtra Day on May 1: Is the stock market open or closed today?The BSE and NSE are closed on May 1 for Maharashtra Day across key trading segments. Commodity derivatives will reopen in the evening, while traders should account for settlement and liquidity effects."
@@ -8,7 +18,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/commercial-lpg-cylinder-price-surges-rs-993-from-today-no-change-in-domestic-rates-2904048-2026-05-01",
-      "headline": "Commercial, mini LPG prices hiked Rs 993 and Rs 261, no change in domestic ratesCommercial LPG cylinder prices have surged by Rs 993 to Rs 3,071.50 in Delhi, while domestic LPG, petrol, diesel, and kerosene rates remain unchanged to shield consumers."
+      "headline": "Commercial, mini LPG prices hiked by Rs 993 and Rs 261, no change in domestic ratesCommercial LPG cylinder prices have surged by Rs 993 to Rs 3,071.50 in Delhi, while domestic LPG, petrol, diesel, and kerosene rates remain unchanged to shield consumers."
     },
     {
       "sentiment": "positive",
@@ -89,19 +99,34 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/personal-finance/story/8th-pay-commission-update-has-the-last-date-been-extended-amid-employee-demands-2903415-2026-04-29",
       "headline": "8th Pay Commission update: Has the last date been extended amid employee demands?The Commission is holding a three-day consultation session from April 28 to April 30. During these meetings, representatives from various employee groups are discussing key issues related to pay, allowances and service conditions."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/story/oil-hits-115-prices-surge-to-highest-since-2022-amid-iran-tensions-2903349-2026-04-29",
-      "headline": "Oil hits $115: Prices surge to highest since 2022 amid Iran tensionsOngoing tensions around Iran and fears of supply disruptions are pushing crude prices to levels not seen in nearly two years."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/story/rajiv-bajaj-to-step-down-from-bajaj-finance-board-at-end-of-term-2903335-2026-04-29",
-      "headline": "Rajiv Bajaj to step down from Bajaj Finance board at end of termRajiv Bajaj's tenure as a non-executive director will conclude at the close of the company's upcoming annual general meeting, in line with regulatory requirements."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/evelyn-sharma-tushaan-bhindi-confirm-separation-co-parent-children-2904139-2026-05-01",
+      "headline": "Actor Evelyn Sharma, husband Tushaan Bhindi split; to co-parent children Actor Evelyn Sharma and dental surgeon Tushaan Bhindi have decided to part ways. They say the split is amicable, and their focus remains on co-parenting their two children."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/salman-khans-superhero-film-with-raj-and-dk-see-when-hes-set-to-start-shoot-2904112-2026-05-01",
+      "headline": "Salman Khan's superhero film with Raj and DK: See when he's set to start shoot Salman Khan is set to team up with Raj and DK for a superhero film planned to begin in October 2026. The film marks his first full-fledged superhero venture, while the makers are still finalising its female lead."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/salman-khan-raja-shivaji-cameo-goes-viral-jiva-mahala-2904109-2026-05-01",
+      "headline": "Salman Khan's cameo in Riteish Deshmukh's Raja Shivaji sparks online frenzy. Watch Salman Khan appears as Jiva Mahala in Riteish Deshmukh's Raja Shivaji, and his cameo has gone viral online. The brief sword-wielding sequence and standout dialogue have become an early talking point as the film opens in cinemas."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/reviews/story/ek-din-movie-review-sai-pallavi-junaid-khan-film-is-scenic-sweet-and-strangely-lifeless-2904111-2026-05-01",
+      "headline": "Ek Din review: Sai-Junaid's film is scenic, sweet and strangely lifelessRelease Date:Fri May 01, 2026 Ek Din review: Sai Pallavi and Junaid Khan's romantic film follows Dinesh and Meera through a one-day love story shaped by memory loss. The film's striking Japan backdrop cannot compensate for thin writing and a romance that never convinces."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/meryl-streep-matt-damon-celebrate-emily-blunt-stanley-tuccis-walk-of-fame-honour-2904068-2026-05-01",
+      "headline": "Meryl Streep, Matt Damon celebrate Emily Blunt, Stanley Tucci's Walk of Fame honour Emily Blunt and Stanley Tucci received stars on the Hollywood Walk of Fame on Thursday. Robert Downey Jr, Dwayne \"The Rock\" Johnson, Matt Damon and Meryl Streep also celebrated their enduring screen legacy."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/television/story/rajeev-khandelwal-career-tum-ho-naa-bollywood-tv-comeback-2903757-2026-05-01",
@@ -171,63 +196,38 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/pagglait-2-confirmed-sanya-malhotra-returns-shoot-to-begin-in-august-2903924-2026-04-30",
       "headline": "Pagglait 2 confirmed: Sanya Malhotra returns, shoot to begin in August Pagglait 2 has been greenlit, with Sanya Malhotra and director Umesh Bist returning. The sequel adds another follow-up title to Netflix India's slate."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/kartavya-release-date-saif-ali-khan-netflix-15-may-2903900-2026-04-30",
-      "headline": "Kartavya: SRK shares release date of his cop drama starring Saif Ali Khan. See date Saif Ali Khan's cop drama Kartavya is finally set to premiere on Netflix. Shah Rukh Khan shared the release date of the drama backed by his production house, Red Chillies Entertainment."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/kd-the-devil-x-twitter-review-mass-love-for-dhruva-sarja-fans-call-film-absolute-rampage-2903899-2026-04-30",
-      "headline": "KD The Devil X review: Mass love for Dhruva Sarja, fans call film absolute rampage KD: The Devil has opened to strong fan chatter on X and mixed critical reviews. The split response turns attention to its stronger second half, theatrical highs and uneven screenplay."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/nana-patekar-76-tricep-dips-video-leave-the-internet-impressed-2903873-2026-04-30",
-      "headline": "At 76, Nana Patekar's tricep dips leave the internet impressed A video of actor Nana Patekar doing tricep dips has gone viral on social media. Celebrities, including Shilpa Shetty and Badshah, have reacted to the clip on Instagram."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/maa-inti-bangaram-release-date-samantha-film-may-move-due-to-ipl-reports-2903790-2026-04-30",
-      "headline": "Samantha's Maa Inti Bangaram to skip May 15 release? Here's what we know Samantha's Maa Inti Bangaram may be postponed from its May 15 release amid IPL scheduling concerns. The reported June 4 plan has stirred fan curiosity, though the makers have not confirmed any change."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/sonali-kulkarni-shares-5-hour-traffic-nightmare-says-police-only-urged-patience-2903811-2026-04-30",
-      "headline": "Sonali Kulkarni shares 5-hour Mumbai traffic nightmare: This is scary Sonali Kulkarni said she was stranded for more than five hours in a traffic jam on Mumbai's Mankhurd bridge while travelling to Pune. Sharing a video from the spot, she called the situation scary and asked the police for an update."
     }
   ],
   "general news": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/congress-leader-pawan-khera-gets-pre-arrest-bail-in-defamation-case-filed-by-assam-cms-wife-2904144-2026-05-01",
+      "headline": "Pawan Khera gets pre-arrest bail in defamation case filed by Assam CM's wifeGranting relief to Congress leader Pawan Khera, the Supreme Court observed that the personal liberty of an individual, as enshrined under Article 21 of the Constitution, cannot be put in peril."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/elections/assembly/story/mamata-banerjee-west-bengal-evm-strongroom-row-ec-says-kolkata-tampering-claim-false-2904090-2026-05-01",
+      "headline": "Blow-by-blow account: How TMC dharna over 'EVM manipulation' ended in anti-climaxA late-night row erupted over alleged EVM tampering after the Trinamool Congress claimed suspicious movement at a Kolkata strongroom. Election officials said the activity was part of routine postal ballot segregation even as as Mamata Banerjee asked party workers to maintain round-the-clock vigil outside strongrooms."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/jpmorgan-lawsuit-chirayu-rana-lorna-hajdini-probe-no-evidence-2904108-2026-05-01",
+      "headline": "Sex harassment claims against JPMorgan exec fabricated by staffer? Report adds twistA former JPMorgan employee identified as Chirayu Rana has accused executive director Lorna Hajdini of sexual abuse in a lawsuit, while the bank says its internal inquiry found no evidence. The dispute has widened into claims of retaliation, with the case drawing scrutiny because the complainant and executive worked as colleagues rather than in a direct reporting line."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/womans-body-found-clutching-4-year-old-son-after-boat-sinks-in-madhya-pradeshs-jabalpur-2904082-2026-05-01",
-      "headline": "Woman found clutching 4-year-old son after Jabalpur boat tragedyRescuers at the site of the Jabalpur boat tragedy recovered the bodies of a mother and her young son, still locked in a final embrace."
+      "headline": "Jabalpur tragedy: Woman, son found tied to same life jacket, minister breaks downRescuers at Jabalpur boat tragedy site recovered the bodies of a mother and her young son, still locked in their final embrace."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/commercial-lpg-cylinder-price-surges-rs-993-from-today-no-change-in-domestic-rates-2904048-2026-05-01",
-      "headline": "Commercial, mini LPG prices hiked Rs 993 and Rs 261, no change in domestic ratesCommercial LPG cylinder prices have surged by Rs 993 to Rs 3,071.50 in Delhi, while domestic LPG, petrol, diesel, and kerosene rates remain unchanged to shield consumers."
+      "url": "https://www.indiatoday.in/education-today/story/cbse-parenting-calendar-2026-27-debate-on-schools-guiding-parents-2903650-2026-04-30",
+      "headline": "Superparent CBSE: Education Board takes on new role, wants to parent India's parentsCBSE may call it a partnership, but for many parents, this feels like something new. A system that doesn't just teach children, but quietly begins to teach parents how to raise them."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/story/will-fight-all-my-life-mamata-exits-bhabanipur-strongroom-after-three-hour-vigil-2904036-2026-05-01",
-      "headline": "Mamata Banerjee warns of 'life-and-death' fight if EVMs are tampered withMamata Banerjee visited the EVM strongroom at Sakhawat Memorial School after reports of alleged irregularities. Her visit followed Trinamool Congress protests over ballot handling and warnings against any tampering."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/jpmorgan-executive-lorna-hajdini-sued-sexual-abuse-drugged-indian-origin-employee-2903819-2026-04-30",
-      "headline": "Little brown boy: JPMorgan exec accused of drugging, sexually abusing stafferA former JPMorgan employee, who is an Asian, has sued executive director Lorna Hajdini, alleging sexual abuse, racial harassment and intimidation. The bank has denied the claims, saying no evidence against Hajdini was found after an internal probe."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/elections-in-india-2026-west-bengal-polls-kerala-polls-tamil-nadu-polls-exit-polls-communist-movement-left-parties-existence-2903634-2026-05-01",
-      "headline": "Where exactly is leftover of the Left in India?From ruling three states at a time to surviving in scattered pockets, India's Communist parties are facing an existential crisis. Exit polls suggest the Left front could lose Kerala, the only state it governs now. The question is not if the Left exists, but where it exists in India."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/us-news/story/white-house-correspondents-dinner-attack-video-allen-shooting-agent-trump-2904056-2026-05-01",
-      "headline": "White House event shooter seen storming security, opening fire in new CCTV footageSecurity camera footage released by Jeanine Pirro shows Cole Tomas Allen running through a checkpoint and shooting a federal agent at the Washington Hilton during the White House Correspondents' Association dinner."
+      "url": "https://www.indiatoday.in/world/story/jpmorgan-sex-harassment-who-is-lorna-hajdini-chirayu-rana-lawsuit-2904117-2026-05-01",
+      "headline": "Who is Lorna Hajdini, the JPMorgan exec accused of using junior as 'sex slave'A former male employee has accused JPMorgan executive Lorna Hajdini of sexual abuse, coercion and racial harassment in a bombshell lawsuit. Hajdini has denied the allegations. However, this case has put spotlight on the 37-year-old Hajdini, who has been working with JPMorgan for 15 years."
     },
     {
       "sentiment": "positive",
@@ -236,13 +236,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/assembly/story/west-bengal-exit-poll-result-2026-live-updates-poll-of-polls-when-where-to-watch-full-coverage-2903754-2026-04-30",
-      "headline": "Live: Losers tend to complain, BJP hits back at TMC over EVM tampering chargesWest Bengal Exit Polls Live Updates: A controversy has erupted over strongrooms after TMC alleged ballot tampering, citing a viral video, while the Election Commission denied wrongdoing, saying all EVMs and ballots are securely sealed and monitored."
+      "url": "https://www.indiatoday.in/world/story/rich-dad-poor-dad-author-exposes-paks-oil-shock-vs-indias-remarkable-stability-2904040-2026-05-01",
+      "headline": "Rich Dad Poor Dad author exposes Pak's oil shock vs India's remarkable stabilityAcross the border, the picture looked very different. Despite the same global oil shock and crude prices climbing above $120 per barrel, petrol and diesel rates in India stayed largely unchanged across major cities."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/history-of-it/story/sikotar-mata-socotra-island-how-indian-mariners-gujaratis-kolis-worshipped-yemen-sakotar-2903948-2026-05-01",
-      "headline": "Sikotar Mata: How ancient Indian mariners carried home a Yemeni island as a deityAncient Indian mariners worshipped a Yemeni island and brought it back home as a deity. The island of Socotra, near East Africa, is believed to have manifested as Sikotar Mata, a sea goddess worshipped in Gujarat even today. Socotra was a vital refuge in the Arabian Sea for maritime traders, over 2,000 km from home."
+      "headline": "How Socotra island of Yemen became Sikotar Mata in GujaratAncient Indian mariners worshipped a Yemeni island and brought it back home as a deity. The island of Socotra, near East Africa, is believed to have manifested as Sikotar Mata, a sea goddess worshipped in Gujarat even today. Socotra was a vital refuge in the Arabian Sea for maritime traders, over 2,000 km from home."
     },
     {
       "sentiment": "positive",
@@ -251,13 +251,63 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/assembly/story/west-bengal-elections-election-commission-war-room-tracks-booths-live-from-delhi-2904051-2026-05-01",
-      "headline": "Inside EC's Delhi war room: How CEC chief tracked Bengal vote hourlyThe Election Commission, led by Chief Election Commissioner Gyanesh Kumar, ran a real-time war room to monitor West Bengal polling through hourly reviews and live webcasts. Alerts triggered swift intervention on the ground, ensuring rapid response, preventing irregularities, and reinforcing the promise of free, fair, and intimidation-free elections across sensitive booths."
+      "url": "https://www.indiatoday.in/technology/news/story/remember-parag-agrawal-his-new-company-is-now-worth-rs-19020-crore-2903865-2026-04-30",
+      "headline": "Remember Parag Agrawal? His new company is now worth Rs 19,020 croreFormer Twitter (now X) CEO Parag Agrawal is back in the news. Parag who was fired by Elon Musk, soon after he bought Twitter in 2022, has raised $100 million for his new AI startup called Parallel Web Systems, taking its valuation to around Rs 19,020 crore."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/mike-johnson-us-not-at-war-with-iran-war-powers-deadline-donald-trump-west-asia-2904059-2026-05-01",
-      "headline": "We're not at war with Iran, US House speaker says as legal deadline ends todayAs the 60-day War Powers Resolution deadline nears, a top Trump official says the US is not at war with Iran."
+      "url": "https://www.indiatoday.in/technology/news/story/people-do-not-want-future-of-humanity-in-musks-hands-judge-remarks-as-openai-trial-continues-2904095-2026-05-01",
+      "headline": "'People do not want future of humanity in Musk's hands', Judge remarks in OpenAI trialJudge Gonzalez Rogers pushed Elon Musk's legal team away from existential-risk arguments as his cross-examination in the OpenAI case intensified. The exchanges sharpened scrutiny of Musk's credibility, xAI's training practices and the high financial stakes of the lawsuit."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/new-york-city-mayor-zohran-mamdani-return-the-kohinoor-remark-critics-rude-welcome-kings-charles-iii-visit-to-us-2904122-2026-05-01",
+      "headline": "Rude, obsessed with colonialism: Mamdani slammed over 'return the Kohinoor' remarkZohran Mamdani said he would encourage King Charles III to return the Kohinoor before meeting him at the 9/11 Memorial. The remark triggered criticism over his handling of the royal visit, while officials gave no details of their brief exchange."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/information/story/commercial-lpg-cylinder-prices-rise-city-wise-rates-2904128-2026-05-01",
+      "headline": "LPG Price Rise: Commercial gas cylinder prices up. Check city-wise ratesLPG price hike from May 1, 2026 raised commercial gas cylinder rates by Rs 993 across India. Check updated LPG prices in Delhi, Mumbai and Bengaluru, while domestic cylinder prices remained unchanged."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/banking-risks-cyber-scam-digital-arrests-fraud-victims-experience-2904097-2026-05-01",
+      "headline": "Even the bank didn't help me: What victims face after reporting digital fraudFor part two of our series on Banking Risks in Digital India, I spoke to victims of digital fraud to understand what they experienced after being scammed. Their stories show how the aftermath can be just as distressing as the fraud itself."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/story/commercial-lpg-price-hike-crude-oil-hormuz-risks-govt-strategy-domestic-gas-cyliner-increase-2904107-2026-05-01",
+      "headline": "Commercial LPG up by nearly Rs 1,000: Why have prices increased?Commercial LPG cylinder prices have risen again as global oil tensions keep costs elevated. The move shields households for now but raises pressure on restaurants, hotels and small businesses."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/reviews/story/ek-din-movie-review-sai-pallavi-junaid-khan-film-is-scenic-sweet-and-strangely-lifeless-2904111-2026-05-01",
+      "headline": "Ek Din review: Sai-Junaid's film is scenic, sweet and strangely lifelessRelease Date:Fri May 01, 2026Ek Din review: Sai Pallavi and Junaid Khan's romantic film follows Dinesh and Meera through a one-day love story shaped by memory loss. The film's striking Japan backdrop cannot compensate for thin writing and a romance that never convinces."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/odisha-bank-govt-probe-keonjhar-man-carried-sisters-skeleton-to-access-savings-2903759-2026-04-30",
+      "headline": "Odisha bank at fault for not helping man who carried sister's skeleton: ProbeAn Odisha government preliminary probe found bank staff in Keonjhar may not have cooperated with the man who carried his sister's skeleton to access her savings. The findings point to possible procedural lapses and prompted warnings from authorities for strict action."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/elections-in-india-2026-west-bengal-polls-kerala-polls-tamil-nadu-polls-exit-polls-communist-movement-left-parties-existence-2903634-2026-05-01",
+      "headline": "Where exactly is leftover of the Left in India?From ruling three states at a time to surviving in scattered pockets, India's Communist parties are facing an existential crisis. Exit polls suggest the Left front could lose Kerala, the only state it governs now. The question is not if the Left exists, but where it exists in India."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/lifestyle/food/story/masala-dosa-to-malpua-11-indian-dishes-crack-worlds-top-100-pancakes-2903752-2026-05-01",
+      "headline": "Masala dosa to malpua, 11 Indian dishes crack World's Top 100 pancakesFood guide TasteAtlas has featured 11 Indian dishes from across India in its April Top 100 Pancakes list."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/health/story/semaglutide-alcohol-use-disorder-heavy-drinking-lancet-trial-2903910-2026-05-01",
+      "headline": "Semaglutide trial shows sharp drop in heavy drinking daysA study published in The Lancet reports that weekly semaglutide injections reduced heavy drinking in adults with obesity and alcohol use disorders. The findings add to growing interest in GLP-1 drugs beyond weight loss, though the study was small."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/north-india-weather-update-heat-return-after-rain-delhi-ncr-thunderstorm-relief-western-disturbance-may-forecast-2904106-2026-05-01",
+      "headline": "Summer intensifies, heat to return: When will it rain again?As a result of rain and winds, pleasant nights were felt across most of North India, easing the recent concerns of rising nighttime temperatures that usually help cool down places and people alike."
     },
     {
       "sentiment": "positive",
@@ -265,62 +315,37 @@
       "headline": "The Devil Wears Prada 2 review: Perfectly polished. That's allRelease Date:Fri May 01, 2026The Devil Wears Prada 2 review: Nearly two decades later, Miranda Priestly returns as Runway fights for relevance in a digital-first media world. The sequel uses that struggle to examine how fashion, journalism and influence now bend before metrics."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/rich-dad-poor-dad-author-exposes-paks-oil-shock-vs-indias-remarkable-stability-2904040-2026-05-01",
-      "headline": "Rich Dad Poor Dad author exposes Pak's oil shock vs India's remarkable stabilityAcross the border, the picture looked very different. Despite the same global oil shock and crude prices climbing above $120 per barrel, petrol and diesel rates in India stayed largely unchanged across major cities."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/remember-parag-agrawal-his-new-company-is-now-worth-rs-19020-crore-2903865-2026-04-30",
-      "headline": "Remember Parag Agrawal? His new company is now worth Rs 19,020 croreFormer Twitter (now X) CEO Parag Agrawal is back in the news. Parag who was fired by Elon Musk, soon after he bought Twitter in 2022, has raised $100 million for his new AI startup called Parallel Web Systems, taking its valuation to around Rs 19,020 crore."
-    },
-    {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/kareena-kapoor-reacts-delhi-high-court-status-quo-order-sunjay-kapur-estate-2903920-2026-04-30",
-      "headline": "Kareena reacts after Karisma's children get relief in Sunjay Kapur's asset caseKareena Kapoor extended support to her sister Karisma by sharing a hopeful message after the Delhi High Court ordered status quo on Sunjay Kapur's estate. The ruling preserves the assets during the will dispute and places Priya Kapur's claims under closer scrutiny."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/met-gala-2026-indian-guests-kjo-to-deepika-and-priyanka-when-and-where-to-watch-2904050-2026-05-01",
-      "headline": "Met Gala 2026 Indian guests: KJo to Deepika and Priyanka. When and where to watchAhead of Met Gala 2026 on May 4, curiosity is building around the line-up of Indian celebrities. Apart from Karan Johar, Deepika Padukone, Ranveer Singh, Priyanka Chopra Jonas, Alia Bhatt and several others are expected to attend the global fashion event."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/after-taco-trumps-flip-flops-on-hormuz-have-earned-him-new-name-nacho-2904034-2026-05-01",
-      "headline": "After TACO, Trump's flip-flops on Hormuz have earned him a new name: NACHOWall Street has coined a new label for Donald Trump's shifting stance on reopening the Strait of Hormuz and dealing with Iran. NACHO, seemingly, justifies his back-and-forth approach."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/gt-vs-rcb-ipl-2026-virat-kohli-kagiso-rabada-ahmedabad-battle-play-of-the-day-2904037-2026-05-01",
-      "headline": "IPL Play of the Day: Kohli, Rabada go blow for blow in Ahmedabad's main eventGT vs RCB, IPL Play of the Day: Virat Kohli and Kagiso Rabada traded early blows in Ahmedabad, with the RCB star's powerplay burst met by the GT pacer's sharp tactical adjustment and decisive comeback."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/hyderabad/story/hyderabad-techie-suicide-note-police-probe-wifes-alleged-affairs-investigation-2903959-2026-04-30",
-      "headline": "Hyderabad techie dies by suicide, blames wife's 'multiple affairs' in noteA 36-year-old software engineer reportedly drowned after jumping into a lake after accusing his wife of multiple affairs. He left a 19-page note, claiming his wife had affairs with three men."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/brics-mena-meeting-april-24-new-delhi-joint-statement-faliure-us-israel-iran-war-uae-india-soften-criticism-of-israel-gaza-lebanon-2903445-2026-04-30",
-      "headline": "BRICS at risk of imploding, reveals Delhi meetThere is a wide rift in the BRICS, of which India is a founding member, due to the war in the Middle East. There was no joint statement after the recent meeting in New Delhi that was described as \"very tense\". India as the BRICS president will have to do a tight rope walk ahead of the crucial summit in September."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/south-africa-ai-policy-withdrawn-fake-ai-generated-citations-2904049-2026-05-01",
-      "headline": "South Africa scraps its debut AI policy after it was found written by AISouth Africa's debut AI policy collapsed within weeks after fabricated, AI-generated citations exposed a critical oversight failure."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/assembly/story/todays-chanakya-predicts-63-seats-for-vijays-tvk-in-tamil-nadu-exit-poll-2903893-2026-04-30",
-      "headline": "Vijay's TVK the disruptor-in-chief? Today's Chanakya exit poll predicts 63 seatsThe Today's Chanakya exit poll projects a strong debut for TVK, estimating 63 \u00b1 11 seats and a 30 per cent (\u00b13 per cent) vote share."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/rain-thunder-dust-storm-may-1-2026-states-forecast-warning-science-news-weather-news-2903955-2026-04-30",
-      "headline": "Rain, thunder and dust storms: Which states get hit hardest today?May Day will bring heavy rain and lightning to east India, a hot dry spell to Delhi and continued pre-monsoon showers across the south. Here is a state-by-state breakdown of what to expect."
+      "url": "https://www.indiatoday.in/world/us-news/story/white-house-correspondents-dinner-attack-video-allen-shooting-agent-trump-2904056-2026-05-01",
+      "headline": "White House event shooter seen storming security, opening fire in new CCTV footageSecurity camera footage released by Jeanine Pirro shows Cole Tomas Allen running through a checkpoint and shooting a federal agent at the Washington Hilton during the White House Correspondents' Association dinner."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/heinrich-klaasen-international-comeback-ipl-2026-form-etpl-rotterdam-2904133-2026-05-01",
+      "headline": "Will Heinrich Klaasen make South Africa return? SRH star reacts to Pietersen remark Heinrich Klaasen has ruled out a return to international cricket despite calls for a comeback. The South African says his focus is on franchise cricket, Rotterdam in the ETPL and staying mentally fresh."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-2026-trump-approves-iran-us-matches-after-infantino-confirmation-2904130-2026-05-01",
+      "headline": "Trump backs Iran's 2026 World Cup entry in USA after FIFA president's confirmation Donald Trump said he was fine with Iran playing their 2026 World Cup matches in the United States after Gianni Infantino confirmed FIFA's position. The decision keeps a politically charged schedule intact despite Tehran's venue concerns and its delegation's absence from FIFA Congress."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-gt-vs-rcb-bhuvneshwar-kumar-purple-cap-team-first-2904113-2026-05-01",
+      "headline": "Not young anymore: Bhuvneshwar Kumar plays down Purple Cap milestone focuses on team IPL 2026: Bhuvneshwar Kumar returned with figures of 3/28 against GT, taking his tally to 17 wickets from nine matches and regaining the Purple Cap as the tournament's leading wicket-taker."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/shubman-gill-instagram-post-rcb-gujarat-titans-virat-kohli-banter-2904096-2026-05-01",
+      "headline": "After CSK jibe, Shubman Gill makes play bold dig at RCB with Virat Kohli picture Shubman Gill followed Gujarat Titans' win over Royal Challengers Bengaluru with an Instagram post praising Jason Holder and appearing to needle RCB. The post extended the night's playful edge, which also featured banter with Virat Kohli before the two embraced after the match."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/rr-vs-dc-ipl-2026-riyan-parag-vaping-controversy-mitchell-starc-return-jaipur-2904091-2026-05-01",
+      "headline": "RR vs DC Preview: Time for Riyan Parag to step up amidst myriad of controversies RR vs DC Preview: Riyan Parag faces mounting pressure in Jaipur as Rajasthan Royals seek stability, while Delhi Capitals arrive searching for inspiration, clarity and a much-needed spark."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-gt-vs-rcb-jason-holder-hardik-pandya-vikram-solanki-2904083-2026-05-01",
@@ -354,27 +379,27 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/gujarat-titans-vs-royal-challengers-bengaluru-revenge-ahmedabad-match-report-2904010-2026-04-30",
-      "headline": "Gujarat Titans take sweet revenge as Bengaluru endure rare off day IPL 2026, GT vs RCB: Gujarat Titans beat the Royal Challengers Bengaluru by four wickets at the Narendra Modi Stadium in Ahmedabad. Chasing 156, Shubman Gill's men romped home in 15.5 overs."
+      "headline": "Gujarat Titans take sweet revenge as Bengaluru endure rare off dayIPL 2026, GT vs RCB: Gujarat Titans beat the Royal Challengers Bengaluru by four wickets at the Narendra Modi Stadium in Ahmedabad. Chasing 156, Shubman Gill's men romped home in 15.5 overs."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/gt-vs-rcb-ipl-2026-virat-kohli-celebration-fiery-shubman-gill-ahmedabad-video-2903994-2026-04-30",
-      "headline": "Virat Kohli gives Shubman Gill death stare, fiery send-off in Ahmedabad: Watch GT vs RCB, IPL 2026: Virat Kohli brought the intensity with an animated send-off to Shubman Gill, but Gujarat Titans stayed on top after Kagiso Rabada and Jason Holder dented RCB in Ahmedabad."
+      "headline": "Virat Kohli gives Shubman Gill death stare, fiery send-off in Ahmedabad: WatchGT vs RCB, IPL 2026: Virat Kohli brought the intensity with an animated send-off to Shubman Gill, but Gujarat Titans stayed on top after Kagiso Rabada and Jason Holder dented RCB in Ahmedabad."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/gt-vs-rcb-ipl-2026-virat-kohli-angry-jason-holder-catch-rajat-patidar-ahmedabad-2903962-2026-04-30",
-      "headline": "Virat Kohli hits out at umpires after Jason Holder's catch to dismiss Rajat Patidar GT vs RCB, IPL 2026: Virat Kohli was not happy after Rajat Patidar's controversial dismissal against Gujarat Titans, with replays raising questions over Jason Holder's catch and the third umpire's review."
+      "headline": "Virat Kohli hits out at umpires after Jason Holder's catch to dismiss Rajat PatidarGT vs RCB, IPL 2026: Virat Kohli was not happy after Rajat Patidar's controversial dismissal against Gujarat Titans, with replays raising questions over Jason Holder's catch and the third umpire's review."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/virat-kohli-kagiso-rabada-ipl-2026-fours-gt-vs-rcb-ahmedabad-2903958-2026-04-30",
-      "headline": "Virat Kohli dominates Kagiso Rabada with boundary blitz, GT pacer answers with revenge IPL 2026, GT vs RCB: Virat Kohli dominated Kagiso Rabada early with a stunning burst of five consecutive boundaries in IPL 2026, but the GT pacer fought back strongly. Rabada had the last laugh by dismissing Kohli for 28."
+      "headline": "Virat Kohli dominates Kagiso Rabada with boundary blitz, GT pacer answers with revengeIPL 2026, GT vs RCB: Virat Kohli dominated Kagiso Rabada early with a stunning burst of five consecutive boundaries in IPL 2026, but the GT pacer fought back strongly. Rabada had the last laugh by dismissing Kohli for 28."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/riyan-parag-vaping-ipl-2026-bcci-fans-reaction-rajasthan-royals-2903937-2026-04-30",
-      "headline": "Was Riyan Parag let off after vaping? Fans call out hypocrisy after escaping ban Riyan Parag's dressing-room vaping incident has sparked backlash after the IPL fined him 20 per cent of his match fee, with fans questioning whether the Rajasthan Royals captain was punished lightly."
+      "headline": "Was Riyan Parag let off after vaping? Fans call out hypocrisy after escaping banRiyan Parag's dressing-room vaping incident has sparked backlash after the IPL fined him 20 per cent of his match fee, with fans questioning whether the Rajasthan Royals captain was punished lightly."
     },
     {
       "sentiment": "positive",
@@ -450,31 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/champions-league-arsenal-vs-atletico-madrid-mikel-arteta-fumes-var-2903576-2026-04-30",
       "headline": "Champions League: Arteta cries foul over VAR call as Arsenal held by AtleticoChampions League semi-final first leg: Coach Mikel Arteta hit out after Arsenal's penalty was overturned by VAR in Madrid. He said the decision denied a potentially decisive win."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-mi-vs-srh-jasprit-bumrah-critics-kieron-pollard-message-2903569-2026-04-30",
-      "headline": "Bumrah entitled to have a bad IPL season: Kieron Pollard's big message to criticsIPL 2026: Kieron Pollard defended Jasprit Bumrah after the Mumbai Indians pacer returned 0 for 54 against Sunrisers Hyderabad at Wankhede Stadium on Wednesday. His remarks highlighted the scrutiny on cricketers as Bumrah's lean IPL 2026 run continued."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/vinod-kambli-wankhede-return-health-rumours-mi-vs-srh-2903554-2026-04-30",
-      "headline": "Video: Vinod Kambli's Wankhede appearance during IPL match warms heartsIPL 2026: Vinod Kambli made a rare appearance at Wankhede Stadium during Mumbai Indians' match against Sunrisers Hyderabad on Wednesday, acknowledging fans who wished him well. The outing eased fresh health concerns and highlighted the support around the former India batter."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-mi-vs-srh-play-of-the-day-death-overs-bowling-wankhede-stadium-2903548-2026-04-30",
-      "headline": "IPL Play of the Day: SRH prove T20 is a bowlers' game too with Wankhede masterclassMI vs SRH, IPL 2026: Sunrisers turned the game at the death, restricting Mumbai Indians to 243 when the home side looked set to cross 260. Ehsan Malinga shone in the final overs, while Travis Head and Abhishek Sharma later laid the foundation for a record chase at Wankhede Stadium on Wednesday."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-mi-vs-srh-hardik-pandya-fans-rival-chants-srh-loss-wankhede-2903522-2026-04-30",
-      "headline": "After teammates, Hardik Pandya snaps at MI fans for supporting opponentsIPL 2026: Hardik Pandya has now turned his focus from teammates to the stands, calling out Mumbai Indians fans for backing opposition teams during this season. The MI captain admitted it \"hurts\" hearing rival chants at Wankhede after another disappointing home defeat."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-mi-vs-srh-match-report-wankhede-heinrich-klaasen-abhishek-travis-2903520-2026-04-29",
-      "headline": "No respite for MI as 243 not enough against rampant SRH at WankhedeIPL 2026: SunRisers Hyderabad extended their winning run in the Indian Premier League by recording the 4th highest chase in the history of the tournament. Chasing 244, Heinrich Klaasen anchored the SRH innings and took the team over the line in just 18.4 overs on Wednesday."
     }
   ],
   "education": [
