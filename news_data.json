@@ -103,6 +103,11 @@
   ],
   "entertainment": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/janhvi-kapoor-shares-post-calling-out-misleading-reports-about-her-alcohol-remark-2905965-2026-05-03",
+      "headline": "Janhvi Kapoor shares post calling out misleading reports about her alcohol remark Janhvi Kapoor's team issued an official statement clarifying her remarks on alcohol use during a podcast. It said her comments were misinterpreted and that she spoke as a caregiver and ally, not from personal experience of addiction."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/movies/celebrities/story/actor-producer-sudesh-kumar-dies-at-95-in-mumbai-prayer-meet-on-may-4-2905951-2026-05-03",
       "headline": "Actor-producer Sudesh Kumar dies at 95 in Mumbai, prayer meet on May 4 Actor and producer Sudesh Kumar died at 95 in Mumbai after health complications. He is survived by his wife and daughter. A prayer meet is scheduled for the late artiste on May 4."
@@ -191,11 +196,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/pati-patni-aur-woh-do-trailer-out-ayushmann-khurrana-juggles-between-three-relationships-2904824-2026-05-02",
       "headline": "Pati Patni Aur Woh Do trailer: Ayushmann Khurrana juggles between 3 relationships The trailer of Pati Patni Aur Woh Do shows Ayushmann Khurrana as a man caught between multiple relationships, leading to confusion and comic situations. Also starring Sara Ali Khan, Rakul Preet Singh and Wamiqa Gabbi, the film is set to release on May 15, 2026."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/priyadarshan-dismisses-tabus-bhooth-bangla-role-cut-buzz-denies-akshay-kumar-link-2904795-2026-05-02",
-      "headline": "Factcheck: Tabu upset with Akshay, Priyadarshan for edited role in Bhooth Bangla? Bhooth Bangla director Priyadarshan has cleared the air over reports that Tabu was displeased with him and lead actor Akshay Kumar for alleged edits in her role. Read here what he said."
     }
   ],
   "general news": [
@@ -216,8 +216,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/rajasthan-royals-sale-mittal-family-adar-poonawalla-ipl-franchise-2905009-2026-05-03",
-      "headline": "Mittal family and Adar Poonawalla buy Rajasthan Royals in Rs 15,660 crore dealContrary to past reports, Steel giants the Mittal family and billionaire Adar Poonawalla have acquired Rajasthan Royals for Rs 15,660 crore. The sale of the champions of the inaugural edition of the IPL comes on the heels of the record-breaking sale of Royal Challengers Bengaluru."
+      "url": "https://www.indiatoday.in/elections/story/asansol-strongroom-evm-security-row-sealed-envelope-phone-before-bengal-count-2905643-2026-05-03",
+      "headline": "Sealed envelope with phone seized outside Asansol strongroom, BJP cries foulOn the eve of the counting of votes in Bengal, a sealed envelope with documents and a switched-off phone was found in a vehicle on poll duty near the strongroom at Asansol Engineering College. The recovery triggered protests and a police probe."
     },
     {
       "sentiment": "positive",
@@ -226,23 +226,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/story/asansol-strongroom-evm-security-row-sealed-envelope-phone-before-bengal-count-2905643-2026-05-03",
-      "headline": "Sealed envelope with phone seized outside Asansol strongroom, BJP cries foulOn the eve of the counting of votes in Bengal, a sealed envelope with documents and a switched-off phone was found in a vehicle on poll duty near the strongroom at Asansol Engineering College. The recovery triggered protests and a police probe."
+      "url": "https://www.indiatoday.in/sports/cricket/story/rajasthan-royals-sale-mittal-family-adar-poonawalla-ipl-franchise-2905009-2026-05-03",
+      "headline": "Mittal family and Adar Poonawalla buy Rajasthan Royals in Rs 15,660 crore dealContrary to past reports, Steel giants the Mittal family and billionaire Adar Poonawalla have acquired Rajasthan Royals for Rs 15,660 crore. The sale of the champions of the inaugural edition of the IPL comes on the heels of the record-breaking sale of Royal Challengers Bengaluru."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/science/story/india-heatwave-2026-ac-boom-power-demand-climate-crisis-urban-heat-island-impact-climate-change-2904516-2026-05-03",
       "headline": "India's AC dilemma: How it cools the heat and heats the planetThere lies a painful paradox at the heart of India's cooling crisis. The very machines helping people survive extreme heat also contribute to the warming, making that heat worse."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/delhi/story/8-killed-4-injured-after-suspected-ac-blast-causes-fire-in-building-in-delhis-vivek-vihar-2904920-2026-05-03",
-      "headline": "1-year-old among 9 killed in Delhi residential building fire, AC blast suspectedThe bodies of the nine people killed in the blaze were recovered from the second floor of the building, while three others were found in the staircase. The body of one other person was recovered from the first floor."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/featurephilia/story/iit-iim-nit-funding-3-percent-students-get-half-of-higher-education-budget-2904685-2026-05-03",
-      "headline": "Only 3% in IITs, IIMs, NITs but they take 50% of India's higher education budgetHandcrafted ByOur Editors A tiny elite in IITs, IIMs and NITs commands nearly half of India's higher education budget. The remaining 96% of students are left to navigate a vastly underfunded system spread across hundreds of institutions. This isn't just unequal spending, it's a pipeline that decides whose futures get priority."
     },
     {
       "sentiment": "positive",
@@ -251,8 +241,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/impact-feature/story/godrej-industries-lays-out-2031-growth-ambitions-2903242-2026-04-29",
-      "headline": "Godrej Industries lays out 2031 growth ambitionsThe purpose statement, 'Crafting tomorrow since 1897', celebrates the Godrej Group's legacy while clearly positioning the new, refreshed Godrej Industries for the future."
+      "url": "https://www.indiatoday.in/education-today/featurephilia/story/iit-iim-nit-funding-3-percent-students-get-half-of-higher-education-budget-2904685-2026-05-03",
+      "headline": "Only 3% in IITs, IIMs, NITs but they take 50% of India's higher education budgetHandcrafted ByOur Editors A tiny elite in IITs, IIMs and NITs commands nearly half of India's higher education budget. The remaining 96% of students are left to navigate a vastly underfunded system spread across hundreds of institutions. This isn't just unequal spending, it's a pipeline that decides whose futures get priority."
     },
     {
       "sentiment": "positive",
@@ -261,13 +251,23 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/men-rip-off-the-train-seat-covers-for-fun-in-viral-video-sparks-outrage-2905446-2026-05-03",
-      "headline": "Men rip off train seat covers for fun. Viral video sparks outrageA viral video showed a man ripping a train bench seat as another filmed him inside a moving coach. The clip drew angry reactions online."
+      "url": "https://www.indiatoday.in/impact-feature/story/godrej-industries-lays-out-2031-growth-ambitions-2903242-2026-04-29",
+      "headline": "Godrej Industries lays out 2031 growth ambitionsThe purpose statement, 'Crafting tomorrow since 1897', celebrates the Godrej Group's legacy while clearly positioning the new, refreshed Godrej Industries for the future."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sunday-special/story/rooftop-solar-panel-home-neighbour-effect-zero-bills-big-savings-pm-surya-ghar-muft-bijli-yojana-2904833-2026-05-03",
       "headline": "Zero electricity bill, credit for selling surplus: Neighbour's envy driving solar in IndiaHouseholds across India are turning to rooftop solar through an unusual mix of triggers. From Varanasi to Greater Noida to a village in Maharashtra, neighbours are inspiring each other to go solar. Backed by government subsidies, growing awareness, and most importantly, lower electricity bills, solar is now powering more middle-class households in India than ever."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/trending-news/story/men-rip-off-the-train-seat-covers-for-fun-in-viral-video-sparks-outrage-2905446-2026-05-03",
+      "headline": "Men rip off train seat covers for fun. Viral video sparks outrageA viral video showed a man ripping a train bench seat as another filmed him inside a moving coach. The clip drew angry reactions online."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/us-news/story/man-sets-off-security-alarms-at-trump-florida-golf-club-days-after-whcd-shooting-arrested-2905954-2026-05-03",
+      "headline": "Man sets off security alarms at Trump golf club days after DC shooting; arrestedUS Secret Service agents arrested a man after he became disruptive at a screening area at Trump Doral National Golf Club. The arrest came days after a major security breach at the White House Correspondents' Dinner."
     },
     {
       "sentiment": "positive",
@@ -281,8 +281,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/society/story/reddit-or-chatgpt-who-gets-you-more-2904401-2026-05-03",
-      "headline": "Reddit or ChatGPT, who should you turn to for life advice?With Reddit and AI tools like ChatGPT becoming go-to sources for life advice, we explore which one people should turn to."
+      "url": "https://www.indiatoday.in/technology/features/story/openai-musk-trial-sam-altman-for-profit-lawsuit-2905952-2026-05-03",
+      "headline": "The trial that could kill OpenAIHandcrafted ByOur Editors Elon Musk and Sam Altman are fighting in court over OpenAI's shift to a for-profit structure. The case could reshape control of the company and test whether its duty to humanity was enforceable."
     },
     {
       "sentiment": "positive",
@@ -295,9 +295,9 @@
       "headline": "The Vibhuti Effect: Why do India's chess prodigies swear by the sacred ash?Why India's chess prodigies carry an ancient ritual into the world's most cerebral arena, and what it's doing to their game."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/pune-rape-murder-case-victims-father-asks-leaders-to-stay-away-till-accused-is-hanged-2905250-2026-05-03",
-      "headline": "No politician should visit: Pune rape victim's father demands death for accusedIn the aftermath of a brutal crime in Pune, the victim's father has issued a firm message to political leaders. His demand is clear - justice first, and only then will he open his doors."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/story/ranveer-allahbadia-samay-raina-kapil-show-reunion-indias-got-latent-row-2905046-2026-05-03",
+      "headline": "Ranveer Allahbadia takes cheeky dig at past row after Kapil Sharma show. See postRanveer Allahbadia grabbed attention with his post after The Kapil show appearance, taking a cheeky dig at India's Got Latent row while also dedicating the moment to his late grandfather."
     },
     {
       "sentiment": "positive",
@@ -306,13 +306,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/story/kumar-vishwas-invite-poster-delhi-assembly-ram-katha-aap-row-2905092-2026-05-03",
-      "headline": "'AAP bhi aamantrit': Kumar Vishwas' Delhi Assembly Ram Katha invite stings partyKumar Vishwas' invitation for his Delhi Assembly Ram Katha has drawn notice over a poster aimed at AAP. The wording and its swift removal have sharpened focus on his fraught history with the party."
+      "url": "https://www.indiatoday.in/lifestyle/society/story/reddit-or-chatgpt-who-gets-you-more-2904401-2026-05-03",
+      "headline": "Reddit or ChatGPT, who should you turn to for life advice?With Reddit and AI tools like ChatGPT becoming go-to sources for life advice, we explore which one people should turn to."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/story/ranveer-allahbadia-samay-raina-kapil-show-reunion-indias-got-latent-row-2905046-2026-05-03",
-      "headline": "Ranveer Allahbadia takes cheeky dig at past row after Kapil Sharma show. See postRanveer Allahbadia grabbed attention with his post after The Kapil show appearance, taking a cheeky dig at India's Got Latent row while also dedicating the moment to his late grandfather."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/pune-rape-murder-case-victims-father-asks-leaders-to-stay-away-till-accused-is-hanged-2905250-2026-05-03",
+      "headline": "No politician should visit: Pune rape victim's father demands death for accusedIn the aftermath of a brutal crime in Pune, the victim's father has issued a firm message to political leaders. His demand is clear - justice first, and only then will he open his doors."
     },
     {
       "sentiment": "positive",
@@ -321,6 +321,16 @@
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/shubman-gill-wedding-danny-morrison-ipl-gt-vs-pbks-2905973-2026-05-03",
+      "headline": "Shubman, getting married? Danny Morrison's question leaves GT captain irritated IPL 2026: Shubman Gill was left visibly irritated after commentator Danny Morrison asked him a personal question at the toss ahead of Gujarat Titans' clash against Punjab Kings. Here's what happened at the toss in Ahmedabad."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-rishabh-pant-ipl-form-bharat-arun-price-tag-mi-vs-lsg-2905963-2026-05-03",
+      "headline": "Rishabh Pant bogged down by price tag? LSG bowling coach addresses batter's poor form IPL 2026, MI vs LSG: Bharat Arun said the price tag has nothing to do with Rishabh Pant's indifferent run of form. The LSG bowling coach backed the captain to bounce back despite his modest returns this season."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/athletics/story/india-doping-crisis-2036-olympics-bid-benjamin-cohen-ita-warning-2905953-2026-05-03",
@@ -334,7 +344,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-gt-vs-pbks-today-match-ahmedabad-2905472-2026-05-03",
-      "headline": "GT vs PBKS live: Punjab in huge trouble as Holder gets Shreyas GT (Gujarat) vs PBKS (Punjab) live score, IPL 2026: Punjab Kings (47/5 in 8.4 overs). Jason Holder has taken the wicket of Nehal Wadhera as Gujarat Titans are on top in their clash against the Punjab Kings."
+      "headline": "GT vs PBKS live: Holder pegs PBKS back in death overs GT (Gujarat) vs PBKS (Punjab) live score, IPL 2026: Punjab Kings (141/8 in 17.5 overs). Kagiso Rabada has taken the wicket of Suryansh Shedge to break the dangerous 79-run partnership. But Marcus Stoinis is looking good as PBKS look to go past 150."
     },
     {
       "sentiment": "positive",
@@ -364,12 +374,12 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/rajasthan-royals-sale-mittal-family-adar-poonawalla-ipl-franchise-2905009-2026-05-03",
-      "headline": "Mittal family and Adar Poonawalla buy Rajasthan Royals in Rs 15,660 crore deal Contrary to past reports, Steel giants the Mittal family and billionaire Adar Poonawalla have acquired Rajasthan Royals for Rs 15,660 crore. The sale of the champions of the inaugural edition of the IPL comes on the heels of the record-breaking sale of Royal Challengers Bengaluru."
+      "headline": "Mittal family and Adar Poonawalla buy Rajasthan Royals in Rs 15,660 crore dealContrary to past reports, Steel giants the Mittal family and billionaire Adar Poonawalla have acquired Rajasthan Royals for Rs 15,660 crore. The sale of the champions of the inaugural edition of the IPL comes on the heels of the record-breaking sale of Royal Challengers Bengaluru."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/other-sports/story/vinesh-phogat-brij-bhushan-harassment-case-wrestler-says-asian-games-trials-2904990-2026-05-03",
-      "headline": "I was harassed by Brij Bhushan, I am one of the six victims: Vinesh Phogat Olympian Vinesh Phogat, a key face of the 2023 New Delhi protests, has identified herself as one of the six women harassed by Brij Bhushan Sharan Singh, alleging upcoming trials for Asian Games 2026 are rigged to block her comeback."
+      "headline": "I was harassed by Brij Bhushan, I am one of the six victims: Vinesh PhogatOlympian Vinesh Phogat, a key face of the 2023 New Delhi protests, has identified herself as one of the six women harassed by Brij Bhushan Sharan Singh, alleging upcoming trials for Asian Games 2026 are rigged to block her comeback."
     },
     {
       "sentiment": "positive",
@@ -460,16 +470,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/athletics/story/kuldeep-kumar-pole-vault-national-record-panvel-train-station-ordeal-2904829-2026-05-02",
       "headline": "Thrown off a train in January, Kuldeep Kumar breaks pole vault national recordKuldeep Kumar, 21-year-old from Madhya Pradesh cleared 5.41m in Bhubaneswar to break the national pole vault record, months after being stranded at Panvel station for carrying his poles."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/badminton/story/thomas-cup-live-score-india-vs-france-badminton-semi-final-lakshya-ayush-prannoy-2904812-2026-05-02",
-      "headline": "Semi-final Highlights: India knocked out by France after 0-3 lossIndia vs France Highlights, Thomas Cup semi-final badminton: It was not HS Prannoy's night. It was not Ayush Shetty's or Kidambi Srikanth's night. India lose 0-3 to France and get knocked out of the Thomas Cup. France on the other hand become only the 2nd European nation after Denmark to reach the final of the tournament."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-rr-vs-dc-lockie-ferguson-backs-kyle-jamieson-sooryavanshi-celebration-2904750-2026-05-02",
-      "headline": "Ferguson sees no wrong in Jamieson's wicket celebration of Vaibhav SooryvanshiIPL 2026: Lockie Ferguson defended Kyle Jamieson after the IPL cautioned him for his send-off to Vaibhav Sooryavanshi. The caution fed a wider debate over on-field aggression, while Ferguson also addressed Punjab Kings' bowling inconsistencies."
     }
   ],
   "education": [
