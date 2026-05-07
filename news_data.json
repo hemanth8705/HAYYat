@@ -103,6 +103,11 @@
   ],
   "entertainment": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/we-are-not-done-yet-dhurandhar-producer-jyoti-deshpande-teases-surprise-for-fans-2908394-2026-05-07",
+      "headline": "We are not done yet: Dhurandhar producer Jyoti Deshpande teases surprise for fans Jyoti Deshpande, who co-produced Dhurandhar and Dhurandhar: The Revenge alongside Aditya Dhar, shared her plans for a surprise for fans later this year."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/aishwarya-rai-alia-bhatt-aditi-rao-hydari-set-to-attend-cannes-film-festival-2026-2908370-2026-05-07",
       "headline": "Aishwarya Rai, Alia Bhatt, Aditi Rao Hydari set to attend Cannes Film Festival 2026 Aishwarya Rai Bachchan, Alia Bhatt and Aditi Rao Hydari are set for Cannes Film Festival 2026. Their presence underscores India's blend of cinema, fashion and women's empowerment on a global stage."
@@ -191,33 +196,28 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/hollywood/story/priyanka-chopra-jonas-orlando-bloom-to-star-in-matt-smukler-thriller-reset-2908006-2026-05-07",
       "headline": "Priyanka Chopra Jonas, Orlando Bloom to star in Matt Smukler's thriller Reset Priyanka Chopra Jonas and Orlando Bloom are set to headline the upcoming survival thriller Reset directed by Matt Smukler. The film follows a woman stranded in the wilderness who must rely on a mysterious stranger to survive."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/sarki-chunar-row-nora-fatehi-appears-before-ncw-kd-the-devil-song-sanjay-dutt-2907996-2026-05-07",
-      "headline": "KD song row: Nora Fatehi apologises to NCW, to fund education of orphan girls Actor Nora Fatehi appeared before the National Commission for Women (NCW) over objections to the song Sarke Chunar from KD: The Devil. She submitted her written apology and also pledged to sponsor the education of orphan girls."
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/elections/assembly/story/vijays-tvk-warns-all-of-their-mlas-will-resign-if-dmk-aiadmk-unite-to-form-government-in-tamil-nadu-sources-2908398-2026-05-07",
+      "headline": "Vijay's TVK warns all 107 MLAs will resign if DMK, AIADMK form govt: SourcesAmid the ongoing political deadlock in Tamil Nadu, the Vijay-led Tamilaga Vettri Kazhagam (TVK) is considering a mass resignation of all its 107 MLAs if either the DMK or the AIADMK is invited to form the government, party sources said."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/nida-khan-accused-in-tcs-nashik-sexual-harassment-case-arrested-after-weeks-on-the-run-2908405-2026-05-07",
+      "headline": "Nida Khan arrested after 25-day hunt in TCS Nashik sexual harassment caseNida Khan is accused of hurting religious sentiments and allegedly helping those accused in rape and sexual exploitation cases linked to TCS Nashik. Investigators have also alleged that she attempted to influence one of the complainants to adopt Islam and discouraged survivors from filing complaints against the accused."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/2-indian-crew-members-hantavirus-cruise-ship-mv-hondius-2908402-2026-05-07",
+      "headline": "2 Indian crew aboard ship with deadly hantavirus outbreak, their status unknownThree people have died and eight others have been infected aboard the MV Hondius, where two Indian crew members remain on board as authorities race to contain a rare hantavirus outbreak at sea."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/elections/assembly/story/bengal-cabinet-dissolved-mamata-banerjee-no-longer-chief-minister-2908298-2026-05-07",
       "headline": "Bengal Assembly dissolved, Mamata Banerjee no longer Chief MinisterMamata Banerjee had been stubborn in holding onto her Chief Minister's chair. But she is no longer the head of Bengal as Governor RN Ravi used his constitutional powers on Thursday to dissolve the state assembly."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/assembly/story/they-stabbed-us-in-the-back-cant-be-trusted-dmk-condemns-congress-for-breaking-off-alliance-tvk-switch-2908275-2026-05-07",
-      "headline": "INDIA bloc is gone: DMK after Congress dumps alliance, ties up with Vijay's TVK\"INDIA bloc is gone,\" was the response from an upset DMK after the Congress decided to break all ties with the MK Stalin-led party and joined hands with actor-politician Vijay's TVK in its bid to form a government in Tamil Nadu."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/mumbai-family-killed-consuming-watermelon-biryani-forensic-report-rat-poison-2908320-2026-05-07",
-      "headline": "Rat poison in watermelon killed family of 4 in Mumbai, finds probeForensic tests found zinc phosphide in the Dokadia family's viscera and the watermelon they ate on the ill-fated night. The findings have shifted the Mumbai Police probe from suspected food poisoning to tracing how the toxin entered the food."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/kerala/story/cherian-philip-video-kerala-congress-leader-hug-attempt-on-bindu-krishna-sparks-backlash-2908238-2026-05-07",
-      "headline": "Kerala MLA resists as Congress leader tries to hug her, video sparks rowIn a now viral video, a Kerala Congress leader is seen trying to hug a newly-elected woman MLA, ignoring the latter's attempt to evade the embrace and push him away."
     },
     {
       "sentiment": "negative",
@@ -226,8 +226,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/hantavirus-outbreak-on-mv-hondius-turkish-vlogger-ruhi-cenet-recalls-cruise-horror-2908359-2026-05-07",
-      "headline": "What happened on hantavirus-hit cruise ship? Vlogger recalls horror voyageTurkish vlogger Ruhi Cenet has described how a hantavirus outbreak unfolded aboard the MV Hondius during a South Atlantic expedition. His account has raised questions over delayed precautions, onboard medical readiness and possible exposure at Tristan da Cunha."
+      "url": "https://www.indiatoday.in/india/kerala/story/cherian-philip-video-kerala-congress-leader-hug-attempt-on-bindu-krishna-sparks-backlash-2908238-2026-05-07",
+      "headline": "Kerala MLA resists as Congress leader tries to hug her, video sparks rowIn a now viral video, a Kerala Congress leader is seen trying to hug a newly-elected woman MLA, ignoring the latter's attempt to evade the embrace and push him away."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/mumbai-family-killed-consuming-watermelon-biryani-forensic-report-rat-poison-2908320-2026-05-07",
+      "headline": "Rat poison in watermelon killed family of 4 in Mumbai, finds probeForensic tests found zinc phosphide in the Dokadia family's viscera and the watermelon they ate on the ill-fated night. The findings have shifted the Mumbai Police probe from suspected food poisoning to tracing how the toxin entered the food."
     },
     {
       "sentiment": "negative",
@@ -236,23 +241,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/law-news/story/tamil-nadu-government-formation-governor-powers-constitution-hung-assembly-floor-test-invite-vijay-tvk-seats-signatures-2908195-2026-05-07",
-      "headline": "Vijay has 107 MLAs, Governor insists on 118: What does the Constitution say?Constitutional experts are divided on whether the Tamil Nadu governor must first invite Vijay's TVK to form the government. The dispute has revived wider questions about the governor's discretion, constitutional convention and the floor test."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/elections/assembly/story/bengal-mamata-banerjee-chief-minister-resignation-assembly-term-ends-2908176-2026-05-07",
       "headline": "Assembly dismissed, Mamata no more CM. Who's in charge in Bengal?Bengal has entered a constitutional grey zone as the term of the current Assembly automatically ended today. A fiery Mamata Banerjee has refused to resign. The development has placed Bengal Governor RN Ravi at the centre of attention."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-bcci-advisory-unauthorised-access-team-hotels-buses-travel-2908199-2026-05-07",
-      "headline": "Ban on girlfriends travelling with players? BCCI set to impose strict IPL rulesBCCI has warned IPL franchises over unauthorised individuals travelling and staying with teams. The board says stricter rules and \"very stringent action\" will follow any future violations during IPL 2026."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/opinion/story/bengal-election-results-2026-tmc-leader-mamata-banerjee-2020-us-elections-donald-trump-2908081-2026-05-07",
-      "headline": "Mamata Donald BanerjeeThere are similarities between Donald Trump of November 2020, and Mamata Banerjee of May 2026. Their self-delusion and choreography are identical."
     },
     {
       "sentiment": "positive",
@@ -261,63 +251,33 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/video/enforcement-directorate-raids-in-mohali-chandigarh-high-drama-cash-filled-bags-allegedly-hurled-from-ninth-floor-2908028-2026-05-07",
-      "headline": "Video: High drama as cash-filled bags thrown from 9th floor amid Punjab ED raidsDramatic scenes unfolded during Enforcement Directorate raids across Punjab and Chandigarh as officials searched multiple properties linked to an alleged land and licencing fraud case on Thursday. In Mohali's Chajju Majra area near Kharar, panic erupted inside a residential society after two bags, allegedly packed with cash, were reportedly hurled from a ninth-floor flat while ED teams conducted searches upstairs."
+      "url": "https://www.indiatoday.in/world/story/hantavirus-outbreak-on-mv-hondius-turkish-vlogger-ruhi-cenet-recalls-cruise-horror-2908359-2026-05-07",
+      "headline": "What happened on hantavirus-hit cruise ship? Vlogger recalls horror voyageTurkish vlogger Ruhi Cenet has described how a hantavirus outbreak unfolded aboard the MV Hondius during a South Atlantic expedition. His account has raised questions over delayed precautions, onboard medical readiness and possible exposure at Tristan da Cunha."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/assembly/story/west-bengal-election-result-why-suvendu-adhikari-should-be-next-cm-bangladesh-government-bnp-2907442-2026-05-07",
-      "headline": "The risks of not having Suvendu Adhikari as the West Bengal CMUnion Home Minister Amit Shah is set to fly to Kolkata today to oversee the selection of West Bengal's next Chief Minister after the BJP's landslide victory. While several names are doing the rounds, Suvendu Adhikari is the frontrunner. It will be a big risk to not appoint him the CM. Not for the BJP as a party, but for its messaging and impetus."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/odisha-grp-constable-soumya-ranjan-swain-lynched-by-mob-in-khordha-2908273-2026-05-07",
-      "headline": "Video: Railway cop tied up, thrashed to death in Odisha over alleged harassmentA GRP constable was allegedly beaten to death by a mob in Khordha during an official trip. The killing has sparked outrage and renewed questions over police response and mob violence."
+      "url": "https://www.indiatoday.in/world/story/strait-of-hormuz-attack-chinese-owned-tanker-jv-innovation-iran-us-conflict-2908384-2026-05-07",
+      "headline": "Chinese oil tanker attacked near Hormuz, first since US-Iran war beganA Chinese-owned tanker, identified as JV Innovation, was attacked near the Strait of Hormuz as regional tensions flared in the Middle East. The incident added to shipping disruption and came as diplomacy struggled to reopen the route."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/indians-in-the-us-news-british-indian-origin-youtube-mrwhoosetheboss-arun-rupesh-maini-detained-strip-searched-us-customs-and-border-protection-agents-2908251-2026-05-07",
-      "headline": "Indian-origin YouTuber detained, strip-searched by US officialsIndian-origin YouTuber Arun Rupesh Maini, popular as MrWhoseTheBoss, said he was detained, strip-searched and deported by US border authorities to the UK during a work trip years ago. His description of the 26-hour ordeal triggered widespread sympathy online."
+      "url": "https://www.indiatoday.in/elections/assembly/story/aiadmk-mlas-camping-luxury-puducherry-resort-tamil-nadu-political-drama-2908380-2026-05-07",
+      "headline": "Inside the Puducherry luxury resort where AIADMK MLAs are being kept togetherAs Tamil Nadu's fractured mandate triggers frantic backroom negotiations, the AIADMK has shifted its MLAs to a luxury beachside resort in Puducherry."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/vijay-family-tree-tvk-win-parents-wife-children-film-relatives-2907562-2026-05-07",
-      "headline": "Vijay's family tree: Meet the people behind Tamil Nadu's CM-in-waitingAs Vijay prepares to take office in Tamil Nadu, attention has turned to his family and film roots. Their story traces the personal and cinematic links that ran alongside his political rise."
+      "url": "https://www.indiatoday.in/india/law-news/story/tamil-nadu-government-formation-governor-powers-constitution-hung-assembly-floor-test-invite-vijay-tvk-seats-signatures-2908195-2026-05-07",
+      "headline": "Vijay has 107 MLAs, Governor insists on 118: What does the Constitution say?Constitutional experts are divided on whether the Tamil Nadu governor must first invite Vijay's TVK to form the government. The dispute has revived wider questions about the governor's discretion, constitutional convention and the floor test."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/assembly/story/tamil-nadu-govenrment-formation-live-updates-vijay-tvk-new-cm-oath-ceremony-details-aiadmk-dmk-congress-resort-politics-2907868-2026-05-07",
-      "headline": "Live: Stay united, avoid talks with TVK and DMK, EPS tells camping AIADMK MLAsTamil Nadu Government Formation News Live Updates: Tamil Nadu is abuzz with intense political activity after Vijay again met Governor Rajendra Arlekar at the Tamil Nadu Lok Bhavan on Thursday to stake claim to form the government. Sources said Vijay was asked to submit proof of support from 118 MLAs in the 234-member Assembly after initially presenting backing from 112 legislators. With Congress already extending support to TVK, the party has now reached out to the VCK, which has two MLAs, while also seeking support from Left parties. The Communist Party of India backed giving TVK the opportunity to prove its majority on the Assembly floor, while the Communist Party of India (Marxist) said it would decide its stand after a state committee meeting on Friday. Meanwhile, the DMK has convened its newly elected MLAs' meeting under MK Stalin amid rapidly shifting political equations. Stay tuned to IndiaToday.in for the latest updates."
+      "url": "https://www.indiatoday.in/trending-news/story/dutch-woman-travelling-solo-in-india-gets-stranded-on-highway-gets-help-from-3-men-2908388-2026-05-07",
+      "headline": "Dutch woman travelling solo in India gets stranded on highway, gets help from 3 menA Dutch motorcyclist travelling solo in India was helped by three local men after a puncture left her stranded on a highway."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/assembly/story/come-back-with-118-signatures-governor-sends-vijay-back-for-second-consecutive-day-2907969-2026-05-07",
-      "headline": "Return with 118 signatures, won't invite any other party: Governor sends Vijay back Live UpdatesTamil Nadu Governor Rajendra Arlekar on Thursday again rejected TVK chief Vijay's claim to form the government, asking him to return only after securing signatures of 118 MLAs to prove majority support."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/hantavirus-cases-linked-to-cruise-now-at-5-three-more-suspected-who-2908304-2026-05-07",
-      "headline": "This is not a pandemic, says WHO as hantavirus cases linked to cruise rise to 5WHO has confirmed five hantavirus infections linked to the cruise ship MV Hondius. A WHO expert joined by Dutch doctors and a specialist from the European Centre for Disease Prevention and Control is conducting health checks on all passengers and crew."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/operation-sindoor-anniversary-pahalgam-terror-attack-manipur-fighter-pilot-rizwan-malik-pakistan-terror-sites-2907733-2026-05-07",
-      "headline": "How Manipur's Rizwan Malik penetrated enemy cover, blew up terror camps in PakA year after Operation Sindoor, we revisit Squadron Leader Rizwan Malik's daring midnight sortie penetrating Pakistani cover. The IAF pilot from Manipur flew into heavily defended skies, braving incoming fire, and destroyed terror camps in Pakistan. He was awarded the Vir Chakra."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/science/story/india-weather-forecast-may-8-thunderstorm-heatwave-rain-imd-warning-2908313-2026-05-07",
-      "headline": "Turbulent Friday: Half of India will be on fire, other half to get drenchedThe IMD has forecast thunderstorms, gusty winds and heatwave conditions across several parts of India on Friday. The warning underlines a sharp pre-monsoon split, with storms in the hills and south and rising heat in the west."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/badminton/story/satwiksairaj-rankireddy-thomas-cup-bronze-india-badminton-team-neglect-2907862-2026-05-07",
-      "headline": "Instagram models get more importance than us: India's badminton star SatwikOne of India's greatest doubles badminton players is tired of feeling invisible. In a deeply personal conversation with India Today, Satwiksairaj Rankireddy speaks about recognition, neglect, social media culture and the loneliness of representing a country that only remembers its athletes once every four years."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/hyderabad/story/hyderabad-woman-police-commissioner-undercover-midnight-40-men-approached-women-safety-2907713-2026-05-06",
-      "headline": "Woman cop goes undercover at Hyderabad bus stand at night, 40 men approached herMalkajgiri Commissioner V Sumathi went undercover at a Dilsukhnagar bus stop late at night. The exercise tested night patrols and exposed risks faced by women commuting alone."
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-bcci-advisory-unauthorised-access-team-hotels-buses-travel-2908199-2026-05-07",
+      "headline": "Ban on girlfriends travelling with players? BCCI set to impose strict IPL rulesBCCI has warned IPL franchises over unauthorised individuals travelling and staying with teams. The board says stricter rules and \"very stringent action\" will follow any future violations during IPL 2026."
     },
     {
       "sentiment": "positive",
@@ -326,11 +286,56 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/vidya-balan-emotional-watching-25-year-old-film-the-last-tenant-co-starring-irrfan-2908324-2026-05-07",
-      "headline": "Vidya Balan emotional watching 25-year-old film The Last Tenant co-starring IrrfanVidya Balan watched The Last Tenant for the first time since shooting it 25 years ago with Irrfan. She shared her emotional reaction as she revisited a difficult phase in her early career."
+      "url": "https://www.indiatoday.in/elections/assembly/story/they-stabbed-us-in-the-back-cant-be-trusted-dmk-condemns-congress-for-breaking-off-alliance-tvk-switch-2908275-2026-05-07",
+      "headline": "INDIA bloc is gone: DMK after Congress dumps alliance, ties up with Vijay's TVK\"INDIA bloc is gone,\" was the response from an upset DMK after the Congress decided to break all ties with the MK Stalin-led party and joined hands with actor-politician Vijay's TVK in its bid to form a government in Tamil Nadu."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/opinion/story/bengal-election-results-2026-tmc-leader-mamata-banerjee-2020-us-elections-donald-trump-2908081-2026-05-07",
+      "headline": "Mamata Donald BanerjeeThere are similarities between Donald Trump of November 2020, and Mamata Banerjee of May 2026. Their self-delusion and choreography are identical."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/elections/assembly/story/tamil-nadu-governor-vijay-tvk-numbers-proof-majority-government-formation-drama-2908410-2026-05-07",
+      "headline": "I need numbers, not claims: Tamil Nadu Governor on asking Vijay to prove majorityTamil Nadu's post-poll deadlock deepened after Governor Rajendra Arlekar refused to invite TVK chief Vijay to form the government for a second straight day, insisting he first prove support from 118 MLAs. He asserted that the delay was \"not at my whims and fancies\" but driven by constitutional responsibility and political arithmetic."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/elections/assembly/story/west-bengal-election-result-why-suvendu-adhikari-should-be-next-cm-bangladesh-government-bnp-2907442-2026-05-07",
+      "headline": "The risks of not having Suvendu Adhikari as the West Bengal CMUnion Home Minister Amit Shah is set to fly to Kolkata today to oversee the selection of West Bengal's next Chief Minister after the BJP's landslide victory. While several names are doing the rounds, Suvendu Adhikari is the frontrunner. It will be a big risk to not appoint him the CM. Not for the BJP as a party, but for its messaging and impetus."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/indians-in-the-us-news-british-indian-origin-youtube-mrwhoosetheboss-arun-rupesh-maini-detained-strip-searched-us-customs-and-border-protection-agents-2908251-2026-05-07",
+      "headline": "Indian-origin YouTuber detained, strip-searched by US officialsIndian-origin YouTuber Arun Rupesh Maini, popular as MrWhoseTheBoss, said he was detained, strip-searched and deported by US border authorities to the UK during a work trip years ago. His description of the 26-hour ordeal triggered widespread sympathy online."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/science/story/india-weather-forecast-may-8-thunderstorm-heatwave-rain-imd-warning-2908313-2026-05-07",
+      "headline": "Turbulent Friday: Half of India will be on fire, other half to get drenchedThe IMD has forecast thunderstorms, gusty winds and heatwave conditions across several parts of India on Friday. The warning underlines a sharp pre-monsoon split, with storms in the hills and south and rising heat in the west."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/cities/hyderabad/story/hyderabad-woman-police-commissioner-undercover-midnight-40-men-approached-women-safety-2907713-2026-05-06",
+      "headline": "Woman cop goes undercover at Hyderabad bus stand at night, 40 men approached herMalkajgiri Commissioner V Sumathi went undercover at a Dilsukhnagar bus stop late at night. The exercise tested night patrols and exposed risks faced by women commuting alone."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/we-are-not-done-yet-dhurandhar-producer-jyoti-deshpande-teases-surprise-for-fans-2908394-2026-05-07",
+      "headline": "We are not done yet: Dhurandhar producer Jyoti Deshpande teases surprise for fansJyoti Deshpande, who co-produced Dhurandhar and Dhurandhar: The Revenge alongside Aditya Dhar, shared her plans for a surprise for fans later this year."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/aishwarya-rai-alia-bhatt-aditi-rao-hydari-set-to-attend-cannes-film-festival-2026-2908370-2026-05-07",
+      "headline": "Aishwarya Rai, Alia Bhatt, Aditi Rao Hydari set to attend Cannes Film Festival 2026Aishwarya Rai Bachchan, Alia Bhatt and Aditi Rao Hydari are set for Cannes Film Festival 2026. Their presence underscores India's blend of cinema, fashion and women's empowerment on a global stage."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/babar-azam-ruled-out-first-bangladesh-test-knee-injury-2908386-2026-05-07",
+      "headline": "Babar Azam suffers injury blow after PSL success, ruled out of 1st Test vs Bangladesh BAN vs PAK, 1st Test: Pakistan were dealt with a huge blow after their premier batter Babar Azam was ruled out of the opening Test, starting Friday, May 8, due to a knee injury."
+    },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/cricket/story/bangladesh-bpl-betting-players-officials-suspended-corruption-probe-2908363-2026-05-07",
@@ -384,7 +389,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/australian-marcus-north-set-to-become-england-mens-selector-2908267-2026-05-07",
-      "headline": "Ashes rivals England set to appoint ex-Australian cricketer as men's selector England are set to appoint former Australia international Marcus North as their new national selector, with the ex-Ashes rival poised to become the first overseas figure to oversee selection for the England men's team."
+      "headline": "Ashes rivals England set to appoint ex-Australian cricketer as men's selectorEngland are set to appoint former Australia international Marcus North as their new national selector, with the ex-Ashes rival poised to become the first overseas figure to oversee selection for the England men's team."
     },
     {
       "sentiment": "negative",
@@ -404,7 +409,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/lsg-vs-rcb-live-score-ipl-2026-lucknow-super-giants-royal-challengers-bengaluru-match-2908188-2026-05-07",
-      "headline": "LSG vs RCB LIVE: Mitchell Marsh gets out to Josh Hazlewood after spectacular 111LSG (Lucknow) vs RCB (Bengaluru) Live Score, IPL 2026: LSG (165/2 in 16.1 ovs), Josh Hazlewood has taken the big wicket of Mitchell Marsh, who made 111. Rishabh Pant has joined Nicholas Pooran in the middle."
+      "headline": "LSG vs RCB LIVE: Tim David departs as LSG smell victory in LucknowLSG (Lucknow) vs RCB (Bengaluru) Live Score, IPL 2026: RCB (150/5 in 15 ovs), Tim David is key for the Royal Challengers Bengaluru as they are looking to chase down 213 at the Ekana Stadium in Lucknow."
     },
     {
       "sentiment": "positive",
@@ -480,11 +485,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/rcb-vs-lsg-ipl-2026-bengaluru-eye-playoff-boost-as-lucknow-face-elimination-2907856-2026-05-07",
       "headline": "RCB under pressure to push for top 2 in IPL playoffs as LSG stand in their wayIPL 2026: RCB will look to capitalise on a timely break and pile more pressure on an unsettled LSG side, with both teams heading into a crucial IPL 2026 clash in Lucknow."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/badminton/story/satwiksairaj-rankireddy-thomas-cup-bronze-india-badminton-team-neglect-2907862-2026-05-07",
-      "headline": "Instagram models get more importance than us: India's badminton star SatwikOne of India's greatest doubles badminton players is tired of feeling invisible. In a deeply personal conversation with India Today, Satwiksairaj Rankireddy speaks about recognition, neglect, social media culture and the loneliness of representing a country that only remembers its athletes once every four years."
     }
   ],
   "education": [
