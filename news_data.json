@@ -1,6 +1,16 @@
 {
   "business": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/personal-finance/story/from-flowers-to-financial-freedom-rethinking-mothers-day-2908718-2026-05-08",
+      "headline": "From flowers to financial freedom: Rethinking Mother's DayFor years, Mother's Day has been about flowers and celebrations. But slowly, conversations are shifting towards something deeper, i.e., helping mothers build savings, investments, and financial confidence of their own."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/market/story/sbi-shares-q4-results-stock-drops-on-weak-treasury-income-2908709-2026-05-08",
+      "headline": "Explained: Why SBI shares tumbled nearly 7% after Q4 resultsSBI shares fell sharply after the lender's Q4 earnings disappointed the market. The reaction underscored investor concern over treasury income, margins and earnings quality."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/market/story/sensex-nifty-today-sbi-shares-tumble-after-q4-results-banking-stocks-drag-markets-2908701-2026-05-08",
       "headline": "Sensex closes over 500 points lower as SBI tumbles nearly 7% after Q4 resultsBenchmark indices closed sharply lower on Thursday after SBI's weaker-than-expected Q4 results hit banking shares. The decline reflected caution around crude oil prices, West Asia tensions and the broader earnings season."
@@ -89,19 +99,49 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/8th-pay-commission-update-5-year-cycle-government-employees-salary-hike-practical-or-not-2907841-2026-05-07",
       "headline": "8th Pay Commission: Govt employees push for 5-year pay hikes. Is it practical?As part of its exclusive 8th Pay Commission coverage, IndiaToday.in spoke to union leaders demanding salary revisions every five years. We also asked experts whether such a move would help employees or strain government finances further."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/8th-pay-commission-update-are-defence-and-railway-unions-ready-for-may-10-deadline-2907687-2026-05-06",
-      "headline": "8th Pay Commission opens next round of employee consultations. Check key datesIn its latest circular dated May 6, 2026, the Commission said it will meet unions and associations linked to the Defence and Railway sectors in Delhi on May 13 and 14, 2026."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/can-the-us-clarity-act-finally-bring-clear-rules-to-the-crypto-industry-2907554-2026-05-06",
-      "headline": "Can the US CLARITY Act finally bring clear rules to the crypto industry?For years, crypto has grown fast but without clear rules. The US CLARITY Act aims to fix that gap. Will it finally bring order to the digital asset space?"
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/legends-review-steve-coogans-thriller-is-the-perfect-blend-of-the-office-narcos-2908740-2026-05-08",
+      "headline": "Legends review: Steve Coogan's thriller is the perfect blend of The Office, NarcosRelease Date:Thu May 07, 2026 Steve Coogan and Tom Burke lead Legends, a drama about customs officers sent undercover during Britain's heroin crisis. The series focuses on fear, exhaustion and the damage caused by living under false identities."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/remarkably-bright-creatures-review-sally-field-shines-as-marcellus-is-sidelined-2908727-2026-05-08",
+      "headline": "Remarkably Bright Creatures review: Warm, wistful and quietly movingRelease Date:Fri May 08, 2026 Netflix's Remarkably Bright Creatures adapts Shelby Van Pelt's novel into a gentler family drama led by Sally Field. The film keeps the grief and warmth intact but pushes its octopus protagonist to the margins."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/reviews/story/29-review-rathna-kumar-love-ambition-identity-crisis-2908703-2026-05-08",
+      "headline": "29 review: Rathna Kumar's film has novel idea that loses its way before finding itRelease Date:Fri May 08, 2026 29 \u2013 The Film movie review: Director Rathna Kumar's 29, starring Vidhu and Preethi Asrani, is a romantic drama. The film is about a man who'll soon turn 30, and his tryst with love while battling an identity crisis. While the film's intentions are right, it takes unwanted detours before getting on the right path."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/mortal-kombat-ii-review-karl-urbans-arcade-bloodbath-is-dumb-fun-done-right-2908700-2026-05-08",
+      "headline": "Mortal Kombat II review: Karl Urban's arcade bloodbath is dumb fun done rightRelease Date:Fri May 08, 2026 Mortal Kombat II The film brings Earthrealm into the long-delayed tournament against Shao Kahn's forces. Leaning fully into camp and carnage, Karl Urban's arcade bloodbath is dumb fun done right. Here is our review."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/citadel-2-review-priyanka-chopra-jonas-show-is-smarter-slicker-slightly-less-exhausting-2908713-2026-05-08",
+      "headline": "Citadel 2 review: Priyanka's show is smarter, slicker, slightly less exhaustingRelease Date:Wed May 06, 2026 Citadel Season 2 returns with cleaner momentum, sharper self-awareness and a more controlled spy spectacle. It remains excessive and emotionally thin, but the series is finally entertaining on its own terms."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/ekta-kapoor-balaji-telefilms-denies-unpaid-dues-allegations-over-bhooth-bangla-2908704-2026-05-08",
+      "headline": "Bhooth Bangla row: Ektaa Kapoor says no vendor payments are pending Balaji Telefilms has denied allegations that vendors from Bhooth Bangla are awaiting payments. The clarification came after reports and vendor accounts claimed dues remained pending for months."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/reviews/story/the-sheep-detectives-review-hugh-jackman-leads-a-charming-family-murder-mystery-2908651-2026-05-08",
+      "headline": "The Sheep Detectives review: Hugh Jackman anchors a cosy and woolly whodunitRelease Date:Fri May 08, 2026 Hugh Jackman leads a village murder mystery in which a flock of sheep follows the clues. The film turns an absurd idea into a warm family caper with charm to spare."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/aakhri-sawal-trailer-sanjay-dutts-film-questions-indian-historys-stormy-chapters-2908707-2026-05-08",
+      "headline": "Aakhri Sawal trailer: Sanjay Dutt's film questions Indian history's stormy chapters The trailer of Aakhri Sawal, starring Sanjay Dutt, dives into controversial chapters of Indian history. The film touches upon subjects including the alleged RSS link to Mahatma Gandhi's assassination, the Babri Masjid demolition and The Emergency."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/television/story/aashka-goradia-brent-goble-welcome-second-baby-boy-reveal-his-adorable-name-2908663-2026-05-08",
@@ -156,73 +196,38 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/reviews/story/daadi-ki-shaadi-review-kapil-sharma-neetu-kapoor-film-turns-preachy-and-overlong-2908511-2026-05-08",
       "headline": "Daadi Ki Shaadi review: Kapil Sharma's family drama turns into stretched TV serialRelease Date:Fri May 08, 2026 Daadi Ki Shaadi movie review: A marriage rumour brings an estranged family back to their mother in Shimla. The film's promising idea gets weighed down by preachy melodrama and emotional overkill."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/inside-ramayana-yash-shoots-ravanas-shiva-dhanush-moment-on-massive-swayamvar-set-2908518-2026-05-08",
-      "headline": "Inside Ramayana: Yash shoots Ravana's Shiva dhanush moment on massive swayamvar set Yash is filming Ravana's arrival and failed bow-lift at Sita's swayamvar for Ramayana in Mumbai. The sequence marks a key narrative turn and is being mounted on a grand Mithila set."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/shakti-kapoor-reacts-strongly-to-death-hoax-vows-complaint-against-rumour-mongers-2908496-2026-05-08",
-      "headline": "Shakti Kapoor reacts strongly to death hoax, vows complaint against rumour-mongers Shakti Kapoor has dismissed viral fake reports of his death and said he is healthy and happy. He said he would complain against those spreading the hoax and urged people to verify information before sharing it."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/amul-salutes-karan-johars-met-gala-2026-debut-with-viral-topical-ad-2908486-2026-05-08",
-      "headline": "Amul salutes Karan Johar's Met Gala 2026 debut with viral topical ad Amul has paid tribute to Karan Johar after his Met Gala 2026 debut in New York. The gesture amplified a fashion moment shaped by Indian art and quickly drew attention online."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/shama-mohamed-dhurandhar-part-1-x-row-propaganda-film-remark-2908455-2026-05-08",
-      "headline": "Take Pak citizenship: Congress leader to Dhurandhar critic over propaganda claim Congress spokesperson Shama Mohamed traded sharp words with an X user who called Dhurandhar Part 1 a propaganda film. The clash fed into the wider argument over whether the film targets Pakistanis rather than Muslims or pushes a political message."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/vijay-thalapathy-films-kadhalukku-mariyadhai-ghilli-thuppakki-kaththi-bigil-2908389-2026-05-08",
-      "headline": "Thalapathy's Big Five: Revisiting the Tamil films that made Vijay the icon he is From romance and sports dramas to action-packed entertainers, these five Vijay films not only ruled the box office but also shaped his journey into becoming Thalapathy for millions of fans."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/movies/hollywood/story/the-batman-part-2-batmobile-first-look-matt-reeves-winter-sequel-2908464-2026-05-08",
-      "headline": "The Batman Part 2: Matt Reeves teases first look, hints at snowy Gotham Matt Reeves has shared a teaser image of the Batmobile from The Batman: Part 2 on X. The post points to a winter setting as the sequel moves towards its 2027 release."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/the-vijay-formula-thalapathys-emotional-math-that-won-tamil-nadu-2908236-2026-05-08",
-      "headline": "Vijay may be short of majority, but Tamil Nadu already crowned its CM emotionally When Vijay entered politics, he did not just ask Tamil Nadu for votes, he asked for emotional trust. And even though the numbers are stopping him from forming the government for now, a large section of the state already seems to have accepted him as its Chief Minister emotionally."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/music/story/taylor-swift-travis-kelce-dine-at-indian-restaurant-for-date-night-in-london-2908450-2026-05-08",
-      "headline": "Taylor Swift, Travis Kelce dine at Indian restaurant for date night in London Taylor Swift and Travis Kelce were seen leaving Gymkhana in London after dinner. The outing has revived unconfirmed talk around an upcoming wedding."
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/assembly/story/vijay-magic-number-mlas-govt-formation-tamil-nadu-vck-congress-left-rally-behind-tvk-2908699-2026-05-08",
-      "headline": "Vijay gets the magic number to form govt as VCK, Congress, Left rally behind TVKWith Congress, VCK, CPI and CPI(M) backing TVK, Vijay now appears to have crossed the majority mark in the fractured Tamil Nadu Assembly."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/assembly/story/tamil-nadu-govenrment-formation-live-updates-new-cm-vijay-tvk-dmk-aiadmk-congress-bjp-governor-2908441-2026-05-08",
-      "headline": "Live: Vijay seeks meeting with Governor at 4.30 pm as TVK secures majority 118Tamil Nadu Government Formation News Live Updates: Tamil Nadu's post-election political situation continues to remain fluid, with parties weighing their options as uncertainty persists over government formation. DMK spokesperson TKS Elangovan said the party has not discussed any alliance with the AIADMK and would wait until May 10, the deadline reportedly given by the Governor, to see whether TVK chief Vijay can secure majority support. He indicated the DMK would consult allies only if alternative political arrangements become necessary. Amid speculation over possible realignments, AIADMK dismissed reports of a DMK-AIADMK understanding as \"just rumours.\" Meanwhile, VCK leader Sinthanai Selvan criticised TVK's approach to alliance-building, accusing some party functionaries of political arrogance and warning that opposition unity was essential to prevent what he described as BJP-backed Governor's rule. Congress MP Manickam Tagore also attacked the BJP, alleging attempts to delay the formation of a government despite what he claimed was a clear public mandate in favour of TVK. Stay tuned to IndiaToday.in for the latest updates."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/assembly/story/vijay-tvk-error-tamil-nadu-government-formation-hurdle-governor-2908614-2026-05-08",
-      "headline": "Is a small error by Vijay behind the big delay in becoming CM?Vijay has been turned back by the Governor twice after the TVK emerged as the single largest party in its debut Tamil Nadu election. A possible technical error may have emerged as Vijay's hurdle in TVK's bid to form the government."
+      "url": "https://www.indiatoday.in/india/story/suvendu-adhikari-to-be-bjps-first-west-bengal-chief-minister-2908759-2026-05-08",
+      "headline": "Suvendu Adhikari to be BJP's first West Bengal Chief MinisterWith Union Home Minister Amit Shah announcing Suvendu Adhikari as West Bengal's next chief minister, the BJP is set to form its first-ever government in the state after a historic electoral sweep."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/elections/assembly/story/west-bengal-post-election-bjp-government-formation-post-poll-violence-new-chief-minister-suvendu-adhikari-2908442-2026-05-08",
-      "headline": "Live: Bengal likely to get 2 Deputy Chief Ministers, including a womanWest Bengal CM Announcement Live Updates: Union Home Minister Amit Shah is in Kolkata to meet BJP's newly elected MLAs and is expected to decide the party's chief ministerial face. Will it be Suvendu Adhikari or someone else? Follow this space for updates on the high-stakes political suspense, as well as the probe into the killing of Adhikari's personal assistant, with the newly formed SIT now stepping in amid escalating post-poll violence."
+      "headline": "Live: CM-designate Suvendu Adhikari thanks Amit Shah, calls him 'modern-day Chanakya'West Bengal New CM Live Updates: Union Home Minister Amit Shah is in Kolkata to meet BJP's newly elected MLAs and is expected to decide the party's chief ministerial face. Will it be Suvendu Adhikari or someone else? Follow this space for updates on the high-stakes political suspense, as well as the probe into the killing of Adhikari's personal assistant, with the newly formed SIT now stepping in amid escalating post-poll violence."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/suvendu-da-ne-ghar-mein-aa-ke-haraya-amit-shahs-dig-at-mamata-banerjee-over-bhabanipur-defeat-2908788-2026-05-08",
+      "headline": "Suvendu da ghar mein aake haraya: Amit Shah's dig at Mamata over Bhabanipur lossUnion Home Minister Amit Shah on Friday took a sharp dig at Trinamool Congress (TMC) chief Mamata Banerjee, while announcing Suvendu Adhikari as BJP's Chief Minister face for West Bengal, saying she had been \"defeated on her home turf\" in Bhabanipur."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/elections/assembly/story/vijay-magic-number-mlas-govt-formation-tamil-nadu-vck-congress-left-rally-behind-tvk-2908699-2026-05-08",
+      "headline": "Vijay's TVK secures magic number 118 as VCK and Left come on boardWith Congress, VCK, CPI and CPI(M) backing TVK, Vijay now appears to have crossed the majority mark in the fractured Tamil Nadu Assembly."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/history-of-it/story/operation-meghdoot-siachen-india-kashmir-pakistan-longest-military-mission-ongoing-42-years-op-sindoor-2908431-2026-05-08",
       "headline": "Op Sindoor is ongoing. And so is this operation for the last 42 yearsIndian military commanders have repeatedly reminded us that Operation Sindoor against Pakistan is still on. There's another Indian military operation against Pakistan which has been going on for 42 years. Operation Meghdoot, which began in April 1984 in one of the world's harshest battlefields, doesn't have an end date. Here's why."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/elections/assembly/story/tamil-nadu-govenrment-formation-live-updates-new-cm-vijay-tvk-dmk-aiadmk-congress-bjp-governor-2908441-2026-05-08",
+      "headline": "Live: TVK chief Vijay to meet Governor at 6 pmTamil Nadu Government Formation News Live Updates: Tamil Nadu's post-election political situation continues to remain fluid, with parties weighing their options as uncertainty persists over government formation. DMK spokesperson TKS Elangovan said the party has not discussed any alliance with the AIADMK and would wait until May 10, the deadline reportedly given by the Governor, to see whether TVK chief Vijay can secure majority support. He indicated the DMK would consult allies only if alternative political arrangements become necessary. Amid speculation over possible realignments, AIADMK dismissed reports of a DMK-AIADMK understanding as \"just rumours.\" Meanwhile, VCK leader Sinthanai Selvan criticised TVK's approach to alliance-building, accusing some party functionaries of political arrogance and warning that opposition unity was essential to prevent what he described as BJP-backed Governor's rule. Congress MP Manickam Tagore also attacked the BJP, alleging attempts to delay the formation of a government despite what he claimed was a clear public mandate in favour of TVK. Stay tuned to IndiaToday.in for the latest updates."
     },
     {
       "sentiment": "negative",
@@ -231,13 +236,38 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/assembly/story/tamil-nadu-election-results-tvk-vijay-government-dmk-aiadmk-alliance-talks-vck-congress-coalition-2908588-2026-05-08",
-      "headline": "How Vijay holds all the cards even if DMK, AIADMK join handsEven if the DMK and the AIADMK come together to block Vijay's path to power, the TVK chief might still emerge the real winner. This is how Vijay can turn a number deficit into a narrative advantage and reshape Tamil Nadu politics in the long term."
+      "url": "https://www.indiatoday.in/elections/assembly/story/vijay-tvk-error-tamil-nadu-government-formation-hurdle-governor-2908614-2026-05-08",
+      "headline": "How a small error delayed Vijay's path to becoming CMVijay has been turned back by the Governor twice after the TVK emerged as the single largest party in its debut Tamil Nadu election. A possible technical error may have emerged as Vijay's hurdle in TVK's bid to form the government."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/assembly/story/tvk-sought-support-via-whatsapp-vck-slams-tvks-arrogant-approach-says-vijay-being-misguided-2908641-2026-05-08",
-      "headline": "Arrogant: VCK slams TVK for seeking support via WhatsApp, says Vijay is misguidedAccording to VCK general secretary Sinthanai Selvan, TVK workers sent messages on WhatsApp seeking support instead of Vijay personally reaching out to political leaders during the crucial post-results phase."
+      "url": "https://www.indiatoday.in/world/story/operation-sindoor-anniversary-indian-army-press-conference-pakistan-dg-ispr-why-officers-speak-english-trolled-2908629-2026-05-08",
+      "headline": "Why Indian Army officers used English, asks Pak Army spox, gets trolled by PakistanisLt Gen Ahmed Sharif Chaudhry, the head of the Pakistani military's media wing, has questioned why Indian military officers were speaking in English while briefing on Operation Sindoor on its first anniversary. Pakistanis trolled Chaudhry, questioning English usage in Pakistani military documents instead of Urdu."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/elections/assembly/story/tamil-nadu-dmk-congress-rift-parliament-seating-vijay-tvk-2908726-2026-05-08",
+      "headline": "Betrayer to Parliament seating tweak: The big Congress-DMK falloutFrom DMK and Congress workers clashing in the streets to accusing each other of 'betrayal' - the bad blood between the parties is now out in the open. The trigger was the Congress's move to ditch the DMK and ally with Vijay's TVK."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/west-bengal/story/who-is-suvendu-adhikari-bjp-west-bengal-chief-minister-profile-2908771-2026-05-08",
+      "headline": "Suvendu Adhikari's rise: From Nandigram giant killer to Bengal Chief MinisterOnce Mamata Banerjee's trusted lieutenant, Suvendu Adhikari is now set to take oath as West Bengal Chief Minister after scripting BJP's biggest breakthrough and defeating his former mentor once again."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/elections/assembly/story/tamil-nadu-election-results-tvk-vijay-government-dmk-aiadmk-alliance-talks-vck-congress-coalition-2908588-2026-05-08",
+      "headline": "How Vijay held all the cards, saved DMK, AIADMK from harakiriVijay is all set to become the chief minister of Tamil Nadu after receiving the support of the Congress, VCK and two Left parties. Amid the buzz of the DMK and the AIADMK coming together to block Vijay's path to power, the TVK chief still held all the cards. This is how Vijay has saved the DMK and AIADMK from a political suicide."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/citadel-2-review-priyanka-chopra-jonas-show-is-smarter-slicker-slightly-less-exhausting-2908713-2026-05-08",
+      "headline": "Citadel 2 review: Priyanka's show is smarter, slicker, slightly less exhaustingRelease Date:Wed May 06, 2026Citadel Season 2 returns with cleaner momentum, sharper self-awareness and a more controlled spy spectacle. It remains excessive and emotionally thin, but the series is finally entertaining on its own terms."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/elections/story/he-returned-from-the-us-to-serve-india-tamil-nadu-election-result-left-him-broken-2908451-2026-05-08",
+      "headline": "He returned from US to serve India. Tamil Nadu election result left him brokenAnanthan Ayyasamy, who worked as an engineer at Intel, joined the BJP and was appointed district president of Tenkasi in Tamil Nadu. For the next four years, he immersed himself completely in grassroots work across villages."
     },
     {
       "sentiment": "positive",
@@ -251,86 +281,71 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/trump-india-pakistan-ceasefire-claim-us-losses-iran-war-operation-sindoor-anniversary-epic-fury-2908160-2026-05-08",
-      "headline": "Trump counts India's bruises, but hides Iran-delivered woundsTrump still counts every jet he claims India lost during Operation Sindoor, but appears to have forgotten the aircraft, THAAD systems and soldiers America lost in the Iran war. The world's loudest commentator on foreign wars is silent when the wreckage carries an American flag."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/assembly/story/west-bengal-cm-face-government-formation-dilip-ghosh-exclusive-tmc-bengal-bjp-mamata-2908543-2026-05-08",
-      "headline": "From dragon fruit farming to CM reckoning: Dilip Ghosh's Bengal comeback storyLeading Bengal CM face Dilip Ghosh told IndiaToday.in that Mamata Banerjee turned \"netas into goondas and goondas into netas,\" but said the BJP may later admit \"useful\" leaders. He called for Mamata's party to be uprooted, accused her of undermining democratic institutions, and said the party's priority would be restoring law and order."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/anthropic-says-its-new-ai-tool-can-hack-into-claudes-brain-and-know-what-it-is-thinking-2908571-2026-05-08",
-      "headline": "What is Claude thinking? Anthropic may have found the answerAnthropic says it may have found a way to understand what its AI model Claude is \"thinking\" internally. The company's new system translates hidden AI activation patterns into readable text, which allows it to study reasoning, planning and even safety risks happening behind the scenes of AI while the chatbot processes prompts."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/donald-trump-rachel-scott-abc-news-reflecting-pool-iran-gas-prices-row-2908585-2026-05-08",
-      "headline": "Did he say b***h? Trump's hot-mic moment as journalist asks 'stupid question'The heated exchange took place on Thursday when Trump made a surprise visit to the National Mall, where restoration work is being carried out at the Reflecting Pool ahead of the country's 250th anniversary celebrations."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/sanjay-raut-donald-trump-modi-bjp-west-bengal-win-row-2908655-2026-05-08",
-      "headline": "Sanjay Raut tells Trump Bengal polls internal issue. Then lists all internal issuesUddhav Sena MP Sanjay Raut has written to Donald Trump objecting to his message congratulating Narendra Modi on the BJP's West Bengal victory. He said allegations around the conduct of the polls should be examined before such endorsements are made."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/is-indias-mission-drishti-satellite-tumbling-in-space-galaxeye-founder-answers-2908573-2026-05-08",
-      "headline": "Is India's Drishti satellite tumbling in space? GalaxEye founder answersOpen-source satellite observations triggered questions over whether GalaxEye's Mission Drishti is slowly tumbling in orbit."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/elections/story/he-returned-from-the-us-to-serve-india-tamil-nadu-election-result-left-him-broken-2908451-2026-05-08",
-      "headline": "He returned from US to serve India. Tamil Nadu election result left him brokenAnanthan Ayyasamy, who worked as an engineer at Intel, joined the BJP and was appointed district president of Tenkasi in Tamil Nadu. For the next four years, he immersed himself completely in grassroots work across villages."
+      "url": "https://www.indiatoday.in/lifestyle/food/story/president-droupadi-murmu-banquet-menu-vietnam-president-to-lam-vegetarian-punjab-haryana-menu-harpal-sokhi-2908630-2026-05-08",
+      "headline": "Bajra Khichdi, Dal Amritsari: President Murmu's banquet menu for Vietnam PresidentChef Harpal Singh Sokhi curated the viral Punjab-Haryana menu served at President Droupadi Murmu's state banquet for Vietnamese President To Lam, which is currently being widely discussed online."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/education-today/story/cbse-12th-result-2026-live-updates-rest-date-direct-link-cbse-class-12-marksheet-pass-percentage-digilocker-2908634-2026-05-08",
-      "headline": "CBSE 12th Result 2026 Live: Final evaluation underway, result 'likely on May 15 or 16'CBSE Board 12th Results Live Updates: CBSE 12th result 2026 date and time awaited as evaluation continues, check cbseresults.nic.in direct link, DigiLocker marksheet download, SMS and UMANG access, pass percentage trends, official websites, and latest updates on CBSE class 12 result declaration expected in the third week of May 2026."
+      "headline": "CBSE 12th Result 2026 Live: Latest updates on result date, time, link, scorecard download detailsCBSE Board 12th Results Live Updates: CBSE 12th result 2026 date and time awaited as evaluation continues, check cbseresults.nic.in direct link, DigiLocker marksheet download, SMS and UMANG access, pass percentage trends, official websites, and latest updates on CBSE class 12 result declaration expected in the third week of May 2026."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-bcci-directive-honey-trap-vaping-ban-rules-explained-2908474-2026-05-08",
-      "headline": "IPL on honey-trap alert, BCCI cracks down on players' hotel room accessThe BCCI has warned all 10 IPL franchises after repeated breaches covering hotel access, owner movement and vaping. The directive makes clear that loose controls now carry security, legal and reputational risks for teams and the league."
+      "url": "https://www.indiatoday.in/technology/news/story/this-ai-startup-is-giving-every-employee-a-10-raise-every-year-without-any-performance-review-2908710-2026-05-08",
+      "headline": "This AI startup is giving every employee a 10% raise every year, without any performance reviewAI startup Lovable has introduced a policy granting full-time employees who meet expectations a 10 per cent salary rise on each work anniversary."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/donald-trump-global-tariffs-ruled-illegal-us-trade-court-2908443-2026-05-08",
-      "headline": "Invalid, unauthorised by law: US court strikes down Trump's 10% global tariffsA US trade court ruled that Donald Trump's temporary 10% global tariffs were unlawful. The decision deepens pressure on the administration's tariff strategy as an appeal looms."
+      "url": "https://www.indiatoday.in/elections/assembly/story/tamil-nadu-election-results-dmk-congress-split-mp-kanimozhi-letter-to-lok-sabha-speaker-change-in-lok-sabha-seats-2908730-2026-05-08",
+      "headline": "Congress no more friend, DMK wants distance and seat change in Lok SabhaThe alliance between the DMK and the Congress has been declared dead in the water after the latter's decision to side with the TVK in Tamil Nadu. The DMK wants to distance itself from the Congress even in Delhi. DMK MP Kanimozhi has written to the Lok Sabha Speaker, seeking a change in the seats in the House."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/hrithik-roshan-kaho-naa-pyaar-hai-wedding-dance-video-fans-nostalgic-2908653-2026-05-08",
-      "headline": "Looks like he's 25 again: Hrithik Roshan's viral wedding dance sparks nostalgiaHrithik Roshan was seen dancing to the title track of Kaho Naa... Pyaar Hai at a wedding in Suryagarh. The video sparked nostalgic reactions online as fans praised his energy, expressions and grace."
+      "url": "https://www.indiatoday.in/sports/football/story/india-u17-women-vs-lebanon-afc-u17-womens-asian-cup-quarterfinal-2908731-2026-05-08",
+      "headline": "India U17 women keep historic Asian Cup quarterfinal and World Cup dream aliveIndia's U17 women beat Lebanon 4-0 in Suzhou to stay in the AFC U17 Women's Asian Cup quarterfinal race. The result lifted their goal difference to -1 and kept their FIFA U17 Women's World Cup hopes alive."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/shama-mohamed-dhurandhar-part-1-x-row-propaganda-film-remark-2908455-2026-05-08",
-      "headline": "Take Pak citizenship: Congress leader to Dhurandhar critic over propaganda claimCongress spokesperson Shama Mohamed traded sharp words with an X user who called Dhurandhar Part 1 a propaganda film. The clash fed into the wider argument over whether the film targets Pakistanis rather than Muslims or pushes a political message."
+      "url": "https://www.indiatoday.in/elections/assembly/story/tvk-sought-support-via-whatsapp-vck-slams-tvks-arrogant-approach-says-vijay-being-misguided-2908641-2026-05-08",
+      "headline": "Arrogant: VCK slams TVK for seeking support via WhatsApp, says Vijay is misguidedAccording to VCK general secretary Sinthanai Selvan, TVK workers sent messages on WhatsApp seeking support instead of Vijay personally reaching out to political leaders during the crucial post-results phase."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/trump-india-pakistan-ceasefire-claim-us-losses-iran-war-operation-sindoor-anniversary-epic-fury-2908160-2026-05-08",
+      "headline": "Trump counts India's bruises, but hides Iran-delivered woundsTrump still counts every jet he claims India lost during Operation Sindoor, but appears to have forgotten the aircraft, THAAD systems and soldiers America lost in the Iran war. The world's loudest commentator on foreign wars is silent when the wreckage carries an American flag."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/akhilesh-yadav-swipes-at-congress-over-dmk-split-tvk-support-stalin-mamata-2908593-2026-05-08",
-      "headline": "Not ones who abandon: Akhilesh's veiled dig at Congress with pics of Mamata, StalinSamajwadi Party chief Akhilesh Yadav took a swipe at the Congress after it snapped ties with the DMK in Tamil Nadu and extended support to actor-politician Vijay's Tamilaga Vettri Kazhagam (TVK) to form the government in the state."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/nida-khan-arrested-after-25-days-in-tcs-nashik-religious-conversion-case-2908631-2026-05-08",
-      "headline": "After weeks on the run, how TCS Nashik case accused Nida Khan was arrestedSuspended TCS employee Nida Khan, who was a telecaller at the TCS Nashik BPO unit, was traced to an apartment in Chhatrapati Sambhaji Nagar city on Thursday night, where she was allegedly staying with her maternal aunt and three other relatives."
+      "url": "https://www.indiatoday.in/trending-news/story/mumbai-man-walks-into-hospital-with-machete-stuck-in-head-doctors-save-him-2908691-2026-05-08",
+      "headline": "Mumbai man walks into hospital with machete stuck in head, doctors save himA man walked into a hospital in Mumbai with a machete lodged in his head, but survived after the doctors rushed to save him. Social media users expressed their shock over the disturbing visuals."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/hrithik-roshan-kaho-naa-pyaar-hai-wedding-dance-video-fans-nostalgic-2908653-2026-05-08",
-      "headline": "Looks like he's 25 again: Hrithik Roshan's viral wedding dance sparks nostalgiaHrithik Roshan was seen dancing to the title track of Kaho Naa... Pyaar Hai at a wedding in Suryagarh. The video sparked nostalgic reactions online as fans praised his energy, expressions and grace."
+      "url": "https://www.indiatoday.in/movies/reviews/story/29-review-rathna-kumar-love-ambition-identity-crisis-2908703-2026-05-08",
+      "headline": "29 review: Rathna Kumar's film has novel idea that loses its way before finding itRelease Date:Fri May 08, 202629 \u2013 The Film movie review: Director Rathna Kumar's 29, starring Vidhu and Preethi Asrani, is a romantic drama. The film is about a man who'll soon turn 30, and his tryst with love while battling an identity crisis. While the film's intentions are right, it takes unwanted detours before getting on the right path."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/dhurandhar-2-completes-50-days-of-box-office-carnage-endless-global-records-2908638-2026-05-08",
-      "headline": "Dhurandhar 2 completes 50 days of box office carnage, endless global recordsDhurandhar 2: The Revenge has completed 50 days in theatres with Rs 1,791.55 crore worldwide. Its sustained run and record haul have pushed it to No. 2 among Indian films globally."
+      "url": "https://www.indiatoday.in/movies/hollywood/story/mortal-kombat-ii-review-karl-urbans-arcade-bloodbath-is-dumb-fun-done-right-2908700-2026-05-08",
+      "headline": "Mortal Kombat II review: Karl Urban's arcade bloodbath is dumb fun done rightRelease Date:Fri May 08, 2026Mortal Kombat II The film brings Earthrealm into the long-delayed tournament against Shao Kahn's forces. Leaning fully into camp and carnage, Karl Urban's arcade bloodbath is dumb fun done right. Here is our review."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/dc-vs-kkr-live-score-ipl-2026-delhi-capitals-kolkata-knight-riders-match-2908785-2026-05-08",
+      "headline": "DC vs KKR Live Score: Kolkata look to continue winning run against struggling Delhi DC (Delhi) vs KKR (Kolkata) Live Score, IPL 2026: Kolkata Knight Riders have won three matches on the trot but need more work to enter the top four when they face the Delhi Capitals on Friday. The Capitals, on the other hand, have lost four out of their last five matches and will be depserate to regain momentum."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/india-u17-women-vs-lebanon-afc-u17-womens-asian-cup-quarterfinal-2908731-2026-05-08",
+      "headline": "India U17 women keep historic Asian Cup quarterfinal and World Cup dream alive India's U17 women beat Lebanon 4-0 in Suzhou to stay in the AFC U17 Women's Asian Cup quarterfinal race. The result lifted their goal difference to -1 and kept their FIFA U17 Women's World Cup hopes alive."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/d-gukesh-beats-fabiano-caruana-ties-fourth-super-rapid-blitz-rapid-2908724-2026-05-08",
+      "headline": "Super Rapid and Blitz: Gukesh beats Caruana in final round of Rapid event World champion D Gukesh defeated American Grandmaster Fabiano Caruana in the final round of the rapid section to secure a tied-fourth finish at the Super Rapid and Blitz Tournament."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ms-dhoni-highest-individual-taxpayer-bihar-jharkhand-fy-2025-26-2908675-2026-05-08",
@@ -374,17 +389,17 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/delhi-capitals-vs-kkr-prithvi-shaw-return-ipl-playoff-push-2908545-2026-05-08",
-      "headline": "Should DC roll the dice on Prithvi Shaw in their last-gasp IPL playoff push? Delhi Capitals need a spark in their last-gasp playoff push. But should that spark come from a returning Prithvi Shaw? Here is why DC might just roll the dice."
+      "headline": "Should DC roll the dice on Prithvi Shaw in their last-gasp IPL playoff push?Delhi Capitals need a spark in their last-gasp playoff push. But should that spark come from a returning Prithvi Shaw? Here is why DC might just roll the dice."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/lsg-vs-rcb-rishabh-pant-final-over-decision-digvesh-rathi-shahbaz-ahmed-2908541-2026-05-08",
-      "headline": "Rishabh Pant's final over dilemma: Why Digvesh was picked over Shahbaz Ahmed LSG vs RCB: With 20 runs to defend, Rishabh Pant faced a huge final-over call between Shahbaz Ahmed and Digvesh Rathi. He backed mystery over experience, and the gamble paid off for LSG."
+      "headline": "Rishabh Pant's final over dilemma: Why Digvesh was picked over Shahbaz AhmedLSG vs RCB: With 20 runs to defend, Rishabh Pant faced a huge final-over call between Shahbaz Ahmed and Digvesh Rathi. He backed mystery over experience, and the gamble paid off for LSG."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-dc-vs-kkr-preview-delhi-capitals-kolkata-knight-riders-pitch-playing-xi-playoff-scenario-2908519-2026-05-08",
-      "headline": "Now or never for misfiring DC as rejuvenated KKR await in must-win showdown IPL 2026, DC vs KKR Preview: Home has turned into anything but a safe haven for a struggling Delhi Capitals side, which heads into Friday's must-win clash against Kolkata Knight Riders with its IPL 2026 campaign hanging by a thread."
+      "headline": "Now or never for misfiring DC as rejuvenated KKR await in must-win showdownIPL 2026, DC vs KKR Preview: Home has turned into anything but a safe haven for a struggling Delhi Capitals side, which heads into Friday's must-win clash against Kolkata Knight Riders with its IPL 2026 campaign hanging by a thread."
     },
     {
       "sentiment": "positive",
@@ -465,21 +480,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/bangladesh-vs-pakistan-test-series-2026-squads-schedule-live-streaming-2908303-2026-05-07",
       "headline": "Bangladesh vs Pakistan Test series: Squads, schedule and all you need to knowBAN vs PAK, 1st Test: Najmul Hossain Shanto's Bangladesh and Shan Masood's Pakistan are all set to lock horns in a two-match Test series, starting Friday, May 8 at the Sher-e-Bangla National Stadium in Mirpur."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/gautam-gambhir-atul-wassan-bullying-claims-india-dressing-room-debate-2908245-2026-05-07",
-      "headline": "Gambhir handling dressing room with a stick, players not happy with him: Ex-cricketerFormer cricketer Atul Wassan has accused Gautam Gambhir of bullying behaviour and a rigid management style in the India dressing room. His remarks renew focus on dressing-room tensions despite India's recent white-ball titles."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/australian-marcus-north-set-to-become-england-mens-selector-2908267-2026-05-07",
-      "headline": "Ashes rivals England set to appoint ex-Australian cricketer as men's selectorEngland are set to appoint former Australia international Marcus North as their new national selector, with the ex-Ashes rival poised to become the first overseas figure to oversee selection for the England men's team."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ben-stokes-fit-to-bowl-durham-county-return-england-2908204-2026-05-07",
-      "headline": "England captain Ben Stokes ready to bowl on cricket comeback from injuryBen Stokes is expected to contribute with both bat and ball for Durham as the England captain returns to competitive action for the first time since England's disastrous Ashes campaign."
     }
   ],
   "education": [
