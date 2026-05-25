@@ -103,6 +103,11 @@
   ],
   "entertainment": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/actor-khushbu-sundar-felicitates-tamil-nadu-cm-vijay-calls-it-emotional-moment-2917002-2026-05-25",
+      "headline": "Actor Khushbu Sundar felicitates Tamil Nadu CM Vijay, calls it emotional moment Actor-politician Khushbu Sundar met Tamil Nadu Chief Minister Vijay at the Secretariat during a STEPS delegation visit, describing the moment as unexpectedly emotional."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/movies/celebrities/story/dharmendra-padma-vibhushan-hema-malini-accepts-posthumous-honour-from-president-murmu-2916952-2026-05-25",
       "headline": "Emotional Hema Malini accepts Dharmendra's posthumous Padma Vibhushan. Video Hema Malini accepted the posthumous Padma Vibhushan awarded to Dharmendra from President Droupadi Murmu at Rashtrapati Bhavan. She was visibly emotional while receiving the honour on behalf of her late husband."
@@ -130,7 +135,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/music/story/viva-streaming-comeback-indias-first-girl-pop-band-on-kaanphod-and-audio-ott-platforms-2916807-2026-05-25",
-      "headline": "Girl band VIVA returns after 20 years, bringing back Y2K pop nostalgia VIVA's iconic music catalogue is finally back on streaming platforms after two decades, bringing renewed attention to India's first all-girl pop band and the era that shaped millennial pop culture."
+      "headline": "India's pop girl band era returns as VIVA's music hits streaming platforms VIVA's iconic music catalogue is finally back on streaming platforms after two decades, bringing renewed attention to India's first all-girl pop band and the era that shaped millennial pop culture."
     },
     {
       "sentiment": "positive",
@@ -191,11 +196,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/akshay-kumar-akshara-singh-welcome-to-the-jungle-ghis-ghis-ghis-song-2916650-2026-05-25",
       "headline": "Akshay Kumar, Akshara Singh go Ghis Ghis in Welcome 3 song, fans say garda uda diye Welcome To The Jungle has released its new song Ghis Ghis Ghis featuring Akshay Kumar and Akshara Singh. The track blends Bollywood and Bhojpuri flavours and has drawn upbeat reactions from viewers."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/aaradhya-watches-aishwaryas-global-frenzy-at-cannes-in-viral-mother-daughter-moment-2916612-2026-05-25",
-      "headline": "Aaradhya watches Aishwarya's global frenzy at Cannes in viral mother-daughter moment Aishwarya Rai Bachchan stopped to greet fans during an outing at Cannes with Aaradhya Bachchan. The video drew attention online to Aaradhya's reaction as the crowd gathered."
     }
   ],
   "general news": [
@@ -216,8 +216,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/delhi-gymkhana-eviction-lutyens-club-land-row-elitism-prime-minister-residence-7-lok-kalyan-marg-2916677-2026-05-25",
-      "headline": "Even babus can't save Delhi Gymkhana from its old boys' club imageAs Delhi Gymkhana fights eviction from prime Lutyens' land, the row has reignited a larger debate on whether public land should continue subsidising hereditary privilege and elite exclusivity in modern India."
+      "url": "https://www.indiatoday.in/world/story/irans-president-orders-restoration-of-international-internet-access-after-87-day-blackout-report-2916998-2026-05-25",
+      "headline": "Iran President orders restoration of internet access after 87-day blackoutThe order was confirmed by officials from Iran's Communications Ministry, with state-linked outlets including Mehr News Agency reporting that Masoud Pezeshkian had issued a formal decree to reopen internet access."
     },
     {
       "sentiment": "positive",
@@ -231,13 +231,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/tamil-nadu/story/three-aiadmk-mlas-resign-switch-loyalties-to-vijays-tvk-2916718-2026-05-25",
-      "headline": "3 AIADMK MLAs resign, switch to Vijay's TVK in fresh setback for EPSAIADMK MLAs Maragatham Kumaravel, Jayakumar and Sathyabama resigned from the Tamil Nadu Assembly and joined Chief Minister Vijay-led TVK."
+      "url": "https://www.indiatoday.in/india/story/delhi-gymkhana-eviction-lutyens-club-land-row-elitism-prime-minister-residence-7-lok-kalyan-marg-2916677-2026-05-25",
+      "headline": "Even babus can't save Delhi Gymkhana from its old boys' club imageAs Delhi Gymkhana fights eviction from prime Lutyens' land, the row has reignited a larger debate on whether public land should continue subsidising hereditary privilege and elite exclusivity in modern India."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/actor-ranveer-singh-banned-by-film-workers-federation-amid-row-over-abrupt-exit-from-farhan-akhtars-don-3-2916794-2026-05-25",
-      "headline": "Ranveer Singh faces industry-wide ban as Don 3 fallout escalatesActor Ranveer Singh has been banned by the Federation of Western India Cine Employees in India following Farhan Akhtar's complaint in the Don 3 row."
+      "url": "https://www.indiatoday.in/india/tamil-nadu/story/three-aiadmk-mlas-resign-switch-loyalties-to-vijays-tvk-2916718-2026-05-25",
+      "headline": "3 AIADMK MLAs resign, switch to Vijay's TVK in fresh setback for EPSAIADMK MLAs Maragatham Kumaravel, Jayakumar and Sathyabama resigned from the Tamil Nadu Assembly and joined Chief Minister Vijay-led TVK."
     },
     {
       "sentiment": "negative",
@@ -255,9 +255,9 @@
       "headline": "Storm brewing in TMC? Mamata's aide Kakoli Ghosh Dastidar quits party postKakoli Ghosh Dastidar, Trinamool Congress's Barasat MP and Mamata Banerjee's longtime ally, has resigned from her party post. Ghosh Dastidar blamed misgovernance within the TMC and the I-PAC for TMC's washout. Her resignation and subsequent attack by TMC's Kalyan Banerjee reveal the storm brewing within the party."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/us-iran-news-middle-east-war-pakistani-shias-uae-workers-mass-deportation-islamabad-peacemaker-2916665-2026-05-25",
-      "headline": "Only crime we are Shia: Pakistanis deported from the UAE amid Iran warBetween the US-Iran war and the fracturing of ties between the UAE and Pakistan, the Pakistani Shia diaspora in the Emirate has become the grass trampled underfoot. Thousands of Shia Pakistanis face deportation, even as a Sunni-majority UAE faces unprovoked attacks from a Shia Iran and Islamabad's mediation bid."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/imd-weather-forecast-delhi-heatwave-assam-rainfall-india-2916808-2026-05-25",
+      "headline": "Heat, dust to remain in weather across north, rain to dominate KeralaOn Monday, the heat was relentless in the North. In the northeast and along the southern coast, it was raining hard enough to flood roads. The day continued 2026's run of intense, erratic weather, and Tuesday promises the same."
     },
     {
       "sentiment": "positive",
@@ -266,18 +266,18 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/taj-mahal-marco-rubio-visit-sparks-iran-consulate-jibe-over-persian-links-2916983-2026-05-25",
+      "headline": "If only he knew history...: Iran's swipe at Marco Rubio after Taj Mahal visitUS Secretary of State Marco Rubio's Taj Mahal visit sparked a diplomatic jibe from the Iranian consulate in Hyderabad, which invoked the Mughal monument's Persian roots."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/us-iran-news-middle-east-war-pakistani-shias-uae-workers-mass-deportation-islamabad-peacemaker-2916665-2026-05-25",
+      "headline": "Only crime we are Shia: Pakistanis deported from the UAE amid Iran warBetween the US-Iran war and the fracturing of ties between the UAE and Pakistan, the Pakistani Shia diaspora in the Emirate has become the grass trampled underfoot. Thousands of Shia Pakistanis face deportation, even as a Sunni-majority UAE faces unprovoked attacks from a Shia Iran and Islamabad's mediation bid."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/education-today/story/upsc-prelims-2026-lengthy-gs-paper-csat-pt-answer-key-syllabus-debate-2916420-2026-05-25",
       "headline": "Was this toughest UPSC Prelims ever? Even bureaucrats struggled to solve paperMore than eight lakh aspirants appeared for the first level of one of India's most competitive and coveted recruitment tests, the Civil Services exam. Many aspirants and mentors are saying this was the toughest paper ever. They are asking if the UPSC questions have become exhaustive, or simply more unpredictable."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/cbi-takes-over-twisha-sharma-suicide-case-probe-registers-fir-in-bhopal-2916978-2026-05-25",
-      "headline": "CBI registers FIR, takes over Twisha Sharma death probe from Bhopal PoliceAs the Supreme Court raises concerns over possible criminal conspiracy and media speculation, the CBI has now entered the high-profile Twisha Sharma death case, taking control of the probe from Bhopal Police."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/law-news/story/twisha-sharma-death-case-supreme-court-backs-cbi-probe-dowry-death-samarth-singh-2916594-2026-05-25",
-      "headline": "Divorced daughter better than a dead one: MP government on Twisha Sharma caseThe Supreme Court said an independent agency should investigate Twisha Sharma's death and backed the Madhya Pradesh government's move for a CBI probe."
     },
     {
       "sentiment": "negative",
@@ -286,18 +286,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/who-is-nishesh-basavareddy-indian-origin-wildcard-stuns-taylor-fritz-french-open-2916452-2026-05-25",
-      "headline": "Who is Nishesh Basavareddy? 21-year-old Indian-origin man ousts Fritz at French OpenFrench Open: Nishesh Basavareddy, a 21-year-old American wildcard of Indian origin, announced himself on one of tennis' biggest stages after stunning seventh seed Taylor Fritz in the opening round of the Roland Garros on Sunday."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/commodities/story/petrol-prices-india-rise-despite-crude-oil-below-100-why-reasons-omc-loss-recovery-weak-rupee-2916579-2026-05-25",
-      "headline": "Cheaper crude won't reduce your petrol, diesel expenses anytime soonGlobal crude oil prices have slipped below $100 a barrel, but petrol and diesel prices in India continue to rise. The gap reflects earlier oil company losses, a weaker rupee, heavy taxes and lingering geopolitical risks."
+      "url": "https://www.indiatoday.in/education-today/news/story/cbse-class-12-physics-answer-sheet-discrepancy-vedant-complaint-2916889-2026-05-25",
+      "headline": "CBSE reaches out to Class 12 student after viral post on answer sheet mismatchCBSE has taken up Class 12 student Vedant's complaint over his Physics answer sheet on top priority after his post went viral. The case has put the board's post-result verification and re-evaluation process under fresh scrutiny."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/cbse-class-12-re-test-re-evaluation-portal-chaos-fairness-under-strain-2916609-2026-05-25",
-      "headline": "CBSE Class 12 re-test? Why it's the nuclear option nobody wantsAs falling pass percentages, portal crashes and re-evaluation chaos spark outrage, a larger question now hangs over India's education system. Should we press that button?"
+      "url": "https://www.indiatoday.in/india/law-news/story/twisha-sharma-death-case-supreme-court-backs-cbi-probe-dowry-death-samarth-singh-2916594-2026-05-25",
+      "headline": "Divorced daughter better than a dead one: MP government on Twisha Sharma caseThe Supreme Court said an independent agency should investigate Twisha Sharma's death and backed the Madhya Pradesh government's move for a CBI probe."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/who-is-nishesh-basavareddy-indian-origin-wildcard-stuns-taylor-fritz-french-open-2916452-2026-05-25",
+      "headline": "Who is Nishesh Basavareddy? 21-year-old Indian-origin man ousts Fritz at French OpenFrench Open: Nishesh Basavareddy, a 21-year-old American wildcard of Indian origin, announced himself on one of tennis' biggest stages after stunning seventh seed Taylor Fritz in the opening round of the Roland Garros on Sunday."
     },
     {
       "sentiment": "negative",
@@ -306,13 +306,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/8th-pay-commission-demands-fitment-factor-ops-family-unit-government-middle-path-2916714-2026-05-25",
-      "headline": "8th Pay Commission: Why govt may not accept all demands by employee unionsEmployee unions have pressed the 8th Pay Commission for a higher fitment factor, pension changes and a five-family formula. A senior representative said fiscal pressure and long-term liabilities could push the government towards a middle path."
+      "url": "https://www.indiatoday.in/technology/news/story/maadhaar-app-discontinued-uidai-new-aadhaar-app-qr-face-authentication-2916797-2026-05-25",
+      "headline": "mAadhaar to be discontinued, govt announces new Aadhaar app: Check details hereThe government has confirmed that the mAadhaar app will soon be discontinued as UIDAI rolls out a new Aadhaar app with upgraded security and QR-based verification features. The new platform focuses on selective data sharing, biometric controls, and multi-layer authentication for safer digital identity access."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/maadhaar-app-discontinued-uidai-new-aadhaar-app-qr-face-authentication-2916797-2026-05-25",
-      "headline": "mAadhaar to be discontinued, govt announces new Aadhaar app: Check details hereThe government has confirmed that the mAadhaar app will soon be discontinued as UIDAI rolls out a new Aadhaar app with upgraded security and QR-based verification features. The new platform focuses on selective data sharing, biometric controls, and multi-layer authentication for safer digital identity access."
+      "url": "https://www.indiatoday.in/business/story/8th-pay-commission-demands-fitment-factor-ops-family-unit-government-middle-path-2916714-2026-05-25",
+      "headline": "8th Pay Commission: Why govt may not accept all demands by employee unionsEmployee unions have pressed the 8th Pay Commission for a higher fitment factor, pension changes and a five-family formula. A senior representative said fiscal pressure and long-term liabilities could push the government towards a middle path."
     },
     {
       "sentiment": "positive",
@@ -321,6 +321,21 @@
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/french-open-casper-ruud-vs-roman-safiullin-roland-garros-heat-scare-five-set-win-2917023-2026-05-26",
+      "headline": "Ruud survives five-set epic at French Open, Shelton also advances as Wawrinka bows out French Open: Casper Ruud survived Roman Safiullin in five sets at Roland Garros after blowing five match points and battling dizziness, cramps and heat stress. The escape kept his Paris campaign alive on a draining day that also brought wins for Amanda Anisimova and Ben Shelton, and a farewell for Stan Wawrinka."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-iran-world-cup-2026-base-camp-tijuana-mexico-sheinbaum-2917021-2026-05-26",
+      "headline": "No issues with Iran basing in Mexico for World Cup: President Claudia approves FIFA World Cup: Mexico will host Iran's World Cup 2026 base camp in Tijuana after the team was moved out of the United States. The switch shows how geopolitics and security concerns are already shaping tournament logistics."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/athletics/story/animesh-kujur-misses-200m-cwg-cut-afi-qualification-gurindervir-record-loss-2916992-2026-05-25",
+      "headline": "Animesh Kujur wins 200m gold but misses CWG cut by 0.03s Animesh Kujur won the men's 200m final at the Federation Cup in Ranchi but missed the Commonwealth Games qualifying mark by three hundredths of a second. The result followed Gurindervir Singh taking away his 100m national record, deepening a dramatic week in Indian sprinting."
+    },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-shreyas-iyer-sister-hits-back-at-trolls-after-pbks-exit-2916966-2026-05-25",
@@ -364,17 +379,17 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/harmanpreet-kaur-padma-shri-president-droupadi-murmu-rashtrapati-bhavan-2916828-2026-05-25",
-      "headline": "World Cup hero Harmanpreet Kaur receives Padma Shri, stuns in ethnic look: Video President Droupadi Murmu presented the Padma Shri to Harmanpreet Kaur at Rashtrapati Bhavan on Monday. The honour recognises her contribution to Indian cricket ahead of the Women's T20 World Cup."
+      "headline": "World Cup hero Harmanpreet Kaur receives Padma Shri, stuns in ethnic look: VideoPresident Droupadi Murmu presented the Padma Shri to Harmanpreet Kaur at Rashtrapati Bhavan on Monday. The honour recognises her contribution to Indian cricket ahead of the Women's T20 World Cup."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/shubman-gill-sai-sudharsan-best-ever-ipl-batting-pair-suresh-raina-2916803-2026-05-25",
-      "headline": "Shubman Gill, Sai Sudharsan best ever IPL batting pair: Suresh Raina Spain finally announced their FIFA World Cup 2026 squad, but the biggest talking point quickly became the complete absence of Real Madrid players. Euro 2024 champions Spain head into the tournament as one of the favourites, with Barcelona stars dominating Luis de la Fuente's squad."
+      "headline": "Shubman Gill, Sai Sudharsan best ever IPL batting pair: Suresh RainaSpain finally announced their FIFA World Cup 2026 squad, but the biggest talking point quickly became the complete absence of Real Madrid players. Euro 2024 champions Spain head into the tournament as one of the favourites, with Barcelona stars dominating Luis de la Fuente's squad."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/french-open-maja-chwalinska-stuns-zheng-qinwen-first-round-2916795-2026-05-25",
-      "headline": "Olympic champion Zheng Qinwen stunned by Poland youngster in major upset French Open 2026: Maja Chwalinska produced a major Roland Garros upset by defeating Olympic champion Zheng Qinwen 6-4, 6-0 in the first round, storming into the second round on her main-draw debut in the tournament."
+      "headline": "Olympic champion Zheng Qinwen stunned by Poland youngster in major upsetFrench Open 2026: Maja Chwalinska produced a major Roland Garros upset by defeating Olympic champion Zheng Qinwen 6-4, 6-0 in the first round, storming into the second round on her main-draw debut in the tournament."
     },
     {
       "sentiment": "positive",
@@ -409,7 +424,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/french-open-day-2-live-updates-iga-swiatek-elena-rybakina-gael-monfils-2916682-2026-05-25",
-      "headline": "Day 2 Live Updates: Jesper de Jong stuns Stan Wawrinka, Swiatek hammers JonesFrench Open Day 2 Live Updates: Competing in his final French Open, Stan Wawrinka crashed out of the first round after surprise loss to Jesper de Jong in four-sets (3-6, 6-3, 3-6, 4-6). Iga Swiatek and Elena Rybakina proceeded to next rounds after dominating wins. Later in the day, Ben Shelton, and power couple Gael Monfils and Elina Svitolina will play."
+      "headline": "Day 2 Highlights: Ruud, Swiatek, Shelton advance to next round as Wawrinka waves goodbyeFrench Open Day 2 Highlights: Competing in his final French Open, an emotional Stan Wawrinka waved goodbye to French open after first round loss to Jesper de Jong in four-sets (3-6, 6-3, 3-6, 4-6). Iga Swiatek, Ben Shelton, Elena Rybakina, and Amanda Anisimova proceeded to next rounds after dominating wins. While Casper Ruud overcame Roman Safiullin in a thrilling five-set battle."
     },
     {
       "sentiment": "positive",
@@ -460,21 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/riyan-parag-rajasthan-royals-ipl-2026-playoffs-shane-warne-legacy-2916514-2026-05-25",
       "headline": "Criticised, trolled, not fully fit: Riyan still dares to chase Warne's RR legacyIPL 2026: Heavily criticised for both his on-field and off-field decisions, Riyan Parag battled injury to lead Rajasthan Royals into the playoffs. Now, he has the chance to match Shane Warne's legacy by becoming the first RR captain since 2008 to lift the IPL trophy and deliver Rajasthan's second title in franchise history."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/punjab-kings-ipl-exit-collapse-controversies-playoff-miss-2916496-2026-05-25",
-      "headline": "Punjab Kings, are you proud of the season you had?Punjab Kings were knocked out of the IPL playoffs race after Rajasthan Royals snuck into the fourth spot in the league table. Punjab endured a difficult season on and off the field."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/lionel-messi-injury-hamstring-niggle-fifa-world-cup-2026-inter-miami-argentina-2916480-2026-05-25",
-      "headline": "Lionel Messi picks up injury, leaves Argentina and fans worried for World CupLionel Messi left Inter Miami's match against Philadelphia Union after appearing to hurt his hamstring. The scare overshadowed Miami's 6-4 win and left Argentina fans concerned."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/novak-djokovic-french-open-2026-mpetshi-perricard-second-round-dance-2916458-2026-05-25",
-      "headline": "Novak Djokovic survives early scare, dances his way into second roundFrench Open 2026: Novak Djokovic recovered from a set down to beat Giovanni Mpetshi Perricard in four sets at Roland Garros. The win eased shoulder concerns and set up another meeting with a French opponent."
     }
   ],
   "education": [
