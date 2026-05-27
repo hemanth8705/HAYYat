@@ -103,6 +103,11 @@
   ],
   "entertainment": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/matthew-perrys-personal-assistant-kenneth-iwamasa-sentenced-to-41-months-for-role-in-the-actors-death-2918252-2026-05-28",
+      "headline": "Matthew Perry's assistant gets 41 months in prison for role in actor's death Kenneth Iwamasa had pleaded guilty to one count of conspiracy to distribute ketamine resulting in death. As part of a plea agreement, he admitted to repeatedly injecting Perry with ketamine without medical training, including the lethal dose."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/anik-dutta-death-suvendu-adhikari-rudranil-ghosh-final-respects-sskm-hospital-2918219-2026-05-27",
       "headline": "West Bengal CM Suvendu Adhikari pays final respects to filmmaker Anik Dutta West Bengal CM Suvendu Adhikari and members of the Bengali film industry gathered at SSKM Hospital to pay their respects filmmaker Anik Dutta's death, drawing attention across Kolkata."
@@ -191,18 +196,13 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/ranveer-singh-don-3-row-cintaa-says-it-was-not-consulted-2917844-2026-05-27",
       "headline": "Actors body chief Poonam Dhillon says Ranveer 'could have come to us' amid Don 3 row Poonam Dhillon expressed disappointment that Cine and TV Artistes' Association (CINTAA) was not approached in the Ranveer Singh-Don 3 dispute. The association says it cannot take a stand until it knows the full facts."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/maa-hai-na-trailer-shilpa-shetty-reality-show-gullu-manisha-rani-bhagyashree-urvashi-dholakia-tanya-mittal-2917880-2026-05-27",
-      "headline": "Maa Hai Na trailer: Shilpa Shetty's show promises kitchen chaos and laughter The trailer of Maa Hai Na introduces popular television personalities cooking with their mothers. The upcoming ZEE5 series, hosted by Shilpa Shetty Kundra, turns kitchen challenges into a test of family bonds."
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/trump-says-iran-will-not-get-sanctions-relief-for-handing-over-enriched-uranium-to-us-2918171-2026-05-27",
-      "headline": "Not at all: Trump rules out sanctions relief for Iran uranium handoverUS President Donald Trump ruled out the possibility that the current framework under discussion could involve sanctions relief in exchange for Iran's highly enriched uranium."
+      "url": "https://www.indiatoday.in/world/story/donald-trump-hinges-iran-deal-on-gulf-states-muslim-nations-joining-abraham-accords-amid-middle-east-conlfict-2918255-2026-05-28",
+      "headline": "They owe it to us: Trump hinges Iran deal on Gulf states joining Abraham AccordsDonald Trump ties future Iran negotiations to the expansion of the Abraham Accords. He wants Saudi Arabia, Qatar, Pakistan and Turkey to join the Israel normalisation framework."
     },
     {
       "sentiment": "positive",
@@ -226,8 +226,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/london-school-of-economics-mukulika-banerjee-gst-poor-pay-more-tax-rich-lse-podcast-fact-check-gst-2-india-2918133-2026-05-27",
-      "headline": "Poor in India paying more tax due to GST, says LSE expert, faces flackAn anthropologist at the London School of Economics, Mukulika Banerjee, argued that poorer Indians pay a larger share of their income in GST than the rich. Experts, however, countered that most daily-use essentials consumed by poorer households are either GST-free or taxed at just 5%."
+      "url": "https://www.indiatoday.in/world/story/trump-says-iran-will-not-get-sanctions-relief-for-handing-over-enriched-uranium-to-us-2918171-2026-05-27",
+      "headline": "Not at all: Trump rules out sanctions relief for Iran uranium handoverUS President Donald Trump ruled out the possibility that the current framework under discussion could involve sanctions relief in exchange for Iran's highly enriched uranium."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/madras-high-court-says-cow-sacrifice-not-integral-to-bakrid-directs-statewide-ban-on-slaughter-2918256-2026-05-28",
+      "headline": "Cow sacrifice not essential to Bakrid: Madras High Court orders statewide banThe Madras High Court directed Tamil Nadu to ensure that no cow or calf is slaughtered on the eve of Bakrid or on any other day in the state. The bench said only legally approved slaughter houses can operate and ordered senior officials to enforce the ruling."
     },
     {
       "sentiment": "positive",
@@ -236,18 +241,28 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/rajasthan-royals-thrash-srh-eliminator-vaibhav-set-up-qualifier-2-vs-gujarat-titans-2918233-2026-05-27",
-      "headline": "Sooryavanshi 97 sends SunRisers home, Rajasthan closer to finalVaibhav Sooryavanshi's breathtaking 97 off 29 balls, laced with 12 sixes, set up Rajasthan Royals' 47-run win over SunRisers Hyderabad in the Eliminator in Mullanpur on Wednesday. RR will face Gujarat Titans on Friday in Qualifier 2."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/india-hidden-urbanisation-eac-pm-paper-census-2027-63-percent-urban-rural-categorisation-shamika-ravi-2917434-2026-05-27",
       "headline": "India has more cities than it knows of. Why are they hiding in plain sight?India might have far more cities and towns than the government's numbers acknowledge. An EAC-PM paper argues that millions live in human settlements that function like towns and cities but officially remain classified as rural. This adversely impacts the lives of millions of residents."
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/london-school-of-economics-mukulika-banerjee-gst-poor-pay-more-tax-rich-lse-podcast-fact-check-gst-2-india-2918133-2026-05-27",
+      "headline": "Poor in India paying more tax due to GST, says LSE expert, faces flackAn anthropologist at the London School of Economics, Mukulika Banerjee, argued that poorer Indians pay a larger share of their income in GST than the rich. Experts, however, countered that most daily-use essentials consumed by poorer households are either GST-free or taxed at just 5%."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/matthew-perrys-personal-assistant-kenneth-iwamasa-sentenced-to-41-months-for-role-in-the-actors-death-2918252-2026-05-28",
+      "headline": "Matthew Perry's assistant gets 41 months in prison for role in actor's deathKenneth Iwamasa had pleaded guilty to one count of conspiracy to distribute ketamine resulting in death. As part of a plea agreement, he admitted to repeatedly injecting Perry with ketamine without medical training, including the lethal dose."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/technology/news/story/ai-layoffs-productivity-gains-sridhar-vembu-tech-firms-blame-hype-2917968-2026-05-27",
       "headline": "AI giving no gains, tech layoffs happening for no real reason: Sridhar VembuWeeks before top AI leaders started softening their warnings around job losses, Zoho founder Sridhar Vembu was already questioning whether AI was truly delivering real productivity gains. He also suggested companies may be using AI to cut labour cost and impress investors."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/karnataka/story/karnataka-leadership-change-dk-shivakumar-outplays-siddaramaiah-congress-high-command-2917890-2026-05-27",
+      "headline": "How DK Shivakumar outplayed SiddaramaiahSiddaramaiah believed numbers and a strong support base would shield him from any leadership challenge. But DK Shivakumar hit the reset button in Karnataka with the blessings of those who really call the shots -- the Congress high command."
     },
     {
       "sentiment": "positive",
@@ -261,13 +276,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/karnataka/story/karnataka-leadership-change-dk-shivakumar-outplays-siddaramaiah-congress-high-command-2917890-2026-05-27",
-      "headline": "How DK Shivakumar outplayed SiddaramaiahSiddaramaiah believed numbers and a strong support base would shield him from any leadership challenge. But DK Shivakumar hit the reset button in Karnataka with the blessings of those who really call the shots -- the Congress high command."
+      "url": "https://www.indiatoday.in/india/story/tamil-nadu-cm-vijay-holds-25-minute-meeting-with-pm-modi-at-seva-teerth-in-delhi-2917976-2026-05-27",
+      "headline": "Tamil Nadu CM Vijay meets PM Modi, raises Vande Mataram row during talksTamil Nadu Chief Minister Vijay's first Delhi visit after taking office turned politically significant as he met PM Modi after 12 years, triggering fresh speculation over equations, alliances and the fast-changing power dynamics in the state."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/tamil-nadu-cm-vijay-holds-25-minute-meeting-with-pm-modi-at-seva-teerth-in-delhi-2917976-2026-05-27",
-      "headline": "Tamil Nadu CM Vijay meets PM Modi, raises Vande Mataram row during talksTamil Nadu Chief Minister Vijay's first Delhi visit after taking office turned politically significant as he met PM Modi after 12 years, triggering fresh speculation over equations, alliances and the fast-changing power dynamics in the state."
+      "url": "https://www.indiatoday.in/entertainment/music/story/honey-singh-bipolar-disorder-singer-says-asking-god-for-death-gave-him-purpose-to-live-2917934-2026-05-27",
+      "headline": "I asked God for death: Honey Singh opens up on bipolar disorder struggleRapper-singer Honey Singh recalled asking God for death in 2019 during his battle with bipolar disorder. He said that night, along with treatment and reflection, changed his life and gave him a reason to live."
     },
     {
       "sentiment": "positive",
@@ -281,8 +296,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/music/story/honey-singh-bipolar-disorder-singer-says-asking-god-for-death-gave-him-purpose-to-live-2917934-2026-05-27",
-      "headline": "I asked God for death: Honey Singh opens up on bipolar disorder struggleRapper-singer Honey Singh recalled asking God for death in 2019 during his battle with bipolar disorder. He said that night, along with treatment and reflection, changed his life and gave him a reason to live."
+      "url": "https://www.indiatoday.in/sports/tennis/story/french-open-2026-day-4-live-updates-novak-djokovic-nishesh-basavareddy-2917849-2026-05-27",
+      "headline": "French Open, Day 4 LIVE: Djokovic advances to third round as Rybakina crashes outFrench Open 2026, Day 4 Live updates: Novak Djokovic sealed his spot in the third round of the French Open with 6-3, 6-2, 6-7, 6-3 win over Valentin Royer. Iga Swiatek cruised past Sara Bejlek 6-2, 6-3 to continue her title charge, while reigning Australian Open champion Elena Rybakina suffered a shock second-round exit after losing to Yuliia Starodubtseva."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/lifestyle/wellness/story/can-sleeping-like-an-astronaut-improve-your-sleep-2917736-2026-05-27",
+      "headline": "Can sleeping like an astronaut improve your sleep?The world is in it's sleep deprived era and looking for the next best thing to hack their way to having a good night's sleep. The 'zero gravity sleep' position might just help."
     },
     {
       "sentiment": "positive",
@@ -296,31 +316,26 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/french-open-2026-day-4-live-updates-novak-djokovic-nishesh-basavareddy-2917849-2026-05-27",
-      "headline": "French Open, Day 4 LIVE: Djokovic advances to third round as Rybakina crashes outFrench Open 2026, Day 4 Live updates: Novak Djokovic sealed his spot in the third round of the French Open with 6-3, 6-2, 6-7, 6-3 win over Valentin Royer. Iga Swiatek cruised past Sara Bejlek 6-2, 6-3 to continue her title charge, while reigning Australian Open champion Elena Rybakina suffered a shock second-round exit after losing to Yuliia Starodubtseva."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/wellness/story/can-sleeping-like-an-astronaut-improve-your-sleep-2917736-2026-05-27",
-      "headline": "Can sleeping like an astronaut improve your sleep?The world is in it's sleep deprived era and looking for the next best thing to hack their way to having a good night's sleep. The 'zero gravity sleep' position might just help."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/us-israel-iran-talks-live-updates-trump-ceasefire-strait-of-hormuz-middle-east-crisis-crude-oil-price-hike-idf-lebanon-conflict-2918008-2026-05-27",
       "headline": "Live: Trump says US can make good deal with Iran after claiming regime changeUS-Israel-Iran Talks Live Updates: US President Donald Trump is set to convene a Cabinet meeting as pressure grows to secure a breakthrough in the Iran conflict, though diplomats familiar with the talks say there is still no clarity on when or where a proposed memorandum of understanding between Washington and Tehran could be signed. The fragile ceasefire came under strain after Iran warned of retaliation following US \"self-defense\" strikes earlier this week. Inside Iran, authorities imposed fresh restrictions on messaging platforms and app stores after partially easing a nearly 90-day internet blackout, with many Iranians reacting with skepticism to the limited restoration of access. Meanwhile, tensions continued to rise in Lebanon as Israel issued new evacuation warnings for residents in southern Lebanon and intensified attacks on what it called Hezbollah infrastructure linked to Iran. Lebanese media reported multiple Israeli air raids across the Bekaa Valley near Baalbek and in several southern towns, including areas near Sidon and Jezzine. At least 31 people were killed in Israeli strikes on Tuesday, marking one of the deadliest days since the ceasefire took effect in April. Iran's Intelligence Ministry claimed its enemies had been defeated and were now relying on economic pressure, cyberattacks, assassinations and media campaigns to target the country. Follow IndiaToday.in for live updates."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/pune-porsche-crash-accused-family-party-video-surfaces-victim-kin-call-it-travesty-2917923-2026-05-27",
-      "headline": "Family of Pune Porsche crash accused reacts to viral party video amid outrageIn a statement issued by the family, Vishal Agarwal claimed that the viral party video was recorded during his 25th wedding anniversary celebrations in Goa on September 2, 2023, months before the fatal Pune Porsche crash on May 19, 2024 and the registration of an FIR."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/marathi-actor-mahesh-pawar-dies-after-suv-falls-into-raigad-gorge-2918170-2026-05-27",
-      "headline": "Marathi actor Mahesh Pawar dies after SUV falls into Raigad gorgeMarathi actor Mahesh Pawar died after an SUV plunged into a deep gorge in Maharashtra's Raigad district, leaving seven others dead in the tragic accident."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-india-call-up-aakash-chopra-ipl-2026-rr-vs-srh-2918253-2026-05-28",
+      "headline": "Don't fast-track Sooryavanshi's India selection: Ex-batter issues warning Aakash Chopra has urged selectors not to fast-track Vaibhav Sooryavanshi into the India side after his latest IPL blitz. Sooryavanshi was the star of the show as RR defeated SRH in Mullanpur."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/chris-gayle-crowns-vaibhav-sooryavanshi-new-six-machine-all-time-ipl-record-2918254-2026-05-28",
+      "headline": "Chris Gayle crowns Vaibhav 'new six machine' after breaking iconic IPL record Universe Boss Chris Gayle crowned Vaibhav Sooryavanshi cricket's \"new six machine\" after the Rajasthan Royals teenager shattered his iconic IPL record for most sixes in a single season with a breathtaking display against Sunrisers Hyderabad in the Eliminator."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/tennis/story/french-open-alejandro-davidovich-fokina-mariano-puerta-quit-by-text-miami-2918251-2026-05-28",
+      "headline": "Coach quits via text message, leaves Spanish tennis star stunned at French Open Spain's Alejandro Davidovich Fokina was left stunned at the French Open after coach Mariano Puerta suddenly quit through a text message and flew to Miami without informing anyone on the team."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/hailey-baptiste-french-open-knee-injury-wheeled-off-paris-roland-garros-2918250-2026-05-28",
@@ -364,17 +379,17 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/french-open-2026-yuliia-starodubtseva-stuns-elena-rybakina-second-round-upset-2918179-2026-05-27",
-      "headline": "Yuliia Starodubtseva delivers French Open shock, sends 2nd seed Elena Rybakina packing French Open 2026: Yuliia Starodubtseva beat second seed Elena Rybakina in a tense French Open second-round thriller. The upset blows open the women's draw and marks the biggest win of the Ukrainian's career."
+      "headline": "Yuliia Starodubtseva delivers French Open shock, sends 2nd seed Elena Rybakina packingFrench Open 2026: Yuliia Starodubtseva beat second seed Elena Rybakina in a tense French Open second-round thriller. The upset blows open the women's draw and marks the biggest win of the Ukrainian's career."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-touches-feet-jatin-sapru-gavaskar-sachin-tendulkar-srh-vs-rr-2918183-2026-05-27",
-      "headline": "Not just batting, Sooryavanshi's sanskar stands out in IPL Eliminator vs SRH SRH vs RR, IPL 2026: Vaibhav Sooryavanshi's incredible batting was not the only thing that caught the eye on Wednesday. Ahead of the match vs SRH, Vaibhav sparked some hilarious reactions as he went to touch the feet of Sunil Gavaskar."
+      "headline": "Not just batting, Sooryavanshi's sanskar stands out in IPL Eliminator vs SRHSRH vs RR, IPL 2026: Vaibhav Sooryavanshi's incredible batting was not the only thing that caught the eye on Wednesday. Ahead of the match vs SRH, Vaibhav sparked some hilarious reactions as he went to touch the feet of Sunil Gavaskar."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-ipl-2026-batting-srh-vs-rajasthan-royals-2918137-2026-05-27",
-      "headline": "Vaibhav Sooryavanshi foils SRH's Plan A, B, and C in IPL Eliminator 15-year-old Vaibhav Sooryavanshi got off to a flyer against SunRisers Hyderabad in the IPL Eliminator on Wednesday. Vaibhav reached his fifty in just 16 balls, foiling all plans set by SRH in today's game."
+      "headline": "Vaibhav Sooryavanshi foils SRH's Plan A, B, and C in IPL Eliminator15-year-old Vaibhav Sooryavanshi got off to a flyer against SunRisers Hyderabad in the IPL Eliminator on Wednesday. Vaibhav reached his fifty in just 16 balls, foiling all plans set by SRH in today's game."
     },
     {
       "sentiment": "positive",
@@ -460,21 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/french-open-jannik-sinner-roland-garros-lego-reaction-first-round-win-2917825-2026-05-27",
       "headline": "Sinner's French Open pursuit hits a snag. It's got nothing to do with tennisRoland Garros: World Number One Jannik Sinner began his French Open campaign with a dominant straight-sets victory over Cl\u00e9ment Tabur, extending his incredible winning streak to 30 consecutive matches. But his biggest challenge is not even on the clay court."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/rcb-vs-gt-qualifier-rcb-vs-gt-royal-challengers-bengaluru-superstars-vijay-mallya-virat-kohli-2917781-2026-05-27",
-      "headline": "RCB used to rely on individual superstars, now they win as a unitIPL Qualifier 1, RCB vs GT: Royal Challengers Bengaluru's shift from a superstar-led model to a balanced team has come into focus through recent assessments by Ambati Rayudu and Tom Moody. The change reflects a wider structural overhaul in management and philosophy, with shared roles now driving results."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-srh-vs-rajasthan-royals-eliminator-mullanpur-predicted-xi-pitch-report-vaibhav-sooryavanshi-2917777-2026-05-27",
-      "headline": "IPL 2026 Eliminator: Sooryavanshi's playoffs pressure test meets familiar SRHIPL 2026 Eliminator, SRH vs RR: Rajasthan Royals and Sunrisers Hyderabad meet in the IPL Eliminator with Vaibhav Sooryavanshi under the spotlight. The contest pits RR's teenage surge against SRH's winning record, batting depth and familiarity with knockout routes."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-rcb-vs-gt-rajat-patidar-qualifier-1-aryaman-birla-ex-mp-teammate-2917731-2026-05-27",
-      "headline": "Aryaman Birla salutes Rajat Patidar's Qualifier 1 blitzIPL 2026: Now RCB chairman, Aryaman Birla hailed former Madhya Pradesh teammate Rajat Patidar after his explosive Qualifier 1 innings against GT. Patidar's unbeaten 93 off just 33 balls powered RCB into a second straight IPL final"
     }
   ],
   "education": [
