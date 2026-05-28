@@ -2,6 +2,21 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/real-estate/story/remote-work-flexible-work-india-housing-market-homebuying-choices-2918368-2026-05-28",
+      "headline": "Remote work is back in focus: Will it redefine how India chooses homes?Flexible work is again influencing how Indian homebuyers assess where to live. The shift could move demand beyond office hubs towards space, practicality and quality of life."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/8th-pay-commission-pension-choice-govt-employees-ups-nps-vrs-next-2-4-months-2918361-2026-05-28",
+      "headline": "8th Pay Commission: Pension choice for government employees in coming monthsAt present, most central government employees recruited after January 1, 2004, fall under the National Pension System, which is contribution-based and linked to market performance."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/story/rbi-rupee-fall-why-economists-say-fixed-levels-should-not-be-defended-2917292-2026-05-28",
+      "headline": "Is RBI really supposed to defend the rupee amid ongoing crisis?Handcrafted ByOur Editors Every time the rupee falls, panic erupts across television studios, political circles and financial markets. But what if the RBI was never meant to save the rupee in the first place?"
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/market/story/stock-market-holiday-bakri-ed-nse-bse-open-or-closed-next-holiday-june-26-2918306-2026-05-28",
       "headline": "NSE, BSE closed today for Bakri Id. Here's when stock markets reopenMarkets shut on 28 May for Bakri Id, with most trading segments closed. The break has left some investors checking timings, while commodity derivatives reopen in the evening and regular trading returns on 29 May."
     },
@@ -84,24 +99,94 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/byju-raveendran-sentenced-to-six-months-in-jail-for-contempt-of-court-reports-bloomberg-2917689-2026-05-27",
       "headline": "Byju Raveendran sentenced to six months in jail by Singapore courtByju Raveendran, founder of embattled edtech company Byju's, has been sentenced to six months in jail by a Singapore court for contempt of court."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/8th-pay-commission-bhubaneswar-visit-july-6-7-unions-invited-for-talks-salary-da-hike-2917665-2026-05-27",
-      "headline": "8th Pay Commission: Odisha consultations scheduled for July 6-7The 8th Pay Commission will visit Bhubaneswar on July 6 and 7 for consultations with organisations, unions and employee associations. The outreach comes as the panel widens regional talks and gathers demands on pay, allowances and pensions."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/video/indian-economy-is-quite-robust-arvind-panagariya-2917571-2026-05-26",
-      "headline": "Indian economy is quite robust: Arvind PanagariyaIn an exclusive interview with India Today, Arvind Panagariya, Chairman of the sixteenth Finance Commission, asserts that the domestic economy remains fundamentally robust, citing a steady gross foreign direct investment of ninety-four billion dollars for the recent fiscal year and consistent growth averaging over seven percent in the past three years."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/when-centralised-manufacturing-record-irregularities-conveniently-escaped-detection-2917411-2026-05-26",
-      "headline": "When centralised manufacturing, record irregularities conveniently escaped detectionIn the eighth part of this series on labour laws and Inspector Raj, this article examines how seemingly separate establishments functioned as one operational unit, while material irregularities in records and manufacturing activity went unnoticed."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/everyone-is-jealous-of-ranveer-rakhi-sawant-slams-fwice-over-don-3-controversy-2918420-2026-05-28",
+      "headline": "Everyone is jealous of Ranveer: Rakhi Sawant slams film body over Don 3 row Rakhi Sawant has publicly backed Ranveer Singh as the FWICE sharpened its stand in the Don 3 dispute. While defending the actor, Rakhi claimed that everyone is jealous of Ranveer."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/samantha-left-blushing-after-fan-surprises-her-with-flowers-on-stage-at-maa-inti-bangaram-trailer-launch-2918442-2026-05-28",
+      "headline": "Samantha left blushing after fan surprises her with flowers on stage. Watch Samantha Ruth Prabhu was left blushing after a fan rushed onto the stage and offered her flowers during the Maa Inti Bangaaram trailer launch in Hyderabad. The actor's sweet reaction quickly won hearts online."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/why-allu-arjun-ram-charan-are-promoting-films-in-bihar-mp-like-election-campaigns-2917678-2026-05-28",
+      "headline": "Why Allu Arjun, Ram Charan are promoting films in Bihar, MP like election campaigns While Bollywood stayed inside Mumbai studios, Allu Arjun and Ram Charan were busy turning Patna, Bhopal and Lucknow into fan carnivals."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/priyanka-chopra-nick-jonas-daughter-malti-becomes-cutest-backstage-drummer-pics-2918422-2026-05-28",
+      "headline": "Priyanka Chopra-Nick Jonas' daughter Malti becomes cutest backstage drummer. Pics Priyanka Chopra and Nick Jonas' daughter, Malti Marie, turned the cutest little backstage drummer during rehearsals for Nick's latest show. The singer shared adorable glimpses of the toddler exploring musical instruments and enjoying time behind the scenes."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/ranveer-singh-don-3-exit-shobhaa-de-questions-fwice-role-2918425-2026-05-28",
+      "headline": "Ranveer Singh is the Delhi Gymkhana of Bollywood: Shobhaa De on Don 3 row Shobhaa De has criticised FWICE's non-cooperation directive after Ranveer Singh's exit from Don 3. She described the actor as the \"Delhi Gymkhana of Bollywood\" and said the row reflects issues of power and control."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/music/story/dhinchak-pooja-wedding-selfie-maine-leli-aaj-singer-instagram-clips-2918386-2026-05-28",
+      "headline": "Selfie Maine Leli Aaj fame Dhinchak Pooja gets married, shares wedding video Dhinchak Pooja announced her wedding through a video shared on social media. However, the internet sensation chose not to reveal her husband's face in the clips posted online."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/bhooth-bangla-ott-when-and-where-to-watch-akshay-kumars-horror-comedy-2918382-2026-05-28",
+      "headline": "Bhooth Bangla OTT: When and where to watch Akshay Kumar's horror comedy Akshay Kumar and Priyadarshan's Bhooth Bangla has opened to a decent theatrical response, with fans now eagerly waiting for its OTT debut. Read on to know the streaming platform and expected digital release window of the horror-comedy."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/pooja-bhatt-soni-razdan-guilt-mahesh-bhatt-marriage-revelation-2918364-2026-05-28",
+      "headline": "Soni Razdan carried guilt over breaking Mahesh Bhatt's marriage: Daughter Pooja Pooja Bhatt recalled Soni Razdan admitting she felt guilty about Mahesh Bhatt's first marriage ending. She also said her family handled the difficult period with honesty, decorum and grace."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/don-3-casting-shah-rukh-khan-ranveer-singh-amitabh-bachchan-legacy-2918119-2026-05-28",
+      "headline": "Don 3 dilemma: If not Ranveer Singh, then who? If Shah Rukh Khan is no longer an option and if Ranveer Singh refuses to work in Don 3, is there any new-generation Bollywood star to carry forward Amitabh Bachchan's legacy?"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/urvashi-rautela-reacts-as-viral-ai-pic-shows-her-touching-deepika-padukone-aishwarya-rais-feet-2918357-2026-05-28",
+      "headline": "Urvashi Rautela reacts after viral AI image shows her kneeling before Aishwarya, Deepika Urvashi Rautela reacted strongly after a viral AI-generated image showed her kneeling before Deepika Padukone and Aishwarya Rai Bachchan. Calling out online toxicity, the actor urged people to stop comparing women and fuelling fan wars."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/entertainment/music/story/honey-singh-reveals-he-is-bald-lost-all-his-hair-during-bipolar-disorder-treatment-2918340-2026-05-28",
+      "headline": "Honey Singh is bald, admits he wears wig after years of bipolar disorder medication Honey Singh has detailed how bipolar disorder, substance abuse and fear pulled him out of public life for seven years. He said a change in treatment eventually helped him recover and return to meeting people again."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/spider-noir-review-nicolas-cage-prime-video-noir-superhero-series-2918343-2026-05-28",
+      "headline": "Spider-Noir review: Nicolas Cage makes this odd reboot worth watchingRelease Date:Wed May 27, 2026 Spider-Noir sends Ben Reilly back into Depression-era New York's criminal underworld. Its noir style and emotional weariness give the superhero tale an unusual pull."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/sushmita-sen-manager-left-after-she-adopted-renee-at-24-2918350-2026-05-28",
+      "headline": "Sushmita Sen became mom at 24, and her manager fled thinking it was career suicide Sushmita Sen recalled that her manager left after she adopted Renee at 24. She said motherhood strengthened her career instead of ending it."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/shraddha-kapoor-rahul-mody-video-michael-jackson-bad-dance-2918342-2026-05-28",
+      "headline": "Shraddha Kapoor dances like nobody's watching, boyfriend Rahul Mody was Shraddha Kapoor shared a video of herself dancing to Michael Jackson's Bad while actor's rumoured boyfriend, Rahul Mody appeared to film it. Her playful replies to the comments have caught the attention of fans."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/fan-falls-at-jr-ntrs-feet-actor-turns-awkward-moment-into-viral-win-2918322-2026-05-28",
+      "headline": "Fan falls at Jr NTR's feet, actor turns awkward moment into viral win A video from Jr NTR's visit to NTR Ghat in Hyderabad showed the actor helping a fan back on his feet after the man fell while trying to greet him. Jr NTR had visited the memorial to pay tribute to his grandfather, NT Rama Rao, on his 103rd birth anniversary."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/shakti-shalinis-dark-twist-out-as-aneet-padda-wraps-up-film-set-in-bengali-folklore-2918328-2026-05-28",
+      "headline": "Shakti Shalini's dark twist out as Aneet Padda wraps up film set in Bengali folklore Shakti Shalini reveals Aneet Padda in a double role as Shakti and Shalini, whose clash drives the film. The folklore-rooted horror comedy expands Maddock Films' universe after completing its final schedule."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/drishyam-3-ott-release-when-and-where-to-watch-mohanlals-hit-thriller-2918316-2026-05-28",
+      "headline": "Drishyam 3 OTT release: When and where to watch Mohanlal's hit thriller Drishyam 3 is ruling the box office, but when can you finally watch Mohanlal's thriller at home? Here's all we know."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/salman-khan-main-hoon-new-version-chitrangda-singh-maatrubhumi-2918292-2026-05-28",
@@ -111,103 +196,23 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/sonakshi-sinha-ott-career-system-dahaad-heeramandi-layered-roles-2917792-2026-05-28",
       "headline": "Sonakshi Sinha was always more than masala heroine. The OTT system proves it With System on Prime Video, Sonakshi Sinha's recent streaming work has brought her into sharper focus. The shift shows how OTT has opened space for more layered, character-led roles in her career."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/shamita-shetty-age-shaming-troll-actor-hits-back-at-marriage-remarks-on-instagram-2918275-2026-05-28",
-      "headline": "Shamita Shetty has savage reply to troll questioning her single life at 47 Shamita Shetty gave a savage reply to an Instagram user who mocked her age and questioned why she is still unmarried."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/don-ko-cast-karna-mushkil-hi-nahi-don-3-mess-and-the-great-accidental-marketing-2918117-2026-05-28",
-      "headline": "Don ko cast karna mushkil hi nahi...: Don 3 mess and the great accidental marketing With Ranveer Singh exiting Don 3, Bollywood is once again searching for its next Don. From Amitabh Bachchan to Shah Rukh Khan, here's why the franchise's casting chaos has become more entertaining than the film itself."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/ella-bright-defends-10-year-age-gap-with-belmont-cameli-in-off-campus-2918266-2026-05-28",
-      "headline": "Off Campus's Hannah aka Ella Bright defends 10-year age gap with Belmont Cameli Ella Bright recently defended her 10-year-age gap with co-star Belmont Cameli in Off Campus. She said she was fully informed about the role from the chemistry reads and never hesitated to take the part."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/ranveer-singh-don-3-fwice-ashok-dubey-sanjay-gupta-non-cooperation-row-2918263-2026-05-28",
-      "headline": "Ranveer Singh ban row: FWICE hits back at Sanjay Gupta, reminds him of Mumbai Saga FWICE has hit back at Sanjay Gupta's criticism of its action against Ranveer Singh in the Don 3 dispute. The federation says it issued a non-cooperation declaration, not a ban, as the row widened."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/movies/hollywood/story/matthew-perrys-personal-assistant-kenneth-iwamasa-sentenced-to-41-months-for-role-in-the-actors-death-2918252-2026-05-28",
-      "headline": "Matthew Perry's assistant gets 41 months in prison for role in actor's death Kenneth Iwamasa had pleaded guilty to one count of conspiracy to distribute ketamine resulting in death. As part of a plea agreement, he admitted to repeatedly injecting Perry with ketamine without medical training, including the lethal dose."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/anik-dutta-death-suvendu-adhikari-rudranil-ghosh-final-respects-sskm-hospital-2918219-2026-05-27",
-      "headline": "West Bengal CM Suvendu Adhikari pays final respects to filmmaker Anik Dutta West Bengal CM Suvendu Adhikari and members of the Bengali film industry gathered at SSKM Hospital to pay their respects filmmaker Anik Dutta's death, drawing attention across Kolkata."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/marathi-actor-mahesh-pawar-dies-after-suv-falls-into-raigad-gorge-2918170-2026-05-27",
-      "headline": "Marathi actor Mahesh Pawar dies after SUV falls into Raigad gorge Marathi actor Mahesh Pawar died after an SUV plunged into a deep gorge in Maharashtra's Raigad district, leaving seven others dead in the tragic accident."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/karuppu-was-written-as-vijays-final-film-before-suriya-took-over-rj-balaji-2918116-2026-05-27",
-      "headline": "Karuppu was written as Vijay's final film before Suriya took over: RJ Balaji RJ Balaji said Karuppu was originally developed for Vijay before he entered politics. The film later moved to Suriya, whose input shaped the final script."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/enola-holmes-3-trailer-millie-bobby-brown-malta-mystery-netflix-july-2026-2918136-2026-05-27",
-      "headline": "Enola Holmes 3 teaser hints at wedding chaos and a kidnapping mystery Actor Millie Bobby Brown returns in the first teaser for Enola Holmes 3 as the young detective heads to Malta for her most dangerous mystery yet."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/kunal-kohli-to-ranveer-singhs-critics-dont-judge-an-actor-by-success-or-failure-2918020-2026-05-27",
-      "headline": "Kunal Kohli to Ranveer Singh's critics: Don't judge an actor by success or failure Kunal Kohli said Ranveer Singh should not be judged by the success or failure of his films. The filmmaker, while addressing the actor's critics, said flops are inevitable in cinema."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/nick-jonas-latest-bollywood-obsession-vicky-kaushals-tauba-tauba-2918077-2026-05-27",
-      "headline": "Nick Jonas' latest Bollywood obsession? Vicky Kaushal's Tauba Tauba Nick Jonas said Tauba Tauba is the Bollywood song that gets him dancing at weddings. The remark added to his long-running public affection for Hindi film music and quickly drew attention online."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/imtiaz-ali-says-main-vaapas-aaunga-is-not-a-political-film-its-personal-2918014-2026-05-27",
-      "headline": "Imtiaz Ali says Main Vaapas Aaunga is not a political film, it's personal Filmmaker Imtiaz Ali opens up about his upcoming film Main Vaapas Aaunga, saying it is a deeply personal love story set against the backdrop of Partition, rather than a conventional historical drama. Cast members Vedang Raina and Sharvari also share their emotional experiences and sense of responsibility while preparing for their roles."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/sorry-but-off-campus-cut-garrett-grahams-most-iconic-book-moments-here-are-5-2917301-2026-05-27",
-      "headline": "Sorry but Off-Campus cut Garrett Graham's most iconic book moments. Here are 5 Fans of Off-Campus say the Prime Video adaptation leaves out several defining Garrett Graham and Hannah Wells scenes from The Deal. Here's what the show missed that made the book iconic."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/mika-singh-backs-ranveer-singh-says-he-will-speak-to-film-body-on-don-3-row-2918027-2026-05-27",
-      "headline": "Mika Singh backs Ranveer Singh, says he will speak to film body on Don 3 row Singer Mika Singh backed actor Ranveer Singh in the Don 3 controversy and said he will personally meet and talk to the Federation of Western India Cine Employees. His intervention comes as the casting fallout has escalated into a wider industry dispute."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/ranveer-singh-attempted-private-settlement-before-don-3-fallout-2917978-2026-05-27",
-      "headline": "Ranveer Singh attempted private settlement before Don 3 fallout: Report Actor Ranveer Singh reportedly offered Rs 10 crore upfront and a Rs 25 crore future discount to settle the Don 3 dispute with Excel Entertainment before the fallout escalated publicly."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/music/story/honey-singh-bipolar-disorder-singer-says-asking-god-for-death-gave-him-purpose-to-live-2917934-2026-05-27",
-      "headline": "I asked God for death: Honey Singh opens up on bipolar disorder struggle Rapper-singer Honey Singh recalled asking God for death in 2019 during his battle with bipolar disorder. He said that night, along with treatment and reflection, changed his life and gave him a reason to live."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/priya-patidar-on-welcome-to-the-jungle-surreal-to-sing-track-for-raveena-tandon-2917964-2026-05-27",
-      "headline": "Priya Patidar on Welcome to the Jungle: Surreal to sing track for Raveena Tandon Priya Patidar said recording the Welcome to the Jungle title track and singing for Raveena Tandon felt surreal. She said the release marked her long-awaited playback breakthrough and carried emotional weight for her family."
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/karnataka-cm-change-siddaramaiah-resignation-dk-shivakumar-congress-high-command-2918272-2026-05-28",
-      "headline": "Siddaramaiah weighs exit, but Governor absent as Karnataka CM suspense deepensAmid mounting speculation over a Congress leadership change in Karnataka, Chief Minister Siddaramaiah is expected to resign on Thursday. The Governor, however, has left for this hometown due to a family emergency."
+      "url": "https://www.indiatoday.in/education-today/story/i-take-responsibility-for-osm-discrepancy-it-will-be-fixed-education-minister-dharmendra-pradhan-2918405-2026-05-28",
+      "headline": "I take responsibility: Dharmendra Pradhan breaks silence on CBSE OSM controversyUnion Education Minister Dharmendra Pradhan addressed the growing controversy around CBSE's On-Screen Marking system, saying he takes responsibility for the OSM discrepancies and student inconvenience, and promising action if irregularities are found. He also urged political parties not to increase stress among students amid complaints over scanned answer sheets and evaluation issues."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/iran-hits-us-base-in-retaliation-for-an-attack-near-bandas-abbas-warns-of-more-decisive-response-if-triggered-2918310-2026-05-28",
-      "headline": "Iran hits US base after attack near Bandas Abbas airport, vows more decisive replyUS officials said American forces shot down four Iranian drones near the Strait of Hormuz and struck a drone control site near Bandar Abbas, citing threats to US forces and commercial shipping."
+      "url": "https://www.indiatoday.in/india/story/karnataka-leadership-change-live-updates-siddaramaiah-resignation-governor-meet-dk-shivakumar-cm-race-2918269-2026-05-28",
+      "headline": "Live: Siddaramaiah backs Shivakumar as next Karnataka CM, to brief media at 3 pmKarnataka CM News Live Updates: Karnataka is set for a change of guard with Chief Minister Siddaramaiah reportedly informing ministers that he will step down later in the day, paving the way for Deputy Chief Minister DK Shivakumar to take over as the next chief minister. Dramatic scenes unfolded during a breakfast meeting at Siddaramaiah's official Bengaluru residence on Thursday, where Shivakumar was seen touching the chief minister's feet, a gesture that added to the buzz around the leadership transition. Even as Governor Thaawarchand Gehlot remains away from Bengaluru, sources said the resignation process will go ahead as planned. Supporters of Shivakumar gathered outside his residence, distributed sweets and raised slogans in celebration, while Congress leaders and ministers continued a series of meetings in the state capital. Stay tuned to indiatoday.in for the latest live updates from Karnataka."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-eliminator-vaibhav-sooryavanshi-srh-vs-rr-respect-sixes-2918337-2026-05-28",
+      "headline": "The two worlds of Vaibhav Sooryavanshi: When respect stops at the boundary ropeIPL 2026 Eliminator: Off the field, Vaibhav Sooryavanshi is all grace and humility, seeking blessings from legends before battle. On it, he is something else entirely: a fifteen-year-old phenomenon for whom respect ends precisely where the boundary rope begins."
     },
     {
       "sentiment": "positive",
@@ -216,8 +221,73 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/donald-trump-threatens-to-blow-up-oman-over-strait-of-hormuz-impasse-amdi-iran-war-2918258-2026-05-28",
-      "headline": "After Iran showdown, Trump threatens to blow up Oman for this reasonDonald Trump warns that no country will control the Strait of Hormuz. His statement stuns many because Oman has long been one of Washington's closest and oldest Gulf partners."
+      "url": "https://www.indiatoday.in/india/story/west-bengal-illegal-migrants-hakimpur-border-bangladeshis-seek-return-holding-centres-2918142-2026-05-27",
+      "headline": "We voted here for years: Illegal migrants crowd Bengal border amid crackdownMany migrants at the Bengal border said they had worked as domestic helpers, labourers and rag-pickers in Kolkata's outskirts before being forced to vacate rented homes. Several admitted crossing illegally through agents, while others said they were brought to India as children and barely remembered Bangladesh."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/indians-abroad/story/22-year-old-indian-student-from-gujarat-vidhi-megha-stabbed-to-death-in-canada-niagara-anand-2918463-2026-05-28",
+      "headline": "22-year-old Indian student from Gujarat stabbed to death in Canada22-year-old Indian student from Gujarat stabbed to death in Canada"
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/twisha-sharma-death-case-cbi-tells-hc-giribala-singh-left-no-stone-unturned-malign-victim-character-seeks-custodial-interrogation-2918294-2026-05-28",
+      "headline": "Giribala Singh left no stone unturned to malign Twisha's character: CBI to courtThe CBI told the high court that Twisha Sharma had suffered injuries, but no explanation had been given by her in-laws regarding how those injuries were caused. The submissions came days after questions were raised over injury marks mentioned in Twisha's post-mortem report."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/ranveer-singh-don-3-exit-shobhaa-de-questions-fwice-role-2918425-2026-05-28",
+      "headline": "Ranveer Singh is the Delhi Gymkhana of Bollywood: Shobhaa De on Don 3 rowShobhaa De has criticised FWICE's non-cooperation directive after Ranveer Singh's exit from Don 3. She described the actor as the \"Delhi Gymkhana of Bollywood\" and said the row reflects issues of power and control."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/bengal-news-70-foot-statue-lionel-messi-kolkata-sways-in-wind-to-be-razed-messi-kolkata-tour-fiasco-salt-lake-stadium-2917487-2026-05-28",
+      "headline": "As Kolkata gears up to pull down Messi statue, how the GOAT fiasco swayed pollsThe 70-foot Lionel Messi statue in Kolkata is set to be removed over \"structural flaws\". The statute was unveiled by Messi during his GOAT Tour in Kolkata. It was the same Messi event that triggered allegations of mismanagement and VIP culture against the Trinamool Congress."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/bengal-male-trinamool-leaders-lakshmir-bhandar-fraud-annapurna-scheme-2918372-2026-05-28",
+      "headline": "Male Trinamool leader pockets Lakshmir Bhandar dole, blames own party for fraudBengal Chief Minister Suvendu Adhikari alleged that male TMC leaders received Lakshmir Bhandar payments meant for women. The row deepened after one accused TMC leader blamed his own party for the alleged fraud."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/trending-news/story/rajasthan-woman-22-pregnant-with-sixth-child-for-another-son-doctor-raises-alarm-video-2918371-2026-05-28",
+      "headline": "Rajasthan woman, 22, pregnant with sixth child for another son; doctor raises alarmThe video was shared by Dr Pragya Tomar, a gynaecologist at Spandan Hospital in Baraut, who questioned the toll that repeated pregnancies can take on a woman's health when driven by a preference for male children."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/iran-hits-us-base-in-retaliation-for-an-attack-near-bandas-abbas-warns-of-more-decisive-response-if-triggered-2918310-2026-05-28",
+      "headline": "Iran hits US base after attack near Bandas Abbas airport, vows more decisive replyUS officials said American forces shot down four Iranian drones near the Strait of Hormuz and struck a drone control site near Bandar Abbas, citing threats to US forces and commercial shipping."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/shakti-shalinis-dark-twist-out-as-aneet-padda-wraps-up-film-set-in-bengali-folklore-2918328-2026-05-28",
+      "headline": "Shakti Shalini's dark twist out as Aneet Padda wraps up film set in Bengali folkloreShakti Shalini reveals Aneet Padda in a double role as Shakti and Shalini, whose clash drives the film. The folklore-rooted horror comedy expands Maddock Films' universe after completing its final schedule."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/technology/news/story/after-firing-8000-employees-mark-zuckerberg-hints-meta-may-enter-cloud-computing-space-take-on-aws-2918293-2026-05-28",
+      "headline": "After firing 8,000 employees, Meta may enter cloud computing spaceMeta may soon take on Amazon Web Services (AWS). Meta CEO Mark Zuckerberg has claimed that it could join the cloud computing market as it continues to get requests for selling compute."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/c-joseph-vijay-sonia-gandhi-rahul-gandhi-meeting-next-week-after-delhi-visit-2918393-2026-05-28",
+      "headline": "Vijay won't meet Gandhis during maiden Delhi visit, sitting likely next weekC Joseph Vijay is unlikely to meet Sonia Gandhi and Rahul Gandhi in Delhi on Thursday after scheduling efforts failed. The missed interaction came at the end of his first official Delhi visit, during which he met PM Modi."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/nasa-sentinel-6-satellite-spots-kelvin-wave-el-nino-2026-india-monsoon-impact-2918344-2026-05-28",
+      "headline": "El Nino build up stretching over 1,000 km wide seen in Pacific Ocean2026 has seen several predictions of an intense El Nino event later this year. That prediction is now growing more credible each day as meteorologists from around the world begin to notice the telling signs. Here's a new one."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/auto/cars/story/tata-tiago-facelift-launched-at-rs-469-lakh-with-fresh-styling-and-feature-upgrades-2918439-2026-05-28",
+      "headline": "Tata Tiago facelift launched at Rs 4.69 lakh with fresh styling and feature upgradesTata has launched the facelifted Tiago with a starting ex-showroom price of 4.69 lakh. The updated hatchback introduces refreshed styling both on the outside as well as inside."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/news/story/cbse-osm-controversy-reddit-post-pm-shri-schools-videos-claim-school-forcing-social-post-supporting-osm-2918309-2026-05-28",
+      "headline": "Students forced to back CBSE's controversial OSM? PM Shri school videos spark rowA Reddit post alleging that students are being pressured to publicly support CBSE's On-Screen Marking system has sparked debate online. Adding to this, a PM SHRI Kendriya Vidyalaya school in Jaipur shared two videos (which have now been deleted) praising the OSM process amid growing scrutiny over answer-sheet glitches."
     },
     {
       "sentiment": "positive",
@@ -226,13 +296,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/karnataka-leadership-change-live-updates-siddaramaiah-resignation-governor-meet-dk-shivakumar-cm-race-2918269-2026-05-28",
-      "headline": "Live: Siddaramaiah to resign as CM despite Governor's absenceKarnataka Power Tussle Live Updates: A major political transition may be unfolding in Karnataka with Chief Minister Siddaramaiah likely to meet Governor Thaawarchand Gehlot amid intense speculation over his resignation. The development comes a day after Siddaramaiah and Deputy Chief Minister DK Shivakumar held crucial talks with the Congress high command in Delhi, triggering buzz that the party may be preparing for a leadership change in the state. While Congress leader Randeep Singh Surjewala has urged the media not to speculate and clarified that no CLP meeting has been called yet, reports suggest Siddaramaiah could make way for Shivakumar after completing half of the government's term. Supporters of Shivakumar have already begun celebrations in parts of Karnataka, while several ministers and MLAs from Siddaramaiah's camp are urging him not to step down. Backward class groups have also warned the Congress against replacing the veteran leader, raising the political stakes further. Stay tuned to indiatoday.in for all the live updates."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/west-bengal-illegal-migrants-hakimpur-border-bangladeshis-seek-return-holding-centres-2918142-2026-05-27",
-      "headline": "Not our fault, parents brought us here: Illegal migrants at Bengal borderDozens of undocumented Bangladeshi migrants have gathered at the Hakimpur border in West Bengal's North 24 Parganas district over the past two days, hoping to return."
+      "url": "https://www.indiatoday.in/trending-news/story/albino-buffalo-trump-bangladesh-spared-eid-sacrifice-sent-dhaka-zoo-2918239-2026-05-28",
+      "headline": "'Trump' buffalo escapes Eid sacrifice as Bangladesh govt steps in at last minuteA rare albino buffalo in Bangladesh, which went viral for its blond \"Trump-like\" hair, was spared from Eid sacrifice after the online frenzy prompted authorities to move it to Dhaka zoo."
     },
     {
       "sentiment": "positive",
@@ -241,86 +306,46 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/us-man-tells-indian-couple-to-go-back-to-india-in-racist-attack-video-goes-viral-2918088-2026-05-27",
-      "headline": "Get the f*** out of US: Indian couple face racist abuse, incident caught on cameraA video showing an American man telling an Indian couple to \"go back to India\" during a racist confrontation has received widespread criticism online, with many calling the remarks discriminatory and unprovoked."
+      "url": "https://www.indiatoday.in/world/story/donald-trump-threatens-to-blow-up-oman-over-strait-of-hormuz-impasse-amdi-iran-war-2918258-2026-05-28",
+      "headline": "After Iran showdown, Trump threatens to blow up Oman for this reasonDonald Trump warns that no country will control the Strait of Hormuz. His statement stuns many because Oman has long been one of Washington's closest and oldest Gulf partners."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/london-school-of-economics-mukulika-banerjee-gst-poor-pay-more-tax-rich-lse-podcast-fact-check-gst-2-india-2918133-2026-05-27",
-      "headline": "Poor in India paying more of income as tax due to GST, says LSE expert, faces flakAn anthropologist at the London School of Economics, Mukulika Banerjee, argued that poorer Indians pay a larger share of their income in GST than the rich. Experts, however, countered that most daily-use essentials consumed by poorer households are either GST-free or taxed at just 5%."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/karnataka-siddaramaiah-shivakumar-chief-minister-congress-strategy-2918005-2026-05-28",
-      "headline": "Money man vs mass leader: Will Shivakumar over Siddaramaiah bet pay off?Siddaramaiah's second term appears to be headed for an abrupt end amid strong buzz that the Congress is preparing to replace him with his bete noire, DK Shivakumar. Will replacing a mass leader with a pan-Karnataka appeal with an organisation man like Shivakumar pay off for Congress?"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/annapurna-bhanda-scheme-west-bengal-news30-lakh-beneficiaries-mamata-banerjee-lakshmir-bhandar-unfit-suvendu-adhikari-sir-2918140-2026-05-27",
-      "headline": "30 lakh beneficiaries of Mamata's Lakshmir Bhandar unfit for new Bengal schemeWest Bengal Chief Minister Suvendu Adhikari said 30 lakh ineligible people were receiving cash benefits under Mamata Banerjee's Lakshmir Bhandar. He said these bogus beneficiaries, including non-Indians, had been weeded out, and won't be receiving benefits under the new Annapurna Bhandar scheme."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-touches-feet-jatin-sapru-gavaskar-sachin-tendulkar-srh-vs-rr-2918183-2026-05-27",
-      "headline": "Sanskari before Shikhaar: Watch Sooryavanshi's viral Gavaskar momentSRH vs RR, IPL 2026: Vaibhav Sooryavanshi's incredible batting was not the only thing that caught the eye on Wednesday. Ahead of the match vs SRH, Vaibhav sparked some hilarious reactions as he went to touch the feet of Sunil Gavaskar."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/cbse-answer-sheet-controversy-class-12-osm-discrepancies-2917963-2026-05-28",
-      "headline": "5 questions every CBSE Class 12 student is asking right nowCBSE is facing mounting complaints from Class 12 students alleging that scanned answer sheets were either mismatched or incomplete. What began as a dispute over marks has now escalated into a larger credibility crisis, with students and parents questioning the very integrity and accountability of the board's evaluation system."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-misses-ipl-record-hundred-97-vs-srh-eliminator-2918132-2026-05-27",
-      "headline": "Vaibhav Sooryavanshi stands frozen on pitch after missing fastest IPL centuryIPL 2026 Eliminator, SRH vs RR: Vaibhav Sooryavanshi missed the record for the fastest century in the tournament when he was dismissed for 97 off 29 balls. The 15-year-old stood frozen in the middle, unable to believe his luck after he threw it away in the eighth over of the match in Mullanpur on Wednesday."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/fresh-american-strikes-target-military-site-near-strait-of-hormuz-2918265-2026-05-28",
-      "headline": "US launches fresh strikes at Iran military site near Hormuz, intercepts drones Live UpdatesUS forces also reportedly intercepted and shot down several Iranian drones that were allegedly threatening American personnel and vessels operating near the waterway."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/why-do-banks-prefer-lending-to-women-more-than-men-2918081-2026-05-28",
-      "headline": "Why do banks prefer lending to women more than men?For years, loans and borrowing have largely been seen as a man's domain. But banks are quietly noticing something interesting: women borrowers are often proving to be more reliable when it comes to repaying loans. So, are lenders beginning to trust women more with credit?"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/ai-layoffs-productivity-gains-sridhar-vembu-tech-firms-blame-hype-2917968-2026-05-27",
-      "headline": "AI giving no gains, tech layoffs happening for no real reason: Sridhar VembuWeeks before top AI leaders started softening their warnings around job losses, Zoho founder Sridhar Vembu was already questioning whether AI was truly delivering real productivity gains. He also suggested companies may be using AI to cut labour cost and impress investors."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/albino-buffalo-trump-bangladesh-spared-eid-sacrifice-sent-dhaka-zoo-2918239-2026-05-28",
-      "headline": "Fame saves 'Trump' buffalo from Eid sacrifice, sent to Bangladesh zooA rare albino buffalo in Bangladesh became an internet sensation because of its blond \"Trump-like\" hair. His viral fame may have saved its life. Hours before Eid sacrifice, the government stepped in and moved the animal to Dhaka zoo."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipll-2026-vaibhav-sooryavanshi-srh-vs-rr-eliminator-play-of-the-day-playoffs-2918271-2026-05-28",
-      "headline": "IPL Play of the Day: Rajasthan giveth, Royals taketh awayIPL 2026: SunRisers Hyderabad were blown out of the park in the Eliminator of the Indian Premier League. Playing against Rajasthan Royals, SRH put up a sorry show at the Mullanpur Stadium on Wednesday."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/don-ko-cast-karna-mushkil-hi-nahi-don-3-mess-and-the-great-accidental-marketing-2918117-2026-05-28",
-      "headline": "Don ko cast karna mushkil hi nahi...: Don 3 mess and the great accidental marketingWith Ranveer Singh exiting Don 3, Bollywood is once again searching for its next Don. From Amitabh Bachchan to Shah Rukh Khan, here's why the franchise's casting chaos has become more entertaining than the film itself."
+      "url": "https://www.indiatoday.in/india/story/cockroach-janta-party-gen-z-opposition-vacuum-india-2918380-2026-05-28",
+      "headline": "Cockroach Janta Party is a parody, indeed. Parody of India's OppositionThe Cockroach Janta Party or CJP actually filled the void that must have been occupied by a strong Opposition."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/science/story/western-disturbance-monsoon-advance-storms-heatwave-relief-north-india-2918017-2026-05-27",
       "headline": "Western disturbance to begin rolling in, monsoon to advance further todayA fresh Western Disturbance is set to bring thundersqualls, hail and dust storms across parts of North and central India. The change comes as the southwest monsoon advances further and temperatures in the northwest are forecast to ease."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/cbse-osm-controversy-reddit-post-pm-shri-schools-videos-claim-school-forcing-social-post-supporting-osm-2918309-2026-05-28",
-      "headline": "Schools pressured to defend CBSE's OSM? Reddit post, PM Shri school videos spark debateA Reddit post alleging that students are being pressured to publicly support CBSE's On-Screen Marking system has sparked debate online. Adding to this, a PM SHRI Kendriya Vidyalaya school in Jaipur shared two videos praising the OSM process amid growing scrutiny over answer-sheet glitches."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/gurugram/story/gurugram-domestic-violence-woman-alleges-abuse-for-not-bearing-a-son-2918291-2026-05-28",
-      "headline": "Beaten by drunk husband, in-laws: Woman alleges abuse for not giving birth to boyA Gurugram woman, mother of two daughters, has accused her husband and in-laws of abuse for not giving birth to a boy. Police have begun examining the allegations, including assault, intimidation and gender bias."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-reacts-sachin-tendulkar-praise-ipl-2026-eliminator-2918445-2026-05-28",
+      "headline": "Vaibhav Sooryavanshi humbled by Sachin Tendulkar's praise: It motivates me IPL 2026, RR vs SRH: Vaibhav Sooryavanshi said Sachin Tendulkar's praise was a huge honour and a motivating moment after his blistering 97 off 29 balls against Sunrisers Hyderabad powered Rajasthan Royals into the Qualifier 2."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/french-open-2026-day-5-schedule-jannik-sinner-aryna-sabalenka-2918354-2026-05-28",
+      "headline": "Day 5 schedule: Jannik Sinner, Aryna Sabalenka aim for more dominance Day 5 of the French Open 2026 features a packed schedule, with top seeds Jannik Sinner and Aryna Sabalenka continuing their campaigns. Among Indians, Anirudh Chandrasekar will be in action in men's doubles while Yuki Bhambri will play mixed doubles."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-eliminator-vaibhav-sooryavanshi-srh-vs-rr-respect-sixes-2918337-2026-05-28",
+      "headline": "The two worlds of Vaibhav Sooryavanshi: When respect stops at the boundary rope IPL 2026 Eliminator: Off the field, Vaibhav Sooryavanshi is all grace and humility, seeking blessings from legends before battle. On it, he is something else entirely: a fifteen-year-old phenomenon for whom respect ends precisely where the boundary rope begins."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-kavya-maran-congratulates-vaibhav-sooryavanshi-srh-vs-rr-eliminator-viral-video-2918327-2026-05-28",
+      "headline": "Kavya Maran congratulates Vaibhav Sooryavanshi after SRH's Eliminator exit IPL 2026: Kavya Maran's emotional reactions during SRH's Eliminator loss went viral online, but the SRH owner still made sure to congratulate Rajasthan Royals teenager Vaibhav Sooryavanshi after his stunning knock. The 15-year-old's 97 off 29 balls knocked Hyderabad out of the title race."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/praggnanandhaa-beats-magnus-carlsen-again-norway-chess-2026-oslo-2918332-2026-05-28",
+      "headline": "Deja vu strikes: Praggnanandhaa shocks Carlsen again in Norway Chess clash Indian Grandmaster R. Praggnanandhaa stunned World No. 1 Magnus Carlsen again at Norway Chess 2026 in Oslo, continuing a growing rivalry after his breakthrough win over Carlsen at the same event in 2024."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/novak-djokovic-paris-crowd-boos-roland-garros-valentin-royer-viral-video-2918304-2026-05-28",
@@ -354,27 +379,27 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/hailey-baptiste-french-open-knee-injury-wheeled-off-paris-roland-garros-2918250-2026-05-28",
-      "headline": "Baptiste suffers horrific knee injury at French Open, forced off on wheelchair Hailey Baptiste retired from her French Open second-round match after collapsing and injuring her left knee against Wang Xinyu. The distressing exit halted the best run of her career and raised fears of a long lay-off."
+      "headline": "Baptiste suffers horrific knee injury at French Open, forced off on wheelchairHailey Baptiste retired from her French Open second-round match after collapsing and injuring her left knee against Wang Xinyu. The distressing exit halted the best run of her career and raised fears of a long lay-off."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-fastest-ipl-hundred-miss-rajasthan-royals-ipl-title-focus-2918249-2026-05-28",
-      "headline": "Fastest hundred missed, Vaibhav Sooryavanshi manifests IPL glory for RR Vaibhav Sooryavanshi missed out on the fastest hundred in IPL history by the narrowest of margins, but the Rajasthan Royals teenager made it clear that personal milestones are secondary as he remains focused on helping the franchise win its second IPL title."
+      "headline": "Fastest hundred missed, Vaibhav Sooryavanshi manifests IPL glory for RRVaibhav Sooryavanshi missed out on the fastest hundred in IPL history by the narrowest of margins, but the Rajasthan Royals teenager made it clear that personal milestones are secondary as he remains focused on helping the franchise win its second IPL title."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/rr-vs-srh-jofra-archer-punjab-kings-dig-rajasthan-royals-qualifier-2-vaibhav-sooryavanshi-2918248-2026-05-28",
-      "headline": "Archer takes dig at PBKS after RR reach Qualifier 2: Don't want Punjab's fate Jofra Archer took a dig at Punjab Kings, saying that Rajasthan Royals don't want to get ahead of themselves and suffer the same fate as Shreyas Iyer and Co. PBKS crashed out of the play-offs race after a poor run of form in the second half of the campaign."
+      "headline": "Archer takes dig at PBKS after RR reach Qualifier 2: Don't want Punjab's fateJofra Archer took a dig at Punjab Kings, saying that Rajasthan Royals don't want to get ahead of themselves and suffer the same fate as Shreyas Iyer and Co. PBKS crashed out of the play-offs race after a poor run of form in the second half of the campaign."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-srh-vs-rr-kavya-maran-reaction-2918235-2026-05-27",
-      "headline": "Kavya Maran in tears as SRH crash in IPL Eliminator vs Rajasthan Royals SunRisers Hyderabad owner Kavya Maran was nearly reduced to tears as her side crashed in the Eliminator of the Indian Premier League 2026."
+      "headline": "Kavya Maran in tears as SRH crash in IPL Eliminator vs Rajasthan RoyalsSunRisers Hyderabad owner Kavya Maran was nearly reduced to tears as her side crashed in the Eliminator of the Indian Premier League 2026."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/rajasthan-royals-thrash-srh-eliminator-vaibhav-set-up-qualifier-2-vs-gujarat-titans-2918233-2026-05-27",
-      "headline": "Sooryavanshi 97 sends SunRisers home, Rajasthan closer to final Vaibhav Sooryavanshi's breathtaking 97 off 29 balls, laced with 12 sixes, set up Rajasthan Royals' 47-run win over SunRisers Hyderabad in the Eliminator in Mullanpur on Wednesday. RR will face Gujarat Titans on Friday in Qualifier 2."
+      "headline": "Sooryavanshi 97 sends SunRisers home, Rajasthan closer to finalVaibhav Sooryavanshi's breathtaking 97 off 29 balls, laced with 12 sixes, set up Rajasthan Royals' 47-run win over SunRisers Hyderabad in the Eliminator in Mullanpur on Wednesday. RR will face Gujarat Titans on Friday in Qualifier 2."
     },
     {
       "sentiment": "positive",
@@ -399,7 +424,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-touches-feet-jatin-sapru-gavaskar-sachin-tendulkar-srh-vs-rr-2918183-2026-05-27",
-      "headline": "Sanskari before Shikhaar: Watch Sooryavanshi's viral Gavaskar momentSRH vs RR, IPL 2026: Vaibhav Sooryavanshi's incredible batting was not the only thing that caught the eye on Wednesday. Ahead of the match vs SRH, Vaibhav sparked some hilarious reactions as he went to touch the feet of Sunil Gavaskar."
+      "headline": "Sanskari before Shikari: Watch Sooryavanshi's viral Gavaskar momentSRH vs RR, IPL 2026: Vaibhav Sooryavanshi's incredible batting was not the only thing that caught the eye on Wednesday. Ahead of the match vs SRH, Vaibhav sparked some hilarious reactions as he went to touch the feet of Sunil Gavaskar."
     },
     {
       "sentiment": "positive",
@@ -450,31 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/manchester-united-profit-champions-league-return-financial-turnaround-2917977-2026-05-27",
       "headline": "Manchester United back to generating profit after securing UCL footballManchester United posted a 37.7 million pound operating profit for the nine months ending March 31, 2026. Driven by cuts, compliance and a top-three finish, means that United are on track to complete a major financial turnaround."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-ms-dhoni-csk-future-decision-ceo-kasi-viswanathan-mentor-coach-2917918-2026-05-27",
-      "headline": "Dhoni's CSK future rests with him, says team CEOIPL 2026: CSK CEO Kasi Viswanathan said MS Dhoni alone will decide his future with the franchise. The remarks keep open roles as player, coach or mentor as Chennai continue their transition."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-live-score-srh-vs-rr-eliminator-vaibhav-sooryavanshi-pat-cummins-mullanpur-2917935-2026-05-27",
-      "headline": "SRH vs RR Highlights: Rajasthan thrash Hyderabad to reach Qualifier 2Hyderabad (SRH) vs Rajasthan (RR) Highlights, IPL 2026 Eliminator: Rajasthan make it to Qualifier 2 as they thrash Hyderabad by 47 runs. The win was set up by Sooryavanshi's 97 and then Jofra Archer's three-wicket burst in the powerplay."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/norway-chess-gukesh-praggnanandhaa-lose-armageddon-divya-deshmukh-beats-humpy-2917891-2026-05-27",
-      "headline": "Norway Chess: Gukesh, Praggnanandhaa lose as Divya continues her winning runGukesh and Praggnanandhaa let promising Norway Chess positions drift into Armageddon defeats. Divya Deshmukh kept India in the conversation, while Firouzja and Carlsen underlined how brutally this format punishes hesitation."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/badminton/story/singapore-open-hs-prannoy-stuns-jonatan-christie-in-comeback-win-2917879-2026-05-27",
-      "headline": "Singapore Open: HS Prannoy stages brilliant fightback to dump out Jonatan ChristieSingapore Open: HS Prannoy came from a game down to beat fifth seed Jonatan Christie at the Singapore Open. The comeback sent him into the Round of 16, where he will face Kidambi Srikanth or Loh Kean Yew."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/randhir-singh-dies-at-79-indias-first-asian-games-shooting-gold-medallist-2917851-2026-05-27",
-      "headline": "Randhir Singh, India's first Asian Games shooting gold medallist, dies at 79Indian sport mourns Randhir Singh, India's first Asian Games shooting gold medallist and veteran sports administrator, whose legacy spanned five Olympics and the global Olympic movement."
     }
   ],
   "education": [
