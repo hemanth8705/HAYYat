@@ -1,6 +1,16 @@
 {
   "business": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/story/cng-prices-increased-by-rs-2-per-kg-across-the-mumbai-metropolitan-region-including-thane-navi-mumbai-2919405-2026-05-30",
+      "headline": "CNG prices hiked by Rs 2 per kg in Mumbai, Thane, Navi MumbaiThis is the second hike in less than a month, following an earlier revision on May 14. The cumulative Rs 4 rise is expected to impact daily commuters, taxi operators and commercial vehicle users who rely heavily on CNG."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/health-insurance-india-pre-existing-disease-ms-patient-insurance-coverage-real-life-case-study-2919403-2026-05-30",
+      "headline": "Illness, insurance and the cost of timingWhat happens when a chronic illness arrives before health insurance? One Multiple Sclerosis patient's journey highlights the challenges of getting coverage for pre-existing diseases in India."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/will-kwality-walls-big-dairy-push-help-it-compete-better-in-india-2919148-2026-05-29",
       "headline": "Will Kwality Wall's big dairy push help it compete better in India?The company is making changes across products, pricing, factories and supply systems. Around half of Kwality Wall's products are expected to be dairy-based this year, while most of the shift will be completed next year."
@@ -89,19 +99,14 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/e20-ethanol-petrol-mileage-drop-localcircles-survey-older-vehicles-fuel-costs-rise-repair-damage-2918481-2026-05-28",
       "headline": "Is E20 petrol quietly increasing your monthly fuel bill? 5 in 10 owners say yesA LocalCircles survey says many owners of older petrol vehicles have seen lower mileage after the E20 rollout. The findings sharpen consumer concerns over fuel costs, repairs and the shift towards higher ethanol blends."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/real-estate/story/remote-work-flexible-work-india-housing-market-homebuying-choices-2918368-2026-05-28",
-      "headline": "Remote work is back in focus: Will it redefine how India chooses homes?Flexible work is again influencing how Indian homebuyers assess where to live. The shift could move demand beyond office hubs towards space, practicality and quality of life."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/8th-pay-commission-pension-choice-govt-employees-ups-nps-vrs-next-2-4-months-2918361-2026-05-28",
-      "headline": "8th Pay Commission: Pension choice for government employees in coming monthsAt present, most central government employees recruited after January 1, 2004, fall under the National Pension System, which is contribution-based and linked to market performance."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/ali-fazal-raakh-sets-june-premiere-new-poster-hints-at-dark-mystery-2919410-2026-05-30",
+      "headline": "Ali Fazal's Raakh sets June premiere, new poster hints at dark mystery Actors Ali Fazal and Sonali Bendre's upcoming show Raakh will have a June premiere. Prime Video announced the release date with a gritty new poster."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/ranveer-singh-poses-with-arsenal-midfielder-declan-rice-in-budapest-amid-don-3-row-2919336-2026-05-29",
@@ -120,7 +125,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/nothing-is-hidden-actor-shahana-goswami-opens-up-about-having-multiple-partners-2919231-2026-05-29",
-      "headline": "Shahana Goswami admits to open relationship, multiple partners: Nothing is hidden Actor Shahana Goswami has opened up about being in an open relationship and why \"nothing is hidden\" from her partners. The actor also spoke about love, freedom and her past relationship with Milind Soman."
+      "headline": "Shahana Goswami admits to open relationship, multiple partners: Nothing is hidden Actor Shahana Goswami discussed being in an open relationship and why \"nothing is hidden\" from her partners. The 40-year-old also spoke about love, freedom and her past relationship with actor-model Milind Soman."
     },
     {
       "sentiment": "positive",
@@ -191,11 +196,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/22-years-later-hum-tums-kunal-kohli-calls-saif-ranis-iconic-kiss-cinemas-worst-2918986-2026-05-29",
       "headline": "22 years later, Hum Tum's Kunal Kohli calls Saif-Rani's iconic kiss cinema's worst Filmmaker Kunal Kohli revisited Hum Tum after 22 years and recalled the awkward kissing scene between Saif Ali Khan and Rani Mukerji. The filmmaker joked that the iconic moment turned out to be \"one of the worst kisses of Hindi cinema.\""
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/yudhvir-ahlawat-kartavya-actor-mistaken-for-child-artiste-tops-imdb-rankings-beat-shah-rukh-khan-vijay-2918921-2026-05-29",
-      "headline": "This 33-year-old Indian actor just beat Vijay, SRK on IMDb's most popular list Actor Yudhvir Ahlawat has drawn wide attention for playing Harpal in Netflix's Kartavya alongside Saif Ali Khan. Viewers mistook the 33-year-old for a child artiste, sending his IMDb popularity sharply upwards."
     }
   ],
   "general news": [
@@ -206,33 +206,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/cbse-osm-system-controversy-toolkit-for-principals-sparks-fresh-trust-questions-2918942-2026-05-29",
-      "headline": "Did CBSE ask principals to defend OSM system? Videos fuel toolkit chargeAmid growing complaints over CBSE's On-Screen Marking (OSM) system, schools were allegedly sent a toolkit with suggested scripts and talking points to defend the process, raising fresh questions about transparency."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/karnataka/story/dk-shivakumar-to-be-sworn-in-as-karnatakas-chief-minister-on-june-3-sources-2919335-2026-05-29",
-      "headline": "DK Shivakumar to take oath as Karnataka Chief Minister on June 3Senior Congress leader DK Shivakumar will be sworn in as Karnataka's 25th Chief Minister in Bengaluru on June 3, government sources said, days after Siddaramaiah stepped down following a prolonged power tussle within the party."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/french-open-2026-joao-fonseca-stuns-novak-djokovic-five-set-roland-garros-2919382-2026-05-30",
-      "headline": "No. 25 still elusive as Fonseca knocks out Novak Djokovic in epic five-setterJoao Fonseca came back from two sets down to beat Novak Djokovic in five sets at the French Open. The result sent the former world No. 1 out and kept his wait for a 25th Grand Slam title alive."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/audrey-truschke-harappan-seal-row-mohenjo-daro-pashupati-shiva-debate-indian-history-explained-2919036-2026-05-29",
-      "headline": "Not Shiva-Pashupati on Harappan seal? US historian Audrey Truschke sparks outrageAmerican historian Audrey Truschke challenged the Ministry of Culture's description of the Harappan Pashupati seal as \"Shiva-Pashupati\". She triggered a row by saying that the figure on the seal was \"not Shiva\", but the image was \"more likely adapted from proto-Elamite iconography\". Truschke's remark triggered a wider debate on archaeology, civilisational continuity and who gets to interpret India's ancient past."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/cbse-answer-sheet-mix-up-osm-class-12-digital-evaluation-2919352-2026-05-29",
-      "headline": "CBSE detected nearly 20 answer-sheet mix-up cases on OSM portal: SourcesCBSE detected around 20 answer-sheet mix-ups during the first implementation of its on-screen marking system for Class 12 examinations. The disclosure came at a time when questions were being raised about the credibility of the board's new digital evaluation process."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/karnataka/story/siddaramaiah-coordination-committee-proposal-congress-high-command-karnataka-2919191-2026-05-29",
-      "headline": "Siddaramaiah pushes for coordination panel role in bid to checkmate DKSSiddaramaiah has proposed a coordination committee to link the Congress and the Karnataka government after stepping down as Chief Minister."
+      "url": "https://www.indiatoday.in/education-today/news/story/cbse-class-12-osm-row-why-the-push-to-call-a-controversial-reform-a-success-2919367-2026-05-30",
+      "headline": "Who benefits from selling CBSE's OSM success story?As complaints over CBSE's on-screen marking system mounted, positive endorsements from principals surfaced online. The contrast has sharpened questions over preparedness, transparency and who shapes the reform narrative. More importantly, why does the system need selling at all?"
     },
     {
       "sentiment": "positive",
@@ -241,18 +216,53 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/kerala-news-rs-34-crore-blood-money-kerala-native-abdul-rahim-death-sentence-20-years-saudi-arabia-eid-returns-2918928-2026-05-29",
-      "headline": "20 years on death row, Kerala man returns from Saudi Arabia as blood money is paidKerala native Abdul Rahim returned to his hometown on Eid after spending nearly 20 years on death row in a Saudi Arabian prison. He was pardoned following the payment of Rs 34 crore in blood money, which was raised through a crowdfunding campaign by Malayalis."
+      "url": "https://www.indiatoday.in/india/story/audrey-truschke-harappan-seal-row-mohenjo-daro-pashupati-shiva-debate-indian-history-explained-2919036-2026-05-29",
+      "headline": "Not Shiva-Pashupati on Harappan seal? US historian Audrey Truschke sparks outrageAmerican historian Audrey Truschke challenged the Ministry of Culture's description of the Harappan Pashupati seal as \"Shiva-Pashupati\". She triggered a row by saying that the figure on the seal was \"not Shiva\", but the image was \"more likely adapted from proto-Elamite iconography\". Truschke's remark triggered a wider debate on archaeology, civilisational continuity and who gets to interpret India's ancient past."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/judge-orders-trump-name-removed-from-kennedy-center-over-congress-approval-rule-2919384-2026-05-30",
-      "headline": "Only Congress can rename Kennedy Center: US judge orders removal of Trump's nameThe controversy erupted after the board \u2014 led by Trump as chairman along with several of his allies serving as trustees \u2014 voted last year to rename the landmark cultural institution the \"Donald J. Trump and John F. Kennedy Memorial Center for the Performing Arts.\""
+      "url": "https://www.indiatoday.in/opinion/story/indian-citizenship-proof-why-passport-aadhaar-voter-id-not-enough-sir-citizen-india-2919168-2026-05-30",
+      "headline": "Can you prove your Indian citizenship? I'm not sure I canCitizenship of India is a nice thought, a happy notion and a grand legal nuance. You think you have it, but do you, really?"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/rain-thunderstorms-and-hail-likely-across-india-on-saturday-as-heatwave-weakens-2919128-2026-05-29",
-      "headline": "Rain, thunderstorms, hail likely across India on Saturday, heat to go downThe IMD has forecast thunderstorms, rain, gusty winds and hail across large parts of India on Saturday. The spell is expected to ease recent heatwave conditions, though localised severe weather may disrupt travel."
+      "url": "https://www.indiatoday.in/science/story/india-monsoon-forecast-2026-imd-cuts-rainfall-prediction-to-90-percent-as-el-nino-strengthens-2918906-2026-05-29",
+      "headline": "India's worst monsoon since 2015 could be here. El Nino puts odds at 60%IMD has put the probability of a deficient 2026 monsoon at 60 per cent, nearly four times the historical odds, as El Nino develops in the Pacific and the Indian Ocean offers no counterbalancing force. The forecast, which has already worsened since April, could make 2026 India's driest monsoon in over a decade."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/durga-puja-bengal-kumartuli-ganga-clay-tmc-corruption-bjp-2919124-2026-05-30",
+      "headline": "Why Durga Puja in Bengal faces a crisis this yearThe lanes of Kumartuli in Kolkata, the hub of potters who make Durga idols, are at a standstill due to an acute shortage of a specific type of clay used for idol-making. The crisis, along with soaring jute costs, has raised fears over livelihoods and Durga Puja preparations."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/karnataka-congress-leadership-change-dk-shivakumar-new-cm-siddaramaiah-rahul-gandhi-2919409-2026-05-30",
+      "headline": "Congress in hectic parleys over new Karnataka govt, MLAs to meet at 4 pm Live UpdatesSiddaramaiah met the Congress leadership in Delhi as the party finalised Karnataka's transition. The talks centred on cabinet formation, community representation and his continuing role in state politics."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/nothing-is-hidden-actor-shahana-goswami-opens-up-about-having-multiple-partners-2919231-2026-05-29",
+      "headline": "Shahana Goswami admits to open relationship, multiple partners: Nothing is hiddenActor Shahana Goswami discussed being in an open relationship and why \"nothing is hidden\" from her partners. The 40-year-old also spoke about love, freedom and her past relationship with actor-model Milind Soman."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/surat-man-euthanasia-plea-alleges-harassment-by-wife-no-action-by-authorities-2919396-2026-05-30",
+      "headline": "Looteri Dulhan: Gujarat man alleges harassment by wife, seeks permission to dieA Surat man has sought euthanasia, alleging sustained harassment by his wife and her relatives. The plea has raised questions about mental health, legal remedies and official response in matrimonial disputes."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/cities/kolkata/story/rg-kar-medical-college-video-staffer-alcohol-emergency-department-2919419-2026-05-30",
+      "headline": "Video: RG Kar staffer drinks in emergency room, boasts about ties with ex-ministerIn the video, the man, who has now been identified as Ranjit Gosai, was heard saying that he held close ties with the outgoing Minister of Women and Child Development and Social Welfare, Shashi Panja. He also claimed to be a loyal Trinamool Congress worker at heart."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/karnataka/story/karnataka-cm-news-siddaramaiah-resignation-rahul-gandhi-meeting-dk-shivakumar-oath-2918931-2026-05-30",
+      "headline": "Siddaramaiah's dethroning will hit Rahul Gandhi. He must have known the riskThe Congress high command might have resolved the Karnataka deadlock by asking Siddaramaiah to step down, but the move could backfire for it in the 2028 Assembly polls. The unseating of the veteran OBC leader could also blunt Rahul Gandhi's choicest of political weapons."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/opinion/story/political-austerity-shrinking-convoys-vip-culture-india-problem-2919253-2026-05-30",
+      "headline": "The new royalty of shrinking convoysAs politicians showcase smaller convoys and simpler travel, a larger question remains: why was official extravagance considered necessary in the first place?"
     },
     {
       "sentiment": "positive",
@@ -260,67 +270,72 @@
       "headline": "An invisible script? Why so many principals sound alike on CBSE's OSM processAs videos praising CBSE's Class 12 On-Screen Marking (OSM) system flooded social media, India Today Digital reached out to schools across India to find out if principals were encouraged to promote the reform. Most denied receiving any such communication, but striking similarities in some endorsements have raised fresh questions."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/bangladeshi-migrants-west-bengal-crackdown-illegal-entry-routes-india-2918596-2026-05-29",
-      "headline": "Fleeing Bangladeshis reveal how they illegally crossed into IndiaIllegal Bangladeshi migrants, who are flocking to the Bangladesh border amid a crackdown in West Bengal, are describing how middlemen moved them into India and helped them in securing documents. Here's the entire trail, reconstructed from the admissions by the illegal immigrants themselves."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/history-of-it/story/pakistan-nuclear-weapon-abraham-accords-kahuta-nuclear-site-indira-gandhi-halted-israel-strike-plan-2918761-2026-05-29",
-      "headline": "When Israel, India planned to strike Pak's Islamic bomb site; Why Indira said noAs Pakistan moved dangerously close to an \"Islamic bomb\" in the early 1980s, India and Israel explored a covert strike on Kahuta to prevent it from having a nuclear weapon. But why did PM Indira Gandhi call off the mission?"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/el-nino-to-hit-india-during-monsoon-last-until-september-says-imd-chief-2919070-2026-05-29",
-      "headline": "El Nino to hit India during monsoon, last until September, says IMD chiefFor India, the developments are particularly significant because El Nino has historically been associated with weaker monsoon rainfall, frequent heatwaves and increased stress on agriculture and water resources."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/rishabh-pant-quits-lsg-captaincy-inside-story-behind-decision-2919226-2026-05-29",
-      "headline": "Inside Story: Why Rishabh Pant walked away from LSG captaincyInside story of how growing differences with the team management, a difficult season and concerns over his form culminated in Rishabh Pant stepping down as Lucknow Super Giants captain."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/jammu-and-kashmir/video/video-powerful-storm-sends-amusement-park-rides-flying-in-sonamarg-1-injured-2919288-2026-05-29",
-      "headline": "Video: Powerful storm sends amusement park rides flying in J&K's SonamargA powerful storm in Jammu and Kashmir's Sonamarg blew away rubber slides and a trampoline kept at an amusement park while one person was injured in the incident."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/iran-arash-e-kamangir-mq-9-reaper-drone-shot-down-strait-of-hormuz-us-air-defence-2919181-2026-05-29",
-      "headline": "Arash-e Kamangir: Iran's new weapon that it claims destroyed US $30 million droneIran said it used its new Arash-e Kamangir air defence system to bring down a US MQ-9 Reaper drone near the Strait of Hormuz, a claim that has reignited debate over how much of Tehran's air defence network remains operational after repeated Israeli and US strikes."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/claude-ai-bills-getting-out-of-control-company-spends-500-mn-in-just-one-month-2918840-2026-05-29",
-      "headline": "Claude AI bills getting out of control, company spends $500 mn in just one monthCompanies are embracing AI for work. But AI tools like Claude come at a cost, which can sometimes even shock you. As per reports, one company ended up spending $500,000,000 in a single month on Claude AI after it failed to set usage limits."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/tmc-assam-chief-abhijeet-majumdar-resigns-alleges-muslim-only-focus-2919004-2026-05-29",
-      "headline": "TMC exodus deepens as Assam chief quits, claims party works only for MuslimsAbhijit Majumdar resigned as Trinamool Congress chief in Assam and accused the party of working only for Muslims in Assam and West Bengal. His exit adds to a series of resignations and exposes deeper unrest after Bengal election setback."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/video/truck-skids-off-road-at-ladakahs-zojila-pass-dramatic-accident-caught-on-camera-2919338-2026-05-29",
-      "headline": "Truck skids off road at Ladakh's Zojila Pass, dramatic accident caught on cameraA dramatic accident was caught on camera at the treacherous stretches of Zojila Pass on the Srinagar-Leh Highway after a truck lost control and skidded off the slippery road."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/story/cbse-portal-hack-bad-apple-demo-nisarga-adhikary-osm-row-2919218-2026-05-29",
-      "headline": "Nisarga Adhikary hacks CBSE portal again, plays viral Bad Apple songNisarga Adhikary, a 19-year-old ethical hacker, has sparked fresh controversy around CBSE's digital systems after claiming he managed to play the viral Bad Apple animation meme on a CBSE portal, while demonstrating what he described as serious security vulnerabilities."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/no-hair-no-attendance-telangana-worker-finds-unusual-face-scan-fix-2919088-2026-05-29",
-      "headline": "No hair, no attendance? Telangana worker finds unusual face-scan fixA Telangana MGNREGA worker with a freshly shaved head was not recognised by the attendance app until he came up with a unique fix. The incident has raised fresh questions about how appearance changes can affect facial recognition systems."
-    },
-    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/kerala/story/kerala-menstrual-leave-for-schoolgirls-weekend-catch-up-classes-project-menstrual-dignity-2919344-2026-05-29",
       "headline": "Kerala plans 3-day menstrual leave for schoolgirls, with weekend catch-up classesThe Kerala government proposed three days of monthly menstrual leave for schoolgirls under Project Menstrual Dignity, along with weekend catch-up classes."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/story/cng-prices-increased-by-rs-2-per-kg-across-the-mumbai-metropolitan-region-including-thane-navi-mumbai-2919405-2026-05-30",
+      "headline": "CNG prices hiked by Rs 2 per kg in Mumbai, Thane, Navi MumbaiThis is the second hike in less than a month, following an earlier revision on May 14. The cumulative Rs 4 rise is expected to impact daily commuters, taxi operators and commercial vehicle users who rely heavily on CNG."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/scuba-diving-science-pressure-breathing-nitrogen-ocean-survival-2919005-2026-05-30",
+      "headline": "I jumped into the ocean to discover what it does to the human bodyA first dive into the ocean became a lesson in pressure, breath and survival. From compressed air and collapsing pressure zones to expanding lungs and nitrogen bubbles, scuba diving transforms the way the human body functions underwater."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/interactive/quiz/news/weekly-quiz-607-29-05-2026",
+      "headline": "Question Time: Weekly News QuizThink you read the headlines this week? Let's test that!"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/news/story/cbse-answer-sheet-mix-up-osm-class-12-digital-evaluation-2919352-2026-05-29",
+      "headline": "CBSE detected nearly 20 answer-sheet mix-up cases on OSM portal: SourcesCBSE detected around 20 answer-sheet mix-ups during the first implementation of its on-screen marking system for Class 12 examinations. The disclosure came at a time when questions were being raised about the credibility of the board's new digital evaluation process."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/kerala-news-rs-34-crore-blood-money-kerala-native-abdul-rahim-death-sentence-20-years-saudi-arabia-eid-returns-2918928-2026-05-29",
+      "headline": "20 years on death row, Kerala man returns from Saudi Arabia as blood money is paidKerala native Abdul Rahim returned to his hometown on Eid after spending nearly 20 years on death row in a Saudi Arabian prison. He was pardoned following the payment of Rs 34 crore in blood money, which was raised through a crowdfunding campaign by Malayalis."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/arsenal-vs-psg-champions-league-final-mikel-arteta-2919397-2026-05-30",
+      "headline": "Arsene Wenger built the dream, can Arteta complete it with Champions League glory?As Arsenal prepare for a defining Champions League final against PSG, the debate around Mikel Arteta's place in the club's history has intensified. Former India international Robin Singh breaks down Arsenal's rebuild, Wenger's enduring legacy, and why this final could become the biggest test of Arteta's project so far."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/south/story/rahul-gandhi-siddaramaiah-meet-karnataka-cabinet-social-balance-congress-yathindra-2919287-2026-05-29",
+      "headline": "Rahul Gandhi praises Siddaramaiah's 'sacrifice', he draws line on deputy CMsRahul Gandhi praised Siddaramaiah during talks on the Karnataka Cabinet and said he had upheld a promise to the party. Siddaramaiah told the Congress leadership that any deputy chief minister formula must reflect representation for major communities."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/punjab-civic-polls-results-aap-sweeps-wards-bjp-congress-win-key-corporations-2919372-2026-05-29",
+      "headline": "AAP sweeps Punjab civic polls, BJP, Congress take key municipal corporationsAAP dominated Punjab's civic body polls, sweeping most municipal wards across the state, while the BJP and Congress wrested control of Abohar and Kapurthala from AAP."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/vinesh-phogat-asian-games-trials-wfi-50kg-category-row-2919332-2026-05-29",
+      "headline": "WFI draws line: Vinesh Phogat cleared only for 50kg trialsThe Wrestling Federation of India (WFI) has cleared Vinesh Phogat to compete in the Asian Games selection trials, but only in the 50kg category, adding a fresh layer to the ongoing controversy."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-vaibhav-sooryavanshi-india-debut-kumar-sangakkara-rajasthan-royals-2919411-2026-05-30",
+      "headline": "Vaibhav Sooryavanshi more than ready: Sangakkara backs RR starboy for India call-up IPL 2026, GT vs RR: Kumar Sangakkara believes Rajasthan Royals teen sensation Vaibhav Sooryavanshi is ready for an India call-up after a record-breaking IPL 2026 season in which he scored 776 runs and is the Orange Cap holder."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/arsenal-vs-psg-champions-league-final-mikel-arteta-2919397-2026-05-30",
+      "headline": "Arsene Wenger built the dream, can Arteta complete it with Champions League glory? As Arsenal prepare for a defining Champions League final against PSG, the debate around Mikel Arteta's place in the club's history has intensified. Former India international Robin Singh breaks down Arsenal's rebuild, Wenger's enduring legacy, and why this final could become the biggest test of Arteta's project so far."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-shubman-gill-sai-sudharsan-gt-vs-rr-qualifier-2-play-of-the-day-2919393-2026-05-30",
+      "headline": "Play of the Day: Gill, Sudharsan and a reminder that cricket's basics never go out of fashion IPL Qualifier 2, GT vs RR: In an IPL era obsessed with innovation, Shubman Gill and Sai Sudharsan turned back to cricket's oldest lessons. Their record-breaking partnership against Rajasthan Royals was a reminder that timing, technique and trust in the basics remain the sport's most reliable currency."
+    },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/cricket/story/sam-curran-ipl-2026-absence-questioned-kumar-sangakkara-surrey-return-rr-2919385-2026-05-30",
@@ -364,17 +379,17 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/shubman-gill-fifth-ipl-hundred-gujarat-titans-rajasthan-royals-qualifier-2-2919345-2026-05-29",
-      "headline": "Shubman Gill equals Samson with fifth IPL hundred, blows RR away in Qualifier 2 Shubman Gill smashed a 47-ball century as Gujarat Titans dominated the chase of 215 against Rajasthan Royals in Qualifier 2 at Mullanpur. The GT captain's fifth IPL hundred drew him level with Sanju Samson on the all-time list and effectively knocked the wind out of Rajasthan's challenge."
+      "headline": "Shubman Gill equals Samson with fifth IPL hundred, blows RR away in Qualifier 2Shubman Gill smashed a 47-ball century as Gujarat Titans dominated the chase of 215 against Rajasthan Royals in Qualifier 2 at Mullanpur. The GT captain's fifth IPL hundred drew him level with Sanju Samson on the all-time list and effectively knocked the wind out of Rajasthan's challenge."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-ipl-2026-records-gt-vs-rr-qualifier-2-fastest-1000-runs-2919331-2026-05-29",
-      "headline": "Fastest to 1000, 500 in powerplay: Sooryavanshi rewrites IPL records in Qualifier 2 IPL 2026: Vaibhav Sooryavanshi may have missed out on another IPL century, but the Rajasthan Royals teenager still rewrote the record books against Gujarat Titans. The 15-year-old became the fastest batter to 1,000 IPL runs and the first player to score 500 powerplay runs in a T20 tournament."
+      "headline": "Fastest to 1000, 500 in powerplay: Sooryavanshi rewrites IPL records in Qualifier 2IPL 2026: Vaibhav Sooryavanshi may have missed out on another IPL century, but the Rajasthan Royals teenager still rewrote the record books against Gujarat Titans. The 15-year-old became the fastest batter to 1,000 IPL runs and the first player to score 500 powerplay runs in a T20 tournament."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/other-sports/story/vinesh-phogat-asian-games-trials-wfi-50kg-category-row-2919332-2026-05-29",
-      "headline": "WFI draws line: Vinesh Phogat cleared only for 50kg trials The Wrestling Federation of India (WFI) has cleared Vinesh Phogat to compete in the Asian Games selection trials, but only in the 50kg category, adding a fresh layer to the ongoing controversy."
+      "headline": "WFI draws line: Vinesh Phogat cleared only for 50kg trialsThe Wrestling Federation of India (WFI) has cleared Vinesh Phogat to compete in the Asian Games selection trials, but only in the 50kg category, adding a fresh layer to the ongoing controversy."
     },
     {
       "sentiment": "positive",
@@ -460,21 +475,6 @@
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-hardik-pandya-mumbai-indians-exit-captaincy-2919053-2026-05-29",
       "headline": "Mentally stressed Hardik Pandya is done with Mumbai IndiansHardik Pandya is reportedly set to leave the Mumbai Indians after a mentally exhausting and disappointing IPL 2026 season, having informed the franchise of his decision midway through the campaign."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/frances-tiafoe-french-open-racket-fan-hubert-hurkacz-2919039-2026-05-29",
-      "headline": "Frances Tiafoe makes promise to fan who sneakily ran away with his racketFrench Open 2026: Frances Tiafoe became the talk of Roland Garros after a fan ran away with his racket during post-match celebrations following his marathon win over Hubert Hurkacz."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/french-open-day-6-live-updates-novak-djokovic-iga-swiatek-mirra-andreeva-2919006-2026-05-29",
-      "headline": "Day 6 Live Updates: Djokovic crashes out as Fonseca wins five-set epicFrench Open 2026 Live Updates: Joao Fonseca has stunned the world to secure a five-set thriller against Novak Djokovic and send the former World No.1 packing."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-vaibhav-sooryavanshi-mohammad-yousaf-afridi-comparison-backlash-2919025-2026-05-29",
-      "headline": "Reminds of Shahid Afridi: Ex-Pak player faces backlash over Sooryavanshi claimIPL 2026: Mohammad Yousaf compared Vaibhav Sooryavanshi to a young Shahid Afridi after the teenager's brutal IPL knock. The praise drew a sharp backlash, showing how quickly hype around a prodigy turns into argument."
     }
   ],
   "education": [
