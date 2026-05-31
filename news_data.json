@@ -1,6 +1,11 @@
 {
   "business": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/india-cuts-export-duty-on-petrol-diesel-atf-from-june-1-2919759-2026-05-31",
+      "headline": "Petrol, diesel, ATF export duty cut: What changes from June 1The government has cut export duties on petrol, diesel and aviation turbine fuel for the fortnight from June 1. The move follows its price-linked review mechanism, while domestic fuel excise and retail rates remain unchanged."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/story/cng-prices-increased-by-rs-2-per-kg-across-the-mumbai-metropolitan-region-including-thane-navi-mumbai-2919405-2026-05-30",
       "headline": "CNG prices hiked by Rs 2 per kg in Mumbai, Thane, Navi MumbaiThis is the second hike in less than a month, following an earlier revision on May 14. The cumulative Rs 4 rise is expected to impact daily commuters, taxi operators and commercial vehicle users who rely heavily on CNG."
@@ -94,14 +99,19 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/personal-finance/story/gen-z-salary-leak-small-app-subscriptions-netflix-spotify-draining-monthly-income-2918488-2026-05-28",
       "headline": "The hidden salary leak Gen Z didn't notice until bank balances started shrinkingYoung salaried Indians are discovering that small app subscriptions are quietly eating into their monthly income. The online debate has sharpened focus on how auto-debits and convenience spending can distort budgeting."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/e20-ethanol-petrol-mileage-drop-localcircles-survey-older-vehicles-fuel-costs-rise-repair-damage-2918481-2026-05-28",
-      "headline": "Is E20 petrol quietly increasing your monthly fuel bill? 5 in 10 owners say yesA LocalCircles survey says many owners of older petrol vehicles have seen lower mileage after the E20 rollout. The findings sharpen consumer concerns over fuel costs, repairs and the shift towards higher ethanol blends."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/cm-vijay-trisha-visit-grieving-ajith-kumar-after-mother-mohini-manis-death-2919775-2026-05-31",
+      "headline": "CM Vijay, Trisha visit grieving Ajith Kumar after mother Mohini Mani's death CM Vijay and actor Trisha Krishnan visited actor Ajith Kumar's Chennai home after the death of his mother, Mohini Mani. The family matriarch died on Saturday at 85."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/ranveer-singh-don-3-controversy-dhurandhar-fwice-2919612-2026-05-31",
+      "headline": "Dhurandhar high or Don 3 row: With Ranveer Singh it's all possible, no surprises Ranveer Singh does not behave like a conventional superstar. Amid public personas crafted for perfection, his motto seems: This is me, take it or leave it. With the actor, anything is possible."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/naga-chaitanya-moves-court-against-viral-posts-claiming-he-cheated-samantha-ruth-prabhu-2919736-2026-05-30",
@@ -186,93 +196,18 @@
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/entertainment/ott/story/ali-fazal-raakh-sets-june-premiere-new-poster-hints-at-dark-mystery-2919410-2026-05-30",
       "headline": "Ali Fazal's Raakh sets June premiere, new poster hints at dark mystery Actors Ali Fazal and Sonali Bendre's upcoming show Raakh will have a June premiere. Prime Video announced the release date with a gritty new poster."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/ranveer-singh-poses-with-arsenal-midfielder-declan-rice-in-budapest-amid-don-3-row-2919336-2026-05-29",
-      "headline": "Ranveer Singh meets Arsenal midfielder Declan Rice in Budapest amid Don 3 row Actor Ranveer Singh's latest photo with Arsenal midfielder Declan Rice in Budapest has sparked buzz online. The actor is currently is making headlines after Don 3 exit."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/varun-dhawan-seeks-protection-of-personality-rights-from-delhi-high-court-2919317-2026-05-29",
-      "headline": "Varun Dhawan seeks protection of personality rights from Delhi High Court Actor Varun Dhawan has secured interim protection from the Delhi High Court against the misuse of his identity online. The order comes amid rising concerns over deepfakes and unauthorised digital content involving celebrities."
     }
   ],
   "general news": [
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/west-bengal/story/abhishek-banerjee-sonarpur-attack-tmc-leader-alleges-bjp-wanted-to-kill-him-shirt-torn-specs-broken-stones-eggs-and-chor-chor-chants-2919690-2026-05-30",
-      "headline": "BJP wanted to kill me: Abhishek Banerjee's shirt torn, specs broken in mob attackTMC MP Abhishek Banerjee's visit to a Bengal post-poll victim's family in Sonarpur turned violent after a mob threw stones, eggs and assaulted him. The clash has sparked a fresh political confrontation, with the TMC blaming the BJP over \"deteriorating law and order\" and for doing \"revenge politics\"."
+      "url": "https://www.indiatoday.in/india/story/mamata-banerjee-viral-audio-yelling-at-belle-vue-ceo-following-attack-on-abhishek-banerjee-2919770-2026-05-31",
+      "headline": "After bhaipo attacked, row over audio of Mamata Banerjee berating hospital CEOTMC leader Abhishek Banerjee was attacked during his visit to Sonarpur near Kolkata, where he had gone to meet the families of alleged victims of post-poll violence. Scores of people hurled stones, eggs and abuses at the TMC national general secretary."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/cbse-osm-controversy-student-probe-altered-tender-criteria-coempt-security-concerns-2919549-2026-05-30",
-      "headline": "GenZ whistleblower claims CBSE cooked tender to pick tainted OSM partnerControversy over CBSE's On-Screen Marking system deepened after a 17-year-old's investigation alleged that tender norms were diluted and security safeguards scaled back, raising questions about how Coempt Eduteck secured the contract"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/vinesh-phogat-wrestling-comneback-wfi-asian-games-2919730-2026-05-30",
-      "headline": "Vinesh Phogat's return to wrestling: What a messVinesh Phogat returned to the wrestling mat for the first time since the Paris Olympics, hoping to secure her place at the 2026 Asian Games. Instead, her comeback became a day-long confrontation with the Wrestling Federation of India."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/karnataka/story/karnataka-new-chief-minister-dk-shivakumar-kc-venugopal-backs-siddaramaiah-national-level-2919738-2026-05-30",
-      "headline": "Won't allow you to rest: Congress's message to Siddaramaiah as DKS takes chargeCongress made it clear that Siddaramaiah would continue to play a key political role in both state and national politics, declaring the party 'will not allow him to rest'."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/hollywood/story/obsession-takeover-a-rs-7-crore-horror-film-just-exposed-bollywood-biggest-issue-2919470-2026-05-30",
-      "headline": "Obsession takeover: A Rs 7 crore horror film just exposed Bollywood's biggest issueCurry Barker's low-budget horror film Obsession has become Hollywood's biggest ROI story of 2026. Its breakout run has renewed attention on Bollywood's shrinking space for mid-budget theatrical films."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/delhi/story/several-feared-trapped-as-five-storey-building-collapses-in-south-delhis-mehrauli-2919705-2026-05-30",
-      "headline": "Five-storey building crashes down in South Delhi, 10 rescuedA routine Saturday evening turned into a race against time after a multi-storey building suddenly collapsed near Saket Metro station. With survivors already pulled from the debris, rescuers fear more people could still be trapped."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/psg-vs-arsenal-champions-league-final-match-report-retain-title-penalties-2919746-2026-05-31",
-      "headline": "PSG break Arsenal hearts to retain Champions League crownArsenal were minutes away from completing a dream season with a first-ever Champions League title. Instead, PSG held their nerve in a penalty shootout to retain their European crown and leave the Gunners' long wait for continental glory intact."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/imd-weather-forecast-thunderstorms-hail-squally-winds-india-sunday-2919661-2026-05-30",
-      "headline": "India's brutal heatwave breaks Sunday, but storms replacing it are no picnicThe India Meteorological Department has forecast thunderstorms, hailstorms, and squally winds across large parts of India this Sunday, May 31, 2026. The southwest monsoon is also advancing and may reach Kerala within days."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/opinion/story/indian-citizenship-proof-why-passport-aadhaar-voter-id-not-enough-sir-citizen-india-2919168-2026-05-30",
-      "headline": "Can you prove your Indian citizenship? I'm not sure I canCitizenship of India is a nice thought, a happy notion and a grand legal nuance. You think you have it, but do you, really?"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/cooch-behar-cut-money-refund-villagers-use-loudspeakers-to-remind-tmc-leader-2919717-2026-05-30",
-      "headline": "TMC leader promises to return cut money, villagers blare reminders on loudspeakersVillagers in West Bengal's Cooch Behar district are using loudspeakers to remind a TMC leader of a promised \"cut money\" refund by June 4. They have threatened fresh protests if the money was not returned as promised by the deadline."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/uttar-pradesh-shikohabad-toddler-killed-cctv-firozabad-police-hunt-accused-2919693-2026-05-30",
-      "headline": "Man repeatedly slams toddler to ground, kills him to marry child's motherThe accused killed the one-and-a-half-year-old boy by repeatedly smashing him onto the ground, as he considered the toddler an obstacle to his relationship with the child's mother."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/west-bengal/story/bengal-news-parambrata-chatterjee-rograni-dibosh-2021-tweet-post-poll-violence-kolkata-high-court-2919214-2026-05-30",
-      "headline": "TMC-allied Tollywood actor gets arrest shield as Rograni post bites backWest Bengal's BJP government is reopening cases linked to the post-poll violence that followed the 2021 Assembly elections. Amid this, a five-year-old \"Rograni Dibosh\" post by actor Parambrata Chatterjee, made on the day the results were declared and violence erupted across parts of the state, has come back to haunt him. Though the Calcutta High Court has granted him anticipatory bail, the post has become a thorn in Chatterjee's side."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/ram-charan-on-how-peddi-changed-him-as-an-actor-and-person-2919631-2026-05-30",
-      "headline": "Ram Charan on how Peddi changed him as an actor and personIn an exclusive interview with India Today, Ram Charan said Peddi allowed him to represent people who need voice and recognition. He called it his toughest role and revealed he pushed through a worsening injury during the wrestling shoot."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/eggs-stones-thrown-at-tmc-leader-abhishek-banerjee-in-bengals-sonarpur-locals-raise-chor-chor-slogan-2919590-2026-05-30",
-      "headline": "Eggs, stones thrown at Abhishek Banerjee, TMC MP hospitalised after attackTMC MP Abhishek Banerjee was allegedly attacked during a visit to Sonarpur in West Bengal on Saturday, with eggs and stones thrown at his convoy as BJP workers raised \"chor chor\" slogans. Banerjee was visiting families affected by post-poll violence."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/us-iran-strikes-pete-hegseth-says-military-option-stays-as-peace-talks-stall-2919677-2026-05-30",
-      "headline": "US keeps Iran strike option open as peace breakthrough remains elusiveUS Defence Secretary Pete Hegseth reiterated his country is prepared to launch fresh strikes on Iran if talks fail, as efforts to secure a peace agreement remain deadlocked despite months of diplomatic pressure on Tehran."
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-final-prediction-team-news-ahmedadab-pitch-conditions-talking-points-2919778-2026-05-31",
+      "headline": "IPL final preview: Red-hot RCB chase era-defining sequel in AhmedabadIPL 2026, RCB vs GT Preview: A perfectly calibrated RCB and a battle-hardened Gujarat Titans clash in Ahmedabad. With historical legacy on the line, the IPL 2026 grand finale promises an era-defining sequel to crown cricket's new aristocracy."
     },
     {
       "sentiment": "negative",
@@ -281,8 +216,73 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/us-iran-deal-in-limbo-as-donald-trump-leaves-key-white-house-meeting-without-making-decision-2919758-2026-05-31",
+      "headline": "US-Iran deal in limbo as Trump walks out of key White House meetingAhead of the meeting, which was held on Friday, Trump had insisted in a social media post that a deal extending the cease-fire would involve the reopening of the conflict-hit Strait of Hormuz by Iran."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sunday-special/story/board-games-cbse-osm-re-evaluation-and-the-strange-power-of-the-cbse-class-12-marksheet-2919157-2026-05-31",
+      "headline": "Board Games: The curious afterlife of the Class 12 marksheetThe CBSE Class 12 marksheet may no longer decide a student's entire future, but it remains powerful enough to trigger panic when trust in the process breaks down. As a mother of a 16-year-old headed for the 2027 boards, I have to ask, why does an exam we claim matters less still hold such a chokehold on us?"
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/abhishek-banerjee-egg-hurt-injured-hospitalised-attack-mamata-banerjee-india-bloc-tmc-poll-rout-2919776-2026-05-31",
+      "headline": "After poll rout, can attack on Abhishek Banerjee unite a fractured INDIA bloc?The attack on Abhishek Banerjee has triggered an unexpected show of support for Mamata Banerjee from across the Opposition. The response has revived questions over whether a battered Trinamool Congress can still help pull together the fractured INDIA bloc."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/vinesh-phogat-wrestling-comneback-wfi-asian-games-2919730-2026-05-30",
+      "headline": "Vinesh Phogat's return to wrestling: What a messVinesh Phogat returned to the wrestling mat for the first time since the Paris Olympics, hoping to secure her place at the 2026 Asian Games. Instead, her comeback became a day-long confrontation with the Wrestling Federation of India."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/uttar-pradesh/story/surya-chauhan-murder-case-accused-asad-dies-in-ghaziabad-police-encounter-2919754-2026-05-31",
+      "headline": "Man accused of killing Ghaziabad teen on Bakrid shot dead in police encounterGhaziabad Police shot Surya Chauhan murder accused Asad during an attempted interception in Khora. The encounter has sharply escalated a case that had already triggered public outrage in the region."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/lifestyle/society/story/twisha-sharma-case-women-fear-marriage-silence-and-pressure-to-adjust-2919636-2026-05-31",
+      "headline": "The good girl who never came homeTwisha Sharma's case has triggered a deeply personal reflection on marriage, abuse and silence. It lays bare how families, institutions and online discourse continue to police women who refuse to adjust."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/us-defence-chief-backs-pakistan-leadership-praises-growing-relations-2919779-2026-05-31",
+      "headline": "True friendship developing: US defence chief's praise for Asim Munir, PakistanPete Hegseth said the US does not currently regard India or Pakistan as a missile threat. His remarks highlighted Washington's effort to deepen ties with both countries amid shifting South Asian security dynamics."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/cm-vijay-trisha-visit-grieving-ajith-kumar-after-mother-mohini-manis-death-2919775-2026-05-31",
+      "headline": "CM Vijay, Trisha visit grieving Ajith Kumar after mother Mohini Mani's deathCM Vijay and actor Trisha Krishnan visited actor Ajith Kumar's Chennai home after the death of his mother, Mohini Mani. The family matriarch died on Saturday at 85."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/uttar-pradesh-shikohabad-toddler-killed-cctv-firozabad-police-hunt-accused-2919693-2026-05-30",
+      "headline": "Man repeatedly slams toddler to ground, kills him to marry child's motherThe accused killed the one-and-a-half-year-old boy by repeatedly smashing him onto the ground, as he considered the toddler an obstacle to his relationship with the child's mother."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/ranveer-singh-don-3-controversy-dhurandhar-fwice-2919612-2026-05-31",
+      "headline": "Dhurandhar high or Don 3 row: With Ranveer Singh it's all possible, no surprisesRanveer Singh does not behave like a conventional superstar. Amid public personas crafted for perfection, his motto seems: This is me, take it or leave it. With the actor, anything is possible."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/science/story/indian-ocean-dipole-2026-neutral-el-nino-india-monsoon-1997-kharif-crops-rainfall-2919576-2026-05-30",
       "headline": "In 1997, India's ocean saved the monsoon from El Nino. This year, it won'tIn 1997, one of the strongest El Ninos ever recorded could not break India's monsoon because the Indian Ocean pushed back. The IOD is flat this year. El Nino is still building. And the September peak is heading straight for India's standing crops."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/punjab-civic-polls-results-aap-sweeps-wards-bjp-congress-win-key-corporations-2919372-2026-05-29",
+      "headline": "AAP sweeps Punjab civic polls, BJP, Congress take key municipal corporationsThe ruling AAP dominated Punjab's civic body polls, winning 958 of 1,977 municipal wards across the state, while the BJP and Congress wrested control of Abohar and Kapurthala from AAP."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/chirag-tyagi-death-para-asian-games-qualifier-found-dead-ghaziabad-2919728-2026-05-30",
+      "headline": "Para-athlete shot dead by rival in UP days after qualifying for Asian Para GamesNational para-athlete Chirag Tyagi was shot dead in Ghaziabad days after qualifying for the Para Asian Games in Japan. Police suspect murder and have detained a fellow para-athlete seen on CCTV footage. The accused is in custody and being questioned."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-2026-india-broadcast-rights-delay-leaves-fans-waiting-2919774-2026-05-31",
+      "headline": "The FIFA World Cup is coming. India still doesn't know where to watch itEvery four years, the FIFA World Cup turns India into a football-crazy nation, regardless of whether the national team is playing. Yet with kickoff around the corner, millions of fans found themselves waiting not for fixtures, but for a broadcaster."
     },
     {
       "sentiment": "positive",
@@ -290,37 +290,57 @@
       "headline": "Question Time: Weekly News QuizThink you read the headlines this week? Let's test that!"
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/mumbai/story/mumbai-history-sheeter-arbaaz-syed-arrested-for-assaulting-wife-2919719-2026-05-30",
-      "headline": "Man holds wife captive, beats her, forces 'murga' punishment for 4 hours; arrestedA Mumbai man with 19 criminal cases was arrested for assaulting his wife for hours, forcing her into a 'murga' position and confining her at home."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/ucl-final-psg-fans-fire-police-scuffle-title-win-video-viral-2919762-2026-05-31",
+      "headline": "PSG fans set fires, scuffle with police after Champions League title win: WatchPSG retained their Champions League title after beating Arsenal on penalties in Budapest, while celebrations in Paris were marred by clashes with police, fires and more than 130 arrests."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/karnataka/story/karnataka-cm-news-siddaramaiah-resignation-rahul-gandhi-meeting-dk-shivakumar-oath-2918931-2026-05-30",
-      "headline": "Why Siddaramaiah's dethroning might hit Rahul Gandhi the worstThe Congress high command might have resolved the Karnataka deadlock by asking Siddaramaiah to step down, but the move could backfire for it in the 2028 Assembly polls. The unseating of the veteran OBC leader could also blunt Rahul Gandhi's choicest of political weapons."
+      "url": "https://www.indiatoday.in/india/himachal-pradesh/story/kasol-firing-tourist-shoots-local-youth-after-parking-dispute-four-arrested-2919735-2026-05-30",
+      "headline": "Parking dispute turns violent in Himachal's Kasol as tourist shoots localA parking dispute in Kasol market allegedly led a tourist to fire at a local youth. The incident triggered panic, led to four arrests, and renewed concerns over tourist behaviour."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/rick-roll-orry-and-now-osm-cbses-technical-nightmares-in-april-may-2919527-2026-05-30",
-      "headline": "Rick roll, Orry, and now OSM: CBSE's technical nightmares in April-MayFrom a Rick Astley 'surprise link' in a Maths paper to an Orry QR code in the history paper and now glitches in the OSM system, CBSE's exam process has repeatedly run into digital trouble. While the board has issued clarifications on each, the incidents have left students confused and questioning the system's reliability."
+      "url": "https://www.indiatoday.in/science/story/natya-shastra-india-sound-instrument-classification-hornbostel-sachs-science-of-sound-india-today-radifah-kabir-music-2919763-2026-05-31",
+      "headline": "How India figured out the science of sound 17 centuries before the West didScience of Sound: Seventeen centuries before the German Hornbostel-Sachs system, India's Natya Shastra had already sorted every musical instrument by what vibrates inside it, and a Bengali scholar carried that science to Europe, which took the credit."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/brahmos-missile-deal-vietnam-already-signed-with-india-indonesia-pact-in-final-stages-2919650-2026-05-30",
-      "headline": "India says BrahMos deal signed with Vietnam, Indonesia next in lineDefence Secretary Rajesh Kumar Singh said Vietnam has already signed a deal with India for the BrahMos supersonic cruise missile system, though it is yet to be publicly announced, while Indonesia is in the final stages of concluding a similar agreement."
+      "url": "https://www.indiatoday.in/education-today/news/story/cbse-osm-controversy-student-probe-altered-tender-criteria-coempt-security-concerns-2919549-2026-05-30",
+      "headline": "GenZ whistleblower claims CBSE cooked tender to pick tainted OSM partnerControversy over CBSE's On-Screen Marking system deepened after a 17-year-old's investigation alleged that tender norms were diluted and security safeguards scaled back, raising questions about how Coempt Eduteck secured the contract"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/karnataka/story/dk-shivakumar-elected-karnataka-congress-clp-leader-next-chief-minister-2919637-2026-05-30",
-      "headline": "DK Shivakumar unanimously elected CLP leader, set to take over as Karnataka CMWith the formalities over, the focus now shifts to who gets what in the incoming Cabinet. Maintaining caste, regional and factional balance will be key to DK Shivakumar's 23-month tenure as Chief Minister of Karnataka."
+      "url": "https://www.indiatoday.in/india/west-bengal/story/bengal-news-parambrata-chatterjee-rograni-dibosh-2021-tweet-post-poll-violence-kolkata-high-court-2919214-2026-05-30",
+      "headline": "TMC-allied Tollywood actor gets arrest shield as Rograni post bites backWest Bengal's BJP government is reopening cases linked to the post-poll violence that followed the 2021 Assembly elections. Amid this, a five-year-old \"Rograni Dibosh\" post by actor Parambrata Chatterjee, made on the day the results were declared and violence erupted across parts of the state, has come back to haunt him. Though the Calcutta High Court has granted him anticipatory bail, the post has become a thorn in Chatterjee's side."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/chirag-tyagi-death-para-asian-games-qualifier-found-dead-ghaziabad-2919728-2026-05-30",
-      "headline": "Para-athlete found dead in Ghaziabad days after qualifying for Para Asian GamesPara-athlete Chirag Tyagi's body was recovered from Ghaziabad, with a wound on his back. It is not yet clear whether the injury was caused by a bullet or another sharp object."
+      "url": "https://www.indiatoday.in/cities/delhi/story/several-feared-trapped-as-five-storey-building-collapses-in-south-delhis-mehrauli-2919705-2026-05-30",
+      "headline": "Five-storey building crashes down in South Delhi, 10 rescuedA routine Saturday evening turned into a race against time after a multi-storey building suddenly collapsed near Saket Metro station. With survivors already pulled from the debris, rescuers fear more people could still be trapped."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-2026-india-broadcast-rights-delay-leaves-fans-waiting-2919774-2026-05-31",
+      "headline": "The FIFA World Cup is coming. India still doesn't know where to watch it Every four years, the FIFA World Cup turns India into a football-crazy nation, regardless of whether the national team is playing. Yet with kickoff around the corner, millions of fans found themselves waiting not for fixtures, but for a broadcaster."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-final-prediction-team-news-ahmedadab-pitch-conditions-talking-points-2919778-2026-05-31",
+      "headline": "IPL final preview: Red-hot RCB chase era-defining sequel in Ahmedabad IPL 2026, RCB vs GT Preview: A perfectly calibrated RCB and a battle-hardened Gujarat Titans clash in Ahmedabad. With historical legacy on the line, the IPL 2026 grand finale promises an era-defining sequel to crown cricket's new aristocracy."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/ucl-final-psg-fans-fire-police-scuffle-title-win-video-viral-2919762-2026-05-31",
+      "headline": "PSG fans set fires, scuffle with police after Champions League title win: Watch PSG retained their Champions League title after beating Arsenal on penalties in Budapest, while celebrations in Paris were marred by clashes with police, fires and more than 130 arrests."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-final-rcb-vs-gt-virat-kohli-soul-royal-challengers-bengaluru-title-defence-soul-2919756-2026-05-31",
+      "headline": "An IPL champion already, Virat Kohli remains the soul of RCB's title defence IPL Final, RCB vs GT: Virat Kohli no longer needs an IPL trophy to complete his story. He already has one. Yet as Royal Challengers Bengaluru prepare for another title-defining night, Virat Kohli remains the emotional pulse of a franchise that has grown with him."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/psg-vs-arsenal-champions-league-final-match-report-retain-title-penalties-2919746-2026-05-31",
@@ -359,17 +379,17 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/video/ipl-final-rcb-vs-gt-rajat-patidar-pre-match-full-press-conference-2919697-2026-05-30",
-      "headline": "Rajat Patidar reveals secret behind RCB's push for consecutive IPL titles Rajat Patidar has revealed the captaincy mantra behind Royal Challengers Bengaluru's success as they stand just one win away from retaining their IPL title. While victory over Gujarat Titans in Sunday's final would see him join MS Dhoni and Rohit Sharma as the only captains to successfully defend an IPL crown, Patidar said he has always preferred to lead in his own way rather than follow the path set by others."
+      "headline": "Rajat Patidar reveals secret behind RCB's push for consecutive IPL titlesRajat Patidar has revealed the captaincy mantra behind Royal Challengers Bengaluru's success as they stand just one win away from retaining their IPL title. While victory over Gujarat Titans in Sunday's final would see him join MS Dhoni and Rohit Sharma as the only captains to successfully defend an IPL crown, Patidar said he has always preferred to lead in his own way rather than follow the path set by others."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/french-open-aryna-sabalenka-beats-daria-kasatkina-sets-up-naomi-osaka-clash-2919684-2026-05-30",
-      "headline": "Sabalenka powers past Kasatkina, books fourth-round date with Osaka Aryna Sabalenka continued her strong run at the French Open, beating Australia's Daria Kasatkina 6-0, 7-5 on Saturday to reach the fourth round at Roland Garros and set up a blockbuster clash with four-time Grand Slam champion Naomi Osaka."
+      "headline": "Sabalenka powers past Kasatkina, books fourth-round date with OsakaAryna Sabalenka continued her strong run at the French Open, beating Australia's Daria Kasatkina 6-0, 7-5 on Saturday to reach the fourth round at Roland Garros and set up a blockbuster clash with four-time Grand Slam champion Naomi Osaka."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/other-sports/story/vinesh-phogat-asian-games-trials-comeback-ends-stands-proud-semifinal-loss-wfi-controversy-2919660-2026-05-30",
-      "headline": "Vinesh Phogat stands proud after Asian Games trials: Fighting the whole system Defiant despite missing an Asian Games berth, Vinesh Phogat declared she won her true victory by overcoming administrative hurdles and returning to the mat as a mother. The former world medalist slammed the wrestling system while confirming her target remains the 2028 Olympics."
+      "headline": "Vinesh Phogat stands proud after Asian Games trials: Fighting the whole systemDefiant despite missing an Asian Games berth, Vinesh Phogat declared she won her true victory by overcoming administrative hurdles and returning to the mat as a mother. The former world medalist slammed the wrestling system while confirming her target remains the 2028 Olympics."
     },
     {
       "sentiment": "positive",
@@ -445,26 +465,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/novak-djokovic-french-open-2026-exit-roland-garros-return-joao-fonseca-loss-2919460-2026-05-30",
       "headline": "Djokovic was asked about his future after French Open exit. The Serbian was bluntFrench Open 2026: 14-time Grand Slam champion Novak Djokovic spoke about his future after a shock third-round exit at Roland Garros, where Brazil's Joao Fonseca defeated him in a five-set, five-hour marathon clash on Centre Court."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/athletics/story/gurindervir-singh-national-record-comeback-animesh-kujur-feature-2919440-2026-05-30",
-      "headline": "How Gurindervir took back the title of fastest Indian alive from Animesh KujurGurindervir Singh and Animesh Kujur are two of the fastest men in India. The battle between the two is rapidly taking sprinting to new heights in the country."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/vinesh-phogat-asian-games-trials-wrestler-cleared-53kg-supreme-court-relief-2919430-2026-05-30",
-      "headline": "Delayed entry, weight change: Vinesh Phogat clears last-minute hurdles for Asian Games trialsVinesh Phogat was finally cleared to compete in the Asian Games 53kg trials on Saturday after days of legal and administrative confusion involving the Wrestling Federation of India."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-vaibhav-sooryavanshi-india-debut-kumar-sangakkara-rajasthan-royals-2919411-2026-05-30",
-      "headline": "Vaibhav Sooryavanshi more than ready: Sangakkara backs RR starboy for India call-upIPL 2026, GT vs RR: Kumar Sangakkara believes Rajasthan Royals teen sensation Vaibhav Sooryavanshi is ready for an India call-up after a record-breaking IPL 2026 season in which he scored 776 runs and is the Orange Cap holder."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/arsenal-vs-psg-champions-league-final-mikel-arteta-2919397-2026-05-30",
-      "headline": "Arsene Wenger built the dream, can Arteta complete it with Champions League glory?As Arsenal prepare for a defining Champions League final against PSG, the debate around Mikel Arteta's place in the club's history has intensified. Former India international Robin Singh breaks down Arsenal's rebuild, Wenger's enduring legacy, and why this final could become the biggest test of Arteta's project so far."
     }
   ],
   "education": [
