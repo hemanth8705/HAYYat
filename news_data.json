@@ -1,6 +1,11 @@
 {
   "business": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/story/india-russian-oil-lifeline-under-threat-us-wants-sanctions-waivers-ended-soon-says-marco-rubio-2921126-2026-06-03",
+      "headline": "US wants to end Russian oil sanctions waiver: How it will hit IndiaThe US has repeatedly criticised purchases of Russian oil since the Ukraine conflict began, claiming that revenues from crude exports help fund Moscow's military campaign."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/maharashtra-govt-buys-mumbais-landmark-air-india-building-for-rs-1601-crore-2920983-2026-06-02",
       "headline": "Maharashtra govt buys Mumbai's landmark Air India building for Rs 1,601 croreThe state government plans to shift a number of its offices to the Air India building, many of which are currently functioning from rented premises across Mumbai."
@@ -94,11 +99,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/what-is-section-301-of-the-us-trade-act-why-india-wants-protection-from-it-2920366-2026-06-01",
       "headline": "What is Section 301 of the US Trade Act? Why India wants protection from itAs negotiations enter the final stage, one issue attracting attention is India's effort to secure protection from possible US tariffs under Section 301 of the US Trade Act, 1974."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/india-us-trade-deal-close-99-discussions-over-piyush-goyal-2920278-2026-06-01",
-      "headline": "Piyush Goyal says 99% of India-US trade deal talks completedSpeaking about the ongoing negotiations, Goyal said discussions between the two sides would continue from June 2 to June 4 to resolve a few remaining issues before the agreement is formally announced."
     }
   ],
   "entertainment": [
@@ -200,14 +200,29 @@
   ],
   "general news": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/story/india-russian-oil-lifeline-under-threat-us-wants-sanctions-waivers-ended-soon-says-marco-rubio-2921126-2026-06-03",
+      "headline": "US wants to end Russian oil sanctions waiver: How it will hit IndiaThe US has repeatedly criticised purchases of Russian oil since the Ukraine conflict began, claiming that revenues from crude exports help fund Moscow's military campaign."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/iran-war-marco-rubio-reveals-new-details-on-iran-supreme-leader-mojtaba-khamenei-2921123-2026-06-03",
+      "headline": "Alive and still in charge? Marco Rubio reveals new details on Mojtaba KhameneiMarco Rubio told senators Mojtaba Khamenei appears increasingly involved in governing Iran. The comments came as Washington and Tehran traded conflicting signals over nuclear talks and sanctions."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/uk-mp-rupert-lowe-shares-pakistan-grooming-gang-shocking-testimonies-in-parliment-2921034-2026-06-02",
       "headline": "Girls locked in cages, raped by 700 men: UK MP shares Pak grooming gang testimoniesThe British MP read out harrowing accounts of systematic sexual abuse, violence, intimidation, racial targeting and alleged police misconduct, alongside claims that public authorities, healthcare workers and children's home staff repeatedly failed to protect vulnerable children."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/india-nepal-border-dispute-balen-shah-remarks-protests-resignation-kalapani-limpiyadhura-lipulekh-2920801-2026-06-02",
-      "headline": "Resign, Balen: Nepal students, Opposition protest against PM's India remarkPrime Minister Balen Shah's remark that Nepal too might have crossed into Indian territory has triggered a political firestorm, seemingly uniting a fractured opposition, now asking for his resignation. Balen, who rode a wave of protests to become the PM, is himself facing huge protests."
+      "url": "https://www.indiatoday.in/world/story/us-to-scrutinise-irans-soccer-world-cup-delegation-ensuring-no-irgc-linked-individuals-enter-with-team-2921131-2026-06-03",
+      "headline": "US to screen Iran Soccer World Cup delegation for IRGC-linked membersUS Secretary of State Marco Rubio said Washington will closely scrutinise Iran's Soccer World Cup delegation for possible ties to the Islamic Revolutionary Guard Corps (IRGC). While the Iranian team and support staff are welcome, officials with suspected IRGC links will not be allowed entry."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/pakistan-japan-mosque-illegal-ambassador-inaguration-embassy-clarification-demolition-request-2920871-2026-06-02",
+      "headline": "Pakistanis build mosque illegally in Japan. Embarrassments followThe mosque in Japan's Kawagoe city was inaugurated by Pakistan's Ambassador to Japan, Abdul Hameed, in April. Weeks later, the Pakistani mission was forced to issue a clarification after it emerged that the structure had been built without the necessary approvals from local authorities. Locals are now demanding the structure be razed."
     },
     {
       "sentiment": "negative",
@@ -216,13 +231,23 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/kolkata/story/west-bengal-kolkata-surendranath-college-cash-recovery-termite-damaged-notes-union-room-bjp-tmc-2921103-2026-06-02",
-      "headline": "Termite-damaged cash worth Rs 1 crore found in Kolkata college union roomBundles of termite-damaged currency notes, reportedly including Rs 100 and Rs 500 notes, were recovered from two suitcases found inside a college union room at Surendranath College during a cleanliness drive in Kolkata"
+      "url": "https://www.indiatoday.in/india/story/annamalai-tells-bjp-leadership-he-wants-to-resign-asked-to-wait-sources-2921125-2026-06-03",
+      "headline": "Annamalai tells BJP leaders he will resign, party asks him to wait: SourcesDespite the growing speculation, BJP leaders remain hopeful that Annamalai can be persuaded to stay. Party insiders acknowledge that his departure would be a major setback for the BJP's long-term ambitions in Tamil Nadu, where he is widely credited with energising the cadre base and giving the party unprecedented visibility."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/pakistan-japan-mosque-illegal-ambassador-inaguration-embassy-clarification-demolition-request-2920871-2026-06-02",
-      "headline": "Pakistanis build mosque illegally in Japan. Embarrassments followThe mosque in Japan's Kawagoe city was inaugurated by Pakistan's Ambassador to Japan, Abdul Hameed, in April. Weeks later, the Pakistani mission was forced to issue a clarification after it emerged that the structure had been built without the necessary approvals from local authorities. Locals are now demanding the structure be razed."
+      "url": "https://www.indiatoday.in/world/story/india-nepal-border-dispute-balen-shah-remarks-protests-resignation-kalapani-limpiyadhura-lipulekh-2920801-2026-06-02",
+      "headline": "Resign, Balen: Nepal students, Opposition protest against PM's India remarkPrime Minister Balen Shah's remark that Nepal too might have crossed into Indian territory has triggered a political firestorm, seemingly uniting a fractured opposition, now asking for his resignation. Balen, who rode a wave of protests to become the PM, is himself facing huge protests."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/featurephilia/story/student-no-coding-hackathon-wins-gsoc-internships-startup-ai-learning-2920774-2026-06-02",
+      "headline": "I cracked 5 hackathons and earned Rs 8 lakh before completing my second year of BTechAgnik Misra is a second-year BTech student in Computer Science and Engineering. In just 24 months, he has won five hackathons, secured multiple internships, and earned nearly Rs 8 lakh. He is also working on his own startup."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/cities/kolkata/story/west-bengal-kolkata-surendranath-college-cash-recovery-termite-damaged-notes-union-room-bjp-tmc-2921103-2026-06-02",
+      "headline": "Termite-damaged cash worth Rs 1 crore found in Kolkata college roomBundles of termite-damaged currency notes, reportedly including Rs 100 and Rs 500 notes, were recovered from two suitcases found inside a college union room at Surendranath College during a cleanliness drive in Kolkata."
     },
     {
       "sentiment": "positive",
@@ -236,18 +261,28 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/featurephilia/story/student-databases-sold-for-rs-1500-cbse-and-nta-rows-spark-bigger-concerns-2920805-2026-06-02",
+      "headline": "Student databases for Rs 1,500? The dark side of India's exam boomAs CBSE's OSM controversy and NTA portal allegations raise questions about data security, Career360 founder Maheshwer Peri has pointed to a larger issue: student databases allegedly sold for as little as Rs 1,500. The claim brings to focus India's growing student-data economy and the businesses built around it."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/maharashtra-govt-buys-mumbais-landmark-air-india-building-for-rs-1601-crore-2920983-2026-06-02",
       "headline": "Maharashtra govt buys Mumbai's landmark Air India building for Rs 1,601 croreThe state government plans to shift a number of its offices to the Air India building, many of which are currently functioning from rented premises across Mumbai."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/featurephilia/story/student-no-coding-hackathon-wins-gsoc-internships-startup-ai-learning-2920774-2026-06-02",
-      "headline": "I cracked 5 hackathons and earned Rs 8 lakh before completing my second year of BTechAgnik Misra is a second-year BTech student in Computer Science and Engineering. In just 24 months, he has won five hackathons, secured multiple internships, and earned nearly Rs 8 lakh. He is also working on his own startup."
+      "url": "https://www.indiatoday.in/india/tamil-nadu/story/annamalai-news-party-bjp-resign-aiadmk-alliance-rift-2026-assembly-election-state-president-post-2920485-2026-06-02",
+      "headline": "Final push that made Annamalai plan BJP exit, form new partyDynamic IPS officer-turned-politician K Annamalai is planning to quit the BJP and launch a party. While his exit might appear to be sudden, it comes amid a series of developments ahead of the 2026 Tamil Nadu Assembly elections. Here's what might have been the final push."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/tamil-nadu/story/annamalai-news-party-bjp-resign-aiadmk-alliance-rift-2026-assembly-election-state-president-post-2920485-2026-06-02",
-      "headline": "Final push that made Annamalai plan BJP exit, form new partyDynamic IPS officer-turned-politician K Annamalai is planning to quit the BJP and launch a party. While his exit might appear to be sudden, it comes amid a series of developments ahead of the 2026 Tamil Nadu Assembly elections. Here's what might have been the final push."
+      "url": "https://www.indiatoday.in/world/story/donald-trump-white-house-correspondents-dinner-july-24-rescheduled-whca-event-2921129-2026-06-03",
+      "headline": "Trump to attend rescheduled White House correspondents' dinner on July 24Donald Trump said he will attend the rescheduled White House Correspondents' Association dinner on July 24 after the April event was postponed following a shooting. Organisers said the dinner will go ahead with tighter security and stand against violence and intimidation of the free press."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-2026-lionel-messi-vs-cristiano-ronaldo-football-biggest-debate-final-act-2920770-2026-06-02",
+      "headline": "Messi vs Ronaldo? Football's biggest debate gets one last World CupFIFA World Cup 2026: As Lionel Messi and Cristiano Ronaldo prepare for what could be their final World Cup, football gets one last chance to celebrate the rivalry that defined an era."
     },
     {
       "sentiment": "positive",
@@ -261,13 +296,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/featurephilia/story/student-databases-sold-for-rs-1500-cbse-and-nta-rows-spark-bigger-concerns-2920805-2026-06-02",
-      "headline": "Student databases for Rs 1,500? The dark side of India's exam boomAs CBSE's OSM controversy and NTA portal allegations raise questions about data security, Career360 founder Maheshwer Peri has pointed to a larger issue: student databases allegedly sold for as little as Rs 1,500. The claim brings to focus India's growing student-data economy and the businesses built around it."
+      "url": "https://www.indiatoday.in/india/story/tmc-split-crisis-claim-suspended-riju-dutta-50-mlas-trinamool-symbol-west-bengal-mamata-banerjee-ritabrata-2920793-2026-06-02",
+      "headline": "Will 50 MLAs split TMC, claim symbol? Secret hotel meeting sparks buzzThe threat of a split within the Trinamool Congress is for real and Mamata Banerjee could lose the party's control and symbol. Suspended TMC spokesperson Riju Dutta said that around 50 MLAs, enough to tide over the anti-defection law, had held a secret meeting, and were backing Ritabrata Banerjee as their leader."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/tmc-split-crisis-claim-suspended-riju-dutta-50-mlas-trinamool-symbol-west-bengal-mamata-banerjee-ritabrata-2920793-2026-06-02",
-      "headline": "Will 50 MLAs split TMC, claim symbol? Secret hotel meeting sparks buzzThe threat of a split within the Trinamool Congress is for real and Mamata Banerjee could lose the party's control and symbol. Suspended TMC spokesperson Riju Dutta said that around 50 MLAs, enough to tide over the anti-defection law, had held a secret meeting, and were backing Ritabrata Banerjee as their leader."
+      "url": "https://www.indiatoday.in/india/story/kanpur-petrol-pump-scam-52-litres-billed-for-45-litre-tank-2920240-2026-06-01",
+      "headline": "45-litre tank, 52 litres of petrol: Kanpur car owner alleges fuel pump scamA car owner in Uttar Pradesh's Kanpur has claimed that a local petrol pump billed him for 52 litres of petrol while topping up a car with a 45-litre tank. District officials have begun a probe into the man's allegations."
     },
     {
       "sentiment": "positive",
@@ -281,43 +316,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-2026-lionel-messi-vs-cristiano-ronaldo-football-biggest-debate-final-act-2920770-2026-06-02",
-      "headline": "Messi vs Ronaldo? Football's biggest debate gets one last World CupFIFA World Cup 2026: As Lionel Messi and Cristiano Ronaldo prepare for what could be their final World Cup, football gets one last chance to celebrate the rivalry that defined an era."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/indigo-manchester-flights-suspended-august-31-airspace-restrictions-rising-costs-2921082-2026-06-02",
       "headline": "IndiGo to halt Manchester flights from Aug 31 amid airspace curbs, higher costsIndiGo will temporarily suspend flights to and from Manchester from August 31, 2026, citing longer flight durations due to airspace restrictions and rising operating costs."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/army-pilot-proposes-to-girlfriend-in-front-of-helicopter-during-convocation-in-up-2920833-2026-06-02",
-      "headline": "Army pilot proposes to girlfriend in front of helicopter during convocation in UPAfter graduating from CAATS in Nashik, an Army pilot proposed to his girlfriend in front of a helicopter. The surprise moment drew cheers at the venue and quickly spread across social media."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/kerala/story/kerala-toddler-death-51-injuries-burn-marks-stepfather-custody-2920942-2026-06-02",
-      "headline": "Cigarette burn marks, 51 injuries found on Kerala toddler; mother's lover arrestedWhat began as a claim that a toddler choked while being fed has unravelled into a disturbing murder investigation, with a postmortem exposing dozens of injuries and triggering public outrage."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/kanpur-petrol-pump-scam-52-litres-billed-for-45-litre-tank-2920240-2026-06-01",
-      "headline": "45-litre tank, 52 litres of petrol: Kanpur car owner alleges fuel pump scamA car owner in Uttar Pradesh's Kanpur has claimed that a local petrol pump billed him for 52 litres of petrol while topping up a car with a 45-litre tank. District officials have begun a probe into the man's allegations."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/music/story/dua-lipa-shares-dreamy-wedding-photos-with-callum-turner-2921037-2026-06-02",
-      "headline": "Dua Lipa, Callum Turner make it official in wedding pics that scream peak romanceDua Lipa and Callum Turner made their wedding official with dreamy photos on social media. The singer shared glimpses from their intimate London ceremony, offering fans the first official look at her special day."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/india-nepal-ties-bjp-balen-shah-party-chief-lipulekh-border-dispute-2920848-2026-06-02",
-      "headline": "Why BJP rolled out red carpet for chief of Balen Shah's partyNepal's ruling party chief Rabi Lamichhane met BJP leaders after a rare ceremonial welcome at the party headquarters. The outreach, which comes amid border tensions under new PM Balen Shah, suggests both sides want to keep communication channels open."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/monsoon-to-set-over-kerala-from-june-4-very-heavy-rainfall-thunderstorm-predicted-imd-2920797-2026-06-02",
-      "headline": "After delay, monsoon to reach Kerala on June 4; very heavy rainfall expectedThe weather agency has forecast widespread rainfall activity across the southern states over the next week, with Kerala expected to bear the brunt of the monsoon's arrival."
     }
   ],
   "sports": [
