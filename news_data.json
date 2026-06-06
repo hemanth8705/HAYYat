@@ -2,6 +2,11 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/india-oil-demand-growth-rosneft-ceo-global-increase-2923045-2026-06-06",
+      "headline": "Rosneft CEO predicts India will drive 50% of global oil demand growth by 2035Rosneft CEO cited International Energy Agency estimates projecting that India's oil consumption would reach nearly eight million barrels per day by 2035, representing growth of 44 per cent, while global demand overall would increase by about five per cent."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/personal-finance/story/indians-have-no-will-for-a-will-2922475-2026-06-06",
       "headline": "Indians have no will for a WILLA house. A few bank accounts. Some investments. Perhaps a family business. For many Indians, these assets represent decades of hard work. Yet surprisingly few leave behind clear instructions on who gets what, creating uncertainty for the very people they wanted to protect."
     },
@@ -94,11 +99,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/gujarat-wire-free-cities-underground-power-lines-urban-areas-2030-2922189-2026-06-05",
       "headline": "Gujarat wire-free cities plan: Urban power lines to go underground by 2030Gujarat has approved a statewide mission to move urban power lines underground by 2030. The phased project aims to improve power reliability and safety while making cities less cluttered."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/story/rbi-ends-fema-probe-against-myntra-heres-what-happened-2921946-2026-06-04",
-      "headline": "RBI ends FEMA probe against Myntra. Here's what happenedAccording to the Enforcement Directorate (ED), the RBI passed the order on April 20, 2026 under Section 15 of FEMA after receiving a \"No Objection\" from the agency. As a result, the investigation against the company has been terminated."
     }
   ],
   "entertainment": [
@@ -201,8 +201,13 @@
   "general news": [
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/cjp-protest-neet-ug-paper-leak-cbse-osm-glitches-cockroach-janta-party-jantar-mantar-abhijeet-dipke-2922967-2026-06-06",
-      "headline": "Inside the CJP protest: Anger, anxiety and a demand for accountabilityCockroach Janta Party (CJP) held its first protest at Delhi's Jantar Mantar. While it attracted supporters from traditional left students' outfits, hundreds of \"YouTubers\" and \"influencers\", the anger over the NEET-UG leaks and the glitches in the on-screen marking system was evident."
+      "url": "https://www.indiatoday.in/india/story/cockroach-janta-party-protest-bjp-chief-youth-wont-be-puppets-targets-negative-politics-2923017-2026-06-06",
+      "headline": "Youth won't be puppets: BJP chief jabs Cockroach party for 'negative politics'Taking a swipe at the Cockroach Janta Party, BJP president Nitin Nabin accused people sitting abroad of attempting to drag Indian youth into negative politics."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/neet-question-papers-transport-air-force-engaged-first-time-nta-2923044-2026-06-06",
+      "headline": "Air Force to ferry NEET papers for June 21 retest as NTA tightens exam securityThe NTA chief, Abhishek Singh, said the Indian Air Force will transport NEET question papers for the June 21 exam. Authorities were told to tighten security and counter misinformation after the paper leak fiasco led to the cancellation of previous examination which affected over 22 lakh students."
     },
     {
       "sentiment": "positive",
@@ -215,24 +220,59 @@
       "headline": "Suryakumar Yadav reacts to India's T20I captaincy change: Happy for Shreyas IyerIndia captain Suryakumar Yadav has sent his best wishes to Shreyas Iyer after the Indian selectors named the latter captain of the T20I side. The Ajit Agarkar-led selection panel handed the baton to Shreyas, who has not played a T20I since December 2023."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/french-open-mirra-andreeva-beats-maja-chwalinska-title-paris-2922980-2026-06-06",
-      "headline": "Mirra Andreeva ends Maja Chwalinska's dream run, wins maiden Grand Slam titleFrench Open 2026: Mirra Andreeva fulfilled her Grand Slam dream at Roland Garros, defeating Maja Chwalinska 6-3, 6-2 to become the youngest women's singles champion in Paris since Monica Seles in 1992 and claim her maiden major title."
-    },
-    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/movies/celebrities/story/did-janhvi-kapoor-flag-concerns-about-her-peddi-role-leaked-chats-go-viral-2922956-2026-06-06",
       "headline": "Did Janhvi Kapoor flag concerns about her Peddi role? Leaked chats go viralAlleged leaked chats circulated by Janhvi Kapoor's fan clubs suggest that the actor had raised concerns about camera angles and the portrayal of her character in Peddi long before the film came under public scrutiny."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/cockroach-janta-party-protest-bjp-chief-youth-wont-be-puppets-targets-negative-politics-2923017-2026-06-06",
-      "headline": "Youth won't be puppets: BJP chief jabs Cockroach party for 'negative politics'Taking a swipe at the Cockroach Janta Party, BJP president Nitin Nabin accused people sitting abroad of attempting to drag Indian youth into negative politics."
+      "url": "https://www.indiatoday.in/sports/tennis/story/french-open-mirra-andreeva-beats-maja-chwalinska-title-paris-2922980-2026-06-06",
+      "headline": "Mirra Andreeva ends Maja Chwalinska's dream run, wins maiden Grand Slam titleFrench Open 2026: Mirra Andreeva fulfilled her Grand Slam dream at Roland Garros, defeating Maja Chwalinska 6-3, 6-2 to become the youngest women's singles champion in Paris since Monica Seles in 1992 and claim her maiden major title."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/domestic-lpg-price-raised-by-rs-29-per-142-kg-cylinder-second-increase-in-three-months-2923060-2026-06-07",
+      "headline": "Domestic LPG price raised by Rs 29 per 14.2-kg cylinder, second increase in three monthsThe latest revision comes as state-owned oil marketing companies continue to struggle with mounting losses on fuel sales. Industry estimates suggest that before the latest increase, companies were losing around Rs 703 on every domestic LPG cylinder sold. Even with the fresh hike, the gap between selling prices and actual costs is not expected to be fully bridged."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/singapore-orders-youtube-facebook-x-to-block-china-linked-anti-indian-posts-on-social-media-2922896-2026-06-06",
+      "headline": "Singapore orders YouTube, Facebook, X to block posts targeting Indian communitySingapore has directed social media platforms to disable access to posts undermining its multicultural model. The government said the foreign-sourced content threatened racial harmony and multiculturalism."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/cjp-protest-neet-ug-paper-leak-cbse-osm-glitches-cockroach-janta-party-jantar-mantar-abhijeet-dipke-2922967-2026-06-06",
+      "headline": "Inside the CJP protest: Anger, anxiety and a demand for accountabilityCockroach Janta Party (CJP) held its first protest at Delhi's Jantar Mantar. While it attracted supporters from traditional left students' outfits, hundreds of \"YouTubers\" and \"influencers\", the anger over the NEET-UG leaks and the glitches in the on-screen marking system was evident."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-afghanistan-test-day-one-shubman-gill-kl-rahul-mullanpur-2922914-2026-06-06",
+      "headline": "Gill, Rahul deliver dose of Test reality to Afghanistan as India dominateIndia vs Afghanistan 1st Test, Day 1: KL Rahul and Shubman Gill drove India into command against Afghanistan in Mullanpur. Afghanistan's missed reviews, dropped chances and tiring spells left the visitors well behind the hosts early on in the contest."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/us-iran-peace-deal-24-billion-frozen-assets-mohsen-rezaei-mojtaba-khamenei-donald-trump-middle-east-war-2922924-2026-06-06",
+      "headline": "Iran sets $24 billion 'trust test' for Trump, links it to peace talksIran demanded the release of USD 12 billion in frozen assets immediately after signing an interim agreement with the Trump administration, with another USD 12 billion to be released at a later stage."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/rahul-gandhi-shashi-tharoor-ramchandra-guha-prime-minister-credentials-debate-2922964-2026-06-06",
       "headline": "What about Obama, Modi? Tharoor counters Ramachandra Guha's Rahul Gandhi criticismShashi Tharoor pushed back against Ramachandra Guha's criticism of Rahul Gandhi's prime ministerial credentials, arguing that leadership is not defined solely by prior ministerial experience."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/suryakumar-yadav-t20i-captaincy-indian-cricket-farewells-gambhir-agarkar-2922718-2026-06-06",
+      "headline": "No more goodbyes: Has Indian cricket finally learned to move on?Handcrafted ByOur Editors He won the Asia Cup. He defended the World Cup. He captained better than almost anyone before him. But Suryakumar Yadav won't get a farewell series. That, increasingly, is the point."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/magnus-carlsen-praises-praggnanandhaa-norway-chess-win-2922993-2026-06-06",
+      "headline": "R Praggnanandhaa an incredible fighter: Carlsen praises Norway Chess title winMagnus Carlsen praised R Praggnanandhaa after the Indian Grandmaster made history as the first player from India to win the Norway Chess title."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/science/story/india-weather-monsoon-heatwave-forecast-sunday-june-seven-2026-2922990-2026-06-06",
+      "headline": "Monsoon rain to drench South India, heatwave to grip North on SundayAs the southwest monsoon brings heavy rain to the south and northeast, the north continues to reel under intense heatwave conditions."
     },
     {
       "sentiment": "positive",
@@ -246,8 +286,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-afghanistan-test-day-one-shubman-gill-kl-rahul-mullanpur-2922914-2026-06-06",
-      "headline": "Gill, Rahul deliver dose of Test reality to Afghanistan as India dominateIndia vs Afghanistan 1st Test, Day 1: KL Rahul and Shubman Gill drove India into command against Afghanistan in Mullanpur. Afghanistan's missed reviews, dropped chances and tiring spells left the visitors well behind the hosts early on in the contest."
+      "url": "https://www.indiatoday.in/interactive/quiz/news/weekly-quiz-609-05-06-2026",
+      "headline": "Question Time: Weekly News QuizThink you read the headlines this week? Let's test that!"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/iraq-footballer-detained-usa-airport-fifa-world-cup-2923024-2026-06-06",
+      "headline": "USA detains Iraq football team's striker, interrogates him for 7 hoursIraq's World Cup striker Aymen Hussein was held and questioned for nearly seven hours at Chicago's O'Hare Airport. The move has once again put the spotlight on an issue that fans and critics had expressed concerns about in the lead-up to the tournament."
     },
     {
       "sentiment": "positive",
@@ -256,43 +301,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/suryakumar-yadav-t20i-captaincy-indian-cricket-farewells-gambhir-agarkar-2922718-2026-06-06",
-      "headline": "No more goodbyes: Has Indian cricket finally learned to move on?Handcrafted ByOur Editors He won the Asia Cup. He defended the World Cup. He captained better than almost anyone before him. But Suryakumar Yadav won't get a farewell series. That, increasingly, is the point."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/us-iran-peace-deal-24-billion-frozen-assets-mohsen-rezaei-mojtaba-khamenei-donald-trump-middle-east-war-2922924-2026-06-06",
-      "headline": "Iran sets $24 billion 'trust test' for Trump, links it to peace talksIran demanded the release of USD 12 billion in frozen assets immediately after signing an interim agreement with the Trump administration, with another USD 12 billion to be released at a later stage."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/magnus-carlsen-praises-praggnanandhaa-norway-chess-win-2922993-2026-06-06",
-      "headline": "R Praggnanandhaa an incredible fighter: Carlsen praises Norway Chess title winMagnus Carlsen praised R Praggnanandhaa after the Indian Grandmaster made history as the first player from India to win the Norway Chess title."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/bengal-rail-metro-projects-ashwini-vaishnaw-suvendu-adhikari-2922810-2026-06-06",
-      "headline": "Delhi to Siliguri in 6 hours? Bengal to get bullet trainUnion Minister Ashwini Vaishnaw announced a rail infrastructure blitz in Bengal during his Kolkata visit. He accused the previous TMC regime of delaying projects, while CM Suvendu Adhikari blamed it for taking Centre-state relations to a 'very difficult stage'."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-t20i-squad-shreyas-iyer-captain-suryakumar-yadav-dropped-vaibhav-sooryavanshi-2922815-2026-06-06",
-      "headline": "Shreyas Iyer named T20I captain, Vaibhav Sooryavanshi in squad for UK tourIndia named Shreyas Iyer captain for the T20I tours of Ireland and England, with Suryakumar Yadav omitted from the squad. 15-year-old batter Vaibhav Sooryavanshi earned a maiden call-up, while Tilak Varma was appointed vice-captain."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/cheetah-helicopter-hal-india-chetak-indian-army-chopper-50-years-accidents-treacherous-terrain-luh-chopper-2922332-2026-06-06",
       "headline": "In Army Captain's viral proposal pic a marriage of 50 years no one's talking aboutCaptain Bharat Bhardwaj's proposal beside a Cheetah helicopter drew a barrage of split opinions, but a far more important marriage went unnoticed. India still relies on Cheetah helicopters, the 50-year-old military workhorse with a troubling crash record, even as delays stall the arrival of its replacement."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/interactive/quiz/news/weekly-quiz-609-05-06-2026",
-      "headline": "Question Time: Weekly News QuizThink you read the headlines this week? Let's test that!"
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/science/story/india-weather-monsoon-heatwave-forecast-sunday-june-seven-2026-2922990-2026-06-06",
-      "headline": "Monsoon rain to drench South India, heatwave to grip North on SundayAs the southwest monsoon brings heavy rain to the south and northeast, the north continues to reel under intense heatwave conditions."
     },
     {
       "sentiment": "positive",
@@ -300,24 +310,14 @@
       "headline": "Why JEE Advanced girl topper Arohi Deshpande avoided the 'topper mindset'JEE Advanced 2026 female topper Arohi Deshpande secured AIR 77 after moving from Pune to Kota for preparation. She credits her parents, teachers and friends for the achievement. Her advice to aspirants is simple: stay relaxed, sleep adequately, stay organised and trust the preparation process."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/trending-news/story/mumbai-man-accidentally-pays-auto-driver-rs-15682-then-something-unusual-happens-2922736-2026-06-06",
-      "headline": "Mumbai man accidentally pays auto driver Rs 15,682. Then something unusual happensA Mumbai man accidentally transferred Rs 15,682 to an auto driver while rushing to a client meeting. What followed turned a disastrous day into a story he still remembers."
-    },
-    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/cji-surya-kant-london-lecture-disrupted-amid-dissent-questions-and-cockroach-row-india-condemns-act-slamming-indecorous-behaviour-2922742-2026-06-06",
       "headline": "Chief Justice faces questions on dissent at UK lecture, India calls act indecorousChief Justice of India Surya Kant's lecture at Birkbeck in London was interrupted after attendees raised questions on dissent and his earlier remarks. The disruption drew condemnation from the Indian High Commission and renewed attention on the controversy around his \"cockroach\" comments."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/lalu-prasad-yadav-rabri-devi-tejashwi-yadav-misa-bharti-rohini-acharya-tej-pratap-yadav-security-scaled-down-samrat-chaudhary-2922806-2026-06-06",
-      "headline": "Lalu Yadav returns personnel in protest after his Z+ security scaled downThe move, described by the RJD as a protest against a politically motivated decision, has further escalated tensions between the ruling NDA government and the RJD-led opposition Mahagathbandhan."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/tamil-nadu/story/annamalai-nainar-nagendran-tamil-nadu-bjp-no-modi-shah-backing-separate-move-2922873-2026-06-06",
-      "headline": "Annamalai doesn't have PM, Amit Shah blessing to float party: Tamil Nadu BJP chiefTamil Nadu BJP dismissed claims that K Annamalai's new political outfit has the backing of Prime Minister Narendra Modi or Amit Shah, asserting that his exit would not impact the party."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/trending-news/story/mumbai-man-accidentally-pays-auto-driver-rs-15682-then-something-unusual-happens-2922736-2026-06-06",
+      "headline": "Mumbai man accidentally pays auto driver Rs 15,682. Then something unusual happensA Mumbai man accidentally transferred Rs 15,682 to an auto driver while rushing to a client meeting. What followed turned a disastrous day into a story he still remembers."
     }
   ],
   "sports": [
