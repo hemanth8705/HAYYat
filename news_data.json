@@ -1,6 +1,11 @@
 {
   "business": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/story/us-fda-import-alert-dabur-india-drugs-dadra-plant-inspection-import-alert-2925395-2026-06-11",
+      "headline": "US drug agency puts Dabur products on import alert after inspection flags lapsesThe US FDA has placed drugs manufactured at Dabur India's Dadra and Nagar Haveli factory under an import alert after an inspection found data integrity and maintenance lapses."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/video/steady-adjustment-of-rupee-is-okay-a-free-fall-is-not-raghuram-rajan-2925360-2026-06-11",
       "headline": "Steady adjustment of rupee is okay, a free fall is not: Raghuram RajanIn an exclusive interview with India Today TV, former Reserve Bank of India Governor Raghuram Rajan shares his thoughts on how to deal with the ongoing conflict in West Asia's impact on the global and Indian economies and more."
@@ -94,11 +99,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/sebi-proposes-new-salary-disclosure-rules-for-asset-managers-2924596-2026-06-10",
       "headline": "Sebi proposes new salary disclosure rules for asset managersIn a consultation paper released on Wednesday, Sebi suggested that AMCs should be allowed to disclose the combined remuneration paid to executive-level employees along with the total number of such employees."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/market/story/sensex-ends-higher-as-fmcg-and-banking-stocks-cushion-broader-market-selloff-2924602-2026-06-10",
-      "headline": "Markets end marginally higher as FMCG, banks gains cushion profit bookingThe BSE Sensex rose 64.42 points, or 0.09%, to close at 73,983.18. However, the NSE Nifty50 slipped 27.15 points, or 0.12%, to settle at 23,214.95."
     }
   ],
   "entertainment": [
@@ -201,13 +201,18 @@
   "general news": [
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/trump-says-talks-reached-irans-highest-leadership-level-calls-off-strikes-and-bombings-planned-for-tonight-2925390-2026-06-11",
-      "headline": "Trump cancels planned attack on Iran, claims US-Iran deal approved by alliesIn a post on Truth Social, Trump said scheduled attacks that had been expected later in the day would no longer go ahead because discussions had advanced significantly and received approval from senior Iranian leaders."
+      "url": "https://www.indiatoday.in/world/story/trump-says-iran-deal-could-be-signed-in-europe-this-weekend-jd-vance-to-attend-2925409-2026-06-12",
+      "headline": "Trump says Iran deal could be signed in Europe this weekend, JD Vance to attendDonald Trump said that a signing ceremony could take place in Europe as early as this weekend, although he would not attend personally. Vice President JD Vance is expected to represent the United States at the event."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-2026-opening-ceremony-live-updates-mexico-vs-south-africa-south-korea-vs-czechia-matches-2925362-2026-06-11",
-      "headline": "Mexico vs South Africa Live Score: No Ochoa as co-hosts start favouritesMexico vs South Africa Live Updates: After a sensational opening ceremony, it's time for the opening game. Mexico start as favourites and they decide to bench their legendary goalkeeper Guillermo Ochoa for the game. South Africa look upbeat and field a strong side for the contest."
+      "headline": "Mexico vs South Africa Live: Jimenez, Quinones give hosts 2-0 win in openerMexico vs South Africa Live Updates: Goals from Julian Quinones and Raul Jimenez have fired co-hosts Mexico to an important 2-0 win over South Africa in the FIFA World Cup 2026 opener. The match saw 3 red-cards, with South Africa's Yaya Sithole and Thema Zwane along with Mexico's Ceser Montes getting sent off with straight reds."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/trump-says-talks-reached-irans-highest-leadership-level-calls-off-strikes-and-bombings-planned-for-tonight-2925390-2026-06-11",
+      "headline": "Trump cancels planned attack on Iran, claims US-Iran deal approved by alliesDonald Trump said that he had called off the planned attacks because negotiations had moved forward rapidly and received approval from senior Iranian leaders."
     },
     {
       "sentiment": "negative",
@@ -215,14 +220,14 @@
       "headline": "Blockade impartial: US rains Hellfire missiles on Jalveer, 20 Indians rescuedAmerican forces on Thursday hit oil tanker M/T Jalveer, which was being crewed by 20 Indian sailors, with two Hellfire missiles. All 20 have been rescued. This was the third attack in four days on a ship being crewed by Indians in the Gulf of Oman. The US said it was enforcing the blockade on Iran impartially."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/bangladesh-jamaat-ncp-border-protests-india-push-in-claims-bsf-firing-allegations-2925071-2026-06-11",
-      "headline": "Form human shield: Islamist Jamaat to march to India border over 'push-ins'Bangladesh Jamaat-e-Islami and allied Islamist parties have announced that they would march to various border points with India on Friday protesting against the alleged Indian push-ins and killings near the frontier. The anti-Hasina student's NCP has called for Bangladeshis to form a human shield along the border even as high-level talks between India and Bangladesh are being held in New Delhi."
-    },
-    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/science/story/pakistan-launched-6-satellites-to-watch-india-as-isros-navic-struggles-with-failures-2925032-2026-06-11",
       "headline": "Pakistan launches 6 satellites to watch India, Isro's NavIC still in crisisPakistan has launched six Chinese-backed Earth-observation satellites as India struggles to restore NavIC. The contrast has sharpened concern over surveillance capability and the reliability of India's sovereign navigation network."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/bangladesh-jamaat-ncp-border-protests-india-push-in-claims-bsf-firing-allegations-2925071-2026-06-11",
+      "headline": "Form human shield: Islamist Jamaat to march to India border over 'push-ins'Bangladesh Jamaat-e-Islami and allied Islamist parties have announced that they would march to various border points with India on Friday protesting against the alleged Indian push-ins and killings near the frontier. The anti-Hasina student's NCP has called for Bangladeshis to form a human shield along the border even as high-level talks between India and Bangladesh are being held in New Delhi."
     },
     {
       "sentiment": "positive",
@@ -236,18 +241,28 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-2026-opening-ceremony-shakira-burna-boy-dai-dai-mexico-city-2925397-2026-06-11",
+      "headline": "Shakira, Burna Boy get World Cup 2026 underway the Dai Dai wayShakira and Burna Boy opened the 2026 Men's FIFA World Cup with a live performance of \"Dai Dai\" at Estadio Azteca in Mexico City. The ceremony blended a tribute to Mexico's roots, a packed musical line-up and the stadium's historic third World Cup hosting role."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-referee-headset-robocop-memes-mexico-vs-south-africa-opener-2925408-2026-06-12",
+      "headline": "World Cup referee headset sparks RoboCop memes during Mexico openerFIFA World Cup 2026: The football was barely minutes old when the referees stole the spotlight. The World Cup fans were left doing a double take after spotting Brazilian referee Wilton Sampaio wearing a futuristic headset that quickly sparked Xbox and RoboCop comparisons online."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/niti-aayog-meeting-all-28-chief-ministers-attend-governing-council-session-pm-modi-speech-2925312-2026-06-11",
       "headline": "Rare full house at NITI Aayog as all 28 CMs join PM Modi-led meetingAll 28 chief ministers attended the 11th NITI Aayog Governing Council meeting chaired by Prime Minister Narendra Modi, marking a sharp departure from the boycotts and absences that had characterised previous editions."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/haryana-hansi-gym-operator-shot-dead-bikers-fire-ten-rounds-2924931-2026-06-11",
-      "headline": "10 rounds in 5 seconds: Bishnoi gang shoots gym owner dead, warns of more attacksA gym operator was shot dead by motorcycle-borne attackers near Fawwara Chowk in Hansi during an early morning exercise session. A young woman was injured by bullet fragments as police and forensic teams began an investigation after CCTV footage surfaced."
+      "url": "https://www.indiatoday.in/india/story/rain-thunderstorms-cool-delhi-ncr-imd-forecasts-more-showers-2925406-2026-06-12",
+      "headline": "Delhi-NCR hit by heavy rain, strong winds; more showers expected FridayHeavy rain, thunderstorms and gusty winds swept across Delhi-NCR on Thursday evening after days of intense heat. The IMD has warned of more rain and severe weather across North India on Friday."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/science/story/thunderstorms-hailstorms-and-heavy-rain-across-large-parts-of-india-on-friday-2925259-2026-06-11",
-      "headline": "Thunderstorms, hailstorms and heavy rain across large parts of India on FridayThe IMD has issued widespread weather warnings for Friday as the monsoon advances and multiple systems intensify conditions. The alerts signal severe rain, thunderstorms, hail and parallel heatwave conditions across several regions."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/haryana-hansi-gym-operator-shot-dead-bikers-fire-ten-rounds-2924931-2026-06-11",
+      "headline": "10 rounds in 5 seconds: Bishnoi gang shoots gym owner dead, warns of more attacksA gym operator was shot dead by motorcycle-borne attackers near Fawwara Chowk in Hansi during an early morning exercise session. A young woman was injured by bullet fragments as police and forensic teams began an investigation after CCTV footage surfaced."
     },
     {
       "sentiment": "positive",
@@ -256,13 +271,23 @@
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/delhi/story/delhi-police-constable-ronit-yadav-arrested-for-ex-girlfriend-assault-in-gurugram-2925364-2026-06-11",
-      "headline": "Grabbed my hair, slapped me: Cop arrested for assaulting ex-girlfriend, familyA Delhi Police constable has been arrested after his former girlfriend accused him of assaulting her, threatening her family, and attempting to force his way into her Gurugram residence. The complaint also alleges a previous assault and blackmail through threats to leak a private video, while CCTV footage of the latest incident has surfaced online."
+      "url": "https://www.indiatoday.in/science/story/thunderstorms-hailstorms-and-heavy-rain-across-large-parts-of-india-on-friday-2925259-2026-06-11",
+      "headline": "Thunderstorms, hailstorms and heavy rain across large parts of India on FridayThe IMD has issued widespread weather warnings for Friday as the monsoon advances and multiple systems intensify conditions. The alerts signal severe rain, thunderstorms, hail and parallel heatwave conditions across several regions."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/us-israel-iran-war-live-updates-strait-of-hormuz-middle-east-conlfict-khamenei-trump-netanyahu-ceasefire-lebanon-hezbollah-tensions-2925407-2026-06-12",
+      "headline": "Live: Iran yet to approve US deal, but odds of approval rising, state media saysUS-Israel-Iran War Live Updates: The apparent diplomatic breakthrough announced by US President Donald Trump was quickly clouded by uncertainty after Iranian media pushed back against his claims that key points of an agreement had already been approved. Trump said he cancelled planned strikes on Iran because discussions had reached the highest levels of the Iranian leadership and had secured broad regional backing. However, Iran's semi-official Fars News Agency later cited a source close to the negotiating team as saying that Tehran had not approved any text for a preliminary memorandum of understanding with Washington. The conflicting accounts left the true state of negotiations unclear, even as both sides continued indirect contacts. Trump earlier vowed to take Kharg Island, which handles roughly 90% of Iran's crude exports. Plans to capture the island have been drawn up for months but continuously shelved because it was considered too risky. Iranian officials have maintained that the country is prepared for any escalation and have rejected suggestions that military pressure would force concessions. Meanwhile, reports from Iranian and Western officials indicate that negotiations remain active, with major issues such as sanctions relief, frozen Iranian assets and regional security arrangements still unresolved. Follow IndiaToday.in for live updates."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/maa-behen-sleeveless-blouse-suresh-triveni-says-it-symbolises-choice-not-patriarchy-2925099-2026-06-11",
       "headline": "Was Madhuri Dixit's blouse a fight against patriarchy? Maa Behen director answersSuresh Triveni addressed the debate over the sleeveless blouse worn by Madhuri Dixit's character in Maa Behen. He said the garment reflects personal choice within the story, even as viewers read it as a symbol of patriarchy."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/cities/delhi/story/delhi-police-constable-ronit-yadav-arrested-for-ex-girlfriend-assault-in-gurugram-2925364-2026-06-11",
+      "headline": "Grabbed my hair, slapped me: Cop arrested for assaulting ex-girlfriend, familyA Delhi Police constable has been arrested after his former girlfriend accused him of assaulting her, threatening her family, and attempting to force his way into her Gurugram residence. The complaint also alleges a previous assault and blackmail through threats to leak a private video, while CCTV footage of the latest incident has surfaced online."
     },
     {
       "sentiment": "positive",
@@ -276,23 +301,13 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/lagaan-25-years-aamir-khan-plans-re-release-and-mumbai-reunion-for-cast-and-crew-2925041-2026-06-11",
+      "headline": "Lagaan cast then and now: Where are they 25 years later?As Lagaan turns 25, the film is set for a theatrical re-release and a reunion of the people who made it unforgettable. On that note, here's a look at what the villagers of Champaner are doing in 2026."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/technology/news/story/apple-security-update-stolen-iphones-harder-to-reactivate-london-police-2925306-2026-06-11",
       "headline": "Apple is making it almost impossible for thieves to resell your stolen iPhoneApple's latest security upgrades are making stolen iPhones much harder to reset and resell, with police claiming the move is already reducing criminals' ability to profit from phone theft. The company has also started sharing data with law enforcement to better track what happens to stolen devices."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/gori-dham-drowning-chittorgarh-man-dies-during-pre-wedding-photoshoot-rajsamand-2925350-2026-06-11",
-      "headline": "Rajasthan man slips into lake, drowns during pre-wedding shootPolice and local authorities launched a search operation immediately after the incident, but were unable to locate Arjun Damami on Tuesday due to poor visibility and the depth of the pool. His body was recovered on Wednesday after a joint rescue operation by the SDRF and the Rajsamand Civil Defence team."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/pentagon-evacuated-as-us-officials-probe-possible-hazardous-exposure-multiple-floors-under-lockdown-2925346-2026-06-11",
-      "headline": "Pentagon evacuated, multiple floors locked down over possible hazardous exposurePentagon spokesman Sean Parnell said monitoring systems inside the building detected an issue that required immediate precautionary action."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/aditya-sharma-oman-tanker-us-naval-strike-family-seeks-repatriation-india-protests-2925219-2026-06-11",
-      "headline": "Want to know what exactly happened: Family of Indian sailor killed in US strikeA pall of gloom descended on Hareta village in Himachal Pradesh's Hamirpur district after relatives were informed of Aditya Sharma's death on Wednesday. Villagers gathered at the family's residence to offer condolences and support."
     },
     {
       "sentiment": "positive",
@@ -301,30 +316,35 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/lagaan-25-years-aamir-khan-plans-re-release-and-mumbai-reunion-for-cast-and-crew-2925041-2026-06-11",
-      "headline": "Lagaan cast then and now: Where are they 25 years later?As Lagaan turns 25, the film is set for a theatrical re-release and a reunion of the people who made it unforgettable. On that note, here's a look at what the villagers of Champaner are doing in 2026."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/delhi/story/delhi-drug-raid-south-african-woman-dies-meth-lab-suspected-swaroop-nagar-2925380-2026-06-11",
-      "headline": "South African woman jumps to her death during anit-narcotics raid in DelhiOfficials said the operation was part of an ongoing investigation linked to a drug case busted in Burari, where an accused, identified as Frank Dashmond, had earlier been arrested. His arrest eventually led an ANS team to raid a residential building in Swaroop Nagar and apprehend Romeo alias Sky."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/air-india-ai171-crash-ahmedabad-officials-recall-relief-dna-identification-2925265-2026-06-11",
-      "headline": "Bodies were unrecognisable: Two officials recall horror of AI171 Ahmedabad crashThe investigation into the crash\u2014one of India's worst aviation disasters\u2014remains ongoing. A year later, two key officials involved in the response, Dr Rakesh Joshi and then Ahmedabad Police Commissioner GS Malik (now Gujarat DGP), have reflected on the coordinated multi-agency effort during the large-scale relief and recovery operations."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/india-monsoon-forecast-below-normal-rainfall-el-nino-copernicus-2925107-2026-06-11",
-      "headline": "Godzilla El Nino to eat up Gujarat, Goa's monsoon rain, worsen water crisisClimate projections are drawing attention to potential shifts in India's rainy season, with implications that could extend far beyond weather forecasts."
+      "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-2026-india-dd-sports-free-matches-zee5-streaming-2924863-2026-06-11",
+      "headline": "No subscription needed: Here's how you can watch World Cup for free in IndiaThe FIFA World Cup 2026 is all set to begin, with the fans in India eagerly waiting to watch each game. Here's how you can watch the matches for free in India."
     }
   ],
   "sports": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-referee-headset-robocop-memes-mexico-vs-south-africa-opener-2925408-2026-06-12",
+      "headline": "World Cup referee headset sparks RoboCop memes during Mexico opener FIFA World Cup 2026: The football was barely minutes old when the referees stole the spotlight. The World Cup fans were left doing a double take after spotting Brazilian referee Wilton Sampaio wearing a futuristic headset that quickly sparked Xbox and RoboCop comparisons online."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/jose-mourinho-real-madrid-return-new-manager-three-year-deal-announcement-2925405-2026-06-12",
+      "headline": "Real Madrid announce Jose Mourinho as new manager to headline comeback era Real Madrid have turned to a familiar face in their search for a revival, bringing Jose Mourinho back to the Santiago Bernabeu on a three-year deal. More than a decade after his first spell, \"The Special One\" is now tasked with leading another rebuild."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/bangladesh-vs-australia-maiden-odi-series-win-dhaka-mustafizur-rahman-2925351-2026-06-11",
+      "headline": "Mustafizur, Taskin star as Bangladesh secure maiden ODI series win vs Australia Bangladesh beat Australia by five wickets in Dhaka to seal their first ODI series win over them. The result was sealed by a sensational early burst from Mustafizur Rahman and Taskin Ahmed with the new ball that wrecked the Aussie top order."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-2026-opening-ceremony-shakira-burna-boy-dai-dai-mexico-city-2925397-2026-06-11",
+      "headline": "Shakira, Burna Boy get World Cup 2026 underway the Dai Dai way Shakira and Burna Boy opened the 2026 Men's FIFA World Cup with a live performance of \"Dai Dai\" at Estadio Azteca in Mexico City. The ceremony blended a tribute to Mexico's roots, a packed musical line-up and the stadium's historic third World Cup hosting role."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-2026-opening-ceremony-live-updates-mexico-vs-south-africa-south-korea-vs-czechia-matches-2925362-2026-06-11",
-      "headline": "Mexico vs South Africa Live Score: No Ochoa as co-hosts start favourites Mexico vs South Africa Live Updates: After a sensational opening ceremony, it's time for the opening game. Mexico start as favourites and they decide to bench their legendary goalkeeper Guillermo Ochoa for the game. South Africa look upbeat and field a strong side for the contest."
+      "headline": "Mexico vs South Africa Live: Jimenez, Quinones give hosts 2-0 win in opener Mexico vs South Africa Live Updates: Goals from Julian Quinones and Raul Jimenez have fired co-hosts Mexico to an important 2-0 win over South Africa in the FIFA World Cup 2026 opener. The match saw 3 red-cards, with South Africa's Yaya Sithole and Thema Zwane along with Mexico's Ceser Montes get sent off with straight reds."
     },
     {
       "sentiment": "positive",
@@ -359,22 +379,22 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/wimbledon-prize-money-2026-rs-821-crore-purse-rs-46-crore-champions-2925231-2026-06-11",
-      "headline": "Grand Slam pay war: Champions to earn Rs 46 crore as Wimbledon unveils record purse Wimbledon has raised its 2026 prize purse to a record \u00a364.2 million, with singles champions set to earn \u00a33.6 million each. The increase follows player protests over Grand Slam revenue sharing and lifts payouts across the draw."
+      "headline": "Grand Slam pay war: Champions to earn Rs 46 crore as Wimbledon unveils record purseWimbledon has raised its 2026 prize purse to a record \u00a364.2 million, with singles champions set to earn \u00a33.6 million each. The increase follows player protests over Grand Slam revenue sharing and lifts payouts across the draw."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-a-vs-afghanistan-vaibhav-sooryavanshi-batting-maturity-restraint-in-44-run-cameo-2925131-2026-06-11",
-      "headline": "Sooryavanshi trades aggression for restraint in 44-run cameo vs Afghanistan A Vaibhav Sooryavanshi showcased a different facet of his batting during India A's clash against Afghanistan A, scoring a brisk 44 off 22 balls while relying more on timing and placement than outright power. The 15-year-old struck nine boundaries and gave India A a flying start."
+      "headline": "Sooryavanshi trades aggression for restraint in 44-run cameo vs Afghanistan AVaibhav Sooryavanshi showcased a different facet of his batting during India A's clash against Afghanistan A, scoring a brisk 44 off 22 balls while relying more on timing and placement than outright power. The 15-year-old struck nine boundaries and gave India A a flying start."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/anvay-dravid-india-u19-squad-sri-lanka-odi-series-rahul-dravid-son-2925126-2026-06-11",
-      "headline": "Another Dravid in India colours: BCCI picks Rahul's son Anvay in U19 squad Rahul Dravid's younger son, Anvay, has been named in India's Under-19 one-day squad for Sri Lanka. The call-up rewards his domestic form and begins his pathway in the next World Cup cycle."
+      "headline": "Another Dravid in India colours: BCCI picks Rahul's son Anvay in U19 squadRahul Dravid's younger son, Anvay, has been named in India's Under-19 one-day squad for Sri Lanka. The call-up rewards his domestic form and begins his pathway in the next World Cup cycle."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-opening-ceremony-live-streaming-when-and-where-to-watch-in-india-2925088-2026-06-11",
-      "headline": "All you need to know about FIFA World Cup opening ceremony The FIFA World Cup opens with three ceremonies across Mexico City, Toronto and Los Angeles over two days. Shakira will headline the first opening ceremony in Mexico on Thursday, performing her official tournament single \"Dai Dai\" live for the first time."
+      "headline": "All you need to know about FIFA World Cup opening ceremonyThe FIFA World Cup opens with three ceremonies across Mexico City, Toronto and Los Angeles over two days. Shakira will headline the first opening ceremony in Mexico on Thursday, performing her official tournament single \"Dai Dai\" live for the first time."
     },
     {
       "sentiment": "positive",
@@ -450,26 +470,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-india-vs-afghanistan-odis-nets-session-team-training-2924791-2026-06-10",
       "headline": "Hitman in range: Rohit Sharma gets into groove for India vs Afghanistan ODIsRohit Sharma returned to India's white-ball nets and gradually found his range after a lay-off. The session eased immediate worries and showed a senior batter measuring himself against his own standards."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/richa-ghosh-india-vs-england-68-in-vain-in-womens-t20-world-cup-warm-up-2924804-2026-06-10",
-      "headline": "Explosive Richa Ghosh finds form, but India lose final T20 World Cup warm-upWomen's T20 World Cup 2026: Richa Ghosh hit 68 off 36, but India lost to England in Cardiff in their final warm-up match. Her counterattack eased concerns before Sunday's World Cup opener, though India's top order still remains under scrutiny."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-india-igor-stimac-gurpreet-commentary-2924787-2026-06-10",
-      "headline": "FIFA World Cup coverage in India headlined by Igor Stimac, Gurpreet SandhuWith the FIFA World Cup 2026 just days away, ZEE5 has assembled a star-studded multilingual commentary team featuring Bhaichung Bhutia, Gurpreet Singh Sandhu, Igor Stimac and I.M. Vijayan to bring the tournament closer to football fans across India."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ms-dhoni-promotes-inaugural-jharkhand-t20-league-after-missing-ipl-2026-2924777-2026-06-10",
-      "headline": "After missing IPL, MS Dhoni promotes inaugural edition of Jharkhand T20 leagueMS Dhoni attended the opening ceremony of the inaugural Jharkhand T20 League in Ranchi on Wednesday. His presence gave the new tournament a high-profile start."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-kerala-fever-flags-flexes-fan-rivalries-state-2924764-2026-06-10",
-      "headline": "FIFA World Cup fever grips Kerala as God's own country prepares for tournamentWorld Cup fever has engulfed Kerala, with flags, cutouts and flex battles stretching across the state. Beneath the carnival sits a familiar truth: deep football culture, thin grassroots support and one more emotional wait for Messi, Ronaldo and Neymar."
     }
   ],
   "education": [
