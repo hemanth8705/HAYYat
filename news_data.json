@@ -200,6 +200,11 @@
   ],
   "general news": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/trump-floats-future-us-tolls-in-strait-of-hormuz-if-iran-deal-fails-citing-guardian-angel-role-2930795-2026-06-21",
+      "headline": "Trump floats US Hormuz tolls if Iran deal fails, cites 'Guardian Angel' roleTrump said ships would face no tolls in the Strait of Hormuz during the 60-day ceasefire, while leaving open later US charges if talks fail. The statement came as Iran declared the strait closed over alleged Israeli violations in Lebanon and both sides prepared for talks in Switzerland."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/shashi-tharoor-congress-row-modi-remarks-indian-sailors-g7-2930716-2026-06-20",
       "headline": "Admiration for PM has gone beyond physical world: Congress mocks TharoorCongress took a swipe at Shashi Tharoor over his remarks on PM Modi and Indian sailors, with Tharoor clarifying he was citing published reports while Pawan Khera took a swipe saying he now seemed \"capable of hearing what Modi doesn't even say.\""
@@ -216,18 +221,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/meloni-asked-me-for-picture-over-and-over-at-g7-to-get-her-numbers-up-i-said-no-thanks-trump-repeats-claim-2930567-2026-06-20",
-      "headline": "My popularity is none of your concern: Meloni jabs Trump again over begged pic claimUS President Donald Trump reignited a diplomatic row by claiming Italian Prime Minister Giorgia Meloni repeatedly sought photographs with him at the G7 Summit and was trying to boost her popularity, while also criticising Italy's stance on US military operations and Iran."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/education-today/featurephilia/story/iit-admissions-2026-ai-infrastructure-and-the-new-appeal-of-civil-engineering-2929863-2026-06-20",
       "headline": "The Great IIT Reversal: Why are toppers choosing Civil Engineering over AI?Handcrafted ByOur Editors For years, the IIT dream meant Computer Science. But as AI reshapes careers and India's infrastructure boom gathers pace, some of the country's top JEE Advanced rankers are taking a fresh look at Civil Engineering. Their choices may signal a shift in the future of engineering careers."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-netherlands-vs-sweden-live-score-updates-germany-vs-ivory-coast-2930702-2026-06-20",
-      "headline": "GER 0-1 CIV, Live: Cote d'Ivoire start strong in 2nd halfGermany (GER) vs Ivory Coast (CIV), FIFA World Cup 2026 Live score and updates: Ivory Coast come close to doubling their lead as Franck Kessie's shot is blocked after a slick one-two with Amad Diallo in the 50th minute."
+      "url": "https://www.indiatoday.in/sports/football/story/germany-vs-ivory-coast-deniz-undav-stoppage-time-winner-2-1-thriller-2930796-2026-06-21",
+      "headline": "Super sub Deniz Undav becomes hero as Germany beat Ivory Coast 2-1 in thrillerDeniz Undav came off the bench to score twice as Germany beat Ivory Coast 2-1 in Toronto. Julian Nagelsmann's changes proved decisive and pushed Germany into the next round of the competition."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/meloni-asked-me-for-picture-over-and-over-at-g7-to-get-her-numbers-up-i-said-no-thanks-trump-repeats-claim-2930567-2026-06-20",
+      "headline": "My popularity is none of your concern: Meloni jabs Trump again over begged pic claimUS President Donald Trump reignited a diplomatic row by claiming Italian Prime Minister Giorgia Meloni repeatedly sought photographs with him at the G7 Summit and was trying to boost her popularity, while also criticising Italy's stance on US military operations and Iran."
     },
     {
       "sentiment": "positive",
@@ -235,14 +240,14 @@
       "headline": "No food, no water: Abhijeet Dipke accuses police of cracking down on CJP protestAt Jantar Mantar, Abhijeet Dipke alleged that police restricted facilities and entry during the student protest. He said the agitation would continue peacefully despite fears of detention and growing questions over the curbs."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/tmc-bank-accounts-frozen-rebel-mlas-probe-rs-440-crore-funds-ptag-2930446-2026-06-20",
-      "headline": "TMC's Rs 440-crore bank accounts frozen after rebel MLAs seek probePolice have frozen debit operations in three TMC bank accounts after complaints from rebel MLAs. The move deepens the party's internal power struggle by bringing its finances under criminal scrutiny."
-    },
-    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/samantha-pregnant-raj-nidimoru-set-to-welcome-their-first-child-due-year-end-maa-inti-bangaaram-2930625-2026-06-20",
       "headline": "Samantha, 39, is pregnant. Actor to welcome first child with Raj Nidimoru this yearActor Samantha is set to welcome her first child with filmmaker Raj Nidimoru later this year. The news comes after fans speculated about her pregnancy during the celebrations for Maa Inti Bangaaram."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/tmc-bank-accounts-frozen-rebel-mlas-probe-rs-440-crore-funds-ptag-2930446-2026-06-20",
+      "headline": "TMC's Rs 440-crore bank accounts frozen after rebel MLAs seek probePolice have frozen debit operations in three TMC bank accounts after complaints from rebel MLAs. The move deepens the party's internal power struggle by bringing its finances under criminal scrutiny."
     },
     {
       "sentiment": "negative",
@@ -255,11 +260,6 @@
       "headline": "Couldn't clear NEET many times: Aspirant dies by suicide 2 days before re-examA 22-year-old medical aspirant, Jatin Kumar, was found dead at his Ghaziabad home two days before the NEET-UG exam. In a video recorded shortly before his death, he said no one should be held responsible and referred to his repeated inability to clear the examination."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/5-feared-dead-after-under-construction-roof-collapses-at-temple-in-maharashtra-40-pilgrims-trapped-in-rubble-2930537-2026-06-20",
-      "headline": "6 killed, 18 pilgrims injured after pillar collapses at Maharashtra templeSix people were killed and 18 others injured after a stone pillar of an under-construction sabha mandap collapsed at the Yashwadi Hanuman Temple in Maharashtra's Parbhani district on Saturday, trapping devotees under the debris."
-    },
-    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/technology/news/story/indians-want-to-sell-old-phones-but-nearly-70-per-cent-dont-because-of-privacy-and-data-reasons-2929949-2026-06-19",
       "headline": "Indians want to sell old phones, but nearly 70 per cent don't. Here's whyA fresh survey of 8,000 Indians reveals that nearly 70 per cent hold back from selling their old smartphones due to data privacy concerns. With most people relying on factory resets, which may not fully wipe data. In other words, trust remains the biggest challenge in India's growing phone resale market."
@@ -270,14 +270,14 @@
       "headline": "Flood and furnace: South and Northeast India to see rain Sunday, North to sizzleOn Sunday, June 21, heavy rain will soak the northeast and the southern peninsula while a heatwave will grip the northern and central plains. The IMD says the stalled monsoon should push forward around June 23."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/ananth-technologies-india-first-private-communication-satellite-2029-launch-ananthsat1-ka-band-science-news-2930511-2026-06-20",
-      "headline": "Indian firm reveals when it will launch country's 1st private communication satelliteAnanth Technologies is building AnanthSat-1, India's first privately made communication satellite. Chairman Dr Subba Rao Pavuluri told IndiaToday.in it will carry more than 100 Gbps to widen broadband, tele-education and telemedicine across remote India."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/5-feared-dead-after-under-construction-roof-collapses-at-temple-in-maharashtra-40-pilgrims-trapped-in-rubble-2930537-2026-06-20",
+      "headline": "6 killed, 18 pilgrims injured after pillar collapses at Maharashtra templeSix people were killed and 18 others injured after a stone pillar of an under-construction sabha mandap collapsed at the Yashwadi Hanuman Temple in Maharashtra's Parbhani district on Saturday, trapping devotees under the debris."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/uttarakhand-champawat-sog-officer-girish-bhatt-dies-after-collapsing-during-gym-workout-2930663-2026-06-20",
-      "headline": "Video: Uttarakhand cop, 38, collapses during workout at gym, diesIn Uttarakhand's Champawat, SOG officer Girish Bhatt collapsed while working out at a gym and was declared dead at a hospital. His death has prompted widespread grief and fresh discussion around sudden medical emergencies during intense exercise."
+      "url": "https://www.indiatoday.in/science/story/ananth-technologies-india-first-private-communication-satellite-2029-launch-ananthsat1-ka-band-science-news-2930511-2026-06-20",
+      "headline": "Indian firm reveals when it will launch country's 1st private communication satelliteAnanth Technologies is building AnanthSat-1, India's first privately made communication satellite. Chairman Dr Subba Rao Pavuluri told IndiaToday.in it will carry more than 100 Gbps to widen broadband, tele-education and telemedicine across remote India."
     },
     {
       "sentiment": "positive",
@@ -291,13 +291,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/video/pm-wishes-president-murmu-at-her-native-village-in-odisha-on-68th-birthday-2930697-2026-06-20",
-      "headline": "Watch: PM wishes President Murmu at her native village in Odisha on 68th birthdayPrime Minister Narendra Modi has extended warm birthday greetings to President Droupadi Murmu. The Prime Minister said that her journey, marked by courage, simplicity, humility and unwavering commitment to public service, continues to inspire people across the country."
+      "url": "https://www.indiatoday.in/india/story/uttarakhand-champawat-sog-officer-girish-bhatt-dies-after-collapsing-during-gym-workout-2930663-2026-06-20",
+      "headline": "Video: Uttarakhand cop, 38, collapses during workout at gym, diesIn Uttarakhand's Champawat, SOG officer Girish Bhatt collapsed while working out at a gym and was declared dead at a hospital. His death has prompted widespread grief and fresh discussion around sudden medical emergencies during intense exercise."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/bangladesh-hindus-protest-dhaka-lord-ram-image-desecration-islamists-2930350-2026-06-20",
-      "headline": "Chaos in Dhaka as Hindus hold massive protest, raise Jai Shri Ram chantsThousands of Hindus marched in Dhaka protesting the alleged desecration of a Lord Ram image and the halting of a statue project. The protests renewed focus on minority rights concerns in Muslim-majority Bangladesh."
+      "url": "https://www.indiatoday.in/india/video/pm-wishes-president-murmu-at-her-native-village-in-odisha-on-68th-birthday-2930697-2026-06-20",
+      "headline": "Watch: PM wishes President Murmu at her native village in Odisha on 68th birthdayPrime Minister Narendra Modi has extended warm birthday greetings to President Droupadi Murmu. The Prime Minister said that her journey, marked by courage, simplicity, humility and unwavering commitment to public service, continues to inspire people across the country."
     },
     {
       "sentiment": "positive",
@@ -311,16 +311,31 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/tamil-nadu/story/iuml-quits-dmk-alliance-joins-vijay-tvk-for-tamil-nadu-local-body-polls-2930611-2026-06-20",
-      "headline": "TVK ally IUML ends 60-year alliance with DMK, backs Vijay's party for local pollsIUML has quit the DMK-led alliance in Tamil Nadu and joined Vijay's TVK for the local body polls. The shift ends a nearly six-decade partnership and resets alliance equations ahead of the elections."
+      "url": "https://www.indiatoday.in/world/story/bangladesh-hindus-protest-dhaka-lord-ram-image-desecration-islamists-2930350-2026-06-20",
+      "headline": "Chaos in Dhaka as Hindus hold massive protest, raise Jai Shri Ram chantsThousands of Hindus marched in Dhaka protesting the alleged desecration of a Lord Ram image and the halting of a statue project. The protests renewed focus on minority rights concerns in Muslim-majority Bangladesh."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-yashasvi-jaiswal-india-vs-afghanistan-3rd-odi-match-report-2930671-2026-06-20",
-      "headline": "Jaiswal steals Rohit's thunder as India rout Afghanistan 3-0 in ODI seriesYashasvi Jaiswal hit a splendid 110* in the final match of India's ODI series against Afghanistan. Jaiswal's innings stole the thunder from two terrific performances on the day - first by Prasidh Krishna, and then by Rohit Sharma."
+      "url": "https://www.indiatoday.in/india/tamil-nadu/story/iuml-quits-dmk-alliance-joins-vijay-tvk-for-tamil-nadu-local-body-polls-2930611-2026-06-20",
+      "headline": "TVK ally IUML ends 60-year alliance with DMK, backs Vijay's party for local pollsIUML has quit the DMK-led alliance in Tamil Nadu and joined Vijay's TVK for the local body polls. The shift ends a nearly six-decade partnership and resets alliance equations ahead of the elections."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-ecuador-vs-curacao-live-score-updates-japan-vs-tunisia-2930799-2026-06-21",
+      "headline": "ECU vs CUW Live: Can Curacao keep their dream alive? Ecuador (ECU) vs Curacao (CUW) Live Score, FIFA World Cup 2026: Debutants Curacao will be battling hard to keep their World Cup dream alive as they face Ecuador in Kansas City in the Group E tie on Saturday, June 20. Ecuador will also be battling hard to remain in contention for knockout qualification after their loss against the Ivory Coast."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/germany-vs-ivory-coast-deniz-undav-stoppage-time-winner-2-1-thriller-2930796-2026-06-21",
+      "headline": "Super sub Deniz Undav becomes hero as Germany beat Ivory Coast 2-1 in thriller Deniz Undav came off the bench to score twice as Germany beat Ivory Coast 2-1 in Toronto. Julian Nagelsmann's changes proved decisive and pushed Germany into the next round of the competition."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/eng-vs-nz-joe-root-14000-runs-oval-test-matt-henry-2930789-2026-06-21",
+      "headline": "ENG vs NZ: Joe Root creates history, but New Zealand on course for Oval Test win Joe Root reached 14,000 Test runs as England slipped deep into a daunting chase against New Zealand at The Oval. His unbeaten 75 kept the hosts alive, but the visitors need only five wickets to level the series."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-2026-all-women-refereeing-crew-history-2930792-2026-06-21",
@@ -359,17 +374,17 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/bangladesh-vs-pakistan-womens-t20-world-cup-pakistan-near-exit-loss-2930725-2026-06-20",
-      "headline": "Pakistan Women face early exit threat after batting shocker vs Bangladesh Women's T20 World Cup, PAK vs BAN: Pakistan are in danger of making an early exit from the tournament after losing to Nigar Sultana Joty's Bangladesh by 20 runs on Saturday at the Rose Bowl in Southampton."
+      "headline": "Pakistan Women face early exit threat after batting shocker vs BangladeshWomen's T20 World Cup, PAK vs BAN: Pakistan are in danger of making an early exit from the tournament after losing to Nigar Sultana Joty's Bangladesh by 20 runs on Saturday at the Rose Bowl in Southampton."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/tilak-varma-vaibhav-sooryavanshi-fight-india-a-vs-sri-lanka-a-final-2930712-2026-06-20",
-      "headline": "Tilak Varma breaks silence on ugly Super Over spat on Tri-Nation tour India A captain Tilak Varma addressed the controversial Super Over defeat to Sri Lanka A for the first time, saying the team only questioned continuing play under fading light and had no intention of creating unnecessary arguments with officials."
+      "headline": "Tilak Varma breaks silence on ugly Super Over spat on Tri-Nation tourIndia A captain Tilak Varma addressed the controversial Super Over defeat to Sri Lanka A for the first time, saying the team only questioned continuing play under fading light and had no intention of creating unnecessary arguments with officials."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-netherlands-vs-sweden-live-score-updates-germany-vs-ivory-coast-2930702-2026-06-20",
-      "headline": "GER 0-1 CIV, Live: Kessie keeps Germany on back foot Germany (GER) vs Ivory Coast (CIV), FIFA World Cup 2026 Live score and updates: Captain Franck Kessie's goal in the first half puts Ivory Coast ahead at the end of the first half. Can Germany come back or will the latter secure a upset win."
+      "headline": "GER 2-1 CIV, Highlights: Undav's late double seals Germany's winGermany (GER) vs Ivory Coast (CIV), FIFA World Cup 2026 Highlights: Germany seal their place in the knockout stage with a dramatic 2-1 comeback win over Ivory Coast, thanks to Deniz Undav's late double off the bench."
     },
     {
       "sentiment": "positive",
@@ -440,21 +455,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-afghanistan-live-score-3rd-odi-ind-afg-match-chennai-rohit-2930404-2026-06-20",
       "headline": "3rd ODI Highlights: Yashasvi Jaiswal 110* powers India to 3-0 series winIndia (IND) vs Afghanistan (AFG) 3rd ODI Highlights: Yashasvi Jaiswal scored an unbeaten 110 as India beat Afghanistan by nine wickets at the Chepauk to win the three-match series 3-0."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/hardik-pandya-ruled-out-india-vs-england-odis-fitness-concerns-2930398-2026-06-20",
-      "headline": "Hardik Pandya ruled out of England ODIs, needs more time to regain fitnessIndia all-rounder Hardik Pandya has been ruled out of the upcoming ODI series against England after failing to attain the required fitness levels for 50-over cricket."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/sri-lanka-a-vs-india-a-final-arachchige-says-no-target-on-sooryavanshi-2930388-2026-06-20",
-      "headline": "Will Vaibhav Sooryavanshi be in the firing line after Sri Lanka A altercation?Sri Lanka A have played down talk of targeting Vaibhav Sooryavanshi before Sunday's Tri-Nation final against India A. The remarks frame the decider as a test of execution and temperament after their earlier Super Over flashpoint."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-2026-asian-success-shows-how-far-india-has-to-go-2930327-2026-06-20",
-      "headline": "Asia is thriving at the FIFA World Cup. How far away are India?FIFA World Cup 2026: Asia's impressive World Cup start has reignited a familiar debate in India. But perhaps the bigger concern is not why India missed a 48-team World Cup, but why they could not qualify for a 24-team Asian Cup."
     }
   ],
   "education": [
