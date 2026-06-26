@@ -1,9 +1,24 @@
 {
   "business": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/personal-finance/story/will-your-family-get-your-epf-pension-after-your-death-heres-what-you-need-to-know-2934694-2026-06-26",
+      "headline": "Will your family get your EPF pension after your death? Here's what you need to knowNo one likes to think about what happens after they're gone. But if you're an EPF member, knowing whether your family can continue receiving your pension could make a big difference to their financial future."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/personal-finance/story/will-da-rise-before-the-8th-pay-commission-heres-what-the-latest-data-suggests-2934636-2026-06-26",
+      "headline": "Will DA rise before the 8th Pay Commission? Here's what the latest data suggestsThe wait for the 8th Pay Commission continues, but all eyes are now on the next DA revision. As inflation remains elevated and the July review draws closer, is another DA hike just around the corner?"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/govt-restores-commercial-lpg-supply-to-pre-west-asia-crisis-levels-eases-restrictions-2934616-2026-06-26",
+      "headline": "Govt restores commercial LPG supply to pre-West Asia crisis levelsThe move comes after the government reviewed the country's fuel availability and found that both domestic production and imported LPG supplies have improved."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/market/story/asian-stock-markets-bloodbath-kospi-nikkei-asian-markets-fall-ai-tech-selloff-semiconductor-costs-2934607-2026-06-26",
-      "headline": "AI reality check hits Asia as Seoul's Kospi crashes 8%, Japan's Nikkei tumbles 5%South Korea's KOSPI fell 8.2%, prompting authorities to halt program trading for 20 minutes after steep losses rippled across the market. Japan's Nikkei 225 dropped 5%, while Hong Kong's Hang Seng declined 2.4%."
+      "headline": "AI reality check hits Asia as Seoul's Kospi crashes 8%, Tokyo's Nikkei tumbles 5%South Korea's KOSPI fell 8.2%, prompting authorities to halt program trading for 20 minutes after steep losses rippled across the market. Japan's Nikkei 225 dropped 5%, while Hong Kong's Hang Seng declined 2.4%."
     },
     {
       "sentiment": "positive",
@@ -84,24 +99,59 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/market/story/market-opening-sensex-opens-300-points-higher-nifty-above-24100-indigo-it-stocks-up-2933699-2026-06-25",
       "headline": "Oil at pre-Iran war lows lifts Dalal Street; Sensex and Nifty jumpThe S&P BSE Sensex climbed 447.36 points, or 0.58%, to 77,438.58, while the NSE Nifty50 advanced 136.90 points, or 0.57%, to 24,158.55 as of 9:28 am."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/rbi-pension-rule-banks-must-inform-government-pensioners-before-excess-recovery-2933682-2026-06-25",
-      "headline": "RBI says banks must notify pensioners before recovering excess pensionThe RBI has told banks to notify government pensioners before recovering any excess pension paid into their accounts. The amendment seeks to stop sudden debits and set a clearer recovery process through notice and consent."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/rbi-digital-online-fraud-refund-rules-five-day-reporting-compensation-banks-cybersecurity-2933664-2026-06-25",
-      "headline": "Lost money to online fraud? RBI's new rule might just save youThe RBI has set new rules on who bears losses from fraudulent electronic banking transactions. Customers who report quickly can get full reversals or capped compensation under a time-bound process."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/rajesh-exports-ed-raids-fema-probe-stock-gap-trade-set-offs-africa-records-2933533-2026-06-24",
-      "headline": "Stock mismatch, mega offshore deals: What ED found during raids on Rajesh ExportsThe Enforcement Directorate searched nine premises linked to Rajesh Exports in Bengaluru and Mumbai under FEMA. The agency says missing records, stock gaps, trade set-offs and suspicious trades are now under investigation."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/sohail-khan-alliance-wildcard-entry-prime-video-reality-show-kunal-kemmu-2934773-2026-06-26",
+      "headline": "Exclusive: Sohail Khan is 1st wildcard in Kunal Kemmu's reality show Alliance Sohail Khan is set to enter Prime Video's Alliance as one of its first wildcard contestants. His reported arrival could sharpen interest further, especially amid rumours that Seema Sajdeh is also on the show."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/mirzapur-the-movie-teaser-x-reviews-fans-say-this-film-can-challenge-dhurandhar-2934756-2026-06-26",
+      "headline": "Mirzapur The Movie teaser X reviews: Fans say this film can challenge Dhurandhar The teaser of Mirzapur: The Movie has received a largely positive response on X, with fans praising Munna Tripathi's return and the nostalgic vibe. While many are excited for the theatrical adaptation, some questioned whether the film offers a fresh story."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/the-india-story-teaser-kajal-aggarwal-shreyas-talpade-pesticide-farming-2934696-2026-06-26",
+      "headline": "Kajal Aggarwal, Shreyas Talpade's The India Story teaser tackles pesticide farming The teaser of The India Story: Slow Poison in Progress introduces Kajal Aggarwal and Shreyas Talpade as they confront pesticide farming. The film frames the issue as a public health concern and seeks to raise awareness about food safety."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/reese-witherspoon-aditi-bhatia-legally-blonde-prequel-elle-event-new-york-2934663-2026-06-26",
+      "headline": "Reese Witherspoon poses with Kerala Story 2 actor Aditi Bhatia. Pics Hollywood star Reese Witherspoon recently posed with The Kerala Story 2 actor Aditi Bhatia at a New York event for Elle, the Legally Blonde prequel. Their pink-themed appearance echoed the franchise's signature style ahead of the series launch."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/ann-blyth-dies-at-98-mildred-pierce-oscar-nominated-actor-and-soprano-2934685-2026-06-26",
+      "headline": "Ann Blyth, Oscar-nominated Mildred Pierce actor, dies at 98 Ann Blyth, the Oscar-nominated actor who played Veda in Mildred Pierce, has died at 98. Her career spanned Broadway, films, musicals, television and operatic performance."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/rhea-chakraborty-says-cant-get-over-trauma-after-sushant-singh-rajputs-death-2934672-2026-06-26",
+      "headline": "Rhea Chakraborty says can't get over trauma after Sushant Singh Rajput's death Actor Rhea Chakraborty said she still cannot get over the trauma following Sushant Singh Rajput's death, calling healing an ongoing process. The actor also spoke about living with PTSD alongside brother Shovik Chakraborty and rebuilding their lives after years of public scrutiny."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/mirzapur-the-movie-shweta-tripathi-says-returning-to-golu-was-confusing-2934669-2026-06-26",
+      "headline": "Shweta Tripathi on Mirzapur The Movie: Was confused about going back to being Golu Actor Shweta Tripathi said returning to season one Golu for Mirzapur: The Movie was initially confusing. The shift back to earlier character dynamics after years of revenge made the transition challenging."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/music/story/david-clayton-thomas-dies-at-84-blood-sweat-and-tears-singer-wrote-spinning-wheel-2934635-2026-06-26",
+      "headline": "Singer David Clayton-Thomas, voice of Blood, Sweat & Tears, dies at 84 David Clayton-Thomas, the iconic voice of Blood, Sweat & Tears, has died at 84. Here's what is known about his life, music career and legacy."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/supergirl-review-milly-alcock-dc-boldest-new-hero-deserves-a-better-film-2934631-2026-06-26",
+      "headline": "Supergirl review: DC's boldest new hero deserves a better filmRelease Date:Fri Jun 26, 2026 Actor Milly Alcock leads DC's bold new chapter with a fresh take on Kara Zor-El, but does the film live up to its promise? Read on to find out whether this emotional superhero adventure soars or falls short."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/welcome-to-the-jungle-x-review-social-media-reaction-akshay-kumar-saves-wild-comedy-disha-patani-jacqueline-fernandez-suniel-shetty-2934617-2026-06-26",
+      "headline": "Welcome To The Jungle X review: Akshay Kumar saves this wild comedy Actor Akshay Kumar's Welcome To The Jungle opened in theatres to largely positive reactions on X. Viewers praised its family-entertainer appeal and cast chemistry, even as some flagged weak humour and an overcrowded screenplay."
+    },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/entertainment/television/story/tv-news-man-found-dead-at-bigg-boss-kannada-contestant-krishi-thapandas-bengaluru-home-2934606-2026-06-26",
@@ -146,68 +196,23 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/ila-arun-backs-alka-yagnik-after-viral-wheelchair-video-art-lives-in-the-soul-2934323-2026-06-25",
       "headline": "Ila Arun backs Alka Yagnik after viral wheelchair video: Art lives in the soul Singer Ila Arun has defended singer Alka Yagnik after comments doubted her ability to sing following a viral wheelchair video and the singer's health update. Her message underlined support for Yagnik as she celebrated her Padma Bhushan and spoke about battling sensorineural hearing loss."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/shah-rukh-khan-mangalore-airport-arrival-rohan-corporation-event-2934362-2026-06-25",
-      "headline": "SRK grooves to Jhoome Jo Pathaan, DDLJ tracks at Mangalore event. Viral videos Shah Rukh Khan performed some of his tracks at a special event in Mangalore. Several videos from the event have emerged online."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/dharman-rajinikanth-begins-shooting-for-ashwath-marimuthu-film-new-poster-out-2934274-2026-06-25",
-      "headline": "Dharman: Rajinikanth begins shooting for Ashwath Marimuthu film, new poster out The makers of Dharman unveiled a new Rajinikanth poster as shooting began on Thursday. The new update regarding the film to build anticipation among the fans."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/hollywood/story/sense-and-sensibility-trailer-daisy-edgar-jones-leads-new-jane-austen-adaptation-2934188-2026-06-25",
-      "headline": "Sense and Sensibility trailer: Daisy Edgar-Jones leads new Jane Austen adaptation The first trailer introduces Daisy Edgar-Jones as Elinor Dashwood alongside the family's changing fortunes and key suitors. It sets up the sisters' bond, romantic tensions and a looming clash between Colonel Brandon and Willoughby."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/netflix-lock-upp-sach-ya-sazaa-set-omung-kumar-swanky-jail-food-machine-twist-2934221-2026-06-25",
-      "headline": "Omung Kumar explains the hidden details in Lock Upp 2's prison set Filmmaker Omung Kumar has detailed how he designed a stylised prison world for Netflix's Lock Upp: Sach Ya Sazaa. He disclosed how he aimed to create a prison unlike anything audiences had seen before, while giving the reality show a distinct visual identity."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/music/story/are-taylor-swift-and-travis-kelce-getting-married-on-july-4-heres-the-truth-2934230-2026-06-25",
-      "headline": "Are Taylor Swift and Travis Kelce getting married on July 4? Here's the truth A fresh report has linked permits, hotel bookings and venue preparations to Taylor Swift and Travis Kelce's rumoured New York wedding. The reported July 3 and July 4 arrangements have intensified speculation, though the couple remain publicly silent."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/og-2-announced-pawan-kalyan-director-sujeeth-expand-og-universe-2934196-2026-06-25",
-      "headline": "OG 2 announced: Pawan Kalyan, director Sujeeth expand OG universe OG 2 has been officially announced with Pawan Kalyan producing and Sujeeth shaping the sequel's story. The film is being positioned as a larger OG Universe chapter that digs into Ojas Gambheera's past."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/welcome-to-the-jungle-advance-booking-akshay-kumar-box-office-june-26-release-2934089-2026-06-25",
-      "headline": "Welcome To The Jungle box office prediction: Can Akshay score another comedy hit? Akshay Kumar returns to the Welcome franchise with Welcome To The Jungle as its advance booking opens on a cautious note. The film's box-office prospects now rest on nostalgia, spot bookings and audience word of mouth."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/dhanush-congratulates-mammootty-on-padma-bhushan-with-a-cake-cutting-celebration-2934127-2026-06-25",
-      "headline": "Dhanush congratulates Mammootty on Padma Bhushan with a cake-cutting celebration Actor Dhanush and the Om team congratulated actor Mammootty on the film's set after his Padma Bhushan honour. Photos shared by Dhanush's production company captured the celebration, including a handshake and cake-cutting."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/in-the-hand-of-dante-review-oscar-isaac-gal-gadot-ambitious-drama-loses-its-grip-2933985-2026-06-25",
-      "headline": "In the Hand of Dante review: Oscar Isaac, Gal Gadot's ambitious drama loses its gripRelease Date:Wed Jun 24, 2026 For cinephiles drawn to literary adaptations and bold swings, director Julian Schnabel's In the Hand of Dante offers striking visuals and committed performances worth sampling. Does the film do justice to the noble but uneven journey through hell, purgatory and fleeting paradise? Here is our review."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/rare-photos-of-ott-stars-before-they-became-household-names-2934053-2026-06-25",
-      "headline": "Rare photos of OTT stars before they became household names Before they became OTT sensations, Jitendra Kumar, Mithila Palkar, Sumeet Vyas, Shriya Pilgaonkar and Amol Parashar had remarkably different lives. Take a look at their rare throwback photos and inspiring journeys to fame."
     }
   ],
   "general news": [
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/market/story/asian-stock-markets-bloodbath-kospi-nikkei-asian-markets-fall-ai-tech-selloff-semiconductor-costs-2934607-2026-06-26",
-      "headline": "AI reality check hits Asia as Seoul's Kospi crashes 8%, Japan's Nikkei tumbles 5%South Korea's KOSPI fell 8.2%, prompting authorities to halt program trading for 20 minutes after steep losses rippled across the market. Japan's Nikkei 225 dropped 5%, while Hong Kong's Hang Seng declined 2.4%."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/in-a-first-government-releases-names-of-six-soldiers-who-lost-their-lives-in-operation-sindoor-2934802-2026-06-26",
+      "headline": "Govt reveals names of 6 soldiers killed in action during Operation SindoorIn a first, government releases names of six soldiers who lost their lives in Operation Sindoor"
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/story/push-her-from-the-same-fort-if-found-guilty-siyas-father-demands-strict-punishment-2934519-2026-06-26",
-      "headline": "Hang her, push her off the same fort if she's guilty: Siya Goyal's parentsSiya Goyal's father said she should face the harshest punishment if found guilty of Ketan Agarwal's murder. But despite seeking swift justice, he said the family still could not believe the allegations and had noticed no warning signs before the wedding."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/ram-mandir-trust-chief-champat-rai-resigns-say-sources-as-8-arrested-in-temple-donation-theft-case-2934720-2026-06-26",
+      "headline": "Ram Mandir trust chief Champat Rai quits day after arrests in donation theft caseThe resignations follow growing scrutiny after the SIT's preliminary report reportedly identified major lapses in managing and monitoring donations made by devotees at the Ram Temple."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/bhagwant-mann-viral-video-row-jagman-samra-denies-mask-claim-seeks-proof-sikh-canada-2934693-2026-06-26",
+      "headline": "Prove it's a mask: Canada-based NRI challenges Bhagwant Mann as video row escalatesCanada-based NRI Jagman Samra has strongly denied Bhagwant Mann's allegation that he used a hyper-realistic mask to stage the controversial video and has challenged him to produce concrete evidence to back his claims."
     },
     {
       "sentiment": "positive",
@@ -216,28 +221,78 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/pakistan-indus-water-treaty-pre-islamic-civilisation-heritage-claims-australia-envoys-taxila-uk-funding-2934769-2026-06-26",
+      "headline": "Pak digs its Indic roots for Indus waters, gets some Aussie, British helpBritish and Australian envoys have recently highlighted Pakistan's heritage through funding and a Taxila visit. The timing is suspicious. Islamabad has been increasingly invoking the Indus Valley Civilisation during the Indus waters dispute with India."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/market/story/asian-stock-markets-bloodbath-kospi-nikkei-asian-markets-fall-ai-tech-selloff-semiconductor-costs-2934607-2026-06-26",
+      "headline": "AI reality check hits Asia as Seoul's Kospi crashes 8%, Tokyo's Nikkei tumbles 5%South Korea's KOSPI fell 8.2%, prompting authorities to halt program trading for 20 minutes after steep losses rippled across the market. Japan's Nikkei 225 dropped 5%, while Hong Kong's Hang Seng declined 2.4%."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/britains-35degc-vs-indias-45degc-why-uk-feels-like-an-oven-despite-low-temperatures-2934671-2026-06-26",
+      "headline": "Why 35\u00b0C in Britain feels unbearable than 45\u00b0C heatwave in IndiaBritain's heatwave has revived comparisons with India's far higher summer temperatures. Experts say humidity, heat-trapping homes and poor acclimatisation make lower temperatures feel harsher."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-india-debut-sachin-tendulkar-cricket-viral-popularity-1989-2934654-2026-06-26",
+      "headline": "Was 16-year-old Sachin as viral as Sooryavanshi before his India debut?Long before algorithms and reels, a 16-year-old Sachin Tendulkar captivated India without a single smartphone in sight. As Vaibhav Sooryavanshi debuts, we revisit an analogue era when a nation fell for a myth built on whispers."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/history-of-it/story/israel-news-nazi-germany-weapons-mauser-kar-98k-1948-arab-israel-war-czechoslovakia-arms-smuggling-2934170-2026-06-26",
       "headline": "Hitler killed Jews; Jews used Hitler's weapons to defeat ArabsOne of history's greatest ironies unfolded in 1948. Weapons originally designed for Hitler's Nazi Germany, which killed nearly 6 million Jews, ended up helping defend the newly formed Jewish state of Israel. Jews sourced Nazi-era weapons and planes from Czechoslovakia, and beat back the armies of five Arab states."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/reviews/story/welcome-to-the-jungle-movie-review-akshay-kumar-comedy-majnu-bhai-painting-funny-moments-2934501-2026-06-26",
-      "headline": "Welcome to the Jungle review: Majnu Bhai's painting deserves a better legacyRelease Date:Fri Jun 26, 2026Welcome to the Jungle movie review: Akshay Kumar's jungle comedy packs an ensemble cast, explosions and chaos, but forgets the one thing that made Welcome a comedy classic: story."
+      "url": "https://www.indiatoday.in/science/story/monsoon-is-down-satellite-captures-rain-clouds-strangely-missing-over-india-2934626-2026-06-26",
+      "headline": "Where is monsoon? Satellite captures rain clouds missing over IndiaSatellite imagery shows large parts of India without the deep rain clouds expected in late June despite the monsoon's advance. Forecasters say a developing system over the eastern Indian Ocean could revive rainfall, though its timing remains uncertain."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/bangladesh-china-mongla-port-economic-zone-project-india-concerns-2934723-2026-06-26",
+      "headline": "India loses key Bangladesh port project to China. Should Delhi be concerned?Bangladesh has signed a deal with China to build an economic zone near Mongla Port on land once allotted to India. The move deepens Dhaka's engagement with Beijing, while raising India's strategic concerns in the Bay of Bengal."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/nihang-sikhs-uttarakhand-border-karnaprayag-clash-nagrasu-row-2934376-2026-06-25",
-      "headline": "Nihang Sikhs' standoff with police ends after talks, normalcy returns in DehradunHundreds of Nihang Sikhs gathered at the Uttarakhand-Himachal Pradesh border after talks with the state administration failed over the Karnaprayag clash and Nagrasu Gurdwara standoff, prompting heavy security deployment and heightened vigil."
+      "url": "https://www.indiatoday.in/education-today/news/story/cbse-3-language-policy-class-7-9-students-may-continue-foreign-language-combination-till-class-10-2934683-2026-06-26",
+      "headline": "CBSE Class 7\u20139 students can keep foreign language combinations till Class 10CBSE Classes 7\u20139 students can continue with their existing foreign language combination till Class 10. The revised three-language policy requiring two Indian languages will apply only to future Class 6 batches."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/eggs-in-midday-meal-scheme-west-bengal-bjp-government-decision-iskcon-food-nutrition-2934139-2026-06-26",
-      "headline": "Are BJP governments allergic to eggs? Here's the reality with evidenceThe BJP government in West Bengal plans to involve ISKCON in preparing Kolkata school midday meals, which might see eggs move out of the menu. Some other BJP states earlier removed eggs from midday meals. Is the BJP allergic to eggs? Here's a detailed analysis with facts."
+      "url": "https://www.indiatoday.in/world/story/qatar-airways-boeing-777-200lr-freighter-low-pass-video-jetran-says-jet-was-on-final-test-2934619-2026-06-26",
+      "headline": "Watch: Boeing 777 performs risky manoeuvre in US, avoids disaster by inchesOn June 24, a converted Boeing 777 freighter performed an unusually low pass over a Texas airfield before banking sharply. The video spread rapidly online, drawing criticism over the risks involved."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/zero-tolerance-for-those-playing-with-sanatan-people-faith-up-cm-yogi-adityanath-after-8-arrested-ram-temple-case-utrit-2934682-2026-06-26",
+      "headline": "Zero tolerance for hurting Sanatan: Yogi Adityanath on arrests in Ram temple caseYogi Adityanath said the state had already made its position clear during his June 19 visit to Ayodhya, where he warned against any attempt to misuse public trust or bring disrepute to a place that holds deep religious significance for millions."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/pune/story/pune-fort-murder-ketan-agrawal-case-siya-goyal-parents-agreed-to-marry-ketan-no-relation-to-chetan-2934248-2026-06-25",
-      "headline": "I like Ketan, want to marry him: What Siya told parents before wedding was fixedParents of Siya Goyal, the prime accused in the murder of her fiance, said she repeatedly told them she liked Ketan Agarwal and wanted to marry him."
+      "url": "https://www.indiatoday.in/india/story/pawan-khera-targets-dharmendra-pradhan-over-student-suicides-amid-neet-row-2934650-2026-06-26",
+      "headline": "Dear Dharmendra Uncle\u2026: Congress lists 14 suicides in birthday jab at MinisterCongress leader Pawan Khera on Friday listed the names of 14 medical aspirants who allegedly died by suicide following the distress purportedly caused by the cancellation of the NEET-UG entrance examination held on May 3 this year."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/health/story/west-bengal-pm-poshan-egg-replacement-why-eggs-outscore-soy-and-paneer-for-children-2934711-2026-06-26",
+      "headline": "Beyond protein: What children lose when eggs disappear from midday mealsWest Bengal's move to replace eggs with soyabean, paneer and pulses in PM POSHAN meals has widened a nutrition debate. In a country where many people eat predominantly vegetarian diets, eggs provide growing children with high-quality, complete protein, the building blocks needed to develop healthy muscles, bones, organs and the immune system."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/trending-news/story/rajasthan-woman-constable-puts-feet-on-desk-elderly-man-waits-to-file-complaint-suspended-dungarpur-2934681-2026-06-26",
+      "headline": "Rajasthan woman cop puts feet on desk as elderly complainant waits, suspendedA Rajasthan woman constable was suspended after a viral photograph showed her with both feet on a desk while an elderly man waited to lodge a complaint."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/indians-abroad/story/andhra-pradesh-woman-94-gives-up-us-passport-for-final-days-at-home-says-want-last-rites-in-her-village-2934659-2026-06-26",
+      "headline": "Want last rites in my village: 94-year-old Andhra woman gives up US citizenshipA 94-year-old woman from Andhra Pradesh's Bapatla district has regained Indian citizenship after giving up her US nationality. The move fulfils her wish to spend her final years and have her last rites in her native village."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/news/story/emergency-in-ncert-books-since-2007-says-yogendra-yadav-amid-fresh-controversy-2934764-2026-06-26",
+      "headline": "Emergency in NCERT isn't new: Yogendra Yadav says it's been taught since 2007As debate erupts over the Emergency chapter in NCERT's Class 9 textbook, political scientist Yogendra Yadav says the subject is far from new. He has revisited the story of how a detailed chapter on the Emergency entered NCERT Political Science textbooks in 2007, during the UPA government, despite political sensitivities."
     },
     {
       "sentiment": "positive",
@@ -246,81 +301,51 @@
     },
     {
       "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/rhea-chakraborty-says-cant-get-over-trauma-after-sushant-singh-rajputs-death-2934672-2026-06-26",
+      "headline": "Rhea Chakraborty says can't get over trauma after Sushant Singh Rajput's deathActor Rhea Chakraborty said she still cannot get over the trauma following Sushant Singh Rajput's death, calling healing an ongoing process. The actor also spoke about living with PTSD alongside brother Shovik Chakraborty and rebuilding their lives after years of public scrutiny."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/reviews/story/welcome-to-the-jungle-movie-review-akshay-kumar-comedy-majnu-bhai-painting-funny-moments-2934501-2026-06-26",
+      "headline": "Welcome to the Jungle review: Majnu Bhai's painting deserves a better legacyRelease Date:Fri Jun 26, 2026Welcome to the Jungle movie review: Akshay Kumar's jungle comedy packs an ensemble cast, explosions and chaos, but forgets the one thing that made Welcome a comedy classic: story."
+    },
+    {
+      "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/ed-attaches-zurich-life-policies-shrikant-bhasi-aopl-case-2934479-2026-06-25",
-      "headline": "ED seizes Rs 3.66 crore life insurance policies in Rs 1,200 crore SBI fraud caseThe ED has attached two Zurich International Life insurance policies linked to Shrikant Bhasi in the AOPL case. The move follows findings that the policies were funded through connected overseas entities and were being readied for surrender."
+      "headline": "ED seizes Rs 3.66 crore life insurance policies in Rs 1,200-crore SBI fraud caseThe ED has attached two Zurich International Life insurance policies linked to Shrikant Bhasi in the AOPL case. The move follows findings that the policies were funded through connected overseas entities and were being readied for surrender."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-22026-most-goals-in-history-lionel-messi-ronaldo-mbappe-2934599-2026-06-26",
-      "headline": "Barely past the group stage, FIFA World Cup 2026 rewrites goalscoring recordsThe FIFA World Cup 2026 has already entered the record books. Barely past the group stage, the expanded tournament became the highest-scoring edition in history. Lionel Messi leads the goalscoring charts at the moment with 5 strikes to his name."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/meloni-rebukes-nato-chief-over-iran-remarks-says-italy-did-not-join-conflict-2934528-2026-06-26",
-      "headline": "We did not participate in the conflict: Meloni rebukes NATO chief over Iran remarksSpeaking during a Franco-Italian summit in southern France, Meloni said the NATO chief had blurred important distinctions in an effort to showcase allied support."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/features/story/nothing-cmf-phone-2-pro-successor-delayed-ram-prices-ai-memory-crunch-2934023-2026-06-25",
-      "headline": "In phone industry, everyone is crying RAM RAM and it isn't stopping anytime soonThe smartphone industry is in a state of crisis for phone makers and consumers. And the problem is that of RAM, or rather the price of RAM."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/meerut/story/meerut-manmohan-suicide-video-alleged-rs-6-lakh-job-fraud-kunal-2934562-2026-06-26",
-      "headline": "Scammed, coerced, blackmailed: UP man dies by suicide after Rs 6-lakh job fraudAccording to police, victim Manmohan Singh alias Monu was found hanging at his residence in Meerut. In a video message, he accused one Kunal Singhaniya of taking money from him and a few others making false job promises."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-ecuador-vs-germany-upset-match-report-knockouts-qualification-2934521-2026-06-26",
-      "headline": "Ecuador script stunning Germany upset to keep World Cup dream aliveFIFA World Cup 2026: Ecuador came from behind to produce one of the biggest shocks of the 2026 World Cup, stunning Germany 2-1 in New Jersey. The comeback secured Sebasti\u00e1n Beccacece's side a place in the knockout stages as one of the tournament's best third-placed teams."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/pune/story/ketan-agarwal-death-case-cctv-cafe-meeting-before-lohagad-fort-murder-plot-2934576-2026-06-26",
-      "headline": "Pune fort murder: Siya, Chetan initially turned on each other during questioningPolice said Siya Goyal and Chetan Chaudhary discussed the alleged plot at a cafe a day before Ketan Agarwal died at Lohagad Fort. Officials said the case shifted from an accidental death to suspected murder after inconsistencies, CCTV footage and digital evidence surfaced."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/zypp-electric-security-guard-tells-gurugram-ceo-his-salary-gets-honest-career-advice-in-return-2934585-2026-06-26",
-      "headline": "Security guard tells Gurugram CEO his salary, gets honest career advice in returnAkash Gupta, founder and CEO of Zypp Electric, shared a video on social media with the text overlay: \"Founder poaching his own employee,\" showing him speaking to a security guard employed at his office in Gurugram."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/story/pune-murder-case-siyas-parents-reveal-how-ketan-marriage-proposal-came-together-2934512-2026-06-26",
-      "headline": "How Siya and Ketan's marriage was fixed: Parents recount proposal storySiya Goyal's parents have maintained that the marriage was arranged only after obtaining her consent and said they had no reason to believe she was unwilling to go ahead with the wedding."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/entertainment/television/story/tv-news-man-found-dead-at-bigg-boss-kannada-contestant-krishi-thapandas-bengaluru-home-2934606-2026-06-26",
-      "headline": "Man found dead at Bigg Boss Kannada contestant Krishi Thapanda's Bengaluru homeA 45-year-old man, identified as Vaishak Upadhyaya, was found dead by suicide at Bigg Boss Kannada Season 5 contestant Krishi Thapanda's Bengaluru home while she was away attending a meditation programme."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/senior-ips-officer-mahesh-dixit-named-new-intelligence-bureau-chief-2934412-2026-06-25",
-      "headline": "Senior IPS officer Mahesh Dixit named new Intelligence Bureau chiefSenior IPS officer Mahesh Dixit has been appointed as the new Director of the Intelligence Bureau, bringing decades of experience in intelligence operations, counter-terrorism and internal security."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/jobs/story/luxury-fashion-careers-gemologist-trend-analyst-hidden-jobs-educ-2934058-2026-06-26",
-      "headline": "Shhh! The secret careers inside luxury brands that no one talks aboutFashion and luxury industries offer several unique careers beyond designers and models. From gemologists and restoration experts to trend analysts and heritage storytellers, these professionals work behind the scenes to create, preserve, and strengthen the world's most prestigious luxury brands."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/story/apple-hikes-macbook-ipad-prices-by-up-to-rs-70000-in-india-check-new-prices-here-2934190-2026-06-25",
-      "headline": "Apple hikes MacBook, iPad prices by 1 lakh in India: Check new prices hereApple has raised MacBook and iPad prices in India by 1 lakh. The move puts focus on the updated price list for buyers tracking the latest costs. Here is the full list of new prices that are already live on the company's Apple India website."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/fir-filed-into-alleged-ram-temple-donation-embezzlement-following-sit-recommendation-2934243-2026-06-25",
-      "headline": "8 arrested hours after FIR filed in alleged Ram temple donation theftThe Uttar Pradesh Police on Thursday arrested all eight accused in the alleged Ram Temple donation embezzlement case, hours after registering the first FIR based on the preliminary findings of a Special Investigation Team (SIT)."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/venezuela-earthquakes-death-toll-killed-injured-rescuers-search-rubble-la-guaira-2934561-2026-06-26",
-      "headline": "Venezuela quake toll rises to 235 as rescuers race to find survivors under rubble UpdatesThe Venezuelan government said at least 235 people have died, more than 4,300 have been injured and around 200 remain trapped after twin earthquakes of magnitude 7.2 and 7.5 struck about 160 km west of Caracas."
+      "url": "https://www.indiatoday.in/cities/pune/story/pune-fort-murder-ketan-agrawal-case-siya-goyal-parents-agreed-to-marry-ketan-no-relation-to-chetan-2934248-2026-06-25",
+      "headline": "I like Ketan, want to marry him: What Siya told parents before wedding was fixedParents of Siya Goyal, the prime accused in the murder of her fiance, said she repeatedly told them she liked Ketan Agarwal and wanted to marry him."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/ecuador-vs-germany-coach-celebration-fifa-world-cup-2934790-2026-06-26",
+      "headline": "Ecuador coach's euphoric celebration after mega-upset vs Germany goes viral Ecuador coach Sebastian Beccacece's emotional celebration after his side's dramatic 2-1 win over Germany went viral as the South American nation reached the FIFA World Cup knockout stage for the first time since 2006. Beccacece sprinted into the stands to embrace his wife and supporters after Ecuador completed a remarkable turnaround."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-germany-rift-nagelsmann-kimmich-undav-ecuador-loss-2934712-2026-06-26",
+      "headline": "Germany camp divided? Undav, Kimmich contradict Nagelsmann after Ecuador defeat Germany manager Julian Nagelsmann dismissed suggestions of a lack of desire as \"nonsense\", but captain Joshua Kimmich and striker Deniz Undav painted a very different picture after their side's 2-1 defeat to Ecuador in their final Group E match at the 2026 FIFA World Cup."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/shreyas-iyer-india-t20i-captaincy-belfast-speech-sets-culture-tone-before-debut-2934710-2026-06-26",
+      "headline": "Let's play like Lions: Shreyas Iyer delivers first huddle talk as T20I captain Shreyas Iyer addressed India's huddle in Belfast before his first T20I as captain. His message centred on culture, support and creating a fun team environment as a new leadership phase begins."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/shahbaz-ahmed-bengal-t20-league-ipl-young-cricketers-interview-2934689-2026-06-26",
+      "headline": "Bengal T20 League is creating the next IPL stars: Shahbaz Ahmed The Bengal T20 League has emerged as a key platform for young cricketers looking to break into the IPL and Bengal's senior teams. Speaking to India Today, Rarh Tigers captain Shahbaz Ahmed urged youngsters to focus on performances rather than IPL contracts, saying selectors and scouts are already watching the tournament closely."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-india-debut-sachin-tendulkar-cricket-viral-popularity-1989-2934654-2026-06-26",
+      "headline": "Was 16-year-old Sachin as viral as Sooryavanshi before his India debut? Long before algorithms and reels, a 16-year-old Sachin Tendulkar captivated India without a single smartphone in sight. As Vaibhav Sooryavanshi debuts, we revisit an analogue era when a nation fell for a myth built on whispers."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-22026-most-goals-in-history-lionel-messi-ronaldo-mbappe-2934599-2026-06-26",
@@ -354,27 +379,27 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-ireland-1st-t20i-preview-vaibhav-sooryavanshi-2934541-2026-06-26",
-      "headline": "All eyes on Vaibhav Sooryavanshi as Shreyas Iyer makes his T20I captaincy debut India begin a new T20I era under captain Shreyas Iyer against Ireland in Belfast, with attention split between leadership transition and 15-year-old Vaibhav Sooryavanshi's potential debut. Ireland, led by Lorcan Tucker, also eye opportunities for young players as both teams deal with transitions and challenging playing conditions."
+      "headline": "Sooryavanshi hype overshadows Shreyas Iyer's debut as India captain in BelfastIndia begin a new T20I era under captain Shreyas Iyer against Ireland in Belfast, with attention split between leadership transition and 15-year-old Vaibhav Sooryavanshi's potential debut. Ireland, led by Lorcan Tucker, also eye opportunities for young players as both teams deal with transitions and challenging playing conditions."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/turkiye-vs-usa-fifa-live-score-updates-world-cup-2026-match-today-paraguay-vs-australia-group-d-2934538-2026-06-26",
-      "headline": "Australia reach knockouts, USA top Group D despite loss to Turkey Australia (AUS) vs Paraguay (PAR) highlights, FIFA World Cup 2026: USA and Australia qualify for the Round of 32 of the FIFA World Cup. Australia held Paraguay to a 0-0 draw, while the USA lost to Turkey 2-3 in a last-gasp goal by Kaan Ayhan. Despite the loss, USA top Group D."
+      "headline": "Australia reach knockouts, USA top Group D despite loss to TurkeyAustralia (AUS) vs Paraguay (PAR) highlights, FIFA World Cup 2026: USA and Australia qualify for the Round of 32 of the FIFA World Cup. Australia held Paraguay to a 0-0 draw, while the USA lost to Turkey 2-3 in a last-gasp goal by Kaan Ayhan. Despite the loss, USA top Group D."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/iran-vs-egypt-world-cup-2026-amir-ghalenoei-reaction-pride-match-2934534-2026-06-26",
-      "headline": "Iran seek knockout berth as coach Amir Ghalenoei avoids Pride celebration debate Iran aim to make their nation proud against Egypt with a place in the World Cup knockout stages on the line, coach Amir Ghalenoei said on Thursday, while refusing to be drawn into the debate over the Pride celebrations surrounding the match."
+      "headline": "Iran seek knockout berth as coach Amir Ghalenoei avoids Pride celebration debateIran aim to make their nation proud against Egypt with a place in the World Cup knockout stages on the line, coach Amir Ghalenoei said on Thursday, while refusing to be drawn into the debate over the Pride celebrations surrounding the match."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-2026-attendance-record-ticket-prices-usa-visa-curbs-2934525-2026-06-26",
-      "headline": "FIFA World Cup 2026 shatters attendance record despite US travel mess The 2026 FIFA World Cup has become the most-attended edition in history, crossing 3.6 million spectators with nearly half the tournament still to play. The milestone arrives despite criticism over expensive tickets, visa hurdles and logistical concerns across the United States."
+      "headline": "FIFA World Cup 2026 shatters attendance record despite US travel messThe 2026 FIFA World Cup has become the most-attended edition in history, crossing 3.6 million spectators with nearly half the tournament still to play. The milestone arrives despite criticism over expensive tickets, visa hurdles and logistical concerns across the United States."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-ind-vs-ire-1st-t20i-india-debut-weather-forecast-belfast-2934510-2026-06-26",
-      "headline": "Vaibhav Sooryavanshi's India debut faces rain threat in Belfast? Here's the weather forecast IND vs IRE, 1st T20I: Rain could threaten India's first T20I against Ireland in Belfast, with weather forecasts predicting intermittent showers. The weather may also delay Vaibhav Sooryavanshi's much-anticipated India debut."
+      "headline": "Vaibhav Sooryavanshi's India debut faces rain threat in Belfast? Here's the weather forecastIND vs IRE, 1st T20I: Rain could threaten India's first T20I against Ireland in Belfast, with weather forecasts predicting intermittent showers. The weather may also delay Vaibhav Sooryavanshi's much-anticipated India debut."
     },
     {
       "sentiment": "positive",
@@ -445,31 +470,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/jai-moondra-ireland-debut-against-india-rajasthan-born-all-rounder-maiden-t20i-call-up-2934135-2026-06-25",
       "headline": "Who is Jai Moondra? Born in Rajasthan, Ireland pacer eager to debut against IndiaIRE vs IND: Left-arm seamer Jai Moondra, who was born in Rajasthan in 1997, is in line to make his Ireland debut against India when the two sides meet in a two-match T20I series starting on June 26."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-women-vs-bangladesh-women-live-score-t20-world-cup-2026-ind-w-vs-ban-w-match-2934070-2026-06-25",
-      "headline": "IND vs BAN Highlights: India remains alive, beat Bangladesh by 5 wicketsIndia (IND-W) vs Bangladesh (BAN-W) Highlights, Women's T20 World Cup: India remain alive in the race to qualify for the semifinals as they beat Bangladesh by five wickets in Manchester with 19 balls to spare."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-neymar-brazil-return-981-days-lewis-hamilton-remember-who-you-are-2934046-2026-06-25",
-      "headline": "Remember who you are! Neymar draws inspiration from Lewis Hamilton after Brazil returnFIFA World Cup 2026: Neymar returned for Brazil against Scotland after 981 days and echoed Lewis Hamilton's mantra. The comeback answered fresh mockery and reopened the question \u2013 whether his career still has one more act, one last dance left."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/phoebe-litchfield-return-australia-india-womens-t20-world-cup-lords-2934028-2026-06-25",
-      "headline": "Trouble for India? Australia may get huge boost for high-voltage Lord's clashWomen's T20 World Cup: Australia head coach Shelley Nitschke said that Phoebe Litchfield may return against India on June 28 at the Lord's, saying that that left-handed batter has recovered well from her calf injury."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/jyothi-yarraji-acl-injury-comeback-hurdles-target-win-asian-games-gold-2934002-2026-06-25",
-      "headline": "Asian Games silver medallist Yarraji targets gold after comeback from ACL injuryJyothi Yarraji marked her return from an ACL tear with a 12.99-second hurdles win at the National Inter-State Championships. A year after injury and surgery, India's record holder now believes Asian Games gold is within reach."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/jannik-sinner-wimbledon-cooling-vest-london-heatwave-2933971-2026-06-25",
-      "headline": "Why Jannik Sinner wore a cooling vest at training ahead of WimbledonJannik Sinner used a cooling vest during Wimbledon preparations due to the London heatwave, which has also impacted tournament operations, causing a Hawk-Eye outage and drawing criticism from players including Eva Lys."
     }
   ],
   "education": [
