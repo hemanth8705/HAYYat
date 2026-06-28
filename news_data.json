@@ -103,6 +103,11 @@
   ],
   "entertainment": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/anirudh-ravichander-kavya-maran-wedding-on-the-cards-uncle-says-its-confirmed-2936144-2026-06-28",
+      "headline": "Anirudh Ravichander-Kavya Maran wedding on the cards? Uncle says it's confirmed Wedding rumours surrounding music composer Anirudh Ravichander and his partner Kavya Maran have resurfaced after a family member made a striking claim."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/movies/celebrities/story/bollywood-trade-union-rallies-behind-satendra-soni-seeks-probe-into-ped-palki-row-2936134-2026-06-28",
       "headline": "Bollywood trade union rallies behind Satendra Soni, seeks probe into Ped Palki row Bollywood trade union AICWA has backed actor Satendra Soni and sought an FIR against the makers of Ped Palki after his allegations of unpaid dues and intimidation. Here's what the actor claimed and why the industry body has stepped in."
@@ -191,11 +196,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/five-time-award-winning-cinematographer-dillip-ray-dies-at-72-after-brief-illness-2935670-2026-06-27",
       "headline": "Five-time award-winning cinematographer Dillip Ray dies at 72 after brief illness Cinematographer Dillip Ray has died at 72. Read about his remarkable journey, celebrated films, award-winning career and the tributes pouring in after his death."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/ujjwal-nikam-rajkummar-rao-prahaar-biopic-prosecutor-praises-honest-portrayal-2935652-2026-06-27",
-      "headline": "Ujjwal Nikam praises Rajkummar Rao for bringing his story to life in Prahaar Public Prosecutor Ujjwal Nikam has praised Rajkummar Rao and Avinash Arun for bringing his story to screen in Prahaar. He said the film captures landmark prosecutions as well as the private loneliness behind them."
     }
   ],
   "general news": [
@@ -206,8 +206,23 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ben-stokes-retire-international-cricket-england-3rd-test-against-new-zealand-2936168-2026-06-28",
+      "headline": "Ben Stokes announces shock retirement from international midway during a TestEngland captain Ben Stokes has announced his retirement from international cricket and will draw the curtains down on his career after the ongoing Test against New Zealand at Trent Bridge. A World Cup winner, Ashes hero and architect of England's Bazball revolution, Stokes leaves behind one of the greatest legacies in modern English cricket."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/india-rejects-pakistans-karachi-blast-claims-asks-it-to-look-inwards-and-act-against-terror-networks-2936031-2026-06-28",
       "headline": "Look inwards, act against terror networks: India rejects Pak's Karachi blast claimIn a sharp response, the Ministry of External Affairs said Pakistan should stop \"pointing fingers at others\" and instead take credible action against terrorist networks functioning within its territory."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-women-vs-australia-women-live-score-t20-world-cup-2026-ind-w-vs-aus-w-match-2936119-2026-06-28",
+      "headline": "IND vs AUS LIVE: Voll, Mooney begin 171 chaseIndia (IND-W) vs Australia (AUS-W) Live Score, Women's T20 World Cup: Harmanpreet Kaur scored a 25-ball half-century as India posted 170 for six on the board after opting to bat first at the Lord's Cricket Ground."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sunday-special/story/congress-house-mumbai-mistaken-brothel-history-nb-compound-prostitution-mujra-sex-work-kamathipura-2935534-2026-06-28",
+      "headline": "Why men looking for sex reach Congress House in MumbaiMumbai's Congress House, the pre-Independence-era landmark, is not a brothel, but men driven by lust and desire often fail to make the distinction. The former Congress office's proximity to a mujra house and the red-light district of Kamathipura make it carry a stigma. However, it is not really untouched by the sex trade."
     },
     {
       "sentiment": "positive",
@@ -216,28 +231,33 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-women-vs-australia-women-live-score-t20-world-cup-2026-ind-w-vs-aus-w-match-2936119-2026-06-28",
-      "headline": "IND vs AUS Live Score: Smriti, Shafali make strong startIndia (IND-W) vs Australia (AUS-W) Live Score, Women's T20 World Cup: Smriti Mandhana and Shafali Verma have made a strong start after India won the toss and opted to bat first at the Lord's. Kranti Gaud has replaced Nandni Sharma, while Phoebe Litchfield has returned for Alana King."
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-ireland-2nd-t20i-live-score-ind-ire-vaibhav-sooryavanshi-2936050-2026-06-28",
+      "headline": "2nd T20I Live Score: Rain stops play again after Moondra tore apart Indian top orderIndia (IND) vs Ireland (IRE) Live Score, 2nd T20I: (IND 54/4 in 8 in 155 chase) Jai Moondra provided Ireland with the perfect start in their defence as Indian batters struggled to get going. Earlier, Indian bowlers were quick to halt the Irish charge grabbing wickets at crucial stages. Debutant Prince Yadav got three wickets on his T20I debut for India."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sunday-special/story/congress-house-mumbai-mistaken-brothel-history-nb-compound-prostitution-mujra-sex-work-kamathipura-2935534-2026-06-28",
-      "headline": "Why men looking for sex reach Congress House in MumbaiMumbai's Congress House, the pre-Independence-era landmark, is not a brothel, but men driven by lust and desire often fail to make the distinction. The former Congress office's proximity to a mujra house and the red-light district of Kamathipura make it carry a stigma. However, it is not really untouched by the sex trade."
+      "url": "https://www.indiatoday.in/india/story/delhi-dehradun-expressway-crash-cctv-shows-suv-hitting-reversing-car-in-saharanpur-2936011-2026-06-28",
+      "headline": "Video: Missed exit turns deadly, reversing car hit by SUV, 4 family members dieA CCTV video shows a reversing car being hit by a speeding Scorpio on the Delhi-Dehradun corridor in Saharanpur. The footage is now central to the police probe into the crash that killed four family members."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/14-killed-after-helicopter-belonging-to-saudi-oil-giant-aramco-crashes-in-ras-tanura-2936071-2026-06-28",
-      "headline": "14 killed after helicopter belonging to Saudi oil giant Aramco crashes in Ras TanuraFourteen Saudi nationals were killed after a Saudi Aramco helicopter crashed in Ras Tanura on Sunday morning. Authorities have launched an investigation, with the cause of the crash yet to be determined."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-ireland-2nd-t20i-live-score-ind-ire-vaibhav-sooryavanshi-2936050-2026-06-28",
-      "headline": "2nd T20I Live Score: Rain stops play after Shivam Dube puts halt to Irish late chargeIndia (IND) vs Ireland (IRE) Live Score, 2nd T20I: (IRE 132-5 in 17.1 ovs) India have started strong in the 2nd T20I after having won the toss and opted to bowl first in Belfast. Prince Yadav and Suryansh Shedge made their debuts. But Vaibhav Sooryavanshi didn't get a chance, and has to wait for his maiden India cap."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/news/story/foreign-university-campuses-india-15-cleared-global-degrees-40-percent-cheaper-2935954-2026-06-28",
+      "headline": "From Bristol to Liverpool: Foreign degrees are now 50% cheaper in IndiaIndia has cleared 15 foreign university campuses, with most expected to start classes by August. The move could let students earn globally recognised degrees at lower cost without going abroad."
     },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/cities/pune/story/siya-goyal-chetan-chaudhary-crime-scene-reconstruction-pune-lohagad-fort-ketan-agarwal-murder-case-2935886-2026-06-28",
       "headline": "What happened at Pune fort? Cops recreate Ketan's murder scene with SiyaSiya Goyal was taken to the Lohagad Fort at 6.30 am on Sunday. According to the police, the exercise was aimed at recreating the exact chain of events around the deadly fall that claimed Ketan Agarwal's life on June 18."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/cities/mumbai/story/mumbai-stabbing-near-mahim-station-man-attacked-after-accidental-bump-2936044-2026-06-28",
+      "headline": "Another knife attack in Mumbai as man stabbed after saying sorry for minor jostleAs the 35-year-old victim cried out for help, the accused allegedly brandished the weapon and threatened bystanders, preventing them from intervening. Panic gripped the area before the attacker fled the spot."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/europe-heatwave-france-1000-extra-deaths-germany-record-temperatures-wildfires-ptag-2936073-2026-06-28",
+      "headline": "Europe's killer heatwave has claimed over 1,300 lives since June 21The scorching conditions have killed around 1,000 people in France, sparked wildfires across Germany, damaged roads and railway networks, and pushed emergency services to their limits, prompting fresh warnings."
     },
     {
       "sentiment": "positive",
@@ -247,17 +267,17 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/cities/jaipur/story/jaipur-boy-murder-three-minors-detained-in-knife-recovered-sister-remarks-2936037-2026-06-28",
-      "headline": "12-year-old beheaded, skull dumped in sewer, 3 minors detained for murderJaipur Police have detained three minors, aged 10 to 12, for allegedly beheading a 12-year-old neighbour after he allegedly made remarks to one accused's sister. The victim's skull was found in a sewer."
+      "headline": "12-year-old killed, body dumped in sewer, 3 minors detained for murderJaipur Police have detained three minors, aged 10 to 12, for allegedly beheading a 12-year-old neighbour after he allegedly made remarks to one accused's sister. The victim's skull was found in a sewer."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/14-killed-after-helicopter-belonging-to-saudi-oil-giant-aramco-crashes-in-ras-tanura-2936071-2026-06-28",
+      "headline": "14 killed after helicopter belonging to Saudi oil giant Aramco crashes in Ras TanuraFourteen Saudi nationals were killed after a Saudi Aramco helicopter crashed in Ras Tanura on Sunday morning. Authorities have launched an investigation, with the cause of the crash yet to be determined."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/delhi-ncr-weather-thunderstorm-imd-orange-alert-rain-lightning-forecast-today-science-news-2936046-2026-06-28",
-      "headline": "Rain in Delhi-NCR likely: IMD issues orange alert, gusty winds on approachThe India Meteorological Department has placed Delhi-NCR under an orange alert, with a light thunderstorm, lightning and gusty winds likely within two hours. Here is the science behind the sudden storm, what an orange alert really means and how to stay safe."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/eleven-people-die-after-a-civilian-plane-crashes-near-nancy-in-france-2936049-2026-06-28",
-      "headline": "Eleven killed after civilian plane carrying skydivers crashes in FranceRegional broadcaster France 3 Grand Est said the death toll was expected to be high and warned of a significant risk of the aircraft exploding following the crash."
+      "url": "https://www.indiatoday.in/science/story/monsoon-rain-alert-states-monday-june-29-imd-warning-uttar-pradesh-delhi-heatwave-2936160-2026-06-28",
+      "headline": "Very heavy rain to lash Northeast India Monday, heatwave to grip NorthThe IMD has forecast heavy to very heavy rain over the northeast and parts of the east on Monday, June 29, with heatwave conditions likely over Uttar Pradesh and Delhi. This piece explains the monsoon trough, orographic lifting and the systems driving the day's weather."
     },
     {
       "sentiment": "positive",
@@ -266,18 +286,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/mohali-gurdwara-ruckus-attack-bid-on-baba-jasdeep-singh-punjab-nihang-welcome-2936079-2026-06-28",
-      "headline": "Video: Man tries to attack Nihang leader at Mohali gurdwara, triggers ruckusLocal police reached the scene soon after and said the situation is now under control. They added that they are in constant touch with the gurdwara management. Police also said that no complaint has been received so far, but action will be taken if one is filed."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/odisha-woman-rejects-man-advances-he-pours-petrol-through-window-sets-house-ablaze-with-her-inside-2935859-2026-06-28",
-      "headline": "Odisha woman rejects man's advances. He sets her house ablaze with her insideA woman in Sundargarh suffered severe burns after a man allegedly set her house on fire. Police have arrested the accused as investigators examine an alleged case of one-sided obsession."
+      "url": "https://www.indiatoday.in/interactive/quiz/news/india-today-quiz-news-current-affairs-upsc-entertainment-technology-movies-pop-culture-sports-615-26-06-2026",
+      "headline": "Question Time: Weekly News QuizThink you read the headlines this week? Let's test that!"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/rohit-virat-messi-ronaldo-fans-wars-djokovic-2935964-2026-06-28",
-      "headline": "Sport has never had more greatness. Have we forgotten how to watch?Handcrafted ByOur Editors From Messi and Ronaldo to Federer, Nadal and Djokovic, modern sport has handed us an embarrassment of riches. Instead of enjoying it, we keep reaching for the scoreboard. Why has the GOAT debate become a habit we can't seem to break?"
+      "url": "https://www.indiatoday.in/india/story/twisha-sharma-giribala-singh-bhopal-house-burglary-masked-men-escape-after-clash-cctv-probe-2936133-2026-06-28",
+      "headline": "Gold, documents looted from Twisha Sharma's mother-in-law Giribala Singh's homeThree masked men allegedly broke into retired judge Giribala Singh's house and fled after a scuffle with police. The incident has intensified scrutiny around a property already linked to the Twisha Sharma murder case."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/monsoon-disappears-again-indias-rain-deficit-jumps-to-45-clouds-vanish-2935897-2026-06-28",
+      "headline": "Monsoon disappears again: Rain deficit jumps to 45%, no clouds in sightThe southwest monsoon has slipped into another prolonged pause, with satellite imagery showing sparse rain-bearing clouds over much of India. The slowdown has widened the national rainfall deficit to 45% and raised concern over sowing, reservoirs and power demand."
     },
     {
       "sentiment": "positive",
@@ -286,33 +306,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/interactive/quiz/news/india-today-quiz-news-current-affairs-upsc-entertainment-technology-movies-pop-culture-sports-615-26-06-2026",
-      "headline": "Question Time: Weekly News QuizThink you read the headlines this week? Let's test that!"
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/technology/talking-points/story/world-looking-at-another-inflation-this-time-blame-ram-and-not-oil-2935927-2026-06-28",
       "headline": "World looking at another inflation, this time blame RAM and not oilIf you buy a laptop or phone this year, you would pay 20 to 30 per cent more compared to last year. There is a RAM-driven inflation in the tech world, it is going to make everything more expensive."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/music-dancing-then-screams-maharashtra-man-dives-headfirst-malvan-resort-swimming-pool-dies-2935951-2026-06-28",
-      "headline": "Music, dancing, then screams: Man dives headfirst into resort swimming pool, diesA holiday trip to a resort ended in tragedy for a 25-year-old tourist, who died while diving into a shallow swimming pool. The June 20 incident has drawn widespread attention after a video of the fatal dive surfaced online days later."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/mujahid-bani-mufleh-israeli-detention-photo-abuse-allegations-2935935-2026-06-28",
-      "headline": "Two photos capture horror of Palestinian journalist's months in Israeli captivityThe striking transformation of Palestinian journalist Mujahid Bani Mufleh before and after detention has reignited debate over Israeli prison conditions. A prisoner rights group claims he suffered abuse and medical neglect, allegations Israel has previously rejected."
-    },
-    {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/pm-modi-conferred-the-guardian-of-the-blue-horizon-seychelles-highest-honour-for-environmental-conservation-2935967-2026-06-28",
-      "headline": "PM Modi awarded Seychelles' highest honour for environmental leadershipPrime Minister Narendra Modi has received the 'Guardian of the Blue Horizon', Seychelles' highest environmental honour, for leadership in conservation and sustainable development. Calling it a tribute to India's people, he reaffirmed the country's commitment to climate action, green growth and global environmental cooperation."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/heat-index-delhi-feels-like-51-degrees-temperature-humidity-formula-explained-2935963-2026-06-28",
-      "headline": "Heat index, not the thermometer, is why Delhi feels like 51\u00b0C. What is it?Delhi's \"feels like\" temperature hit 51.3 degrees Celsius on Sunday, June 28, even though the thermometer read just 41.3 degrees Celsius. Here is what the heat index means, the simple maths behind the formula, and why humidity makes the capital feel so much hotter."
+      "url": "https://www.indiatoday.in/india/story/mohali-gurdwara-ruckus-attack-bid-on-baba-jasdeep-singh-punjab-nihang-welcome-2936079-2026-06-28",
+      "headline": "Video: Man tries to attack Nihang leader at Mohali gurdwara, triggers ruckusLocal police reached the scene soon after and said the situation is now under control. They added that they are in constant touch with the gurdwara management. Police also said that no complaint has been received so far, but action will be taken if one is filed."
     },
     {
       "sentiment": "positive",
@@ -321,6 +321,21 @@
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-ireland-vaibhav-sooryavanshi-debut-gavaskar-snub-england-series-2936153-2026-06-28",
+      "headline": "Expected him to play both games: Sunil Gavaskar surprised at Sooryavanshi's Ireland omission IND vs IRE: Sunil Gavaskar said he was surprised that Vaibhav Sooryavanshi was not given a debut in the Ireland T20I series despite his strong IPL performances. However, he believes the teenager remains in India's plans and is likely to get his opportunity during the upcoming England white-ball series."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/formula-one/story/formula-1-george-russell-wins-in-austria-verstappen-and-antonelli-join-him-on-podium-2936172-2026-06-28",
+      "headline": "Formula 1: George Russell wins in Austria, Verstappen and Antonelli join him on podium Formula 1, Austrian GP: George Russell wins in Austria, Verstappen and Antonelli join him on podium"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ben-stokes-retire-international-cricket-england-3rd-test-against-new-zealand-2936168-2026-06-28",
+      "headline": "Ben Stokes announces shock retirement from international midway during a Test England captain Ben Stokes has announced his retirement from international cricket and will draw the curtains down on his career after the ongoing Test against New Zealand at Trent Bridge. A World Cup winner, Ashes hero and architect of England's Bazball revolution, Stokes leaves behind one of the greatest legacies in modern English cricket."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-australia-womens-t20-world-cup-semi-finals-qualification-lords-2936136-2026-06-28",
@@ -339,12 +354,12 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-women-vs-australia-women-live-score-t20-world-cup-2026-ind-w-vs-aus-w-match-2936119-2026-06-28",
-      "headline": "IND vs AUS Live Score: Smriti, Shafali make strong start India (IND-W) vs Australia (AUS-W) Live Score, Women's T20 World Cup: Smriti Mandhana and Shafali Verma have made a steady start after India won the toss and opted to bat first at the Lord's. Kranti Gaud has replaced Nandni Sharma, while Phoebe Litchfield has returned for Alana King."
+      "headline": "IND vs AUS LIVE: Harmanpreet late blitz lifts India to 170 for 4 in must-win clash India (IND-W) vs Australia (AUS-W) Live Score, Women's T20 World Cup: Harmanpreet Kaur scored a 25-ball half-century as India posted 170 for six on the board after opting to bat first at the Lord's Cricket Ground."
     },
     {
-      "sentiment": "negative",
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-ireland-2nd-t20i-live-score-ind-ire-vaibhav-sooryavanshi-2936050-2026-06-28",
-      "headline": "2nd T20I Live Score: Shivam Dube gets two-in-two as Ireland start to fall apart India (IND) vs Ireland (IRE) Live Score, 2nd T20I: (IRE 114-5 in 15 ovs) India have started strong in the 2nd T20I after having won the toss and opted to bowl first in Belfast. Prince Yadav and Suryansh Shedge made their debuts. But Vaibhav Sooryavanshi didn't get a chance, and has to wait for his maiden India cap."
+      "headline": "2nd T20I Live Score: Moondra tearing apart Indian batting line-up India (IND) vs Ireland (IRE) Live Score, 2nd T20I: (IND 53/4 in 7.4 in 155 chase) Jai Moondra provided Ireland with the perfect start in their defence as Indian batters struggled to get going. Earlier, Indian bowlers were quick to halt the Irish charge grabbing wickets at crucial stages. Debutant Prince Yadav got three wickets on his T20I debut for India."
     },
     {
       "sentiment": "negative",
@@ -354,17 +369,17 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/story/rohit-virat-messi-ronaldo-fans-wars-djokovic-2935964-2026-06-28",
-      "headline": "Sport has never had more greatness. Have we forgotten how to watch? From Messi and Ronaldo to Federer, Nadal and Djokovic, modern sport has handed us an embarrassment of riches. Instead of enjoying it, we keep reaching for the scoreboard. Why has the GOAT debate become a habit we can't seem to break?"
+      "headline": "Sport has never had more greatness. Have we forgotten how to watch?Handcrafted ByOur Editors From Messi and Ronaldo to Federer, Nadal and Djokovic, modern sport has handed us an embarrassment of riches. Instead of enjoying it, we keep reaching for the scoreboard. Why has the GOAT debate become a habit we can't seem to break?"
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/other-sports/story/world-rowing-cup-2026-india-first-gold-lakshay-ujjwal-lucerne-2935984-2026-06-28",
-      "headline": "2 Indian army men script history, win first-ever gold in World Rowing Cup India created history at the 2026 World Rowing Cup III in Lucerne after Lakshay and Ujjwal Kumar Singh won the country's first-ever gold medal at the event. The Indian Army rowers topped the Lightweight Men's Double Sculls final to secure a landmark result for Indian rowing."
+      "headline": "2 Indian army men script history, win first-ever gold in World Rowing CupIndia created history at the 2026 World Rowing Cup III in Lucerne after Lakshay and Ujjwal Kumar Singh won the country's first-ever gold medal at the event. The Indian Army rowers topped the Lightweight Men's Double Sculls final to secure a landmark result for Indian rowing."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/lionel-messi-goal-argentina-erling-haaland-fifa-world-cup-2935970-2026-06-28",
-      "headline": "Haaland drops cheeky message as Argentina maintain unbeaten run in World Cup Erling Haaland has dropped a cheeky message after Lionel Messi's record-extending 19th goal in the FIFA World Cup. Haaland's hilarious message has gone viral on the internet."
+      "headline": "Haaland drops cheeky message as Argentina maintain unbeaten run in World CupErling Haaland has dropped a cheeky message after Lionel Messi's record-extending 19th goal in the FIFA World Cup. Haaland's hilarious message has gone viral on the internet."
     },
     {
       "sentiment": "negative",
@@ -450,16 +465,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/video/sophie-molineux-womens-t20-world-cup-india-vs-australia-press-conference-2935813-2026-06-28",
       "headline": "Sophie Molineux enjoying added captaincy role in Australia's dominant campaignWomen's T20 World Cup, INDW vs AUSW: Speaking to the reporters before the match against India, Sophie Molineux said that the ongoing tournament has been different, but she has enjoyed the added responsibility of captaincy after replacing Alyssa Healy."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/video/smriti-mandhana-womens-t20-world-cup-india-vs-australia-press-conference-2935806-2026-06-27",
-      "headline": "Smriti Mandhana urges India to bat with more intent in must-win Australia clashWomen's T20 World Cup, INDW vs AUSW: Speaking to the reports, Smriti Mandhana said that India need to show more intent with the way if they are to beat Sophie Molineux's Australia on Sunday and qualify for the semis."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ireland-women-vs-west-indies-orla-prendergast-first-womens-t20-world-cup-win-2935779-2026-06-27",
-      "headline": "Ireland claim first-ever win in Women's T20 World Cup day after men's India upsetIreland Women created history by registering their first-ever Women's T20 World Cup victory, defeating West Indies by six wickets to end a 21-match losing streak, just a day after the Ireland men's team stunned India in Bristol."
     }
   ],
   "education": [
