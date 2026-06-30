@@ -1,6 +1,16 @@
 {
   "business": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/story/windfall-tax-fuel-exports-centre-raises-petrol-levy-cuts-diesel-atf-duties-2937905-2026-07-01",
+      "headline": "Centre hikes special duty on petrol, cuts levy on diesel, aviation fuel exportsThe Centre has raised the windfall tax on petrol exports while cutting levies on diesel and ATF from July 1. The revision also widens export duty exemptions and leaves domestic fuel excise rates unchanged."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/rbi-says-banks-npa-hit-multi-decade-low-warns-of-ai-cyberattacks-in-reserve-bank-of-india-fsr-2937889-2026-06-30",
+      "headline": "RBI says banks' bad loans hit multi-decade low of 1.8%, warns of AI cyberattacksDespite repeated shocks, the global financial system has thus far demonstrated notable resilience, with markets remaining orderly after an initial bout of volatility following the outbreak of the West Asia conflict, the RBI said in its Financial Stability Report (FSR)."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/kotak-mahindra-to-buy-deutsche-banks-retail-business-in-india-for-30-million-2937658-2026-06-30",
       "headline": "Kotak Mahindra to buy Deutsche Bank's retail business in India for $30 millionThe acquisition will help Kotak expand its presence among retail and affluent customers, while Deutsche Bank will focus on its core business areas."
@@ -89,19 +99,19 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/japanese-yen-sinks-to-40-year-low-as-us-dollar-holds-near-13-month-high-2936874-2026-06-29",
       "headline": "Yen sinks to 40-year low, dollar slips but stays near 13-month highThe Japanese yen weakened to its lowest levels against the US currency since 1986."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/petrol-diesel-sale-restrictions-imposed-due-to-shortage-fear-amid-iran-war-to-end-on-july-1-2936812-2026-06-29",
-      "headline": "Govt to lift petrol and diesel sales curbs from July 1 as supply concerns easeThe precautionary measures were introduced to protect domestic fuel supplies at a time when uncertainty in the global energy market was increasing."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/from-itr-deadlines-aadhaar-to-passport-fees-5-big-financial-changes-from-july-1-you-must-know-2936734-2026-06-29",
-      "headline": "From ITR deadlines to passport fees: 5 financial changes from July 1 you must knowWhether you're planning to file your ITR, apply for a passport or simply keep track of your finances, July 1 brings a few important changes you shouldn't ignore. Here are five key financial updates that could matter to you. Which ones will affect you the most?"
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/choreographer-bosco-martis-admitted-to-hospital-after-chest-discomfort-2937910-2026-07-01",
+      "headline": "Choreographer Bosco Martis admitted to hospital after chest discomfort Bollywood choreographer Bosco Leslie Martis has been admitted to Breach Candy Hospital after chest congestion and discomfort. Doctors say his initial reports are normal and he remains under observation as a precaution."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/samantha-ruth-prabhu-flaunts-baby-bump-in-new-instagram-photo-says-ill-see-you-my-six-pack-2937897-2026-07-01",
+      "headline": "Samantha flaunts baby bump in new Instagram photo, says I'll see you, my six-pack Samantha Ruth Prabhu shared a baby bump photo on Instagram. The announcement also settled recent speculation as she said she will take maternity leave after her current commitments."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/hollywood/story/timothee-chalamet-and-selena-gomez-voice-rocket-scientists-in-not-alone-trailer-2937851-2026-06-30",
@@ -186,16 +196,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/music/story/inside-taylor-swift-and-travis-kelce-wedding-with-ndas-guest-list-and-more-2937389-2026-06-30",
       "headline": "Inside Taylor Swift and Travis Kelce's wedding with NDAs, guest list and more Singer-songwriter Taylor Swift and NFL star Travis Kelce's rumoured wedding has sparked fresh speculation after reports revealed unusual privacy measures and elaborate planning. Here's what is being claimed."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/shanthnu-bhagyaraj-thanks-cm-vijay-for-support-after-k-bhagyaraj-death-2937385-2026-06-30",
-      "headline": "You humbly knelt by my mother: Shanthnu Bhagyaraj thanks CM Vijay in emotional note Actor Shanthnu Bhagyaraj thanked Chief Minister C Joseph Vijay for standing by his family after K Bhagyaraj's death and ensuring state honours at the funeral. His note also linked a personal memory from his wedding."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/dharna-durga-triptii-dimri-maa-behen-response-overwhelming-2937386-2026-06-30",
-      "headline": "Triptii Dimri was my biggest source of support on Maa Behen: Actor Dharna Durga Dharna Durga said Triptii Dimri became a key support during the shoot of Maa Behen. She also said the Netflix film's response and audience connection have surpassed her expectations."
     }
   ],
   "general news": [
@@ -206,8 +206,23 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/pm-modi-tells-iran-president-lasting-peace-in-west-asia-must-come-through-dialogue-and-diplomacy-2937796-2026-06-30",
-      "headline": "PM speaks to Iran President, stresses peace, freedom of navigation in West AsiaDuring the conversation, PM Modi welcomed the understanding reached and reiterated India's longstanding position that all disputes should be resolved through dialogue and diplomacy."
+      "url": "https://www.indiatoday.in/sports/football/story/france-vs-sweden-live-score-fifa-world-cup-2026-updates-mbappe-round-of-32-2937925-2026-07-01",
+      "headline": "FRA vs SWE Live: Les Bleus face Swedish test in Round of 32France vs Sweden, FIFA World Cup 2026: France's prolific attack meets Sweden in the FIFA World Cup Round of 32 as Didier Deschamps' side look to continue their free-scoring form and book a place in the quarter-finals."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/erling-haaland-norway-vs-ivory-coast-diallo-fifa-world-cup-match-report-2937917-2026-07-01",
+      "headline": "Haaland has last laugh as Norway spoil Diallo's dazzling display for Ivory CoastFIFA World Cup 2026: Amad Diallo's sensational cameo looked set to inspire Ivory Coast to a famous comeback before Erling Haaland struck late to send Norway into the FIFA World Cup 2026 Round of 16. Norway will now face five-time champions Brazil in a blockbuster knockout clash."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/us-news/story/donald-trump-jabs-at-supreme-court-after-birthright-citizenship-blow-says-congrats-xi-jinping-2937924-2026-07-01",
+      "headline": "Congrats Xi Jinping: Trump jabs at Supreme Court after birthright citizenship blowDonald Trump criticised the Supreme Court after it struck down his birthright citizenship order and said Congress should act. The ruling reaffirmed the 14th Amendment and added another legal setback to his second-term agenda."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/pok-protest-rawalakot-challenges-pakistan-food-blockade-warns-of-turning-towards-india-2937588-2026-06-30",
+      "headline": "POK not part of Pakistan: Protesters slam Islamabad, hint at seeking India's helpThousands of protesters gathered in Rawalakot to declare that POK is not part of Pakistan and oppose food supply restrictions. The rally marked a sharp challenge to Islamabad's control, with demonstrators accusing the authorities of neglect, exploitation and repression."
     },
     {
       "sentiment": "negative",
@@ -216,8 +231,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/cote-divoire-vs-norway-live-score-fifa-world-cup-2026-round-of-32-knockouts-updates-2937759-2026-06-30",
-      "headline": "CIV 0-1 NOR Live: Nusa's screamer puts Norway aheadCote d'Ivoire (CIV) vs Norway (NOR) Live, FIFA World Cup 2026: (CIV 0-1 NOR) Ivory Coast controlled much of the first half but were left stunned by Antonio Nusa's spectacular opener. Norway weathered the storm before producing one moment of brilliance that has them firmly in control at the interval."
+      "url": "https://www.indiatoday.in/india/story/pm-modi-tells-iran-president-lasting-peace-in-west-asia-must-come-through-dialogue-and-diplomacy-2937796-2026-06-30",
+      "headline": "PM speaks to Iran President, stresses peace, freedom of navigation in West AsiaDuring the conversation, PM Modi welcomed the understanding reached and reiterated India's longstanding position that all disputes should be resolved through dialogue and diplomacy."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/wimbledon-day-2-live-score-serena-williams-iga-swiatek-alexander-zverev-2937572-2026-06-30",
+      "headline": "Day 2 Live: Serena Williams goes down fighting in comeback gameWimbledon 2026 Day 2 Live Score and Updates: After going down in the first set, Williams battled through a tense second set, with both players trading breaks and holding firm under pressure to force a tie-break. In a dramatic finish, Williams edged a tight decider to level the match, capitalising on a crucial long error from Joint to take the set."
     },
     {
       "sentiment": "positive",
@@ -226,13 +246,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/supreme-court-strikes-down-trumps-executive-order-seeking-to-limit-birthright-citizenship-2937725-2026-06-30",
-      "headline": "US Supreme Court strikes down Trump order restricting birthright citizenshipIn a major blow to President Donald Trump's immigration agenda, the US Supreme Court struck down his order limiting birthright citizenship and reaffirmed law granting citizenship to nearly all children born in America."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/india-ayatollah-ali-khamenei-funeral-delegation-draws-attention-iran-ties-reactions-2937324-2026-06-30",
       "headline": "Does India's delegation for Khamenei funeral reveal a shift?A junior Union minister and a governor will be travelling to Iran to represent India at the funeral of former Ayatollah Ali Khamenei. Iran had invited PM Modi. Does the selection of the two representatives hint at a shift in New Delhi's Middle East diplomacy?"
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/dhaka-hindu-priest-law-student-kidnapped-tortured-for-ransom-2937900-2026-07-01",
+      "headline": "Hindu priest, law student kidnapped, tortured for ransom in DhakaThe man, identified as Subhash Deuri, was admitted to the emergency department of Dhaka Medical College Hospital on Tuesday with serious injuries after friends found him lying on a road in the city's Narinda area."
     },
     {
       "sentiment": "positive",
@@ -241,8 +261,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/pok-protest-rawalakot-challenges-pakistan-food-blockade-warns-of-turning-towards-india-2937588-2026-06-30",
-      "headline": "POK not part of Pakistan: Protesters slam Islamabad, hint at seeking India's helpThousands of protesters gathered in Rawalakot to declare that POK is not part of Pakistan and oppose food supply restrictions. The rally marked a sharp challenge to Islamabad's control, with demonstrators accusing the authorities of neglect, exploitation and repression."
+      "url": "https://www.indiatoday.in/science/story/watch-live-two-astronauts-repairing-space-stations-robotic-arm-flying-at-28000-kmph-2937671-2026-06-30",
+      "headline": "2 Nasa astronauts repair key equipment on Space Station after 7-hour spacewalkNasa astronauts Chris Williams and Jessica Meir stepped outside the International Space Station to replace a faulty Canadarm2 wrist joint. The repair was aimed at restoring a vital robotic arm used for cargo operations, maintenance and astronaut support."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/birthright-citizenship-us-supreme-court-ruling-relief-indian-h1b-families-2937927-2026-07-01",
+      "headline": "US Supreme Court birthright ruling brings big relief for Indians. Here's howThe US Supreme Court struck down Donald Trump's order seeking to restrict birthright citizenship. The ruling protects US-born children of Indian temporary visa holders, even as Trump pushes Congress to change the law."
     },
     {
       "sentiment": "positive",
@@ -251,18 +276,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/tamil-nadu/story/tamil-nadu-procure-only-ac-air-condition-buses-cm-vijay-pushes-comfortable-travel-transport-minister-vijay-tamilan-parthiban-2937113-2026-06-30",
-      "headline": "Only AC government buses in Tamil Nadu from now, CM Vijay says: Transport MinisterTransport Minister Vijay Tamilan Parthiban said Tamil Nadu will henceforth procure only AC buses since Chief Minister Vijay wants people to travel more widely and comfortably."
+      "url": "https://www.indiatoday.in/india/tamil-nadu/story/tamil-nadu-left-cpi-cpm-front-skips-vijay-meeting-tvk-alliance-2937856-2026-06-30",
+      "headline": "Ally trouble for TVK? Left parties to skip CM Vijay's July 1 meetingThe development comes amid continuing political realignments in Tamil Nadu after the two-year-old TVK stormed to power, pushing the state's two traditional Dravidian parties \u2014 the DMK and the AIADMK \u2014 to the second and third positions, respectively."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/wimbledon-day-2-live-score-serena-williams-iga-swiatek-alexander-zverev-2937572-2026-06-30",
-      "headline": "Day 2 Live: Virtanen stuns Shelton in five-setter, Zverev in action vs BlockxWimbledon 2026 Day 2 Live Score and Updates: Otto Virtanen stuns fourth seed Ben Shelton in five-sets. Defending champion Iga Swiatek survived a stern test from Taylor Townsend to reach round two, while Taylor Fritz eased through in straight sets. Meanwhile, Zverev has started his match against Belgian Blockx in the Centre Court."
+      "url": "https://www.indiatoday.in/business/commodities/story/gold-investment-demand-india-tops-jewellery-buying-families-sell-old-gold-2937263-2026-06-30",
+      "headline": "Indians love gold. So why is there a rush to sell it?Gold still occupies a special place in Indian households, but rising prices and changing investor behaviour are transforming it from a family heirloom into a modern financial asset."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/watch-live-two-astronauts-repairing-space-stations-robotic-arm-flying-at-28000-kmph-2937671-2026-06-30",
-      "headline": "Watch LIVE: Two astronauts repairing Space Station flying at 28,000 kmphTwo Nasa astronauts stepped outside the International Space Station to replace a faulty Canadarm2 wrist joint. The repair is aimed at restoring a vital robotic arm used for cargo operations, maintenance and astronaut support."
+      "url": "https://www.indiatoday.in/entertainment/television/story/love-is-still-the-same-gaurav-khanna-breaks-silence-as-akanksha-announces-divorce-2937754-2026-06-30",
+      "headline": "Love is still the same: Gaurav Khanna breaks silence as Akanksha announces divorceActor Gaurav Khanna has broken his silence after Akanksha Chamola confirmed their divorce on Lock Upp: Sach Ya Sazaa. Here's what the actor said and why the couple decided to part ways."
     },
     {
       "sentiment": "negative",
@@ -272,37 +297,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/prime-minister-narendra-modi-meeting-central-secretaries-seva-tirath-reform-agenda-2937559-2026-06-30",
-      "headline": "PM chairs 4-hour meeting with top bureaucrats; pushes deregulation, self-relianceThe meeting, one of the first full-secretary-level interactions chaired by the PM in the current financial year, was aimed to align the bureaucracy with government's policy priorities for the second half of 2026."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/imd-forecasts-below-normal-rainfall-in-july-el-nino-to-tighten-grip-on-monsoon-2937576-2026-06-30",
-      "headline": "India to get below-normal rain in July, El Nino to grip monsoonThe IMD has forecast below-normal rainfall across India in July as El Ni\u00f1o strengthens over the equatorial Pacific. The outlook follows a 39% June rainfall deficit, making it the country's fifth-driest June since 1901."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/commodities/story/gold-investment-demand-india-tops-jewellery-buying-families-sell-old-gold-2937263-2026-06-30",
-      "headline": "Indians love gold. So why is there a rush to sell it?Gold still occupies a special place in Indian households, but rising prices and changing investor behaviour are transforming it from a family heirloom into a modern financial asset."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/us-supreme-court-backs-state-laws-restricting-transgender-athletes-in-girls-school-sports-2937702-2026-06-30",
-      "headline": "US Supreme Court upholds bans on trans women in female school, college sportsIn a significant 6-3 majority, the US Supreme Court upheld laws in Idaho and West Virginia that bar trans women and girls from competing on female sports teams in schools and colleges, clearing the way for states to enforce similar restrictions on transgender student athletes."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/lahore-tuition-centre-roof-collapse-kills-14-children-contractor-arrested-ptag-2937795-2026-06-30",
-      "headline": "Lahore tuition centre roof collapse kills 14 children, contractor heldA roof collapse at a private tuition centre in Lahore killed 14 children and injured 20 others. The tragedy has triggered a criminal probe into unsafe construction and school safety oversight."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/law-news/story/mumbai-sessions-court-acquits-rape-aids-woman-accused-after-complainant-goes-missing-2937716-2026-06-30",
-      "headline": "Man accused of drugging, raping woman with AIDS acquitted after she disappearsThe court held that police failed to establish the allegations beyond doubt, citing the absence of the complainant's testimony, lack of identification evidence and insufficient material to prove rape."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/jobs-and-careers/story/64-year-old-intern-goes-viral-should-india-rethink-retirement-after-age-60-2937200-2026-06-30",
-      "headline": "A 64-year-old intern went viral. Is India retiring its smartest talent too soon?A viral video of a 64-year-old intern has reignited debate over retirement in India. As people live longer and healthier lives, should retirement become a choice instead of a fixed age? Experts say the country's untapped silver workforce could become one of its biggest economic and social strengths."
+      "headline": "PM chairs 4-hour meet with top bureaucrats; pushes for deregulation, self-relianceThe meeting, one of the first full-secretary-level interactions chaired by the PM in the current financial year, was aimed to align the bureaucracy with government's policy priorities for the second half of 2026."
     },
     {
       "sentiment": "positive",
@@ -311,20 +306,40 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/television/story/love-is-still-the-same-gaurav-khanna-breaks-silence-as-akanksha-announces-divorce-2937754-2026-06-30",
-      "headline": "Love is still the same: Gaurav Khanna breaks silence as Akanksha announces divorceActor Gaurav Khanna has broken his silence after Akanksha Chamola confirmed their divorce on Lock Upp: Sach Ya Sazaa. Here's what the actor said and why the couple decided to part ways."
+      "url": "https://www.indiatoday.in/science/story/imd-forecasts-below-normal-rainfall-in-july-el-nino-to-tighten-grip-on-monsoon-2937576-2026-06-30",
+      "headline": "India to get below-normal rain in July, El Nino to grip monsoonThe IMD has forecast below-normal rainfall across India in July as El Ni\u00f1o strengthens over the equatorial Pacific. The outlook follows a 39% June rainfall deficit, making it the country's fifth-driest June since 1901."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/jharkhand-youtuber-shivdhan-lohar-murdered-in-odisha-accused-dies-in-sundargarh-crash-2937688-2026-06-30",
-      "headline": "Jharkhand YouTuber killed in Odisha, accused dies in getaway crashThe mastermind died in a crash while fleeing in the stolen car after he killed the YouTuber and dumped his body near a railway overbridge."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/tamil-nadu/story/tamil-nadu-procure-only-ac-air-condition-buses-cm-vijay-pushes-comfortable-travel-transport-minister-vijay-tamilan-parthiban-2937113-2026-06-30",
+      "headline": "Only AC government buses in Tamil Nadu from now, CM Vijay says: Transport MinisterTransport Minister Vijay Tamilan Parthiban said Tamil Nadu will henceforth procure only AC buses since Chief Minister Vijay wants people to travel more widely and comfortably."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/vb-g-ram-g-act-for-up-to-125-days-of-guaranteed-rural-employment-rollout-july-1-2937916-2026-07-01",
+      "headline": "VB-G RAM G for up to 125 days of guaranteed rural employment to roll out todayThe Ministry of Rural Development said the Act guarantees up to 125 days of wage employment for eligible rural households, providing a statutory entitlement that increases the existing limit of 100 days under the current rural employment framework."
     }
   ],
   "sports": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/france-vs-sweden-live-score-fifa-world-cup-2026-updates-mbappe-round-of-32-2937925-2026-07-01",
+      "headline": "FRA vs SWE Live: Les Bleus face Swedish test in Round of 32 France vs Sweden, FIFA World Cup 2026: France's prolific attack meets Sweden in the FIFA World Cup Round of 32 as Didier Deschamps' side look to continue their free-scoring form and book a place in the quarter-finals."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/erling-haaland-norway-vs-ivory-coast-diallo-fifa-world-cup-match-report-2937917-2026-07-01",
+      "headline": "Haaland has last laugh as Norway spoil Diallo's dazzling display for Ivory Coast FIFA World Cup 2026: Amad Diallo's sensational cameo looked set to inspire Ivory Coast to a famous comeback before Erling Haaland struck late to send Norway into the FIFA World Cup 2026 Round of 16. Norway will now face five-time champions Brazil in a blockbuster knockout clash."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/womens-t20-world-cup-australia-vs-west-indies-semi-final-mooney-gardner-final-2937890-2026-06-30",
+      "headline": "Ashleigh Gardner stars as Australia reaches yet another World Cup final Women's T20 World Cup 2026: Australia overwhelmed West Indies at The Oval to reach another Women's T20 World Cup final. Beth Mooney and Ashleigh Gardner turned a semi-final into routine, reinforcing Australia's knockout dominance."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/other-sports/story/lebron-james-lakers-exit-warriors-lead-race-after-nba-legend-leaves-los-angeles-2937880-2026-06-30",
-      "headline": "LeBron James leaves Lakers after eight seasons, set to test NBA free agency LeBron James has told the Los Angeles Lakers he will continue his career elsewhere after eight seasons. The move closes a title-winning chapter in Los Angeles and puts the Warriors at the front of the chase."
+      "headline": "LeBron James leaves Lakers after eight seasons, set to test NBA free agency LeBron James has informed the Lakers that he will continue his NBA career elsewhere, ending an eight-year spell in Los Angeles as the Warriors, Heat and Cavaliers emerge as potential destinations."
     },
     {
       "sentiment": "positive",
@@ -334,7 +349,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/cote-divoire-vs-norway-live-score-fifa-world-cup-2026-round-of-32-knockouts-updates-2937759-2026-06-30",
-      "headline": "CIV 0-1 NOR Live: Nusa's screamer puts Norway ahead Cote d'Ivoire (CIV) vs Norway (NOR) Live, FIFA World Cup 2026: (CIV 0-1 NOR) Ivory Coast controlled much of the first half but were left stunned by Antonio Nusa's spectacular opener. Norway weathered the storm before producing one moment of brilliance that has them firmly in control at the interval."
+      "headline": "CIV 1-2 NOR Highlights: Erling Haaland sends Norway through Cote d'Ivoire (CIV) vs Norway (NOR) Highlights, FIFA World Cup 2026: (CIV 1-2 NOR) Norway survived a fierce Ivory Coast fightback to punch their ticket to the Round of 16. Now comes the ultimate test as Antonio Nusa, Erling Haaland and company prepare to take on five-time champions Brazil."
     },
     {
       "sentiment": "positive",
@@ -344,7 +359,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/wimbledon-day-2-live-score-serena-williams-iga-swiatek-alexander-zverev-2937572-2026-06-30",
-      "headline": "Day 2 Live: Virtanen stuns Shelton in five-setter, Zverev in action vs Blockx Wimbledon 2026 Day 2 Live Score and Updates: Otto Virtanen stuns fourth seed Ben Shelton in five-sets. Defending champion Iga Swiatek survived a stern test from Taylor Townsend to reach round two, while Taylor Fritz eased through in straight sets. Meanwhile, Zverev has started his match against Belgian Blockx in the Centre Court."
+      "headline": "Day 2 Live: Serena Williams comebacks to take 2nd set vs Joint Wimbledon 2026 Day 2 Live Score and Updates: After going down in the first set, Williams battled through a tense second set, with both players trading breaks and holding firm under pressure to force a tie-break. In a dramatic finish, Williams edged a tight decider to level the match, capitalising on a crucial long error from Joint to take the set."
     },
     {
       "sentiment": "negative",
@@ -359,17 +374,17 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-drinks-india-vs-england-t20is-ashwin-2937404-2026-06-30",
-      "headline": "What's wrong with Sooryavanshi carrying drinks? R Ashwin hits back at critics The Indian team was criticised for not handing 15-year-old Vaibhav Sooryavanshi his T20I debut against Ireland. Ahead of the 5-match England series, Ashwin asks, why is it so bad that the youngster was made to carry drinks during the tour."
+      "headline": "What's wrong with Sooryavanshi carrying drinks? R Ashwin hits back at criticsThe Indian team was criticised for not handing 15-year-old Vaibhav Sooryavanshi his T20I debut against Ireland. Ahead of the 5-match England series, Ashwin asks, why is it so bad that the youngster was made to carry drinks during the tour."
     },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/cricket/story/shashank-singh-cook-assault-private-videos-2937310-2026-06-30",
-      "headline": "Shashank Singh denies assault allegations: Cook was taking private videos Punjab Kings cricketer Shashank Singh has denied allegations of assault and wrongful confinement made by his former cook. A day after an FIR was registered against him and his father in Bhopal, Shashank responded to the allegations publicly."
+      "headline": "Shashank Singh denies assault allegations: Cook was taking private videosPunjab Kings cricketer Shashank Singh has denied allegations of assault and wrongful confinement made by his former cook. A day after an FIR was registered against him and his father in Bhopal, Shashank responded to the allegations publicly."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/wimbledon-day-2-schedule-serena-williams-returns-centre-court-maya-joint-2937288-2026-06-30",
-      "headline": "Day 2 schedule: Serena Williams returns to Centre Court, centre stage Serena Williams returns to Centre Court against Maya Joint as Wimbledon's Day 2 schedule takes shape. Her comeback headlines a packed slate featuring Iga Swiatek, Alexander Zverev and Elena Rybakina."
+      "headline": "Day 2 schedule: Serena Williams returns to Centre Court, centre stageSerena Williams returns to Centre Court against Maya Joint as Wimbledon's Day 2 schedule takes shape. Her comeback headlines a packed slate featuring Iga Swiatek, Alexander Zverev and Elena Rybakina."
     },
     {
       "sentiment": "negative",
@@ -455,21 +470,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/video/womens-t20-world-cup-australia-vs-west-indies-semifinal-hayley-matthews-press-conference-2937047-2026-06-30",
       "headline": "West Indies have nothing to lose, will be fearless vs Australia: Hayley MatthewsWomen's T20 World Cup 2026, AUS vs WI: West Indies skipper Hayley Matthews said that her team will be fearless when they face Sophie Molineux's Australia on Tuesday in the first semifinal at the Oval."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/germany-vs-paraguay-live-score-fifa-world-cup-2026-round-of-32-knockouts-updates-2937046-2026-06-30",
-      "headline": "GER vs PAR Highlights: Paraguay does the unthinkable, knock out GermanyGermany vs Paraguay Highlights FIFA World Cup 2026: (GER 1 (3) - 1(4) PAR) Paraguay have stunned the four-time world champions, knocking them out of the FIFA World Cup. After, the game remained level by the end of extra-time, Paraguay toppled the German giants over penalties."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-brazil-vs-japan-gabriel-martinelli-late-winner-round-of-16-houston-2937041-2026-06-30",
-      "headline": "Don Carlo's big-game magic sends Brazil past brave Japan into Round of 16FIFA World Cup 2026: Brazil came from behind to beat a brave and well-organised Japan side 2-1 in Houston, sealing their place in the World Cup Round of 16. Gabriel Martinelli struck a dramatic stoppage-time winner after Casemiro had earlier cancelled out Kaishu Sano's first-half opener."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/video/womens-t20-world-cup-australia-vs-west-indies-hayley-matthews-deandra-dottin-ash-gardner-2937044-2026-06-30",
-      "headline": "Australia wary of Hayley Matthews, Deandra Dottin threats in semis vs West IndiesWomen's T20 World Cup 2026, AUS vs WI: Ash Gardner said that Australia need to be careful with West Indies having match-winners like Deandra Dottin and Hayley Matthews going into the semis on Tuesday at the Oval."
     }
   ],
   "education": [
