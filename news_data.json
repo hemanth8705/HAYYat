@@ -1,6 +1,21 @@
 {
   "business": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/maruti-suzuki-kharkhoda-plant-modi-ishiba-launch-rs-35000-crore-haryana-facility-2938802-2026-07-02",
+      "headline": "PM Modi, Japan PM to inaugurate Maruti's Rs 35,000-crore mega car factory todayBuilt with a planned investment of around Rs 35,000 crore, the facility is expected to create more than 21,000 direct jobs while adding an annual production capacity of 10 lakh vehicles once fully operational."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/market/story/market-opening-sensex-jumps-400-points-nifty-tops-24100-it-stocks-rebound-lower-crude-2938801-2026-07-02",
+      "headline": "Sensex jumps nearly 400 points, Nifty tops 24,100 as IT stocks reboundIT stocks led the rally, while falling crude oil prices and easing geopolitical concerns boosted investor confidence. However, a weak monsoon remains a key concern."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/ott-dark-patterns-india-8-in-10-users-report-subscription-traps-hidden-charges-2938774-2026-07-02",
+      "headline": "OTT subscriptions becoming a trap? 8 in 10 users say they're being manipulatedA nationwide survey has found that eight in ten OTT users in India say they have encountered 'dark patterns', deceptive design practices that nudge users into spending more, continuing subscriptions or making choices they may not have intended."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/video/energy-crisis-is-the-worst-now-over-sajjid-chinoy-responds-2938641-2026-07-01",
       "headline": "Energy crisis: Is the worst now over? Sajjid Chinoy respondsPrices of commercial LPG were cut by Rs 183.50 per 19-kg cylinder on Wednesday \u2013 the first reduction this year following a series of hikes in the wake of the West Asia crisis that caused energy supply disruptions across the globe."
@@ -48,7 +63,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/8th-pay-commission-minimum-basic-pay-rs-18000-to-rs-69000-debate-explained-salary-pension-hike-news-2937302-2026-07-01",
-      "headline": "8th Pay Commission: From Rs 18,000 to Rs 69,000? Minimum pay debate explainedEmployee unions and staff bodies have asked the 8th Pay Commission to raise the minimum basic pay. The debate has widened into a question of inflation, family needs and a fair living wage."
+      "headline": "8th Pay Commission: From Rs 18,000 to Rs 69,000? Minimum pay debate explainedEmployee organisations believe the current minimum basic pay of Rs 18,000, introduced nearly a decade ago under the 7th Pay Commission, no longer reflects the cost of living. Depending on the method used, unions have proposed increasing it to anywhere between Rs 55,000 and nearly Rs 69,000."
     },
     {
       "sentiment": "positive",
@@ -84,24 +99,64 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/personal-finance/story/can-you-claim-your-epf-pension-before-58-heres-what-every-employee-must-know-2937655-2026-07-01",
       "headline": "Can you claim your EPF pension before 58? Here's what every employee must knowEarly retirement is becoming increasingly common, but what happens to your EPF pension if you stop working before 58? Can you start receiving it right away? Let us find out."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/price-of-19-kg-commercial-lpg-cylinders-slashed-by-rs-183-after-series-of-hikes-due-to-iran-war-2937966-2026-07-01",
-      "headline": "Price of 19-kg commercial LPG cylinder reduced by Rs 183. Check new ratesThe government has slashed the price of 19-kg commercial LPG cylinders by Rs 183 in a big relief to customers after multiple hikes due to the West Asia crisis."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/donald-trump-crypto-earnings-were-more-than-usd-1-billion-in-2025-filings-show-2937949-2026-07-01",
-      "headline": "Trump earned over $1.4 billion from crypto ventures in 2025, filings showA law from 1978 mandates the President and the Vice President of the US to declare their income as well as their assets. Trump's latest filings detailed the fact that his companies received almost USD 800 million from World Liberty Financial, a crypto venture he and his sons co-founded."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/story/windfall-tax-fuel-exports-centre-raises-petrol-levy-cuts-diesel-atf-duties-2937905-2026-07-01",
-      "headline": "Centre hikes special duty on petrol, cuts levy on diesel, aviation fuel exportsThe Centre has raised the windfall tax on petrol exports while cutting levies on diesel and ATF from July 1. The revision also widens export duty exemptions and leaves domestic fuel excise rates unchanged."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/obsession-pvod-release-where-to-rent-curry-barker-horror-film-2938796-2026-07-02",
+      "headline": "Missed Obsession in theatres? Here's how you can watch it now Obsession has made its digital debut on premium video-on-demand platforms following its successful theatrical run. While viewers can currently rent or purchase the film, its release on a subscription-based streaming platform is still awaited."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/ramayana-teaser-vfx-row-creator-claims-makers-released-a-nerfed-lord-rama-glimpse-2938792-2026-07-02",
+      "headline": "Ramayana teaser VFX row: Content creator claims makers released poor cut for buzz A content creator who visited the Ramayana sets claimed the makers released an inferior Lord Rama teaser on purpose. The remark, later deleted and recirculated through screenshots, has revived debate over the film's VFX."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/ai-or-real-viral-ranbir-kapoor-ramayana-video-triggers-vfx-authenticity-debate-2938793-2026-07-02",
+      "headline": "AI or real? Viral Ranbir Kapoor Ramayana video triggers VFX, authenticity debate Actor Ranbir Kapoor's Ramayana is back in the spotlight after a viral video claiming to show a scene from the film surfaced online. The clip has sparked discussions around its VFX quality and whether the footage is real or AI-generated."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/jana-nayagan-release-date-vijay-farewell-film-july-16-cbfc-delay-2938780-2026-07-02",
+      "headline": "Vijay's Jana Nayagan eyes July release as censor clearance buzz intensifies Unconfirmed reports say Vijay's Jana Nayagan could reach theatres in July after a long delay. The expected clearance from the censor board this week may help the makers lock the release plan."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/music/story/taylor-swift-and-travis-kelce-wedding-at-madison-square-garden-prompts-nypd-security-plan-zohran-mamdani-jokes-2938779-2026-07-02",
+      "headline": "Taylor-Travis wedding buzz: Police confirm security, Mamdani jokes 'stay inside' New York officials are preparing security cover around Madison Square Garden amid reports of Taylor Swift and Travis Kelce's wedding celebrations. Amid the speculation, Mayor Zohran Mamdani's joking remark has left everyone curious."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/welcome-to-the-jungle-box-office-day-6-akshay-kumar-film-crosses-rs-125-crore-worldwide-2938772-2026-07-02",
+      "headline": "Welcome To The Jungle box office Day 6: Akshay's film crosses Rs 125 crore worldwide Welcome To The Jungle crossed the Rs 125 crore mark at the worldwide box office on Day 6 despite witnessing a slight dip in its India collections. Akshay Kumar's comedy has now earned Rs 129.20 crore globally and Rs 87.50 crore nett in India."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/supergirl-in-super-mess-superman-legacy-led-to-milly-alcocks-100-million-crash-2938529-2026-07-02",
+      "headline": "Supergirl in super mess: Superman legacy led to Milly Alcock's $100-million crash? Milly Alcock's Supergirl is likely to incur at least $100-million loss. The threat of ending up DC's biggest box office disaster ever also looms large. What went wrong with Supergirl?"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/reviews/story/minions-monsters-review-a-delightful-ode-to-hollywood-friendship-big-dreams-2938771-2026-07-02",
+      "headline": "Minions & Monsters review: A delightful ode to Hollywood, friendship, big dreamsRelease Date:Thu Jul 02, 2026 Minions & Monsters movie review: The new instalment follows James, Henry and Ed as chaos turns them into Hollywood stars. The film uses that rise and fall to tell a warm story about dreams, friendship and loyalty."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/randeep-hooda-skips-mumbai-traffic-takes-metro-after-shoot-video-goes-viral-2938756-2026-07-02",
+      "headline": "Randeep Hooda ditches car for metro ride after shoot; video goes viral Actor Randeep Hooda was seen travelling on the Mumbai Metro after wrapping up his shoot, opting to avoid Mumbai's rain-hit traffic. A video of his commute has since gone viral on social media."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/kangana-ranaut-calls-out-ram-kapoors-attitude-in-lock-upp-2-dont-defend-yourself-2938753-2026-07-02",
+      "headline": "Kangana Ranaut shreds Ram Kapoor for his attitude in Lock Upp: Don't defend Actor-politician Kangana Ranaut slammed Ram Kapoor in the Lock Upp 2 promo, questioning his attitude and why he joined the reality show. The heated exchange will air in the upcoming Judgement Day episode on July 4."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/music/story/taylor-swift-travis-kelces-wedding-venue-staff-to-follow-strict-no-phone-policy-2938751-2026-07-02",
+      "headline": "Taylor Swift, Travis Kelce's wedding: Venue staff to follow strict no-phone policy Fresh reports claim strict security measures are in place for singer Taylor Swift and NFL star Travis Kelce's rumoured wedding, with venue staff allegedly barred from carrying phones during work. Employees are also said to face additional security checks as speculation around the high-profile celebration continues."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/farah-khan-thrilled-and-proud-after-academy-invites-her-to-oscar-voting-panel-2938694-2026-07-01",
@@ -141,73 +196,93 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/gautami-kapoor-reacts-after-ram-kapoors-lock-upp-infidelity-comment-goes-viral-2938403-2026-07-01",
       "headline": "Gautami Kapoor reacts after Ram Kapoor's Lock Upp infidelity comment goes viral Actor Gautami Kapoor has reacted after her husband Ram Kapoor's controversial Lock Upp comments on infidelity and marriage went viral. Her latest Instagram posts have left fans talking."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/music/story/are-taylor-swift-and-travis-kelce-getting-married-on-july-3-or-july-4-2937872-2026-07-01",
-      "headline": "Are Taylor Swift and Travis Kelce getting married on July 3 or July 4? Taylor Swift and Travis Kelce's rumoured July wedding has sent the internet into meltdown. Here's everything we know so far about the July 3 and July 4 speculation."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/exclusive-ali-fazal-on-how-mirzapur-the-movie-is-different-from-mirzapur-series-2938249-2026-07-01",
-      "headline": "Exclusive: Ali Fazal on how Mirzapur The Movie is different from Mirzapur series In an exclusive interview, actor Ali Fazal said Mirzapur: The Movie is a completely fresh big-screen story. He rejected claims that the film is a spin-off of the series."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/fans-dub-alia-bhatt-alpha-mama-after-she-shares-intense-workout-video-watch-2938324-2026-07-01",
-      "headline": "Fans dub Alia Bhatt 'Alpha mama' after she shares intense workout video. Watch Actor Alia Bhatt shared a high-intensity workout video as advance bookings for Alpha opened. The film also features actors Sharvari, Bobby Deol and Anil Kapoor in key roles."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/story/2026-box-office-surprises-karuppu-obsession-michael-underdog-hits-2938366-2026-07-01",
-      "headline": "Biggest box-office surprises of 2026 so far: Obsession, Karuppu to Haunted 3D A clutch of low-hype films from Hollywood, Hindi cinema and Tamil cinema has emerged as 2026's surprise box-office winners. Their runs showed that word of mouth, nostalgia and emotional pull could outpace star power and opening-day noise."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/ladies-ladies-yash-the-toxic-objectification-of-women-and-myth-of-female-gaze-2938159-2026-07-01",
-      "headline": "Ladies & Ladies: Yash, the toxic objectification of women and myth of female gaze Three years after promising a female gaze, Toxic's 'Ladies & Ladies' teaser introduces women only through Yash's desire - mistaking objectification for empowerment."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/7-best-stand-up-comedy-specials-to-watch-on-netflix-prime-video-2938368-2026-07-01",
-      "headline": "7 best stand-up comedy specials to watch on Netflix, Prime Video From Samay Raina and Vir Das to Trevor Noah and Taylor Tomlinson, these stand-up comedy specials promise plenty of laughs. Here's a list of seven shows across Netflix and Prime Video that are worth adding to your OTT watchlist."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/choreographer-bosco-martis-visits-church-after-hospital-discharge-shares-health-update-2938341-2026-07-01",
-      "headline": "Choreographer Bosco visits church after hospital discharge, shares health update Choreographer Bosco Martis has shared his first health update after being discharged from hospital following a week-long stay. His heartfelt message and visit to Mount Mary Basilica have drawn warm reactions from celebrities and fans."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/standpoint/story/ram-kapoor-and-dangerous-normalisation-of-cheating-in-film-industry-lock-upp-karan-johar-twinkle-khanna-2938076-2026-07-01",
-      "headline": "Ram Kapoor and the celebrity campaign to normalise cheating On Lock Upp, Ram Kapoor said cheating in a marriage is not a dealbreaker. Fine. Whatever works for him and others. But what is it with celebrities trying to normalise infidelity in these shows?"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/salman-khan-kala-hiran-plea-deferred-makers-halt-release-cbfc-move-till-monday-2938300-2026-07-01",
-      "headline": "Kala Hiran row: Case deferred; makers say censor submission to happen after Monday The Delhi High Court deferred Salman Khan's plea against the makers of Kala Hiran to Monday after they assured the court there would be no release or CBFC submission till then. The case now centres on Khan's claim of a personality rights violation and the makers' recorded undertaking."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/rajkumar-hirani-on-munna-bhai-sequel-pk-2-with-ranbir-kapoor-2938264-2026-07-01",
-      "headline": "Exclusive: Rajkumar Hirani on Munna Bhai sequel, PK 2 with Ranbir Kapoor While promoting Pritam and Pedro, Rajkumar Hirani said Munna Bhai 3 and a possible PK sequel are both on his mind."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/entertainment/television/story/erica-fernandes-108-base-hospital-uri-tv-comeback-after-5-years-2938250-2026-07-01",
-      "headline": "Actor Erica Fernandes returns to TV after 5 years with military-medical drama Erica Fernandes returns to television with 108 Base Hospital Uri, a medical-military drama set in an army hospital. The trailer highlights emergency trauma care, personal ties and the theme of Seva, Saahas and Samarpan."
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/us-iran-technical-talks-frozen-assets-release-and-communication-channel-agreed-in-doha-2938739-2026-07-02",
-      "headline": "What came out of US-Iran Doha talks? Frozen funds, communication channel and moreIndirect US-Iran talks in Doha ended with an agreement to partially release frozen Iranian funds and set up a channel for ceasefire disputes. The outcome signals cautious progress in a fragile truce, even as nuclear and sanctions issues remain unresolved."
+      "url": "https://www.indiatoday.in/technology/features/story/whatsapp-is-bringing-usernames-what-does-it-mean-for-privacy-and-cybersecurity-2938767-2026-07-02",
+      "headline": "WhatsApp is bringing usernames, what does it mean for privacy and cybersecurity?WhatsApp has announced that it is bringing usernames to the app. But this has sparked debate over how useful and secure usernames could be compared to phone numbers. And will usernames actually be used by people in India?"
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/cities/bengaluru/story/bengaluru-daycare-abuse-videos-hal-police-probe-capgemini-campus-toddler-case-2938592-2026-07-01",
+      "headline": "Toddlers put in washing machine, abused with jet spray in Bengaluru daycare horrorDisturbing visuals from a daycare operating inside Bengaluru's Capgemini campus have sparked widespread outrage, prompting police to register an FIR against five women caregivers and launch an investigation into the alleged abuse of children."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/belgium-vs-senegal-fifa-world-cup-2026-var-controversy-extra-time-penalty-tielemans-lukaku-2938748-2026-07-02",
-      "headline": "Senegal's night of promise ends in heartbreak as Belgium pull off the great escapeBelgium completed a stunning comeback from 2-0 down to beat Senegal 3-2 after extra time, with Youri Tielemans converting a controversial late VAR-awarded penalty. The Lions of Teranga were left heartbroken after seeing a famous World Cup upset slip away."
+      "url": "https://www.indiatoday.in/india/tamil-nadu/story/tamil-nadu-cm-vijay-tvk-saving-big-state-finance-public-works-contractors-thank-greater-chennai-corporation-gcc-2938192-2026-07-02",
+      "headline": "How Vijay govt is saving big for Tamil Nadu, and contractors are thanking himTamil Nadu Chief Minister C Joseph Vijay-led government's decision to open even the smallest public works projects for civic tender has resulted in contractors quoting sharply lower rates, resulting in big gains for the state's exchequer."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/india-visa-website-critique-the-economist-ashoka-column-debate-government-digital-services-upi-aadhaar-2938245-2026-07-02",
+      "headline": "Why can't India build a decent visa website, asks The Economist. Indians respondThe Economist's criticism of India's visa and other government websites has sparked strong reactions on social media. While some slammed the London-based magazine for its alleged biased views, others agreed with its opinion, and said the user experience needed to be improved."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/video/pune-fort-murder-case-chetan-bhagat-says-if-siya-is-guilty-law-will-punish-her-2938284-2026-07-01",
+      "headline": "Chetan Bhagat's viral take on Siya case, Indian parenting and regressive societyIn an exclusive interview with India Today, author and columnist Chetan Bhagat addressed the intense public scrutiny surrounding his column on the Pune murder mystery involving Siya Goyal."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/maruti-suzuki-kharkhoda-plant-narendra-modi-japan-pm-takaichi-launch-rs-35000-crore-haryana-facility-2938802-2026-07-02",
+      "headline": "PM Modi, Japan PM to inaugurate Maruti's Rs 35,000-crore mega car factory todayBuilt with a planned investment of around Rs 35,000 crore, the facility is expected to create more than 21,000 direct jobs while adding an annual production capacity of 10 lakh vehicles once fully operational."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/mumbai-rain-waterlogging-reservoirs-below-7-percent-why-lakes-are-not-full-2938221-2026-07-01",
+      "headline": "Why Mumbai's roads are full of water, but taps at homes are dryOne of the season's first intense spells of monsoon rain has inundated Mumbai's roads and subways. But, the reservoirs and lakes supplying drinking water to Mumbai are at seven percent of their capacity. We explain what's behind this paradox."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/auto/cars/story/vinfast-to-launch-the-vf-3-its-smaller-electric-car-in-late-2026-2938283-2026-07-01",
+      "headline": "This mini electric SUV is set to hit Indian roads this yearThe VinFast VF 3, set to arrive in India later this year, aims to bring affordable urban electric mobility with compact dimensions, SUV-inspired styling and a claimed driving range of up to 210 km."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/nyc-empire-state-building-climbers-propose-after-scaling-restricted-transmission-tower-2938689-2026-07-01",
+      "headline": "Watch: Russian couple climbs to top of NYC Empire State Building, then get engagedDressed in sleeveless black outfits and wearing face coverings, Angela Nikolau and Vanya Beerkus climbed to the top of the 1,454-foot skyscraper and stood on the narrow antenna while documenting the feat on social media."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/japan-pm-sanae-takaichi-india-visit-live-updates-annual-summit-talk-narendra-modi-2938770-2026-07-02",
+      "headline": "Live: Guard of Honour for Japan PM at Rashtrapati BhavanJapan PM India Visit Live Updates: In her first ever trip to India, Japanese Prime Minister Sanae Takaichi arrived in New Delhi for a three-day official visit. During her visit, Takaichi will hold wide-ranging talks with Prime Minister Narendra Modi at the 16th India-Japan Annual Summit, with discussions expected to focus on trade, investment, defence, technology and strengthening the Special Strategic and Global Partnership between the two nations. According to the Ministry of External Affairs, Takaichi will receive a ceremonial welcome at Rashtrapati Bhavan at 10 am today before meeting PM Modi at Hyderabad House. The two leaders will hold bilateral talks, followed by the exchange of MoUs and press statements at aroud 1 pm. Takaichi will address the India-Japan Business Forum at Hotel Taj Palace at 3 pm. The Japanese leader is scheduled to depart for Tokyo on Friday morning. Follow IndiaToday.in for the latest updates."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/china-myanmar-bangladesh-corridor-proposed-after-cpec-indias-east-pakistan-bri-indian-ocean-2938497-2026-07-02",
+      "headline": "A Chinese corridor to India's east? China plans Bangladesh route after Pak CPECAfter pouring billions of dollars into the CPEC in Pakistan, Beijing is now planning a corridor on India's eastern flank through Bangladesh and Myanmar. During Bangladeshi PM Tarique Rahman's China visit, Beijing proposed the construction of a multi-modal trade route to Bangladesh. What does it mean for India?"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/cities/pune/story/siya-goyal-video-ketan-agarwal-murder-case-old-pub-clip-pune-probe-2938764-2026-07-02",
+      "headline": "First he cheats, then calls: Old video shows Siya abusing on phone while partyingAn old video has surfaced showing Siya Goyal drinking at a pub and using abusive language during a heated phone call, in which she is heard saying, \"First he cheats on me, then he calls me.\""
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/kangana-ranaut-calls-out-ram-kapoors-attitude-in-lock-upp-2-dont-defend-yourself-2938753-2026-07-02",
+      "headline": "Kangana Ranaut shreds Ram Kapoor for his attitude in Lock Upp: Don't defendActor-politician Kangana Ranaut slammed Ram Kapoor in the Lock Upp 2 promo, questioning his attitude and why he joined the reality show. The heated exchange will air in the upcoming Judgement Day episode on July 4."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/8th-pay-commission-minimum-basic-pay-rs-18000-to-rs-69000-debate-explained-salary-pension-hike-news-2937302-2026-07-01",
+      "headline": "8th Pay Commission: From Rs 18,000 to Rs 69,000? Minimum pay debate explainedEmployee organisations believe the current minimum basic pay of Rs 18,000, introduced nearly a decade ago under the 7th Pay Commission, no longer reflects the cost of living. Depending on the method used, unions have proposed increasing it to anywhere between Rs 55,000 and nearly Rs 69,000."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/harry-kane-fifa-world-cup-goals-pele-record-england-vs-dr-congo-2938742-2026-07-02",
+      "headline": "Harry Kane's rocket sinks DR Congo, breaks Pele's World Cup record in styleHarry Kane scored twice as England came from behind to beat DR Congo 2-1 and reach the Round of 16. His late winner took him past Pele's World Cup tally as DR Congo coach Sebastien Desabre hailed him as the world's best striker."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/aaditya-thackeray-eknath-shinde-devendra-fadnavis-sena-ubt-defection-row-widens-2938700-2026-07-01",
+      "headline": "Sena defections engineered by Eknath Shinde to weaken Fadnavis: Aaditya ThackerayWhen asked whether the Shiv Sena (UBT) suffers from a perception problem of being family-run organisations, Aaditya Thackeray said he was \"very proud\" of his family legacy and insisted that political legitimacy ultimately comes from electoral acceptance."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/technology/news/story/explained-why-has-india-asked-whatsapp-to-pause-username-rollout-2938784-2026-07-02",
+      "headline": "Explained: Why has India asked WhatsApp to pause username rollout?India has ordered Meta to pause the WhatsApp username feature amid concerns of privacy and security of users. But why? Here is everything you need to know about the new feature, and what it means for you."
     },
     {
       "sentiment": "negative",
@@ -216,53 +291,23 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/usa-vs-bosnia-herzegovina-live-score-fifa-world-cup-2026-updates-round-of-32-knockout-2938747-2026-07-02",
-      "headline": "USA 0-0 BIH Live: USA off to a positive start after kick-offUSA vs Bosnia & Herzegovina (BIH) Live, FIFA World Cup: The United States have settled quickly, dominating possession and forcing successive corners through Christian Pulisic as Bosnia and Herzegovina are pinned back in the opening five minutes."
+      "url": "https://www.indiatoday.in/movies/hollywood/story/supergirl-in-super-mess-superman-legacy-led-to-milly-alcocks-100-million-crash-2938529-2026-07-02",
+      "headline": "Supergirl in super mess: Superman legacy led to Milly Alcock's $100-million crash?Milly Alcock's Supergirl is likely to incur at least $100-million loss. The threat of ending up DC's biggest box office disaster ever also looms large. What went wrong with Supergirl?"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/tamil-nadu/story/tamil-nadu-cm-vijay-governance-style-right-messaging-dmk-aiadmk-criticism-2937290-2026-07-01",
-      "headline": "10 to 6 in office, AC bus and Hindu funds: How CM Vijay silenced his criticsFrom the day he entered politics, C Joseph Vijay was dismissed by his critics as inexperienced and unfit to govern. Yet, Tamil Nadu voted him to power. Just as his films opened to blockbuster success, his first moves as the chief minister have won him praise and silenced his critics."
+      "url": "https://www.indiatoday.in/technology/news/story/chinese-company-launches-robots-for-companionship-they-have-silicon-skin-and-emotional-ai-2938757-2026-07-02",
+      "headline": "Chinese firm launches companion robots with silicon skin and Emotional AIImagine having a robot that remembers your conversations, reads your emotions and even maintains eye contact. That's exactly what Chinese robotics company UBTech is promising with its new humanoid companion, as it looks to bring AI-powered robots from factories into everyday homes."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/story/govt-directs-meta-to-explain-whatsapp-usernames-feature-in-3-days-pauses-future-rollout-sources-2938541-2026-07-01",
-      "headline": "Govt orders Meta to pause WhatsApp username rollout, seeks reply in 3 daysThe government's move came as WhatsApp prepares to introduce one of its biggest privacy changes by allowing users to connect through unique usernames instead of sharing their mobile phone numbers."
+      "url": "https://www.indiatoday.in/entertainment/music/story/taylor-swift-travis-kelces-wedding-venue-staff-to-follow-strict-no-phone-policy-2938751-2026-07-02",
+      "headline": "Taylor Swift, Travis Kelce's wedding: Venue staff to follow strict no-phone policyFresh reports claim strict security measures are in place for singer Taylor Swift and NFL star Travis Kelce's rumoured wedding, with venue staff allegedly barred from carrying phones during work. Employees are also said to face additional security checks as speculation around the high-profile celebration continues."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/tamil-nadu/story/vijay-tvk-aiadmk-leaders-mamallapuram-induction-dmk-tamil-nadu-2938710-2026-07-01",
-      "headline": "AIADMK exodus? Ex-ministers, MLAs, hundreds of cadres set to join TVK todayAt least five former AIADMK ministers, around 15 former MLAs and hundreds of cadres are set to join TVK on Thursday, marking a significant boost for Chief Minister Vijay's party."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/harry-kane-england-dr-congo-world-cup-brace-keeps-hopes-alive-2938717-2026-07-01",
-      "headline": "Captain Kane to the rescue as England survive DR Congo scareFIFA World Cup 2026: Harry Kane rescued England from a major scare with a decisive brace, overturning a shock DR Congo lead in a tense World Cup knockout clash. Despite a disciplined and fearless performance from the Leopards, England's quality and late momentum shift secured their progression."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/nyc-empire-state-building-climbers-propose-after-scaling-restricted-transmission-tower-2938689-2026-07-01",
-      "headline": "Watch: Russian couple climb to top of NYC Empire State Building, then get engagedDressed in sleeveless black outfits and wearing face coverings, Angela Nikolau and Vanya Beerkus climbed to the top of the 1,454-foot skyscraper and stood on the narrow antenna while documenting the feat on social media."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-england-1st-t20i-shreyas-iyer-rain-abhishek-sharma-shreyas-iyer-2938741-2026-07-02",
-      "headline": "Shreyas Iyer's wait for first win as India captain prolongs after Durham T20I washoutENG vs IND, 1st T20I: Abhishek Sharma's blistering 59 and Shreyas Iyer's fluent 68 powered India to 189 for 7 in the opening T20I against England, but persistent rain prevented the hosts from beginning their chase in Durham."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/bengaluru/story/bengaluru-daycare-abuse-videos-hal-police-probe-capgemini-campus-toddler-case-2938592-2026-07-01",
-      "headline": "Toddlers stuffed into washing machine, sprayed with toilet jet at Bengaluru daycareThe alleged abuse came to light after videos purportedly showing the incidents went viral on social media. Police said they have issued notices to the five accused caregivers and begun an investigation into the allegations."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/novak-djokovic-wimbledon-2026-ball-girl-prank-stefanos-tsitsipas-win-2938743-2026-07-02",
-      "headline": "Novak Djokovic pranks ball girl, then outclasses Stefanos Tsitsipas to reach Round 3Novak Djokovic entertained Centre Court with a playful prank on a ball girl before cruising past Stefanos Tsitsipas 6-3, 6-4, 6-2 to reach the third round of Wimbledon 2026 on Wednesday."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/standpoint/story/ram-kapoor-and-dangerous-normalisation-of-cheating-in-film-industry-lock-upp-karan-johar-twinkle-khanna-2938076-2026-07-01",
-      "headline": "Ram Kapoor and the celebrity campaign to normalise cheatingOn Lock Upp, Ram Kapoor said cheating in a marriage is not a dealbreaker. Fine. Whatever works for him and others. But what is it with celebrities trying to normalise infidelity in these shows?"
+      "url": "https://www.indiatoday.in/science/story/heavy-rain-lashes-several-parts-of-delhi-ncr-yellow-alert-issued-thunderstorms-predicted-for-today-2938766-2026-07-02",
+      "headline": "Rain lashes several parts of Delhi-NCR; red alert issued, thunderstorms predictedThe IMD upgraded its weather warning from a yellow alert to a red alert as rain along with intense thunderstorms and squally winds swept across the region, bringing much-needed relief from the hot and humid conditions that had persisted over the past few days."
     },
     {
       "sentiment": "positive",
@@ -271,60 +316,45 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/virat-kohli-training-sanjay-bangar-england-odi-series-return-viral-video-2938738-2026-07-02",
-      "headline": "Kohli training with Sanjay Bangar in viral video fuels England ODI return buzzVirat Kohli's training session with former India batting coach Sanjay Bangar has set social media abuzz ahead of the England ODI series. With his return nearing after retiring from Tests and T20Is, fans are hoping the hard work in the nets translates into another vintage Kohli chapter."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/atal-tunnel-accident-tourist-killed-as-suv-crashes-into-under-construction-bridge-in-himachal-pradesh-2938745-2026-07-02",
-      "headline": "Tourist killed as SUV crashes into under-construction bridge near Atal TunnelThree other tourists sustained injuries in the accident. The impact of the crash was so severe that iron bars protruding from the unfinished structure pierced into the vehicle, leaving it mangled."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/delhi-government-ev-policy-electric-two-wheeler-bikes-rekha-gupta-bjp-hybrid-rules-reason-explained-2937581-2026-07-01",
-      "headline": "Why Delhi's new EV policy targets bikes first, not carsThe Delhi government has announced its electric vehicle (EV) policy that will stop registration of petrol two-wheelers from April 1, 2028. Why is the policy focusing on two-wheelers and three-wheelers first? Here's all you need to know."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/us-navy-helicopter-goes-down-in-arabian-sea-1-service-member-missing-3-injured-2938734-2026-07-02",
-      "headline": "US Navy Seahawk makes emergency landing in Arabian Sea; 1 crew member missingUS Naval Forces Central Command said there was no indication the aircraft had been brought down by hostile action, even as US forces remain on heightened alert in the Middle East."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/india-pakistan-peace-appeal-117-citizens-urge-modi-sharif-to-restore-dialogue-2938126-2026-07-01",
-      "headline": "An open letter from 117 eminent India and Pak citizens to PM Modi, SharifMore than 100 eminent figures from India and Pakistan have urged PM Modi and Pakistani counterpart Shehbaz Sharif to restore dialogue and normal bilateral ties, including reinstating High Commissioners, resuming visa services and reopening airspace."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/donald-trump-made-white-house-comeback-with-2-billion-dollar-jackpot-crypto-golf-clubs-global-deals-2938447-2026-07-01",
-      "headline": "Crypto, global deals: Trump made White House comeback with a $2.2 billion jackpotDonald Trump's business earnings soared after he returned to office. His enterprises generated at least $2.2 billion in revenue in 2025, up from a minimum of $622 million in 2024, according to The New York Times."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/in-the-name-of-rama-fresh-ramayana-spins-box-office-test-2935802-2026-06-29",
-      "headline": "In the name of Rama: Fresh Ramayana spins face box office testRamayana, Varanasi and Alpha aim to recast elements of the epic. But recent experiments with the epic have strived to find takers among a deeply reverential audience."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/indian-sailor-death-venezuela-body-returned-all-organs-missing-brain-liver-heart-stitches-heart-attack-rakesh-chauhan-2938131-2026-07-01",
-      "headline": "Brain, heart, lungs missing from body of Indian sailor returned by VenezuelaRakesh Chauhan died while on duty on a ship in Venezuela, and his body reached Deoria nearly a month later. A second post-mortem ordered by the district magistrate found all the organs missing, prompting the family to seek an investigation and compensation."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/red-bull-pepsico-monster-among-six-energy-drink-brands-served-fssai-notices-over-misbranding-2938631-2026-07-01",
-      "headline": "Red Bull, PepsiCo, Sting among 6 energy drink brands get FSSAI noticesThe FSSAI issued notices to six energy drink brands -- Red Bull Energy Drink, PepsiCo's Adrenaline Rush Energy Drink, Reliance Consumer Products' Campa Energy Drink Gold Boost, Sting Energy Drink, Hell Energy and Coca-Cola-backed Monster Energy -- over misbranding and misleading claims."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/amazon-sued-for-introducing-ads-in-prime-video-for-charging-extra-for-ad-free-streaming-2937948-2026-07-01",
-      "headline": "Amazon sued for Prime Video ads, charging extra to remove themAmazon is facing legal trouble in Australia after introducing ads to Prime Video and asking subscribers to pay extra for an ad-free experience."
+      "url": "https://www.indiatoday.in/india/story/ram-temple-donation-case-ayodhya-police-probe-job-bribes-in-125-appointments-2938777-2026-07-02",
+      "headline": "Ram Mandir donation theft: Cops probe bribe-for-job charge in recruitment driveAyodhya Police have widened the Ram Temple donation case to examine alleged bribes for appointments at the temple establishment. The probe now spans recruitment records, bank trails, trust-linked assets and the role of a trust member under scrutiny."
     }
   ],
   "sports": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/novak-djokovic-defends-serena-williams-wimbledon-return-2938789-2026-07-02",
+      "headline": "Djokovic defends Serena Williams's Wimbledon return: Just enjoy her greatness Novak Djokovic has urged fans to celebrate Serena Williams's return to Wimbledon rather than rush to criticise her after the 44-year-old's comeback ended in a first-round defeat."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/england-vs-south-africa-womens-t20-world-cup-semi-final-nat-sciver-brunt-fit-oval-clash-2938561-2026-07-02",
+      "headline": "England out to break South Africa curse with Nat Sciver-Brunt boost for semis Women's T20 World Cup, ENG vs SA: England have lost their last two knockout matches against South Africa and will be eager to snap that streak when the two sides meet in the second semi-final at The Kennington Oval in London on Thursday."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-india-debut-wait-pressure-sunil-gavaskar-2938773-2026-07-02",
+      "headline": "Sooryavanshi's wait for India debut will put him under more pressure: Gavaskar Batting great Sunil Gavaskar believes delaying Vaibhav Sooryavanshi's senior India debut will only increase the pressure on the teenage opener, who was once again left out of the playing XI for the opening T20I against England on Wednesday."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/usa-keep-world-cup-dream-alive-beat-bosnia-herzegovina-reach-last-16-2938768-2026-07-02",
+      "headline": "10-man USA keep dream alive, reach last 16 with win over Bosnia & Herzegovina Malik Tillman spared the United States an anxious finish with a sublime late free-kick as the co-hosts defeated Bosnia and Herzegovina 2-0 on Wednesday to reach the World Cup Round of 16, despite playing the final stages with 10 men after Folarin Balogun's dismissal."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/dr-congo-coach-sebastien-desabre-father-death-press-conference-england-loss-world-cup-2938759-2026-07-02",
+      "headline": "Heartbreaking moment as DR Congo coach learns of father's death after World Cup exit Moments after DR Congo's 1-2 defeat to England ended their historic World Cup run, coach Sebastien Desabre was informed of his father's death during the post-match press conference."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/thomas-tuchel-parents-children-england-vs-mexico-world-cup-2938755-2026-07-02",
+      "headline": "Thomas Tuchel urges parents to let children stay up for England's clash with Mexico England manager Thomas Tuchel may have slept through Mexico's victory over Ecuador, but after his side's dramatic 2-1 comeback win over DR Congo sealed a place in the World Cup Round of 16, he had a message for parents back home: let the children stay up to watch Sunday's showdown at the Azteca Stadium."
+    },
+    {
+      "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/football/story/usa-vs-bosnia-herzegovina-live-score-fifa-world-cup-2026-updates-round-of-32-knockout-2938747-2026-07-02",
-      "headline": "USA 0-0 BIH Live: USA off to a positive start after kick-off USA vs Bosnia & Herzegovina (BIH) Live, FIFA World Cup: The United States have settled quickly, dominating possession and forcing successive corners through Christian Pulisic as Bosnia and Herzegovina are pinned back in the opening five minutes."
+      "headline": "USA 2-0 BIH Live: Balogun, Tillman fire USA into Round of 16 USA vs Bosnia & Herzegovina (BIH) Live, FIFA World Cup: Full-time: The United States are into the Round of 16 after a composed 2-0 victory over Bosnia and Herzegovina in San Francisco. Folarin Balogun broke the deadlock late in the first half before Malik Tillman doubled the advantage after the interval to seal progression. The hosts also overcame Balogun's second-half red card, producing a disciplined defensive display to see out the contest with 10 men and book their place in the next round."
     },
     {
       "sentiment": "positive",
@@ -349,32 +379,32 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-england-1st-t20i-shreyas-iyer-rain-abhishek-sharma-shreyas-iyer-2938741-2026-07-02",
-      "headline": "Shreyas Iyer's wait for first win as India captain prolongs after Durham T20I washout ENG vs IND, 1st T20I: Abhishek Sharma's blistering 59 and Shreyas Iyer's fluent 68 powered India to 189 for 7 in the opening T20I against England, but persistent rain prevented the hosts from beginning their chase in Durham."
+      "headline": "Shreyas Iyer's wait for first win as India captain prolongs after Durham T20I washoutENG vs IND, 1st T20I: Abhishek Sharma's blistering 59 and Shreyas Iyer's fluent 68 powered India to 189 for 7 in the opening T20I against England, but persistent rain prevented the hosts from beginning their chase in Durham."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/virat-kohli-training-sanjay-bangar-england-odi-series-return-viral-video-2938738-2026-07-02",
-      "headline": "Kohli training with Sanjay Bangar in viral video fuels England ODI return buzz Virat Kohli's training session with former India batting coach Sanjay Bangar has set social media abuzz ahead of the England ODI series. With his return nearing after retiring from Tests and T20Is, fans are hoping the hard work in the nets translates into another vintage Kohli chapter."
+      "headline": "Kohli training with Sanjay Bangar in viral video fuels England ODI return buzzVirat Kohli's training session with former India batting coach Sanjay Bangar has set social media abuzz ahead of the England ODI series. With his return nearing after retiring from Tests and T20Is, fans are hoping the hard work in the nets translates into another vintage Kohli chapter."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/video/womens-t20-world-cup-semifinal-south-africa-vs-england-laura-wolvaardt-press-conference-2938736-2026-07-02",
-      "headline": "South Africa not at peak, but England will be under pressure: Laura Wolvaardt Women's T20 World Cup, ENG vs SA: Speaking to reporters ahead of the semi-final at The Oval, Laura Wolvaardt admitted that South Africa are yet to produce their best cricket in the tournament, but said her side would look to capitalise on the pressure England will be under in the knockout clash."
+      "headline": "South Africa not at peak, but England will be under pressure: Laura WolvaardtWomen's T20 World Cup, ENG vs SA: Speaking to reporters ahead of the semi-final at The Oval, Laura Wolvaardt admitted that South Africa are yet to produce their best cricket in the tournament, but said her side would look to capitalise on the pressure England will be under in the knockout clash."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/wimbledon-barbora-krejcikova-beats-mirra-andreeva-in-centre-court-comeback-2938733-2026-07-02",
-      "headline": "French Open champion Mirra Andreeva makes shock exit in Round 2 Barbora Krejcikova battled back from a set down to defeat Mirra Andreeva 4-6, 7-5, 6-4, knocking the reigning French Open champion out in the second round of Wimbledon."
+      "headline": "French Open champion Mirra Andreeva makes shock exit in Round 2Barbora Krejcikova battled back from a set down to defeat Mirra Andreeva 4-6, 7-5, 6-4, knocking the reigning French Open champion out in the second round of Wimbledon."
     },
     {
-      "sentiment": "negative",
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/belgium-vs-senegal-live-score-fifa-world-cup-2026-updates-round-of-32-knockout-2938728-2026-07-02",
-      "headline": "BEL vs SEN Highlights: Late controversial penalty sends Belgium past Senegal 3-2 Belgium vs Senegal Highlights, FIFA World Cup 2026: (BEL 3-2 SEN) Belgium staged a dramatic comeback to beat Senegal in a tense knockout clash, overturning a late deficit before edging a controversial extra-time finish. Senegal will feel hard done by after dominating large spells but falling short in the decisive moments."
+      "headline": "BEL vs SEN Highlights: Late controversial penalty sends Belgium past Senegal 3-2Belgium vs Senegal Highlights, FIFA World Cup 2026: (BEL 3-2 SEN) Belgium staged a dramatic comeback to beat Senegal in a tense knockout clash, overturning a late deficit before edging a controversial extra-time finish. Senegal will feel hard done by after dominating large spells but falling short in the decisive moments."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/video/womens-t20-world-cup-england-vs-south-africa-nat-sciver-brunt-press-conference-2938727-2026-07-02",
-      "headline": "Nat Sciver-Brunt plays down title talk as England seek to end World Cup drought Women's T20 World Cup, ENG vs SA: Speaking to the reporters before the semis against South Africa, Nat Sciver-Brunt said that England aren't worried about not winning world titles since 2017 and will go one match at a time to reach their goal."
+      "headline": "Nat Sciver-Brunt plays down title talk as England seek to end World Cup droughtWomen's T20 World Cup, ENG vs SA: Speaking to the reporters before the semis against South Africa, Nat Sciver-Brunt said that England aren't worried about not winning world titles since 2017 and will go one match at a time to reach their goal."
     },
     {
       "sentiment": "positive",
@@ -440,36 +470,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/erling-haaland-fifa-world-cup-norway-vs-brazil-2938209-2026-07-01",
       "headline": "The Vikings are coming: Haaland stands in the way of Brazil in FIFA World CupErling Haaland's winning goal sent Norway into the Round of 16 of the FIFA World Cup 2026. The team will now face 5-time champions Brazil in their second knockout fixture."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/athletics/story/indian-athletics-inter-state-championship-odisha-2938160-2026-07-01",
-      "headline": "How the relentless domestic circuit is shaping Indian athleticsIndian athletics is entering a new era where reputation offers no guarantees and domestic competition has become as ruthless as the global stage. At the Inter-State Championships in Bhubaneswar, established stars were pushed aside as emerging talent turned qualification battles into career-defining contests."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ishan-kishan-replace-abhishek-new-no-1-t20i-batter-icc-rankings-2938177-2026-07-01",
-      "headline": "ICC rankings: Ishan Kishan replaces Abhishek Sharma as the new No. 1 T20I batterIshan Kishan has climbed to the top of the ICC Men's T20I batting rankings for the first time, replacing teammate Abhishek Sharma to become the world's No. 1 batter in the shortest format."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/mexico-fans-celebrate-historic-world-cup-knockout-win-video-2938110-2026-07-01",
-      "headline": "Watch: Jubilant fans take over streets of Mexico after historic World Cup winThe celebrations began inside the Azteca Stadium and quickly spilled onto the streets as Mexico ended a 40-year wait for a FIFA World Cup knockout victory. Fans across Mexico City erupted in celebration after El Tri booked their place in the Round of 16."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/shreyas-iyer-vimal-kumar-controversy-ind-vs-eng-t20i-2938099-2026-07-01",
-      "headline": "After embarrassing Ireland loss, did Shreyas Iyer snap at reporter?India are set for a quick turnover from the Ireland series as they take on England, starting July 1. Ahead of the opening game in Durham, fans have hit out at newly-appointed captain Shreyas Iyer for allegedly losing his cool against a journalist."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-england-graeme-swann-jofra-archer-vaibhav-sooryavanshi-t20is-2938090-2026-07-01",
-      "headline": "Jofra Archer tipped to test red-hot Vaibhav Sooryavanshi in England T20IsFormer England spinner Graeme Swann believes England will struggle to contain Vaibhav Sooryavanshi in the upcoming T20I series, although he feels Jofra Archer could prove to be the teenager's toughest test."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/mexico-first-world-cup-knockout-win-40-years-ecuador-reach-last-16-2938018-2026-07-01",
-      "headline": "Mexico secure first knockout win in 40 years, oust Ecuador to reach last 16Azteca was rocking long before kick-off and the celebrations continued well after the final whistle as Mexico beat Ecuador 2-0 to register their first FIFA World Cup knockout victory in 40 years and book a place in the last 16."
     }
   ],
   "education": [
