@@ -201,6 +201,11 @@
   "general news": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/us-launches-strikes-on-iran-after-attacks-on-3-commercial-ships-in-strait-of-hormuz-2942956-2026-07-08",
+      "headline": "US launches strikes on Iran after attacks on 3 commercial ships in Strait of HormuzThe United States launched military strikes on Iran after accusing Tehran of attacking three commercial vessels in the Strait of Hormuz, while Iranian media reported multiple explosions in southern Iran. The escalation followed projectile attacks on three tankers in the strategic waterway."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/lionel-messi-argentina-vs-egypt-report-epic-comeback-win-quarter-finals-2942932-2026-07-08",
       "headline": "Messi magic masks Argentina's flaws in epic comeback win over EgyptFIFA World Cup 2026: Argentina came from two goals down to beat Egypt 3-2 in Atlanta after Messi drove the fightback. The escape sent the holders into the quarter-finals but also exposed their reliance on the captain."
     },
@@ -215,11 +220,6 @@
       "headline": "US left with only nuke option: Tehran Deputy Mayor warns Trump over attacking IranResponding to a question on whether there were concerns about Israel or the US targeting the funeral procession, Hamidreza Gholamzadeh claimed both countries had considered disrupting the event but ultimately refrained."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/switzerland-vs-colombia-live-score-fifa-world-cup-round-of-16-updates-vancouver-rodriguez-xhaka-2942934-2026-07-08",
-      "headline": "SUI vs COL Live: Swiss steel meets Colombian flair in R16Switzerland vs Colombia Live, FIFA World Cup 2026: The players are out in Charlotte and the national anthems are underway. Switzerland and Colombia are just moments away from kicking off their Round of 16 clash, with a quarter-final meeting against Argentina on the line."
-    },
-    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/cities/gurugram/story/nh-48-road-cave-in-gurugram-traffic-jam-diversions-heavy-rain-north-india-weather-2942696-2026-07-07",
       "headline": "Watch: Road caves in on highway in Gurugram amid rain, triggers 10-km traffic jamA section of NH-48 caved in near Sunbeam company in Gurugram's Narsinghpur area. The collapse triggered a long jam from IFFCO Chowk to Narsinghpur and prompted a diversion advisory."
@@ -227,22 +227,37 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/wimbledon-live-score-quarterfinals-jannik-sinner-novak-djokovic-results-2942575-2026-07-07",
-      "headline": "QF live: Djokovic level with Auger-Aliassime 1-1 after two setsWimbledon 2026: Novak Djokovic and Felix Auger-Aliassime are in action in the men's quarterfinal match. Djokovic is battling a calf injury, but has been able to win the first set 12-10 in tiebreaks. FAA has made a comeback with a 6-3 win in the second set. Earlier, defending champion Jannik Sinner beat Germany's Jan-Lennard Struff in three sets."
+      "headline": "QF live: Novak Djokovic defies the odds to beat Auger-AliassimeWimbledon 2026: Novak Djokovic and Felix Auger-Aliassime are in action in the men's quarterfinal match. Djokovic is battling a calf injury, but has been able to hold up to the Canadian youngster. Both players have won two sets each and the game will now be decided by the fifth and final set of the match."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/third-tanker-hit-by-unidentified-projectile-in-hormuz-within-24-hours-amid-us-iran-tensions-2942726-2026-07-07",
-      "headline": "3 tankers hit in latest attacks in Hormuz within 24 hours amid US-Iran tensionsThe latest incident followed Qatar's accusation that Iran attacked its LNG carrier, Al Rekayyat, while it was sailing through the Strait of Hormuz overnight."
+      "url": "https://www.indiatoday.in/sports/football/story/argentina-vs-egypt-var-controversy-ziko-goal-ruled-out-round-of-16-2942950-2026-07-08",
+      "headline": "Did VAR save Argentina again? Egypt left fuming after World Cup controversyFIFA World Cup 2026: Argentina beat Egypt 3-2 to reach the World Cup quarter-finals after VAR disallowed Mostafa Ziko's goal. The decision, and a later non-review before Enzo Fernandez's winner, left Egypt raging over inconsistency."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/palghar-rain-vasai-floods-virar-trains-commuters-walk-on-tracks-2942778-2026-07-07",
-      "headline": "Video: Heavy rain hits Maharashtra, commuters trek home on flooded tracks in PalgharFlooded roads, stalled trains, tractors replacing transport and commuters trekking along railway tracks - relentless rain has brought parts of Palghar to a standstill, leaving thousands struggling to get home."
+      "headline": "Video: Commuters wade through flooded tracks in Maharashtra's Palghar amid rainFlooded roads, stalled trains, tractors replacing transport and commuters trekking along railway tracks - relentless rain has brought parts of Palghar to a standstill, leaving thousands struggling to get home."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/switzerland-vs-colombia-live-score-fifa-world-cup-round-of-16-updates-vancouver-rodriguez-xhaka-2942934-2026-07-08",
+      "headline": "SUI 0-0 COL Live: Extra time to decide Messi's QF opponentsSwitzerland vs Colombia Live, FIFA World Cup 2026: (SUI 0-0 COL) Neither side has done quite enough to deserve a winner, with a tense tactical battle replacing attacking flair. As the clock ticks down, this last-16 tie will need another 30 minutes to separate them."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/pakistan-cargo-plane-missing-k2-airways-boeing-737-loses-contact-near-karachi-2942954-2026-07-08",
+      "headline": "Pak cargo plane with five on board loses contact near Karachi after tech glitchA Pakistan-registered K2 Airways cargo Boeing 737 lost contact with controllers after reporting a navigational system problem on a Sharjah-Karachi flight."
     },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/wayanad-tunnel-landslide-surat-mumbai-rain-deaths-monsoon-kerala-maharashtra-gujarat-2942814-2026-07-07",
       "headline": "15 killed as monsoon fury hits Kerala, Maharashtra, Gujarat; IMD warns of more rainIndia's monsoon turned deadly on Tuesday, with landslides, floods and rain-related incidents claiming lives from Kerala to Gujarat and disrupting normal life across several states. The IMD has warned of intensified rainfall over the next three days."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/lifestyle/fashion/story/anshula-kapoor-red-banarasi-saree-wedding-reception-look-2942888-2026-07-07",
+      "headline": "Anshula Kapoor let every wedding look tell a story. Her cocktail outfit brought it full circleAnshula Kapoor wore a reimagined Banarasi saree by Amit Aggarwal for her first post-wedding evening with Rohan Thakkar. The look brought together personal history, Indian craftsmanship and a modern couture edge."
     },
     {
       "sentiment": "positive",
@@ -256,13 +271,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/fashion/story/anshula-kapoor-red-banarasi-saree-wedding-reception-look-2942888-2026-07-07",
-      "headline": "Anshula Kapoor let every wedding look tell a story. Her cocktail outfit brought it full circleAnshula Kapoor wore a reimagined Banarasi saree by Amit Aggarwal for her first post-wedding evening with Rohan Thakkar. The look brought together personal history, Indian craftsmanship and a modern couture edge."
+      "url": "https://www.indiatoday.in/world/story/donald-trump-giorgia-meloni-iran-conflict-italy-refused-us-support-nato-summit-2942840-2026-07-07",
+      "headline": "I like her, but she made mistake: Trump on Meloni's stance on IranDonald Trump said Giorgia Meloni's refusal to support Washington during the Iran conflict had damaged their relationship. The dispute has exposed wider policy differences between Rome and Washington ahead of a tense NATO summit meeting."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/donald-trump-giorgia-meloni-iran-conflict-italy-refused-us-support-nato-summit-2942840-2026-07-07",
-      "headline": "I like her, but she made mistake: Trump on Meloni's stance on IranDonald Trump said Giorgia Meloni's refusal to support Washington during the Iran conflict had damaged their relationship. The dispute has exposed wider policy differences between Rome and Washington ahead of a tense NATO summit meeting."
+      "url": "https://www.indiatoday.in/world/story/bangladesh-teesta-river-restoration-project-china-mou-tarique-rahman-india-siliguri-corridor-chickens-neck-2940059-2026-07-07",
+      "headline": "How Bangladesh, China are putting India to a big Teesta testDuring Bangladesh PM Tarique Rahman's China visit, Beijing agreed to accelerate a feasibility study for the Teesta river project near India's Siliguri Corridor. China had been angling for it for years but was held back by the Sheikh Hasina government's caution. That's no longer the case. This is why India will be looking closely at this development."
     },
     {
       "sentiment": "negative",
@@ -275,14 +290,14 @@
       "headline": "Uddhav Sena to hold march over Ram temple donation row, targets Devendra FadnavisThe announcement was made during a crucial meeting of Shiv Sena (UBT) MLAs at Matoshree, where Thackeray outlined the party's political strategy and organisational roadmap ahead of key electoral battles."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/bangladesh-teesta-river-restoration-project-china-mou-tarique-rahman-india-siliguri-corridor-chickens-neck-2940059-2026-07-07",
-      "headline": "How Bangladesh, China are putting India to a big Teesta testDuring Bangladesh PM Tarique Rahman's China visit, Beijing agreed to accelerate a feasibility study for the Teesta river project near India's Siliguri Corridor. China had been angling for it for years but was held back by the Sheikh Hasina government's caution. That's no longer the case. This is why India will be looking closely at this development."
-    },
-    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/science/story/imd-rain-forecast-july-9-heavy-rainfall-india-monsoon-weather-update-2942455-2026-07-07",
       "headline": "Brace for heavy rain: Monsoon to drench Northwest, East India on WednesdayIMD has forecast widespread rain across India as the southwest monsoon continues to advance, getting closer to covering the entire country."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/kerala/story/wayanad-landslide-cctv-tanker-swept-away-near-twin-tunnel-site-2942617-2026-07-07",
+      "headline": "Video: Miraculous escape for bystanders as landslide sweeps fuel tanker in WayanadWayanad: The landslide, which struck near Meenakshi Bridge following incessant rainfall, has claimed at least three lives, injured eight people and left seven workers missing, officials said."
     },
     {
       "sentiment": "positive",
@@ -295,27 +310,27 @@
       "headline": "The daring story behind PM Modi's praise for Biju Patnaik in IndonesiaToday, many remember Biju Patnaik as the former Chief Minister of Odisha. But before that, Patnaik was an ace pilot who played crucial roles during the Indian and Indonesian freedom struggles. Read on to find out why PM Modi praised Patnaik in Indonesia."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/kerala/story/wayanad-landslide-cctv-tanker-swept-away-near-twin-tunnel-site-2942617-2026-07-07",
-      "headline": "Video: Miraculous escape for bystanders as landslide sweeps fuel tanker in WayanadWayanad: The landslide, which struck near Meenakshi Bridge following incessant rainfall, has claimed at least three lives, injured eight people and left seven workers missing, officials said."
-    },
-    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/e20-petrol-concerns-hardeep-puri-says-no-major-issues-e25-move-ethanol-2942880-2026-07-07",
       "headline": "Misrepresentation: Hardeep Puri dismisses concerns over E20 fuelHardeep Singh Puri said the transition towards higher ethanol blends would continue in a phased manner, based on technical studies and industry feedback."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/khamenei-funeral-iran-thanks-india-us-pressure-13-countries-withdraw-delegation-african-asian-marco-rubio-2941919-2026-07-07",
-      "headline": "Khamenei funeral: Iran thanks India, says US threats made 13 countries stay awayIran thanked India for attending Ayatollah Ali Khamenei's state funeral in Tehran. The message came even as Iran's semi-official Tasnim News Agency said that US pressure led at least 13 countries, including two Gulf nations, to scale back or cancel participation."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/tamil-nadu/story/tamil-nadu-govt-hikes-liquor-shop-employees-salaries-by-25-minister-says-decision-taken-after-20-years-2942618-2026-07-07",
-      "headline": "Vijay govt hikes TASMAC staff salaries by 25%, first revision in 20 yearsThe Tamil Nadu government has announced a major pay hike for TASMAC employees, linking it directly to efforts to curb corruption and overcharging. But will the move end complaints from liquor buyers?"
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/gautam-gambhir-sanju-samson-dropped-clarification-eng-vs-ind-3rd-t20i-2942957-2026-07-08",
+      "headline": "Is this the last of Sanju Samson in T20Is? Gambhir clarifies shock selection call Gautam Gambhir has insisted Sanju Samson remains in India's T20I plans despite his surprise omission against England. The India coach said selection is based on form and results, while leaving the door open for the World Cup hero to make a comeback."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/argentina-vs-egypt-var-controversy-ziko-goal-ruled-out-round-of-16-2942950-2026-07-08",
+      "headline": "Did VAR save Argentina again? Egypt left fuming after World Cup controversy FIFA World Cup 2026: Argentina beat Egypt 3-2 to reach the World Cup quarter-finals after VAR disallowed Mostafa Ziko's goal. The decision, and a later non-review before Enzo Fernandez's winner, left Egypt raging over inconsistency."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-england-3rd-t20i-match-report-gambhir-shreyas-lowest-total-records-2942953-2026-07-08",
+      "headline": "India hit new low under Gambhir, slump to worst-ever T20I defeat India were blown away by England in the 3rd T20I of the series. The Shreyas Iyer side was bowled out for just 76 runs, India's 2nd lowest total in the history of T20Is. With the win, England take an unassailable lead of 2-0 in the 5-match series."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-england-dinesh-karthik-gautam-gambhir-harshit-rana-shivam-dube-2942947-2026-07-08",
@@ -324,7 +339,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/switzerland-vs-colombia-live-score-fifa-world-cup-round-of-16-updates-vancouver-rodriguez-xhaka-2942934-2026-07-08",
-      "headline": "SUI vs COL Live: Swiss steel meets Colombian flair in R16 Switzerland vs Colombia Live, FIFA World Cup 2026: The players are out in Charlotte and the national anthems are underway. Switzerland and Colombia are just moments away from kicking off their Round of 16 clash, with a quarter-final meeting against Argentina on the line."
+      "headline": "SUI 0-0 COL Live: Extra time to decide Messi's QF opponents Switzerland vs Colombia Live, FIFA World Cup 2026: (SUI 0-0 COL) Neither side has done quite enough to deserve a winner, with a tense tactical battle replacing attacking flair. As the clock ticks down, this last-16 tie will need another 30 minutes to separate them."
     },
     {
       "sentiment": "positive",
@@ -354,17 +369,17 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/wimbledon-live-score-quarterfinals-jannik-sinner-novak-djokovic-results-2942575-2026-07-07",
-      "headline": "QF live: Djokovic level with Auger-Aliassime 1-1 after two sets Wimbledon 2026: Novak Djokovic and Felix Auger-Aliassime are in action in the men's quarterfinal match. Djokovic is battling a calf injury, but has been able to win the first set 12-10 in tiebreaks. FAA has made a comeback with a 6-3 win in the second set. Earlier, defending champion Jannik Sinner beat Germany's Jan-Lennard Struff in three sets."
+      "headline": "QF live: Novak Djokovic defies the odds to beat Auger-AliassimeWimbledon 2026: Novak Djokovic and Felix Auger-Aliassime are in action in the men's quarterfinal match. Djokovic is battling a calf injury, but has been able to hold up to the Canadian youngster. Both players have won two sets each and the game will now be decided by the fifth and final set of the match."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ms-dhoni-birthday-tamil-nadu-cm-vijay-praises-csk-icon-legacy-2942479-2026-07-07",
-      "headline": "Happy Birthday captain cool: Thalapathy Vijay's heartfelt wish for Thala Dhoni Tamil Nadu Chief Minister Joseph Vijay wished MS Dhoni on his birthday and praised his leadership, humility and bond with the state. The tribute underlined how deeply the former India captain remains woven into Tamil Nadu's sporting identity."
+      "headline": "Happy Birthday captain cool: Thalapathy Vijay's heartfelt wish for Thala DhoniTamil Nadu Chief Minister Joseph Vijay wished MS Dhoni on his birthday and praised his leadership, humility and bond with the state. The tribute underlined how deeply the former India captain remains woven into Tamil Nadu's sporting identity."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/formula-one/story/shubman-gill-kimi-antonelli-play-cricket-mercedes-garage-british-gp-video-2942467-2026-07-07",
-      "headline": "Shubman Gill plays cricket with Antonelli in Mercedes garage at British GP. Video Shubman Gill played corridor cricket with Kimi Antonelli inside the Mercedes garage at Silverstone. The crossover video linked cricket and Formula One before Gill's ODI tour of England."
+      "headline": "Shubman Gill plays cricket with Antonelli in Mercedes garage at British GP. VideoShubman Gill played corridor cricket with Kimi Antonelli inside the Mercedes garage at Silverstone. The crossover video linked cricket and Formula One before Gill's ODI tour of England."
     },
     {
       "sentiment": "positive",
@@ -450,21 +465,6 @@
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/football/story/kylian-mbappe-racist-attack-paraguayan-senator-france-fifa-world-cup-2942126-2026-07-07",
       "headline": "Mbappe slams Paraguayan senator's racist attack over World Cup defeatKylian Mbappe condemned Paraguayan senator Celeste Amarilla after her racist social media post following France's win over Paraguay. France's football authorities and Paraguay's government rejected the remarks, with the FFF preparing legal action."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/cristiano-ronaldo-portugal-retirement-last-fifa-world-cup-2942127-2026-07-07",
-      "headline": "Ronaldo leaves Portugal future undecided, confirms he played his final World CupCristiano Ronaldo confirmed Spain's dramatic Round of 16 defeat marked his final FIFA World Cup but stopped short of announcing his retirement from Portugal duty. The 41-year-old said he would take time to reflect before deciding on his international future."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/roger-federer-wimbledon-royal-box-alone-viral-centre-court-2942125-2026-07-07",
-      "headline": "Roger Federer steals Wimbledon spotlight by staying in empty Royal BoxRoger Federer became an unlikely Wimbledon talking point after staying in the Royal Box long after most guests had left. The eight-time champion won admiration simply for watching every minute of Centre Court action."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/usa-vs-belgium-live-score-fifa-world-cup-balogun-round-of-16-updates-2942124-2026-07-07",
-      "headline": "USA 1-4 BEL Highlights: Belgium end American World Cup dreamUSA vs Belgium Highlights, FIFA World Cup Round of 16: (USA 1-4 BEL) Belgium produce a dominant display to beat the United States 4-1 and book their place in the FIFA World Cup quarterfinals. After taking control early, the Red Devils never looked back, comfortably seeing out the contest to set up a last-eight clash with Spain."
     }
   ],
   "education": [
