@@ -200,6 +200,11 @@
   ],
   "general news": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/norway-vs-england-live-score-fifa-world-cup-quarterfinal-updates-erling-haaland-harry-kane-2945949-2026-07-12",
+      "headline": "NOR 1-1 ENG live: Bellingham puts England level at half-timeNorway vs England live, FIFA World Cup quarterfinal: (NOR 1-0 ENG) Andreas Schjelderup unleashes a sensational curling strike that leaves Jordan Pickford rooted to the spot. Norway's celebrations are cut short, though, with VAR checking Harry Kane going down in the build-up."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/world/story/vietnam-speedboat-accident-15-indians-dead-phu-quoc-tourist-boat-capsize-2945672-2026-07-11",
       "headline": "How a Vietnam island-hopping tour ended in tragedy for 15 IndiansVietnam Boat Accident: The speedboat overturned about 400 metres off Hon May Rut Ngoai, near Phu Quoc Island, while it was carrying tourists from Hon May Rut Islet to An Thoi Port, according to Vietnamese news outlet VNExpress."
@@ -208,6 +213,16 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/music/story/veteran-playback-singer-s-janaki-known-as-nightingale-of-south-india-dies-at-88-2945835-2026-07-11",
       "headline": "Singer S Janaki dies; CM Vijay, Rajinikanth mourn Nightingale of South IndiaVeteran playback singer S Janaki, known as Nightingale of South India, died at the age of 88 in Mysore. Tamil Nadu Chief Minister Vijay and actors Rajinikanth, Kamal Haasan and Chiranjeevi paid tribute to the late singer."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/sonam-wangchuk-hunger-strike-exam-irregularities-jantar-mantar-protest-ptag-2945518-2026-07-11",
+      "headline": "I am not Gandhi, be your own hero: Sonam Wangchuk urges citizens to join protestSonam Wangchuk, on the 14th day of his hunger strike, said he was \"just an ordinary citizen\" and called on people to actively join the movement over examination irregularities."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/ketan-agarwal-murder-case-siya-goyal-chetan-chaudhary-pune-lohagad-fort-police-evidence-court-proof-2944981-2026-07-11",
+      "headline": "Cops say Siya killed Ketan, proving it will be easier said than donePune Police has alleged that Siya Goyal and Chetan Chaudhary pushed Ketan Agarwal off Lohagad Fort. The case now rests on whether investigators can prove an unbroken chain of circumstantial evidence."
     },
     {
       "sentiment": "negative",
@@ -221,23 +236,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/ketan-agarwal-murder-case-siya-goyal-chetan-chaudhary-pune-lohagad-fort-police-evidence-court-proof-2944981-2026-07-11",
-      "headline": "Cops say Siya killed Ketan, proving it will be easier said than donePune Police has alleged that Siya Goyal and Chetan Chaudhary pushed Ketan Agarwal off Lohagad Fort. The case now rests on whether investigators can prove an unbroken chain of circumstantial evidence."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/norway-vs-england-live-score-fifa-world-cup-quarterfinal-updates-erling-haaland-harry-kane-2945949-2026-07-12",
-      "headline": "NOR vs ENG live: Can Harry Kane outshine Erling Haaland?Norway vs England live, FIFA World Cup quarterfinal: Erling Haaland stands between England and a place in the semifinals as Thomas Tuchel's side look to extend their World Cup run in one of the tournament's biggest knockout clashes."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/pakistan-army-chief-asim-munir-population-growth-control-2945716-2026-07-11",
       "headline": "Army chief Asim Munir has new job in PakistanPakistan has placed army chief Asim Munir on a committee to address rapid population growth. The move comes as Asim Munir fights threats from Afghanistan and also works to mediate between the US and Iran."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/england-vs-india-t20i-series-buttler-brook-batting-shreyas-iyer-2945945-2026-07-12",
-      "headline": "India lose No.1 T20I ranking after UK tour ends with a stinker in SouthamptonIndia return from the tour of UK without winning a single match. First a 0-2 series loss against Ireland, and then an abject surrender of 0-4 against England, this is one of the lowest moments of the Indian cricket team in the past few years."
     },
     {
       "sentiment": "positive",
@@ -246,8 +246,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/sonam-wangchuk-hunger-strike-exam-irregularities-jantar-mantar-protest-ptag-2945518-2026-07-11",
-      "headline": "I am not Gandhi, be your own hero: Sonam Wangchuk urges citizens to join protestSonam Wangchuk, on the 14th day of his hunger strike, said he was \"just an ordinary citizen\" and called on people to actively join the movement over examination irregularities."
+      "url": "https://www.indiatoday.in/sports/cricket/story/england-vs-india-t20i-series-buttler-brook-batting-shreyas-iyer-2945945-2026-07-12",
+      "headline": "India lose No.1 T20I ranking after UK tour ends with a stinker in SouthamptonIndia return from the tour of UK without winning a single match. First a 0-2 series loss against Ireland, and then an abject surrender of 0-4 against England, this is one of the lowest moments of the Indian cricket team in the past few years."
     },
     {
       "sentiment": "negative",
@@ -329,7 +329,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/norway-vs-england-live-score-fifa-world-cup-quarterfinal-updates-erling-haaland-harry-kane-2945949-2026-07-12",
-      "headline": "NOR vs ENG live: Can Harry Kane outshine Erling Haaland? Norway vs England live, FIFA World Cup quarterfinal: Erling Haaland stands between England and a place in the semifinals as Thomas Tuchel's side look to extend their World Cup run in one of the tournament's biggest knockout clashes."
+      "headline": "NOR 1-1 ENG live: Bellingham puts England level at half-time Norway vs England live, FIFA World Cup quarterfinal: (NOR 1-0 ENG) Andreas Schjelderup unleashes a sensational curling strike that leaves Jordan Pickford rooted to the spot. Norway's celebrations are cut short, though, with VAR checking Harry Kane going down in the build-up."
     },
     {
       "sentiment": "positive",
