@@ -103,6 +103,11 @@
   ],
   "entertainment": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/kusha-kapila-says-viral-selfie-with-samay-raina-is-ai-generated-fake-and-seeded-2946314-2026-07-13",
+      "headline": "Kusha Kapila says viral selfie with Samay Raina is AI-generated: Fake and seeded Actor-influencer Kusha Kapila said a viral selfie with stand-up comedian Samay Raina was fake, and her face had been altered using AI. She accused troll networks of using the image to minimise her."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/muzammil-ibrahim-reacts-to-viral-no-regrets-clip-on-break-up-with-deepika-padukone-2946413-2026-07-12",
       "headline": "Muzammil Ibrahim reacts to viral no regrets clip on break-up with Deepika Padukone Actor Muzammil Ibrahim has clarified that the Deepika Padukone breakup clip doing the rounds is from an older interview and lacks full context. His note stresses that he spoke honestly but respectfully, even as snippets sparked fresh online chatter."
@@ -191,11 +196,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/prithviraj-sukumaran-reveals-why-he-avoids-risky-stunts-i-have-3-titanium-screws-2946048-2026-07-12",
       "headline": "Prithviraj Sukumaran reveals why he avoids risky stunts: I have 3 titanium screws Prithviraj Sukumaran said his 2023 stunt injury changed how he approaches action scenes in I, Nobody. He said the accident, and another injury on set, reminded him of the risks and responsibility involved."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/music/story/jasmine-sandlas-engagement-shekhar-chaudhary-delhi-dream-girl-india-tour-2946044-2026-07-12",
-      "headline": "Singer Jasmine Sandlas announces engagement, introduces fiance at Delhi concert Singer Jasmine Sandlas introduced fiance Shekhar Chaudhary on stage and announced their engagement at her Delhi tour opener. Several videos from the special moment have gone viral."
     }
   ],
   "general news": [
@@ -206,8 +206,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/wimbledon-mens-singles-final-live-score-jannik-sinner-vs-alexander-zverev-2946328-2026-07-12",
-      "headline": "Final Live Updates: Sinner crowned champion again, beat Zverev in finalWimbledon Final Live Updates: Jannik Sinner has succesfully defended his Wimbledon crown after beating Alexander Zverev 6-7(7), 7-6(2), 6-3, 6-4 in three hours and 46 minutes on Centre Court."
+      "url": "https://www.indiatoday.in/sports/tennis/story/jannik-sinner-defends-wimbledon-title-beats-alexander-zverev-2946433-2026-07-13",
+      "headline": "Ice-cool Jannik Sinner fights off feisty Alexander Zverev to retain crownWorld No.1 Jannik Sinner came from a set down to beat Alexander Zverev 6-7(7), 7-6(2), 6-3, 6-4 and successfully defend his Wimbledon title on Sunday, July 12 on Centre Court."
     },
     {
       "sentiment": "positive",
@@ -230,14 +230,14 @@
       "headline": "Man poisons mother after mother-in-law's 'kill her to get wife back' demandA family dispute in Uttar Pradesh has taken a chilling turn, with a son accused of poisoning his mother and an FIR naming his mother-in-law in the alleged conspiracy. The investigation is now under way."
     },
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/bangkok-pub-fire-kills-27-thailand-pm-anutin-visits-scene-2946434-2026-07-13",
+      "headline": "27 killed as massive fire engulfs pub in Bangkok, several others hospitalisedThai Prime Minister Anutin Charnvirakul visited the scene and said at least 27 people had died. Several others were taken to hospital with injuries."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/brendon-mccullum-steps-down-england-test-head-coach-ben-stokes-retirement-2946299-2026-07-12",
       "headline": "End of Bazball as McCullum sacked as Test coach after Ben Stokes retirementBrendon McCullum has been sacked as England's Test head coach, just days after Ben Stokes announced his retirement from international cricket. However, the former New Zealand captain will continue in his role as head coach of England's ODI and T20I sides."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/bihar-bank-balance-glitch-muzaffarpur-pensioner-finds-rs-759-crore-in-account-2946389-2026-07-12",
-      "headline": "82-year-old Bihar man left stunned after bank balance jumps to Rs 759 croreAn 82-year-old man in Bihar was stunned when his bank account showed nearly Rs 759 crore during a pension withdrawal. The unexplained figures, mirrored in his disabled son's account, are likely due to a technical glitch."
     },
     {
       "sentiment": "positive",
@@ -250,19 +250,24 @@
       "headline": "India announces 1-day mourning after death of ex-Qatar Emir Sheikh HamadThe Ministry of External Affairs (MEA) said the national flag will fly at half-mast across the country on July 13, while official entertainment will remain suspended as a mark of respect for the late ruler."
     },
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/bihar-bank-balance-glitch-muzaffarpur-pensioner-finds-rs-759-crore-in-account-2946389-2026-07-12",
+      "headline": "82-year-old Bihar man left stunned after bank balance jumps to Rs 759 croreAn 82-year-old man in Bihar was stunned when his bank account showed nearly Rs 759 crore during a pension withdrawal. The unexplained figures, mirrored in his disabled son's account, are likely due to a technical glitch."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/education-today/news/story/meet-mana-jampala-12-year-old-founder-who-learnt-python-at-9-and-built-ai-startup-voxa-2945740-2026-07-12",
       "headline": "Meet 12-year-old Mana Jampala who built an AI startup with clients in 3 countriesMana Jampala is only 12, but she is already running an AI startup with deployments in Canada, India and Cambodia. After learning Python at nine and building AI products by 11, the Grade 7 student has created tools that help businesses automate customer calls and everyday work."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/baghpat-baraut-nikah-affidavit-rule-imams-legal-protection-2946388-2026-07-12",
-      "headline": "No affidavit, no nikah: New rule introduced by UP's Baghpat ulemaA new rule has changed how nikahs will be solemnised in a Uttar Pradesh town. Religious leaders say the move aims to prevent hidden legal disputes, but it also places a new responsibility on families."
+      "url": "https://www.indiatoday.in/education-today/gk-current-affairs/story/delhi-rare-books-south-extension-store-preserves-maps-manuscripts-history-2936116-2026-07-12",
+      "headline": "Delhi's oldest rare book house: A story that begins with a Parsi in CalcuttaA South Delhi antiquarian bookstore, Memoirs of India traces its origins to a rare collection acquired in Kolkata in the late 1960s. Now in its third generation, it preserves books, maps and manuscripts as a working archive of India's past. Its shelves hold signed editions, first printings and out-of-print works, each carrying the story of its author, its time and the journey that brought it here."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/gk-current-affairs/story/delhi-rare-books-south-extension-store-preserves-maps-manuscripts-history-2936116-2026-07-12",
-      "headline": "Delhi's oldest rare book house: A story that begins with a Parsi in CalcuttaA South Delhi antiquarian bookstore, Memoirs of India traces its origins to a rare collection acquired in Kolkata in the late 1960s. Now in its third generation, it preserves books, maps and manuscripts as a working archive of India's past. Its shelves hold signed editions, first printings and out-of-print works, each carrying the story of its author, its time and the journey that brought it here."
+      "url": "https://www.indiatoday.in/india/story/baghpat-baraut-nikah-affidavit-rule-imams-legal-protection-2946388-2026-07-12",
+      "headline": "No affidavit, no nikah: New rule introduced by UP's Baghpat ulemaA new rule has changed how nikahs will be solemnised in a Uttar Pradesh town. Religious leaders say the move aims to prevent hidden legal disputes, but it also places a new responsibility on families."
     },
     {
       "sentiment": "positive",
@@ -276,11 +281,6 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/israel-election-voting-october-27-benjamin-netanyahu-full-four-year-term-2946375-2026-07-12",
-      "headline": "Israel to hold polls on October 27 as Netanyahu prepares to face voters amid warsThe upcoming election on October 27 will be the first to be held on schedule in Israel since 1988. The election is also significant as the Netanyahu-led government will become the first to complete a full four-year term in over 50 years."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/lifestyle/fashion/story/akansha-ranjan-sharan-sharma-keep-it-classic-in-gold-and-black-wedding-reception-2946400-2026-07-12",
       "headline": "Akansha Ranjan and Sharan Sharma keep it classic in gold and black for receptionAfter an intimate wedding celebration, newlyweds Akansha Ranjan and Sharan Sharma embraced timeless glamour in a striking black-and-gold palette for their wedding reception."
     },
@@ -291,18 +291,23 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/israel-election-voting-october-27-benjamin-netanyahu-full-four-year-term-2946375-2026-07-12",
+      "headline": "Israel to hold polls on October 27 as Netanyahu prepares to face voters amid warsThe upcoming election on October 27 will be the first to be held on schedule in Israel since 1988. The election is also significant as the Netanyahu-led government will become the first to complete a full four-year term in over 50 years."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/trending-news/story/indian-parents-send-daughter-in-canada-a-20-kg-parcel-packed-with-aamras-and-love-2946171-2026-07-12",
       "headline": "Indian parents send daughter in Canada a 20 kg parcel packed with aamras and loveAn Indian woman in Canada shared a video of a 20 kg parcel sent by her parents, unpacking aamras, theplas, clothes and gifts."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/monsoon-break-india-imd-subdued-rain-central-peninsular-regions-till-july-17-pause-button-el-nino-2946141-2026-07-12",
-      "headline": "India's July sky looks like April: Why monsoon has hit pause buttonSatellite images of India in mid-July 2026 look eerily like April, with clear seas and bare skies over the core monsoon zone. The IMD explains why the rains have paused, which regions will still get drenched, and when the monsoon is likely to revive."
+      "url": "https://www.indiatoday.in/education-today/news/story/international-physics-olympiad-2026-india-wins-five-golds-shares-first-position-2946037-2026-07-12",
+      "headline": "India wins 5 golds at International Physics Olympiad 2026, shares rank 15 Indian students won gold medals at the 56th International Physics Olympiad 2026 in Colombia. The clean sweep put India joint first along with Russia, China, Kazakhastan, South Korea and Taiwan."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/international-physics-olympiad-2026-india-wins-five-golds-shares-first-position-2946037-2026-07-12",
-      "headline": "India wins 5 golds at International Physics Olympiad 2026, shares rank 15 Indian students won gold medals at the 56th International Physics Olympiad 2026 in Colombia. The clean sweep put India joint first along with Russia, China, Kazakhastan, South Korea and Taiwan."
+      "url": "https://www.indiatoday.in/science/story/monsoon-break-india-imd-subdued-rain-central-peninsular-regions-till-july-17-pause-button-el-nino-2946141-2026-07-12",
+      "headline": "India's July sky looks like April: Why monsoon has hit pause buttonSatellite images of India in mid-July 2026 look eerily like April, with clear seas and bare skies over the core monsoon zone. The IMD explains why the rains have paused, which regions will still get drenched, and when the monsoon is likely to revive."
     },
     {
       "sentiment": "positive",
@@ -313,14 +318,24 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/education-today/news/story/ncert-paper-procurement-case-dharmendra-pradhan-orders-action-over-delhi-hc-lapse-2945515-2026-07-11",
       "headline": "Dharmendra Pradhan orders action against NCERT officials in paper procurement caseNCERT's decision to blacklist a paper supplier came under judicial scrutiny after the council failed to appear before the Delhi High Court, prompting Union Education Minister Dharmendra Pradhan to order an inquiry into the matter."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/us-iran-war-live-updates-strait-of-hormuz-middle-east-tensions-ceasefire-donald-trump-west-asia-crisis-2944508-2026-07-10",
-      "headline": "Live: US strikes Iranian missile, air defence systems near Strait of HormuzUS-Iran War Live Updates: The US and Iran exchanged fresh military strikes, deepening their direct confrontation and pushing a fragile three-week-old ceasefire closer to collapse. Iran retaliated by launching missiles and drones at US military infrastructure in Bahrain, Kuwait, Qatar and Jordan after Washington carried out another wave of strikes on Iranian targets, saying the operation was aimed at protecting commercial shipping through the Strait of Hormuz. Tehran accused the US of interfering in the strategic waterway and warned that any further intervention would draw a \"crushing response\", insisting the strait would reopen only under Iranian supervision. The escalation unfolded as Iran buried slain Supreme Leader Ayatollah Ali Khamenei at the Shrine of Imam Reza in Mashhad, where thousands of mourners carrying Iranian flags and portraits of the late leader gathered for his funeral, with some displaying banners reading \"We Will Kill Trump\". Iranian officials said recent US strikes killed 14 people and wounded 78 across five provinces, while fresh explosions were reported in Bushehr and Bandar Abbas, including near the perimeter of Iran's only operational nuclear power plant. Kuwait said it intercepted missiles and drones targeting US military assets, while Jordan reported shooting down several incoming missiles. Qatar condemned attacks on commercial shipping but urged all sides to return to diplomacy, as Turkey and Oman also called for restraint in separate talks with Iranian Foreign Minister Abbas Araqchi. Stay with IndiaToday.in for the latest updates."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/yastika-bhatia-kranti-gaud-india-england-lords-test-day-3-report-2946437-2026-07-13",
+      "headline": "Lord's Test: Yastika Bhatia, Kranti Gaud leave India on verge of famous win at Day 3 Yastika Bhatia became the first woman to score a Test hundred at Lord's before Kranti Gaud's fiery spell left England six down as India took complete control on Day 3 of the historic Women's Test, setting the hosts a daunting 457-run target."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/alexander-zverev-wimbledon-final-belief-jannik-sinner-reaction-2946435-2026-07-13",
+      "headline": "Alexander Zverev's runner-up finish fuels belief he can one day win Wimbledon Alexander Zverev said reaching his maiden Wimbledon final has convinced him he can one day lift the title despite losing to Jannik Sinner. The German praised the world No. 1 while reflecting on a breakthrough fortnight at the All England Club."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/jannik-sinner-defends-wimbledon-title-beats-alexander-zverev-2946433-2026-07-13",
+      "headline": "Ice-cool Jannik Sinner fights off feisty Alexander Zverev to retain crown World No.1 Jannik Sinner came from a set down to beat Alexander Zverev 6-7(7), 7-6(2), 6-3, 6-4 and successfully defend his Wimbledon title on Sunday, July 12 on Centre Court."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/rahul-dravid-brendon-mccullum-england-test-coach-contenders-report-2946428-2026-07-12",
@@ -334,7 +349,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/wimbledon-mens-singles-final-live-score-jannik-sinner-vs-alexander-zverev-2946328-2026-07-12",
-      "headline": "Final Live Updates: Sinner crowned champion again, beat Zverev in final Wimbledon Final Live Updates: Jannik Sinner has succesfully defended his Wimbledon crown after beating Alexander Zverev 6-7(7), 7-6(2), 6-3, 6-4 in three hours and 46 minutes on Centre Court."
+      "headline": "Wimbledon Highlights: Sinner crowned champion again, beat Zverev in final Wimbledon Final Highlights: Jannik Sinner has successfully defended his Wimbledon crown after beating Alexander Zverev 6-7(7), 7-6(2), 6-3, 6-4 in three hours and 46 minutes on Centre Court."
     },
     {
       "sentiment": "positive",
@@ -359,17 +374,17 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/story/var-football-world-cup-cricket-drs-technology-sport-2946110-2026-07-12",
-      "headline": "Is cricket's DRS better than football's VAR? Football and cricket embraced video reviews to eliminate costly mistakes. But one sport gave players the power to challenge decisions, while the other left it to officials, shaping every debate around VAR and DRS since."
+      "headline": "Is cricket's DRS better than football's VAR?Football and cricket embraced video reviews to eliminate costly mistakes. But one sport gave players the power to challenge decisions, while the other left it to officials, shaping every debate around VAR and DRS since."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/lionel-scaloni-dismisses-argentina-england-rivalry-world-cup-semi-final-2946129-2026-07-12",
-      "headline": "Lionel Scaloni dismisses Argentina-England history before World Cup semi-final FIFA World Cup: Argentina coach Lionel Scaloni played down his country's history with England, insisting that the semi-final was \"just a football game\" after his side defeated Switzerland 3-1 in the quarter-finals."
+      "headline": "Lionel Scaloni dismisses Argentina-England history before World Cup semi-finalFIFA World Cup: Argentina coach Lionel Scaloni played down his country's history with England, insisting that the semi-final was \"just a football game\" after his side defeated Switzerland 3-1 in the quarter-finals."
     },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/cricket/story/sanjay-manjrekar-blames-ipl-india-back-to-back-t20i-series-losses-2946098-2026-07-12",
-      "headline": "IPL puts heavy make-up on batters: Sanjay Manjrekar on India's T20I debacle Former India batter Sanjay Manjrekar believes India's disappointing T20I tour should shift the focus from the players to the IPL, saying the tournament's batting-friendly conditions do not adequately prepare batters for the demands of overseas cricket."
+      "headline": "IPL puts heavy make-up on batters: Sanjay Manjrekar on India's T20I debacleFormer India batter Sanjay Manjrekar believes India's disappointing T20I tour should shift the focus from the players to the IPL, saying the tournament's batting-friendly conditions do not adequately prepare batters for the demands of overseas cricket."
     },
     {
       "sentiment": "negative",
@@ -455,21 +470,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/linda-noskova-wins-wimbledon-beats-karolina-muchova-dedicates-title-to-mother-2945947-2026-07-12",
       "headline": "Linda Noskova cries tears of joy, dedicates title to mother who died from cancerLinda Noskova broke down in tears after defeating Karolina Muchova 6-2, 5-7, 6-3 to win her maiden Wimbledon title, dedicating the triumph to her mother, Ivana, who died after a battle with cancer in 2024."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/england-vs-india-t20i-series-buttler-brook-batting-shreyas-iyer-2945945-2026-07-12",
-      "headline": "India lose No.1 T20I ranking after UK tour ends with a stinker in SouthamptonIndia return from the tour of UK without winning a single match. First a 0-2 series loss against Ireland, and then an abject surrender of 0-4 against England, this is one of the lowest moments of the Indian cricket team in the past few years."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/linda-noskova-wimbledon-final-czech-beats-karolina-muchova-first-grand-slam-2945938-2026-07-11",
-      "headline": "Linda Noskova outlasts Karolina Muchova to clinch maiden Wimbledon titleLinda Noskova defeated Karolina Muchova 6-2, 5-7, 6-3 in a thrilling all-Czech final to win her maiden Grand Slam title and become the youngest Wimbledon champion since Petra Kvitova in 2011."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/indian-fielding-coach-sacked-t-dilip-2945929-2026-07-11",
-      "headline": "Sacked once before, India fielding coach unlikely to get another extensionIndia fielding coach T Dilip is unlikely to receive a contract extension after the ongoing white-ball tour of England, India Today has learnt. While the BCCI is expected to retain Morne Morkel and Ryan ten Doeschate, Dilip's second stint with the national team appears to be nearing its end."
     }
   ],
   "education": [
