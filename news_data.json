@@ -2,6 +2,21 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/india-us-trade-deal-framework-ready-talks-progress-amid-tariff-uncertainty-2947027-2026-07-13",
+      "headline": "India-US trade deal framework ready as talks progress amid tariff uncertaintyIn February, the two sides agreed to 18% tariffs on Indian goods in exchange for New Delhi lowering trade barriers and buying more American goods. But a final deal has been clouded by the U.S. Supreme Court ruling invalidating President Donald Trump's sweeping global tariffs."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/personal-finance/story/about-2-crore-itrs-filed-so-far-should-you-wait-for-a-deadline-extension-2946984-2026-07-13",
+      "headline": "About 2 crore ITRs filed so far. Should you wait for a deadline extension?With around two crore returns already filed and the filing process running smoothly this year, taxpayers may be better off completing their returns well before the deadline."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/story/from-rs-5000-late-fee-to-200-penalty-income-tax-mistakes-that-could-cost-you-big-itr-filing-2946805-2026-07-13",
+      "headline": "From Rs 5,000 late fee to 200% penalty: Income tax mistakes that could cost you bigA small mistake in your income tax compliance can turn into a big financial setback. From late filing fees to steep penalties for under-reporting income, the Income Tax Act prescribes strict consequences for different types of defaults. Are you aware of the most common ones?"
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/retail-inflation-rises-to-438-in-june-from-393-in-may-2946735-2026-07-13",
       "headline": "June retail inflation climbs to 4.38%, breaches RBI's 4% target after 5 monthsThe latest reading marks the first time since January 2026 that headline inflation has crossed the RBI's 4% target. Retail inflation had eased to 2.74% in January before gradually rising to 3.21% in February, 3.40% in March, 3.48% in April and 3.93% in May."
     },
@@ -84,24 +99,74 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/ipo/story/pre-ipo-shares-explained-how-investors-buy-stocks-before-an-ipo-opens-risks-profit-2944884-2026-07-10",
       "headline": "Why wait for the IPO? Some investors are buying shares much earlier. You can tooLong before an IPO opens, and sometimes even years before a company files its draft papers with the market regulator, its shares can already be bought and sold legally in what's known as the unlisted or pre-IPO market."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/itr-7-excel-utility-ay-2026-27-income-tax-e-filing-portal-2944830-2026-07-10",
-      "headline": "Income tax department launches ITR-7 Excel utility for AY 2026-27With the utility now live, eligible taxpayers can download it, fill in the required information offline, validate the details, generate a JSON file and upload it on the Income Tax e-Filing portal to complete the return filing process."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/tcs-hiring-rebound-9000-jobs-q1-results-headcount-cuts-layoffs-what-changed-2944787-2026-07-10",
-      "headline": "TCS's hiring surprise: Why India's biggest IT firm is adding jobs againTCS added 9,279 employees in the April-June quarter after steep headcount declines in late 2025. The shift reflects selective hiring, redeployment and rising demand for AI and digital skills."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/story/govt-eyes-stronger-forex-reserves-fm-likely-to-meet-banks-soon-2944785-2026-07-10",
-      "headline": "Govt eyes stronger forex reserves; FM likely to meet banks soonThe government's move comes at a time when India's foreign exchange reserves have declined sharply. The reserves fell from around $728 billion in February to nearly $682 billion by the end of May."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/avengers-doomsday-concept-art-first-look-at-rdjs-doctor-doom-loki-and-beast-2947011-2026-07-13",
+      "headline": "Avengers Doomsday concept art: First look at RDJ's Doctor Doom, Loki and Beast Former Marvel visual development director Andy Park has shared Avengers: Doomsday concept art showing Robert Downey Jr's Doctor Doom mask, Loki and the returning X-Men. The artwork marks Park's final full film at Marvel Studios and offers an early look at characters not yet seen in promotional material."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/the-marvelous-mrs-maisel-actor-broadway-star-josh-grisetti-dies-by-suicide-at-44-2947025-2026-07-13",
+      "headline": "The Marvelous Mrs Maisel actor, Broadway star Josh Grisetti dies by suicide at 44 Broadway actor and The Marvelous Mrs. Maisel star Josh Grisetti has died by suicide at the age of 44. His longtime friend and fellow actor Rob McClure confirmed the news, calling his death a \"cataclysmic loss.\""
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/ramayana-heads-to-china-all-about-ranbir-kapoor-and-yashs-ambitious-marketing-push-2946992-2026-07-13",
+      "headline": "Ramayana heads to China: All about Ranbir Kapoor and Yash's ambitious marketing push Ramayana: Part 1 is reportedly planning a major promotional campaign in China, with Ranbir Kapoor, Yash and Sai Pallavi expected to lead a multi-city tour. The move comes as the makers eye a strong release in the world's second-largest theatrical market."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/satluj-actor-varun-badola-reacts-to-diljit-urging-fans-to-download-film-and-watch-2946888-2026-07-13",
+      "headline": "Satluj actor Varun Badola reacts to Diljit urging fans to download film and watch Actor Varun Badola has said he cannot support piracy amid the Satluj controversy and Diljit Dosanjh's call to circulate copies. His remarks come as the film remains blocked, screenings continue elsewhere, and the dispute deepens over access and censorship."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/censor-board-didnt-ask-any-cuts-the-india-story-director-reacts-to-legal-notice-2946852-2026-07-13",
+      "headline": "Censor board didn't ask any cuts: The India Story director reacts to legal notice The India Story director Chettan DK has denied reports that the CBFC asked for cuts to the film, saying the team only improvised a few scenes. His remarks come as the Kajal Aggarwal-Shreyas Talpade starrer faces a legal notice over its promotional material."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/digger-trailer-an-eccentric-unrecognisable-tom-cruise-finds-new-impossible-mission-2946956-2026-07-13",
+      "headline": "Digger trailer: An eccentric, unrecognisable Tom Cruise finds new impossible mission Actor Tom Cruise appears in an eccentric new avatar as oil baron Digger Rockwell in the first trailer for Digger. The dark comedy places him at the centre of a disaster of his own making as he races to contain the fallout."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/imtiaz-ali-ida-ali-engagement-krish-agarwal-norway-proposal-2946940-2026-07-13",
+      "headline": "Imtiaz Ali shares daughter Ida's wedding plans after proposal pics go viral Filmmaker Imtiaz Ali has said his daughter Ida Ali's engagement to Krish Agarwal is the greatest happiness of his life. The family says there is no rush for a wedding, with the couple choosing to enjoy the moment."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/ranveers-rs-3000-crore-dhurandhar-is-box-office-dud-in-japan-draws-900-viewers-2946922-2026-07-13",
+      "headline": "Ranveer's Rs 3,000-crore Dhurandhar is box office dud in Japan, draws 900 viewers Despite the Dhurandhar franchise earning over Rs 3,100 crore worldwide, its Japan debut has failed to impress. The Ranveer Singh-starrer managed only around 900 viewers on its opening day despite releasing across nearly 80 screens."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/indian-muslims-have-already-proved-their-patriotism-imtiaz-ali-to-critics-2946885-2026-07-13",
+      "headline": "Indian Muslims have already proved their patriotism: Imtiaz Ali to critics Imtiaz Ali has defended Main Vaapas Aaunga against anti-national criticism, saying it focusses on Partition's human cost. He said the film rejects hatred and reflects on belonging, displacement and patriotism."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/hema-malini-deepika-padukone-biopic-60-years-cinema-2946889-2026-07-13",
+      "headline": "Can Deepika Padukone play Hema Malini in her biopic? What Dream Girl says At a celebration of her 60 years in cinema, actor Hema Malini said Deepika Padukone could play her in a biopic. The remark revived their long association, from Hema's biography launch to the Dream Girl echo in Om Shanti Om."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/paraak-teaser-sriimurali-korean-action-comparisons-2946739-2026-07-13",
+      "headline": "Paraak: Sriimurali's teaser delivers Kannada cinema's most stylish action teaser The makers of Paraak unveiled the film's teaser, introducing Sriimurali's next action entertainer after Bagheera. Its grounded combat staging and Sriimurali's transformed look quickly drove online discussion."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/adarsh-baal-vidyalaya-trailer-kay-kay-menon-leads-a-chaotic-school-to-cambridge-2946830-2026-07-13",
+      "headline": "Adarsh Baal Vidyalaya trailer: Kay Kay Menon leads a chaotic school to Cambridge The trailer for Adarsh Baal Vidyalaya follows actor Kay Kay Menon's principal Gyaneshwar Tripathi as he pushes his chaotic school towards better board results and a Cambridge training opportunity. The series sets up a comedy-drama about ambition, limited resources and the daily disorder of school life."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/neha-dhupia-paparazzi-privacy-row-photographers-respect-her-family-52-blue-2946741-2026-07-13",
+      "headline": "After slamming paps for being intrusive, Neha Dhupia says they respect her privacy In an interview with us, actor Neha Dhupia reflected on her equation with the paparazzi, days after her confrontation at an event. She discussed how they have been supportive of her work."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/salman-khans-maatrubhumi-to-release-in-2027-heres-what-we-know-2946814-2026-07-13",
@@ -131,88 +196,28 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/explained-how-anupam-kher-ram-mandir-theft-remarks-led-to-a-controversy-2946636-2026-07-13",
       "headline": "Explained: How Anupam Kher's Ram Mandir theft remarks led to a controversy Anupam Kher said the reported theft at Ayodhya's Ram Mandir should be treated as a crime driven by greed, not as a stain on the temple or faith. His remarks drew backlash online after he compared the episode with far graver historical attacks on temples."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/dont-trouble-the-trouble-teaser-fahadh-faasil-meets-magical-genie-in-fantasy-drama-2946706-2026-07-13",
-      "headline": "Don't Trouble the Trouble teaser: Fahadh Faasil meets genie in fantasy drama The first teaser for Don't Trouble the Trouble introduces Fahadh Faasil's magician Suri and a mysterious child. Their playful clash hints at a fantasy adventure powered by mischief, humour and wishes."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/thamizh-murugan-controversy-dhanush-vetri-maaran-tamil-backlash-explained-5-questions-answered-2946616-2026-07-13",
-      "headline": "Why is Dhanush-Vetri Maaran's Thamizh Murugan under fire? 5 key questions answered The first look of Dhanush and Vetri Maaran's Thamizh Murugan has triggered a debate over how Murugan is portrayed. The row centres on Arivumathi's source book, which views Murugan through history and Tamil identity rather than divinity."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/akhil-akkineni-lenin-chiranjeevi-ram-gopal-varma-and-others-praise-performance-2946634-2026-07-13",
-      "headline": "RGV calls Akhil best actor in Akkineni family, Chiranjeevi praises his act in Lenin As Lenin continues its strong theatrical run, praise for Akhil Akkineni has poured in from across the Telugu film industry. Chiranjeevi, Nagarjuna, Naga Chaitanya, Ram Gopal Varma and others highlighted both his performance and the film's emotional impact."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/music/story/kumar-sanus-son-jaan-hospitalised-after-testing-covid-positive-cracks-china-joke-2946693-2026-07-13",
-      "headline": "Kumar Sanu's son Jaan hospitalised after testing Covid-positive, cracks China joke Singer Kumar Sanu's son, Jaan Kumar Sanu, has been hospitalised after testing positive for COVID-19. The former Bigg Boss 14 contestant shared the update from the hospital and lightened the mood by cracking a \"China se aaya mera dost\" joke."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/inside-akansha-ranjan-kapoor-and-sharan-sharmas-star-studded-wedding-reception-2946667-2026-07-13",
-      "headline": "Inside Akansha Ranjan Kapoor and Sharan Sharma's star-studded wedding reception Actor Akansha Ranjan Kapoor and filmmaker Sharan Sharma hosted a wedding reception for family, friends, and film colleagues after their registered marriage on July 11. Actors Bobby Deol and Neena Gupta were among the attendees."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/ranveer-singh-pralay-shoot-starts-in-august-paternity-break-planned-by-diwali-2946676-2026-07-13",
-      "headline": "Ranveer Singh to start Pralay shoot in August, take paternity break around Diwali Actor Ranveer Singh will begin shooting for Jai Mehta's Pralay in August. Singh, who is set to welcome his second child with Deepika Padukone, is expected to take paternity leave by Diwali."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/how-diljit-dosanjh-satluj-made-sidhu-moose-wala-song-from-2022-trend-2946660-2026-07-13",
-      "headline": "How Diljit Dosanjh's Satluj made Sidhu Moose Wala's song from 2022 trend again Late Sidhu Moose Wala's 2022 song Scapegoat is back in the news after the Diljit Dosanjh-starrer Satluj was banned soon after OTT release. Read on to know why."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/anupam-kher-propaganda-criticism-dhurandhar-box-office-success-2946619-2026-07-13",
-      "headline": "Anupam Kher says Dhurandhar is Rs 1,000-crore slap to those calling it a propaganda Actor Anupam Kher said he no longer reacts to claims that his films are propaganda. In an exclusive interview, he argued that audience response and box-office results matter more than such labels."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/jana-nayagan-uk-advance-booking-rs-1-crore-uncut-version-july-24-2946640-2026-07-13",
-      "headline": "Vijay's Jana Nayagan uncut version off to a fabulous start, mints Rs 1 crore in UK Tamil Nadu Chief Minister Vijay's farewell film, Jana Nayagan, has crossed Rs 1 crore in UK advance bookings after its uncut release was confirmed for July 24. The response underlines strong overseas interest in Vijay's final film despite months of delay and controversy."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/football-is-life-ted-lassos-cristo-fernandez-makes-real-life-football-debut-in-us-2946584-2026-07-13",
-      "headline": "Football is life! Ted Lasso's Cristo Fernandez makes real-life football debut in US Ted Lasso actor Cristo Fernandez made his US professional football debut for El Paso Locomotive FC in a 2-0 home defeat to New Mexico United. The appearance echoed his role as Dani Rojas and marked his return to the professional game after injury."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/kangana-ranaut-anandiben-patel-women-cooking-remarks-gender-debate-2946618-2026-07-13",
-      "headline": "Women are meant to nurture: Kangana backs Anandiben Patel's 'learn to cook' remark Kangana Ranaut backed Uttar Pradesh Governor Anandiben Patel's remarks urging women to learn to cook for their families. Her endorsement drew criticism online and widened the debate over gender roles."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/music/story/veteran-music-composer-pyarelals-wife-sunila-sharma-dies-in-mumbai-at-78-2946627-2026-07-13",
-      "headline": "Veteran music composer Pyarelal's wife Sunila Sharma dies in Mumbai at 78 Veteran music composer Pyarelal's wife, Sunila Sharma, died in Mumbai on July 12 at the age of 78. Her family announced the news in a social media statement, saying she died peacefully surrounded by her family."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/meet-ida-imtiaz-ali-daughter-norway-proposal-krish-agrawal-photos-films-work-viral-engagement-2946611-2026-07-13",
-      "headline": "Meet Imtiaz Ali's daughter Ida, whose dreamy proposal won the internet Imtiaz Ali's daughter Ida Ali is engaged to longtime boyfriend Krish Agrawal after a dreamy proposal in Norway. Here's everything to know about the filmmaker, her work and the viral engagement."
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-england-lords-womens-test-harmanpreet-kaur-history-2946821-2026-07-13",
-      "headline": "History at Home of Cricket: India win first-ever women's Test at Lord'sHarmanpreet Kaur led India to a 270-run win over England as India won the first-ever women's Test at Lord's. Yastika Bhatia's second-innings hundred and Kranti Gaud's five-wicket haul in the first were the highlights of the historic win."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/uk-declares-irans-irgc-another-iran-linked-group-terror-organisations-over-antisemitic-attacks-in-britain-2946855-2026-07-13",
-      "headline": "UK declares Iran's IRGC, another Iran-linked group terror organisations over antisemitic attacks in BritainThe UK Home Office said ministers had concluded there was sufficient evidence to believe the IRGC had engaged in activities that threatened the UK's national security."
+      "url": "https://www.indiatoday.in/world/us-news/story/were-guardians-of-hormuz-trump-says-us-reimposes-naval-blockage-seeks-20-reimbursement-on-cargo-traffic-2946995-2026-07-13",
+      "headline": "Trump reimposes Iran blockade, seeks 20% fee on all cargo shipped through Hormuz Live UpdatesDonald Trump went on to announce that the US would become the \"Guardian of the Hormuz Strait\" and said countries using the shipping lane should bear the cost of its protection."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/iran-war-energy-crisis-india-oil-imports-diversification-strategy-refiners-middle-east-oil-russia-us-brazil-2938156-2026-07-13",
-      "headline": "The next oil shock won't shake India like in the past. Story of a 90-day shiftThe Iran war delivered a jolt to India's energy security, exposing the risks of heavy reliance on the Middle East. Even as the conflict gets reignited after US strikes, India's state-run refiners seem to be better-positioned to deal with geopolitical disruptions. Here's how a shift took place in 90 days."
+      "url": "https://www.indiatoday.in/india/law-news/story/ex-aap-councillor-tahir-hussain-4-others-convicted-for-ib-officers-murder-during-2020-delhi-riots-2946916-2026-07-13",
+      "headline": "Ex-AAP leader Tahir Hussain convicted of murdering IB officer during Delhi riotsA Delhi court has delivered a major verdict in the 2020 riots case, convicting former AAP councillor Tahir Hussain and four others while acquitting six accused. The court's ruling also brought emotional scenes inside the courtroom."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/e20-petrol-rollout-most-nda-voters-do-not-support-it-c-voter-survey-2946993-2026-07-13",
+      "headline": "53% of NDA voters don't prefer E20 petrol, 50% fear vehicle damage: C-Voter surveyA C-Voter survey finds more than half of NDA voters unwilling to use E20 petrol, with widespread fears over vehicle damage and lower mileage. The findings reveal why the Centre's ethanol push continues to face resistance."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/us-news/story/were-going-to-keep-hormuz-should-be-reimbused-as-we-are-guardians-trumps-new-threat-to-iran-2946892-2026-07-13",
+      "headline": "US will control Hormuz, should be reimbursed as we are guardians: TrumpDonald Trump's remarks came as the US and Iran traded competing claims over who controls the Strait of Hormuz following renewed military exchanges in the Gulf."
     },
     {
       "sentiment": "negative",
@@ -221,8 +226,38 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/el-nino-begins-to-show-true-colours-makes-indias-monsoon-gasp-for-rain-clouds-2946595-2026-07-13",
+      "headline": "El Nino shows true colours, makes India's monsoon gasp for rain cloudsIndia's monsoon has entered a fresh break phase as El Nino suppresses rain-bearing systems. Forecasters expect below-normal rainfall for now, with a possible revival later in July."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/omar-abdullah-trump-fake-post-jammu-and-kashmir-statehood-article-370-pm-modi-government-bjp-legal-notice-2946907-2026-07-13",
+      "headline": "Trump backs J&K statehood? Omar Abdullah shares satirical post to mock BJPJammu and Kashmir CM Omar Abdullah shared a satirical fake Donald Trump post to attack the BJP over the restoration of Jammu and Kashmir's statehood. The post came as the National Conference prepared to intensify its protests against the BJP at New Delhi's Jantar Mantar."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/us-iran-war-live-updates-strait-of-hormuz-middle-east-tensions-ceasefire-donald-trump-west-asia-crisis-2946436-2026-07-13",
+      "headline": "Live: US forces hit Iranian sub, ship maintenance facility, release video of strikesUS-Iran War Live Updates: Fighting between the United States and Iran has intensified sharply, with both sides exchanging fresh missile and drone strikes on Monday. Iran says it has once again closed the strategically vital Strait of Hormuz, while the US insists the international waterway remains open to commercial shipping. The latest attacks have reached Qatar, Kuwait, Oman, Jordan, the United Arab Emirates and Bahrain, raising fears of a wider regional conflict. Washington has carried out fresh strikes on Iranian military targets around Hormuz, while Tehran has targeted US-linked military facilities across the Gulf and vowed to defend the key shipping route. The renewed violence has cast serious doubt on last month's interim US-Iran agreement, which was intended to reopen the strait and pave the way for a broader peace deal after 60 days of negotiations. President Donald Trump has declared the ceasefire effectively over, even as he says he remains open to talks. The escalating conflict has also disrupted one of the world's busiest energy corridors, pushing up oil prices and raising concerns over global trade. Iran has warned ships not to enter the strait without its approval, while the US says its forces are positioned to protect freedom of navigation. As military operations continue, Gulf nations are dealing with missile and drone attacks, civilian injuries and damage to critical infrastructure, while diplomatic efforts led by Oman, Qatar and other regional partners struggle to keep pace. Follow IndiaToday.in for the latest developments, key statements and real-time analysis from the rapidly evolving US-Iran conflict."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/technology/news/story/iphone-18-pro-launching-in-2-months-india-price-launch-date-specifications-and-more-2946802-2026-07-13",
+      "headline": "iPhone 18 Pro launching in 2 months: India price, launch date, specifications and moreApple's next flagship is just around the corner. From a bigger battery and faster A20 Pro chip to camera upgrades, a smaller Dynamic Island and possible price hikes, here's everything leaks and reports have revealed about the iPhone 18 Pro ahead of its expected September launch."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/india-clean-energy-shift-shift-infrastructure-waste-of-solar-energy-peak-power-demand-rising-electricity-2943861-2026-07-13",
       "headline": "Why tapped solar electricity is going down the drain in IndiaWhile solar power generation in India has increased manifold, storage capacity lags drastically. That's why electricity generated from the sun is going down the drain. The challenge is to make solar power available when consumers need it the most."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/iran-war-energy-crisis-india-oil-imports-diversification-strategy-refiners-middle-east-oil-russia-us-brazil-2938156-2026-07-13",
+      "headline": "The next oil shock won't shake India like in the past. Story of a 90-day shiftThe Iran war delivered a jolt to India's energy security, exposing the risks of heavy reliance on the Middle East. Even as the conflict gets reignited after US strikes, India's state-run refiners seem to be better-positioned to deal with geopolitical disruptions. Here's how a shift took place in 90 days."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-england-lords-womens-test-harmanpreet-kaur-history-2946821-2026-07-13",
+      "headline": "History at Home of Cricket: India win first-ever women's Test at Lord'sIt took more than 140 years for Lord's to host its first-ever women's Test. India made the wait worthwhile, hammering England by 270 runs. Yastika Bhatia's century, Smriti Mandhana's twin fifties and Kranti Gaud's five-wicket haul powered a landmark victory at the Home of Cricket."
     },
     {
       "sentiment": "positive",
@@ -231,83 +266,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/el-nino-begins-to-show-true-colours-makes-indias-monsoon-gasp-for-rain-clouds-2946595-2026-07-13",
-      "headline": "El Nino shows true colours, makes India's monsoon gasp for rain cloudsIndia's monsoon has entered a fresh break phase as El Nino suppresses rain-bearing systems. Forecasters expect below-normal rainfall for now, with a possible revival later in July."
+      "url": "https://www.indiatoday.in/india/story/ladli-behna-scheme-e-kyc-aditi-tatkare-says-1-67-crore-women-eligible-maharashtra-2946879-2026-07-13",
+      "headline": "15 lakh ineligible Ladli Behna applicants found, no mass deletions: MinisterThe Maharashtra government dismissed reports of mass deletions from the Ladli Behna Yojana, saying a statewide verification drive has identified around 15 lakh ineligible applicants while ensuring no eligible woman is excluded."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/features/story/look-ma-no-magnets-how-an-indian-startup-is-using-software-to-break-chinas-rare-earth-monopoly-2946039-2026-07-12",
-      "headline": "How an Indian startup is using software to break China's rare earth monopolyHandcrafted ByOur Editors A Bengaluru-based startup is building motors without permanent magnets. By doing so, it is trying to break China's stronghold on rare earth minerals. India Today Tech reports."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/thousands-of-dog-owners-had-to-put-pets-to-death-in-punjab-a-terrorism-horror-story-2946555-2026-07-13",
-      "headline": "Thousands of dog-owners had to put pets to death in Punjab; a terrorism horror storyDiljit Dosanjh's Satluj has brought the dangerous days of terrorism in Punjab into the spotlight. One well-documented aspect of those days is the massacre of thousands of dogs across the state. At a time when we are debating how best or kindly to deal with street dogs, it is instructive to read this horror story about why Punjab's dogs became collateral damage."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/health/story/odisha-on-alert-after-covid-19-death-reported-in-neighbouring-andhra-pradesh-2946737-2026-07-13",
-      "headline": "Odisha on alert after two COVID-19 deaths reported in neighbouring Andhra PradeshFollowing reports of fresh COVID-19 cases and deaths in neighbouring Andhra Pradesh, Odisha has stepped up surveillance and testing as a precaution. Health officials say no positive cases have been detected in the state so far."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/us-iran-war-live-updates-strait-of-hormuz-middle-east-tensions-ceasefire-donald-trump-west-asia-crisis-2946436-2026-07-13",
-      "headline": "Live: US strikes kill 2 in Iran; Houthis detain Red Cross plane in YemenUS-Iran War Live Updates: Fighting between the United States and Iran has intensified sharply, with both sides exchanging fresh missile and drone strikes on Monday. Iran says it has once again closed the strategically vital Strait of Hormuz, while the US insists the international waterway remains open to commercial shipping. The latest attacks have reached Qatar, Kuwait, Oman, Jordan, the United Arab Emirates and Bahrain, raising fears of a wider regional conflict. Washington has carried out fresh strikes on Iranian military targets around Hormuz, while Tehran has targeted US-linked military facilities across the Gulf and vowed to defend the key shipping route. The renewed violence has cast serious doubt on last month's interim US-Iran agreement, which was intended to reopen the strait and pave the way for a broader peace deal after 60 days of negotiations. President Donald Trump has declared the ceasefire effectively over, even as he says he remains open to talks. The escalating conflict has also disrupted one of the world's busiest energy corridors, pushing up oil prices and raising concerns over global trade. Iran has warned ships not to enter the strait without its approval, while the US says its forces are positioned to protect freedom of navigation. As military operations continue, Gulf nations are dealing with missile and drone attacks, civilian injuries and damage to critical infrastructure, while diplomatic efforts led by Oman, Qatar and other regional partners struggle to keep pace. Follow IndiaToday.in for the latest developments, key statements and real-time analysis from the rapidly evolving US-Iran conflict."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/indias-t20i-downfall-explained-did-gambhir-try-to-fix-something-that-was-not-broken-2946526-2026-07-13",
-      "headline": "India's T20I freefall explained: Did Gambhir and Agarkar fix what wasn't broken?India's disastrous 0-6 tour of Ireland and England has raised questions far bigger than Shreyas Iyer's winless start as T20I captain. In trying to rebuild a world champion side, have Gautam Gambhir and the selection committee dismantled a setup that never really needed fixing?"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/puja-held-inside-moving-train-railways-clarifies-after-video-goes-viral-2946493-2026-07-13",
-      "headline": "Puja held inside moving train, Railways clarifies after video goes viralA video showing a priest conducting a puja inside a moving train coach went viral online. Northern Railways said the ritual took place in a privately booked saloon car, prompting debate over activities allowed during journeys."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/kangana-ranaut-anandiben-patel-women-cooking-remarks-gender-debate-2946618-2026-07-13",
-      "headline": "Women are meant to nurture: Kangana backs Anandiben Patel's 'learn to cook' remarkKangana Ranaut backed Uttar Pradesh Governor Anandiben Patel's remarks urging women to learn to cook for their families. Her endorsement drew criticism online and widened the debate over gender roles."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/indias-five-gold-physics-feat-why-the-tougher-olympiad-deserves-the-spotlight-2946701-2026-07-13",
-      "headline": "Is Physics the toughest Olympiad? India's five-gold triumph makes the caseIndia's clean sweep at the 56th International Physics Olympiad is more than a historic achievement. It makes a compelling case for the Physics Olympiad as one of the world's toughest academic competitions, where success demands not just mastery of theory but exceptional experimental skill and scientific thinking."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/sonam-wangchuk-hunger-strike-weight-loss-glucose-drop-jantar-mantar-exam-protest-ptag-2946734-2026-07-13",
-      "headline": "Sonam Wangchuk loses 8.2 kg in 16 days of hunger strike at Cockroach Party protestSonam Wangchuk's health declined further on the 16th day of his indefinite hunger strike at Jantar Mantar. As opposition leaders and student groups rallied behind the protest, organisers urged the Centre to act on their demands."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/lifestyle/fashion/story/zara-viral-wide-leg-trousers-women-falls-injuries-2946763-2026-07-13",
-      "headline": "'I almost died eight times': Women blame Zara's viral trousers for nasty fallsWomen on TikTok and Instagram have blamed Zara's viral wide-leg trousers for a string of falls and injuries. The posts have fuelled jokes online and renewed questions about the practical risks of ultra-wide silhouettes."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/yakb-12-7-viral-video-russian-soldier-loses-control-of-helicopter-gun-2946624-2026-07-13",
-      "headline": "Watch: Meant for a helicopter, fired from the ground. Russian gun goes rogueThe viral footage shows the Russian soldier preparing to fire the four-barrel YakB-12.7, which had been bolted onto a ground mount instead of its intended platform, the nose turret of a Soviet-era Mi-24 attack helicopter."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/man-quits-corporate-career-after-18-years-says-office-politics-cost-him-promotion-2946625-2026-07-13",
-      "headline": "Man quits corporate career after 18 years, says office politics cost him promotionDharmendra Pandey, who describes himself in his Instagram bio as someone \"helping working professionals build an income outside their job,\" posted a video reflecting on his nearly two decades in the corporate world and the lessons he learnt before quitting."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/naseeruddin-shah-anupam-kher-old-clown-remark-resurfaces-after-ram-temple-theft-comments-2946566-2026-07-13",
-      "headline": "Naseeruddin Shah called Anupam Kher a clown. Video resurfaces amid Ram Temple rowAn old video of Naseeruddin Shah calling Anupam Kher a clown has resurfaced after Kher's remarks on the theft of donations at the Ayodhya Ram Temple."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/hyderabad/story/hyderabad-police-si-booked-for-allowing-6-year-old-granddaughter-to-drive-car-2946683-2026-07-13",
-      "headline": "Video: Cop allows 6-year-old granddaughter to drive car, gets confronted by localsA video of the incident showed the 6-year-old slowly driving the Maruti Swift on a busy road while the police officer sat in the front passenger seat with one hand on the steering wheel."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/india-us-trade-deal-talks-on-track-piyush-goyal-dismisses-reuters-roadblock-report-2946690-2026-07-13",
-      "headline": "Piyush Goyal dismisses report claiming India is holding back on US trade dealThe rebuttal comes at a sensitive stage in India-US trade negotiations, with both sides racing to bridge differences on tariffs and market access ahead of a proposed bilateral trade agreement."
+      "url": "https://www.indiatoday.in/india/law-news/story/supreme-court-pauses-madras-hcs-blanket-ban-on-cow-slaughter-in-tamil-nadu-says-order-requires-correction-2946569-2026-07-13",
+      "headline": "Win for Vijay govt as Supreme Court pauses blanket ban on cow slaughter orderThe Supreme Court granted interim relief to the Tamil Nadu government, issued notice on its plea challenging the High Court's directions, and stayed the operation of the order until further proceedings."
     },
     {
       "sentiment": "positive",
@@ -316,15 +281,70 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/meet-mana-jampala-12-year-old-founder-who-learnt-python-at-9-and-built-ai-startup-voxa-2945740-2026-07-12",
-      "headline": "Meet 12-year-old Mana Jampala who built an AI startup with clients in 3 countriesMana Jampala is only 12, but she is already running an AI startup with deployments in Canada, India and Cambodia. After learning Python at nine and building AI products by 11, the Grade 7 student has developed AI-powered tools that help businesses automate customer calls and everyday operations."
+      "url": "https://www.indiatoday.in/movies/celebrities/story/kangana-ranaut-anandiben-patel-women-cooking-remarks-gender-debate-2946618-2026-07-13",
+      "headline": "Women are meant to nurture: Kangana backs Anandiben Patel's 'learn to cook' remarkKangana Ranaut backed Uttar Pradesh Governor Anandiben Patel's remarks urging women to learn to cook for their families. Her endorsement drew criticism online and widened the debate over gender roles."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/thousands-of-dog-owners-had-to-put-pets-to-death-in-punjab-a-terrorism-horror-story-2946555-2026-07-13",
+      "headline": "Thousands of dog-owners had to put pets to death in Punjab; a terrorism horror storyDiljit Dosanjh's Satluj has brought the dangerous days of terrorism in Punjab into the spotlight. One well-documented aspect of those days is the massacre of thousands of dogs across the state. At a time when we are debating how best or kindly to deal with street dogs, it is instructive to read this horror story about why Punjab's dogs became collateral damage."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/sonam-wangchuk-hunger-strike-weight-loss-glucose-drop-jantar-mantar-exam-protest-ptag-2946734-2026-07-13",
+      "headline": "Sonam Wangchuk's health worsens after losing 8.2 kg in 16 days of fast at CJP protestSonam Wangchuk's health declined further on the 16th day of his indefinite hunger strike at Jantar Mantar. As opposition leaders and student groups rallied behind the protest, organisers urged the Centre to act on their demands."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/naseeruddin-shah-anupam-kher-old-clown-remark-resurfaces-after-ram-temple-theft-comments-2946566-2026-07-13",
+      "headline": "Naseeruddin Shah called Anupam Kher a clown. Video resurfaces amid Ram Temple rowAn old video of Naseeruddin Shah calling Anupam Kher a clown has resurfaced after Kher's remarks on the theft of donations at the Ayodhya Ram Temple."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/trending-news/story/man-quits-corporate-career-after-18-years-says-office-politics-cost-him-promotion-2946625-2026-07-13",
+      "headline": "Man quits corporate career after 18 years, says office politics cost him promotionDharmendra Pandey, who describes himself in his Instagram bio as someone \"helping working professionals build an income outside their job,\" posted a video reflecting on his nearly two decades in the corporate world and the lessons he learnt before quitting."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/lifestyle/travel/story/what-is-the-viral-philately-passport-that-had-bengaluru-queuing-up-at-530-am-karnataka-2946571-2026-07-13",
+      "headline": "The viral Philately Passport that had Bengaluru queuing up at 5:30 amWhen was the last time you visited a post office? Well, many in Karnataka did that over the weekend. Reason? To get their hands on viral Philately Passport."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/technology/features/story/look-ma-no-magnets-how-an-indian-startup-is-using-software-to-break-chinas-rare-earth-monopoly-2946039-2026-07-12",
+      "headline": "How an Indian startup is using software to break China's rare earth monopolyHandcrafted ByOur Editors A Bengaluru-based startup is building motors without permanent magnets. By doing so, it is trying to break China's stronghold on rare earth minerals. India Today Tech reports."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/news/story/indias-five-gold-physics-feat-why-the-tougher-olympiad-deserves-the-spotlight-2946701-2026-07-13",
+      "headline": "Is Physics the toughest Olympiad? India's five-gold triumph makes the caseIndia's clean sweep at the 56th International Physics Olympiad is more than a historic achievement. It makes a compelling case for the Physics Olympiad as one of the world's toughest academic competitions, where success demands not just mastery of theory but exceptional experimental skill and scientific thinking."
     }
   ],
   "sports": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-england-series-brendon-mccullum-comments-2947023-2026-07-13",
+      "headline": "Brendon McCullum breaks silence after sacking from England Test coach role Brendon McCullum said he was disappointed after losing the England Test job and apologised to supporters. He said that Bazball changed the side's identity, but failures in the Ashes and against India proved decisive."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-england-test-lords-harmanpreet-kaur-2947015-2026-07-13",
+      "headline": "Harmanpreet calls for more women's Test matches after historic win at Lord's India captain Harmanpreet Kaur has called for more women's Test matches after leading her side to a historic 270-run victory over England at Lord's. Speaking after India's massive win, she hoped that the team gets \"ten more Test matches\" to continue proving themselves in the longest format."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-wimbledon-look-centre-court-style-decoded-2946986-2026-07-13",
+      "headline": "Loved Sooryavanshi's Wimbledon look? Decoding his Centre Court style game Liked Vaibhav Sooryavanshi's sharp look at the All England Club? From his structured black suit and striped club tie to those sleek leather loafers, we decode the teenage batting prodigy's effortless, last-minute Wimbledon style game."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/england-vs-india-odi-press-conference-shubman-gill-virat-kohli-2947001-2026-07-13",
+      "headline": "Retirement far off, Kohli helping India plan for ODI World Cup 2027 India captain Shubman Gill has revealed that former India captain Virat Kohli is heavily involved in the planning of ODI World Cup 2027. Gill also answered queries about Rohit Sharma and his place in the team going into the marquee tournament."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-england-lords-womens-test-harmanpreet-kaur-history-2946821-2026-07-13",
-      "headline": "Indian cricket team hammers England to win first-ever women's Test at Lord's Harmanpreet Kaur led India to a 270-run win over England as India won the first-ever women's Test at Lord's. Yastika Bhatia's second-innings hundred and Kranti Gaud's five-wicket haul in the first were the highlights of the historic win."
+      "headline": "History at Home of Cricket: India win first-ever women's Test at Lord's It took more than 140 years for Lord's to host its first-ever women's Test. India made the wait worthwhile, hammering England by 270 runs. Yastika Bhatia's century, Smriti Mandhana's twin fifties and Kranti Gaud's five-wicket haul powered a landmark victory at the Home of Cricket."
     },
     {
       "sentiment": "positive",
@@ -334,7 +354,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/englnad-vs-india-live-score-womens-test-day-4-updates-smriti-mandhana-2946680-2026-07-13",
-      "headline": "Day 4 live: India win by 270 runs, win first-ever women's Test at Lord's England (ENG) vs India (IND) Day 4 live score, women's one-off Test: Harmanpreet Kaur's India win the first ever women's Test match at Lord's. India beat England by a massive margin of 270 runs."
+      "headline": "Day 4 Highlights: India win by 270 runs, win first-ever women's Test at Lord's England (ENG) vs India (IND) Day 4 Highlights, women's one-off Test: Harmanpreet Kaur's India win the first ever women's Test match at Lord's. India beat England by a massive margin of 270 runs."
     },
     {
       "sentiment": "positive",
@@ -359,22 +379,22 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-chennai-super-kings-stephen-fleming-coach-steps-down-2946554-2026-07-13",
-      "headline": "IPL: Stephen Fleming steps down as CSK head coach after 17 years at helm IPL: Chennai Super Kings parted ways with head coach Stephen Fleming after an 18-year association, drawing the curtains on the IPL's most successful coaching era. CSK finished three consecutive seasons outside the top four."
+      "headline": "IPL: Stephen Fleming steps down as CSK head coach after 17 years at helmIPL: Chennai Super Kings parted ways with head coach Stephen Fleming after an 18-year association, drawing the curtains on the IPL's most successful coaching era. CSK finished three consecutive seasons outside the top four."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/indias-t20i-downfall-explained-did-gambhir-try-to-fix-something-that-was-not-broken-2946526-2026-07-13",
-      "headline": "India's T20I freefall explained: Did Gambhir and Agarkar fix what wasn't broken? India's disastrous 0-6 tour of Ireland and England has raised questions far bigger than Shreyas Iyer's winless start as T20I captain. In trying to rebuild a world champion side, have Gautam Gambhir and the selection committee dismantled a setup that never really needed fixing?"
+      "headline": "India's T20I freefall explained: Did Gambhir and Agarkar fix what wasn't broken?India's disastrous 0-6 tour of Ireland and England has raised questions far bigger than Shreyas Iyer's winless start as T20I captain. In trying to rebuild a world champion side, have Gautam Gambhir and the selection committee dismantled a setup that never really needed fixing?"
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/andy-flower-england-test-coach-nasser-hussain-brendon-mccullum-2946501-2026-07-13",
-      "headline": "Andy Flower took England to No.1: Nasser backs RCB coach to replace McCullum Former England captain Nasser Hussain has backed Andy Flower to replace Brendon McCullum as England's Test head coach, saying his meticulous approach is exactly what the team needs after the Bazball era."
+      "headline": "Andy Flower took England to No.1: Nasser backs RCB coach to replace McCullumFormer England captain Nasser Hussain has backed Andy Flower to replace Brendon McCullum as England's Test head coach, saying his meticulous approach is exactly what the team needs after the Bazball era."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/wimbledon-alexander-zverev-close-gap-jannik-sinner-carlos-alcaraz-2946476-2026-07-13",
-      "headline": "Zverev aims to move beyond tennis' third guy tag, close gap on Sinner and Alcaraz Wimbledon runner-up Alexander Zverev will return to world No. 2 on Monday, but believes his attacking game has finally brought him closer to Jannik Sinner and Carlos Alcaraz after years of being labelled tennis' \"third guy\"."
+      "headline": "Zverev aims to move beyond tennis' third guy tag, close gap on Sinner and AlcarazWimbledon runner-up Alexander Zverev will return to world No. 2 on Monday, but believes his attacking game has finally brought him closer to Jannik Sinner and Carlos Alcaraz after years of being labelled tennis' \"third guy\"."
     },
     {
       "sentiment": "positive",
@@ -450,26 +470,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/lionel-scaloni-dismisses-argentina-england-rivalry-world-cup-semi-final-2946129-2026-07-12",
       "headline": "Lionel Scaloni dismisses Argentina-England history before World Cup semi-finalFIFA World Cup: Argentina coach Lionel Scaloni played down his country's history with England, insisting that the semi-final was \"just a football game\" after his side defeated Switzerland 3-1 in the quarter-finals."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/cricket/story/sanjay-manjrekar-blames-ipl-india-back-to-back-t20i-series-losses-2946098-2026-07-12",
-      "headline": "IPL puts heavy make-up on batters: Sanjay Manjrekar on India's T20I debacleFormer India batter Sanjay Manjrekar believes India's disappointing T20I tour should shift the focus from the players to the IPL, saying the tournament's batting-friendly conditions do not adequately prepare batters for the demands of overseas cricket."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/cricket/story/england-vs-india-vaibhav-sooryavanshi-sanju-samson-confidence-2946067-2026-07-12",
-      "headline": "Preach patience, practice panic: How India failed Sooryavanshi and Samson in the UKIndia's 0-6 tour of the United Kingdom will be remembered for the records it shattered, but perhaps its biggest failure lay elsewhere. In the space of one disastrous series, India risked damaging the confidence of two batters at opposite ends of their careers, raising uncomfortable questions about the team's handling of Vaibhav Sooryavanshi and Sanju Samson."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-argentina-switzerland-breel-embolo-red-card-var-controversy-2946054-2026-07-12",
-      "headline": "Argentina bias at FIFA World Cup? Swiss coach slams unacceptable Embolo red cardSwitzerland coach Murat Yakin blasted the rule behind Breel Embolo's controversial red card as \"unacceptable\" after Argentina scored twice in extra time to seal a 3-1 win and end the Swiss fairytale in the FIFA World Cup quarter-finals on Saturday."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/world-cup-messi-joao-pinheiro-referee-heated-exchange-argentina-switzerland-2946042-2026-07-12",
-      "headline": "Messi's heated exchange with Portuguese referee goes viral: Don't be disrespectfulLionel Messi found himself at the center of another viral World Cup moment, this time after a heated exchange with Portuguese referee Jo\u00e3o Pinheiro during Argentina's dramatic 3-1 extra-time win over Switzerland."
     }
   ],
   "education": [
