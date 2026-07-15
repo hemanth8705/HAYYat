@@ -2,6 +2,16 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/chinas-economy-slows-to-43-in-q2-as-domestic-demand-weakens-2948609-2026-07-15",
+      "headline": "China's economy slows to 4.3% in Q2 as domestic demand weakensOfficial data released by the National Bureau of Statistics (NBS) on Wednesday showed that the world's second-largest economy expanded by 4.3% between April and June, down from 5% in the first quarter."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/rs-62500-crore-push-for-mobile-manufacturing-will-it-make-smartphones-cheaper-2948595-2026-07-15",
+      "headline": "Rs 62,500 crore push for mobile manufacturing: Will it make smartphones cheaper?The move is expected to help India strengthen its position as a global manufacturing hub and the scheme will run for five years, from FY 2026-27 to FY 2030-31."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/india-uk-fta-goes-live-why-uk-high-commissioner-calls-it-the-new-gold-standard-2948448-2026-07-15",
       "headline": "India-UK FTA goes live: Why UK High Commissioner calls it the 'new gold standard'UK High Commissioner to India Lindy Cameron called the India-UK FTA the \"new gold standard\" for free trade agreements and said it should be viewed as the beginning of a deeper partnership rather than its final destination."
     },
@@ -48,7 +58,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/india-uk-social-security-pact-will-your-pf-balance-grow-under-the-new-deal-2948236-2026-07-15",
-      "headline": "India-UK social security pact: Will your PF balance grow under the new deal?While the India-UK trade pact has attracted attention for opening up markets and reducing tariffs, the social security agreement could have an equally meaningful impact for Indian professionals."
+      "headline": "Will your PF grow under India-UK social security pact? ExplainedWhile the India-UK trade pact has attracted attention for opening up markets and reducing tariffs, the social security agreement could have an equally meaningful impact for Indian professionals."
     },
     {
       "sentiment": "positive",
@@ -89,23 +99,58 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/india-tightens-import-rules-bans-goods-produced-using-forced-labour-2947554-2026-07-14",
       "headline": "India tightens import rules, bans goods produced using forced labourThe decision is expected to strengthen India's import regulations and encourage businesses to pay closer attention to their global supply chains."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/market/story/market-closing-sensex-tanks-561-points-nifty-holds-24000-hcltech-down-5-2947532-2026-07-14",
-      "headline": "Dalal Street ends lower as Brent crude tops $86 amid fresh Middle East tensionsThe S&P BSE Sensex declined 570.10 points, or 0.73%, to settle at 77,046.30, while the NSE Nifty50 fell 171.10 points, or 0.71%, to close at 24,039.90."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/byju-raveendran-singapore-jail-sentence-high-court-rejects-suspension-plea-2947508-2026-07-14",
-      "headline": "Byju's founder can't return to Singapore without risking jail after court rulingSingapore's High Court rejected Byju Raveendran's plea to suspend a six-month contempt sentence. The ruling keeps the term in force and adds to his cross-border legal battles."
     }
   ],
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/no-green-screens-real-ships-91-days-how-christopher-nolan-spent-250-million-on-the-odyssey-2948601-2026-07-15",
+      "headline": "No green screens, real ships, 91 days: How Nolan spent $250 million on The Odyssey The documentary The Odyssey: The Making of an Epic tracks Christopher Nolan's $250 million production across five countries without relying on green screens. It highlights a practical filmmaking approach shaped by real locations, physical training and historically rooted sound design."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/pawan-kalyan-discharged-after-shoulder-surgery-begins-recovery-in-hyderabad-2948662-2026-07-15",
+      "headline": "Pawan Kalyan discharged after 4-day hospital stay following shoulder surgery Andhra Pradesh Deputy Chief Minister Pawan Kalyan has returned to Hyderabad after undergoing right shoulder surgery in Mumbai. Doctors have advised him to take three weeks of complete bed rest before beginning physiotherapy."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/jaaved-jaaferi-says-society-is-intolerant-of-comedy-now-discusses-pranit-more-row-2927652-2026-07-15",
+      "headline": "Jaaved Jaaferi says society is intolerant of comedy now, discusses Pranit More row Jaaved Jaaferi backed Pranit More's right to perform after the comedian faced backlash over a crowd-work clip. He said the reaction showed how comedians become easy targets and humour is now judged without context."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/gatta-kusthi-2-rajinikanth-review-praises-vishnu-vishal-zara-2948630-2026-07-15",
+      "headline": "Rajinikanth reviews Vishnu Vishal's Gatta Kusthi 2, calls it a fun entertainer Rajinikanth reviewed Gatta Kusthi 2 as a \"fun entertainer\" and lauded Vishnu Vishal's script choices, Aishwarya Lekshmi's performance and child actor Zara's impressive screen presence."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/telugu-film-chennai-love-story-unfazed-by-vijay-jana-nayagan-set-for-box-office-clash-2948517-2026-07-15",
+      "headline": "Telugu film Chennai Love Story unfazed by Jana Nayagan, set for box office clash Actor Kiran Abbavaram reaffirmed that Chennai Love Story will release on July 24 despite a box-office clash with Vijay's final film, Jana Nayagan, expressing complete confidence in the film."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/allu-arjun-basil-joseph-collaboration-buzz-icon-post-raaka-aa23-2948251-2026-07-15",
+      "headline": "Director Basil Joseph's cryptic post sparks fresh Allu Arjun film speculation The filmmaker's latest social media post has reignited speculation about a possible film with Allu Arjun, though neither side has officially confirmed the project."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/ride-or-die-review-hannah-waddingham-octavia-spencer-prime-video-spy-comedy-2948607-2026-07-15",
+      "headline": "Ride or Die review: Hannah Waddingham, Octavia Spencer elevate this spy caperRelease Date:Wed Jul 15, 2026 Ride or Die follows Debbie as she learns her closest friend Judith is an assassin. The series, starring Hannah Waddingham and Octavia Spence, uses their long friendship to give its spy chaos an emotional centre."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/the-odyssey-is-indian-at-heart-how-christopher-nolans-epic-fits-perfectly-into-our-tradition-ramayana-mahabharata-2948514-2026-07-15",
+      "headline": "The Odyssey is Indian at heart: How Nolan's epic fits perfectly into our tradition Director Christopher Nolan's The Odyssey is drawing Indian fans willing to pay Rs 3,100 for scarce IMAX seats. The film's deeper soul may lie in how the ancient Greek tale echoes Indian epics, karma and family honour."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/christopher-nolan-the-odyssey-imax-1570-fans-travel-melbourne-2948367-2026-07-15",
+      "headline": "Why Christopher Nolan fans are flying to Australia for The Odyssey Christopher Nolan fans are travelling thousands of miles to watch The Odyssey in Australia, turning a film screening into something closer to a pilgrimage. The film releases worldwide on July 18 and on July 17 in India."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/govt-may-act-against-zee5-over-uncertified-screening-of-satluj-consider-mandatory-certification-for-ott-films-2948552-2026-07-15",
-      "headline": "Govt may act against Zee5 over uncertified screening of Satluj, consider mandatory certification for OTT films Govt may act against Zee5 over uncertified screening of Satluj, consider mandatory certification for OTT films"
+      "headline": "Govt may mandate OTT certification, act against Zee5 amid Satluj row: Sources The Indian government is considering making CBFC certification mandatory for films released on OTT platforms following the uncertified streaming of Satluj on Zee5."
     },
     {
       "sentiment": "negative",
@@ -151,58 +196,18 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/nick-jonas-priyanka-chopra-proposal-flight-delay-greece-engagement-2948288-2026-07-15",
       "headline": "How Nick Jonas proposed to Priyanka Chopra despite a major flight delay Singer Nick Jonas said a delayed flight pushed his planned midnight proposal to his actor-wife Priyanka Chopra to 2.30 am in Greece. Priyanka said she spent the trip wondering why he seemed so anxious, unaware of the surprise."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/mohanlal-fifa-world-cup-2026-france-vs-spain-semi-final-dallas-2948221-2026-07-15",
-      "headline": "Mohanlal watches France vs Spain World Cup semi-final in Dallas with wife A longtime Lionel Messi and Argentina supporter, Malayalam superstar Mohanlal was spotted at the France vs Spain World Cup semi-final in Texas, days after attending Argentina's quarter-final victory over Switzerland."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/story/satluj-was-never-about-jaswant-singh-khalra-politics-director-honey-trehan-defends-film-2948265-2026-07-15",
-      "headline": "Satluj was never about Khalra's politics: Director Honey Trehan defends film Director Honey Trehan defended his portrayal of Jaswant Singh Khalra, rejecting criticism that the film omitted the activist's political views. He said the film focussed on Khalra's work exposing human rights violations."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/story/it-united-people-satluj-director-honey-trehan-rejects-claim-that-film-could-aid-hostile-elements-2948238-2026-07-15",
-      "headline": "It united people: Satluj director rejects claim that film could aid hostile elements Director Honey Trehan refutes claims that his film Satluj could be misused to disturb peace. He asserted it has united people in Punjab rather than dividing them."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/music/story/shweta-mohan-breaks-down-singing-s-janaki-songs-at-ilaiyaraaja-london-concert-2948246-2026-07-15",
-      "headline": "Singer Shweta Mohan tears up on stage, reveals why she missed S Janaki's funeral Singer Shweta Mohan turned emotional while singing S Janaki's songs at Ilaiyaraaja's London concert hours after the veteran singer's death. Later, she said missing Janaki's funeral was painful and asked trolls not to hurt her further."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/sonam-wangchuk-fast-rakhi-sawant-offers-to-break-his-fast-at-jantar-mantar-2948224-2026-07-15",
-      "headline": "Will break his fast with my own hands: Rakhi Sawant vows to meet Sonam Wangchuk Rakhi Sawant appealed to Sonam Wangchuk to end his hunger strike and said she would go to Jantar Mantar to help him break it. Her message came as support from other public figures grew and concern mounted over his worsening health."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/priyanka-chopra-nick-jonas-bollywood-gossip-celebrity-breakups-2948178-2026-07-15",
-      "headline": "Nick Jonas is a true-blue Bollywood buff, beats Priyanka to the gossip On the Jonas Brothers' podcast, actor Priyanka Chopra said her singer-husband Nick Jonas often updates her on Bollywood gossip and celebrity break-ups. The chat turned playful as Nick admitted he ghost-follows unnamed gossip pages."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/jason-sanjay-sigma-release-delay-vijay-jana-nayagan-july-24-2948206-2026-07-15",
-      "headline": "CM Vijay's Jana Nayagan delays son Jason Sanjay's debut directorial Sigma Reports say Jason Sanjay's Sigma may move from July 31 to August as Vijay's Jana Nayagan eyes a July 23 release. The shift has turned attention to Vijay's swansong and fresh talks around a perfect launch for his son's debut directorial."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/hollywood/story/zendaya-christopher-nolan-tom-holland-rare-perfect-the-odyssey-2948208-2026-07-15",
-      "headline": "When Zendaya got a rare 'perfect' from Nolan: What Tom Holland told India Today Actor Tom Holland reacted to his co-star, wife Zendaya receiving Christopher Nolan's rare 'perfect' on The Odyssey set during an exclusive chat with India Today in Mumbai. He said Nolan's appreciation for his performance was all the validation he needed."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/samantha-ruth-prabhu-says-she-had-long-waited-for-motherhood-pregnancy-raj-nidimoru-2948159-2026-07-15",
-      "headline": "Always wanted to be a mother, I'll give it my all: Samantha gets candid on pregnancy Samantha Ruth Prabhu said that she has long awaited becoming a mother as she prepares to welcome her first child with Raj Nidimoru. The actor said pregnancy has given her a new sense of strength and purpose."
     }
   ],
   "general news": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/us-news/story/utah-mall-stabbing-muslim-man-attacked-valley-fair-suspect-targeted-religion-2948673-2026-07-15",
+      "headline": "Are you Muslim? Indian man survives after being stabbed 15 times at US mallAn Indian Muslim man was stabbed inside a Utah shopping mall after being questioned about his religion. Police said the suspect admitted targeting him because of his religion and warned that he posed a serious threat to the public."
+    },
+    {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/kudankulam-nuclear-plant-data-breach-anil-ambani-reliance-blueprint-leak-2948376-2026-07-15",
-      "headline": "Files linked to Kudankulam N-power plant exposed in data breach: ReutersA ransomware group has published a large cache of stolen data on the dark web, claiming it includes blueprints of parts of India's largest nuclear power plant Kudankulam. The hackers said the data was obtained from Anil Ambani's Reliance Group, a contractor at the plant."
+      "url": "https://www.indiatoday.in/india/story/pok-protests-jaac-march-muzaffarabad-4000-rangers-deployed-pakistan-crackdown-rawalakot-2948474-2026-07-15",
+      "headline": "POK on edge as showdown looms: 12 killed, 4,000 Rangers deployed, media blacked outCities and towns in Pakistan-Occupied Kashmir (POK) have been sealed, and an undeclared media blackout has been imposed on Rawalakot ahead of the march to Muzaffarabad on Wednesday. At least 12 people were killed in Tuesday's clashes as the Pakistani establishment stepped up its crackdown."
     },
     {
       "sentiment": "positive",
@@ -211,8 +216,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/delhi/story/delhi-sir-timeline-extended-by-12-days-draft-roll-to-be-published-on-august-17-final-list-on-october-19-2948533-2026-07-15",
-      "headline": "Delhi SIR deadline extended; draft roll to be out on Aug 17, final list on Oct 19The door-to-door verification by Booth Level Officers will now continue till August 8, while the draft electoral roll will be published on August 17 instead of August 5."
+      "url": "https://www.indiatoday.in/india/story/sharad-pawars-ncp-to-back-nda-govts-controversial-delimitation-bill-breaks-ranks-with-opposition-sources-2948225-2026-07-15",
+      "headline": "Sharad Pawar's NCP may back NDA's delimitation bill, breaking ranks with OppositionThe Sharad Pawar-led NCP is likely to back the NDA's Delimitation Bill if it guarantees a uniform 50% increase in Lok Sabha seats across all states, a move that could see the party break ranks with the Opposition."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/trending-news/story/dutch-woman-thought-mumbai-was-her-dream-city-until-bengaluru-changed-her-mind-2948440-2026-07-15",
+      "headline": "Dutch woman thought Mumbai was her dream city, until Bengaluru changed her mindA Dutch woman shared why moving to Mumbai from Bengaluru no longer matched the life she needed after becoming a mother. Her video sparked conversation on how cities can feel different as priorities shift with life stages."
     },
     {
       "sentiment": "positive",
@@ -221,23 +231,28 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/icc-world-cup-formats-new-odi-super-7-and-t20-super-10-changes-explained-2948455-2026-07-15",
-      "headline": "IPL-style eliminator, Super 7: ICC announces major changes to ODI, T20 World CupsThe ICC's major tournament revamp introduces a unified Super 7 round-robin stage for the men's ODI World Cup and brings high-stakes, IPL-style crossover eliminators to an expanded Super 10 phase in the T20 World Cup. We have tried to explain the new formats. Read on."
+      "url": "https://www.indiatoday.in/india/story/sonam-wangchuk-cockroach-janta-party-protest-dharmendra-pradhan-resignation-hunger-strike-2948580-2026-07-15",
+      "headline": "When Dharmendra Pradhan met Sonam WangchukWhen Union Education Minister Dharmendra Pradhan and Ladakh-based activist and educationist Sonam Wangchuk held a meeting in 2023 over the National Education Policy, it reflected warmth and optimism. Three years later, Wangchuk is on an indefinite hunger strike, demanding Pradhan's resignation."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/sharad-pawars-ncp-to-back-nda-govts-controversial-delimitation-bill-breaks-ranks-with-opposition-sources-2948225-2026-07-15",
-      "headline": "Sharad Pawar's NCP may back NDA's delimitation bill, breaking ranks with OppositionThe Sharad Pawar-led NCP is likely to back the NDA's Delimitation Bill if it guarantees a uniform 50% increase in Lok Sabha seats across all states, a move that could see the party break ranks with the Opposition."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/manish-kashyap-3-other-influencers-face-fir-over-alleged-defamatory-e20-content-on-nitin-gadkari-2948123-2026-07-15",
-      "headline": "Case filed against 4 influencers over videos targeting Nitin Gadkari for E20The FIR was filed on the basis of a complaint lodged by a BJP social media cell functionary in Nagpur. According to the complaint, a YouTube video uploaded by influencer Manish Kashyap contained misinformation meant to tarnish Nitin Gadkari's reputation."
+      "url": "https://www.indiatoday.in/sports/football/story/england-vs-argentina-semi-final-fifa-world-cup-lionel-messi-diego-maradona-hand-of-god-preview-2946450-2026-07-15",
+      "headline": "England vs Argentina semifinal guide: Messi steps into football's fiercest rivalryEngland vs Argentina semi-final: England and Argentina do not meet as ordinary opponents. Rooted in Maradona's infamous 1986 quarter-final, this rivalry carries weight few international fixtures can match. Now Messi faces the one team that has always eluded him with a spot in the final against Spain up for grabs."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/jobs/story/from-iit-to-millionaire-meet-siddhartha-saxena-who-earned-rs-77-crore-in-a-single-day-educ-2948110-2026-07-15",
-      "headline": "From IIT to millionaire: Meet Siddhartha Saxena who earned Rs 77 crore in a single dayFrom IIT Kanpur to building a fast-growing AI startup, Siddhartha Saxena's journey is defined by innovation and calculated risk. The Merlin co-founder says he earned nearly Rs 77 crore (USD 8 million) in a single day, becoming a millionaire at just 26."
+      "url": "https://www.indiatoday.in/movies/hollywood/story/the-odyssey-is-indian-at-heart-how-christopher-nolans-epic-fits-perfectly-into-our-tradition-ramayana-mahabharata-2948514-2026-07-15",
+      "headline": "The Odyssey is Indian at heart: How Nolan's epic fits perfectly into our traditionDirector Christopher Nolan's The Odyssey is drawing Indian fans willing to pay Rs 3,100 for scarce IMAX seats. The film's deeper soul may lie in how the ancient Greek tale echoes Indian epics, karma and family honour."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/madan-mitra-exit-biggest-setback-mamata-banerjee-trinamool-2948594-2026-07-15",
+      "headline": "Madan Mitra's exit the final nail in coffin for Mamata?In a shock move, TMC MLA Madan Mitra quit Mamata Banerjee's camp and joined the rebel Trinamool faction, blaming Abhishek Banerjee for the crisis. The move carries symbolic weight because Mitra had stood by Mamata through the party's rise and setbacks."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/health/story/hepatitis-b-birth-dose-coverage-india-questioned-by-who-and-unicef-2948620-2026-07-15",
+      "headline": "WHO, UNICEF dispute India's hepatitis B birth-dose dataWHO and UNICEF have challenged India's official estimate for the hepatitis B birth dose given to newborns within 24 hours. The gap has raised concerns over coverage denominators even as India's routine childhood immunisation remains high."
     },
     {
       "sentiment": "positive",
@@ -246,81 +261,76 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/monsoon-revival-india-bay-of-bengal-low-pressure-rainfall-july-2948384-2026-07-15",
+      "headline": "Monsoon warming up in Bay of Bengal after power nap. When will it rain?Something brewing in the Bay of Bengal is expected to revive the monsoon in coming days, bringing widespread rain to several states. Read when rain will arrive and where."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/dharavi-redevelopment-digital-twin-adani-maps-homes-jobs-lanes-before-mumbai-revamp-3d-lidar-2948501-2026-07-15",
+      "headline": "As Dharavi is set to disappear, a digital twin will ensure it survivesDharavi is being preserved in a detailed digital twin before redevelopment starts in full swing and reshapes the settlement, which is India's largest slum in Mumbai. The 3D archive is expected to guide relocation and planning while preserving a record of the neighbourhood that future generations will never experience."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/sonam-wangchuk-fast-shashi-tharoor-jantar-mantar-neet-protest-parliament-cockroach-janata-party-dipke-2948232-2026-07-15",
+      "headline": "Shashi Tharoor's open letter to Jantar Mantar protesters and Sonam WangchukShashi Tharoor urged Sonam Wangchuk to end his indefinite fast, saying the protest had already stirred the nation's conscience and that students' concerns should now be raised in Parliament. He also appealed to the Centre to open a dialogue with protesters, even as Wangchuk refused to call off his fast."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/us-iran-war-live-updates-strait-of-hormuz-middle-east-tensions-ceasefire-donald-trump-west-asia-crisis-2948065-2026-07-15",
+      "headline": "Live: IRGC threatens to shut more energy export routes after US's fresh strikesUS-Iran War Live Updates: US-Iran tensions escalated further on Wednesday as American forces launched another round of airstrikes on military targets inside Iran, saying the strikes were aimed at eliminating \"emerging threats\" and degrading capabilities used to attack commercial shipping in the Strait of Hormuz. The fresh operation came ahead of a renewed US naval blockade on Iranian ports and coastal areas. Tehran responded by claiming it had struck military targets in Bahrain and Kuwait, including weapons depots and a drone launch ramp at Kuwait's Ali Al Salem Air Base, calling the attacks retaliation for recent US strikes. Kuwait later said it intercepted one ballistic missile, five cruise missiles and 33 drones, accusing Iran of targeting vital civilian and military facilities. One Kuwaiti Navy vessel was hit and four service members were injured. Iran also hardened its stance on the Strait of Hormuz, with the Islamic Revolutionary Guard Corps warning that \"not a drop of oil and gas will be exported\" from the region as long as US forces remain there, while a deputy foreign minister declared, \"We will exercise our sovereignty on the Strait of Hormuz whatever that costs.\" Amid the military escalation, US President Donald Trump reversed his proposal to charge a 20 per cent fee on cargo transiting the strategic waterway just a day after announcing it. Follow IndiaToday.in for live updates."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/jobs/story/from-iit-to-millionaire-meet-siddhartha-saxena-who-earned-rs-77-crore-in-a-single-day-educ-2948110-2026-07-15",
+      "headline": "From IIT to millionaire: Meet Siddhartha Saxena who earned Rs 77 crore in a single dayFrom IIT Kanpur to building a fast-growing AI startup, Siddhartha Saxena's journey is defined by innovation and calculated risk. The Merlin co-founder says he earned nearly Rs 77 crore (USD 8 million) in a single day, becoming a millionaire at just 26."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/gk-current-affairs/story/did-the-trojan-war-happen-archaeologists-found-evidence-of-the-ancient-city-of-troy-2948543-2026-07-15",
+      "headline": "Was the Trojan War real? The ancient city archaeologists found beneath a hillChristopher Nolan's The Odyssey has renewed interest in Homer's legendary tale of Troy. But was the city real? Archaeologists now believe it was. Excavations in modern-day T\u00fcrkiye uncovered a Bronze Age settlement that transformed one of history's greatest myths into one of archaeology's most fascinating discoveries."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/govt-may-act-against-zee5-over-uncertified-screening-of-satluj-consider-mandatory-certification-for-ott-films-2948552-2026-07-15",
+      "headline": "Govt may mandate OTT certification, act against Zee5 amid Satluj row: SourcesThe Indian government is considering making CBFC certification mandatory for films released on OTT platforms following the uncertified streaming of Satluj on Zee5."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/icc-world-cup-formats-new-odi-super-7-and-t20-super-10-changes-explained-2948455-2026-07-15",
+      "headline": "IPL-style eliminator, Super 7: ICC announces major changes to ODI, T20 World CupsThe ICC's major tournament revamp introduces a unified Super 7 round-robin stage for the men's ODI World Cup and brings high-stakes, IPL-style crossover eliminators to an expanded Super 10 phase in the T20 World Cup. We have tried to explain the new formats. Read on."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/auto/cars/story/kia-syros-ev-unveiled-with-526km-range-bookings-open-at-rs-25000-2948546-2026-07-15",
       "headline": "Kia Syros EV unveiled with 526km range, bookings open at Rs 25,000Kia's second mass-market electric SUV promises a segment-leading 526km certified range, 39-minute fast charging, lifetime battery warranty and Level 2 ADAS as the automaker looks to accelerate EV adoption in India."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/govt-may-act-against-zee5-over-uncertified-screening-of-satluj-consider-mandatory-certification-for-ott-films-2948552-2026-07-15",
-      "headline": "Govt may mandate OTT certification, act against Zee5 amid Satluj row: SourcesGovt may act against Zee5 over uncertified screening of Satluj, consider mandatory certification for OTT films"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/smriti-mandhana-ready-captain-india-historic-womens-test-win-lords-2948322-2026-07-15",
-      "headline": "I am ready: Smriti Mandhana prepared to replace Harmanpreet as India captainSmriti Mandhana says she is ready to captain India in Harmanpreet Kaur's absence, with the vice-captain boasting an impressive record of 15 wins in 22 matches across T20Is and ODIs."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/featurephilia/story/iti-courses-in-india-why-electricians-mechanics-technicians-may-beat-ai-jobs-2948362-2026-07-15",
-      "headline": "Are ITIs the new IITs? Why skilled trades may be safer than AI-hit tech jobsAs AI shakes tech and white-collar careers, World Youth Skills Day raises an uncomfortable question: should Indian students rethink the obsession with degrees and look at ITIs, electricians, mechanics and other skilled trades that still need human hands, physical presence and practical judgement in a rapidly changing job market?"
+      "url": "https://www.indiatoday.in/india/story/sonam-wangchuk-hunger-strike-tmc-warns-centre-as-neet-protest-turns-critical-ptag-2948497-2026-07-15",
+      "headline": "Sonam Wangchuk extremely critical, Centre responsible if anything happens: TMCTrinamool urged Union Education Minister Dharmendra Pradhan to open talks with fasting activist Sonam Wangchuk, claiming his health had become critical after 18 days of hunger strike."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/opinion/story/pakistan-hardball-britain-shabir-ahmed-deportation-grooming-gang-2948344-2026-07-15",
-      "headline": "Why is Pakistan playing hardball with Britain over a child rapist?The Shabir Ahmed deportation issue is widely seen in the UK as a test of the government's will and ability to deliver justice to victims of grooming gangs."
+      "url": "https://www.indiatoday.in/india/story/manish-kashyap-3-other-influencers-face-fir-over-alleged-defamatory-e20-content-on-nitin-gadkari-2948123-2026-07-15",
+      "headline": "Case filed against 4 influencers over videos targeting Nitin Gadkari for E20The FIR was filed on the basis of a complaint lodged by a BJP social media cell functionary in Nagpur. According to the complaint, a YouTube video uploaded by influencer Manish Kashyap contained misinformation meant to tarnish Nitin Gadkari's reputation."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/companies/story/what-fairfaxs-proposed-57-billion-idbi-bank-acquisition-means-for-india-2948205-2026-07-15",
-      "headline": "Inside Fairfax's proposed $5.5 billion IDBI Bank acquisition and what's at stakeIf the proposed transaction goes through, it could be worth around $5.5 billion-$5.7 billion, making it one of the largest foreign investments ever in an Indian bank and one of the government's most significant privatisation deals in recent years."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/health/story/covid-19-cases-india-rise-locally-experts-say-caution-not-panic-2948295-2026-07-15",
-      "headline": "Local Covid rise in India prompts caution, not panicA localised rise in Covid-19 cases and a few deaths in Andhra Pradesh has renewed attention on infections in parts of India. Doctors say the virus is now endemic and advise vigilance without panic."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/aamir-khan-rejects-love-jihad-tag-neither-gauri-spratt-reena-dutta-nor-kiran-rao-converted-2948111-2026-07-15",
-      "headline": "Neither Gauri, Reena nor Kiran converted: Aamir Khan rejects 'love jihad' tagAamir Khan has rejected 'love jihad' allegations and said his interfaith marriages involved no conversions. He married Gauri Spratt in an intimate ceremony at his Mumbai home on July 5."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/noida/story/noida-building-fire-ev-battery-2-dead-48-families-evacuated-probe-2948391-2026-07-15",
-      "headline": "2 killed in Noida building fire, cops say spark from charging EV triggered blazeOn receiving the alert, seven fire tenders, a hydraulic platform, the Chief Fire Officer and local police teams rushed to the spot and launched a rescue operation. The blaze was later brought under control."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/jan-suraaj-leaders-join-bjp-ahead-of-bankipur-bypoll-setback-for-prashant-kishor-ptag-2948428-2026-07-15",
-      "headline": "Jan Suraaj leaders join BJP ahead of Bihar bypoll, jolt for Prashant KishorSeveral Jan Suraaj leaders and former candidates in Bihar joined the BJP before the Bankipur bypoll. The switch deals Prashant Kishor a political blow and sharpens the contest in Patna."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/irctc-is-launching-new-website-it-will-make-tatkal-bookings-faster-full-details-here-2948273-2026-07-15",
-      "headline": "IRCTC is launching new website, it will make Tatkal bookings faster: Full details hereIRCTC is launching a redesigned ticket-booking website promising significant improvement over the previous one. Here are all the ways it can change your ticket-booking experience."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/leptospirosis-outbreak-mumbai-why-monsoon-fever-during-heavy-rains-needs-caution-flu-symptoms-2947791-2026-07-15",
-      "headline": "Is every second person ill in Mumbai? Why monsoons bring a dangerous disease backSome doctors are noticing a wave of influenza and respiratory illnesses in Mumbai. Health experts warn that not every monsoon fever is just a viral. The next time you step through ankle-deep floodwater and feel unwell, remember, it could be leptospirosis. Here's why one should seek a doctor's advice."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/law-news/story/patna-high-court-ruling-salwar-removal-chest-pressing-not-attempt-to-rape-2948413-2026-07-15",
-      "headline": "Removing salwar, pressing chest not enough for attempt to rape: Patna High CourtThe Patna High Court ruled that removing a woman's salwar and pressing her chest, without evidence of penetration or an unequivocal overt act towards rape, does not constitute an attempt to rape under the IPC."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/france-nuclear-reactors-french-heatwave-rivers-cooling-india-nuclear-plants-risk-electricity-science-news-2948280-2026-07-15",
-      "headline": "France shut its nuclear reactors as rivers boiled. Is India next?France switched off three nuclear reactors and cut output at several more this week, after rivers meant to cool them grew too warm to use safely. India's coastal and inland reactors face a different risk."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/health/story/cyclospora-outbreak-us-doctors-avoid-fresh-produce-cdc-probes-cases-salad-greens-lettuce-taco-bell-2948266-2026-07-15",
-      "headline": "Cyclospora outbreak: Why US doctors want people to avoid fresh produceThe CDC is investigating more than 5,000 Cyclospora cases in the US. Doctors are urging people to avoid certain fresh produce as officials trace the source of contamination."
+      "url": "https://www.indiatoday.in/business/story/kudankulam-nuclear-plant-data-breach-anil-ambani-reliance-blueprint-leak-2948376-2026-07-15",
+      "headline": "Files linked to Kudankulam N-power plant exposed in data breach: ReutersA ransomware group has published a large cache of stolen data on the dark web, claiming it includes blueprints of parts of India's largest nuclear power plant Kudankulam. The hackers said the data was obtained from Anil Ambani's Reliance Group, a contractor at the plant."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/axar-patel-icc-odi-all-rounders-rankings-india-star-top-10-after-england-win-2948679-2026-07-15",
+      "headline": "Axar Patel makes big jump in ICC ODI rankings after Birmingham heroics Axar Patel has climbed three places to ninth in the ICC ODI all-rounders' rankings after his match-winning display of 4/62 and an unbeaten 57 in India's six-wicket victory over England in Birmingham."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/icc-devajit-saikia-heads-governance-review-committee-cwi-loan-2948578-2026-07-15",
+      "headline": "BCCI secretary Devajit Saikia to head ICC's Governance Review Committee BCCI secretary Devajit Saikia has been appointed head of the ICC's newly formed Governance Review Committee and has also been included in the Franchise Leagues Committee led by former Bangladesh captain Tamim Iqbal."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/carlos-alcaraz-wrist-injury-recovery-cincinnati-masters-us-open-return-2948491-2026-07-15",
@@ -369,12 +379,12 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/washington-sundar-credits-gautam-gambhir-fifty-vs-england-1st-odi-2948176-2026-07-15",
-      "headline": "IND vs ENG: Sundar credits coach Gambhir for unlocking his batting potential Washington Sundar credited India head coach Gautam Gambhir and Gujarat Titans coach Ashish Nehra for helping him evolve as a batter after his unbeaten half-century guided India to a six-wicket victory over England in the first ODI at Edgbaston on Tuesday."
+      "headline": "IND vs ENG: Sundar credits coach Gambhir for unlocking his batting potentialWashington Sundar credited India head coach Gautam Gambhir and Gujarat Titans coach Ashish Nehra for helping him evolve as a batter after his unbeaten half-century guided India to a six-wicket victory over England in the first ODI at Edgbaston on Tuesday."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/england-vs-argentina-world-cup-semi-final-atlanta-police-security-2948129-2026-07-15",
-      "headline": "Atlanta Police tighten security for England vs Argentina World Cup semi-final The Atlanta Police Department (APD), in a statement on Tuesday, said it had enhanced security measures for Wednesday's FIFA World Cup 2026 semi-final between England and Argentina at Atlanta Stadium, deploying additional personnel and resources to ensure the match passes off safely."
+      "headline": "Atlanta Police tighten security for England vs Argentina World Cup semi-finalThe Atlanta Police Department (APD), in a statement on Tuesday, said it had enhanced security measures for Wednesday's FIFA World Cup 2026 semi-final between England and Argentina at Atlanta Stadium, deploying additional personnel and resources to ensure the match passes off safely."
     },
     {
       "sentiment": "positive",
@@ -394,7 +404,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/england-vs-argentina-semi-final-fifa-world-cup-lionel-messi-diego-maradona-hand-of-god-preview-2946450-2026-07-15",
-      "headline": "England vs Argentina semifinal: Messi finally faces the one team that eluded himEngland vs Argentina semi-final: England and Argentina do not meet as ordinary opponents. Rooted in Maradona's infamous 1986 quarter-final, this rivalry carries weight few international fixtures can match. Now Messi faces the one team that has always eluded him."
+      "headline": "England vs Argentina semifinal guide: Messi steps into football's fiercest rivalryEngland vs Argentina semi-final: England and Argentina do not meet as ordinary opponents. Rooted in Maradona's infamous 1986 quarter-final, this rivalry carries weight few international fixtures can match. Now Messi faces the one team that has always eluded him with a spot in the final against Spain up for grabs."
     },
     {
       "sentiment": "positive",
@@ -465,16 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ms-dhoni-edgbaston-viral-popcorn-moment-young-fan-india-vs-england-odi-2947833-2026-07-14",
       "headline": "Watch: MS Dhoni melts hearts with sweet gesture for kid in stands at EdgbastonMS Dhoni stole the spotlight during the first ODI between India and England at Edgbaston, sharing a heartwarming moment with a young fan who offered him popcorn from the stands."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/cricket/story/england-vs-india-ryan-ten-doeschate-wants-to-leave-gambhir-2947781-2026-07-14",
-      "headline": "Promises unfulfilled, Ryan ten Doeschate wants to quit India coaching jobRyan ten Doeschate is keen to leave the Indian cricket team after the England tour. According to sources, he is unhappy that he never received the specialist fielding coach's role he was promised."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/badminton/story/japan-open-badminton-sat-chi-satwik-shoulder-injury-2947742-2026-07-14",
-      "headline": "Shoulder injury continues to plague Sat-Chi as duo retire from Japan OpenSatwiksairaj Rankireddy and Chirag Shetty retired after the opening game of their Japan Open opener as Rankireddy's shoulder injury flared up again. The setback will make them skip the China tournament, while PV Sindhu gave India brighter news by moving into the second round."
     }
   ],
   "education": [
