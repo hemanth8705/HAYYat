@@ -1,6 +1,16 @@
 {
   "business": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/commodities/story/crude-oil-tops-100-for-first-time-in-two-months-as-us-iran-conflict-intensifies-2954589-2026-07-23",
+      "headline": "Crude oil crosses $100 for first time in two months as US-Iran conflict intensifiesAt the time of writing, Brent Crude, the global oil benchmark, was trading at $100.14 a barrel, up 6.45%."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/infosys-to-roll-out-salary-hikes-from-october-hire-20000-freshers-2954529-2026-07-23",
+      "headline": "Infosys to roll out salary hikes from October, hire 20,000 freshersThe IT major said the salary hike cycle will be implemented in three parts. While the company did not share details of the percentage increase, it confirmed that the rollout will begin in October and continue into January for different employee groups."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/infosys-posts-12-jump-in-q1-profit-trims-upper-end-of-fy27-growth-outlook-2954475-2026-07-23",
       "headline": "Infosys posts 12% jump in Q1 profit, trims upper end of FY27 growth outlookThe IT major posted a consolidated net profit of Rs 7,769 crore for the quarter ended June 30, 2026, compared with Rs 6,921 crore in the same period last year. Revenue from operations rose 14% to Rs 48,211 crore, up from Rs 42,279 crore a year ago."
@@ -89,19 +99,29 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/market/story/closing-bell-sensex-ends-715-points-lower-nifty-below-24000-indigo-down-pharma-tank-crude-oil-up-2953594-2026-07-22",
       "headline": "Sensex ends 715 points lower, Nifty below 24,000; IndiGo down 4%The BSE Sensex fell 715.06 points, or 0.92%, to close at 76,755.05, while the NSE Nifty50 declined 191.45 points, or 0.79%, to settle at 23,996.25, slipping below the key 24,000 mark."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/can-you-settle-pending-pf-damages-at-lower-rates-heres-how-epfos-vishwas-2026-scheme-can-help-2953539-2026-07-22",
-      "headline": "Can you settle pending PF damages at lower rates? This EPFO scheme can helpOne of the biggest attractions of the Vishwas 2026 Scheme is the reduced rate of penal damages."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/adani-gmr-airlines-india-aviation-policy-indigo-air-india-duopoly-report-2953506-2026-07-22",
-      "headline": "India may open skies to new airlines in bid to challenge IndiGo-Air India duopolyIndia is considering easing rules to let airport operators such as Adani and GMR run airlines. The move is aimed at widening competition in a domestic market dominated by IndiGo and Air India."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/salman-khan-urges-cjp-protest-students-to-return-home-offers-home-cooked-food-to-sonam-wangchuk-2954626-2026-07-23",
+      "headline": "Don't extend protest, will send food from home: Salman Khan's offer to Wangchuk Salman Khan has urged students protesting the NEET-UG paper leak to return home, assuring their safety and expressing confidence in strict action against the culprits. He also appealed to social activist Sonam Wangchuk to end his hunger strike, offering to send him home-cooked food."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/did-rajkummar-rao-really-comment-being-under-pressure-amid-students-protest-2954450-2026-07-23",
+      "headline": "Did Rajkummar Rao really comment being 'under pressure' amid students' protest? After backing students protesting the alleged NEET-UG paper leak, actor Rajkummar Rao's alleged, now-deleted reply to a comment about the 'Modi Hai Toh Mumkin Hai' song sparked fresh debate. His mention of \"pressure\" prompted widespread speculation, though he did not clarify what he meant."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/we-watched-jana-nayagan-every-political-reference-we-saw-and-didnt-in-vijay-film-2954233-2026-07-23",
+      "headline": "We watched Jana Nayagan: Every political reference we saw, and didn't in Vijay film Vijay's Jana Nayagan reached theatres after months of censor changes that removed or muted TVK references. The final cut keeps its political undertones while adding markers of Vijay's rise from actor to Chief Minister."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/we-owe-it-to-them-kareena-says-students-deserve-better-backs-nationwide-protests-2954530-2026-07-23",
+      "headline": "We owe it to them: Kareena says students deserve better, backs nationwide protests Kareena Kapoor has backed students protesting across India over the NEET paper leak and education reforms. Her statement adds a prominent film voice to demands for accountability and a credible merit-based system."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/rakhi-sawant-has-tears-questions-and-message-for-pm-over-students-protest-video-2954416-2026-07-23",
@@ -176,48 +196,28 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/jana-nayagan-x-review-vijay-final-film-gets-mixed-reactions-2954109-2026-07-23",
       "headline": "Jana Nayagan X review: Vijay shines in an average film, say fans Jana Nayagan opened in theatres on Wednesday after a seven-month delay, with early X reviews split on Vijay's final film. The response highlights strong fan interest in his swansong even as viewers debate its story, length and second-half execution."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/anurag-kashyap-bandar-criticism-released-cut-not-final-2954079-2026-07-23",
-      "headline": "It wasn't my final cut: Anurag Kashyap says criticism of Bandar was 'quite valid' Anurag Kashyap said on Kunal Kamra's channel that he could not own the released cut of Bandar. He said studio edits changed the film's perspective, making the criticism against it valid."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/imran-khan-joins-mumbai-cjp-student-protest-after-delhi-police-action-2954073-2026-07-23",
-      "headline": "Imran Khan joins student protest march in Mumbai, clicks selfies. Watch Imran Khan joined a Mumbai protest march backing the CJP-led student agitation after police action in Delhi. The demonstrations gathered wider celebrity support as the Centre moved to tighten security in the capital."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/huma-qureshi-jantar-mantar-student-protest-video-saqib-saleem-chitrangda-singh-2954065-2026-07-23",
-      "headline": "Huma Qureshi, Saqib Saleem visit Jantar Mantar late at night to back CJP protest Actors Huma Qureshi and Saqib Saleem visited Jantar Mantar late at night to show their support for the ongoing student protest against NEET examination irregularities. Their presence, along with backing from other film personalities like Salman Khan, highlights growing solidarity with the nationwide movement demanding transparency and accountability in the examination system."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/yash-toxic-ramayana-pan-india-films-post-kgf-career-ravana-box-office-2954053-2026-07-23",
-      "headline": "Is 2026 set to be the biggest year of Yash's career? Actor Yash is set to headline Toxic and Ramayana after his lengthy post-KGF gap. The back-to-back pan-India projects have put his range and box office pull under fresh focus."
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/delhi/story/riot-accused-may-face-passport-cancellation-delhi-police-sources-amid-cjp-protest-2954470-2026-07-23",
-      "headline": "Riot accused may face passport cancellation: Delhi Police sources amid CJP protestDelhi Police will initiate passport cancellation proceedings against individuals found involved in rioting, alongside criminal action, following violence during the CJP's Chalo Sansad march. The party has since called for nationwide protests over the alleged police action on students."
+      "url": "https://www.indiatoday.in/india/story/rahul-gandhi-india-bloc-mps-bus-stopped-gandhi-smriti-delhi-neet-protest-2954607-2026-07-23",
+      "headline": "Rahul Gandhi leads INDIA bloc MPs' march at Gandhi Smriti amid NEET protestRahul Gandhi led INDIA bloc MPs towards Gandhi Smriti, but their buses were stopped outside his Delhi residence. The move was part of the Opposition's protest over the NEET paper leak and the police action against student demonstrators."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/cjp-cockroach-janta-party-protest-jantar-mantar-government-talks-2954498-2026-07-23",
-      "headline": "Centre's 'any time' appeal to protesters for talks, CJP wants neutral venueThe government again invited protesting students for talks at any time on Thursday. The outreach came as the CJP called for nationwide protests over alleged police brutality during the July 20 agitation."
+      "url": "https://www.indiatoday.in/india/story/delhi-protest-pellet-gun-injuries-cjp-march-jantar-mantar-chalo-sansad-police-brutality-2954556-2026-07-23",
+      "headline": "Exclusive: Pellet guns used against protesters in Delhi. Wounds, medical papers reveal truthPellet guns, mostly associated with Jammu and Kashmir, have been used in New Delhi, claim protesters. India Today Digital spoke to a protester whose medico-legal document says he was hit by pellets. He was hit during the CJP's march to Parliament when security personnel allegedly used excessive force."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/cockroach-janta-party-protest-delhi-live-updates-abhijeet-dipike-sonam-wangchuk-cjp-congress-dharmendra-pradhan-2953336-2026-07-22",
-      "headline": "Live: CJP plans nationwide protest tomorrow against 'police brutality'CJP Protest in Delhi Live Updates: Delhi remained tense as NEET paper leak protests continued, with the Centre renewing its offer for talks. Union Minister Jitendra Singh said he and Health Minister JP Nadda were ready to meet protesting students at any venue, but the Cockroach Janata Party (CJP) insisted discussions be held at the protest site or a neutral location. Business groups expressed concern over heavy losses caused by metro station closures and traffic disruptions, while traders in Connaught Place were advised to shut early. Opposition leaders, including Priyanka Gandhi, criticised the police action against protesters, while BJP MP Tejaswi Surya defended the government's education reforms. A Delhi Police ACP was injured in stone-pelting, CJP founder Abhijeet Dipke briefly left the protest due to illness, and Gitanjali Angmo backed the students' peaceful agitation. Stay with Indiatoday.in for the latest updates."
+      "headline": "Live: Mobile internet shut within 1.5 km of Jantar Mantar till midnightCJP Protest in Delhi Live Updates: Delhi remained tense as NEET paper leak protests continued, with the Centre renewing its offer for talks. Union Minister Jitendra Singh said he and Health Minister JP Nadda were ready to meet protesting students at any venue, but the Cockroach Janta Party (CJP) insisted discussions be held at the protest site or a neutral location. Business groups expressed concern over heavy losses caused by metro station closures and traffic disruptions, while traders in Connaught Place were advised to shut early. Opposition leaders, including Priyanka Gandhi, criticised the police action against protesters, while BJP MP Tejaswi Surya defended the government's education reforms. A Delhi Police ACP was injured in stone-pelting, CJP founder Abhijeet Dipke briefly left the protest due to illness, and Gitanjali Angmo backed the students' peaceful agitation. Stay with Indiatoday.in for the latest updates."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/law-news/story/delhi-metro-station-closures-cji-surya-kant-may-intervene-over-supreme-court-access-ptag-2954178-2026-07-23",
-      "headline": "CJI vows intervention if Supreme Court metro station stays shut amid CJP protestThe Chief Justice said the Supreme Court administration had already been asked to take up the matter with the Delhi Metro authorities and assured the Bar that if the issue remained unresolved by lunchtime, he would personally intervene."
+      "url": "https://www.indiatoday.in/india/story/cjp-protest-jantar-mantar-sonam-wangchuk-agitation-hijack-no-leadership-communal-slogans-2954241-2026-07-23",
+      "headline": "Swords, religious chants: CJP's Jantar Mantar protest at risk of being hijackedCommunal slogans, Nihangs carrying weapons, unannounced marches and smaller gatherings are now defining the Cockroach Janta Party's (CJP's) protest at New Delhi's Jantar Mantar. The core issue of education now seems to have been lost in the chaos, and there are risks of diverse interests hijacking the protest."
     },
     {
       "sentiment": "positive",
@@ -226,13 +226,18 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-zim-vaibhav-sooryavanshi-fifty-mayank-yadav-shreyas-iyer-1st-t20i-win-2954616-2026-07-23",
+      "headline": "Sooryavanshi's maiden fifty helps Shreyas Iyer register first win as India captainZIM vs IND, 1st T20I: India's seven-match winless run in T20Is came to an end in Harare on Thursday as Mayank Yadav's hostile spell and Vaibhav Sooryavanshi's record-breaking half-century sealed a commanding eight-wicket win over Zimbabwe in the series opener."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/science/story/10000-km-long-rain-cloud-seen-from-india-to-south-korea-bumper-monsoon-ahead-2953727-2026-07-23",
       "headline": "Bumper monsoon: 10,000-km-long rain cloud seen from India to South KoreaSatellite imagery has captured a vast monsoon rain band stretching from north India to South Korea. The spell has sharply lifted rainfall across India while prompting flood and landslide warnings in vulnerable regions."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/sonam-wangchuk-wife-gitanjali-angmo-rahul-gandhi-protest-pm-house-cjp-2954197-2026-07-23",
-      "headline": "Congress's protest near PM's house insincere: Big remark by Wangchuk's wifeGitanjali Angmo, in an interview with India Today's Rajdeep Sardesai, criticised Rahul Gandhi's flash protest near Prime Minister Narendra Modi's residence and said leaders should have joined students at Jantar Mantar instead."
+      "url": "https://www.indiatoday.in/india/story/cjp-cockroach-janta-party-protest-jantar-mantar-government-talks-2954498-2026-07-23",
+      "headline": "Govt's 'your convenience, any time' appeal for talks. CJP has a conditionThe government again invited the protesting students for talks, saying four proposals were sent in the last 24 hours. The outreach came as the CJP called for nationwide protests on Friday."
     },
     {
       "sentiment": "positive",
@@ -241,23 +246,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/cjp-protest-jantar-mantar-sonam-wangchuk-agitation-hijack-no-leadership-communal-slogans-2954241-2026-07-23",
-      "headline": "Swords and religious chants: CJP's protest at Jantar Mantar already hijacked?Communal slogans, Nihangs carrying weapons, unannounced marches and smaller gatherings are now defining the Cockroach Janta Party's (CJP's) protest at New Delhi's Jantar Mantar. The core issue of education now seems to have been lost in the chaos, and there are risks of diverse interests hijacking the protest."
+      "url": "https://www.indiatoday.in/india/law-news/story/delhi-metro-station-closures-cji-surya-kant-may-intervene-over-supreme-court-access-ptag-2954178-2026-07-23",
+      "headline": "CJI vows intervention if Supreme Court metro station stays shut amid CJP protestThe Chief Justice said the Supreme Court administration had already been asked to take up the matter with the Delhi Metro authorities and assured the Bar that if the issue remained unresolved by lunchtime, he would personally intervene."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/ashiss-kumar-dash-appointed-infosys-ceo-designate-will-take-charge-from-april-1-2027-2954423-2026-07-23",
-      "headline": "Infosys appoints Ashiss Kumar Dash as CEO-designateAccording to the company, Dash will begin his role as CEO-designate with immediate effect. The Board has also approved its intention to appoint him as the Chief Executive Officer and Managing Director from April 1, 2027."
+      "url": "https://www.indiatoday.in/india/story/sonam-wangchuk-wife-gitanjali-angmo-rahul-gandhi-protest-pm-house-cjp-2954197-2026-07-23",
+      "headline": "Congress's protest near PM's house insincere: Big remark by Wangchuk's wifeGitanjali Angmo, in an interview with India Today's Rajdeep Sardesai, criticised Rahul Gandhi's flash protest near Prime Minister Narendra Modi's residence and said leaders should have joined students at Jantar Mantar instead."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/paper-leaks-in-india-centres-latest-promise-old-assurances-and-pending-cases-2954285-2026-07-23",
-      "headline": "Centre promises fast-track courts after paper leaks. But have we heard that before?The central government has announced fast-track courts for paper leak cases. But similar assurances have been made before. Here's a timeline of the Centre's promises since 2023, the new anti-paper leak law, how many leaks India has actually seen according to different estimates, and where the biggest cases stand today."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/what-s-hot/story/cockroach-janta-party-protest-invisible-workers-keep-jantar-mantar-site-running-2954343-2026-07-23",
-      "headline": "The invisible workers of the Cockroach Janta Party protestAt Jantar Mantar, delivery workers, sanitation volunteers and doctors are quietly sustaining the Cockroach Janta Party protest. They might not be headlining the movement, but they sure are keeping it running."
+      "url": "https://www.indiatoday.in/movies/celebrities/story/salman-khan-urges-cjp-protest-students-to-return-home-offers-home-cooked-food-to-sonam-wangchuk-2954626-2026-07-23",
+      "headline": "Don't extend protest, will send food from home: Salman Khan's offer to WangchukSalman Khan has urged students protesting the NEET-UG paper leak to return home, assuring their safety and expressing confidence in strict action against the culprits. He also appealed to social activist Sonam Wangchuk to end his hunger strike, offering to send him home-cooked food."
     },
     {
       "sentiment": "positive",
@@ -265,14 +265,34 @@
       "headline": "Bengaluru CEO rides scooter inside office to celebrate company's 'amazing quarter'A Bengaluru-based CEO rode a scooty through the NoBroker office while celebrating his Packers and Movers team's record quarter, before handing it to the winning employee in a now-viral video."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/science/story/ahmedabad-rain-cloudburst-floods-schools-shut-imd-red-alert-gujarat-july-2954405-2026-07-23",
-      "headline": "Gujarat on red alert: Monsoon dumps 177 mm rain in two hours over AhmedabadJust two hours of rain transformed parts of Ahmedabad beyond recognition, triggering extreme scenes across the city. Here's what unfolded and why officials remain on high alert."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/neet-protest-jantar-mantar-teen-eye-injury-pellet-claim-police-denial-2954548-2026-07-23",
+      "headline": "Teen protester says he may lose eyesight after pellet injury, cops reject claimThe family of a 19-year-old who joined the CJP protest at Delhi's Jantar Mantar alleged that he suffered serious eye injuries, allegedly from pellet fire, and is at risk of losing his vision. The Delhi Police, however, denied using pellet guns against protesters."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/cities/hyderabad/story/hyderabad-airport-cab-rape-driver-held-for-assaulting-airline-crew-member-2954083-2026-07-23",
       "headline": "Cabin crew member raped in office cab on way to Hyderabad airport, driver arrestedAccording to police, the incident took place in the afternoon of July 20, when the cabin crew member boarded an airline-arranged cab from Hyderabad's Shamshabad to the airport to report for her duty."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/infosys-to-roll-out-salary-hikes-from-october-hire-20000-freshers-2954529-2026-07-23",
+      "headline": "Infosys to roll out salary hikes from October, hire 20,000 freshersThe IT major said the salary hike cycle will be implemented in three parts. While the company did not share details of the percentage increase, it confirmed that the rollout will begin in October and continue into January for different employee groups."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/news/story/neet-protest-jantar-mantar-delhi-university-student-sneha-aarya-fathers-death-healthcare-corruption-2954270-2026-07-23",
+      "headline": "She never sat for NEET. Her father's death brought her to the protestThousands have gathered at Delhi's Jantar Mantar over the past few days, demanding accountability after the NEET paper leak. But not everyone at the NEET protest was an aspirant. For 22-year-old Sneha Aarya, it wasn't about an entrance exam: it was about losing faith in a system she says failed her family."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/reviews/story/jana-nayagan-review-vijay-deserved-a-better-goodbye-than-this-bloated-spectacle-2954132-2026-07-23",
+      "headline": "Jana Nayagan review: Vijay deserved a better goodbye than this bloated spectacleRelease Date:Thu Jul 23, 2026Jana Nayagan movie review: Director H Vinoth's film, starring Vijay, Mamitha Baiju and Bobby Deol, wants to be both a commercial entertainer and a TVK manifesto, and ends up doing justice to neither."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/featurephilia/story/pcm-pcb-stream-choice-india-entrance-exams-jee-neet-second-chances-2954526-2026-07-23",
+      "headline": "Beyond NEET, where can PCB students go? India's entrance exam gapStudents who choose PCM or PCB after Class 10 can find later career switches severely restricted by India's entrance rules. Experts and students say the system offers too few second chances beyond JEE and NEET."
     },
     {
       "sentiment": "positive",
@@ -286,28 +306,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/will-frame-you-in-drug-case-viral-video-shows-mumbai-cop-threatening-students-inquiry-ordered-2954276-2026-07-23",
-      "headline": "Video shows Mumbai cop threatening to frame student protesters in drugs caseA video, posted by the Mumbai Congress and the Cockroach Party, shows a police driver threatening a group of student protesters with a false drug case if they returned to agitate. As it drew backlash, Mumbai Police ordered an inquiry into the incident."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/travel/story/india-passport-ranking-falls-in-henley-passport-index-2026-2954367-2026-07-23",
-      "headline": "India's ranking slips again in latest Henley Passport Index 2026The July 2026 Henley Passport Index is the 20th anniversary edition that reveals how passports of different countries have fared in the past two decades."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/national-security-act-renewal-not-linked-to-cjp-protest-delhi-police-2954356-2026-07-23",
-      "headline": "NSA renewal not linked to CJP protest at Jantar Mantar, clarifies Delhi PoliceThe Delhi Police said the extension of NSA detention powers was a routine quarterly renewal issued before the CJP-led protest began. The clarification came after reports and political criticism claimed the order was meant to curb dissent over the NEET paper leak."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/reviews/story/jana-nayagan-review-vijay-deserved-a-better-goodbye-than-this-bloated-spectacle-2954132-2026-07-23",
-      "headline": "Jana Nayagan review: Vijay deserved a better goodbye than this bloated spectacleRelease Date:Thu Jul 23, 2026Jana Nayagan movie review: Director H Vinoth's film, starring Vijay, Mamitha Baiju and Bobby Deol, wants to be both a commercial entertainer and a TVK manifesto, and ends up doing justice to neither."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/sonam-wangchuk-hunger-strike-end-demands-modi-government-neet-cjp-protest-jantar-mantar-2953876-2026-07-23",
-      "headline": "Dropping key demand, is Sonam Wangchuk giving govt an exit from protests?Activist Sonam Wangchuk, whose hunger strike nourished the protest against the NEET-UG paper leak at Jantar Mantar, has given the government an off-ramp. An end to the protests might be in sight with Wangchuk toning down his demand for Dharmendra Pradhan's resignation. This, as Rahul Gandhi had just begun."
+      "url": "https://www.indiatoday.in/science/story/el-nino-firing-up-ocean-temperature-has-been-record-hot-for-50-straight-days-2954184-2026-07-23",
+      "headline": "Strongest El Nino: For 50 days, global ocean temperature has remained hotGlobal sea-surface temperatures have stayed at record highs for 50 straight days as El Ni\u00f1o strengthens rapidly. Scientists say the trend reflects climate change and could intensify extreme weather worldwide."
     },
     {
       "sentiment": "positive",
@@ -321,6 +321,26 @@
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/commonwealth-games/story/commonwealth-games-putul-sonowal-stuns-world-champion-ryan-bester-lawn-bowls-2954662-2026-07-23",
+      "headline": "Commonwealth Games: India's Putul Sonowal stuns 2023 world champion Ryan Bester India's lawn bowls campaign at the Glasgow Commonwealth Games got off to a flying start on Thursday as Putul Sonowal produced one of the biggest upsets of the opening day, defeating 2023 world champion Ryan Bester of Canada in a tie-break in the Men's Singles."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-zim-vaibhav-sooryavanshi-fifty-mayank-yadav-shreyas-iyer-1st-t20i-win-2954616-2026-07-23",
+      "headline": "Sooryavanshi's maiden fifty helps Shreyas Iyer register first win as India captain ZIM vs IND, 1st T20I: India's seven-match winless run in T20Is came to an end in Harare on Thursday as Mayank Yadav's hostile spell and Vaibhav Sooryavanshi's record-breaking half-century sealed a commanding eight-wicket win over Zimbabwe in the series opener."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-youngest-fifty-sachin-tendulkar-record-t20i-2954602-2026-07-23",
+      "headline": "Sooryavanshi pips Sachin to become youngest to score an international fifty Vaibhav Sooryavanshi scripted history by becoming the youngest player from a Full Member nation to score an international fifty. The 15-year-old surpassed Sachin Tendulkar's long-standing record with a sparkling knock against Zimbabwe in the T20I in Harare."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/commonwealth-games/story/commonwealth-games-2026-india-beat-malta-womens-pairs-lawn-bowls-2954584-2026-07-23",
+      "headline": "India beat Malta in Bowls women's pairs event in Glasgow CWG campaign opener India began their Glasgow Commonwealth Games campaign with a tense tie-break win over Malta in the women's pairs lawn bowls event on Thursday. Rupa Rani Tirkey (lead) and Pinki (skip) won the opening set 7-1 before Malta took the second 4-3 to force a tie-break."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/wtc-final-2027-the-oval-london-host-june-9-2954488-2026-07-23",
@@ -354,22 +374,22 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/commonwealth-games/story/arun-kumar-ruled-out-commonwealth-games-2026-judo-doping-test-failure-2954267-2026-07-23",
-      "headline": "Indian judoka Arun Kumar cut from CWG 2026 after doping test failure India judoka Arun Kumar has been ruled out of the Commonwealth Games after an adverse analytical finding in an out-of-competition test. The late notice leaves India without a replacement in the men's 73kg event and strips a medal hope on the eve of competition."
+      "headline": "Indian judoka Arun Kumar cut from CWG 2026 after doping test failureIndia judoka Arun Kumar has been ruled out of the Commonwealth Games after an adverse analytical finding in an out-of-competition test. The late notice leaves India without a replacement in the men's 73kg event and strips a medal hope on the eve of competition."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/cjp-protests-shikhar-dhawan-narendra-modi-government-delhi-2954227-2026-07-23",
-      "headline": "Keep faith in government: Dhawan urges patience from students amid protests Shikhar Dhawan asked protesting students to stay patient and trust the government amid the CJP protests in Delhi. The statement comes after the demonstrations over the alleged NEET-UG 2026 paper leak and examination irregularities have continued to garner nationwide attention."
+      "headline": "Keep faith in government: Dhawan urges patience from students amid protestsShikhar Dhawan asked protesting students to stay patient and trust the government amid the CJP protests in Delhi. The statement comes after the demonstrations over the alleged NEET-UG 2026 paper leak and examination irregularities have continued to garner nationwide attention."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/argentina-fans-petition-fifa-to-replay-2026-world-cup-final-after-spain-defeat-2954175-2026-07-23",
-      "headline": "Argentina fans launch petition to replay the World Cup 2026 final. Here's why Argentina supporters have launched a petition asking FIFA to replay the 2026 World Cup final after the loss to Spain. The campaign attacks the officiating of referee Slavko Vincic, calling it biased."
+      "headline": "Argentina fans launch petition to replay the World Cup 2026 final. Here's whyArgentina supporters have launched a petition asking FIFA to replay the 2026 World Cup final after the loss to Spain. The campaign attacks the officiating of referee Slavko Vincic, calling it biased."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/other-sports/story/cjp-student-protests-abhinav-bindra-jantar-mantar-education-tweet-2954182-2026-07-23",
-      "headline": "Olympic gold medallist Abhinav Bindra backs students amid protests Olympic gold medalist Abhinav Bindra shared a message on the ongoing student protests at Delhi's Jantar Mantar, urging India to strengthen its education system. His remarks come as nationwide demonstrations over the alleged NEET-UG paper leak continue to intensify."
+      "headline": "Olympic gold medallist Abhinav Bindra backs students amid protestsOlympic gold medalist Abhinav Bindra shared a message on the ongoing student protests at Delhi's Jantar Mantar, urging India to strengthen its education system. His remarks come as nationwide demonstrations over the alleged NEET-UG paper leak continue to intensify."
     },
     {
       "sentiment": "positive",
@@ -450,26 +470,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/kuldeep-yadav-yorkshire-signing-england-odi-snub-sri-lanka-tests-2953561-2026-07-22",
       "headline": "Benched in England, Kuldeep Yadav signs for Yorkshire for one-dayers and CountyKuldeep Yadav has joined Yorkshire after being left out of India's ODI XI in England. The stint gives him immediate match time before the Sri Lanka Tests and a county run with the English club later in the year."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/hockey/story/india-hockey-world-cup-squad-craig-fulton-1975-semi-final-drought-2953527-2026-07-22",
-      "headline": "Judge us after: Fulton, tactical discipline, and India's quest to exorcise 1975For Craig Fulton, the aim at the World Cup is to end a 51-year-old semi-final curse for the Indian team. With this goal firmly in his mind, the Indian coach has decided to go for a team that will fit into his mantra of tactical discipline, structure and long-term stability."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/icc-odi-rankings-rohit-sharma-lords-century-no-4-gill-kohli-daryl-mitchell-2953532-2026-07-22",
-      "headline": "ICC ODI rankings: Rohit Sharma closes on Virat Kohli as No. 1 battle heats upRohit Sharma gained 14 rating points after his hundred at Lord's on Saturday. Three of the top four in the ICC rankings for men's ODIs are Indians. Shubman Gill is closing on in No. 1 Daryl Mitchell."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ben-stokes-unbeaten-108-durham-beat-derbyshire-as-he-battles-cramps-on-return-2953498-2026-07-22",
-      "headline": "Ben Stokes battles cramps, scores first hundred after international retirementBen Stokes returned for Durham and made an unbeaten 108 against Derbyshire despite severe cramps. The innings underlined his resilience and gave Durham a five-wicket win days after his Test retirement call."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-returns-to-harare-as-india-begin-zimbabwe-t20i-series-2953492-2026-07-22",
-      "headline": "Embracing the rollercoaster, Sooryavanshi returns to favourite hunting groundZimbabwe vs India:Vaibhav Sooryavanshi returns to Harare for India's Zimbabwe T20Is after a testing debut in England. The 15-year-old hopes familiar conditions help convert promise into a first senior impact."
     }
   ],
   "education": [
