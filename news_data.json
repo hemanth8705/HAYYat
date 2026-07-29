@@ -1,6 +1,21 @@
 {
   "business": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/commodities/story/brent-crude-nears-90-middle-east-conflict-hormuz-tensions-2959204-2026-07-29",
+      "headline": "Oil jumps nearly 7% tp $90 a barrel as Middle East conflict escalatesBrent crude climbed near $90 a barrel after fresh strikes and shipping threats in the Middle East. The escalation renewed supply concerns, with analysts warning prices could swing towards $100."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/india-global-leadership-soft-power-and-gdp-growth-2959188-2026-07-29",
+      "headline": "India wants to become economic superpower. But is GDP enough to make it global leader?History shows that countries build lasting influence not only through the goods they export or the strength of their economies, but also through the ideas they share, the institutions they build and the trust they inspire."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/story/india-fiscal-deficit-current-account-risk-high-crude-oil-prices-finance-ministry-2959152-2026-07-29",
+      "headline": "Finance Ministry warns high oil prices may strain India's fiscal deficitThe Finance Ministry said sustained high crude oil prices could strain India's fiscal deficit and current account balance. It said Gulf tensions and a possible El Nino shift warrant close monitoring despite medium-term growth optimism."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/market/story/sensex-jumps-889-points-nifty-above-24250-it-stocks-fii-optimism-fed-2958956-2026-07-29",
       "headline": "Sensex, Nifty jump over 1% as IT stocks power rebound despite Asia AI selloffThe BSE Sensex surged 888.68 points, or 1.16%, to close at 77,654.60, while the NSE Nifty50 gained 264.85 points, or 1.10%, to settle at 24,250.20."
@@ -84,24 +99,29 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/tata-sons-gets-12-less-in-fy26-biggest-tcs-payout-drop-since-covid-2958070-2026-07-28",
       "headline": "Tata Sons gets 12% less in FY26: Biggest TCS payout drop since CovidAccording to Tata Sons' annual report, the holding company received Rs 28,291 crore in dividends from TCS in FY26, down 12% from a record Rs 32,184 crore in FY25."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/market/story/sensex-slips-70-points-nifty-below-24000-it-stocks-cushion-market-fall-tcs-infosys-coforge-rise-2958056-2026-07-28",
-      "headline": "Sensex, Nifty ends marginally lower as IT stocks cushion market fallThe BSE Sensex settled 69.86 points, or 0.09%, lower at 76,765.92, while the NSE Nifty50 slipped 10.60 points, or 0.04%, to close at 23,985.35 after trading above the 24,000 mark during the session."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/changed-jobs-and-yet-to-file-your-itr-heres-everything-you-should-keep-ready-2958037-2026-07-28",
-      "headline": "Changed jobs and yet to file your ITR? Here's everything you should keep readyThink one Form 16 is enough after switching jobs? Not always. Here's a simple checklist to help you file your ITR accurately and on time."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/story/india-lpg-imports-us-2027-middle-east-supply-risks-crude-oil-supply-2957995-2026-07-28",
-      "headline": "India plans to source up to 25% of LPG imports from US in 2027India plans to source up to a quarter of its LPG imports from the United States in 2027, according to Reuters. The shift follows supply disruptions in the Middle East and could also support trade talks with Washington."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/salman-khan-alliance-appearance-supports-sohail-khan-after-seema-sajdeh-exit-2959259-2026-07-29",
+      "headline": "Salman Khan enters Alliance to support Sohail after Seema Sajdeh's exit Salman Khan is making a one-hour appearance on Alliance to support brother Sohail Khan after Seema Sajdeh's exit. The visit comes as Sohail stays in the competition after an emotional week on the show."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/brand-new-day-spider-man-heartbreak-gets-a-desi-twist-with-haryanvi-song-barsaat-2959176-2026-07-29",
+      "headline": "Haryanvi song in Spider-Man Brand New Day: Peter Parker's heartbreak gets desi twist A Haryanvi track, Barsaat, by indie duo Banjaare brings Peter Parker's heartbreak to life in Spider-Man: Brand New Day, capturing his pain after MJ forgets him."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/inside-sanjay-leela-bhansali-unique-plan-to-launch-ranbir-kapoor-alia-bhatt-love-war-2959156-2026-07-29",
+      "headline": "Inside Sanjay Leela Bhansali's unique plan to launch Ranbir-Alia's Love & War Filmmaker Sanjay Leela Bhansali is preparing a special promotional asset to introduce Ranbir Kapoor and Alia Bhatt's Love & War to audiences. The immersive unveiling is set to launch the film's campaign ahead of its January 2027 release."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/have-too-much-ego-to-dm-girls-kushal-tandon-on-shreya-kalra-slid-into-dms-kashish-kapoor-2959121-2026-07-29",
+      "headline": "Have too much ego to DM girls: Actor Kushal Tandon on Shreya's Lock Upp claims Shreya Kalra's claim about Kushal Tandon messaging her during his relationship with Shivangi Joshi, made on Lock Upp 2, was addressed by Kushal on Alliance. He denied initiating contact, stating Shreya messaged him first and clarified the misunderstanding around their promo shoot."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/very-shameful-sonu-sood-slams-kangana-ranauts-gutter-remark-defends-gen-z-2959085-2026-07-29",
@@ -176,33 +196,18 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/karan-johar-guru-purnima-post-shah-rukh-khan-aditya-chopra-storyteller-2958798-2026-07-29",
       "headline": "You are the reason I can tell stories: KJo's Guru Purnima post for SRK, Aditya Karan Johar marked Guru Purnima with throwback pictures and a note for Shah Rukh Khan and Aditya Chopra. He said their early belief in him made his career in storytelling possible."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/hollywood/story/spider-man-exclusive-zendaya-tom-holland-forget-each-other-brand-new-day-2958776-2026-07-29",
-      "headline": "Spider-Man Exclusive: What if Tom and Zendaya forget each other on a brand new day? Ahead of Spider-Man: Brand New Day, Tom Holland, Zendaya and Jacob Batalon told India Today what would happen if they forgot each other. Their emotional answers mirrored the film's central story of Peter Parker being erased from everyone's memory."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/shreya-kalra-lock-upp-2-reveals-cousin-molested-her-at-13-2958757-2026-07-29",
-      "headline": "Lock Upp: Shreya Kalra breaks down as she reveals cousin molested her at 13 During a task on Lock Upp: Sach Ya Sazaa, Shreya Kalra revealed that a cousin molested her when she was 13. The disclosure underscored her fear of hurting her family as fellow inmates tried to console her."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/rakhi-sawant-kangana-ranaut-gutter-mouth-fiery-rant-gen-z-women-protesting-students-neet-protest-security-cover-past-controversies-2958724-2026-07-29",
-      "headline": "Rakhi Sawant calls Kangana Ranaut 'gutter mouth' in fiery rant for attacking Gen Z Rakhi Sawant hit back at Kangana Ranaut in an Instagram video over her remarks on Gen Z and women at the NEET protest. The exchange escalated an online row that also revived references to Kangana's security cover and past controversies."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/hollywood/story/watching-spider-man-brand-new-day-heres-everything-to-remember-from-no-way-home-explained-2958763-2026-07-29",
-      "headline": "Watching Spider-Man: Brand New Day? Here's everything to remember from No Way Home As Spider-Man: Brand New Day arrives, the film picks up after Peter Parker loses everything in No Way Home. A final memory spell leaves him protecting New York in a world that no longer knows Peter Parker."
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/engine-damage-mileage-drop-due-to-e20-petrol-not-substantiated-by-any-study-government-tells-parliament-2959245-2026-07-29",
+      "headline": "No evidence of engine damage, mileage drop due to E20, Centre tells ParliamentThe Centre said the roadmap to achieve 20% ethanol blending by December 2025 was based on scientific studies, field trials and consultations with automobile manufacturers and oil companies."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/will-not-apologise-rahul-gandhi-after-parliament-row-over-blaming-amit-shah-for-firing-on-students-2959113-2026-07-29",
-      "headline": "Either Amit Shah ordered firing or is incompetent: Rahul Gandhi repeats protest claimsHis remarks came hours after a stormy exchange in the Lok Sabha during which he accused Shah of ordering the use of force against students protesting at Delhi's Jantar Mantar. The allegations triggered protests from the Treasury benches."
+      "headline": "Sack Amit Shah, my advice to PM: Rahul Gandhi doubles down on use of force claimRahul Gandhi's comments repeated allegations that he had made earlier in the day during a Parliament debate. His remarks had triggered protests from the government and demands that he prove what he was alleging."
     },
     {
       "sentiment": "positive",
@@ -212,12 +217,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/trump-vows-to-hit-iran-hard-surprise-attack-us-base-jordan-negotiations-pause-strikes-2959104-2026-07-29",
-      "headline": "Will beat f***ing s**t out of them: Trump after Iran's surprise attack on US baseDonald Trump said he had watched footage of the interception, which showed American personnel tracking the incoming ballistic missiles in real time, calling out coordinates and successfully preventing any of the projectiles from striking the base."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/air-india-boeing-787-fuel-control-switch-no-defect-london-bengaluru-2959039-2026-07-29",
-      "headline": "No fault found in fuel control switch of Air India Dreamliner flight, says govtThe government told Parliament that no defect was found in the fuel control switch of the Air India Boeing 787-8 that was grounded in February. It has renewed attention on fuel switches, which are at the centre of the probe into the Ahmedabad crash."
+      "headline": "Will beat f***ing s**t out of them: Trump after Iran's surprise attack on US baseDonald Trump on Wednesday said he will order heavy strikes on Iran in retaliation for surprise attack on US forces overnight, which punctured a pause in fighting."
     },
     {
       "sentiment": "positive",
@@ -226,73 +226,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/exam-bill-passed-in-lok-sabha-by-voice-vote-amid-row-over-rahul-blaming-amit-shah-for-firing-on-students-2958926-2026-07-29",
-      "headline": "Lok Sabha clears exam bill by voice vote amid row over Rahul Gandhi's shooting chargeThe legislation was passed amid Opposition sloganeering after a stormy exchange over Rahul Gandhi's remarks on police action against student protesters. Introduced by Union Minister Jitendra Singh on July 27 following the CJP-led protests that forced Dharmendra Pradhan's resignation, the Bill now awaits passage in the Rajya Sabha."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/prashant-kishor-bankipur-bypolls-bjp-nitin-nabin-nitish-kumar-ai-generate-video-challenge-2958760-2026-07-29",
-      "headline": "Not Nitish Kumar but AI Nitish Kumar: PK dares BJP, says will quit Bihar poll raceJan Suraaj founder Prashant Kishor has accused the BJP-led NDA of using an AI-generated video of former Bihar CM Nitish Kumar to influence voters in the high-stakes Bankipur Assembly bypoll. With the contest now at the corner, Kishor said, if the BJP proved the video was genuine, he would withdraw his candidature."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/thailand-india-travel-kidnapped-cheap-tour-packages-indian-pakistan-gang-torture-ransom-pattaya-2958730-2026-07-29",
-      "headline": "Cheap Thailand trip turns into horror, 3 Indians kidnapped by Indians in PattayaWhat seemed like an inexpensive Thailand holiday turned into a week-long kidnapping ordeal for three Indian nationals. Investigators say the survivors were lured to Thailand by a gang comprising Indian and Pakistani nationals with a fake tour package, tortured into demanding ransom from their families, and held captive until Thai police tracked down the hideout."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/jobs/story/iim-bangalore-student-zaid-khan-rs-5-crore-business-startup-advice-educ-2958716-2026-07-29",
-      "headline": "Meet the 25-year-old IIM Bangalore student with an estimated Rs 5 crore net worthAt 25, IIM Bangalore student Zaid Khan has built an estimated Rs 5 crore business. The Zedital Media founder says aspiring entrepreneurs should start small, build confidence through selling, and create a strong digital presence because \"content is digital currency.\""
+      "url": "https://www.indiatoday.in/sports/commonwealth-games/story/commonwealth-games-2026-live-updates-july-29-india-medal-tally-weightlifting-boxing-2958761-2026-07-29",
+      "headline": "CWG Live, July 29: Indian boxers guaranteed to add five medals, Jaismine up nextCommonwealth Games 2026 Live, July 29: India's boxing team is producing a medal rush in Glasgow as Sakshi, Arundhati Choudhary, Sachin, Ankush and Narendra have all stormed into the Commonwealth Games semi-finals, guaranteeing at least five bronze medals. On the athletics track, Animesh Kujur has qualified for the men's 200m semi-finals with a season's best run, while Tajinderpal Singh Toor and Samardeep Singh Gill have progressed to the shot put final. Earlier in the day, Sanjana narrowly missed out on a weightlifting medal."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/mumbai/story/mumbai-clubs-fssai-licences-suspended-fda-food-safety-violations-cricket-club-of-india-juhu-gymkhana-mig-willingdon-2958686-2026-07-29",
-      "headline": "5 Mumbai clubs face food safety action: FDA releases pics, list of violationsThe inspections found widespread food safety violations, including cockroach infestation, poor sanitation, unsafe storage, improper food handling and licencing lapses."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/home-minister-authorised-shooting-of-students-says-rahul-gandhi-in-parliament-kiren-rijiju-demands-apology-2958838-2026-07-29",
-      "headline": "Amit Shah ordered firing on students, says Rahul Gandhi. Prove it, govt fires backRahul Gandhi's allegation that Amit Shah authorised shooting at students during CJP's July 20 protest sparked an uproar in the Lok Sabha, with NDA MPs demanding an apology and proof to back his claims."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/cjp-rakesh-tikait-delhi-meeting-farmers-students-youth-joint-front-2958656-2026-07-29",
-      "headline": "Hope farmers, students corner govt from all sides: CJP after meeting Rakesh TikaitCJP leaders met farmer leader Rakesh Tikait in Delhi to discuss a joint platform for farmers, students and youngsters. The outreach signals wider agitation as the outfit presses for the withdrawal of FIRs against student protesters who participated in the Jantar Mantar protest."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/travel/story/musafir-cafe-in-vikrant-masseys-new-netflix-show-is-real-its-in-mussoorie-uttarakhand-2958860-2026-07-29",
-      "headline": "Musafir Cafe in Vikrant Massey's new Netflix show is real! It's in UttarakhandNetflix's Musafir Cafe starring Vikrant Massey, Vedika Pinto and Mahima Makwana is currently all over social media. And guess what, the cafe is actually a decades-old retreat."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/trinamool-congress-mp-mahua-moitra-nda-mps-disrupted-rahul-gandhi-lok-sabha-speech-hecklers-lowlives-parliament-monsoon-session-2959055-2026-07-29",
-      "headline": "Hecklers, lowlives: Mahua Moitra on NDA MPs who disrupted Rahul Gandhi's speechMahua Moitra warned that after student protests and Dharmendra Pradhan's resignation, the government would suffer further blows if it continued ignoring public concerns and refusing to listen."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/offline-ai-storytelling-device-eight-year-old-laksh-builds-voice-controlled-esp32-project-2958618-2026-07-29",
-      "headline": "8-year-old builds offline AI storytelling device using Rs 760 microcontrollerLaksh has built a voice-controlled AI storytelling device that runs entirely offline on an ESP32 chip. The project shows how open-source models and low-cost hardware can power compact AI tools without cloud access."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/tamil-nadu/story/tamil-nadu-tasmac-privatisation-liquor-sale-shops-vijay-government-tvk-reactions-2958794-2026-07-29",
-      "headline": "After 23 years, is Vijay planning to hand liquor sales to private players?PMK leader Anbumani Ramadoss alleged that the Vijay-led government is planning to privatise around 2,500 urban TASMAC outlets by handing them over to private operators, and strongly condemned the proposed move."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/very-shameful-sonu-sood-slams-kangana-ranauts-gutter-remark-defends-gen-z-2959085-2026-07-29",
-      "headline": "Very shameful: Sonu Sood slams Kangana Ranaut's 'gutter' remark, defends Gen ZSonu Sood criticised Kangana Ranaut's 'Generation Gutter' remark about Gen Z protesters. He said public figures must weigh their words carefully because young people shape public support."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/ai-engineer-laid-off-and-forced-to-move-back-to-india-his-h-1b-visa-was-of-no-help-2958970-2026-07-29",
-      "headline": "AI engineer laid off and forced to move back to India, his H-1B visa was of no helpA US-based Indian AI engineer says he lost his job after his company moved the entire project to India. He claims his H-1B visa was of little help and is now being forced to return home."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/abhijeet-dipke-marriage-proposals-cjp-founder-financial-independence-2958700-2026-07-29",
-      "headline": "Why is CJP's Abhijeet Dipke turning down marriage proposals? His mother revealsMarriage proposals have been pouring in for CJP's Abhijeet Dipke for nearly two years, but despite growing public attention and his family's eagerness to see him settle down, he has been turning them down - and his mother has now revealed the reason behind his decision."
+      "url": "https://www.indiatoday.in/india/story/birbhum-stone-trader-minar-mondal-under-scanner-after-cash-and-gold-seizure-2958829-2026-07-29",
+      "headline": "Crores in cash, gold recovered from former govt bus driver's home in BengalPolice recovered Rs 20 crores in cash and 15 kilograms of gold from the residence of a former government bus driver in West Bengal's Birbhum district, with the counting of notes still underway."
     },
     {
       "sentiment": "positive",
@@ -301,18 +241,78 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/clicky-ponting-brian-devine-finger-clicking-club-cricket-cheating-2958683-2026-07-29",
-      "headline": "The 'Clicky Ponting' scandal that has left the cricket world stunnedA bizarre finger-clicking allegation has rocked the North Yorkshire and South Durham Cricket League. The man nicknamed \"Clicky Ponting\" now finds himself at the centre of cricket's strangest cheating investigation."
+      "url": "https://www.indiatoday.in/jobs/story/iim-bangalore-student-zaid-khan-rs-5-crore-business-startup-advice-educ-2958716-2026-07-29",
+      "headline": "Meet the 25-year-old IIM Bangalore student with an estimated Rs 5 crore net worthAt 25, IIM Bangalore student Zaid Khan has built an estimated Rs 5 crore business. The Zedital Media founder says aspiring entrepreneurs should start small, build confidence through selling, and create a strong digital presence because \"content is digital currency.\""
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/v-kamakoti-controversies-explained-gaumutra-remarks-padma-shri-latest-debate-2958789-2026-07-29",
-      "headline": "V Kamakoti controversies: From gau mutra remarks to the Padma Shri debateFrom his controversial comments on the medicinal value of gau mutra to the political storm over his Padma Shri and his latest role in exam reforms, IIT Madras Director V Kamakoti has repeatedly found himself at the centre of public debate. Here's a balanced look at the controversies in his career."
+      "url": "https://www.indiatoday.in/health/story/johnson-johnson-talc-settlement-us-baby-powder-case-india-asbestos-risk-2959140-2026-07-29",
+      "headline": "J&J talc payout raises bigger asbestos questions for IndiaJohnson & Johnson has agreed to a proposed $5.5 billion settlement in US lawsuits over its talc-based baby powder. The case does not directly affect India, but it brings wider attention to the country's unresolved asbestos use."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/law-news/story/supreme-court-closes-coal-block-allocation-case-against-ex-pm-manmohan-singh-2958880-2026-07-29",
-      "headline": "Ex-PM Manmohan Singh gets SC clean chit in coal block case 2 years after deathThe Supreme Court losed the criminal proceedings against former Prime Minister Manmohan Singh in a coal block allocation case, allowing his appeal and setting aside a 2015 special CBI court order that rejected the CBI's closure reports and summoned him to face trial."
+      "url": "https://www.indiatoday.in/india/story/neet-paper-leak-protest-bihar-man-in-russia-for-months-says-he-was-wrongly-named-fir-viral-video-2959035-2026-07-29",
+      "headline": "NEET protest FIR names Bihar man. He says he has been in Russia for monthsA Kishanganj resident said he was named in a NEET protest FIR despite being in Russia. He made the claim in a video, which has gone viral, as Bihar moved to withdraw all protest cases and free detainees."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/thailand-india-travel-kidnapped-cheap-tour-packages-indian-pakistan-gang-torture-ransom-pattaya-2958730-2026-07-29",
+      "headline": "Cheap Thailand trip turns into horror, 3 Indians kidnapped by Indians in PattayaWhat seemed like an inexpensive Thailand holiday turned into a week-long kidnapping ordeal for three Indian nationals. Investigators say the survivors were lured to Thailand by a gang comprising Indian and Pakistani nationals with a fake tour package, tortured into demanding ransom from their families, and held captive until Thai police tracked down the hideout."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/lifestyle/travel/story/musafir-cafe-in-vikrant-masseys-new-netflix-show-is-real-its-in-mussoorie-uttarakhand-2958860-2026-07-29",
+      "headline": "Musafir Cafe in Vikrant Massey's new Netflix show is real! It's in UttarakhandNetflix's Musafir Cafe starring Vikrant Massey, Vedika Pinto and Mahima Makwana is currently all over social media. And guess what, the cafe is actually a decades-old retreat."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/iraq-pm-orders-transport-minister-to-sign-major-deal-after-whatsapp-excuse-erdogan-watches-2959258-2026-07-29",
+      "headline": "Watch: Sitting beside Erdogan, Iraq PM orders minister to sign deal after excuseAsked why the document remained unsigned, the Iraqi minister replied, \"I'll write to you on WhatsApp.\" Al-Zaidi wasted no time. He ordered the minister to sign it immediately and instructed an interpreter to inform Erdogan of his decision."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/china-to-arm-iran-with-hundreds-of-air-defence-manpads-deal-qw-12-fn-16-missiles-2959194-2026-07-29",
+      "headline": "China to arm Iran with hundreds of air defence missile systemsThe acquisition is one of Tehran's largest known efforts to reinforce its short-range air-defence network since the outbreak of the conflict, which exposed weaknesses in its ability to protect military facilities and critical infrastructure from sustained aerial attacks."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/very-shameful-sonu-sood-slams-kangana-ranauts-gutter-remark-defends-gen-z-2959085-2026-07-29",
+      "headline": "Very shameful: Sonu Sood slams Kangana Ranaut's 'gutter' remark, defends Gen ZSonu Sood criticised Kangana Ranaut's 'Generation Gutter' remark about Gen Z protesters. He said public figures must weigh their words carefully because young people shape public support."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/brand-new-day-spider-man-heartbreak-gets-a-desi-twist-with-haryanvi-song-barsaat-2959176-2026-07-29",
+      "headline": "Haryanvi song in Spider-Man Brand New Day: Peter Parker's heartbreak gets desi twistA Haryanvi track, Barsaat, by indie duo Banjaare brings Peter Parker's heartbreak to life in Spider-Man: Brand New Day, capturing his pain after MJ forgets him."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/crpf-dg-gyanendra-pratap-singh-troops-bona-fide-action-taken-line-of-duty-continue-fearlessly-neet-paper-leak-protest-cjp-congress-2959129-2026-07-29",
+      "headline": "Continue fearlessly: CRPF chief backs bona fide action taken in line of dutyCRPF chief Gyanendra Pratap Singh told personnel he would own bona fide decisions taken on duty. His assurance came as the Delhi protest action faces internal scrutiny, a Supreme Court plea amid a political row."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/news/story/v-kamakoti-iit-madras-director-exam-reforms-task-force-no-passport-2959125-2026-07-29",
+      "headline": "This IIT director doesn't have a passport, has never travelled abroad. But why?The director of one of India's top IITs has never travelled to a foreign country, nor does he own a passport. By choice, he is the only IIT director in the country without one. Professor V Kamakoti's journey from a village to IIT Madras has had several ups and downs, but his firm beliefs have allowed him to learn more and share his knowledge with others."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/band-aid-when-you-need-surgery-rahul-gandhi-after-lok-sabha-passes-anti-paper-leak-bill-2959133-2026-07-29",
+      "headline": "Band-aid when you need surgery: Rahul Gandhi on anti-paper leak billRahul Gandhi criticised the anti-paper leak amendment bill as a \"band-aid when you need surgery\", arguing it fails to address the root causes of exam irregularities, and claimed he was prevented from speaking in the Lok Sabha for targeting Amit Shah."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/news/story/offline-ai-storytelling-device-eight-year-old-laksh-builds-voice-controlled-esp32-project-2958618-2026-07-29",
+      "headline": "8-year-old builds offline AI storytelling device using Rs 760 microcontrollerLaksh has built a voice-controlled AI storytelling device that runs entirely offline on an ESP32 chip. The project shows how open-source models and low-cost hardware can power compact AI tools without cloud access."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/technology/news/story/whatsapp-web-gets-calling-support-ceo-kunal-shah-sends-chrome-users-a-message-2958706-2026-07-29",
+      "headline": "WhatsApp web gets calling support, CEO Kunal Shah sends Chrome users a messageWhatsApp has announced browser-based voice and video calling on WhatsApp Web without requiring the desktop app. The update also introduces a new call transfer feature for seamless switching between devices."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/cities/mumbai/story/mumbai-clubs-fssai-licences-suspended-fda-food-safety-violations-cricket-club-of-india-juhu-gymkhana-mig-willingdon-2958686-2026-07-29",
+      "headline": "5 Mumbai clubs face food safety action: FDA releases pics, list of violationsThe inspections found widespread food safety violations, including cockroach infestation, poor sanitation, unsafe storage, improper food handling and licencing lapses."
     },
     {
       "sentiment": "positive",
@@ -321,6 +321,26 @@
     }
   ],
   "sports": [
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/commonwealth-games/story/commonwealth-games-2026-indian-judokas-luggage-delay-glasgow-judo-2959246-2026-07-29",
+      "headline": "CWG 2026: Luggage delay disrupts Indian judokas' preparations in Glasgow India's judo contingent suffered a baggage setback after arriving in Glasgow for the Commonwealth Games, with several athletes left without their judogis and training gear. The incident comes days after India's boxing team faced a similar luggage delay."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/badminton/story/taipei-open-hs-prannoy-unnati-hooda-india-second-round-2959180-2026-07-29",
+      "headline": "Taipei Open: Prannoy, Unnati progress to round 2 with straight game wins HS Prannoy and Unnati Hooda opened with straight-game wins as India made a strong start at the Taipei Open. The results set up multiple Indian second-round contests and kept the singles campaign moving across draws."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-east-zone-vice-captain-duleep-trophy-squad-ishan-kishan-2959187-2026-07-29",
+      "headline": "Sooryavanshi named vice-captain as East Zone reveal Duleep Trophy squad East Zone have named 15-year-old Vaibhav Sooryavanshi as vice-captain for the 2026-27 Duleep Trophy. Sooryavanshi will serve as the deputy for Ishan Kishan as East Zone named a strong squad for the tournament."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/shubman-gill-reclaims-icc-odi-no-1-spot-sooryavanshi-surges-t20i-rankings-2959154-2026-07-29",
+      "headline": "Shubman Gill reclaims No.1 ODI ranking despite ODI series defeat to England India's ODI captain Shubman Gill has reclaimed the No. 1 spot in the ICC Men's ODI Batting Rankings after six months, despite India's 2-1 series defeat to England."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/commonwealth-games/story/commonwealth-games-animesh-kujur-200m-semis-toor-gill-shot-put-final-2959076-2026-07-29",
@@ -344,7 +364,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/commonwealth-games/story/commonwealth-games-2026-live-updates-july-29-india-medal-tally-weightlifting-boxing-2958761-2026-07-29",
-      "headline": "CWG Live, July 29: India look to guarantee boxing medals, Animesh into to semis Commonwealth Games 2026 Live, July 29: India's boxing campaign is gathering momentum as Sakshi has guaranteed a medal by reaching the semi-finals, while Arundhati Choudhary is battling for another podium finish. On the track, Animesh Kujur is progressing to the men's 200m semi-finals with a season's best run, while Tajinderpal Singh Toor and Samardeep Singh Gill are advancing to the shot put final. Earlier, Sanjana is missing out on a weightlifting medal."
+      "headline": "CWG Live, July 29: Indian boxers guaranteed to add five medals, Jaismine up next Commonwealth Games 2026 Live, July 29: India's boxing team is producing a medal rush in Glasgow as Sakshi, Arundhati Choudhary, Sachin, Ankush and Narendra have all stormed into the Commonwealth Games semi-finals, guaranteeing at least five bronze medals. On the athletics track, Animesh Kujur has qualified for the men's 200m semi-finals with a season's best run, while Tajinderpal Singh Toor and Samardeep Singh Gill have progressed to the shot put final. Earlier in the day, Sanjana narrowly missed out on a weightlifting medal."
     },
     {
       "sentiment": "positive",
@@ -359,22 +379,22 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ryan-ten-doeschate-joins-kkr-india-assistant-coach-quits-2958655-2026-07-29",
-      "headline": "Ryan ten Doeschate joins KKR in new role a day after leaving India's coaching staff Ryan ten Doeschate wasted little time finding his next challenge. Just a day after leaving India's coaching staff, he returned to the Knight Riders in a newly created global leadership role."
+      "headline": "Ryan ten Doeschate joins KKR in new role a day after leaving India's coaching staffRyan ten Doeschate wasted little time finding his next challenge. Just a day after leaving India's coaching staff, he returned to the Knight Riders in a newly created global leadership role."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/saransh-jain-india-test-squad-vs-sri-lanka-r-ashwin-backs-debut-2958634-2026-07-29",
-      "headline": "He has it in him: Ashwin backs Saransh Jain for his India Test debut vs Sri Lanka After years of delivering in domestic cricket, Saransh Jain has finally earned the India Test call-up he long deserved. And if Ravichandran Ashwin is to be believed, the off-spinning all-rounder has everything it takes to succeed on the biggest stage."
+      "headline": "He has it in him: Ashwin backs Saransh Jain for his India Test debut vs Sri LankaAfter years of delivering in domestic cricket, Saransh Jain has finally earned the India Test call-up he long deserved. And if Ravichandran Ashwin is to be believed, the off-spinning all-rounder has everything it takes to succeed on the biggest stage."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/commonwealth-games/story/harjinder-kaur-commonwealth-games-2026-silver-weightlifting-fathers-sacrifice-2958622-2026-07-29",
-      "headline": "How a father's faith forged Harjinder Kaur into a CWG silver medallist A father's Rs 350 and unwavering belief helped shape Harjinder Kaur's Commonwealth journey. Four years after winning bronze, the Indian weightlifter returned to Glasgow and fulfilled her promise by upgrading it to silver."
+      "headline": "How a father's faith forged Harjinder Kaur into a CWG silver medallistA father's Rs 350 and unwavering belief helped shape Harjinder Kaur's Commonwealth journey. Four years after winning bronze, the Indian weightlifter returned to Glasgow and fulfilled her promise by upgrading it to silver."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/commonwealth-games/story/gulveer-singh-commonwealth-games-10000m-silver-coach-plan-india-history-2958600-2026-07-29",
-      "headline": "How one simple instruction helped Gulveer Singh script CWG history for India One instruction from coach Scott Simmons changed everything for Gulveer Singh. By trusting the plan and saving his final burst for the last lap, the Indian distance runner scripted Commonwealth Games history with the country's first-ever men's 10,000m medal."
+      "headline": "How one simple instruction helped Gulveer Singh script CWG history for IndiaOne instruction from coach Scott Simmons changed everything for Gulveer Singh. By trusting the plan and saving his final burst for the last lap, the Indian distance runner scripted Commonwealth Games history with the country's first-ever men's 10,000m medal."
     },
     {
       "sentiment": "positive",
@@ -455,26 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/zinedine-zidane-france-new-coach-four-year-contract-world-cup-2958007-2026-07-28",
       "headline": "Zinedine Zidane announced as France coach, begins new era after Deschamps exitAfter years of speculation, Zinedine Zidane has finally taken charge of the France national team. The World Cup winner and Real Madrid great now begins his biggest challenge yet\u2014bringing another major trophy home for Les Bleus."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/southern-brave-hemang-badani-the-hundred-2026-delhi-capitals-pressure-2957998-2026-07-28",
-      "headline": "Hemang Badani can't catch a break as Southern Brave makes horror Hundred startHemang Badani's difficult run as head coach has continued after Delhi Capitals-owned Southern Brave lost their first three matches of The Hundred 2026, leaving them seventh in the standings."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/commonwealth-games/story/sharmila-dhankar-cwg-bronze-domestic-abuse-womens-shot-put-glasgow-2957972-2026-07-28",
-      "headline": "Sharmila Dhankar, once victim of domestic abuse, now has a CWG bronzeSharmila Dhankar's CWG bronze is more than a sporting milestone. It is the story of a woman who overcame childhood polio and domestic abuse to rewrite her life through para athletics."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/commonwealth-games/story/commonwealth-games-2026-live-updates-july-28-india-medal-tally-boxing-weightlifting-jadumani-2957983-2026-07-28",
-      "headline": "CWG Highlights, July 28: Gulveer Singh wins 10,000m silver, boxers make merryCommonwealth Games 2026 Highlights, July 28: Harjinder Kaur wins weightlifting silver in women's 69kg category. Three boxers, Jadumani Singh, Preeti and Priya, have been assured of boxing medals after reaching semifinals. The highlight of the day was Gulveer Singh's 10,000m silver."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/novak-djokovic-aryna-sabalenka-2026-us-open-mixed-doubles-entry-list-2957921-2026-07-28",
-      "headline": "Novak Djokovic, Aryna Sabalenka team up for blockbuster US Open 2026 campaignNovak Djokovic and Aryna Sabalenka will join forces for the 2026 US Open Mixed Doubles Championship, combining elite talent with a close off-court friendship in one of the tournament's most anticipated partnerships."
     }
   ],
   "education": [
@@ -504,7 +504,7 @@
       "headline": "Fresh plea in Supreme Court to recall NEET results, reconduct examsA fresh petition has been filed in the Supreme Court\u00a0to recall the National Entrance cum Eligibility Test - Under Graduate (NEET-UG) 2024 results and re-conduct fresh examination after\u00a0discrepancies in the declared results.\r\n\r\n"
     },
     {
-      "sentiment": "positive",
+      "sentiment": "negative",
       "url": "https://www.indiatoday.in/education/story/nta-issues-clarification-after-neet-2024-controversy-cheating-in-exam-high-cut-off-2550063-2024-06-07",
       "headline": "NTA issues clarification after NEET result controversy over toppers, high cut-offIn a detailed statement, the National Testing Agency (NTA) said that the increase in cut-off and number of toppers in the NEET-UG reflect the competitive nature of the exam and maintained that the test's integrity has not been compromised."
     },
@@ -559,11 +559,6 @@
       "headline": "Exam scams | Plugging the leaksA new central legislation aims to end the old scourge of exam paper scams for govt jobs, with heavy punishment and penalties"
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/magazine/education/story/19920930-toddlers-learn-social-graces-and-sophisticated-airs-in-calcutta-to-remain-competitive-766952-2012-12-31",
-      "headline": "The brave new totsTutotials teaching children how to take on a highly competitive world are mushrooming in the city "
-    },
-    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/magazine/education/story/20220926-education-kota-factory-season-2-2000662-2022-09-16",
       "headline": "Coaching | Kota factory, season 2While online ed-tech companies eye the brick-and-mortar world of coaching centres in the city, traditional institutes are extending their digital arms to remain on top of the game"
@@ -572,11 +567,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/magazine/education/story/20220711-india-today-education-conclave-2022-all-bets-on-edutech-1968836-2022-07-01",
       "headline": "India Today Education Conclave 2022: All bets on edutechThe India Today Education Conclave 2022 touched on topics like early childhood care, universal education, the NEP and India\u2019s edutech boom"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/magazine/education/story/19921015-st-stephens-college-rules-come-under-fire-766987-2012-12-26",
-      "headline": "Courting ChristiansSt Stephen's College rules come under fire."
     }
   ]
 }
