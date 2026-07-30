@@ -1,6 +1,16 @@
 {
   "business": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/market/story/sensex-nifty-today-auto-stocks-lift-market-despite-fed-pause-2959766-2026-07-30",
+      "headline": "Markets end higher as auto stocks lift market despite Fed jittersThe BSE Sensex climbed 273.55 points, or 0.35%, to settle at 77,928.15, while the NSE Nifty50 gained 66.95 points, or 0.28%, to close at 24,317.15."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/personal-finance/story/why-july-31-isnt-the-itr-filing-deadline-for-every-taxpayer-2959665-2026-07-30",
+      "headline": "Why July 31 isn't the ITR filing deadline for every taxpayerDo you really need to file your ITR by July 31? The answer depends on the type of income you earn and the return form you're required to file."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/8th-pay-commission-govt-employee-salary-hike-pension-rise-report-may-2027-fitment-factor-2959580-2026-07-30",
       "headline": "8th Pay Commission: When can central government employees expect a salary hike?8th CPC update: The Finance Ministry told the Rajya Sabha that the 8th Pay Commission is expected to submit its report by around May 2027."
@@ -89,19 +99,34 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/market/story/sensex-jumps-market-rise-why-reason-it-fmcg-stocks-rally-us-fed-decision-bse-nse-today-2958636-2026-07-29",
       "headline": "Sensex jumps 900 points: 3 reasons why the stock market is rising todayThe BSE Sensex was trading 823.42 points, or 1.07%, higher at 77,589.34 in early trade, while the NSE Nifty50 climbed 233.80 points, or 0.97%, to 24,219.15, as of 10:10 am, extending gains for the second straight session, led by strong buying in IT stocks."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/market/story/market-opening-bell-sensex-opens-700-points-higher-nifty-above-24100-infosys-up-it-stocks-gain-2958630-2026-07-29",
-      "headline": "Sensex opens 700 points higher, Nifty above 24,100; Infosys up 4%The BSE Sensex jumped 711.33 points, or 0.93%, to 77,477.25 in early trade, while the NSE Nifty50 rose 200.95 points, or 0.84%, to 24,186.30 as of 9:28 am."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/companies/story/coca-cola-india-market-share-falls-rs-11-40-problem-pricing-gap-packaging-costs-2958611-2026-07-29",
-      "headline": "The Rs 11-40 problem: Why Coca-Cola is losing market share in IndiaCoca-Cola has admitted that it lost market share in India during the April-June quarter, blaming higher packaging costs and the absence of the right products in the crucial Rs 11\u201340 price segment."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/explained-why-sunny-deol-lord-hanuman-is-missing-from-ramayana-part-one-trailer-2959663-2026-07-30",
+      "headline": "Explained: Why Sunny Deol's Lord Hanuman is missing from Ramayana trailer Why is Sunny Deol missing from the Ramayana: Part One trailer? While fans were left disappointed by Lord Hanuman's absence, there may be a bigger storytelling reason behind it. Here's why the makers could be saving cinema's biggest reveal for later."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/kamal-haasan-praise-the-odyssey-christopher-nolan-homer-poem-greek-mythology-2959732-2026-07-30",
+      "headline": "Homer dreamt it, Nolan dared it: Kamal Haasan in a stirring review of The Odyssey Kamal Haasan praised Christopher Nolan's The Odyssey in a birthday note for the filmmaker. He also said his own tribute to the film has been cleared by the censor board and will reach Indian theatres soon."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/reviews/story/bhai-tera-star-hai-review-the-only-star-was-vijay-deverakonda-in-vijay-sales-ad-2959658-2026-07-30",
+      "headline": "Bhai Tera Star Hai review: The only star was Vijay Deverakonda in Vijay Sales adRelease Date:Thu Jul 30, 2026 Bhai Tera Star Hai review: Raghav Juyal tries his best, but the film gives him little to work with. The result is a loud, cluttered film that leaves you counting down to the interval rather than the laughs."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/ott-watchlist-this-week-must-watch-picks-netflix-prime-jio-hotstar-sony-liv-2959652-2026-07-30",
+      "headline": "Top OTT films and shows to watch on Netflix, Prime, JioHotstar this weekend New month, new binge plans! August arrives with a packed OTT lineup featuring everything from high-octane action and gripping mysteries to heartwarming romances and easy-breezy comedies. Pick your favourite."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/ram-charan-wrist-surgery-actor-returns-to-hyderabad-after-coimbatore-treatment-2959668-2026-07-30",
+      "headline": "Ram Charan returns to Hyderabad with family after wrist surgery in Coimbatore Actor Ram Charan returned to Hyderabad with his wife Upasana and parents, Chiranjeevi and Surekha, after wrist surgery in Coimbatore. Doctors have advised complete rest, making an early return to filming unlikely."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/ramayana-trailer-breakdown-5-breathtaking-moments-that-deserve-a-closer-look-2959588-2026-07-30",
@@ -171,68 +196,48 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/ramayana-trailer-ranbir-kapoor-ram-yash-raavan-stand-at-heart-of-a-cinematic-odyssey-2959376-2026-07-30",
       "headline": "Ramayana trailer: Ranbir's Ram, Yash's Raavan stand at heart of a cinematic odyssey Fans don't have to wait any more. The first trailer of Ramayana has arrived, unveiling Ranbir Kapoor's Lord Ram and Yash's Raavan in a film that brings one of India's most loved epics to the big screen this Diwali."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/friends-say-i-look-like-young-hrithik-roshan-cjp-saurav-das-jokes-after-kangana-ranaut-post-2959330-2026-07-29",
-      "headline": "Friends say I look like young Hrithik: CJP's Saurav Das jokes after Kangana's post Saurav Das, spokesperson of CJP, responded with humour after BJP MP Kangana Ranaut called him 'useless' and 'unemployed', joking that he might resemble young Hrithik Roshan. Despite the heated exchange, Das expressed willingness to have a respectful conversation."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/salman-khan-alliance-appearance-supports-sohail-khan-after-seema-sajdeh-exit-2959259-2026-07-29",
-      "headline": "Salman Khan enters Alliance to support Sohail after Seema Sajdeh's exit Salman Khan is making a one-hour appearance on Alliance to support brother Sohail Khan after Seema Sajdeh's exit. The visit comes as Sohail stays in the competition after an emotional week on the show."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/hollywood/story/brand-new-day-spider-man-heartbreak-gets-a-desi-twist-with-haryanvi-song-barsaat-2959176-2026-07-29",
-      "headline": "Haryanvi song in Spider-Man Brand New Day: Peter Parker's heartbreak gets desi twist A Haryanvi track, Barsaat, by indie duo Banjaare brings Peter Parker's heartbreak to life in Spider-Man: Brand New Day, capturing his pain after MJ forgets him."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/inside-sanjay-leela-bhansali-unique-plan-to-launch-ranbir-kapoor-alia-bhatt-love-war-2959156-2026-07-29",
-      "headline": "Inside Sanjay Leela Bhansali's unique plan to launch Ranbir-Alia's Love & War Filmmaker Sanjay Leela Bhansali is preparing a special promotional asset to introduce Ranbir Kapoor and Alia Bhatt's Love & War to audiences. The immersive unveiling is set to launch the film's campaign ahead of its January 2027 release."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/have-too-much-ego-to-dm-girls-kushal-tandon-on-shreya-kalra-slid-into-dms-kashish-kapoor-2959121-2026-07-29",
-      "headline": "Have too much ego to DM girls: Actor Kushal Tandon on Shreya's Lock Upp claims Shreya Kalra's claim about Kushal Tandon messaging her during his relationship with Shivangi Joshi, made on Lock Upp 2, was addressed by Kushal on Alliance. He denied initiating contact, stating Shreya messaged him first and clarified the misunderstanding around their promo shoot."
     }
   ],
   "general news": [
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/parliament-monsoon-session-2026-live-updates-rajya-sabha-lok-sabha-anti-paper-leak-bill-debate-2959475-2026-07-30",
-      "headline": "Live: Rajya Sabha takes up anti-paper leak Bill for debateParliament Monsoon Session Live Updates: The anti-paper leak Bill, passed by the Lok Sabha on Wednesday after a marathon nine-hour debate, is set to be taken up in the Rajya Sabha today, with discussion scheduled to begin at 2 pm. The Opposition is also expected to target the government and Home Minister Amit Shah in the Lok Sabha over the police action against student protesters, setting the stage for another day of heated exchanges in both Houses of Parliament."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/after-rajya-sabha-lok-sabha-clears-bill-to-make-insult-to-vande-mataram-criminal-offence-2959752-2026-07-30",
+      "headline": "Parliament clears bill to make insult to Vande Mataram criminal offenceThe Prevention of Insults to National Honour (Amendment) Bill, 2026 was introduced in the Rajya Sabha on July 24 and passed on July 29. A day later, the Lok Sabha cleared the bill."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/delhi-parliament-protest-cctv-raises-questions-over-police-preparedness-2959623-2026-07-30",
-      "headline": "CJP protesters came within 100 metres of Parliament on July 20, new video showsCCTV footage shows Cockroach Janata Party protesters reaching close to Parliament and clashing with police during their 'Sansad Chalo' march, raising questions over Delhi Police's preparedness, barricading and enforcement of Section 163 in New Delhi."
+      "url": "https://www.indiatoday.in/sports/commonwealth-games/story/commonwealth-games-2026-live-updates-july-30-india-medal-tally-athletics-animesh-kujur-neeraj-chopra-2959620-2026-07-30",
+      "headline": "CWG live: Neeraj Chopra, 2 other Indians qualify for javelin finalCommonwealth Games Live, July 30: Neeraj Chopra, Yash Vir Singh, and Rohit Yadav qualify for the javelin final. Neeraj finishes 5th, while the other two Indians secure 9th and 10th place respectively. Sri Lanka's Rumesh Pathirage tops the leaderboard."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/tamil-nadu/story/tamil-nadu-chicken-biryani-proposal-for-mid-day-meal-under-cm-vijay-consideration-2959474-2026-07-30",
-      "headline": "Weekly chicken biryani on menu? CM Vijay eyes big mid-day meal upgradeSpeaking about the proposal, School Education Minister Rajmohan said every major political era in the state had strengthened the school nutrition programme in its own way. The mid-day meal scheme was first introduced by former Tamil Nadu CM K Kamarajar in the 1950s."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/hockey/story/hockey-india-responds-jersey-row-defends-change-colour-blue-saffron-2959640-2026-07-30",
-      "headline": "Hockey India responds to jersey row, defends change of colour from blue to saffronHockey India has defended its decision to switch to a predominantly saffron jersey for the 2026 FIH Hockey World Cup following widespread backlash from fans and former players."
+      "headline": "Weekly chicken biryani on menu? CM Vijay eyes big mid-day meal upgradeSpeaking about the proposal, School Education Minister Rajmohan said every major political era in the state had strengthened the school nutrition programme in its own way. The mid-day meal scheme was first introduced by former Tamil Nadu CM K Kamaraja in the 1950s."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/cjp-protest-jantar-mantar-protest-kangana-ranaut-gen-z-statement-mind-virus-2958922-2026-07-30",
-      "headline": "Yes, Gen Z crossed the line at CJP protests. But it was a mind virusMany believe Gen Zers crossed the line by abusing the prime minister at the CJP protest at Delhi and Mumbai. Actor-MP Kangana Ranaut called them the Gutter Generation. The Gen Z isn't that. Do not blame the victim for what the virus does."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/manmohan-singh-talabira-ii-coal-scam-case-supreme-court-cbi-closure-report-history-will-be-kinder-2959516-2026-07-30",
-      "headline": "History was kinder: The verdict Manmohan Singh never lived to seeFor Manmohan Singh, who once said history would be kinder to him than his contemporaries, the Supreme Court's ruling may well be the beginning of that reassessment."
+      "headline": "Yes, Gen Z crossed the line by abusing the PM. A mind virus was at playMany believe Gen Zers crossed the line by abusing the prime minister at the CJP protest at Delhi and Mumbai. Actor-MP Kangana Ranaut called them the Gutter Generation. The Gen Z isn't that. Do not blame the victim for what the virus does."
     },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/neet-paper-leak-protests-abhijeet-dipke-asks-pm-modi-to-become-an-influencer-2959424-2026-07-30",
-      "headline": "Become an influencer, you're doing well: Abhijeet Dipke's swipe at PM ModiMocking PM Modi's social media outreach to protesting students, CJP's Abhijeet Dipke said the Prime Minister should quit office and become a social media influencer \"as he is good at it.\""
+      "headline": "Quit, become an influencer: CJP's Abhijeet Dipke takes a dig at PM ModiMocking PM Modi's social media outreach to protesting students, CJP's Abhijeet Dipke said the Prime Minister should quit office and become a social media influencer \"as he is good at it.\""
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/monsoon-in-no-mood-to-stop-till-august-indias-rain-deficit-shrinks-to-14-2959739-2026-07-30",
+      "headline": "Monsoon in no mood to stop till August, rain deficit shrinks to 14%India's southwest monsoon has strengthened as a deep depression moves across Maharashtra. The active phase could further reduce the rainfall deficit and support reservoirs and kharif crops."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/parliament-monsoon-session-2026-live-updates-rajya-sabha-lok-sabha-anti-paper-leak-bill-debate-2959475-2026-07-30",
+      "headline": "Live: Over 130 Indians hit by Iranian hospital closure in Dubai, Rajya Sabha toldParliament Monsoon Session Live Updates: The anti-paper leak Bill, passed by the Lok Sabha on Wednesday after a marathon nine-hour debate, was taken up for debate in the Rajya Sabha at 2 pm. The Bill will be put to a vote in the Upper House after the debate. Follow this space for live updates."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/ethanol-protest-cjp-jantar-mantar-shock-hardeep-puti-tehseen-poonwalla-e20-policy-parliament-march-2959678-2026-07-30",
+      "headline": "Impact of CJP shock? Oil minister meets E20 protesters ahead of protest marchAfter watching the CJP protest snowball into a political crisis, the Centre seems unwilling to take chances with the boiling issue of ethanol-blended petrol. Petroleum Minister Hardeep Singh Puri met E20 protesters ahead of their scheduled march and sought time for considering their demands."
     },
     {
       "sentiment": "positive",
@@ -241,23 +246,28 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/lightning-safety-why-trees-attract-strikes-and-endanger-people-in-thunderstorms-standing-under-trees-dangerous-side-flash-step-voltage-physics-2959522-2026-07-30",
-      "headline": "Never run to a tree to take shelter during lightning. Science explains whyWhen rain arrives and thunder follows, every instinct says run to the nearest tree. Physics says the opposite, and the reason involves side flashes, step voltage, exploding sap, and a return stroke five times hotter than the surface of the Sun."
+      "url": "https://www.indiatoday.in/india/story/amit-shah-resignation-kharge-rajya-sabha-apologise-and-resign-july-20-delhi-student-protest-crackdown-2959759-2026-07-30",
+      "headline": "Apologise and resign: Kharge to Amit Shah over Delhi student protest crackdownMallikarjun Kharge accused the Centre of suppressing the truth, sought a time-bound academic calendar for students, and triggered an uproar with remarks on the RSS and educational institution."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ajinkya-rahane-retirement-india-batter-test-captain-record-2959568-2026-07-30",
-      "headline": "0 losses: Rahane signs off with one of India's rarest Test captaincy recordsAjinkya Rahane retired from international cricket with one of India's rarest captaincy records, never losing a Test in six matches as skipper. His crowning achievement remains the historic 2020-21 Border-Gavaskar Trophy triumph in Australia, where he inspired an injury-hit side to a famous 2-1 series win."
+      "url": "https://www.indiatoday.in/india/story/karnataka-hiv-rumours-ksaps-denies-7000-students-claim-testing-not-compulsory-2959756-2026-07-30",
+      "headline": "Are 7,000 Karnataka students HIV-positive? Here's the truthThe Karnataka State AIDS Prevention Society has denied viral claims that 7,000 students in the state have HIV and that colleges have compulsory testing. The clarification follows public panic, with the agency urging voluntary screening and verified information."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/iran-us-missile-attack-middle-east-war-irgc-centcom-strikes-jordan-air-defence-system-escalation-2959543-2026-07-30",
-      "headline": "Does Iran want the Middle East war to continue forever?The Middle East appeared to be edging away from the brink. Then Iran fired again. The latest attack by the IRGC has shifted the narrative from retaliation to escalation, prompting doubts over whether Tehran wants this war to end anytime soon."
+      "url": "https://www.indiatoday.in/education-today/news/story/saurav-das-biography-education-career-cjp-spokesperson-2959604-2026-07-30",
+      "headline": "Saurav Das's education qualification, career path and rise as CJP's faceCJP spokesperson Saurav Das is an investigative journalist and Amity University graduate. He has built a career in journalism, pursuing independent reporting since 2020. His growing social media presence has made him a prominent face of the movement."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/cabinet-committee-on-security-meeting-pm-modi-chairs-ccs-session-in-parliament-ajit-doval-amit-shah-2959646-2026-07-30",
-      "headline": "PM chairs high-level security meet in Parliament; top ministers, Ajit Doval presentPrime Minister Narendra Modi is chairing a high-level Cabinet Committee on Security meeting to assess the fallout of the West Asia situation on India's energy security and review contingency measures to safeguard fuel supplies."
+      "url": "https://www.indiatoday.in/india/story/amid-egg-row-bengal-govt-says-mid-day-meals-will-include-eggs-alongside-iskcon-menu-2959400-2026-07-30",
+      "headline": "Bengal govt says eggs will stay in mid-day meals after Iskon backlashThe West Bengal government said Kolkata schoolchildren will get eggs alongside ISKCON-prepared satvik mid-day meals. The move follows criticism over nutrition and seeks to reassure parents that protein intake will continue."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/delhi-parliament-protest-cctv-raises-questions-over-police-preparedness-2959623-2026-07-30",
+      "headline": "CJP protesters came within 100 metres of Parliament on July 20, new videos showCCTV footage shows Cockroach Janata Party protesters reaching close to Parliament and clashing with police during their 'Sansad Chalo' march, raising questions over Delhi Police's preparedness, barricading and enforcement of Section 163 in New Delhi."
     },
     {
       "sentiment": "positive",
@@ -266,18 +276,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/sc-asks-delhi-police-to-place-graded-use-of-force-standing-order-on-record-in-jantar-mantar-pellet-row-2959560-2026-07-30",
-      "headline": "SC seeks police's graded use-of-force standing order in Jantar Mantar pellet rowSC issued notice to the Delhi Police on a plea challenging the use of pellet guns during the CJP protest and directed it to place on record the standing order governing the graded use of force after the petitioners argued that existing guidelines do not permit the use of metallic pellets during protests."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/nasa-swift-observatory-rescue-mission-link-spacecraft-propulsion-problem-2959628-2026-07-30",
-      "headline": "Launched to rescue falling telescope, private spacecraft misfires in spaceA pioneering mission designed to prolong the life of one of Nasa's most productive space observatories has run into an early challenge. Engineers are now racing to save the spacecraft."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/8th-pay-commission-govt-employee-salary-hike-pension-rise-report-may-2027-fitment-factor-2959580-2026-07-30",
-      "headline": "8th Pay Commission: When can central government employees expect a salary hike?8th CPC update: The Finance Ministry told the Rajya Sabha that the 8th Pay Commission is expected to submit its report by around May 2027."
+      "url": "https://www.indiatoday.in/world/canada-news/story/indian-students-in-canada-spousal-open-work-permit-canada-immigration-news-sham-marriages-2959614-2026-07-30",
+      "headline": "Indian students used sham marriages for Canada work permits, Ottawa plugged holeIndian students used \"marriages of convenience\" to obtain spousal work permits before Ottawa closed the loophole in 2024, reveals an internal Canadian government report. The report also flags concerns over English-language proficiency and a sharp decline in Indian study permit applications."
     },
     {
       "sentiment": "positive",
@@ -286,41 +286,61 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/sarvam-announces-1-trillion-parametre-ai-model-vision-and-speech-getting-new-updates-2959609-2026-07-30",
-      "headline": "Sarvam making 1T AI model, seeks to challenge OpenAI and AnthropicSarvam has just announced a series of new releases at its AI conference Epoch. From the launch of Sarvam Vision 2.0 to Bulbul 4, and upgrades to its flagship Sarvam 105B model, here are all the details."
+      "url": "https://www.indiatoday.in/india/story/manmohan-singh-talabira-ii-coal-scam-case-supreme-court-cbi-closure-report-history-will-be-kinder-2959516-2026-07-30",
+      "headline": "History was kinder: The verdict Manmohan Singh never lived to seeFor Manmohan Singh, who once said history would be kinder to him than his contemporaries, the Supreme Court's ruling may well be the beginning of that reassessment."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/prashant-kishor-bankipura-byelection-opinion-poll-bihar-bjp-nitin-nabin-rjd-muslim-yadav-factor-2959201-2026-07-30",
-      "headline": "PK makes poll debut today. Will RJD's M-Y voters help him beat the BJP?As Jan Suraaj founder Prashant Kishor makes his electoral debut in Bihar's Bankipur by-election today, the strategist-turned-politician faces his toughest test yet. To breach the BJP's urban bastion, he needs a decisive shift in the RJD's traditional Muslim-Yadav vote bank."
+      "url": "https://www.indiatoday.in/science/story/nasa-curiosity-rover-discovers-polygon-field-on-mars-2959726-2026-07-30",
+      "headline": "Curiosity rover finds mysterious honeycomb-like polygons on Mars. See picsScientists believe the landscape could preserve clues to ancient environmental conditions, but the true origin of the patterns remains a mystery."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/trump-netanyahu-discussed-3-options-on-iran-war-talks-blockade-strikes-israel-defence-aid-2959398-2026-07-30",
-      "headline": "3 options on Iran: What Trump, Netanyahu discussed behind closed doorsUS President Donald Trump and Israeli Prime Minister Benjamin Netanyahu weighed three possible paths on Iran during a closed-door White House meeting. Here's what was discussed and why it matters."
+      "url": "https://www.indiatoday.in/world/story/iran-us-missile-attack-middle-east-war-irgc-centcom-strikes-jordan-air-defence-system-escalation-2959543-2026-07-30",
+      "headline": "Does Iran want the Middle East war to continue forever?The Middle East appeared to be edging away from the brink. Then Iran fired again. The latest attack by the IRGC has shifted the narrative from retaliation to escalation, prompting doubts over whether Tehran wants this war to end anytime soon."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/travel/story/musafir-cafe-in-vikrant-masseys-new-netflix-show-is-real-its-in-mussoorie-uttarakhand-2958860-2026-07-29",
-      "headline": "Musafir Cafe in Vikrant Massey's new Netflix show is real! It's in UttarakhandNetflix's Musafir Cafe starring Vikrant Massey, Vedika Pinto and Mahima Makwana is currently all over social media. And guess what, the cafe is actually a decades-old retreat."
+      "url": "https://www.indiatoday.in/education-today/news/story/rahul-gandhi-education-st-stephens-harvard-rollins-cambridge-2958840-2026-07-29",
+      "headline": "Rahul Gandhi's academic journey: From St. Stephen's dropout to MPhil at CambridgeRahul Gandhi has been raising the issues faced by lakhs of students in Parliament. But before entering politics, he too was a student like millions of others. His educational journey was marked by several disruptions, from the assassination of former Prime Minister Indira Gandhi to leaving his undergraduate course at St. Stephen's College and later moving to Harvard University."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/assam-floods-death-toll-over-3-lakh-affected-imd-more-rain-alert-army-himanta-sarma-2959442-2026-07-30",
-      "headline": "Assam flood death toll climbs to 78; fresh rain warning as 3 lakh remain affectedWeather department has warned that more heavy rain could aggravate waterlogging, flooding, flash floods, slow vehicular movement and increase the risk of localised landslides in vulnerable areas."
+      "url": "https://www.indiatoday.in/sports/hockey/story/hockey-india-responds-jersey-row-defends-change-colour-blue-saffron-2959640-2026-07-30",
+      "headline": "Hockey India responds to jersey row, defends change of colour from blue to saffronHockey India has defended its decision to switch to a predominantly saffron jersey for the 2026 FIH Hockey World Cup following widespread backlash from fans and former players."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/jantar-mantar-security-delhi-police-weld-barricades-cjp-protest-fir-row-2959448-2026-07-30",
-      "headline": "Jantar Mantar under heavy security again after CJP's fresh protest threatsVisuals show barricades at the Jantar Mantar protest site being welded together to prevent their removal during any future demonstration, as Delhi Police steps up security with heavy deployment of police and paramilitary personnel amid the CJP's fresh protest threat."
+      "url": "https://www.indiatoday.in/technology/features/story/explained-why-indias-navic-has-failed-for-now-and-how-gps-works-in-phones-2959621-2026-07-30",
+      "headline": "Explained: Why India's NavIC has failed for now and how GPS works in phonesAfter months of speculation, the Indian government has officially confirmed that NavIC, which is India's home-grown navigation system like GPS and BeiDou, is dysfunctional at the moment. So, what happened? And how exactly GPS really works in phones? We explain."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/law-news/story/bnss-protest-rules-when-police-can-use-force-tear-gas-or-lathicharge-2959375-2026-07-29",
-      "headline": "Rahul Gandhi questioned Amit Shah's role in police action. What does the law say?Rahul Gandhi's allegations against Amit Shah over the police response to NEET protesters have sparked a legal debate. Who can authorise force, and when does it become lawful?"
+      "url": "https://www.indiatoday.in/india/story/cabinet-committee-on-security-meeting-pm-modi-chairs-ccs-session-in-parliament-ajit-doval-amit-shah-2959646-2026-07-30",
+      "headline": "PM chairs high-level security meet in Parliament; top ministers, Ajit Doval presentPrime Minister Narendra Modi is chairing a high-level Cabinet Committee on Security meeting to assess the fallout of the West Asia situation on India's energy security and review contingency measures to safeguard fuel supplies."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/fifa-world-cup-stake-sale-plan-gianni-infantino-defends-proposal-2959735-2026-07-30",
+      "headline": "Infantino defends FIFA's World Cup stake sale proposal after backlash from UEFA FIFA President Gianni Infantino has described the proposal to sell minority stakes in the FIFA World Cup as \"an opportunity, not an obligation\", after the plan sparked a furious backlash from several football authorities."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/england-test-team-stephen-fleming-replaces-brendon-mccullum-joe-root-returns-captain-2959736-2026-07-30",
+      "headline": "Stephen Fleming replaces McCullum as England Test coach, Joe Root returns as captain England have appointed Stephen Fleming as their new men's Test head coach, replacing Brendon McCullum, while Joe Root has returned for a second stint as Test captain following Ben Stokes' retirement."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ajinkya-rahane-retirement-kkr-with-new-ipl-captaincy-dilemma-2959672-2026-07-30",
+      "headline": "KKR left scampering for IPL captain after Ajinkya Rahane's retirement Ajinkya Rahane's retirement has left Kolkata Knight Riders with another captaincy challenge as they search for a new leader ahead of IPL 2027. With limited options within the squad and two disappointing seasons behind them, KKR may once again turn to the auction for a proven captain."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/india-vs-brazil-in-kolkata-tickets-football-2959664-2026-07-30",
+      "headline": "Indian football team likely to play Brazil in Kolkata The Indian football team could be set for a blockbuster friendly against five-time world champions Brazil, with the Selecao reportedly scheduled to face the Blue Tigers in Kolkata on October 3. A Brazilian report claims the fixture is part of Brazil's 2026 international calendar, although an official confirmation is still awaited."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/hockey/story/hockey-india-responds-jersey-row-defends-change-colour-blue-saffron-2959640-2026-07-30",
@@ -329,7 +349,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/commonwealth-games/story/commonwealth-games-2026-live-updates-july-30-india-medal-tally-athletics-animesh-kujur-neeraj-chopra-2959620-2026-07-30",
-      "headline": "CWG live: Neeraj, Kujur take centre-stage. Action begins at 2.40 pm Commonwealth Games Live, July 30: Another exciting day awaits in Glasgow, with Neeraj Chopra set to compete in the men's javelin qualification. Animesh Kujur and Tejaswin Shankar will also be among the athletes to watch, while Parul Chaudhary and Tajinderpal Singh Toor and others will be aiming to add to India's medal tally."
+      "headline": "CWG live: Neeraj Chopra, 2 other Indians qualify for javelin final Commonwealth Games Live, July 30: Neeraj Chopra, Yash Vir Singh, and Rohit Yadav qualify for the javelin final. Neeraj finishes 5th, while the other two Indians secure 9th and 10th place respectively. Sri Lanka's Rumesh Pathirage tops the leaderboard."
     },
     {
       "sentiment": "negative",
@@ -359,22 +379,22 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-tour-of-bangladesh-tamim-iqbal-hopeful-amid-bcci-talks-2959493-2026-07-30",
-      "headline": "Bangladesh an extremely safe country: Tamim Iqbal hopeful India tour will go ahead BCB president Tamim Iqbal remains hopeful that India's white-ball tour of Bangladesh will go ahead in September 2026, insisting the country is \"extremely safe\" as discussions with the BCCI continue."
+      "headline": "Bangladesh an extremely safe country: Tamim Iqbal hopeful India tour will go aheadBCB president Tamim Iqbal remains hopeful that India's white-ball tour of Bangladesh will go ahead in September 2026, insisting the country is \"extremely safe\" as discussions with the BCCI continue."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/commonwealth-games/story/commonwealth-games-india-dilip-gavit-farmer-gold-medal-2959478-2026-07-30",
-      "headline": "Dilip Gavit's epic surge in the rain takes him from farmlands to CWG gold Dilip Gavit produced a stunning late surge in the rain to win the men's 100m T47 gold at the Commonwealth Games in Glasgow. The Maharashtra athlete clocked a Games Record 10.71 seconds to lead India to a historic 1-2 finish alongside Mohammed Basil Morssinganakath."
+      "headline": "Dilip Gavit's epic surge in the rain takes him from farmlands to CWG goldDilip Gavit produced a stunning late surge in the rain to win the men's 100m T47 gold at the Commonwealth Games in Glasgow. The Maharashtra athlete clocked a Games Record 10.71 seconds to lead India to a historic 1-2 finish alongside Mohammed Basil Morssinganakath."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/commonwealth-games/story/commonwealth-games-india-schedule-july-30-fixtures-medal-events-timings-2959405-2026-07-30",
-      "headline": "Neeraj Chopra returns to Commonwealth Games: India's full schedule Neeraj Chopra begins his Commonwealth Games campaign in the men's javelin qualification as India gears up for another busy day in Glasgow. Tejaswin Shankar's fitness will also be under scrutiny, while multiple Indians compete in medal events across athletics and weightlifting."
+      "headline": "Neeraj Chopra returns to Commonwealth Games: India's full scheduleNeeraj Chopra begins his Commonwealth Games campaign in the men's javelin qualification as India gears up for another busy day in Glasgow. Tejaswin Shankar's fitness will also be under scrutiny, while multiple Indians compete in medal events across athletics and weightlifting."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/commonwealth-games/story/neeraj-chopra-commonwealth-games-javelin-throw-schedule-timing-livestream-details-2959421-2026-07-30",
-      "headline": "CWG made Neeraj Chopra great. He returns for a fresh start in Glasgow After injury and reset, Neeraj Chopra returns to the Commonwealth Games where he burst onto the world stage in 2018. The fear is gone and he feels ready. But whether his gamble has paid off remains to be seen. Glasgow will tell."
+      "headline": "CWG made Neeraj Chopra great. He returns for a fresh start in GlasgowAfter injury and reset, Neeraj Chopra returns to the Commonwealth Games where he burst onto the world stage in 2018. The fear is gone and he feels ready. But whether his gamble has paid off remains to be seen. Glasgow will tell."
     },
     {
       "sentiment": "positive",
@@ -455,26 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/other-sports/story/manu-bhaker-shooting-bronze-mixed-feelings-world-cup-2958725-2026-07-29",
       "headline": "Manu Bhaker reflects on mixed feelings after World Cup bronze: Could have done betterDouble Olympic medallist Manu Bhaker admitted she had \"mixed feelings\" after winning bronze in the 25m pistol event at the ISSF World Cup in Hangzhou, saying she was capable of a better performance. Despite another podium finish, the Indian star remains focused on winning her first individual gold medal of the 2026 season."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/clicky-ponting-brian-devine-finger-clicking-club-cricket-cheating-2958683-2026-07-29",
-      "headline": "The 'Clicky Ponting' scandal that has left the cricket world stunnedA bizarre finger-clicking allegation has rocked the North Yorkshire and South Durham Cricket League. The man nicknamed \"Clicky Ponting\" now finds himself at the centre of cricket's strangest cheating investigation."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ryan-ten-doeschate-joins-kkr-india-assistant-coach-quits-2958655-2026-07-29",
-      "headline": "Ryan ten Doeschate joins KKR in new role a day after leaving India's coaching staffRyan ten Doeschate wasted little time finding his next challenge. Just a day after leaving India's coaching staff, he returned to the Knight Riders in a newly created global leadership role."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/saransh-jain-india-test-squad-vs-sri-lanka-r-ashwin-backs-debut-2958634-2026-07-29",
-      "headline": "He has it in him: Ashwin backs Saransh Jain for his India Test debut vs Sri LankaAfter years of delivering in domestic cricket, Saransh Jain has finally earned the India Test call-up he long deserved. And if Ravichandran Ashwin is to be believed, the off-spinning all-rounder has everything it takes to succeed on the biggest stage."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/commonwealth-games/story/harjinder-kaur-commonwealth-games-2026-silver-weightlifting-fathers-sacrifice-2958622-2026-07-29",
-      "headline": "How a father's faith forged Harjinder Kaur into a CWG silver medallistA father's Rs 350 and unwavering belief helped shape Harjinder Kaur's Commonwealth journey. Four years after winning bronze, the Indian weightlifter returned to Glasgow and fulfilled her promise by upgrading it to silver."
     }
   ],
   "education": [
@@ -555,18 +555,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/magazine/education/story/20240304-exam-scams-plugging-the-leaks-2506171-2024-02-23",
-      "headline": "Exam scams | Plugging the leaksA new central legislation aims to end the old scourge of exam paper scams for govt jobs, with heavy punishment and penalties"
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/magazine/education/story/19920930-toddlers-learn-social-graces-and-sophisticated-airs-in-calcutta-to-remain-competitive-766952-2012-12-31",
       "headline": "The brave new totsTutotials teaching children how to take on a highly competitive world are mushrooming in the city "
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/magazine/education/story/20220926-education-kota-factory-season-2-2000662-2022-09-16",
-      "headline": "Coaching | Kota factory, season 2While online ed-tech companies eye the brick-and-mortar world of coaching centres in the city, traditional institutes are extending their digital arms to remain on top of the game"
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/magazine/education/story/20220711-india-today-education-conclave-2022-all-bets-on-edutech-1968836-2022-07-01",
+      "headline": "India Today Education Conclave 2022: All bets on edutechThe India Today Education Conclave 2022 touched on topics like early childhood care, universal education, the NEP and India\u2019s edutech boom"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/magazine/education/story/19921015-st-stephens-college-rules-come-under-fire-766987-2012-12-26",
+      "headline": "Courting ChristiansSt Stephen's College rules come under fire."
     }
   ]
 }
