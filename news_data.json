@@ -2,6 +2,36 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/real-estate/story/noida-tops-indias-housing-boom-with-125-price-growth-gurugram-follows-2963203-2026-08-04",
+      "headline": "Noida registers 125% housing price growth, tops the list; Gurugram followsAverage residential prices in Noida increased from Rs 4,795 per sq ft in 2019 to Rs 10,780 per sq ft in Q2 2026, marking a 125% rise, mentioned report."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/linkedin-reddit-ai-posts-40-percent-finance-socialmedia-advice-trust-report-finfluencer-2960628-2026-08-04",
+      "headline": "40% LinkedIn posts written by AI: How reliable is the financial advice you take?Studies have found that social media platforms such as LinkedIn, Reddit and Substact are saturated with AI-generated posts, including financial advice. The trend is raising questions about the credibility of online experts and the reliability of the guidance that readers follow."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/apple-crosses-10-billion-in-annual-india-sales-for-1st-time-key-things-to-know-2963133-2026-08-04",
+      "headline": "Apple crosses $10 billion in annual India sales for 1st time. Key things to knowAlthough India still contributes only a small share of Apple's global business, it is emerging as one of the company's most important growth markets outside the US and China."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/market/story/market-closing-sensex-ends-210-points-lower-nifty-below-24700-hul-down-2-2963196-2026-08-04",
+      "headline": "Sensex ends 210 points lower, Nifty below 24,700; HUL down 2%The BSE Sensex fell 210.08 points, or 0.27%, to close at 78,428.95, while the NSE Nifty50 declined 159.40 points, or 0.64%, to settle at 24,614.90."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/market/story/lic-ofs-retail-investors-how-to-apply-government-stake-sale-2963171-2026-08-04",
+      "headline": "LIC OFS explained: How retail investors can bid for the government's stake saleThe government's LIC offer for sale has entered the retail phase on August 5. The stake sale aims to raise public shareholding and gives investors a Rs 15 discount."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/personal-finance/story/rbi-mpc-august-2026-repo-rate-likely-unchanged-at-5-25-home-loan-emis-steady-2963126-2026-08-04",
+      "headline": "RBI MPC decision soon: Will homebuyers get relief on home loans?The RBI's Monetary Policy Committee will announce its August 5 policy decision after a three-day meeting. With the repo rate expected to remain at 5.25%, borrowers and investors are watching for signals on EMIs, inflation and growth."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/lic-stake-sale-kicks-off-who-benefits-2963096-2026-08-04",
       "headline": "LIC stake sale kicks off: Who benefits?The stake sale is aimed at helping LIC move closer to meeting the minimum public shareholding (MPS) requirement laid down by the Sebi."
     },
@@ -69,39 +99,44 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/epfo-epf-wage-ceiling-may-rise-to-rs-25000-pf-pension-salary-impact-2962380-2026-08-03",
       "headline": "EPF wage ceiling may rise to Rs 25,000, widening PF and pension coverThe Finance Ministry has approved a proposal to raise the EPF wage ceiling to Rs 25,000, pending Cabinet clearance. If approved, it could extend mandatory PF and pension coverage to more private sector employees from April 2027."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/market/story/market-closing-sensex-ends-544-points-higher-nifty-above-24500-it-stocks-rally-tcs-infosys-hcltech-2962357-2026-08-03",
-      "headline": "Sensex ends 544 points higher, Nifty above 24,500; IT stocks rallyThe BSE Sensex climbed 544.39 points, or 0.70%, to settle at 78,639.03, while the NSE Nifty50 jumped 390.70 points, or 1.60%, to end at 24,774.30. The Sensex touched an intraday high of 78,895.10, while the Nifty hit a fresh high of 24,774.30 before closing at the day's peak."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/story/fcra-amendment-bill-2026-explained-proposed-changes-ngo-concerns-foreign-funding-rules-2962322-2026-08-03",
-      "headline": "FCRA Bill explained: The proposed changes, the controversy and what they meanThe FCRA Amendment Bill, 2026 proposes a Designated Authority, tighter renewals and wider disclosure rules for organisations receiving foreign funds. The proposals have triggered opposition protests and concern among NGOs over executive control of assets created through overseas contributions."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/fssai-bars-old-monk-bagpiper-antiquity-blue-royal-challenge-variants-over-artificial-flavouring-2962219-2026-08-03",
-      "headline": "FSSAI bars sale of Old Monk, Bagpiper, Royal Challenge over artificial flavouringFSSAI has barred the sale of selected Old Monk, Royal Challenge, Bagpiper and Antiquity Blue variants after tests found artificial or nature-identical flavouring. The move widens regulatory scrutiny of the drinks sector as companies weigh the impact and scope of the order."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/tcs-infosys-hcltech-it-hiring-bench-strength-fall-8-to-10-percent-fy27-ai-job-cut-2962178-2026-08-03",
-      "headline": "TCS, Infosys, HCLTech to reduce bench strength by 8-10%. Here's what's changingTop IT services firms are shifting towards leaner bench strength as AI and demand-led hiring reshape staffing. The move indicates tighter deployment, more reskilling and a sharper focus on specialised talent."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/story/why-india-bought-record-russian-oil-in-july-despite-us-tariff-warning-lindsey-graham-2962105-2026-08-03",
-      "headline": "Why India bought record Russian oil in July despite Trump's 100% tariff threatIndia imported a record volume of Russian crude in July even as a US tariff proposal advanced. The surge underlines refiners' focus on price and supply security amid legal uncertainty and West Asia shipping risks."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/market/story/opening-bell-sensex-opens-500-points-higher-nifty-above-24500-indigo-up-3-2962057-2026-08-03",
-      "headline": "Sensex opens 500 points higher, Nifty above 24,500; IndiGo up 3%At 9:47 am, the BSE Sensex was up 522.59 points, or 0.67%, at 78,617.23, while the NSE Nifty50 gained 163.90 points, or 0.67%, to trade at 24,547.50."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/jharkhand-student-protest-sonakshi-sinha-backs-jpsc-jssc-exam-probe-demand-2963238-2026-08-04",
+      "headline": "Sonakshi Sinha backs Jharkhand students over JPSC, JSSC exam protest Sonakshi Sinha backed protesting students in Jharkhand through Instagram posts. Her support has drawn wider attention to their demands for an independent probe and recruitment reforms."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/brett-lee-preity-zinta-dating-rumours-cricketer-says-they-were-only-friends-2963185-2026-08-04",
+      "headline": "Never dated a Bollywood actress: Brett Lee breaks silence on Preity Zinta Cricketer Brett Lee has said he never dated actor Preity Zinta and that they have remained close friends since his Punjab Kings stint. His remarks revisit years of speculation and echo Zinta's earlier public dismissal of the gossip."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/satish-sanpal-assets-frozen-uae-desi-bling-financial-probe-2963194-2026-08-04",
+      "headline": "UAE seizes assets, freezes accounts of Desi Bling's Satish Sanpal, wife Tabinda The UAE Financial Intelligence Unit has ordered the attachment of Satish Sanpal and his wife Tabinda's assets and the freezing of their bank accounts. The move has triggered scrutiny of his records and stirred Indian business circles in Dubai and across the UAE."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/spider-man-5-confirmed-after-brand-new-day-as-marvel-head-eyes-next-chapter-2963115-2026-08-04",
+      "headline": "Marvel boss Kevin Feige reacts to Spider-Man 5 plans, Tom Holland's return Marvel Studios chief Kevin Feige has outlined future plans for Spider-Man 5, setting the stage for Peter Parker's upcoming chapter. Supporting the long-term strategy, producer Amy Pascal backed keeping the same creative director at the helm for the next installment."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/ravi-kishan-is-indias-accidental-meme-god-10-posts-that-prove-it-2963028-2026-08-04",
+      "headline": "Ravi Kishan is India's accidental meme God. 10 posts that prove it Actor and BJP MP Ravi Kishan has become the gift that keeps on giving for meme pages. From old interviews to forgotten film scenes, the internet keeps finding fresh reasons to make him trend."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/lock-upp-riteish-deshmukh-breaks-silence-on-harshad-chopda-shivangi-joshi-finale-twist-2963111-2026-08-04",
+      "headline": "Lock Upp: Riteish Deshmukh breaks silence on Harshad-Shivangi finale twist Riteish Deshmukh has reacted after Harshad Chopda gave up his finalist spot to save Shivangi Joshi in Lock Upp 2. The moment split viewers online and put the show's mix of friendship and strategy back in focus."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/udhayanidhi-stalin-trisha-remark-cauvery-protest-backlash-2963100-2026-08-04",
+      "headline": "Udhayanidhi Stalin faces online fury over 'Trisha' remark. Internet reacts A remark by Udhayanidhi Stalin perceived to be aimed at Trisha during the DMK's Cauvery protest in Thanjavur drew sharp criticism from the Internet. The fallout widened as public figures and social media users called the comment inappropriate and urged greater respect for women."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/mirzapur-the-movie-do-numbari-song-dhanda-nyoliwala-bollywood-debut-excel-music-ali-fazal-fivyenndu-sharma-pankaj-tripathi-2963093-2026-08-04",
@@ -161,68 +196,23 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/television/story/khatron-ke-khiladi-15-after-gaurav-karan-wahi-shares-painful-aftermath-of-rubber-bullet-stunt-2962929-2026-08-04",
       "headline": "KKK 15: After Gaurav, Karan Wahi shares painful aftermath of rubber bullet stunt Karan Wahi shared photos of bruises from a rubber bullet stunt on Khatron Ke Khiladi 15. The post followed Gaurav Khanna's injury video and renewed attention on the show's physical demands."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/mrunal-thakur-deepfake-warning-legal-action-ai-misuse-2962931-2026-08-04",
-      "headline": "Consider this your formal notice: Mrunal Thakur warns AI deepfake creators Actor Mrunal Thakur has warned people against creating or sharing deepfake content using her likeness. Her statement adds to growing legal action by Indian actors over AI-led identity misuse."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/raakh-to-mirzapur-inside-ali-fazals-loaded-2026-and-why-hes-just-getting-started-2962387-2026-08-04",
-      "headline": "Raakh to Mirzapur: Inside Ali Fazal's loaded 2026 and why he's just getting started Actor Ali Fazal has had a packed 2026 with Raakh, Batwara 1947, Mirzapur: The Movie and Lust Stories. He says the diverse slate reflects his urge to experiment and hopes it helps bring audiences back to theatres."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/hollywood/story/spider-man-brand-new-day-box-office-collection-india-worldwide-imax-release-9550-crore-360-crore-in-india-2962898-2026-08-04",
-      "headline": "Spider-Man: Brand New Day box office Day 5: Worldwide rampage hits Rs 9,550 crore Spider-Man: Brand New Day posted Rs 9,550 crore globally, including Rs 23.80 crore nett in India on Monday after a record opening weekend. The fall came ahead of its August 7 IMAX rollout as the film closed in on new India and global milestones."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/old-kangana-ranaut-clip-on-ideal-partner-resurfaces-amid-sonakshi-sinha-and-women-marrying-islamists-row-2962879-2026-08-04",
-      "headline": "Old Kangana clip on 'ideal partner' resurfaces amid women marrying Islamists row An old video of Kangana Ranaut describing her ideal partner has gone viral amid a row over her remarks on Hindu women and interfaith marriage. The clip, which was liked by Sonakshi Sinha, has added to the debate around Ranaut's comments and Sonakshi's marriage to Zaheer Iqbal."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/suriya-thanks-jyotika-for-backing-him-through-karuppu-release-crisis-2962868-2026-08-04",
-      "headline": "Suriya thanks Jyotika for backing risky loan call for Karuppu; she credits him Actor Suriya said Jyotika stood by his decision to raise extra loans to release Karuppu. The RJ-Balaji directorial faced last-minute financial issues, and got postponed by a day and later raked in Rs 300 crore at the box office."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/bhumi-pednekar-ex-teacher-joins-debate-recalls-actors-disrespectful-behaviour-2962861-2026-08-04",
-      "headline": "Bhumi Pednekar's ex-acting teacher recalls her 'disrespectful' behaviour The debate around Bhumi Pednekar's NEET-UG 2026 protest remarks has intensified after her former teacher Shruti Desai publicly questioned the actor's views on respect and responsibility."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/hollywood/story/did-mj-ned-finally-remember-peter-spider-man-brand-new-day-ending-explained-2962571-2026-08-04",
-      "headline": "Did MJ, Ned finally remember Peter? Spider-Man: Brand New Day ending explained Marvel finally answers the biggest question left behind by Spider-Man: No Way Home, or does it? We break down Spider-Man: Brand New Day's ending, explain whether MJ and Ned remember Peter, and decode the mysterious post-credit scene that has left MCU fans divided."
     }
   ],
   "general news": [
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/air-india-phuket-delhi-flight-hit-by-severe-turbulence-few-passengers-crew-members-injured-2963110-2026-08-04",
-      "headline": "Air India Phuket-Delhi flight hit by severe turbulence, 12 passengers injuredIn a statement, Air India said all the passengers and crew disembarked flight AI2379 after it landed in the national capital, adding that the injured persons were taken to a medical facility at the airport for treatment."
-    },
-    {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/tamil-nadu-cops-file-case-against-dmks-udhayanidhi-stalin-over-crass-trisha-comment-sources-2962947-2026-08-04",
-      "headline": "Tamil Nadu cops arrest Stalin Jr over vulgar 'Trisha' remarks, chaos outside home  Live updatesUdhayanidhi Stalin was arrested by police after a case was registered over his controversial 'Trisha' remarks during a Cauvery protest. The remarks triggered sharp criticism from the ruling TVK and BJP, while the DMK defended him, calling the controversy politically motivated."
+      "url": "https://www.indiatoday.in/india/story/udhayanidhi-arrest-trisha-remark-mk-stalin-attacks-vijay-cauvery-water-2963289-2026-08-04",
+      "headline": "Reels creator, dummy CM: Stalin's big attack on Vijay over Udhayanidhi's arrestReels creator, dummy CM: Stalin's big attack on Vijay over Udhayanidhi's arrest"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/karnataka/story/karnataka-cabinet-woman-minister-dk-shivakumar-government-congress-ministry-siddaramaiah-2963023-2026-08-04",
-      "headline": "Women gave Karnataka to Congress, but DKS has no woman minister. Why?Though the Congress won the election in Karnataka by wooing women voters, the council of Chief Minister DK Shivakumar has no woman minister. MLC Gayathri Shanthegowda was dropped at the last minute. The exclusion has raised big questions over Congress's claims and actions."
+      "url": "https://www.indiatoday.in/india/story/madras-high-court-asks-police-to-release-udhayanidhi-stalin-today-itself-on-station-bail-after-questioning-2963141-2026-08-04",
+      "headline": "Release Udhayanidhi Stalin today after questioning, Madras High Court tells copsDuring the hearing, Tamil Nadu Advocate General Vijay Narayan informed the Madras High Court that Thanjavur Police had arrested Udhayanidhi and taken him to Thanjavur. However, he clarified that the police did not intend to seek his judicial remand and only wanted to question him before releasing him on station bail."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/story/padma-shri-educationist-politician-and-philanthropist-dy-patil-dies-at-90-2963045-2026-08-04",
-      "headline": "DY Patil dies at 90: Remembering Padma Shri educationist's contributionsFrom a small village in Maharashtra to the Raj Bhavans of three states, Padma Shri Dr Dnyandeo Yashwantrao Patil built one of India's largest private education networks. His death at the age of 90 marks the end of a career that transformed higher education and healthcare for thousands of students."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/fashion/story/ramayana-sita-blouse-controversy-rimple-harpreet-explain-costume-design-2963006-2026-08-04",
-      "headline": "Ramayana's costume debate, explained by Rimple-Harpreet, designers who designed itSita's blouse, Surpanakha's bandeau and the internet's hot takes\u2014Ramayana's costume designers explain the thought behind every stitch, silhouette and styling choice."
+      "url": "https://www.indiatoday.in/india/story/meta-public-policy-head-joel-kaplan-summoned-tomorrow-over-brief-removal-of-pms-post-government-sources-2963237-2026-08-04",
+      "headline": "Meta Public Policy head summoned tomorrow over brief removal of PM's postOfficials are expected to raise concerns over multiple complaints alleging that some posts, including those perceived as critical of the government, receive disproportionate traction."
     },
     {
       "sentiment": "negative",
@@ -231,38 +221,23 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/sridhar-vembu-rejects-universal-basic-income-says-deep-tech-can-help-teachers-and-farmers-make-more-money-2962934-2026-08-04",
-      "headline": "Sridhar Vembu rejects UBI, says deep tech can help Indians make more moneyZoho founder Sridhar Vembu wants India to avoid the \"hell\" of universal basic income. He says that this can only happen when we develop proper deep tech capabilities, which can also allow for farmers and teachers to make more money."
+      "url": "https://www.indiatoday.in/india/bihar/story/prashant-kishor-bankipur-bypoll-win-samrat-choudhary-bihar-assembly-jan-suraaj-bihar-cm-2962651-2026-08-04",
+      "headline": "How PK's Bankipur win hands him front-row seat to take on Bihar CMJan Suraaj's Prashant Kishor, who led a fierce campaign against Bihar CM Samrat Choudhary, is set to enter the Assembly after his historic win in Bankipur bypoll. With Kishor now set to become an MLA, his challenge to the chief minister will now shift from rallies and press conferences to the Assembly floor, where he can hold it to account on record."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/prashant-kishor-bankipur-election-result-bjp-votes-rjd-worry-reasons-2962650-2026-08-04",
-      "headline": "Not BJP, but RJD has more to worry after Prashant Kishor's Bankipur victoryWhile the BJP lost its 30-year fortress in the heart of Patna, the RJD might have suffered the more significant political setback. With anti-BJP votes likely getting consolidated with Jan Suraaj Party founder Prashant Kishor, Bankipur could mark the beginning of a larger realignment in Bihar's opposition politics."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/nhai-nh25-rumble-strips-row-project-director-suspended-after-wrong-x-post-2962871-2026-08-04",
-      "headline": "How a National Highway rumble strip row forced NHAI into an embarrassing U-turnAfter initially rejecting reports on faulty rumble strips on a Rajasthan National Highway, NHAI was forced into a U-turn, suspending its Project Director and ordering corrective measures after social media user-shared visuals exposed discrepancies in its earlier defence."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/auto/latest-auto-news/story/india-mandatory-vehicle-to-vehicle-v2v-communication-new-vehicles-2028-2963123-2026-08-04",
-      "headline": "Your car could soon warn you of danger ahead: India plans V2V safety mandate from 2028India is preparing to mandate Vehicle-to-Vehicle (V2V) communication in new vehicles from 2028, a move aimed at improving road safety by enabling real-time communication between vehicles to prevent accidents."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/udhayanidhi-stalin-trisha-remark-chinmayi-khushbu-condemn-cauvery-protest-comment-2962954-2026-08-04",
-      "headline": "Women not pawns: Chinmayi, Khushbu rip into Udhayanidhi Stalin over 'Trisha' remarkThe controversy erupted after Udhayanidhi Stalin made a crass remark, widely interpreted as being aimed at Trisha, while criticising Tamil Nadu Chief Minister C Joseph Vijay over the Cauvery water dispute. Many viewed the comment as a sexual innuendo."
-    },
-    {
-      "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/udhayanidhi-stalin-trisha-remarks-row-vijat-tvk-dmk-tamil-nadu-2962982-2026-08-04",
-      "headline": "Live: DMK defends Udhayanidhi in 'Trisha' remarks row, calls TVK fascistUdhayanidhi Stalin Arrested Live Updates: DMK leader Udhayanidhi Stalin was arrested today amid mounting protests over his controversial remark involving actor Trisha during a Cauvery rights demonstration. As he was taken into custody, Udhayanidhi defended himself and told India Today's Pramod Madhav, \"I didn't say anything wrong.\" The controversy erupted after a video from Monday's protest went viral, showing Udhayanidhi making a remark widely interpreted as a double entendre after supporters chanted \"Trisha\" during his speech. The ruling TVK intensified its attack by filing a police complaint in Thanjavur and a separate complaint with the National Commission for Women (NCW), accusing him of making obscene remarks, insulting women and deliberately circulating the video on social media. The BJP also demanded his arrest, while heavy police deployment was made outside the premises where Udhayanidhi was staying in Thanjavur. The DMK had organised the protest to press for Tamil Nadu's rights over Cauvery water."
+      "headline": "Live: BJP got Udhayanidhi arrested, intimidated him, says MK StalinUdhayanidhi Stalin Arrested Live Updates: DMK leader Udhayanidhi Stalin was arrested today amid mounting protests over his controversial remark involving actor Trisha during a Cauvery rights demonstration. As he was taken into custody, Udhayanidhi defended himself and told India Today's Pramod Madhav, \"I didn't say anything wrong.\" The controversy erupted after a video from Monday's protest went viral, showing Udhayanidhi making a remark widely interpreted as a double entendre after supporters chanted \"Trisha\" during his speech. The ruling TVK intensified its attack by filing a police complaint in Thanjavur and a separate complaint with the National Commission for Women (NCW), accusing him of making obscene remarks, insulting women and deliberately circulating the video on social media. The BJP also demanded his arrest, while heavy police deployment was made outside the premises where Udhayanidhi was staying in Thanjavur. The DMK had organised the protest to press for Tamil Nadu's rights over Cauvery water."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/snow-leopard-photographed-in-dhauladhar-wildlife-sanctuary-first-time-2962980-2026-08-04",
-      "headline": "Ghost of the Himalayas spotted in Dhauladhar Sanctuary for the first timeResearchers have recorded the first photographic evidence of a snow leopard in Dhauladhar Wildlife Sanctuary. The sighting sharpens the case for protecting Himalayan wildlife corridors and intact mountain habitats."
+      "url": "https://www.indiatoday.in/world/story/pakistan-mohsin-naqvi-shehbaz-sharif-govt-rift-army-chief-asim-munir-2963142-2026-08-04",
+      "headline": "Pakistan power shake-up soon? Naqvi in focus amid 'rift' with SharifPakistan's interior minister and Asim Munir's blue-eyed boy Mohsin Naqvi's claims of 'biggest scam' and 'governance collapse' has sent political circles into a frenzy. His explosive remarks have sparked speculation whether Pakistan is headed towards a major power shake-up."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/story/padma-shri-educationist-politician-and-philanthropist-dy-patil-dies-at-90-2963045-2026-08-04",
+      "headline": "DY Patil dies at 90: Remembering Padma Shri educationist's contributionsFrom a small village in Maharashtra to the Raj Bhavans of three states, Padma Shri Dr Dnyandeo Yashwantrao Patil built one of India's largest private education networks. His death at the age of 90 marks the end of a career that transformed higher education and healthcare for thousands of students."
     },
     {
       "sentiment": "positive",
@@ -271,18 +246,28 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/prashant-kishor-bankipur-bypoll-win-shocks-bjp-revives-bihar-churn-debate-2962610-2026-08-04",
-      "headline": "PK's victory over BJP a freak voter experiment in Bihar?Just eight months after the BJP won Bankipur by nearly 52,000 votes, poll strategist-turned-politician Prashant Kishor flipped one of the saffron party's safest seats with a margin of over 19,000 votes. Is this the first sign of a churn in Bihar or is it simply the kind of voter experiment that a bypoll can produce?"
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/karnataka/story/karnataka-cabinet-expansion-dinesh-gundu-rao-exclusion-gayathri-shanthegowda-delay-2962875-2026-08-04",
-      "headline": "No reason, only disappointment: Ex-Minister after Karnataka cabinet snubThe Cabinet reshuffle sparked discontent within the Karnataka Congress, with former state minister Dinesh Gundu Rao questioning his exclusion and seeking an explanation. The expansion also saw last-minute changes, Gayathri Shanthegowda's induction deferred despite approval, protests by disappointed aspirants, and one ministerial berth left vacant."
+      "url": "https://www.indiatoday.in/world/us-news/story/h-1b-visa-news-indians-in-us-l1-visa-renewal-h1b-9-11-response-and-biometric-entry-exit-fee-2963145-2026-08-04",
+      "headline": "US plans new fees for H-1B visa renewals; Indians likely to be hit hardThe Trump administration is considering expanding a little-known H-1B and L-1 visa fee to those renewing their work documents. This is likely to raise costs significantly for large US employers and impact Indian professionals who dominate H-1B extension approvals."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/anthropic-claude-india-data-processing-indian-servers-2963029-2026-08-04",
-      "headline": "Anthropic to process Claude AI data on Indian serversClaude users in India will soon have their AI requests processed on local servers through Amazon Bedrock. Anthropic says the move addresses one of the biggest concerns enterprises have had around data residency and compliance."
+      "url": "https://www.indiatoday.in/india/story/delhi-police-vip-convoy-rti-public-complaints-vehicle-spending-records-2963013-2026-08-04",
+      "headline": "When VIPs move, Delhi waits. Nobody keeps countIndia Today sought answers from Delhi Police through two separate Right to Information (RTI) applications. The responses, however, leave several of those questions unanswered."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/bankipur-bypoll-result-prashant-kishor-says-verdict-rejects-samrat-choudhary-and-bjp-arrogance-2963255-2026-08-04",
+      "headline": "Bankipur verdict a message to PM for making Samrat Choudhary CM: Prashant KishorHours after Jan Suraaj won the Bankipur bypoll, Prashant Kishor attacked the BJP's Bihar leadership and CM Samrat Choudhary. He said the verdict showed discontent among traditional BJP supporters in the constituency."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/udhayanidhi-stalin-trisha-remark-chinmayi-khushbu-condemn-cauvery-protest-comment-2962954-2026-08-04",
+      "headline": "Women not pawns: Chinmayi, Khushbu rip into Udhayanidhi Stalin over 'Trisha' remarkThe controversy erupted after Udhayanidhi Stalin made a crass remark, widely interpreted as being aimed at Trisha, while criticising Tamil Nadu Chief Minister C Joseph Vijay over the Cauvery water dispute. Many viewed the comment as a sexual innuendo."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/prashant-kishor-bankipur-election-result-bjp-votes-rjd-worry-reasons-2962650-2026-08-04",
+      "headline": "Not BJP, but RJD has more to worry after Prashant Kishor's Bankipur victoryWhile the BJP lost its 30-year fortress in the heart of Patna, the RJD might have suffered the more significant political setback. With anti-BJP votes likely getting consolidated with Jan Suraaj Party founder Prashant Kishor, Bankipur could mark the beginning of a larger realignment in Bihar's opposition politics."
     },
     {
       "sentiment": "positive",
@@ -291,36 +276,61 @@
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/udhayanidhi-stalin-detention-vulgar-trisha-remark-vijay-tamil-nadu-police-2963002-2026-08-04",
-      "headline": "Udhayanidhi Stalin's 1st reaction after detention over vulgar 'Trisha' remarkDramatic scenes played out on Tuesday after Tamil Nadu cops turned up at the doorstep of Udhayanidhi Stalin and arrested him at his Chennai residence. Udhayanidhi sparked a row with a vulgar remark that was widely interpreted as an allusion to actor Trisha."
+      "url": "https://www.indiatoday.in/india/karnataka/story/karnataka-cabinet-expansion-dinesh-gundu-rao-exclusion-gayathri-shanthegowda-delay-2962875-2026-08-04",
+      "headline": "No reason, only disappointment: Ex-Minister after Karnataka cabinet snubThe Cabinet reshuffle sparked discontent within the Karnataka Congress, with former state minister Dinesh Gundu Rao questioning his exclusion and seeking an explanation. The expansion also saw last-minute changes, Gayathri Shanthegowda's induction deferred despite approval, protests by disappointed aspirants, and one ministerial berth left vacant."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/health/story/fssai-bans-daburs-100-ghee-honey-claims-doctors-warn-of-health-halo-2963055-2026-08-04",
-      "headline": "FSSAI bans Dabur's 100% natural claims; doctors warn of false health haloThe food regulator has objected to \"100%\" claims on products such as honey and ghee, warning that they may mislead consumers. Doctors say catchy labels often create a false sense of health and should never replace reading the nutrition information."
+      "url": "https://www.indiatoday.in/science/story/snow-leopard-photographed-in-dhauladhar-wildlife-sanctuary-first-time-2962980-2026-08-04",
+      "headline": "Ghost of the Himalayas spotted in Dhauladhar Sanctuary for the first timeResearchers have recorded the first photographic evidence of a snow leopard in Dhauladhar Wildlife Sanctuary. The sighting sharpens the case for protecting Himalayan wildlife corridors and intact mountain habitats."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/commonwealth-games/story/cristiano-ronaldo-asmita-dey-commonwealth-games-gold-inspiration-judo-2963054-2026-08-04",
-      "headline": "How Cristiano Ronaldo inspired Asmita Dey's historic CWG gold medal runAsmita Dey made history on the judo mat, but her biggest inspiration came from football. The Commonwealth Games champion says Cristiano Ronaldo's journey through adversity helped her overcome personal grief and chase gold."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/aap-arvind-kejriwal-e20-petrol-nitin-gadkari-protest-pm-modi-residence-2962860-2026-08-04",
-      "headline": "Live: Anti-E20 march to PM's residence stopped; Kejriwal stages sit-inArvind Kejriwal E20 march live: Arvind Kejriwal on Monday announced that he would lead a march of 100 people to Prime Minister Narendra Modi's residence on Tuesday to submit public petitions opposing E20 petrol. However, the march was stopped at police barricades before reaching the Prime Minister's official residence at 7, Lok Kalyan Marg. Delhi Police reiterated that no permission had been sought for the march, nor had any permission been granted. The AAP national convener alleged that the Centre was promoting ethanol-blended fuel under pressure from US President Donald Trump, claiming India had \"yielded\" to buy ethanol from the United States. Addressing a press conference, Kejriwal questioned why the government continued to push E20 despite complaints from vehicle owners, alleging there was a \"hidden agenda\" behind the policy. He said the delegation would personally hand over the petitions to the Prime Minister and seek a discussion on the concerns surrounding ethanol-blended petrol. Follow this space for all the live updates."
+      "url": "https://www.indiatoday.in/india/story/air-india-phuket-delhi-flight-hit-by-severe-turbulence-few-passengers-crew-members-injured-2963110-2026-08-04",
+      "headline": "Air India Phuket-Delhi flight drops 300 feet in severe turbulence, 12 injuredIn a statement, Air India said all the passengers and crew disembarked flight AI2379 after it landed in the national capital, adding that the injured persons were taken to a medical facility at the airport for treatment."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/monsoon-july-imd-deficient-outlook-june-gujarat-weather-systems-2962977-2026-08-04",
-      "headline": "Monsoon surprise: How did July beat expectations with surplus rain?The monsoon entered July with a huge deficit and a bleak outlook. By the month's end, the rainfall picture had changed significantly. Who was the saviour of India's rainy season?"
+      "url": "https://www.indiatoday.in/india/story/liberhan-commission-report-justice-manmohan-singh-liberhan-babri-masjid-demolition-ayodha-2963011-2026-08-04",
+      "headline": "Justice Liberhan, whose inquiry found Babri demolition was pre-planned, diesFormer Chief Justice Manmohan Singh Liberhan, who led the landmark inquiry into the 1992 Babri Masjid demolition, died on Sunday. He was 87. His 17-year-long probe concluded the demolition was \"meticulously planned\", a finding he continued to defend even after the accused were acquitted in 2020."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/law-news/story/marriage-not-essential-domestic-cruelty-protection-women-supreme-court-long-term-live-in-relationships-section-498a-2962667-2026-08-03",
-      "headline": "Live-in partner now protected from domestic violence, says SC in landmark rulingThe Supreme Court has said women in long-term live-in relationships akin to marriage can invoke Section 498A. The ruling broadens protection against domestic cruelty but limits the interpretation to this provision alone."
+      "url": "https://www.indiatoday.in/entertainment/ott/story/satish-sanpal-assets-frozen-uae-desi-bling-financial-probe-2963194-2026-08-04",
+      "headline": "UAE seizes assets, freezes accounts of Desi Bling's Satish Sanpal, wife TabindaThe UAE Financial Intelligence Unit has ordered the attachment of Satish Sanpal and his wife Tabinda's assets and the freezing of their bank accounts. The move has triggered scrutiny of his records and stirred Indian business circles in Dubai and across the UAE."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/trending-news/story/hyderabad-man-loses-wallet-in-auto-rapido-drivers-honest-gesture-leaves-him-grateful-2963149-2026-08-04",
+      "headline": "Hyderabad man loses wallet in auto, Rapido driver's honest gesture leaves him gratefulA Hyderabad man said his Rapido auto driver returned the wallet he left behind during a hospital trip. The gesture drew praise online, with viewers and Rapido appreciating the driver's honesty."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/karnataka/story/karnataka-cabinet-woman-minister-dk-shivakumar-government-congress-ministry-siddaramaiah-2963023-2026-08-04",
+      "headline": "Faction fight, caste maths: Why DKS ministry in Karnataka has no woman ministerThough the Congress won the election in Karnataka by wooing women voters, the council of Chief Minister DK Shivakumar has no woman minister. MLC Gayathri Shanthegowda was dropped at the last minute. The exclusion has raised big questions over Congress's claims and actions."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/nhai-nh25-rumble-strips-row-project-director-suspended-after-wrong-x-post-2962871-2026-08-04",
+      "headline": "How a National Highway rumble strip row forced NHAI into an embarrassing U-turnAfter initially rejecting reports on faulty rumble strips on a Rajasthan National Highway, NHAI was forced into a U-turn, suspending its Project Director and ordering corrective measures after social media user-shared visuals exposed discrepancies in its earlier defence."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/technology/news/story/iphone-18-pro-launching-in-1-month-should-you-wait-or-buy-iphone-17-pro-instead-2963160-2026-08-04",
+      "headline": "iPhone 18 Pro launching in 1 month, should you wait or buy iPhone 17 Pro instead?Apple is expected to launch the iPhone 18 Pro as early as next month. But will the new iPhone be worth the wait? Or should you just buy the iPhone 17 Pro right now?"
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-australia-ca-open-to-hosting-matches-interview-ashes-2963221-2026-08-04",
+      "headline": "IPL in Australia? CA opens door for blockbuster move Down Under Cricket Australia has left the door open to the possibility of hosting IPL matches or India bilateral games in Australia. However, the board has ruled out any immediate plans to stage the 150th anniversary Ashes Test in India."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/athletics/story/neeraj-chopra-diamond-league-lausanne-livestream-date-2963192-2026-08-04",
+      "headline": "After CWG silver, Neeraj Chopra faces steep test ahead of Asian Games 2026 Neeraj Chopra will return to Diamond League action in Lausanne on August 21, where he will face one of the strongest men's javelin fields of the season. The competition comes at a crucial stage of his comeback and could be the ideal dress rehearsal before the Asian Games."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/commonwealth-games/story/cristiano-ronaldo-asmita-dey-commonwealth-games-gold-inspiration-judo-2963054-2026-08-04",
@@ -369,12 +379,12 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/mauricio-pochettino-usmnt-coach-2030-world-cup-contract-extension-2962820-2026-08-03",
-      "headline": "Mauricio Pochettino signs contract extension as US coach until 2030 World Cup Mauricio Pochettino has signed a new four-year contract to remain head coach of the United States men's national team until the 2030 FIFA World Cup. Appointed in October 2024, the 54-year-old guided the USMNT to the Round of 16 at the 2026 World Cup."
+      "headline": "Mauricio Pochettino signs contract extension as US coach until 2030 World CupMauricio Pochettino has signed a new four-year contract to remain head coach of the United States men's national team until the 2030 FIFA World Cup. Appointed in October 2024, the 54-year-old guided the USMNT to the Round of 16 at the 2026 World Cup."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/emma-raducanu-us-open-injury-stress-fracture-hard-court-swing-2962825-2026-08-03",
-      "headline": "Emma Raducanu ruled out of US Open as injury nightmare continues Emma Raducanu has been ruled out of the US Open after suffering a stress fracture in her leg, extending her injury-plagued absence from the tour. The former champion will also miss the Cincinnati Open and the Billie Jean King Cup Finals with Great Britain as she focuses on recovery."
+      "headline": "Emma Raducanu ruled out of US Open as injury nightmare continuesEmma Raducanu has been ruled out of the US Open after suffering a stress fracture in her leg, extending her injury-plagued absence from the tour. The former champion will also miss the Cincinnati Open and the Billie Jean King Cup Finals with Great Britain as she focuses on recovery."
     },
     {
       "sentiment": "positive",
@@ -460,16 +470,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/england-fa-wales-gianni-infantino-re-election-row-fifa-plan-collapse-2962391-2026-08-03",
       "headline": "England set to follow Wales in withdrawing support for Infantino's re-electionEngland's Football Association is set to join Wales in withdrawing support for FIFA President Gianni Infantino's re-election bid, according to a report, after growing backlash over FIFA's failed World Cup investment plan."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/sitender-malik-matches-sushil-kumar-feat-india-13-medals-u17-world-championships-2962364-2026-08-03",
-      "headline": "Sitender matches Sushil's feat as India win 13 medals at U17 wrestling worldsSitender Malik defended his 60kg crown at the U17 World Championships, beating Russia's Sergei Karmrian 3-1 in Baku. The gold made him only the second Indian male freestyle wrestler after Sushil Kumar to win two cadet world titles."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/akhilesh-reddy-icc-ban-usa-cricketer-eight-years-abu-dhabi-t10-corruption-2962360-2026-08-03",
-      "headline": "After LPL, Abu Dhabi T10 under scanner as USA cricketer handed 8-year ICC banUSA cricketer Bodugum Akhilesh Reddy has been handed an eight-year ban after an ICC Anti-Corruption Tribunal found him guilty of three Anti-Corruption Code breaches linked to the 2025 Abu Dhabi T10 tournament."
     }
   ],
   "education": [
@@ -499,7 +499,7 @@
       "headline": "Fresh plea in Supreme Court to recall NEET results, reconduct examsA fresh petition has been filed in the Supreme Court\u00a0to recall the National Entrance cum Eligibility Test - Under Graduate (NEET-UG) 2024 results and re-conduct fresh examination after\u00a0discrepancies in the declared results.\r\n\r\n"
     },
     {
-      "sentiment": "negative",
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/education/story/nta-issues-clarification-after-neet-2024-controversy-cheating-in-exam-high-cut-off-2550063-2024-06-07",
       "headline": "NTA issues clarification after NEET result controversy over toppers, high cut-offIn a detailed statement, the National Testing Agency (NTA) said that the increase in cut-off and number of toppers in the NEET-UG reflect the competitive nature of the exam and maintained that the test's integrity has not been compromised."
     },
@@ -559,9 +559,19 @@
       "headline": "The brave new totsTutotials teaching children how to take on a highly competitive world are mushrooming in the city "
     },
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/magazine/education/story/20220926-education-kota-factory-season-2-2000662-2022-09-16",
+      "headline": "Coaching | Kota factory, season 2While online ed-tech companies eye the brick-and-mortar world of coaching centres in the city, traditional institutes are extending their digital arms to remain on top of the game"
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/magazine/education/story/20220711-india-today-education-conclave-2022-all-bets-on-edutech-1968836-2022-07-01",
       "headline": "India Today Education Conclave 2022: All bets on edutechThe India Today Education Conclave 2022 touched on topics like early childhood care, universal education, the NEP and India\u2019s edutech boom"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/magazine/education/story/19921015-st-stephens-college-rules-come-under-fire-766987-2012-12-26",
+      "headline": "Courting ChristiansSt Stephen's College rules come under fire."
     }
   ]
 }
