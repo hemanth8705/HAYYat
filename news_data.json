@@ -1,6 +1,11 @@
 {
   "business": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/e20-petrol-quality-reject-chloride-moisture-contamination-claims-oil-companies-ethanol-2966123-2026-08-07",
+      "headline": "No cause for alarm: Oil firms reject chloride, moisture contamination claims in E20State-owned oil marketing companies\u2014Indian Oil Corporation (IOC), Bharat Petroleum Corporation Limited (BPCL) and Hindustan Petroleum Corporation Limited (HPCL) said refinery, distillery, depot and retail outlet samples consistently met quality norms, with only four isolated cases detected and corrected promptly, adding that there is \"no cause for alarm\" over E20 fuel quality."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/story/not-happy-dont-come-to-work-should-india-try-chinese-firms-unhappy-leave-policy-asks-harsh-goenka-2966050-2026-08-07",
       "headline": "Not Happy, don't come to work: Should India try Chinese firm's unhappy leave policy?Sharing the example on X, Goenka drew attention to the policy adopted by Chinese retailer Pang Dong Lai and questioned whether Indian companies should have a similar approach."
@@ -94,14 +99,19 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/rbi-puts-tata-sons-on-upper-layer-nbfc-list-2965121-2026-08-06",
       "headline": "RBI tags Tata Sons as Upper Layer NBFC. What does it mean?The RBI said Tata Sons' inclusion in the Upper Layer list will not have any impact on its application to give up its NBFC registration."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/companies/story/air-india-ceo-tewolde-gebremariam-tata-turnaround-plan-2965003-2026-08-06",
-      "headline": "Why Air India picked Tewolde Gebremariam as CEO to steer its toughest turnaroundTata Group has picked former Ethiopian Airlines chief Tewolde Gebremariam to lead Air India from October. His appointment brings in a turnaround specialist as the airline faces multiple hurdles."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/shilpa-shinde-misses-salman-khan-after-lock-upp-2-shivangi-joshi-age-shaming-work-shaming-he-would-have-taken-a-stand-2966129-2026-08-07",
+      "headline": "He would have taken a stand: Shilpa Shinde misses Salman Khan after Lock Upp 2 Shilpa Shinde said she missed Salman Khan on Lock Upp 2 because he would have taken a stand for her. She accused Shivangi Joshi of age-shaming and work-shaming her, saying those moments were not shown on television."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/honey-trehan-satluj-refuses-gurudwara-donations-diljit-dosanjh-zee5-takedown-2966100-2026-08-07",
+      "headline": "We cannot accept any money: Honey Trehan on Gurudwara gullaks for Satluj Honey Trehan said people in India and abroad had placed gullaks in Gurudwaras to help recover Satluj's losses after its removal from ZEE5. The director thanked supporters but said the team would not accept any money, gifts or donations for the film."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/bharat-bhhagya-viddhaata-ott-premiere-when-and-where-to-watch-kangana-ranaut-film-2966039-2026-08-07",
@@ -186,19 +196,14 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/august-ott-releases-must-watch-films-shows-netflix-prime-video-apple-tv-discovery-2965675-2026-08-07",
       "headline": "August OTT releases: 6 must-watch shows on Netflix, Prime Video and more this week Any weekend plans? If not, here's a list of upcoming shows and films releasing on OTT to make your weekend interesting, entertaining and binge-worthy."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/the-shards-review-ryan-murphys-sharpest-series-in-years-2965694-2026-08-07",
-      "headline": "The Shards review: Ryan Murphy's sharpest series in years The Shards review: Ryan Murphy's The Shards follows Bret as Robert Mallory's arrival disrupts his 1981 Los Angeles world. The series turns a serial-killer mystery into a study of memory, fear and adolescence."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/ranveer-singhs-dhurandhar-tops-netflix-as-worlds-most-wacthed-non-english-film-2965642-2026-08-07",
-      "headline": "Ranveer Singh's Dhurandhar is now world's most watched non-English film on Netflix Actor Ranveer Singh's action thriller Dhurandhar emerged as the world's most-watched non-English film of the year, underscoring the expanding global reach of Indian cinema."
     }
   ],
   "general news": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/arunachal-pradesh-map-india-marks-27-locations-amid-china-renaming-attempts-2966138-2026-08-07",
+      "headline": "India maps 27 key Arunachal locations after China's repeated renaming attemptsThe exercise was carried out in consultation with the Arunachal Pradesh government and is intended to ensure accurate identification of these places and improve public awareness, a statement said."
+    },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/science/story/delhi-rain-mb-road-waterlogging-traffic-noida-ambulance-gurugram-hospital-2965993-2026-08-07",
@@ -206,8 +211,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/fcra-bill-our-internal-matter-us-also-regulates-foreign-funding-india-on-american-lawmakers-remark-2965847-2026-08-07",
-      "headline": "FCRA Bill an internal matter: Govt rebuffs US lawmaker's remark on foreign fundingThe MEA rejected US Congressman Riley Moore's criticism of the proposed FCRA Amendment Bill, calling it India's internal matter and noting that the US also regulates foreign funding. The Centre said the amendments aim to strengthen oversight while preserving the religious character of places of worship."
+      "url": "https://www.indiatoday.in/world/story/sheikh-hasina-bangladesh-retun-news-awami-league-bnp-tarique-rahman-nasir-uddin-chowdhury-dhaka-2965784-2026-08-07",
+      "headline": "BNP MP seeks merger with Awami League as Hasina vows Dhaka returnDays after Sheikh Hasina vowed to return to Bangladesh from India, her remarks triggered sharp reactions in Dhaka. However, an MP of the ruling party, the BNP, has called Hasina's Awami League and ally, asserting that the party would merge with the Tarique Rahman-led outfit."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/e20-petrol-quality-reject-chloride-moisture-contamination-claims-oil-companies-ethanol-2966123-2026-08-07",
+      "headline": "No cause for alarm: Oil firms reject chloride, moisture contamination claims in E20State-owned oil marketing companies\u2014Indian Oil Corporation (IOC), Bharat Petroleum Corporation Limited (BPCL) and Hindustan Petroleum Corporation Limited (HPCL) said refinery, distillery, depot and retail outlet samples consistently met quality norms, with only four isolated cases detected and corrected promptly, adding that there is \"no cause for alarm\" over E20 fuel quality."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/india-made-first-mri-machines-arjun-arunachalam-buyout-ratana-tata-zoho-sridhar-vembu-voxelgrids-bengaluru-2965271-2026-08-07",
+      "headline": "How Tata, Vembu's Zoho saved India's first MRI machine maker from MNC sharkBengaluru startup Voxelgrids is making India's first MRI machine, which will reduce scan cost by up to 70%. However, a global giant sought to buy it out. It was funding from Tata Trusts and Sridhar Vembu's Zoho that helped stave off any buyout bids, reveals Arjun Arunachalam, founder and CEO of Voxelgrids."
     },
     {
       "sentiment": "negative",
@@ -216,23 +231,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/prashant-kishor-meets-ncp-sunetra-pawar-maharashtra-political-buzz-2965965-2026-08-07",
-      "headline": "Prashant Kishor meets NCP's Sunetra Pawar. What's brewing in Maharashtra?Just days after his win in the Bankipur bypoll, Prashant Kishor met Maharashtra Deputy Chief Minister and NCP chief Sunetra Pawar, triggering fresh speculation in the state's political landscape. What's behind the hush-hush PK-Sunetra meet? Read on to find out."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/india-made-first-mri-machines-arjun-arunachalam-buyout-ratana-tata-zoho-sridhar-vembu-voxelgrids-bengaluru-2965271-2026-08-07",
-      "headline": "How Tata, Vembu's Zoho saved India's first MRI machine maker from MNC sharkBengaluru startup Voxelgrids is making India's first MRI machine, which will reduce scan cost by up to 70%. However, a global giant sought to buy it out. It was funding from Tata Trusts and Sridhar Vembu's Zoho that helped stave off any buyout bids, reveals Arjun Arunachalam, founder and CEO of Voxelgrids."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/mohan-bhagwat-rss-chief-gen-z-event-mumbai-cjp-protest-bjp-narendra-modi-government-2965649-2026-08-07",
-      "headline": "How RSS ticked all the boxes that BJP crossed on Gen Z outreachRSS chief Mohan Bhagwat's outreach to Gen Z and Gen Alpha appears to have addressed the very concerns that the BJP struggled to navigate during the recent Cockroach Janta Party-led student protests. Bhagwat seems to have offered the BJP a template."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/us-f-1-visas-getting-harder-for-indians-students-immigration-expert-warns-trump-rules-tighten-2966046-2026-08-07",
-      "headline": "US F-1 visas are getting harder for Indian students. Is this the new normal?The steep fall in F-1 visa approvals has left many Indian students wondering whether studying in the US is becoming harder. Immigration experts say it is too early to call it a lasting trend, but recent policy changes point to this being more than just a one-year setback."
+      "url": "https://www.indiatoday.in/india/story/fcra-bill-our-internal-matter-us-also-regulates-foreign-funding-india-on-american-lawmakers-remark-2965847-2026-08-07",
+      "headline": "FCRA Bill an internal matter: Govt rebuffs US lawmaker's remark on foreign fundingThe MEA rejected US Congressman Riley Moore's criticism of the proposed FCRA Amendment Bill, calling it India's internal matter and noting that the US also regulates foreign funding. The Centre said the amendments aim to strengthen oversight while preserving the religious character of places of worship."
     },
     {
       "sentiment": "positive",
@@ -246,13 +246,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/jharkhand-student-protest-different-cjp-gen-z-jantar-mantar-agitation-2965801-2026-08-07",
-      "headline": "Same protest, different playbook: How Jharkhand's 'code' is different from DelhiTwo student protests, two states and two very different approaches. While the Jantar Mantar protest was overshadowed by viral videos of students allegedly abusing Prime Minister Narendra Modi and the BJP, the youth in Jharkhand seem to have taken a different approach."
+      "url": "https://www.indiatoday.in/india/story/prashant-kishor-meets-ncp-sunetra-pawar-maharashtra-political-buzz-2965965-2026-08-07",
+      "headline": "Why Prashant Kishor met NCP chief Sunetra Pawar in MaharashtraJust days after his win in the Bankipur bypoll, Prashant Kishor met Maharashtra Deputy Chief Minister and NCP chief Sunetra Pawar, triggering fresh speculation in the state's political landscape. What's behind the hush-hush PK-Sunetra meet? Read on to find out."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/us-now-accounts-for-67-of-indias-lpg-imports-says-union-minister-hardeep-singh-puri-2965936-2026-08-07",
-      "headline": "US now supplies 67% of India's LPG imports, says Hardeep Singh PuriUnion Petroleum and Natural Gas Minister Hardeep Singh Puri said India had originally planned to source only a small share of its LPG needs from the US, but that figure has now increased sharply."
+      "url": "https://www.indiatoday.in/india/story/mohan-bhagwat-rss-chief-gen-z-event-mumbai-cjp-protest-bjp-narendra-modi-government-2965649-2026-08-07",
+      "headline": "How RSS ticked all the boxes that BJP crossed on Gen Z outreachRSS chief Mohan Bhagwat's outreach to Gen Z and Gen Alpha appears to have addressed the very concerns that the BJP struggled to navigate during the recent Cockroach Janta Party-led student protests. Bhagwat seems to have offered the BJP a template."
     },
     {
       "sentiment": "negative",
@@ -261,8 +261,48 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/why-window-shades-open-takeoff-landing-flight-safety-aviation-science-2965748-2026-08-07",
+      "headline": "Keep window shades open at landing or takeoff. Why? They are watching somethingCabin crew ask passengers to keep window shades open during takeoff and landing for reasons rooted in physics and biology, not sightseeing. Here is the science behind the rule, and how it differs from what actually protects passengers during turbulence."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/trending-news/story/ex-syndicate-bank-chief-ajay-nanavati-rejected-higher-pay-for-rs-960-tata-job-in-1977-shares-why-2965496-2026-08-07",
+      "headline": "Ex-Syndicate Bank chief rejected higher pay for Rs 960 Tata job in 1977, shares whyAjay Nanavati, former chairman of Syndicate Bank, recalled returning to India after studying chemical engineering in the US and accepting a job at Tata despite a monthly salary of just Rs 960."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/us-news/story/us-f-1-visas-getting-harder-for-indians-students-immigration-expert-warns-trump-rules-tighten-2966046-2026-08-07",
+      "headline": "US F-1 visas are getting harder for Indian students. Is this the new normal?The steep fall in F-1 visa approvals has left many Indian students wondering whether studying in the US is becoming harder. Immigration experts say it is too early to call it a lasting trend, but recent policy changes point to this being more than just a one-year setback."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/jharkhand-student-protest-different-cjp-gen-z-jantar-mantar-agitation-2965801-2026-08-07",
+      "headline": "Same protest, different playbook: How Jharkhand's 'code' is different from DelhiTwo student protests, two states and two very different approaches. While the Jantar Mantar protest was overshadowed by viral videos of students allegedly abusing Prime Minister Narendra Modi and the BJP, the youth in Jharkhand seem to have taken a different approach."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/education-today/news/story/how-13-year-old-kevin-tang-built-fallguard-for-elderly-safety-after-grandmothers-fall-2966043-2026-08-07",
       "headline": "After grandmother's fall, this 13-year-old built FallGuard to protect seniorsAfter watching his grandmother suffer a life-changing fall, Kevin Tang created FallGuard, an AI-powered system that detects falls in real time and alerts family members within milliseconds. The innovation has earned the young inventor a place among the finalists of the 3M Young Scientist Challenge."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/us-now-accounts-for-67-of-indias-lpg-imports-says-union-minister-hardeep-singh-puri-2965936-2026-08-07",
+      "headline": "US now supplies 67% of India's LPG imports, says Hardeep Singh PuriUnion Petroleum and Natural Gas Minister Hardeep Singh Puri said India had originally planned to source only a small share of its LPG needs from the US, but that figure has now increased sharply."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/tamil-nadu/story/tamil-nadu-tasmac-online-orders-cashless-sales-overcharging-crackdown-2965778-2026-08-07",
+      "headline": "Vijay's mega Tasmac overhaul: Order liquor online, pick up from outletsTamil Nadu liquor customers can order bottles and pay online through the Tasmac website before collecting the bottles from a designated retail outlet."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/reviews/story/dc-review-arun-matheswaran-lokesh-kanagaraj-revenge-thriller-wamiqa-gabbi-2965758-2026-08-07",
+      "headline": "DC review: Arun Matheswaran's revenge saga is brutal, beautiful and boldRelease Date:Fri Aug 07, 2026DC movie review: Director Arun Matheswaran's DC, starring Lokesh Kanagaraj and Wamiqa Gabbi, is an engaging and arresting revenge thriller that dials up on violence, while embracing it. Composer Anirudh's work does its magic and stays with you long after the credits roll."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/operation-safed-sagar-review-netflix-iaf-kargil-war-series-2965608-2026-08-07",
+      "headline": "Operation Safed Sagar review: A high-flying tribute to Kargil's air warriorsRelease Date:Fri Aug 07, 2026Operation Safed Sagar review: It is a gripping series that reveals the story of the Indian Air Force's crucial role during the Kargil War, showcasing their bravery under strict diplomatic constraints. With strong performances and intense aerial sequences, it offers a heartfelt and a strong portrayal of an important chapter in India's military history."
     },
     {
       "sentiment": "positive",
@@ -275,52 +315,17 @@
       "headline": "Indian-origin astronaut Anil Menon completes spacewalk. How did it go?Menon's first excursion beyond the station was part of a wider effort to strengthen the ageing orbital laboratory's power infrastructure. Here's what's next for the Indian-origin astronaut."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/story/not-happy-dont-come-to-work-should-india-try-chinese-firms-unhappy-leave-policy-asks-harsh-goenka-2966050-2026-08-07",
-      "headline": "Not Happy, don't come to work: Should India try Chinese firm's unhappy leave policy?Sharing the example on X, Goenka drew attention to the policy adopted by Chinese retailer Pang Dong Lai and questioned whether Indian companies should have a similar approach."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/reviews/story/dc-review-arun-matheswaran-lokesh-kanagaraj-revenge-thriller-wamiqa-gabbi-2965758-2026-08-07",
-      "headline": "DC review: Arun Matheswaran's revenge saga is brutal, beautiful and boldRelease Date:Fri Aug 07, 2026DC movie review: Director Arun Matheswaran's DC, starring Lokesh Kanagaraj and Wamiqa Gabbi, is an engaging and arresting revenge thriller that dials up on violence, while embracing it. Composer Anirudh's work does its magic and stays with you long after the credits roll."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/tamil-nadu-cm-vijays-wife-sangeetha-withdraws-divorce-petition-case-disposed-2965818-2026-08-07",
-      "headline": "Tamil Nadu CM Vijay's wife Sangeetha withdraws divorce petition; case disposedTamil Nadu Chief Minister Vijay's wife, Sangeetha, has withdrawn her divorce petition filed in the Chengalpattu district court, following which the court disposed of the case."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/punjab-police-amritsar-terror-modules-busted-nine-arrested-in-alleged-isi-backed-conspiracy-2965831-2026-08-07",
-      "headline": "Top Amritsar cop transferred after Jantar Mantar remarks on ISI-backed modulePunjab Police said it busted two alleged ISI-backed terror modules in Amritsar and arrested nine people, including four juveniles. Investigators are probing a wider network after recovering weapons, petrol bombs and surveillance links near railway tracks."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/sheikh-hasina-bangladesh-retun-news-awami-league-bnp-tarique-rahman-nasir-uddin-chowdhury-dhaka-2965784-2026-08-07",
-      "headline": "BNP MP seeks merger with Awami League as Hasina vows Dhaka returnDays after Sheikh Hasina vowed to return to Bangladesh from India, her remarks triggered sharp reactions in Dhaka. However, an MP of the ruling party, the BNP, has called Hasina's Awami League and ally, asserting that the party would merge with the Tarique Rahman-led outfit."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/operation-safed-sagar-review-netflix-iaf-kargil-war-series-2965608-2026-08-07",
-      "headline": "Operation Safed Sagar review: A high-flying tribute to Kargil's air warriorsRelease Date:Fri Aug 07, 2026Operation Safed Sagar review: It is a gripping series that reveals the story of the Indian Air Force's crucial role during the Kargil War, showcasing their bravery under strict diplomatic constraints. With strong performances and intense aerial sequences, it offers a heartfelt and a strong portrayal of an important chapter in India's military history."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/govt-asks-meta-for-roadmap-to-curb-propaganda-illegal-content-through-algorithm-changes-2965971-2026-08-07",
-      "headline": "Govt asks Meta for algorithm changes to curb deepfakes, propagandaThe Centre has asked Meta to submit a compliance roadmap detailing algorithmic changes to curb propaganda, deepfakes and illegal content. It also directed the company to comply with data localisation norms and coordinate with government to tackle online misinformation."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/india-does-not-endorse-comments-made-at-sheikh-hasina-media-event-says-ministry-of-external-affairs-2965857-2026-08-07",
-      "headline": "India doesn't endorse comments made at Sheikh Hasina media event, says MEAThe Ministry of External Affairs said the Government of India had no role in Sheikh Hasina's August 5 media interaction and does not endorse the remarks made at the privately organised event."
-    },
-    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/science/story/massive-monsoon-cloud-buildup-chokes-indian-ocean-will-it-lead-to-heavy-rain-2965231-2026-08-07",
       "headline": "Massive cloud build-up chokes Indian Ocean: Will it lead to heavy rain?A vast cloud shield has spread over the Indian Ocean, but no Bay system is yet forming. That leaves central and eastern India reliant on existing monsoon circulations as forecasters watch for a fresh trigger."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/commonwealth-games/story/india-cwg-boxing-stars-arundhati-priya-sakshi-jasmine-preeti-stories-2966120-2026-08-07",
+      "headline": "I chose boxing because I beat boys in school: Stories of India's CWG boxing stars India Today met India's Commonwealth Games boxing gold medallists to trace their journeys from hometowns to the podium. Their accounts show how rebellion, weight cuts, illness and mental resolve shaped the historic sweep."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/hardik-pandya-trade-csk-kkr-mi-ashwin-says-deal-far-from-over-2966090-2026-08-07",
@@ -339,7 +344,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-sri-lanka-warm-up-manav-suthar-kuldeep-yadav-day-1-fightback-report-2965999-2026-08-07",
-      "headline": "SL vs IND Warm-up: Indian bowlers made to work as Manav Suthar leads Day 1 fightback SL vs IND Warm-up: India fought back after a difficult opening session to reduce Sri Lanka Cricket XI to 358/8 at stumps on Day 1 of the warm-up match, with Manav Suthar and Kuldeep Yadav emerging as the biggest positives ahead of the opening Test."
+      "headline": "SL vs IND Warm-up: Indian bowlers made to work as Manav Suthar leads Day 1 fightback SL vs IND Warm-up: India fought back after a difficult opening session to reduce Sri Lanka Cricket XI to 363/8 at stumps on Day 1 of the warm-up match, with Manav Suthar and Kuldeep Yadav emerging as the biggest positives ahead of the opening Test."
     },
     {
       "sentiment": "positive",
@@ -374,7 +379,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/shubman-gill-finger-injury-india-vs-sri-lanka-xi-warm-up-kl-rahul-captain-2965551-2026-08-07",
-      "headline": "Shubman Gill misses India warm-up with finger injury, KL Rahul leads India's preparations for the Sri Lanka Test series suffered a setback after Shubman Gill was ruled out of Day 1 of the warm-up match with a finger injury. KL Rahul took over as captain after the decision was confirmed at the toss."
+      "headline": "Shubman Gill misses India warm-up with finger injury, KL Rahul leadsIndia's preparations for the Sri Lanka Test series suffered a setback after Shubman Gill was ruled out of Day 1 of the warm-up match with a finger injury. KL Rahul took over as captain after the decision was confirmed at the toss."
     },
     {
       "sentiment": "positive",
@@ -470,11 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/england-vs-pakistan-tests-joe-root-captain-jacob-bethell-injury-jordan-cox-2965025-2026-08-06",
       "headline": "England start life after Bazball, name squad for first 2 Tests against PakistanEngland have named Joe Root's first squad for the opening two Tests against Pakistan, with Dan Lawrence recalled and Jordan Cox slotting in at No. 3. The selection marks a fresh start for England after the Bazball era under new leadership."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-sri-lanka-a-live-streaming-when-and-where-to-watch-3-day-warm-up-match-2965017-2026-08-06",
-      "headline": "India vs Sri Lanka XI: All you need to know about 3-day warm-up matchIndia face Sri Lanka A in a three-day warm-up match in Colombo from August 7. The game gives Shubman Gill's side time to get used to the conditions and also helps settle the bowling combination before the two-Test series."
     }
   ],
   "education": [
