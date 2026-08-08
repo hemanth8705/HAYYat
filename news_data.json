@@ -200,24 +200,19 @@
   ],
   "general news": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/cities/bengaluru/story/bengaluru-hotels-inspection-expired-milk-fungal-vegetables-food-safety-lapses-2966248-2026-08-08",
+      "headline": "Rotten veggies, expired milk found at Bengaluru 5-star hotels during inspectionA food safety drive uncovered expired milk, rotten vegetables and unhygienic storage at high-end hotels in Bengaluru. A total of 35 food samples were collected during the inspections and sent for lab analysis."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/us-senate-russia-sanctions-bill-india-china-russian-oil-tariffs-ptag-2966223-2026-08-08",
       "headline": "US Senate clears Russia sanctions bill targeting India, China over oil tradeThe US Senate has passed a Bill targeting Russia and its biggest energy buyers, including India and China. The measure could expand Donald Trump's tariff powers as lawmakers debate how to punish Moscow over Ukraine."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/arunachal-pradesh-map-india-marks-27-locations-amid-china-renaming-attempts-2966138-2026-08-07",
-      "headline": "India maps 27 key Arunachal locations after China's repeated renaming attemptsThe exercise was carried out in consultation with the Arunachal Pradesh government and is intended to ensure accurate identification of these places and improve public awareness, a statement said."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/sheikh-hasina-bangladesh-retun-news-awami-league-bnp-tarique-rahman-nasir-uddin-chowdhury-dhaka-2965784-2026-08-07",
-      "headline": "BNP MP seeks merger with Awami League as Hasina vows Dhaka returnDays after Sheikh Hasina vowed to return to Bangladesh from India, her remarks triggered sharp reactions in Dhaka. However, an MP of the ruling party, the BNP, has called Hasina's Awami League and ally, asserting that the party would merge with the Tarique Rahman-led outfit."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/tamil-nadu-delimitation-meeting-aiadmk-dmk-boycott-cm-vijay-all-party-meet-2966114-2026-08-07",
-      "headline": "AIADMK's boycott clouds CM Vijay's bid for united Tamil Nadu front on delimitationThe AIADMK and the DMK will not attend Chief Minister Vijay's all-party meeting on delimitation in Tamil Nadu. Their absence exposes divisions over the Centre's proposed seat redraw linked to the 2011 Census."
+      "url": "https://www.indiatoday.in/sports/cricket/story/rishabh-pant-uttarakhand-land-request-x-post-cm-dhami-help-move-back-home-2966241-2026-08-08",
+      "headline": "Rishabh Pant wants to move back home, seeks Uttarakhand CM's helpRishabh Pant made a personal appeal to Uttarakhand Chief Minister Pushkar Singh Dhami via an X post, for help to buy land in his native state. The India star wants to move his base from Delhi and build his first home in Uttarakhand."
     },
     {
       "sentiment": "positive",
@@ -226,13 +221,33 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/mumbai/story/iit-bombay-hostel-canteens-shut-maharashtra-fda-food-licences-2966183-2026-08-08",
-      "headline": "Two IIT-Bombay hostel canteens closed for operating without licencesThe Maharashtra FDA shut two hostel messes at IIT Bombay after finding they lacked valid food licences. The action came alongside a separate licence suspension for a Dadar burger outlet over hygiene and sanitation violations."
+      "url": "https://www.indiatoday.in/opinion/story/lessons-of-the-iran-war-2965946-2026-08-08",
+      "headline": "Lessons of the Iran warThe Iran war showed how technology has stretched the battlefield across distances, without making geography irrelevant. For India, the lessons from the war lie in survivability, air defence, and the ability to fight without dependence."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/e20-petrol-quality-reject-chloride-moisture-contamination-claims-oil-companies-ethanol-2966123-2026-08-07",
-      "headline": "No cause for alarm: Oil firms reject chloride, moisture contamination claims in E20State-owned oil marketing companies\u2014Indian Oil Corporation (IOC), Bharat Petroleum Corporation Limited (BPCL) and Hindustan Petroleum Corporation Limited (HPCL) said refinery, distillery, depot and retail outlet samples consistently met quality norms, with only four isolated cases detected and corrected promptly, adding that there is \"no cause for alarm\" over E20 fuel quality."
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-sri-lanka-xi-live-score-warm-up-test-match-day-2-live-score-colombo-2966257-2026-08-08",
+      "headline": "IND vs SL XI Day 2 Live: Will Shubman Gill return from injury?India (IND) vs Sri Lanka (SL) XI live score warm-up match Day 2: India bounced back strongly after a tough opening session to leave Sri Lanka XI at 363/8 at stumps on Day 1 of the warm-up match. But the bigger question for Day 2 is whether India captain Shubman Gill will be fit to return after missing the opening day with a right ring finger injury, especially when the visitors begin their first innings."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/medical-cannabis-nepal-gandaki-province-legalises-cultivation-near-bihar-border-west-champaran-2965733-2026-08-08",
+      "headline": "Whiff of ganja in dry Bihar? Nepal province across border legalises medical marijuanaGandaki has become the first province in Nepal to allow the cultivation and use of marijuana for medical purposes. The province shares a border with Bihar at Valmikinagar in West Champaran district. Bihar is state where alcohol is prohibited."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/tamil-nadu-delimitation-meeting-aiadmk-dmk-boycott-cm-vijay-all-party-meet-2966114-2026-08-07",
+      "headline": "AIADMK's boycott clouds CM Vijay's bid for united Tamil Nadu front on delimitationThe AIADMK and the DMK will not attend Chief Minister Vijay's all-party meeting on delimitation in Tamil Nadu. Their absence exposes divisions over the Centre's proposed seat redraw linked to the 2011 Census."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/trending-news/story/employee-quits-company-one-day-after-joining-tells-ceo-to-get-her-laptop-collected-2965791-2026-08-07",
+      "headline": "Employee quits company one day after joining, tells CEO to 'get her laptop collected'A Jaipur CEO shsared how a new hire quit a day after joining, then asked him to get her work laptop collected from her. His post on X triggered a wider debate over job switches, salary offers and professional conduct."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/sheikh-hasina-bangladesh-retun-news-awami-league-bnp-tarique-rahman-nasir-uddin-chowdhury-dhaka-2965784-2026-08-07",
+      "headline": "BNP MP seeks merger with Awami League as Hasina vows Dhaka returnDays after Sheikh Hasina vowed to return to Bangladesh from India, her remarks triggered sharp reactions in Dhaka. However, an MP of the ruling party, the BNP, has called Hasina's Awami League and ally, asserting that the party would merge with the Tarique Rahman-led outfit."
     },
     {
       "sentiment": "positive",
@@ -241,28 +256,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/employee-quits-company-one-day-after-joining-tells-ceo-to-get-her-laptop-collected-2965791-2026-08-07",
-      "headline": "Employee quits company one day after joining, tells CEO to 'get her laptop collected'A Jaipur CEO said a new hire quit a day after joining, then asked him to get her work laptop collected from her. His post on X triggered a wider debate over job switches, salary offers and professional conduct."
+      "url": "https://www.indiatoday.in/india/story/arunachal-pradesh-map-india-marks-27-locations-amid-china-renaming-attempts-2966138-2026-08-07",
+      "headline": "India maps 27 key Arunachal locations after China's repeated renaming attemptsThe exercise was carried out in consultation with the Arunachal Pradesh government and is intended to ensure accurate identification of these places and improve public awareness, a statement said."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/sakshi-chaudhary-virat-kohli-cwg-2026-boxing-gold-2966021-2026-08-07",
-      "headline": "The Virat Kohli factor in boxer Sakshi Chaudhary's golden Commonwealth Games showCommonwealth Games gold medallist Sakshi Chaudhary said Virat Kohli's support helped shape her boxing rise. A fan of Vijender Singh, the 25-year-old won gold in women's 51kg category in Glasgow."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/tamil-nadu-delimitation-bill-row-dmk-clears-stance-vijay-meeting-mps-2965565-2026-08-07",
-      "headline": "DMK clears stance on delimitation bill amid buzz as Vijay calls MPs' meetAmid strong buzz that the DMK has softened its stance on the delimitation bill, much to the unease of the INDIA bloc, Udhayanidhi Stalin clarified that the party had opposed the exercise from the very beginning."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/delhi-rain-western-uttar-pradesh-low-pressure-system-heavy-showers-2966068-2026-08-07",
-      "headline": "Why did Delhi-NCR witness such heavy rainfall? The science behind itHeavy rain lashed Delhi on Friday after a low-pressure system formed over western Uttar Pradesh. The spell brought relief from humidity but caused waterlogging, slow traffic and visibility concerns."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/no-ethanol-needed-young-innovator-from-uttarakhands-almora-test-flying-car-2965707-2026-08-07",
-      "headline": "No ethanol needed: Almora engineer tests flying car prototypeRavi Tamta from Almora has test-flown the HAPIDA SKYNeX electric personal flying vehicle prototype. The milestone highlights Uttarakhand's innovation push while further trials and approvals remain pending."
+      "url": "https://www.indiatoday.in/sports/football/story/yan-diomande-real-madrid-first-african-international-signing-since-2006-2966152-2026-08-08",
+      "headline": "The missing continent no more: How Yan Diomande rewrote Real Madrid's transfer mapThe Ivorian winger, Yan Diomande, is the first permanent African international signing since 2006 for Real Madrid. So, why did it take 20 years?"
     },
     {
       "sentiment": "negative",
@@ -271,18 +271,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/india-made-first-mri-machines-arjun-arunachalam-buyout-ratana-tata-zoho-sridhar-vembu-voxelgrids-bengaluru-2965271-2026-08-07",
-      "headline": "How Tata, Vembu's Zoho saved India's first MRI machine maker from MNC sharkBengaluru startup Voxelgrids is making India's first MRI machine, which will reduce scan cost by up to 70%. However, a global giant sought to buy it out. It was funding from Tata Trusts and Sridhar Vembu's Zoho that helped stave off any buyout bids, reveals Arjun Arunachalam, founder and CEO of Voxelgrids."
+      "url": "https://www.indiatoday.in/india/story/congress-leader-david-dsouza-shot-dead-by-gunmen-in-udupi-2966216-2026-08-08",
+      "headline": "Congress leader shot dead by bike-borne men in Karnataka, incident caught on CCTVDavid D'Souza, a local Congress leader and former panchayat president, was shot by unidentified assailants in Udupi. A video of the incident shows a man sneaking up on an unsuspecting D'Souza while he was getting inside his car parked on a roadside."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/india-israel-ties-netanyahu-thanks-modi-after-call-on-west-asia-situation-2966222-2026-08-08",
-      "headline": "Netanyahu thanks PM Modi, vows to strengthen Israel-India tiesIsraeli Prime Minister Benjamin Netanyahu thanked Indian Prime Minister Narendra Modi after the two leaders spoke about the India-Israel strategic partnership and West Asia. The call underlined continued high-level engagement as both sides reviewed cooperation and regional developments."
+      "url": "https://www.indiatoday.in/science/story/no-ethanol-needed-young-innovator-from-uttarakhands-almora-test-flying-car-2965707-2026-08-07",
+      "headline": "No ethanol needed: Almora engineer tests flying car prototypeRavi Tamta from Almora has test-flown the HAPIDA SKYNeX electric personal flying vehicle prototype. The milestone highlights Uttarakhand's innovation push while further trials and approvals remain pending."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/sunny-deol-preity-zinta-meet-yogi-adityanath-batwara-1947-release-2966176-2026-08-07",
-      "headline": "Sunny Deol, Preity Zinta meet Yogi Adityanath ahead of Batwara 1947 releaseActor Sunny Deol and Preity Zinta met Uttar Pradesh Chief Minister Yogi Adityanath in Lucknow during Batwara 1947 promotions. The visit came days before the Partition drama's release on August 14."
+      "url": "https://www.indiatoday.in/health/story/metformin-anti-ageing-benefits-tame-trial-healthy-ageing-claims-2965948-2026-08-08",
+      "headline": "Common diabetes drug's big anti-ageing promiseHandcrafted ByOur Editors The US FDA has approved a landmark trial to assess metformin's anti-ageing role. Doctors say the interest is promising, but healthy people should wait for clinical evidence."
     },
     {
       "sentiment": "positive",
@@ -291,36 +291,61 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/hezbollah-disarmament-verification-us-to-choose-monitors-in-lebanon-israel-deal-france-veto-ruled-out-2966214-2026-08-08",
-      "headline": "Israel, US veto France for Hezbollah disarmament verification roleIsrael and the US have vetoed France from a shortlist of countries being considered to verify Hezbollah's disarmament under a US-brokered Lebanon deal. Washington will now select one or more countries, while Beirut rejects private security firms for the monitoring role."
+      "url": "https://www.indiatoday.in/cities/other-cities/story/gujarat-murder-45-year-old-woman-25-year-old-lover-dead-2966233-2026-08-08",
+      "headline": "Woman, 45, pressures 25-year-old lover for marriage. He pushes her in front of trainThe incident, which initially appeared to be a railway accident, came to light on August 4 when the woman's body was found near the railway tracks in Rajkot."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/other-cities/story/chhattisgarh-public-service-commission-sub-inspector-result-news-kumar-pradhan-name-goes-viral-after-clearing-exam-2966127-2026-08-07",
-      "headline": "'News' clears Chhattisgarh civil services, leaves internet doing a double takeCGPSC Sub-Inspector candidate News Kumar Pradhan went viral after his name appeared on the merit list. The buzz later gave way to a story of verified identity, steady preparation and social media haste."
+      "url": "https://www.indiatoday.in/education-today/news/story/meet-akshath-anand-14-year-old-whose-iv-safety-wearable-won-gold-at-canadas-top-science-fair-2964918-2026-08-08",
+      "headline": "Meet Akshath Anand, 14, who built a wearable that could change IV safety in hospitalsAt just 14, Akshath Anand has created a wearable device that could help hospitals detect IV leaks before they cause harm. The award-winning innovation earned national gold and highlights the growing impact of young minds solving real healthcare challenges."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/ex-syndicate-bank-chief-ajay-nanavati-rejected-higher-pay-for-rs-960-tata-job-in-1977-shares-why-2965496-2026-08-07",
-      "headline": "Ex-Syndicate Bank chief rejected higher pay for Rs 960 Tata job in 1977, shares whyAjay Nanavati, former chairman of Syndicate Bank, recalled returning to India after studying chemical engineering in the US and accepting a job at Tata despite a monthly salary of just Rs 960."
+      "url": "https://www.indiatoday.in/movies/celebrities/story/sunny-deol-preity-zinta-meet-yogi-adityanath-batwara-1947-release-2966176-2026-08-07",
+      "headline": "Sunny Deol, Preity Zinta meet Yogi Adityanath ahead of Batwara 1947 releaseActor Sunny Deol and Preity Zinta met Uttar Pradesh Chief Minister Yogi Adityanath in Lucknow during Batwara 1947 promotions. The visit came days before the Partition drama's release on August 14."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/chicago-funeral-home-50-bodies-decomposing-south-chicago-chapel-investigation-ptag-2966217-2026-08-08",
+      "headline": "56 decomposing bodies found at US funeral home after complaints of stenchMore than 50 bodies were found improperly stored at a Chicago funeral home, triggering a police and state investigation. The discovery has shaken families and renewed scrutiny of repeated complaints and the owners' past record."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/us-iran-war-live-updates-strait-of-hormuz-trump-oman-kuwait-tehran-blockade-tensions-gulf-states-turkey-saudi-2966212-2026-08-08",
-      "headline": "US-Iran War Live: US says Iran-Oman Hormuz deal expected soonUS-Iran War Live Updates: Progress has been made in talks between Iran and Oman on restoring shipping through the Strait of Hormuz, with a US official telling Reuters that a deal is expected soon. The official said the US would lift its blockade of Iranian ports once an agreement ensuring unhindered commercial shipping is announced, adding future US actions would depend on Iran fulfilling its commitments. Meanwhile, Saudi Arabia, Pakistan and Turkey have signed the Makkah Joint Defence Agreement to strengthen regional security, saying it is a defensive pact amid rising Middle East tensions. The move comes as Iran continues to threaten Gulf energy infrastructure and shipping. Iran's foreign minister said the country's armed forces had demonstrated their \"readiness, capability and might\" against the \"world's most expensive military.\" Follow indiatoday.in for all the latest updates."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/saudi-arabia-pak-turkey-ink-defence-agreement-amid-middle-east-crisis-vow-collective-response-to-attacks-2965867-2026-08-07",
-      "headline": "Sunni Nato is here: Pakistan, Turkey, Saudi Arabia sign defence pact in MeccaPakistan, Turkey and Saudi Arabia, the three Sunni-majority powers, have signed a NATO-like defence agreement in Mecca. The agreement, called the Mecca Joint Defence Agreement and signed in Saudi Arabia, aims to establish a collective security and defence mechanism among the three countries."
+      "url": "https://www.indiatoday.in/cities/gurugram/story/gurugram-asks-private-and-corporate-employees-to-work-from-home-today-amid-waterlogging-after-heavy-rain-2966247-2026-08-08",
+      "headline": "Gurugram asks employees to work from home today after heavy, overnight rainThe administration said the move would help ease pressure on the roads and allow agencies to carry out water drainage, repair and restoration work more efficiently."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/anil-menon-first-spacewalk-completed-iss-august-2965584-2026-08-07",
-      "headline": "Indian-origin astronaut Anil Menon completes spacewalk. How did it go?Menon's first excursion beyond the station was part of a wider effort to strengthen the ageing orbital laboratory's power infrastructure. Here's what's next for the Indian-origin astronaut."
+      "url": "https://www.indiatoday.in/india/story/jharkhand-jpsc-protest-talks-deadlock-students-demand-14th-exam-cancellation-2966255-2026-08-08",
+      "headline": "Jharkhand protesting students, govt meet in 1st round of talks; stir to continueDespite both sides describing Friday's dialogue as positive, the students have made it clear that their protest and hunger strike will continue, and that the August 10 Assembly march remains on the cards unless the government backs its assurances with concrete action."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-sri-lanka-xi-live-score-warm-up-test-match-day-2-live-score-colombo-2966257-2026-08-08",
+      "headline": "IND vs SL XI Day 2 Live: Will Shubman Gill return from injury? India (IND) vs Sri Lanka (SL) XI live score warm-up match Day 2: India bounced back strongly after a tough opening session to leave Sri Lanka XI at 363/8 at stumps on Day 1 of the warm-up match. But the bigger question for Day 2 is whether India captain Shubman Gill will be fit to return after missing the opening day with a right ring finger injury, especially when the visitors begin their first innings."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/yan-diomande-real-madrid-first-african-international-signing-since-2006-2966152-2026-08-08",
+      "headline": "The missing continent no more: How Yan Diomande rewrote Real Madrid's transfer map The Ivorian winger, Yan Diomande, is the first permanent African international signing since 2006 for Real Madrid. So, why did it take 20 years?"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/travis-head-allan-border-medal-second-straight-win-mitchell-starc-2966249-2026-08-08",
+      "headline": "Travis Head joins elite list with second straight Allan Border Medal Travis Head has gone back-to-back at the Allan Border Medal, edging Alex Carey in a thrilling vote. The Australia star's remarkable year across Tests and ODIs has now put him among the select group of consecutive winners."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/ivan-toney-england-assault-charge-london-nightclub-court-date-2966251-2026-08-08",
+      "headline": "England striker Ivan Toney charged with assault in London nightclub case England striker Ivan Toney has been charged with assault after an alleged incident at a Soho nightclub in December 2025. The Al Ahli forward is due in court on September 24 and says he will contest the allegation."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/rishabh-pant-uttarakhand-land-request-x-post-cm-dhami-help-move-back-home-2966241-2026-08-08",
+      "headline": "Rishabh Pant wants to move back home, seeks Uttarakhand CM's help Rishabh Pant made a personal appeal to Uttarakhand Chief Minister Pushkar Singh Dhami via an X post, for help to buy land in his native state. The India star wants to move his base from Delhi and build his first home in Uttarakhand."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-sri-lanka-tests-ajinkya-rahane-proactive-batting-spin-2966168-2026-08-08",
@@ -354,27 +379,27 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-sri-lanka-warm-up-manav-suthar-kuldeep-yadav-day-1-fightback-report-2965999-2026-08-07",
-      "headline": "SL vs IND Warm-up: Indian bowlers made to work as Manav Suthar leads Day 1 fightback SL vs IND Warm-up: India fought back after a difficult opening session to reduce Sri Lanka Cricket XI to 363/8 at stumps on Day 1 of the warm-up match, with Manav Suthar and Kuldeep Yadav emerging as the biggest positives ahead of the opening Test."
+      "headline": "SL vs IND Warm-up: Indian bowlers made to work as Manav Suthar leads Day 1 fightbackSL vs IND Warm-up: India fought back after a difficult opening session to reduce Sri Lanka Cricket XI to 363/8 at stumps on Day 1 of the warm-up match, with Manav Suthar and Kuldeep Yadav emerging as the biggest positives ahead of the opening Test."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/badminton/story/korea-masters-rakshitha-ramraj-beats-tanvi-sharma-reaches-semi-finals-2965977-2026-08-07",
-      "headline": "Korea Masters: Rakshitha Ramraj shocks Tanvi Sharma to reach semi-finals Rakshitha Ramraj fought back from a game down to beat Tanvi Sharma in the Korea Masters quarter-final. The win set up an all-Indian semi-final with Ashmita Chaliha and underlined a strong week for young Indian shuttlers in Korea."
+      "headline": "Korea Masters: Rakshitha Ramraj shocks Tanvi Sharma to reach semi-finalsRakshitha Ramraj fought back from a game down to beat Tanvi Sharma in the Korea Masters quarter-final. The win set up an all-Indian semi-final with Ashmita Chaliha and underlined a strong week for young Indian shuttlers in Korea."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/shakib-al-hasan-bangladesh-return-ex-captain-ready-to-face-trial-if-security-is-assured-2965879-2026-08-07",
-      "headline": "Shakib Al Hasan ready to return to Bangladesh, wants to play 2027 World Cup Shakib Al Hasan says he will return to Bangladesh, face trial and seek a farewell series if his security is guaranteed. The 39-year-old cricketer also"
+      "headline": "Shakib Al Hasan ready to return to Bangladesh, wants to play 2027 World CupShakib Al Hasan says he will return to Bangladesh, face trial and seek a farewell series if his security is guaranteed. The 39-year-old cricketer also"
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ajinkya-rahane-etpl-steve-waugh-amsterdam-flames-india-retirement-2965813-2026-08-07",
-      "headline": "Ajinkya Rahane reveals why he joined ETPL right after India retirement Ajinkya Rahane has revealed that the offer to join the inaugural European T20 Premier League arrived on the same day he announced his retirement from international cricket, with a personal call from Steve Waugh convincing him to join Amsterdam Flames."
+      "headline": "Ajinkya Rahane reveals why he joined ETPL right after India retirementAjinkya Rahane has revealed that the offer to join the inaugural European T20 Premier League arrived on the same day he announced his retirement from international cricket, with a personal call from Steve Waugh convincing him to join Amsterdam Flames."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/athletics/story/neeraj-chopra-human-celebrate-commonwealth-games-silver-medal-afi-2965798-2026-08-07",
-      "headline": "Neeraj Chopra is human, we should celebrate his silver medals too: Ex-AFI chief AFI selection committee chairman Adille Sumariwalla has urged fans not to judge Neeraj Chopra by one silver medal, insisting India's greatest track and field athlete deserves patience after making an impressive comeback from a career-threatening back injury."
+      "headline": "Neeraj Chopra is human, we should celebrate his silver medals too: Ex-AFI chiefAFI selection committee chairman Adille Sumariwalla has urged fans not to judge Neeraj Chopra by one silver medal, insisting India's greatest track and field athlete deserves patience after making an impressive comeback from a career-threatening back injury."
     },
     {
       "sentiment": "positive",
@@ -450,31 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/ranjit-bajaj-bibiano-fernandes-india-u15-fifa-world-cup-aiff-2965339-2026-08-06",
       "headline": "Bajaj leads India U15 revamp as manager with Bibiano as coach: But will it work?AIFF has put Ranjit Bajaj alongside Bibiano Fernandes for India's U15 World Cup campaign. While the move can be seen as bringing grassroots strength and coaching pedigree together, it also raises questions about whether the combination will actually work."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/shubman-gill-injury-scare-india-warm-up-match-sri-lanka-2965313-2026-08-06",
-      "headline": "Shubman Gill suffers injury scare on eve of India's warm-up match vs Sri LankaShubman Gill took two blows to his right hand during India's training session in Colombo on Thursday. The scare came ahead of the warm-up match with India already managing several injury absences."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/womens-asia-cup-2026-fixtures-india-vs-pakistan-september-5-dubai-2965261-2026-08-06",
-      "headline": "India vs Pakistan on September 5 as Women's Asia Cup 2026 fixtures revealedWomen's Asia Cup 2026 fixtures have set up an India-Pakistan meeting in Dubai on September 5. The final will be played on September 13."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/athletics/story/arshad-nadeem-commonwealth-games-flop-pakistan-star-cites-cold-and-neglect-2965238-2026-08-06",
-      "headline": "Pakistan's Arshad Nadeem deeply hurt by media backlash over CWG flop showArshad Nadeem has answered criticism after his Commonwealth Games exit, blaming extreme cold and disrupted preparation for a below-par throw. The Olympic champion finished 9th in the final without even managing to clear 80m in Glasgow."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ms-dhoni-hotel-room-rule-ajinkya-rahane-csk-indian-cricket-team-2965214-2026-08-06",
-      "headline": "Dhoni's law: Rahane reveals one rule Ex-India captain never compromised onAjinkya Rahane said MS Dhoni kept his hotel room open to teammates but enforced one clear rule to all of them. Dhoni has been praised for fostering a good team environment when he was captaining the Indian team and CSK."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/argentina-july-15-national-football-teams-day-england-world-cup-semi-final-win-2965154-2026-08-06",
-      "headline": "Argentina announces special day to celebrate World Cup semis win over EnglandThe AFA has declared 15 July as National Football Teams Day after Argentina's late World Cup semi-final win over England. The match saw Argentina turn around a 1-0 deficit to enter the final, following which their celebrations were marred by controversy."
     }
   ],
   "education": [
@@ -504,7 +504,7 @@
       "headline": "Fresh plea in Supreme Court to recall NEET results, reconduct examsA fresh petition has been filed in the Supreme Court\u00a0to recall the National Entrance cum Eligibility Test - Under Graduate (NEET-UG) 2024 results and re-conduct fresh examination after\u00a0discrepancies in the declared results.\r\n\r\n"
     },
     {
-      "sentiment": "positive",
+      "sentiment": "negative",
       "url": "https://www.indiatoday.in/education/story/nta-issues-clarification-after-neet-2024-controversy-cheating-in-exam-high-cut-off-2550063-2024-06-07",
       "headline": "NTA issues clarification after NEET result controversy over toppers, high cut-offIn a detailed statement, the National Testing Agency (NTA) said that the increase in cut-off and number of toppers in the NEET-UG reflect the competitive nature of the exam and maintained that the test's integrity has not been compromised."
     },
@@ -567,6 +567,11 @@
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/magazine/education/story/20220926-education-kota-factory-season-2-2000662-2022-09-16",
       "headline": "Coaching | Kota factory, season 2While online ed-tech companies eye the brick-and-mortar world of coaching centres in the city, traditional institutes are extending their digital arms to remain on top of the game"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/magazine/education/story/20220711-india-today-education-conclave-2022-all-bets-on-edutech-1968836-2022-07-01",
+      "headline": "India Today Education Conclave 2022: All bets on edutechThe India Today Education Conclave 2022 touched on topics like early childhood care, universal education, the NEP and India\u2019s edutech boom"
     },
     {
       "sentiment": "positive",
