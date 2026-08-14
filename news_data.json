@@ -1,6 +1,11 @@
 {
   "business": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/rbi-seeks-clarity-from-equitas-sfb-on-unico-housing-finance-ties-2971266-2026-08-14",
+      "headline": "RBI seeks clarity from Equitas SFB on Unico Housing Finance tiesRBI officials have asked board members whether they were aware that Unico Housing Finance was founded by Varshini Vasudevan Pathangi, daughter of Equitas SFB MD & CEO PN Vasudevan."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/market/story/sensex-nifty-end-lower-as-crude-oil-prices-and-middle-east-uncertainty-weigh-on-sentiment-2971222-2026-08-14",
       "headline": "Sensex, Nifty end lower as crude prices, Middle East uncertainty weigh on sentimentThe BSE Sensex closed at 78,009.25, down 70.71 points or 0.09%, while the Nifty 50 settled at 24,366, lower by 29.85 points or 0.12%. The Sensex had touched an intraday low of 77,684.37, while the Nifty fell to 24,296.80 during the session."
@@ -94,14 +99,14 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/personal-finance/story/8th-pay-commission-revises-consultant-rules-more-roles-for-young-professionals-2970230-2026-08-13",
       "headline": "8th Pay Commission revises Consultant rules: More roles for young professionalsThe biggest change is for the Young Professional category. Earlier, candidates in this group needed at least four years of relevant experience. The revised rules have brought this down to two years."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/tata-sons-new-chairman-n-chandrasekaran-exit-search-committe-tata-trusts-starts-selection-process-2970176-2026-08-13",
-      "headline": "Tata Trusts to set up selection committee for new Tata Sons chairman after Chandrasekaran's exitTata Trusts said N Chandrasekaran has decided not to seek re-appointment as Tata Sons chairman when his tenure ends on 20 February 2027. The Sir Dorabji Tata Trust has moved to set up a selection committee to ensure an orderly leadership transition."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/rani-mukerji-gets-emotional-wipes-tears-as-she-receives-honorary-doctorate-shah-rukh-khan-iffm-2971247-2026-08-14",
+      "headline": "Rani Mukerji gets emotional, wipes tears as she receives Honorary doctorate Actor Rani Mukerji accepted an honorary Doctor of Letters from La Trobe University at IFFM (International Film Festival of Melbourn) 2026. The actor got emotional at the prestigious ceremony."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/govinda-wife-ssunita-ahuja-says-hes-having-affair-with-woman-komal-rani-his-daughters-age-2971202-2026-08-14",
@@ -113,9 +118,9 @@
       "headline": "Awarapan 2: Here's why Mohit Suri did not return to direct sequel | Exclusive Producer Vishesh Bhatt reveals why Mohit Suri did not return to direct Awarapan 2. He said the film continues Shivam's story while widening the franchise through new music, cast and voices."
     },
     {
-      "sentiment": "negative",
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/operation-sindoor-ajit-doval-says-strikes-targeted-pahalgam-attack-camps-2971203-2026-08-14",
-      "headline": "India's tolerance is not its weakness: Ajit Doval's message to world in docuseries National Security Advisor Ajit Doval said Operation Sindoor was aimed at destroying camps linked to the Pahalgam attack. In his first interview since the operation, he said India can take risks and hit hard when required."
+      "headline": "Don't mistake India's tolerance for weakness: Ajit Doval on Operation Sindoor NSA Ajit Doval, in his first interview since Operation Sindoor, reveals India's objective behind the strikes and warns that India's tolerance should never be mistaken for weakness."
     },
     {
       "sentiment": "positive",
@@ -191,14 +196,19 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/lokesh-kanagaraj-dc-debut-redemption-after-coolie-backlash-2970389-2026-08-14",
       "headline": "Lokesh Kanagaraj was a meme fodder for an entire year. And then DC happened Lokesh Kanagaraj has returned to the spotlight with his acting debut as Devadas in Arun Matheswaran's DC. The film's response has shifted the conversation from the Coolie backlash and memes back to his work."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/television/story/anup-soni-breaks-silence-as-ajay-devgn-takes-over-crime-patrol-as-new-host-2970854-2026-08-14",
-      "headline": "Anup Soni breaks silence as Ajay Devgn takes over Crime Patrol as new host Actor Anup Soni has reacted after Ajay Devgn was announced as the new host of Crime Patrol 2026. His comments have refocused attention on the show's long association with him as it enters a new phase."
     }
   ],
   "general news": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/india-has-strong-ties-with-italy-remarks-should-be-respectful-government-on-congress-leaders-meloni-jab-2971375-2026-08-14",
+      "headline": "India has strong ties with Italy, remarks should be respectful: Government on Congress leader's 'Meloni' jabIndia has strong ties with Italy, remarks should be respectful: Government on Congress leader's 'Meloni' jab"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/hurts-indias-international-prestige-rajnath-sings-calls-rahul-gandhi-pm-hug-remark-shameful-indecent-2971351-2026-08-14",
+      "headline": "Hurts India's prestige: Rajnath Singh calls Rahul Gandhi 'PM hug' remark shamefulThe Defence Minister defended PM Modi's record on India's global standing, saying he had elevated the country's stature on the international stage and paved the way for a developed India."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/no-widespread-injuries-kiren-rijiju-rejects-allegations-of-pellet-gun-use-during-delhi-student-protest-2971164-2026-08-14",
@@ -211,8 +221,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/bci-nalsar-row-supreme-court-questions-manan-mishra-order-bar-council-india-cji-surya-kant-2971115-2026-08-14",
-      "headline": "Manan Mishra lowered the Bar with NALSAR threat. Shouldn't he pay for it?The Bar Council of India withdrew its order blocking enrolment of NALSAR's 2026 batch after criticism and Supreme Court scrutiny. The episode has triggered questions about the council's statutory powers and fresh calls for chairman Manan Kumar Mishra's resignation."
+      "url": "https://www.indiatoday.in/lifestyle/society/story/noida-high-rise-family-of-four-and-3-days-without-electricity-heres-my-story-2969062-2026-08-14",
+      "headline": "Noida high-rise, family of four, and 3 days without electricity: Here's my storyI always thought a power cut was an inconvenience, something you complain about for a few hours and then forget. Three days without electricity changed that perspective completely."
     },
     {
       "sentiment": "positive",
@@ -221,43 +231,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/society/story/noida-high-rise-family-of-four-and-3-days-without-electricity-heres-my-story-2969062-2026-08-14",
-      "headline": "Noida high-rise, family of four, and 3 days without electricity: Here's my storyI always thought a power cut was an inconvenience, something you complain about for a few hours and then forget. Three days without electricity changed that perspective completely."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/isro-lvm3-m5-rocket-stage-reenters-earth-atmosphere-space-debris-2971077-2026-08-14",
-      "headline": "Isro's Bahubali LVM3 rocket falls back to Earth safely after 9 months in spaceIndia's LVM3-M5 rocket left behind an upper stage after its satellite launch last year. Nearly nine months later, that stage has returned to Earth, illustrating how proper planning can help cut down on space debris."
+      "url": "https://www.indiatoday.in/world/us-news/story/h1b-visa-us-news-indians-in-texas-donald-trump-greg-abbott-republican-party-2971194-2026-08-14",
+      "headline": "H-1B revenge? Visa filings surge in Republican Texas amid MAGA protestsWhile H-1B filings have declined across much of the US, demand is surging in several Republican-held Texas districts. The increase in H-1B filings in Texas comes even as leading Republicans from the Red state have pushed to curb or scrap the work visa programme."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/rahul-gandhi-pm-narendra-modi-hug-jibe-sparks-bjp-backlash-nishikant-dubey-digs-out-indira-castro-photos-2970975-2026-08-14",
-      "headline": "Nishikant Dubey digs out Indira-Castro pics to counter Rahul Gandhi's PM 'hug' jabTo counter Rahul Gandhi's PM 'hug' jab, BJP's Nishikant Dubey shared photographs of Indira Gandhi with Cuban revolutionary Fidel Castro and Palestinian leader Yasser Arafat."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/west-bengal-netaji-subhas-cm-suvendu-adhikari-samik-bhattacharya-mamata-banerjee-forward-bloc-party-2970222-2026-08-14",
-      "headline": "Netaji Subhas Bose is beyond politics and Bengal BJP has shot itself in the footThe BJP has spent decades attacking the Congress and the Trinamool Congress for not celebrating the legacy of Netaji Shubas Chandra Bose enough. Now, the Bengal BJP has come under attack for anti-Netaji remarks and actions. West Bengal CM Suvendu Adhikari was forced to firefight, and an MP's award has been withdrawn."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/indira-gandhi-nancy-reagan-1982-white-house-dinner-colour-clash-rahul-gandhi-2971239-2026-08-14",
-      "headline": "Same-same, but different? Indira Gandhi, Nancy Reagan and the 1982 colour clashOne White House dinner, two of the world's most powerful women and a colour coincidence that Rahul Gandhi remembers 44 years later. Here's why..."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/reviews/story/batwara-1947-review-sunny-deol-partition-drama-strong-ideas-weak-execution-2971083-2026-08-14",
-      "headline": "Batwara 1947 review: Sunny Deol is no Tara Singh in underwhelming Partition taleRelease Date:Fri Aug 14, 2026Batwara 1947 movie review: Rajkumar Santoshi's Batwara 1947 follows Sikandar Mirza as he forms an unlikely bond with a Hindu woman in post-Partition Pakistan. The film argues for communal coexistence, but flat performances and abrupt emotional turns blunt its impact."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/history-of-it/story/15-august-independence-day-astrologers-rejected-mountbatten-jawaharlal-nehru-freedom-at-midnight-2970502-2026-08-14",
-      "headline": "August 15, 1947, inauspicious said astrologers. Nehru found a solutionLord Mountbatten, the last British Viceroy to India, fixed August 15 for the transfer of power to Indians, but seers objected to the date as inauspicious. Jawaharlal Nehru, the to-be first Indian Prime Minister, found a middle path. And that's why India got freedom at midnight."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/govinda-wife-ssunita-ahuja-says-hes-having-affair-with-woman-komal-rani-his-daughters-age-2971202-2026-08-14",
-      "headline": "Govinda's wife Ssunita says he's having affair with woman 'his daughter's age'Ssunita Ahuja addressed questions about Govinda's public outings with debutant Komal in Mumbai. Her sharp remarks have intensified attention on the rumours and their marriage."
+      "url": "https://www.indiatoday.in/india/story/indira-gandhi-americans-consider-me-fool-india-us-ties-nixon-kissinger-2971291-2026-08-14",
+      "headline": "These Americans take me for a fool: Inside Indira Gandhi's stormy US tiesRahul Gandhi shared an anecdote from Indira Gandhi's 1982 US visit while he attacked PM Modi's foreign policy. While it was intended to take a dig at PM Modi, the episode underlined the turbulent India-US tensions under Indira Gandhi."
     },
     {
       "sentiment": "positive",
@@ -266,13 +246,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/monsoon-engine-roars-bay-of-bengal-set-to-birth-back-to-back-rain-systems-2970448-2026-08-14",
-      "headline": "Monsoon engine roars: Bay of Bengal set to birth back-to-back rain systemsWeather models indicate the Bay of Bengal could keep spawning low-pressure systems until the end of August. The pattern may prevent a prolonged monsoon break and help cut rainfall deficits across several regions."
+      "url": "https://www.indiatoday.in/india/story/bci-nalsar-row-supreme-court-questions-manan-mishra-order-bar-council-india-cji-surya-kant-2971115-2026-08-14",
+      "headline": "Manan Mishra lowered the Bar with NALSAR threat. Shouldn't he pay for it?The Bar Council of India withdrew its order blocking enrolment of NALSAR's 2026 batch after criticism and Supreme Court scrutiny. The episode has triggered questions about the council's statutory powers and fresh calls for chairman Manan Kumar Mishra's resignation."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/iran-president-masoud-pezeshkian-will-travel-to-delhi-for-brics-summit-next-month-sources-2971155-2026-08-14",
-      "headline": "Iran's Masoud Pezeshkian will travel to Delhi for Brics Summit next month: ReportIranian President Masoud Pezeshkian will visit New Delhi in September to attend the 18th Brics Summit. The visit comes amid heightened West Asia tensions and growing India-Iran engagement, with Tehran welcoming a greater role for New Delhi in de-escalation efforts."
+      "url": "https://www.indiatoday.in/science/story/isro-lvm3-m5-rocket-stage-reenters-earth-atmosphere-space-debris-2971077-2026-08-14",
+      "headline": "Isro's Bahubali LVM3 rocket falls back to Earth safely after 9 months in spaceIndia's LVM3-M5 rocket left behind an upper stage after its satellite launch last year. Nearly nine months later, that stage has returned to Earth, illustrating how proper planning can help cut down on space debris."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/telangana/story/revanth-reddy-minority-students-statements-muslims-event-telangana-chief-minister-bjp-reply-2971250-2026-08-14",
+      "headline": "Minority kids can reassemble Rafale, but forget what they study: CM Revanth ReddyTelangana Chief Minister Revanth Reddy said minority students are skilled workers who can dismantle and reassemble a Rafale aircraft but \"forget what they have study\". His remarks on students at the Minorities Excellence Summit, along with those on electricity consumption in the Old City, have sparked a political row."
     },
     {
       "sentiment": "positive",
@@ -281,28 +266,23 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/indigo-passenger-angry-outburst-at-staff-after-flight-cancellation-sparks-backlash-2970912-2026-08-14",
-      "headline": "IndiGo passenger climbs luggage belt, lashes out at staff after flight cancellationA woman passenger at Bhubaneswar Airport lost her cool after her IndiGo flight was cancelled and was seen screaming at ground staff as they tried to handle the situation."
+      "url": "https://www.indiatoday.in/entertainment/ott/story/operation-sindoor-ajit-doval-says-strikes-targeted-pahalgam-attack-camps-2971203-2026-08-14",
+      "headline": "Don't mistake India's tolerance for weakness: Ajit Doval on Operation SindoorNSA Ajit Doval, in his first interview since Operation Sindoor, reveals India's objective behind the strikes and warns that India's tolerance should never be mistaken for weakness."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/rahul-gandhi-pm-narendra-modi-hug-jibe-sparks-bjp-backlash-nishikant-dubey-digs-out-indira-castro-photos-2970975-2026-08-14",
+      "headline": "Nishikant Dubey digs out Indira-Castro pics to counter Rahul Gandhi's PM 'hug' jabTo counter Rahul Gandhi's PM 'hug' jab, BJP's Nishikant Dubey shared photographs of Indira Gandhi with Cuban revolutionary Fidel Castro and Palestinian leader Yasser Arafat."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/supreme-court-dismisses-firs-against-comedian-samay-raina-over-remarks-on-specially-abled-persons-2971149-2026-08-14",
-      "headline": "SC cancels FIRs against Samay Raina over remarks on persons with disabilitiesThe Supreme Court noted comedians' rehabilitation efforts, including a disability-focused chess tournament and fundraising initiatives, as it cancelled the FIR against Samay Raina and others."
+      "url": "https://www.indiatoday.in/movies/celebrities/story/govinda-wife-ssunita-ahuja-says-hes-having-affair-with-woman-komal-rani-his-daughters-age-2971202-2026-08-14",
+      "headline": "Govinda's wife Ssunita says he's having affair with woman 'his daughter's age'Ssunita Ahuja addressed questions about Govinda's public outings with debutant Komal in Mumbai. Her sharp remarks have intensified attention on the rumours and their marriage."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/locals-concerns-related-to-grazing-valid-but-no-new-chinese-occupation-has-taken-place-kiren-rijiju-2971187-2026-08-14",
-      "headline": "Locals' concerns valid but no new Chinese occupation in Arunachal: Kiren RijijuKiren Rijiju addresses concerns over grazing areas in Arunachal Pradesh while rejecting reports of a new Chinese occupation, drawing a distinction between legitimate local worries related to developments of the past and claims of fresh territorial encroachment."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/law-news/story/totally-uncalled-for-cji-slams-bar-council-of-indias-aborted-move-against-protesting-nalsar-students-2970987-2026-08-14",
-      "headline": "Who are they to raise issue: CJI slams Bar Council's order against NALSAR studentsA Supreme Court bench led by CJI Surya Kant took exception to BCI's now-withdrawn direction to state bar councils to indefinitely refrain from enrolling graduates of the NALSAR 2026 batch."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/how-are-pilots-in-india-tested-for-drugs-science-behind-dope-tests-air-india-delhi-phuket-flight-2971116-2026-08-14",
-      "headline": "How are pilots in India tested for drugs? Science behind dope testsThe Air India Phuket-Delhi incident has drawn attention to how pilots in India are tested for drugs and alcohol. The case underlines why regulators enforce random checks and a zero-tolerance safety regime."
+      "url": "https://www.indiatoday.in/india/story/west-bengal-netaji-subhas-cm-suvendu-adhikari-samik-bhattacharya-mamata-banerjee-forward-bloc-party-2970222-2026-08-14",
+      "headline": "Netaji Subhas Bose is beyond politics and Bengal BJP has shot itself in the footThe BJP has spent decades attacking the Congress and the Trinamool Congress for not celebrating the legacy of Netaji Shubas Chandra Bose enough. Now, the Bengal BJP has come under attack for anti-Netaji remarks and actions. West Bengal CM Suvendu Adhikari was forced to firefight, and an MP's award has been withdrawn."
     },
     {
       "sentiment": "negative",
@@ -310,17 +290,47 @@
       "headline": "FIR filed against Karnataka BJP MLA's daughter for allegedly assaulting woman copA woman police sub-inspector alleged she was assaulted and threatened by the daughter of a BJP MLA during a dispute over temple darshan in Karnataka's Mandya district. Police registered an FIR against the accused, while a counter-complaint has also been filed."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/wont-allow-punjabs-peace-to-be-disturbed-sukhbir-badals-1st-reaction-after-kirpan-attack-by-nihang-2971110-2026-08-14",
-      "headline": "Won't let Punjab's peace be disturbed: Sukhbir Badal after Nihang's Kirpan attackShiromani Akali Dal chief Sukhbir Badal said he would not allow anyone to disturb peace in Punjab, asserting that the SAD would not bow down to such attempts."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/trending-news/story/indigo-passenger-angry-outburst-at-staff-after-flight-cancellation-sparks-backlash-2970912-2026-08-14",
+      "headline": "IndiGo passenger climbs luggage belt, lashes out at staff after flight cancellationA woman passenger at Bhubaneswar Airport lost her cool after her IndiGo flight was cancelled and was seen screaming at ground staff as they tried to handle the situation."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/balochistan-home-minister-convoy-attack-langove-escapes-three-police-injured-mastung-2971324-2026-08-14",
+      "headline": "Returning from Pak I-Day event, Balochistan minister's convoy attacked, 3 cops shotUnidentified gunmen attacked Balochistan Home Minister Mir Ziaullah Langove's convoy in Mastung as he returned from an Independence Day event in Kalat. Six people, including three police personnel, were injured in the attack, while the minister escaped."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/technology/news/story/i-got-3-h1b-visa-rejections-indian-man-struggled-to-stay-in-us-spent-rs-12-lakh-for-o1-visa-2971262-2026-08-14",
+      "headline": "Indian man gets 3 H-1B visa rejections, spends Rs 12 lakh to get O-1 visaAn Indian data analytics professional faced three H-1B lottery rejections before turning to the O-1 visa, spending nearly Rs 12 lakh to keep his US career alive. His struggle comes as layoffs, tighter immigration rules and changing tech hiring trends push more Indian H-1B workers to reconsider their future in America."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/pune-gujarat-chennai-ugly-sister-cities-us-trade-report-india-2971022-2026-08-14",
       "headline": "Why US called Pune, Gujarat and Chennai 'ugly sister cities' in China trade reportThe White House's 'Great Transshipment Scam' report pairs India's Pune-Gujarat-Chennai manufacturing belt with Cincinnati-Dayton-Columbus in the US, as Washington steps up its crackdown on Chinese goods allegedly routed through third countries to avoid tariffs."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/history-of-it/story/15-august-independence-day-astrologers-rejected-mountbatten-jawaharlal-nehru-freedom-at-midnight-2970502-2026-08-14",
+      "headline": "August 15, 1947, inauspicious said astrologers. Nehru found a solutionLord Mountbatten, the last British Viceroy to India, fixed August 15 for the transfer of power to Indians, but seers objected to the date as inauspicious. Jawaharlal Nehru, the to-be first Indian Prime Minister, found a middle path. And that's why India got freedom at midnight."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/trending-news/story/indira-gandhi-nancy-reagan-1982-white-house-dinner-colour-clash-rahul-gandhi-2971239-2026-08-14",
+      "headline": "Same-same, but different? Indira Gandhi, Nancy Reagan and the 1982 colour clashOne White House dinner, two of the world's most powerful women and a colour coincidence that Rahul Gandhi remembers 44 years later. Here's why..."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-tour-of-sri-lanka-kuldeep-yadav-test-career-revival-2971343-2026-08-14",
+      "headline": "Odd man out: Will Sri Lanka tour set the tone for Kuldeep Yadav in Tests? Kuldeep Yadav has played only 18 Tests since making his debut in 2017, spending much of his career in and out of India's XI. With Ravichandran Ashwin retired and Ravindra Jadeja already in the twilight of his career, could Sri Lanka finally be the series where India give Kuldeep the continuity he has long been denied?"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-sri-lanka-600th-test-preview-predicted-xi-galle-weather-2971299-2026-08-14",
+      "headline": "SL vs IND: India's 600th Test offers chance to revive WTC campaign Sri Lanka vs India, 1st Test preview: India's 600th Test comes at a crucial juncture in their WTC campaign. After a difficult run at home, Shubman Gill's side have little room for another slip-up, with nine Tests left and a third straight WTC final still in sight."
+    },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/cricket/story/abishek-porel-rape-case-bail-denied-judicial-custody-delhi-capitals-2971245-2026-08-14",
@@ -369,12 +379,12 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/manchester-united-signings-michael-carrick-wants-more-additions-premier-league-2971016-2026-08-14",
-      "headline": "We need to improve: Michael Carrick calls for more Manchester United signings Michael Carrick believes Manchester United can challenge for the Premier League title but wants further reinforcements. The United boss has made it clear that strengthening the squad remains a priority before the new season."
+      "headline": "We need to improve: Michael Carrick calls for more Manchester United signingsMichael Carrick believes Manchester United can challenge for the Premier League title but wants further reinforcements. The United boss has made it clear that strengthening the squad remains a priority before the new season."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/hockey/story/hockey-world-cup-indian-mens-team-paddy-upton-camp-2970716-2026-08-14",
-      "headline": "Arrive as champions: How India prepared for Hockey World Cup under Paddy Upton Paddy Upton has detailed how India's men's hockey team prepared for the World Cup through a Swiss Alps camp and round-the-clock mental conditioning. His message is blunt: arrive as champions, but remember knockout sport still bends to luck."
+      "headline": "Arrive as champions: How India prepared for Hockey World Cup under Paddy UptonPaddy Upton has detailed how India's men's hockey team prepared for the World Cup through a Swiss Alps camp and round-the-clock mental conditioning. His message is blunt: arrive as champions, but remember knockout sport still bends to luck."
     },
     {
       "sentiment": "positive",
@@ -465,16 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/other-sports/story/india-win-first-commonwealth-fencing-championship-title-35-medals-lagos-2970511-2026-08-13",
       "headline": "Historic moment for India, wins Commonwealth Fencing Championship for 1st timeIndia sealed the overall title at the Commonwealth Fencing Championship in Lagos with a 35-medal haul. The Wilkinson Sword Trophy confirms a breakthrough that could reshape the sport's ambitions in India."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/video/sri-lanka-vs-india-first-test-kl-rahul-morne-morkel-press-conference-galle-2970461-2026-08-13",
-      "headline": "India ready to tap into KL Rahul's experience to tackle Sri Lanka conditionsIndia's bowling coach Morne Morkel has said that the team is ready to tap into the knowledge of KL Rahul to succeed in the Test series in Sri Lanka. Rahul is the last surviving member from the Indian squad that last visited the island nation back in 2018."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/harbhajan-singh-defends-gautam-gambhir-bitter-truth-critics-2970444-2026-08-13",
-      "headline": "Not many can digest bitter truth: Harbhajan hits back at Gautam Gambhir criticsHarbhajan Singh has defended Gautam Gambhir amid criticism of the India head coach, saying Gambhir speaks the \"bitter truth\" that many people struggle to digest and believes his blunt style is often misunderstood"
     }
   ],
   "education": [
@@ -567,11 +567,6 @@
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/magazine/education/story/20220926-education-kota-factory-season-2-2000662-2022-09-16",
       "headline": "Coaching | Kota factory, season 2While online ed-tech companies eye the brick-and-mortar world of coaching centres in the city, traditional institutes are extending their digital arms to remain on top of the game"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/magazine/education/story/20220711-india-today-education-conclave-2022-all-bets-on-edutech-1968836-2022-07-01",
-      "headline": "India Today Education Conclave 2022: All bets on edutechThe India Today Education Conclave 2022 touched on topics like early childhood care, universal education, the NEP and India\u2019s edutech boom"
     },
     {
       "sentiment": "positive",
