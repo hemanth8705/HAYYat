@@ -1,6 +1,16 @@
 {
   "business": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/market/story/market-opening-bell-sensex-opens-279-points-lower-nifty-below-24400-tata-steel-down-1-2970925-2026-08-14",
+      "headline": "Sensex, Nifty open lower as Middle East tensions keep investors cautiousThe BSE Sensex opened at 77,903.43 and was down 335.73 points, or 0.43%, at 77,744.23 as of 9:28 am. The NSE Nifty 50 opened at 24,361.90 and was down 86.30 points, or 0.35%, at 24,309.55."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/tata-sons-chairman-succession-srtt-restrictions-n-chandrasekaran-replacement-legal-help-2970891-2026-08-14",
+      "headline": "Tata Sons chairman hunt hits a roadblock. Why Tata Trusts may go to courtTata Trusts has begun the process to find N Chandrasekaran's successor at Tata Sons, even as Sir Ratan Tata Trust remains barred from key decisions. The restriction could affect AGM nominations, committee formation and the timing of the leadership transition."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/us-accuses-india-and-40-countries-of-helping-china-evade-tariffs-via-transshipment-ptag-2970777-2026-08-13",
       "headline": "US puts India on watchlist over 'shadow trade' network helping China evade tariffsAccording to top US trade adviser Peter Navarro, the countries in what he called China's Shadow Transshipment Network included more than 40 of America's biggest trading partners, from Mexico and Canada to the European Union, India, Japan and South Korea."
@@ -48,7 +58,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/cab-apps-pre-ride-tip-prompts-banned-centre-2025-aggregator-guidelines-2970002-2026-08-13",
-      "headline": "Govt directs Uber, Ola and other cab aggregators to stop asking for pre-ride tipsPassengers can still tip drivers after rides, but apps cannot suggest paying extra could improve ride acceptance, confirmation speed or service quality before the ride is accepted by a driver."
+      "headline": "Govt directs Uber, Ola and other cab aggregators to stop asking for pre-ride tipsPassengers can still tip drivers after their rides. However, apps cannot suggest paying extra could better ride acceptance, confirmation speed or service quality before the ride is accepted by a driver."
     },
     {
       "sentiment": "positive",
@@ -89,19 +99,34 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/ambani-family-tops-indias-most-valuable-family-businesses-list-2969279-2026-08-12",
       "headline": "India's top family businesses worth more than Saudi Arabia's GDP; Ambanis leadThe Ambani family retained the top spot, with its business empire valued at Rs 25.8 lakh crore, according to the 2025 Barclays Private Clients Hurun India Most Valuable Family Businesses List."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/sensex-nifty-end-lower-as-oil-prices-surge-and-tata-stocks-drag-markets-2969460-2026-08-12",
-      "headline": "Sensex, Nifty end lower as Tata stocks drag markets after Chandrasekaran exitThe BSE Sensex fell 187.90 points, or 0.24%, to close at 77,966.35, while the NSE Nifty 50 declined 35.75 points, or 0.15%, to end at 24,435.95."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/why-nearly-rs-1-lakh-crore-in-bank-deposits-remains-unclaimed-2969311-2026-08-12",
-      "headline": "Why nearly Rs 1 lakh crore in bank deposits remains unclaimedWith nearly Rs 1 lakh crore already transferred to the DEA Fund, the scale of unclaimed deposits shows that keeping financial records updated and making family members aware of them can help prevent money from being forgotten."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/yash-says-he-took-care-of-pregnant-kiara-like-a-bodyguard-during-toxic-shoot-2970927-2026-08-14",
+      "headline": "Yash says he took care of pregnant Kiara 'like a bodyguard' during Toxic shoot At the Mumbai audio launch for Toxic: A Fairytale for Grown-Ups, actor Yash shared that he and director Geetu Mohandas guarded Kiara Advani like bodyguards throughout the schedule. His remarks highlighted Kiara's dedication to the demanding gangster film as she shot through her pregnancy."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/before-she-turned-men-into-pigs-the-fascinating-story-of-circe-2970901-2026-08-14",
+      "headline": "Before she turned men into pigs: The fascinating story of Circe Samantha Morton's Circe restores Odysseus' crew in one of The Odyssey's most discussed scenes. The moment has pushed audiences back to the myths and retellings that give Circe a fuller past."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/the-traitors-2-rhea-chakraborty-wants-to-be-innocent-after-years-of-suspicion-2970889-2026-08-14",
+      "headline": "The Traitors 2: Rhea Chakraborty wants to be innocent after years of suspicion On The Traitors 2, actor Rhea Chakraborty said she wants to be an innocent after years under suspicion. Her remarks brought renewed focus on the scrutiny she faced after actor Sushant Singh Rajput's death and being cleared in the case."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/lokesh-kanagaraj-dc-debut-redemption-after-coolie-backlash-2970389-2026-08-14",
+      "headline": "Lokesh Kanagaraj was a meme fodder for an entire year. And then DC happened Lokesh Kanagaraj has returned to the spotlight with his acting debut as Devadas in Arun Matheswaran's DC. The film's response has shifted the conversation from the Coolie backlash and memes back to his work."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/television/story/anup-soni-breaks-silence-as-ajay-devgn-takes-over-crime-patrol-as-new-host-2970854-2026-08-14",
+      "headline": "Anup Soni breaks silence as Ajay Devgn takes over Crime Patrol as new host Actor Anup Soni has reacted after Ajay Devgn was announced as the new host of Crime Patrol 2026. His comments have refocused attention on the show's long association with him as it enters a new phase."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/yash-served-tea-for-rs-50-a-day-today-hes-the-king-of-rs-4000-crore-blockbusters-ramayana-toxic-2970295-2026-08-14",
@@ -110,7 +135,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/batwara-1947-vs-awarapan-2-release-and-review-live-sunny-emraan-face-friday-test-2970856-2026-08-14",
-      "headline": "Live: Sunny Deol, Emraan Hashmi face Friday test Sunny Deol's patriotic drama Batwara 1947 locks horns with Emraan Hashmi's romantic action thriller Awarapan 2 at the box office. Track live updates, public reactions, early reviews, and box office collections right here."
+      "headline": "Live: Emraan Hashmi film called 'high-voltage winner' Sunny Deol's patriotic drama Batwara 1947 locks horns with Emraan Hashmi's romantic action thriller Awarapan 2 at the box office. Track live updates, public reactions, early reviews, and box office collections right here."
     },
     {
       "sentiment": "positive",
@@ -118,7 +143,7 @@
       "headline": "When Shabana stood up for Kangana after slap attack, said 'no love lost...' Kangana Ranaut and Shabana Azmi have rarely seen eye to eye. But when Kangana was slapped at an airport, Shabana refused to celebrate the attack. Now, Kangana's latest 'Shabana Azmi-type' jibe brings that unlikely moment back into focus."
     },
     {
-      "sentiment": "negative",
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/yashs-toxic-gets-a-certificate-from-censor-board-plot-details-revealed-2970852-2026-08-14",
       "headline": "Yash's Toxic gets 'A' certificate from censor board; plot details revealed Actor Yash's Toxic: A Fairy Tale for Grown-Ups has received an A certificate ahead of its theatrical release. The film, directed by Geetu Mohandas, has been written and shot in Kannada and English."
     },
@@ -171,38 +196,18 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/kangana-ranaut-calls-jantar-mantar-protesters-shabana-azmi-type-people-2970405-2026-08-13",
       "headline": "Kangana says Jantar Mantar protest had more 'Shabana Azmi-type people' than Gen Z BJP MP Kangana Ranaut has once again defended her \"Generation Gutter\" remark, pointing to the presence of \"Shabana Azmi-type people\" at the Jantar Mantar protest. She questioned how it could be described as a Gen-Z protest."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/awarapan-2-vs-batwara-1947-box-office-will-emraan-hashmi-romance-take-over-sunny-deol-patriotism-this-independence-day-2970184-2026-08-13",
-      "headline": "Awarapan 2 vs Batwara 1947 box office: Will romance take over patriotism this I-Day? Emraan Hashmi's Awarapan 2 may be sprinting ahead in advance bookings, but Batwara 1947 is banking on star power and word-of-mouth momentum. Will the head-start hold, or is an Independence Day twist in store?"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/independence-day-weekend-ott-releases-reacher-season-4-mourinho-cocktail-2-bharat-bhhagya-viddhaata-operation-sindoor-2970307-2026-08-13",
-      "headline": "Independence Day OTT watchlist: What to watch on Netflix, Prime and more Independence Day weekend has one big problem: too much to watch, too little time. From fresh releases to shows and films that dropped earlier this week, OTT platforms have packed the long weekend with binge-worthy options."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/shakila-neck-surgery-phone-addiction-rs-3-lakh-warning-parents-adult-star-2970325-2026-08-13",
-      "headline": "This South actor's phone habit got so bad, she underwent a Rs 3 lakh neck surgery South Indian actor said prolonged phone use and poor posture led to neck surgery in Chennai. She used her recovery vlog to warn parents and children about screen time."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/dhurandhar-actor-suvinder-vicky-says-aditya-dhar-knew-cuss-words-wont-be-beeped-2970271-2026-08-13",
-      "headline": "Dhurandhar actor Suvinder Vicky says Aditya Dhar knew cuss words won't be beeped Suvinder Vicky said Aditya Dhar was certain his abusive Dhurandhar lines would not be cut. He added that the director still drew a line at language that could hurt sentiments."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/you-are-telling-a-lie-prakash-raj-questions-election-commision-over-voter-id-2970214-2026-08-13",
-      "headline": "You are telling a lie: Prakash Raj questions Election Commision over voter ID Actor Prakash Raj has challenged the Election Commission's claim that he must re-register his voter ID after his status was marked as shifted. The exchange has sharpened questions over voter roll verification and the treatment of ordinary citizens."
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/15-trapped-after-tunnel-collapses-in-uttarakhands-chamoli-10-rescued-so-far-2970613-2026-08-13",
-      "headline": "7 killed, 14 injured after tunnel collapse in Uttarakhand's Chamoli; 1 trappedA tunnel under construction at the THDC project in Uttarakhand's Chamoli district collapsed, trapping several workers after debris and water entered the site."
+      "url": "https://www.indiatoday.in/india/tamil-nadu/story/lok-sabha-delimitation-vijay-asks-modi-to-retain-543-seats-current-state-quota-ptag-2970694-2026-08-14",
+      "headline": "Retain 543 seats, ensure 33% women's quota: Tamil Nadu CM Vijay's request to PMTamil Nadu Chief Minister C Joseph Vijay has urged Prime Minister Narendra Modi to amend the Constitution and keep the Lok Sabha at 543 seats. The move seeks to shield southern states from post-Census seat losses and secure 33 per cent reservation for women."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/bar-council-chief-manan-mishra-on-cjp-nalsar-graduates-bci-withdraws-advocate-enrolment-bar-chief-justice-abhijeet-dipk-2970913-2026-08-14",
+      "headline": "No conflict, our interests same: Bar Council chief to CJP amid NALSAR order rowManan Mishra said the Bar Council and CJP shared the same goal of protecting students, and rejected allegations raised by Abhijeet Dipke and other CJP leaders."
     },
     {
       "sentiment": "positive",
@@ -211,13 +216,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/law-news/story/no-nalsar-2026-student-will-be-advocate-top-legal-body-after-row-over-convocation-invite-to-cji-surya-kant-2970573-2026-08-13",
-      "headline": "CJI invite row: Bar Council warns no NALSAR student will be lawyer, makes U-turnThe BCI said all students from the graduating batch can now enrol with State Bar Councils, while it awaits an inquiry report from NALSAR's Vice-Chancellor. The council also claimed that a \"handful of teachers and outsiders\" had instigated the students."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/rahul-gandhi-hugs-sandeep-dikshit-takes-meloni-swipe-at-modi-2970636-2026-08-13",
-      "headline": "Rahul hugs Congress leader, calls it PM's foreign policy. Then Meloni jibe followsA row erupted after Congress MP Rahul Gandhi hugged party leader Sandeep Dikshit at an event and mocked Prime Minister Narendra Modi's hugs with foreign leaders, including Italian PM Giorgia Meloni. The Congress defended Rahul Gandhi, saying he did not mention Meloni's name, while the BJP called the incident deplorable."
+      "url": "https://www.indiatoday.in/business/story/tata-sons-chairman-succession-srtt-restrictions-n-chandrasekaran-replacement-legal-help-2970891-2026-08-14",
+      "headline": "Tata Sons chairman hunt hits a roadblock. Why Tata Trusts may go to courtTata Trusts has begun the process to find N Chandrasekaran's successor at Tata Sons, even as Sir Ratan Tata Trust remains barred from key decisions. The restriction could affect AGM nominations, committee formation and the timing of the leadership transition."
     },
     {
       "sentiment": "positive",
@@ -226,18 +226,18 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/15-trapped-after-tunnel-collapses-in-uttarakhands-chamoli-10-rescued-so-far-2970613-2026-08-13",
+      "headline": "7 killed, 14 injured in Chamoli tunnel collapse, rescuers launch underwater opsSeven workers were killed and 14 injured after debris and water flooded an under-construction THDC hydropower tunnel in Uttarakhand's Chamoli. One worker remains trapped, with SDRF, NDRF and other agencies continuing rescue operations."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/prashant-kishor-bankipur-bypoll-win-bihar-cm-samrat-choudhary-under-pressure-nitish-kumar-2969646-2026-08-14",
+      "headline": "Bankipur won, PK has Bihar CM Samrat in crosshairs. Alarm bells for BJP?Jan Suraaj Party founder Prashant Kishor has turned the Bankipur bypoll win into an offensive against Bihar CM Samrat Choudhary. PK has questioned the BJP leader's competence, character and leadership. Should the saffron party be worried?"
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/us-accuses-india-and-40-countries-of-helping-china-evade-tariffs-via-transshipment-ptag-2970777-2026-08-13",
       "headline": "US puts India on watchlist over 'shadow trade' network helping China evade tariffsAccording to top US trade adviser Peter Navarro, the countries in what he called China's Shadow Transshipment Network included more than 40 of America's biggest trading partners, from Mexico and Canada to the European Union, India, Japan and South Korea."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/indians-abroad/story/haryana-man-stabbed-to-death-in-germany-vishu-sharma-kurukshetra-ex-french-army-serviceman-2970760-2026-08-13",
-      "headline": "Indian, who served in French Army, killed in Germany; had promised sister Rakhi giftVishu Sharma, a 25-year-old from Kurukshetra who had served in the French Army, was stabbed to death in Frankfurt. His father, Neeraj Sharma, said the family last spoke to him on Monday."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/cab-apps-pre-ride-tip-prompts-banned-centre-2025-aggregator-guidelines-2970002-2026-08-13",
-      "headline": "Govt directs Uber, Ola and other cab aggregators to stop asking for pre-ride tipsPassengers can still tip drivers after rides, but apps cannot suggest paying extra could improve ride acceptance, confirmation speed or service quality before the ride is accepted by a driver."
     },
     {
       "sentiment": "positive",
@@ -245,24 +245,34 @@
       "headline": "I quit Swiggy, Zomato for a month and cooked my meals instead. This is what happenedAfter deleting Swiggy and Zomato for a month, the writer cooked nearly every meal at home. The experiment cut habitual ordering, reduced spending and turned meal prep into a lasting routine."
     },
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/rahul-gandhi-hugs-sandeep-dikshit-takes-meloni-swipe-at-modi-2970636-2026-08-13",
+      "headline": "Rahul hugs Congress leader, calls it PM's foreign policy. Then Meloni jibe followsA row erupted after Congress MP Rahul Gandhi hugged party leader Sandeep Dikshit at an event and mocked Prime Minister Narendra Modi's hugs with foreign leaders, including Italian PM Giorgia Meloni. The Congress defended Rahul Gandhi, saying he did not mention Meloni's name, while the BJP called the incident deplorable."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/vvs-laxman-likely-to-become-bcci-director-of-cricket-2970909-2026-08-14",
+      "headline": "VVS Laxman likely to become BCCI Director of CricketVVS Laxman could be in line for a major new role within the BCCI. The former India batter is likely to take charge as Director of Cricket, expanding his influence beyond the Centre of Excellence."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/cities/lucknow/story/lucknow-property-dispute-video-shows-son-taking-dead-fathers-thumbprint-in-bid-to-grab-land-from-sisters-2970895-2026-08-14",
+      "headline": "Man presses dead father's thumb on blank sheets in bid to grab land from sistersA video shows a man in Lucknow taking his dead father's thumbprint on blank papers during a land dispute. The footage has deepened a family property row marked by allegations of harassment and disinheritance."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/lifestyle/society/story/noida-high-rise-family-of-four-and-3-days-without-electricity-heres-my-story-2969062-2026-08-14",
+      "headline": "Noida high-rise, family of four, and 3 days without electricity: Here's my storyI always thought a power cut was an inconvenience, something you complain about for a few hours and then forget. Three days without electricity changed that perspective completely."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/batwara-1947-vs-awarapan-2-release-and-review-live-sunny-emraan-face-friday-test-2970856-2026-08-14",
-      "headline": "Live: Sunny Deol, Emraan Hashmi face Friday testSunny Deol's patriotic drama Batwara 1947 locks horns with Emraan Hashmi's romantic action thriller Awarapan 2 at the box office. Track live updates, public reactions, early reviews, and box office collections right here."
+      "headline": "Live: Emraan Hashmi film called 'high-voltage winner'Sunny Deol's patriotic drama Batwara 1947 locks horns with Emraan Hashmi's romantic action thriller Awarapan 2 at the box office. Track live updates, public reactions, early reviews, and box office collections right here."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/tamil-nadu/story/lok-sabha-delimitation-vijay-asks-modi-to-retain-543-seats-current-state-quota-ptag-2970694-2026-08-14",
-      "headline": "CM Vijay asks PM Modi to retain 543 Lok Sabha seats, ensure 33% women quotaTamil Nadu Chief Minister C Joseph Vijay has urged Prime Minister Narendra Modi to amend the Constitution and keep the Lok Sabha at 543 seats. The move seeks to shield southern states from post-Census seat losses and secure 33 per cent reservation for women."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/us-could-not-verify-israeli-warnings-of-iran-plots-against-donald-trump-report-says-2970853-2026-08-14",
-      "headline": "US could not verify Israeli warnings of Iran plots against Trump, report saysUS agencies could not independently verify several Israeli warnings about alleged Iranian plots to kill Donald Trump. The disputed intelligence still shaped White House security measures and exposed gaps between US and Israeli threat assessments."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/when-shabana-azmi-stood-up-for-kangana-ranaut-after-slap-attack-said-no-love-lost-for-her-2970509-2026-08-14",
-      "headline": "When Shabana stood up for Kangana after slap attack, said 'no love lost...'Kangana Ranaut and Shabana Azmi have rarely seen eye to eye. But when Kangana was slapped at an airport, Shabana refused to celebrate the attack. Now, Kangana's latest 'Shabana Azmi-type' jibe brings that unlikely moment back into focus."
+      "url": "https://www.indiatoday.in/trending-news/story/indigo-passenger-angry-outburst-at-staff-after-flight-cancellation-sparks-backlash-2970912-2026-08-14",
+      "headline": "IndiGo passenger climbs luggage belt, lashes out at staff after flight cancellationA woman passenger at Bhubaneswar Airport lost her cool after her IndiGo flight was cancelled and was seen screaming at ground staff as they tried to handle the situation."
     },
     {
       "sentiment": "positive",
@@ -271,28 +281,23 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/e20-petrol-nitin-gadkari-copy-paste-america-video-tehseen-poonawalla-2970430-2026-08-13",
-      "headline": "Copy-pasted from US: Tehseen Poonawalla shares Gadkari video on E20 petrolDid the government simply copy ethanol standards from the US? Activist Tehseen Poonawalla has raised the question after sharing a video of Nitin Gadkari speaking about how India framed ethanol standards."
+      "url": "https://www.indiatoday.in/movies/bollywood/story/when-shabana-azmi-stood-up-for-kangana-ranaut-after-slap-attack-said-no-love-lost-for-her-2970509-2026-08-14",
+      "headline": "When Shabana stood up for Kangana after slap attack, said 'no love lost...'Kangana Ranaut and Shabana Azmi have rarely seen eye to eye. But when Kangana was slapped at an airport, Shabana refused to celebrate the attack. Now, Kangana's latest 'Shabana Azmi-type' jibe brings that unlikely moment back into focus."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/karoline-leavitt-replacement-trump-weighs-habba-jennings-boyle-white-house-press-secretary-2970678-2026-08-13",
-      "headline": "Who could replace Karoline Leavitt? Meet frontrunners for Trump's Press SecretaryKaroline Leavitt will step down as White House Press Secretary at the end of August. Her departure has now opened the door to a crowded field of possible successors."
+      "url": "https://www.indiatoday.in/business/story/cab-apps-pre-ride-tip-prompts-banned-centre-2025-aggregator-guidelines-2970002-2026-08-13",
+      "headline": "Govt directs Uber, Ola and other cab aggregators to stop asking for pre-ride tipsPassengers can still tip drivers after their rides. However, apps cannot suggest paying extra could better ride acceptance, confirmation speed or service quality before the ride is accepted by a driver."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/nalsar-protest-cji-visit-judicial-authority-academic-autonomy-dissent-2970703-2026-08-13",
-      "headline": "NALSAR's birth: How judges and a future CJI shaped India's law school powerhouseThe row over the Chief Justice of India's proposed visit to NALSAR and the court's warning to protesting students has widened. The university, which was set up almost three decades ago, has evolved significantly over the years and is currently ranked third in the latest NIRF law rankings."
+      "url": "https://www.indiatoday.in/india/story/sonam-wangchuk-urges-political-reform-seeks-peaceful-revolution-2970849-2026-08-14",
+      "headline": "Sonam Wangchuk calls for 'second Independence movement' to reshape Indian politicsSonam Wangchuk has called for a \"peaceful revolution\" and a \"second Independence movement\" to reform how India chooses its political leaders and achieve developed-nation status by 2047."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/nagaland-minister-temjen-imna-along-shares-kyc-problem-eye-opening-video-real-struggle-humour-2970606-2026-08-13",
-      "headline": "Man's eye forced open for KYC scanning: Nagaland minister shares eye-opener clipNagaland Tourism and Higher Education Minister Temjen Imna Along shared a video showing a KYC eye scan repeatedly failing on a Naga man. The humorous post by the BJP leader highlighted, with a touch of wit, a relatable struggle faced by people from the northeastern states."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/marco-rubio-us-citizenship-not-for-sale-birth-tourism-crackdown-internet-points-to-trump-gold-card-2970839-2026-08-14",
-      "headline": "US citizenship not for sale, says Rubio. Internet points to Trump's Gold CardMarco Rubio said more than 600 visas were revoked in a month as the US intensified action against birth tourism networks. His claim that American citizenship is not for sale drew an online community note pointing to Trump's Gold Card pathway."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/cities/other-cities/video/video-speeding-car-rams-man-crossing-road-flings-him-into-air-in-up-ayodhya-2970859-2026-08-14",
+      "headline": "Video: Speeding car rams man crossing road, flings him into air in UPA speeding car hit a man in Ayodhya's Gaddopur area, leaving Jagdish Singh critically injured. The incident, which took place under the Cantt police station area, was captured on CCTV. Local residents informed the police after the car driver fled the spot, and police are searching for the driver."
     },
     {
       "sentiment": "negative",
@@ -301,26 +306,46 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/gk-current-affairs/story/kartar-singh-sarabha-bhagat-singh-ghadar-party-teen-martyr-revolt-2970504-2026-08-14",
-      "headline": "Kartar Singh Sarabha, hanged at 19, lived on in Bhagat Singh's pocketHanged at just 19, Kartar Singh Sarabha's underground revolutionary work went on to inspire Bhagat Singh, who is said to have carried Sarabha's photograph in his pocket throughout his life."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/sonam-wangchuk-urges-political-reform-seeks-peaceful-revolution-2970849-2026-08-14",
-      "headline": "Sonam Wangchuk seeks 'peaceful revolution' to reshape India's politicsSonam Wangchuk has called for a peaceful revolution in how India chooses its political leaders. He said the shift is necessary if India is to emerge as a developed nation by 2047."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/pakistan-occupied-kashmir-news-pok-protest-jaac-protest-eight-cops-abducted-election-duty-2970438-2026-08-13",
-      "headline": "8 Pakistani cops on election duty kidnapped in POK amid raging protestsPolice in Pakistan-Occupied Kashmir have accused the Joint Awami Action Committee (JAAC) of abducting eight personnel deployed for election duty, and threatening their families. The allegation comes amid escalating clashes between protesters and security forces in the illegally occupied region that has left at least 90 people dead so far."
+      "url": "https://www.indiatoday.in/world/indians-abroad/story/haryana-man-stabbed-to-death-in-germany-vishu-sharma-kurukshetra-ex-french-army-serviceman-2970760-2026-08-13",
+      "headline": "Haryana man, who had served in French Army, stabbed to death in GermanyVishu Sharma, a 25-year-old from Kurukshetra who had served in the French Army, was stabbed to death in Frankfurt. His father, Neeraj Sharma, said the family last spoke to him on Monday."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/bengaluru/story/bengaluru-draft-parking-rules-rs-25000-residential-permits-rs-80-hourly-fees-2970589-2026-08-13",
-      "headline": "Bengaluru drivers may pay up to Rs 80 an hour under new parking policiesKarnataka has notified draft parking rules for Greater Bengaluru, proposing higher residential and on-street charges. The plan aims to push motorists towards organised off-street parking while inviting public feedback before finalisation."
+      "url": "https://www.indiatoday.in/sports/cricket/story/jasprit-bumrah-workload-management-india-vs-sri-lanka-tests-aakash-chopra-2970883-2026-08-14",
+      "headline": "Preserve Bumrah like a national treasure: Ex-India cricketer on workload managementJasprit Bumrah's latest injury has revived the debate around his workload management. Aakash Chopra believes India must take every possible step to protect their pace spearhead and preserve his long-term value."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/cities/other-cities/story/deoria-tiranga-yatra-girl-students-fall-ill-due-to-heat-uttar-pradesh-2970914-2026-08-14",
+      "headline": "Over 40 girl students fall ill, faint during Tiranga Yatra in UP due to heatDoctors treating the students attributed the deterioration in their health to intense heat and sunlight. The schoolchildren complained of dizziness during the march, while some fainted after reaching the stadium where the rally concluded."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/tanzid-hasan-australia-bangladesh-first-test-century-darwin-2970931-2026-08-14",
+      "headline": "Tanzid Hasan becomes first Bangladesh batter to hit Test century in Australia Tanzid Hasan has produced a landmark century in Darwin to become the first Bangladesh batter to reach three figures in a Test in Australia. His breakthrough knock has strengthened Bangladesh's grip after a stunning bowling display."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/vvs-laxman-likely-to-become-bcci-director-of-cricket-2970909-2026-08-14",
+      "headline": "VVS Laxman likely to become BCCI Director of Cricket VVS Laxman could be in line for a major new role within the BCCI. The former India batter is likely to take charge as Director of Cricket, expanding his influence beyond the Centre of Excellence."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/cristiano-ronaldo-al-nassr-return-golden-hairstyle-1000-goals-2970885-2026-08-14",
+      "headline": "Cristiano Ronaldo returns to Al Nassr with bold new golden look Cristiano Ronaldo has returned to Al Nassr training in Riyadh with a striking copper-yellow hairstyle ahead of the new season. His comeback comes as the club readies for the Saudi Pro League opener and he resumes his chase for 1,000 career goals."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/jasprit-bumrah-workload-management-india-vs-sri-lanka-tests-aakash-chopra-2970883-2026-08-14",
+      "headline": "Preserve Bumrah like a national treasure: Ex-India cricketer on workload management Jasprit Bumrah's latest injury has revived the debate around his workload management. Aakash Chopra believes India must take every possible step to protect their pace spearhead and preserve his long-term value."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/fifa-gianni-infantino-arab-football-chiefs-support-opposition-grows-2970874-2026-08-14",
+      "headline": "Arab football chiefs back Gianni Infantino as opposition to FIFA president grows Gianni Infantino has received backing from six Arab football federations as pressure mounts over his failed World Cup investment plan. The support comes as more European federations withdraw backing for his re-election."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-bangladesh-1st-test-day-2-live-updates-pat-cummins-najmul-hossain-shanto-2970815-2026-08-13",
@@ -354,27 +379,27 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/harry-brook-ipl-return-england-batter-may-consider-tournament-in-future-2970666-2026-08-13",
-      "headline": "Harry Brook makes dramatic U-turn, opens door to playing in IPL in future England captain Harry Brook has softened his stance on franchise cricket, admitting he could consider playing in the Indian Premier League in the future after previously ruling it out."
+      "headline": "Harry Brook makes dramatic U-turn, opens door to playing in IPL in futureEngland captain Harry Brook has softened his stance on franchise cricket, admitting he could consider playing in the Indian Premier League in the future after previously ruling it out."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/sarfaraz-khan-r-ashwin-india-clarity-sri-lanka-tests-2970659-2026-08-13",
-      "headline": "Be clear with Sarfaraz: Gambhir, Agarkar get crucial message before Sri Lanka Tests Sri Lanka vs India: R Ashwin has urged India to clearly define Sarfaraz Khan's role before the Sri Lanka Tests. He also backed Dhruv Jurel to stay ahead in the queue and stressed transparent communication."
+      "headline": "Be clear with Sarfaraz: Gambhir, Agarkar get crucial message before Sri Lanka TestsSri Lanka vs India: R Ashwin has urged India to clearly define Sarfaraz Khan's role before the Sri Lanka Tests. He also backed Dhruv Jurel to stay ahead in the queue and stressed transparent communication."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/hockey/story/hockey-world-cup-savita-punia-indian-womens-team-fih-hi-2970607-2026-08-13",
-      "headline": "There is no team India cannot compete with: Savita Punia on World Cup chances Savita Punia has said India can compete with any side at the Women's Hockey World Cup. She believes the Nations Cup title and a sharper team culture have made a podium finish realistic."
+      "headline": "There is no team India cannot compete with: Savita Punia on World Cup chancesSavita Punia has said India can compete with any side at the Women's Hockey World Cup. She believes the Nations Cup title and a sharper team culture have made a podium finish realistic."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/womens-t20-asia-cup-sri-lanka-recall-mithali-ayodhya-title-defence-2970595-2026-08-13",
-      "headline": "Sri Lanka recall 'Lady Malinga' for Women's Asia Cup title defence Sri Lanka have recalled 19-year-old Mithali Ayodhya for their Women's T20 Asia Cup title defence after her impressive T20 World Cup campaign. The defending champions have also handed leg-spinner Dewmi Vihanga a maiden T20I call-up as they begin their campaign against the UAE on August 29."
+      "headline": "Sri Lanka recall 'Lady Malinga' for Women's Asia Cup title defenceSri Lanka have recalled 19-year-old Mithali Ayodhya for their Women's T20 Asia Cup title defence after her impressive T20 World Cup campaign. The defending champions have also handed leg-spinner Dewmi Vihanga a maiden T20I call-up as they begin their campaign against the UAE on August 29."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/hasan-mahmud-vs-australia-bangladesh-pacer-darwin-test-2970507-2026-08-13",
-      "headline": "Hasan Mahmud: How Bangladesh's mini-McGrath quietly became a tough nut AUS vs BAN: Hasan Mahmud has quietly evolved into one of Bangladesh's most reliable Test quicks, with county cricket helping sharpen his red-ball skills. His career-best six-for against Australia, despite the absence of Nahid Rana and Shoriful Islam, showed both his growth and Bangladesh's improving pace depth."
+      "headline": "Hasan Mahmud: How Bangladesh's mini-McGrath quietly became a tough nutAUS vs BAN: Hasan Mahmud has quietly evolved into one of Bangladesh's most reliable Test quicks, with county cricket helping sharpen his red-ball skills. His career-best six-for against Australia, despite the absence of Nahid Rana and Shoriful Islam, showed both his growth and Bangladesh's improving pace depth."
     },
     {
       "sentiment": "positive",
@@ -450,31 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/lionel-messi-father-jorge-death-return-inter-miami-hug-leagues-cup-2969999-2026-08-13",
       "headline": "Messi gets impromptu hug from rival on emotional return after his father's deathInter Miami's Lionel Messi returned to the pitch just 4 days after his father's death. Playing with a heavy heart, Messi got a big and impromptu hug from his opponent, Club Leon player, Jhohan Romana."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/athletics/story/ashish-yadav-milkman-son-mirzapur-india-javelin-legacy-world-u20-silver-2969668-2026-08-13",
-      "headline": "Ashish Yadav: The milkman's son from Mirzapur carrying India's javelin legacy forwardAshish Yadav went from dreaming of a job as the son of a milkman in Mirzapur to winning World U20 javelin silver. Now, the 19-year-old is determined to carry India's javelin legacy forward on his own terms."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/hockey/story/hockey-world-cup-2026-india-men-women-groups-schedule-new-format-livestreaming-details-2969815-2026-08-13",
-      "headline": "Hockey World Cup: India's schedule, livestreaming details and moreIndia's men and women head into the 2026 Hockey World Cup chasing a breakthrough that has eluded them for decades. A new format, hard pools and old scars will test whether this campaign can finally alter that history."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/sl-vs-ind-spin-troubles-jayasuriya-mendis-india-sri-lanka-tests-2969975-2026-08-13",
-      "headline": "The turning point: Can India silence Sri Lanka's spin threat in Test series?SL vs IND: India face another stern examination against spin in their upcoming Test series as Sri Lanka's Prabath Jayasuriya and Ramesh Mendis prepare to exploit conditions in Galle and Colombo."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/psg-vs-aston-villa-uefa-super-cup-result-2969946-2026-08-13",
-      "headline": "2 Champions Leagues, 2 Super Cups: PSG juggernaut continues in world footballPSG continued their remarkable run under Luis Enrique as they beat Aston Villa 2-1 to retain the UEFA Super Cup. Khvicha Kvaratskhelia and Desire Doue scored as the Champions League holders added another European trophy to their growing collection."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/barcelona-xavi-netherlands-head-coach-world-cup-2969933-2026-08-13",
-      "headline": "Xavi takes over Netherlands as Dutch appoint first foreign coach in 48 yearsBarcelona legend Xavi Hernandez has been appointed as the Netherlands' new head coach. Xavi replaced Ronald Koeman, who quit after the side's disappointing FIFA World Cup campaign. Xavi, who has been handed a contract through the 2030 World Cup, will bring his possession-based philosophy to a Netherlands team looking for a fresh start."
     }
   ],
   "education": [
@@ -504,7 +504,7 @@
       "headline": "Fresh plea in Supreme Court to recall NEET results, reconduct examsA fresh petition has been filed in the Supreme Court\u00a0to recall the National Entrance cum Eligibility Test - Under Graduate (NEET-UG) 2024 results and re-conduct fresh examination after\u00a0discrepancies in the declared results.\r\n\r\n"
     },
     {
-      "sentiment": "negative",
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/education/story/nta-issues-clarification-after-neet-2024-controversy-cheating-in-exam-high-cut-off-2550063-2024-06-07",
       "headline": "NTA issues clarification after NEET result controversy over toppers, high cut-offIn a detailed statement, the National Testing Agency (NTA) said that the increase in cut-off and number of toppers in the NEET-UG reflect the competitive nature of the exam and maintained that the test's integrity has not been compromised."
     },
