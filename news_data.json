@@ -104,6 +104,16 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/inside-bollywood-paparazzi-economy-who-calls-them-how-they-earn-and-what-celebs-hide-2971857-2026-08-15",
+      "headline": "Inside Bollywood's pap economy: Who calls them, how they earn and what celebs hide India Today Digital spoke with Mumbai paparazzi to unpack how Bollywood sightings are planned, chased and sold. Their accounts reveal a business shaped by PR access, platform pressures and shifting celebrity boundaries."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/vishwanath-and-sons-box-office-collection-day-1-suriya-film-earns-rs-27-51-crore-worldwide-2971841-2026-08-15",
+      "headline": "Vishwanath and Sons box office Day 1: Suriya's film gets off to a flying start Actors Suriya and Mamitha Baiju's Vishwanath and Sons opened to Rs 27.51 crore worldwide on Day 1. The family drama drew solid occupancy in Tamil and Telugu markets, with night shows leading turnout."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/hollywood/story/avengers-doomsday-trailer-robert-downey-jrs-doctor-doom-rules-as-top-villain-2971790-2026-08-15",
       "headline": "Avengers Doomsday trailer: Robert Downey Jr's Doctor Doom rules as top villain The latest Avengers: Doomsday trailer puts Doctor Doom at the heart of the conflict, revealing his break with The Fantastic Four, his terrifying power over Thor and his connection to the X-Men through the Sentinels."
     },
@@ -186,29 +196,9 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/operation-sindoor-ajit-doval-says-strikes-targeted-pahalgam-attack-camps-2971203-2026-08-14",
       "headline": "Don't mistake India's tolerance for weakness: Ajit Doval on Operation Sindoor NSA Ajit Doval, in his first interview since Operation Sindoor, reveals India's objective behind the strikes and warns that India's tolerance should never be mistaken for weakness."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/exclusive-the-shards-producers-on-adapting-bret-easton-ellis-ryan-murphy-india-2971088-2026-08-14",
-      "headline": "Exclusive: The Shards producers on adapting Bret Easton Ellis, Ryan Murphy, India Executive producers Nina Jacobson and Brad Simpson discussed adapting Bret Easton Ellis' The Shards with Ryan Murphy. They said preserving the novel's voice and pursuing globally rooted stories, including in India, remain central ambitions."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/vishwanath-and-sons-review-trauma-healing-and-a-whole-lot-of-charm-in-suriyas-film-2971098-2026-08-14",
-      "headline": "Vishwanath and Sons review: Trauma, healing and a whole lot of charm in Suriya's filmRelease Date:Fri Aug 14, 2026 Vishwanath and Sons movie review: Director Venky Atluri's Vishwanath and Sons, starring Suriya and Mamitha Baiju, is a feel-good family drama that talks about childhood trauma, healing and what companionship mean."
     }
   ],
   "general news": [
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/independence-day-red-fort-pm-modi-speech-gen-z-youth-saptdhara-dimaagi-naxal-2971740-2026-08-15",
-      "headline": "Gen Z outreach, Saptdhara roadmap, 'dimaagi' Naxal: PM's big I-Day messageFrom reaching out to the youth after the massive protests to unveiling a seven-point reform framework, PM Modi used his Independence Day address from the Red Fort to highlight both the opportunities and challenges facing India."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/pm-modi-independence-day-speech-india-fragile-five-meaning-explained-2971704-2026-08-15",
-      "headline": "PM Modi invokes 'Fragile Five' in Independence Day speech. Who were they?Prime Minister Narendra Modi, speaking from the Red Fort on Independence Day, said India was once counted among the world's 'Fragile Five' economies. What's the story behind the controversial label?"
-    },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/rahul-gandhi-mallikarjun-kharge-skip-red-fort-independence-day-event-again-2971751-2026-08-15",
@@ -216,8 +206,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/77-magnitude-earthquake-hits-indonesia-early-tsunami-warning-issued-2971657-2026-08-15",
-      "headline": "20 killed as strong 7.7-magnitude quake hits Indonesia, tsunami waves hit coastA powerful 7.7-magnitude earthquake struck off Indonesia early Saturday, triggering a tsunami warning that was eventually withdrawn. The quake occurred at a depth of 15 km and was followed by several aftershocks."
+      "url": "https://www.indiatoday.in/india/story/independence-day-red-fort-pm-modi-speech-gen-z-youth-saptdhara-dimaagi-naxal-2971740-2026-08-15",
+      "headline": "Gen Z outreach, Saptdhara roadmap, 'dimaagi' Naxal: PM's big I-Day messageFrom reaching out to the youth after the massive protests to unveiling a seven-point reform framework, PM Modi used his Independence Day address from the Red Fort to highlight both the opportunities and challenges facing India."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/tamil-nadu/story/tamil-nadu-cm-vijay-independence-day-speech-end-caste-and-religious-barriers-real-freedom-2971811-2026-08-15",
+      "headline": "In first I-Day speech, CM Vijay warns plots against TVK govt will be foiledIn his first Independence Day address as Tamil Nadu Chief Minister, Vijay issued a veiled warning to rival political forces, saying \"conspiracies\" against his government would be thwarted."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/pm-modi-independence-day-speech-india-fragile-five-meaning-explained-2971704-2026-08-15",
+      "headline": "PM Modi invokes 'Fragile Five' in Independence Day speech. Who were they?Prime Minister Narendra Modi, speaking from the Red Fort on Independence Day, said India was once counted among the world's 'Fragile Five' economies. What's the story behind the controversial label?"
     },
     {
       "sentiment": "positive",
@@ -227,7 +227,12 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-sri-lanka-1st-test-day-1-live-score-updates-galle-shubman-gill-rishabh-pant-2971721-2026-08-15",
-      "headline": "IND vs SL Live: Devdutt and Rahul solid as India 101/1 at lunch in GalleIndia (IND) vs Sri Lanka (SL) live score, 1st Test Day 1: India (101/1 in 27 overs) at lunch. It's lunch on Day 1. Devdutt Padikkal and KL Rahul remain unbeaten after adding 54 runs together. After Yashasvi Jaiswal was run-out, Devdutt has looked solid. Meanwhile, the ground staff in Galle have brought on the covers. It's not raining yet, but it's getting dark."
+      "headline": "IND vs SL Live: IND (101/1) at lunch. Rain relents, covers being removedIndia (IND) vs Sri Lanka (SL) live score, 1st Test Day 1: India (101/1 in 27 overs) at lunch. It's lunch on Day 1. Devdutt Padikkal and KL Rahul remain unbeaten after adding 54 runs together. After Yashasvi Jaiswal was run-out, Devdutt has looked solid. Rain has stopped for the moment. The ground staff are working towards removing the covers in Galle."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/pm-modi-dimaagi-naxal-remark-congress-jairam-ramesh-independence-day-speech-red-fort-2971838-2026-08-15",
+      "headline": "Congress hits back at PM over 'dimaagi Naxal' remark: Sure sign of desperationCongress countered PM's 'dimaagi Naxal' remark, with Jairam Ramesh calling it a sign of 'desperation' and accusing the government of vilifying political opponents."
     },
     {
       "sentiment": "positive",
@@ -236,13 +241,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/tamil-nadu/story/tamil-nadu-cm-vijay-independence-day-speech-end-caste-and-religious-barriers-real-freedom-2971811-2026-08-15",
-      "headline": "In 1st I-Day speech, CM Vijay calls for freedom from shackles of caste, religionIn his first Independence Day speech, Tamil Nadu Chief Minister Vijay called for caste and religious barriers to end. He linked that appeal to his government's anti-corruption push and a firm stand on the state's interests."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/food/story/independence-day-india-pakistan-partition-sweets-food-indian-mithai-history-2971660-2026-08-15",
-      "headline": "What Partition left in India's mithai boxesHandcrafted ByOur Editors Welcome to the tales of Partition that are served as mithais today. From refugee-camp improvisations to recipes carried across the border, scroll down and find out the Partition stories hiding inside India's sweets."
+      "url": "https://www.indiatoday.in/movies/celebrities/story/inside-bollywood-paparazzi-economy-who-calls-them-how-they-earn-and-what-celebs-hide-2971857-2026-08-15",
+      "headline": "Inside Bollywood's pap economy: Who calls them, how they earn and what celebs hideIndia Today Digital spoke with Mumbai paparazzi to unpack how Bollywood sightings are planned, chased and sold. Their accounts reveal a business shaped by PR access, platform pressures and shifting celebrity boundaries."
     },
     {
       "sentiment": "positive",
@@ -251,8 +251,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/american-airlines-flight-2482-phoenix-controller-averts-two-jets-same-flight-number-arizona-2971800-2026-08-15",
-      "headline": "Flight-number mix-up put 2 passenger jets on collision course over US airportBoth American Airlines jets were mistakenly assigned the same flight number, causing their converging flight paths to be handled under the same call sign until an alert controller intervened."
+      "url": "https://www.indiatoday.in/world/story/77-magnitude-earthquake-hits-indonesia-early-tsunami-warning-issued-2971657-2026-08-15",
+      "headline": "20 killed as strong 7.7-magnitude quake hits Indonesia, tsunami waves hit coastA powerful 7.7-magnitude earthquake struck off Indonesia early Saturday, triggering a tsunami warning that was eventually withdrawn. The quake occurred at a depth of 15 km and was followed by several aftershocks."
     },
     {
       "sentiment": "positive",
@@ -266,6 +266,11 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/us-news/story/american-airlines-flight-2482-phoenix-controller-averts-two-jets-same-flight-number-arizona-2971800-2026-08-15",
+      "headline": "Flight-number mix-up put 2 passenger jets on collision course over US airportBoth American Airlines jets were mistakenly assigned the same flight number, causing their converging flight paths to be handled under the same call sign until an alert controller intervened."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/trending-news/story/us-woman-breaks-down-in-indian-neighbours-arms-as-they-prepare-to-leave-america-2971184-2026-08-14",
       "headline": "US woman breaks down in Indian neighbours' arms as they prepare to leave AmericaAn Indian couple's American neighbour broke down in tears while hugging them goodbye as they prepared to return to India. The emotional farewell, secretly recorded by a friend, captured the deep bond the families had formed."
     },
@@ -276,18 +281,13 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/lifestyle/food/story/independence-day-india-pakistan-partition-sweets-food-indian-mithai-history-2971660-2026-08-15",
+      "headline": "What Partition left in India's mithai boxesHandcrafted ByOur Editors Welcome to the tales of Partition that are served as mithais today. From refugee-camp improvisations to recipes carried across the border, scroll down and find out the Partition stories hiding inside India's sweets."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/pune-camp-burger-king-sealed-as-fda-steps-up-food-safety-crackdown-across-maharashtra-2971466-2026-08-14",
       "headline": "Pune's iconic Camp Burger King sealed as Maharashtra FDA widens food safety driveThe FDA sealed Pune's long-running Camp Burger King and suspended its food licence after finding serious hygiene deficiencies. The move formed part of a wider Maharashtra crackdown that also flagged quick-commerce facilities and other food businesses."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/video/in-a-first-vande-mataram-played-at-red-fort-on-independence-day-2971692-2026-08-15",
-      "headline": "In a first, Vande Mataram played at Red Fort on Independence DayFor the first time since Independence, the Red Fort witnessed the rendering of the national song Vande Mataram during the 80th Independence Day celebrations."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/pakistan-envoy-raises-kashmir-issue-at-independence-day-event-in-delhi-ptag-2971454-2026-08-14",
-      "headline": "Pakistan envoy raises Kashmir issue at I-Day event in Delhi, cites UN resolutionsPakistan's envoy in India used an Independence Day event in New Delhi to raise Kashmir and highlight a new defence pact. The remarks underscored Islamabad's attempt to frame regional peace and security around long-standing disputes and alliances."
     },
     {
       "sentiment": "negative",
@@ -296,13 +296,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/jobs/story/pm-modi-rs-1-lakh-crore-innovation-fund-start-up-independence-day-2026-young-entrepreneurs-2971779-2026-08-15",
-      "headline": "Got a startup idea? PM Modi unveils Rs 1 lakh crore innovation fundFrom the Red Fort, Prime Minister Narendra Modi announced a Rs 1 lakh crore innovation fund for young entrepreneurs and startups. The speech paired immediate backing for innovation with wider plans for AI skilling, manufacturing and energy capacity."
+      "url": "https://www.indiatoday.in/sports/story/india-will-launch-nationwide-talent-hunt-for-2036-olympic-games-pm-modis-promise-in-i-day-speech-2971726-2026-08-15",
+      "headline": "PM announces nationwide talent hunt for 5-15-year-olds ahead of 2036 OlympicsPrime Minister Narendra Modi has set an ambitious Olympic target for India, calling for participation in every sport at the 2036 Games. He also announced a nationwide talent hunt to identify and develop the country's next generation of athletes."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/hockey/story/hockey-world-cup-2026-india-preview-squads-livestreaming-tv-channel-2971592-2026-08-15",
-      "headline": "Hockey World Cup: Not just breaking a jinx, India look to write a new chapterIndia's men and women enter the Hockey World Cup carrying fresh confidence and very different histories. For Harmanpreet Singh's side, it is a shot at reviving old power, while the women see a chance to define a new era."
+      "url": "https://www.indiatoday.in/information/story/red-fort-british-use-after-mughals-2971796-2026-08-15",
+      "headline": "What did the British use the Red Fort for after the Mughals?The Red Fort is now the centre of India's Independence Day celebrations, but after the Revolt of 1857, the historic monument went through a dramatic change as British forces took control of it."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/pakistan-envoy-raises-kashmir-issue-at-independence-day-event-in-delhi-ptag-2971454-2026-08-14",
+      "headline": "Pakistan envoy raises Kashmir issue at I-Day event in Delhi, cites UN resolutionsPakistan's envoy in India used an Independence Day event in New Delhi to raise Kashmir and highlight a new defence pact. The remarks underscored Islamabad's attempt to frame regional peace and security around long-standing disputes and alliances."
     },
     {
       "sentiment": "positive",
@@ -313,11 +318,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/trump-says-he-will-soon-declare-the-strait-of-hormuz-a-us-territory-2971633-2026-08-15",
       "headline": "Pretty soon, Hormuz will be US territory: Trump amid oil price surgeUS President Donald Trump said he would soon declare the Strait of Hormuz a US territory, escalating tensions with Iran. He also vowed harsh economic measures against Tehran and urged Americans to accept higher gasoline prices amid rising oil prices and global energy concerns."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/story/india-will-launch-nationwide-talent-hunt-for-2036-olympic-games-pm-modis-promise-in-i-day-speech-2971726-2026-08-15",
-      "headline": "PM announces nationwide talent hunt for 5-15-year-olds ahead of 2036 OlympicsPrime Minister Narendra Modi has set an ambitious Olympic target for India, calling for participation in every sport at the 2036 Games. He also announced a nationwide talent hunt to identify and develop the country's next generation of athletes."
     }
   ],
   "sports": [
@@ -339,7 +339,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-sri-lanka-1st-test-day-1-live-score-updates-galle-shubman-gill-rishabh-pant-2971721-2026-08-15",
-      "headline": "IND vs SL Live: Devdutt and Rahul solid as India 101/1 at lunch in Galle India (IND) vs Sri Lanka (SL) live score, 1st Test Day 1: India (101/1 in 27 overs) at lunch. It's lunch on Day 1. Devdutt Padikkal and KL Rahul remain unbeaten after adding 54 runs together. After Yashasvi Jaiswal was run-out, Devdutt has looked solid. Meanwhile, the ground staff in Galle have brought on the covers. It's not raining yet, but it's getting dark."
+      "headline": "IND vs SL Live: IND (101/1) at lunch. Rain relents, covers being removed India (IND) vs Sri Lanka (SL) live score, 1st Test Day 1: India (101/1 in 27 overs) at lunch. It's lunch on Day 1. Devdutt Padikkal and KL Rahul remain unbeaten after adding 54 runs together. After Yashasvi Jaiswal was run-out, Devdutt has looked solid. Rain has stopped for the moment. The ground staff are working towards removing the covers in Galle."
     },
     {
       "sentiment": "positive",
