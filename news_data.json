@@ -103,6 +103,11 @@
   ],
   "entertainment": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/michael-wright-dies-at-70-five-heartbeats-actor-eddie-king-jr-2977263-2026-08-22",
+      "headline": "Michael Wright, The Five Heartbeats actor, dies at 70 Michael Wright, best known as Eddie King Jr in The Five Heartbeats, has died at 70. His death marks the loss of an actor remembered for Eddie King Jr and a career across film and television."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/deepika-padukone-likes-post-defending-her-spirit-exit-and-10-profit-share-2977221-2026-08-22",
       "headline": "Deepika Padukone likes post defending her Spirit exit and 10% profit share Deepika Padukone liked an Instagram post that criticised claims around her exit from Spirit. The reaction has revived debate over profit sharing, work hours and how women actors are judged."
@@ -191,11 +196,6 @@
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/movies/celebrities/story/arjun-kapoor-viral-video-actor-questions-fan-for-recording-him-without-permission-2976618-2026-08-21",
       "headline": "Arjun Kapoor questions fan for recording him without permission, video goes viral Actor Arjun Kapoor confronted a fan after noticing he was being recorded instead of photographed. The exchange, captured on video, has since surfaced widely online."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/yashs-violent-sexual-toxic-gets-a-rating-with-no-cuts-runtime-revealed-2976616-2026-08-21",
-      "headline": "Yash's violent, sexual Toxic gets A rating with no cuts; runtime revealed Yash-starrer Toxic has received an A certificate from the CBFC with no cuts ahead of its August 26 release. The decision has sharpened debate over how violent and intimate content is being treated by censors."
     }
   ],
   "general news": [
@@ -210,49 +210,24 @@
       "headline": "Quota only for poor, repeal of SC/ST Act: What Jantar Mantar protesters wantSeveral members of unreserved classes and young people, mostly men, protested at Delhi's Jantar Mantar on Friday, opposing the caste-based reservation system and demanding the repeal of the SC/ST Act. They argued that quotas should be linked to economic status and not caste, claiming government benefits don't always reach the underprivileged and are often misused."
     },
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/law-news/story/supreme-court-art-of-living-foundation-refund-ngt-environament-protection-fee-yamuna-event-rs-5-crore-2977245-2026-08-22",
+      "headline": "SC orders refund of fine paid by Art of Living for damage to Yamuna floodplainsThe court held that there is no direct evidence that the event caused damage to the River Yamuna's fragile ecosystem. It ordered that the Rs 5 crore penalty be refunded by the Delhi Development Authority (DDA)."
+    },
+    {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/hyderabad/story/hyderabad-aston-martin-crash-sanjush-negative-preliminary-tests-fsl-report-awaited-2977163-2026-08-22",
-      "headline": "Andhra MP's son tests negative for alcohol after Aston Martin crash, avoids arrestPreliminary alcohol and drug tests on Lingamaneni Sanjush came back negative after the fatal Hyderabad crash. Police said forensic, vehicle inspection and post-mortem reports will determine any further action."
+      "url": "https://www.indiatoday.in/cities/delhi/story/delhi-software-engineer-vinay-gupta-beaten-to-death-after-wife-calls-relatives-2977157-2026-08-22",
+      "headline": "Delhi techie, 31, beaten to death by in-laws after dispute with wifeA 31-year-old Adobe software engineer, Vinay Gupta, was beaten and strangled to death by his wife Rekha and her relatives following a matrimonial dispute in Delhi's Nihal Vihar."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/flies-cockroaches-stale-food-maharashtra-fda-suspends-licences-of-several-food-outlets-2977133-2026-08-22",
-      "headline": "Flies, roaches, stale food: Tukaram Mundhe acts against McDonald's, 12 eateriesThe Maharashtra FDA has suspended food licences of several establishments, including the Bombay Presidency Radio Club and a McDonald's outlet, after inspections found serious hygiene and safety violations. The action forms part of a wider statewide enforcement drive that also hit outlets in Mumbai, Pune division and Chhatrapati Sambhajinagar."
+      "url": "https://www.indiatoday.in/opinion/story/cm-vijay-amit-shah-meeting-delimitation-cauvery-neet-tamil-nadu-delhi-tensions-2977249-2026-08-22",
+      "headline": "When Delhi Comes South: What changes after Vijay, Amit Shah meeting; nothing.Chief Minister Vijay used the Southern Zonal Council meeting with Amit Shah to press Tamil Nadu's stand on delimitation, Cauvery and NEET. The exchange underlined that a changed political cast has not altered the State's long-running federal disputes with New Delhi."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/west-bengal-bjp-tmc-extortion-tolabaji-cut-money-syndicate-samik-bhattacharya-suvendu-adhiakri-2976368-2026-08-22",
       "headline": "BJP wants to stop its Trinamoolisation in Bengal. Why it's easier said than doneThe BJP promised West Bengal's electorate a break from extortion, cut money and syndicates, which it said flourished under the Trinamool Congress. But with its own workers now facing similar allegations, the BJP's biggest challenge is ensuring it does not become what it set out to replace in Bengal."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/law-news/story/supreme-court-art-of-living-foundation-refund-ngt-environament-protection-fee-yamuna-event-rs-5-crore-2977245-2026-08-22",
-      "headline": "SC orders refund of fine paid by Art of Living for damage to Yamuna floodplainsIn a major relief to Sri Sri Ravi Shankar-led Art of Living Foundation, the Supreme Court on Saturday ordered a refund of the Rs 5 crore the spiritual organisation had paid as penalty over a controversial 2016 event which was accused of damaging Yamuna floodplains."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/my-husband-made-a-scapegoat-indian-captain-ajay-pants-wife-on-uks-russia-shadow-fleet-case-2977141-2026-08-22",
-      "headline": "My husband's a scapegoat: Wife of Indian captain arrested in UK over Russian oilBritish commandos seized the oil tanker Smyrtos in the English Channel and charged its captain, Ajay Pant. The case has raised questions over sanctions enforcement and the vulnerability of seafarers."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/muslim-law-polygamy-supreme-court-centre-response-triple-talaq-challenge-quran-shariat-2977009-2026-08-22",
-      "headline": "Polygamy to meet Triple Talaq's fate? Supreme Court to hear challenge to Muslim lawThe Supreme Court has sought the Centre's response on petitions challenging polygamy under Muslim personal law. The case revives unresolved questions on equality, religious freedom and legislative reform after the instant Triple Talaq ruling."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/who-was-yash-before-kgf-the-question-that-misses-the-bigger-story-toxic-release-2976559-2026-08-22",
-      "headline": "Who was Yash before KGF? The question that misses the bigger storyFor those wondering about Yash, long before KGF, he had spent a decade building his star power \u2013 from theatre and television to Kannada cinema. KGF didn't make the star; it simply made him impossible for the rest of India to miss."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/indigo-aircraft-grounded-in-ups-gorakhpur-after-tail-impact-while-landing-probe-ordered-sources-2977216-2026-08-22",
-      "headline": "IndiGo plane suffers tail impact while landing in UP's Gorakhpur, groundedIndiGo flight 6E 2379 suffered a tail impact while landing at Gorakhpur airport on August 19 and has been grounded for inspection."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/law-news/story/supreme-court-rasik-chandra-mondal-105-year-old-murder-convict-freed-life-term-early-release-2977191-2026-08-22",
-      "headline": "105-year-old murder convict walks free as Supreme Court orders early releaseThe Supreme Court on Friday freed 105-year-old murder convict Rasik Chandra Mondal, waiving his remaining life sentence due to his advanced age and health."
     },
     {
       "sentiment": "negative",
@@ -261,23 +236,48 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/flies-cockroaches-stale-food-maharashtra-fda-suspends-licences-of-several-food-outlets-2977133-2026-08-22",
+      "headline": "Flies, roaches, stale food: Tukaram Mundhe acts against McDonald's, 12 eateriesThe Maharashtra FDA has suspended food licences of several establishments, including the Bombay Presidency Radio Club and a McDonald's outlet, after inspections found serious hygiene and safety violations. The action forms part of a wider statewide enforcement drive that also hit outlets in Mumbai, Pune division and Chhatrapati Sambhajinagar."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/who-was-yash-before-kgf-the-question-that-misses-the-bigger-story-toxic-release-2976559-2026-08-22",
+      "headline": "Who was Yash before KGF? The question that misses the bigger storyFor those wondering about Yash, long before KGF, he had spent a decade building his star power \u2013 from theatre and television to Kannada cinema. KGF didn't make the star; it simply made him impossible for the rest of India to miss."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/cities/hyderabad/story/hyderabad-aston-martin-crash-sanjush-negative-preliminary-tests-fsl-report-awaited-2977163-2026-08-22",
+      "headline": "Andhra MP's son tests negative for alcohol after Aston Martin crash, avoids arrestPreliminary alcohol and drug tests on Lingamaneni Sanjush came back negative after the fatal Hyderabad crash. Police said forensic, vehicle inspection and post-mortem reports will determine any further action."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/technology/news/story/deepinder-goyal-says-temple-is-the-smallest-wearable-launching-by-end-of-2026-2976588-2026-08-21",
       "headline": "Deepinder Goyal says Temple is the smallest wearable, launching by end of 2026Deepinder Goyal's Temple wearable is now less than half the size of its earlier version, with limited-edition pre-orders opening soon. The brain-tracking device is expected to start shipping before the end of 2026."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/athletics/story/neeraj-chopra-lausanne-diamond-league-season-best-comeback-reaction-2977164-2026-08-22",
-      "headline": "I'm coming back: Neeraj Chopra finds his groove in LausanneNeeraj Chopra came agonisingly close to another Diamond League win in Lausanne, finishing second by just nine centimetres. His season-best 88.05m throw, however, offered timely encouragement ahead of next month's Asian Games."
+      "url": "https://www.indiatoday.in/india/story/muslim-law-polygamy-supreme-court-centre-response-triple-talaq-challenge-quran-shariat-2977009-2026-08-22",
+      "headline": "Will polygamy get banned? Supreme Court to hear challenge to Muslim lawThe Supreme Court has sought the Centre's response on petitions challenging polygamy under Muslim personal law. The case revives unresolved questions on equality, religious freedom and legislative reform after the instant Triple Talaq ruling."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/iit-madras-intelliseat-driver-fatigue-smart-seat-road-safety-science-news-2977186-2026-08-22",
+      "headline": "IIT Madras built a car seat that knows when a driver is about to fall asleep. How does it work?Scientists at IIT Madras have built the IntelliSeat, a smart driver's seat that senses fatigue from the way a person sits and warns them before a crash. Here is how the wireless seat works, the science of muscle fatigue behind it, and why it could make India's roads safer."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/law-news/story/supreme-court-rasik-chandra-mondal-105-year-old-murder-convict-freed-life-term-early-release-2977191-2026-08-22",
+      "headline": "105-year-old murder convict walks free as Supreme Court orders early releaseThe Supreme Court on Friday freed 105-year-old murder convict Rasik Chandra Mondal, waiving his remaining life sentence due to his advanced age and health."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/other-cities/story/odisha-human-sacrifice-man-beheads-villager-buries-head-in-puja-room-to-get-wife-back-balangir-2977200-2026-08-22",
-      "headline": "Man invites villager for meal, beheads him and buries head to get wife backThe matter came to light on Thursday, August 20, after the headless body of 45-year-old Santosh Kharsel, who had been missing since August 18, was recovered from a pond."
+      "url": "https://www.indiatoday.in/india/story/my-husband-made-a-scapegoat-indian-captain-ajay-pants-wife-on-uks-russia-shadow-fleet-case-2977141-2026-08-22",
+      "headline": "My husband's a scapegoat: Wife of Indian captain arrested in UK over Russian oilBritish commandos seized the oil tanker Smyrtos in the English Channel and charged its captain, Ajay Pant. The case has raised questions over sanctions enforcement and the vulnerability of seafarers."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/telangana/story/telangana-minister-jupally-krishna-rao-cleans-filthy-washroom-at-pentlavelli-tahsildar-office-2977187-2026-08-22",
-      "headline": "Video: Telangana minister sees filthy washroom, raps officials, cleans it himselfTelangana Minister Jupally Krishna Rao cleaned a filthy washroom during a surprise inspection of the Pentlavelli Tahsildar office. The visit also brought scrutiny to pending revenue files, delayed applications and official negligence."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/indigo-aircraft-grounded-in-ups-gorakhpur-after-tail-impact-while-landing-probe-ordered-sources-2977216-2026-08-22",
+      "headline": "IndiGo plane suffers tail impact while landing in UP's Gorakhpur, groundedIndiGo flight 6E 2379 suffered a tail impact while landing at Gorakhpur airport on August 19 and has been grounded for inspection."
     },
     {
       "sentiment": "positive",
@@ -291,18 +291,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/badminton/story/bwf-world-championships-gayatri-gopichand-treesa-jolly-medal-story-2976997-2026-08-21",
-      "headline": "One carried Gopichand's surname, the other a family. Together they silenced doubtersGayatri Gopichand and Treesa Jolly carried different burdens, faced questions and battled injuries. At home in Delhi, they answered their doubters in the best possible way, securing India's first women's doubles World Championships medal since 2011."
+      "url": "https://www.indiatoday.in/sports/athletics/story/neeraj-chopra-lausanne-diamond-league-season-best-comeback-reaction-2977164-2026-08-22",
+      "headline": "I'm coming back: Neeraj Chopra finds his groove in LausanneNeeraj Chopra came agonisingly close to another Diamond League win in Lausanne, finishing second by just nine centimetres. His season-best 88.05m throw, however, offered timely encouragement ahead of next month's Asian Games."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/cities/other-cities/story/odisha-human-sacrifice-man-beheads-villager-buries-head-in-puja-room-to-get-wife-back-balangir-2977200-2026-08-22",
+      "headline": "Man invites villager for meal, beheads him and buries head to get wife backThe matter came to light on Thursday, August 20, after the headless body of 45-year-old Santosh Kharsel, who had been missing since August 18, was recovered from a pond."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/mit-engineers-transform-living-bacteria-into-circuit-boards-capable-of-computing-2976655-2026-08-22",
-      "headline": "Bacteria that think? MIT engineers build living systems that computeMIT researchers engineered bacterial colonies to act like transistors and relay chemical signals through living circuits. The work points to plants and other living systems that could sense threats, process them and respond on their own."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/iit-madras-intelliseat-driver-fatigue-smart-seat-road-safety-science-news-2977186-2026-08-22",
-      "headline": "IIT Madras built a car seat that knows when a driver is about to fall asleep. How does it work?Scientists at IIT Madras have built the IntelliSeat, a smart driver's seat that senses fatigue from the way a person sits and warns them before a crash. Here is how the wireless seat works, the science of muscle fatigue behind it, and why it could make India's roads safer."
+      "url": "https://www.indiatoday.in/science/story/lunar-eclipse-august-moon-earth-shadow-93-percent-india-how-to-watch-not-total-2977251-2026-08-22",
+      "headline": "93% of the Moon will change colour: Why is it still not a total eclipse?The Moon is about to plunge into Earth's darkest shadow next week, but one small detail will keep the event from becoming total. What's the nuance behind it?"
     },
     {
       "sentiment": "positive",
@@ -310,9 +310,9 @@
       "headline": "Isro will not make any launch vehicle, all tech will go to private sectorIN-SPACe chairman Pawan Goenka said Isro is moving launch vehicle and satellite production to industry. The shift will leave the agency focused on research, scientific missions and advanced space infrastructure."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/canada-news/story/edmonton-gurdwara-stabbing-2-injured-attacker-arrested-canada-2977159-2026-08-22",
-      "headline": "2 injured in stabbing at gurdwara in Canada's Edmonton, attacker arrestedPolice said that the attack happened when prayers were underway at the Nanaksar Gurdwara. The police have neither disclosed the suspect's identity nor commented on a possible motive."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/featurephilia/story/reading-to-dogs-in-finland-how-animals-may-help-children-overcome-reading-anxiety-2976781-2026-08-22",
+      "headline": "In Finland, children read to dogs and cows. The science behind it is fascinatingIn Finland, children read aloud to trained dogs and, in some local initiatives, cows. The unusual approach aims to make reading less stressful and more enjoyable. Research suggests animals may reduce anxiety and improve motivation, although scientists say stronger evidence is still needed to prove they directly improve children's reading skills."
     },
     {
       "sentiment": "positive",
@@ -321,6 +321,21 @@
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/cristiano-ronaldo-977th-career-goal-al-nassr-vs-al-riyadh-final-season-retirement-2977255-2026-08-22",
+      "headline": "Cristiano Ronaldo kickstarts probable final season with 977th career goal Cristiano Ronaldo has begun what could be his final season with another landmark goal. The 41-year-old scored his 977th career goal for Al Nassr, leaving him just 23 short of the historic 1,000 mark."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/eng-vs-pak-michael-vaughan-fears-pakistan-england-headingley-test-defeat-2977252-2026-08-22",
+      "headline": "Never seen Pakistan so timid: Vaughan's stark verdict after Headingley rout Michael Vaughan fears for Pakistan after their innings-and-103-run defeat to England at Headingley, saying he had \"never seen them look so timid\" as the visitors suffered a heavy loss in Joe Root's return as England's Test captain."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/australia-bangladesh-mitchell-starc-alyssa-healy-interview-mackay-test-watch-2977244-2026-08-22",
+      "headline": "Starc dominates Bangladesh before wife Healy takes over with the mic AUS vs BAN: Mitchell Starc tore through Bangladesh with 6/12 before facing a rather familiar interviewer at lunch. Wife and former Australia captain Alyssa Healy grabbed the microphone for a fun exchange after his stunning spell."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/hockey/story/india-fih-womens-world-cup-semifinal-qualification-scenario-2977219-2026-08-22",
@@ -359,17 +374,17 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/hockey/story/womens-hockey-world-cup-india-vs-netherlands-report-sjoerd-marijne-amstelveen-2977070-2026-08-21",
-      "headline": "Women's Hockey World Cup: India lose 0-2 to Netherlands, semis hopes take a hit India's hopes of making it to the semi-finals of the women's Hockey World Cup took a massive hit as they lost 0-2 to the Netherlands in Amstelveen on Friday, August 21."
+      "headline": "Women's Hockey World Cup: India lose 0-2 to Netherlands, semis hopes take a hitIndia's hopes of making it to the semi-finals of the women's Hockey World Cup took a massive hit as they lost 0-2 to the Netherlands in Amstelveen on Friday, August 21."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/athletics/story/neeraj-chopra-lausanne-diamond-league-2026-live-score-javelin-throw-pathirage-2976896-2026-08-21",
-      "headline": "Lausanne Diamond League Highlights: Neeraj finishes 2nd with season-best throw Neeraj Chopra Lausanne Diamond League 2026 Highlights: A season-best throw of 88.05m has allowed Neeraj Chopra to finish second at the Lausanne Diamond League on Friday, August 22."
+      "headline": "Lausanne Diamond League Highlights: Neeraj finishes 2nd with season-best throwNeeraj Chopra Lausanne Diamond League 2026 Highlights: A season-best throw of 88.05m has allowed Neeraj Chopra to finish second at the Lausanne Diamond League on Friday, August 22."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/badminton/story/bwf-world-championships-gayatri-gopichand-treesa-jolly-medal-story-2976997-2026-08-21",
-      "headline": "One carried Gopichand's surname, the other a family. Together they silenced doubters Gayatri Gopichand and Treesa Jolly carried different burdens, faced questions and battled injuries. At home in Delhi, they answered their doubters in the best possible way, securing India's first women's doubles World Championships medal since 2011."
+      "headline": "One carried Gopichand's surname, the other a family. Together they silenced doubtersGayatri Gopichand and Treesa Jolly carried different burdens, faced questions and battled injuries. At home in Delhi, they answered their doubters in the best possible way, securing India's first women's doubles World Championships medal since 2011."
     },
     {
       "sentiment": "positive",
@@ -450,21 +465,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/badminton/story/treesa-jolly-gayatri-gopichand-badminton-world-championship-medals-confirmed-quarterfinal-victory-2976509-2026-08-21",
       "headline": "Gayatri-Treesa stun 4th seeds, assure India women's doubles medal after 15 yearsTreesa Jolly and Gayatri Gopichand ended India's 15-year wait for a women's doubles medal at the BWF World Championships, stunning fourth seeds Jia Yi Fan and Zhang Shu Xian in three games to reach the semi-finals."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/elena-rybakina-injury-cincinnati-open-retirement-world-no-1-us-open-2976480-2026-08-21",
-      "headline": "Elena Rybakina suffers horrible injury scare before US Open, misses No.1 rankingElena Rybakina's bid to become world No.1 suffered a major setback after she retired injured against Iga Swiatek in the Cincinnati quarter-finals. With the US Open just days away, Rybakina now faces a race against time to recover from her left ankle injury."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/marcus-rashford-manchester-united-future-michael-carrick-premier-league-2976372-2026-08-21",
-      "headline": "Marcus Rashford gets Carrick's backing as Man Utd future hangs in the balanceMichael Carrick has praised Marcus Rashford's fitness, attitude and return to Manchester United training, but the England forward's future at Old Trafford remains uncertain ahead of the new Premier League season."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/aus-vs-ban-2nd-test-matt-renshaw-returns-jake-weatherald-nathan-lyon-mackay-2976387-2026-08-21",
-      "headline": "AUS vs BAN: Renshaw returns as Australia resist dropping Lyon for 2nd Test in MackayAUS vs BAN 2nd Test: Matt Renshaw returns to Australia's top order for the second Test against Bangladesh in Mackay, with Nathan Lyon retaining his place as the hosts make one change to their XI after losing the opening match of the series."
     }
   ],
   "education": [
@@ -494,7 +494,7 @@
       "headline": "Fresh plea in Supreme Court to recall NEET results, reconduct examsA fresh petition has been filed in the Supreme Court\u00a0to recall the National Entrance cum Eligibility Test - Under Graduate (NEET-UG) 2024 results and re-conduct fresh examination after\u00a0discrepancies in the declared results.\r\n\r\n"
     },
     {
-      "sentiment": "negative",
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/education/story/nta-issues-clarification-after-neet-2024-controversy-cheating-in-exam-high-cut-off-2550063-2024-06-07",
       "headline": "NTA issues clarification after NEET result controversy over toppers, high cut-offIn a detailed statement, the National Testing Agency (NTA) said that the increase in cut-off and number of toppers in the NEET-UG reflect the competitive nature of the exam and maintained that the test's integrity has not been compromised."
     },
