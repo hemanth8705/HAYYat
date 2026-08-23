@@ -31,7 +31,7 @@
       "headline": "Economic regulations worse than 1991, no Manmohan Singh to bail us out: ChidambaramFormer finance minister P Chidambaram criticised India's current economic model, saying regulations were worse than in 1991 and the country lacked an economic brain like Manmohan Singh. He questioned the manufacturing push, limited FTAs and shrinking competition, while calling for stronger domestic manufacturing and a more competitive economy."
     },
     {
-      "sentiment": "positive",
+      "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/story/india-receives-rs-4895-crore-fdi-after-easing-rules-for-neighbouring-countries-2976872-2026-08-21",
       "headline": "India receives Rs 4,895 crore FDI after easing rules for neighbouring countriesThe government said the investments cover sectors such as information technology, artificial intelligence, manufacturing, pharmaceuticals, data centres and transport services."
     },
@@ -102,6 +102,11 @@
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/yashs-toxic-crosses-rs-27-crore-in-advance-bookings-4-lakh-tickets-sold-2977841-2026-08-23",
+      "headline": "Yash's Toxic crosses Rs 27 crore in advance bookings, 4 lakh tickets sold Yash's Toxic has crossed Rs 27 crore in domestic advance bookings ahead of its August 26 release. Karnataka is leading demand, with Kannada 2D driving pre-sales as trade watches for a late surge."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/yash-speech-sound-box-collapses-toxic-hyderabad-event-2-students-injured-2977807-2026-08-23",
@@ -191,11 +196,6 @@
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/movies/bollywood/story/batwara-1947-box-office-day-8-sunny-deol-film-hits-new-low-misses-rs-50-crore-mark-2977202-2026-08-22",
       "headline": "Batwara 1947 box office Day 8: Sunny Deol film hits new low, misses Rs 50-crore mark Sunny Deol's Batwara 1947 earned Rs 75 lakh nett on Day 8. The result leaves the film chasing Rs 50 crore gross worldwide in its second weekend amid competition from Awarapan 2."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/awarapan-2-box-office-collection-day-8-emraan-hashmi-film-nears-rs-170-crore-worldwide-2977184-2026-08-22",
-      "headline": "Awarapan 2 box office Day 8: Emraan Hashmi film nears Rs 170 crore worldwide Emraan Hashmi's Awarapan 2 continues its successful run at the box office, earning Rs 119 crore nett in India within eight days and nearing Rs 170 crore worldwide. The sequel to the 2007 hit has maintained steady audience interest."
     }
   ],
   "general news": [
@@ -210,9 +210,9 @@
       "headline": "Reservation not charity: Chirag Paswan amid anti-quota protest at Jantar MantarChirag Paswan said at Patna airport that reservations cannot be abolished on demand. He said it remains a constitutional tool for social justice and should be explained through dialogue."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/rahul-gandhi-attacks-narendra-modi-over-jantar-mantar-girls-protest-abusive-language-remark-cultural-shock-chhatron-ki-goonj-2977788-2026-08-23",
-      "headline": "No problem when boys abuse, cultural shock if girls do it: Rahul Gandhi slams PMAt his Chhatron Ki Goonj programme, Rahul Gandhi framed PM Modi's comment as part of a wider patriarchal and 'Manusmriti' mindset while also hearing students' concerns on exams and tribal issues."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/indians-abroad/story/indian-origin-store-owner-killed-tennessee-robbery-daughter-witness-2977831-2026-08-23",
+      "headline": "Indian-origin store owner shot dead during robbery in US, daughter watched in horrorSuresh Patel, a 62-year-old businessman from Gujarat, was shot dead during an armed robbery at his store in Jackson. His 19-year-old daughter stood beside him and watched in horror as the gunman shot his father dead. The killing triggered a manhunt for the suspect."
     },
     {
       "sentiment": "positive",
@@ -227,17 +227,17 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-sri-lanka-2nd-test-day-1-live-score-updates-colombo-shubman-gill-kuldeep-yadav-2977818-2026-08-23",
-      "headline": "IND vs SL, 2nd Test Day 1: Saransh in, Kuldeep out as India bat firstIndia (IND) vs Sri Lanka (SL) live score, 2nd Test Day 1: India have won the toss and have decided to bat first in Colombo as they look for a series win. Saransh Jain's debut was already the big selection story in Colombo. But Shubman Gill's surprise revelation that Kuldeep Yadav missed out due to an \"infection\" adds an unexpected twist to India's team news."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/andhra-pradesh/story/kakinada-nursing-college-clash-missing-phone-row-triggers-student-relocation-2977742-2026-08-22",
-      "headline": "Sticks, slippers, buckets fly as Northeast students, locals clash at Andhra collegeA missing mobile phone dispute at SK College of Nursing in Kakinada escalated into a confrontation between Northeast and local students. Officials intervened, shifted students to separate accommodation and said the situation was brought under control."
+      "headline": "2nd Test Day 1 Live: IND (37/1). KL Rahul falls despite promising start at ColomboIndia (IND) vs Sri Lanka (SL) live score, 2nd Test Day 1: IND (37/1). KL Rahul was dismissed by Lahiru Kumara despite a positive start to his innings in Colombo. Devdutt Padikkal will look to continue his rich vein of form."
     },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/tehseen-poonawalla-detained-before-jantar-mantar-protest-over-sugar-prices-e20-policy-2977512-2026-08-22",
       "headline": "Tehseen Poonawalla under house arrest before E20 protest, offers cops sugarcane juiceActivist Tehseen Poonawalla claimed he was put under house arrest by the Delhi Police as he tried to leave home for a Jantar Mantar protest against sugar prices and the E20 policy. He posted a video of the confrontation on his social media, claiming that he was being denied the right to protest over sugar and ethanol policies."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/rahul-gandhi-attacks-narendra-modi-over-jantar-mantar-girls-protest-abusive-language-remark-cultural-shock-chhatron-ki-goonj-2977788-2026-08-23",
+      "headline": "No problem when boys abuse, cultural shock if girls do it: Rahul Gandhi slams PMAt his Chhatron Ki Goonj programme, Rahul Gandhi framed PM Modi's comment as part of a wider patriarchal and 'Manusmriti' mindset while also hearing students' concerns on exams and tribal issues."
     },
     {
       "sentiment": "positive",
@@ -251,13 +251,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/bangladesh-open-to-saudi-pakistan-turkiye-defence-alliance-under-bangladesh-first-policy-ptag-2977758-2026-08-23",
-      "headline": "Bangladesh open to Saudi-Pak-Turkey defence pact, PM Tarique may visit Riyadh soonBangladesh has kept open the possibility of joining the Saudi-Pakistan-Turkiye defence pact, saying any decision will be based on national interests. PM Tarique Rahman is also expected to visit Riyadh at the invitation of Saudi Crown Prince Mohammed bin Salman."
+      "url": "https://www.indiatoday.in/movies/celebrities/story/sasti-copy-is-out-kangana-ranaut-slams-taapsee-pannu-over-upbringing-remark-2977752-2026-08-23",
+      "headline": "Sasti copy is out: Kangana Ranaut slams Taapsee Pannu over 'upbringing' remarkActor Taapsee Pannu recently stated that she has never met actor-politician Kangana Ranaut despite their public history. The comments drew a sharp social media response from Kangana, reigniting their long-standing 'sasti copy' feud."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/jaipur-government-school-row-rajasthan-teachers-oppose-political-visits-ptag-2977574-2026-08-22",
-      "headline": "Keep politics out, teachers' body says after CJP team's school visit in RajasthanThe Akhil Bharatiya Rashtriya Shaikshik Mahasangh said it strictly stands against the politicisation of schools in the state after the CJP team's visit."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/mount-fuji-father-leaves-seven-year-old-alone-police-order-return-2977763-2026-08-23",
+      "headline": "Japanese man abandons 7-year-old son on Mt Fuji to reach summit, apologisesA father climbing Mount Fuji left his exhausted seven-year-old son behind and continued upwards with the boy's older brother. Police ordered him to return, as authorities warned that the mountain's rapidly changing weather can put hikers at risk."
     },
     {
       "sentiment": "positive",
@@ -266,8 +266,43 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/jaipur-government-school-row-rajasthan-teachers-oppose-political-visits-ptag-2977574-2026-08-22",
+      "headline": "Keep politics out, teachers' body says after CJP team's school visit in RajasthanThe Akhil Bharatiya Rashtriya Shaikshik Mahasangh said it strictly stands against the politicisation of schools in the state after the CJP team's visit."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/andhra-pradesh/story/kakinada-nursing-college-clash-missing-phone-row-triggers-student-relocation-2977742-2026-08-22",
+      "headline": "Sticks, slippers, buckets fly as Northeast students, locals clash at Andhra collegeA missing mobile phone dispute at SK College of Nursing in Kakinada escalated into a confrontation between Northeast and local students. Officials intervened, shifted students to separate accommodation and said the situation was brought under control."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/bangladesh-open-to-saudi-pakistan-turkiye-defence-alliance-under-bangladesh-first-policy-ptag-2977758-2026-08-23",
+      "headline": "Bangladesh open to Saudi-Pak-Turkey defence pact, PM Tarique may visit Riyadh soonBangladesh has kept open the possibility of joining the Saudi-Pakistan-Turkey defence pact, saying any decision will be based on national interests. PM Tarique Rahman is also expected to visit Riyadh at the invitation of Saudi Crown Prince Mohammed bin Salman."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/featurephilia/story/bihar-boy-global-student-prize-winner-adarsh-kumar-rs-35-crore-georgetown-scholarship-2976869-2026-08-23",
+      "headline": "At 14 he left home with Rs 1,000. Now this Bihar boy has a Rs 3.5 crore scholarshipHandcrafted ByOur Editors At 14, Adarsh Kumar left home in Bihar with Rs 1,000 and an old laptop. He went on to build Skillzo, became the first Indian winner of the prestigious Global Student Prize, and now has a fully funded Georgetown University scholarship worth around Rs 3.5 crore."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/interactive/quiz/news/weekly-quiz-630-21-08-2026",
+      "headline": "Question Time: Weekly News QuizThink you read the headlines this week? Let's test that!"
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/panama-flagged-ship-carrying-24-sinks-off-odisha-coast-indian-coast-guard-navy-launch-rescue-op-2977718-2026-08-22",
       "headline": "22 missing after cargo ship sinks off Odisha coast, Navy joins rescue opsA Panama-flagged bulk carrier carrying 24 crew members sank in the Bay of Bengal off Odisha. Two survivors have been rescued, while the Indian Coast Guard and Navy continue searching for 22 missing crew members."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/news/story/how-iit-bombay-alumnus-manoj-meena-built-atomberg-after-rejecting-an-isro-job-2977542-2026-08-22",
+      "headline": "Meet the IIT Bombay engineer who turned down ISRO to build Rs 1,000 crore AtombergIIT Bombay alumnus Manoj Meena had an ISRO job waiting after graduation. Instead, he chose entrepreneurship and spent four years searching for a scalable idea. A breakthrough in energy-efficient motors eventually led to Atomberg, which crossed Rs 1,000 crore in total income in FY25."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/trending-news/story/bengaluru-man-gets-body-shamed-on-bill-from-restaurant-company-reacts-2977209-2026-08-22",
+      "headline": "Bengaluru man gets body-shamed on bill from restaurant, company reactsA Bengaluru man was upset after a Subko Coffee Roasters receipt identified him as \"Little fat black shirt\" instead of using his name, sparking a debate over body-shaming."
     },
     {
       "sentiment": "positive",
@@ -278,41 +313,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/cities/story/delhi-issues-health-advisory-amid-swine-flu-surge-urges-precautions-2977761-2026-08-23",
       "headline": "Swine flu spike in Delhi: Govt urges masks, avoid crowds, seek medical helpDelhi has issued a public health advisory as H1N1 and other influenza cases climb across the city. The move comes as authorities tighten surveillance, hospital readiness and public precautions during the seasonal surge."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/how-iit-bombay-alumnus-manoj-meena-built-atomberg-after-rejecting-an-isro-job-2977542-2026-08-22",
-      "headline": "Meet the IIT Bombay engineer who turned down ISRO to build Rs 1,000 crore AtombergIIT Bombay alumnus Manoj Meena had an ISRO job waiting after graduation. Instead, he chose entrepreneurship and spent four years searching for a scalable idea. A breakthrough in energy-efficient motors eventually led to Atomberg, which crossed Rs 1,000 crore in total income in FY25."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/interactive/quiz/news/weekly-quiz-630-21-08-2026",
-      "headline": "Question Time: Weekly News QuizThink you read the headlines this week? Let's test that!"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/opinion/story/abhijeet-dipke-cjp-school-thikkaro-ashutosh-ranka-rajasthan-school-entry-raids-activism-student-safety-2976513-2026-08-22",
-      "headline": "Dipke should stay away from schools, but keep talking about themAbhijeet Dipke and his CJP are highlighting the poor condition of government schools. But barging into classrooms risks putting schoolchildren in the crosshairs. The activists should keep raising the issues and force officials to act without turning schools into sites of confrontations."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/story/two-dead-five-injured-as-ganesh-idol-falls-during-arrival-ceremony-in-mumbai-2977771-2026-08-23",
-      "headline": "2 dead, 5 injured as Ganesh idol falls during arrival ceremony in MumbaiIn Mumbai, idol arrival ceremonies have become a major part of the celebrations, with large processions accompanying idols to neighbourhood pandals. These events typically feature music, decorations and large gatherings of devotees."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/bengaluru-man-gets-body-shamed-on-bill-from-restaurant-company-reacts-2977209-2026-08-22",
-      "headline": "Bengaluru man gets body-shamed on bill from restaurant, company reactsA Bengaluru man was upset after a Subko Coffee Roasters receipt identified him as \"Little fat black shirt\" instead of using his name, sparking a debate over body-shaming."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/hockey/story/hockey-world-cup-2026-netherlands-vs-india-report-harmanpreet-singh-craig-fulton-2977673-2026-08-22",
-      "headline": "Hockey World Cup: India's semis dream all but over as Netherlands break hearts againIndia's hopes of ending their jinx of reaching the semi-final of the men's hockey World Cup are all but over after their 1-3 loss to Olympic champions Netherlands on Saturday, August 22."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/monsoon-rain-forecast-august-heavy-rain-states-imd-weather-bay-of-bengal-system-2977431-2026-08-22",
-      "headline": "Monsoon is set to intensify today. Check your state's rain forecastA low-pressure area is brewing over the Bay of Bengal as another system continues to affect parts of India. Latest forecast here."
     },
     {
       "sentiment": "positive",
@@ -334,7 +334,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-sri-lanka-2nd-test-day-1-live-score-updates-colombo-shubman-gill-kuldeep-yadav-2977818-2026-08-23",
-      "headline": "IND vs SL, 2nd Test Day 1: Saransh in, Kuldeep out as India bat first India (IND) vs Sri Lanka (SL) live score, 2nd Test Day 1: India have won the toss and have decided to bat first in Colombo as they look for a series win. Saransh Jain's debut was already the big selection story in Colombo. But Shubman Gill's surprise revelation that Kuldeep Yadav missed out due to an \"infection\" adds an unexpected twist to India's team news."
+      "headline": "2nd Test Day 1 Live: IND (31/0). Jaiswal and Rahul off to a smooth start India (IND) vs Sri Lanka (SL) live score, 2nd Test Day 1: IND (19/0 in 8 ovs). Yashasvi Jaiswal has shown positive signs as India chose to bat first. He is resisting the temptation to cut the ball, while KL Rahul has opted to start off really safely."
     },
     {
       "sentiment": "positive",
