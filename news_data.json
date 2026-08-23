@@ -31,7 +31,7 @@
       "headline": "Economic regulations worse than 1991, no Manmohan Singh to bail us out: ChidambaramFormer finance minister P Chidambaram criticised India's current economic model, saying regulations were worse than in 1991 and the country lacked an economic brain like Manmohan Singh. He questioned the manufacturing push, limited FTAs and shrinking competition, while calling for stronger domestic manufacturing and a more competitive economy."
     },
     {
-      "sentiment": "negative",
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/india-receives-rs-4895-crore-fdi-after-easing-rules-for-neighbouring-countries-2976872-2026-08-21",
       "headline": "India receives Rs 4,895 crore FDI after easing rules for neighbouring countriesThe government said the investments cover sectors such as information technology, artificial intelligence, manufacturing, pharmaceuticals, data centres and transport services."
     },
@@ -102,6 +102,16 @@
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/govinda-legal-notice-rs-100-crore-warning-ai-deepfakes-false-marriage-rumours-2977896-2026-08-23",
+      "headline": "Govinda issues legal notice over defamatory reports, threatens Rs 100 crore action Govinda has issued a public notice warning against false and unverified content about him and his family. The move comes amid attention on his marriage and claims involving AI-manipulated material."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/awarapan-2-box-office-day-9-emraan-hashmi-film-jumps-435-nears-rs-200-crore-milestone-2977871-2026-08-23",
+      "headline": "Awarapan 2 box office Day 9: Emraan film jumps 43.5%, nears Rs 200 crore milestone Awarapan 2 has surprisingly surged at the box office, nearing a Rs 200-crore global gross. Despite a modest start, the Emraan Hashmi starrer has connected deeply with audiences familiar with the original, making it a strong commercial success globally."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/yashs-toxic-crosses-rs-27-crore-in-advance-bookings-4-lakh-tickets-sold-2977841-2026-08-23",
@@ -186,23 +196,13 @@
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/deepika-padukone-likes-post-defending-her-spirit-exit-and-10-profit-share-2977221-2026-08-22",
       "headline": "Deepika Padukone likes post defending her Spirit exit and 10% profit share Deepika Padukone liked an Instagram post that criticised claims around her exit from Spirit. The reaction has revived debate over profit sharing, work hours and how women actors are judged."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/who-was-yash-before-kgf-the-question-that-misses-the-bigger-story-toxic-release-2976559-2026-08-22",
-      "headline": "Who was Yash before KGF? The question that misses the bigger story For those wondering about Yash, long before KGF, he had spent a decade building his star power \u2013 from theatre and television to Kannada cinema. KGF didn't make the star; it simply made him impossible for the rest of India to miss."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/batwara-1947-box-office-day-8-sunny-deol-film-hits-new-low-misses-rs-50-crore-mark-2977202-2026-08-22",
-      "headline": "Batwara 1947 box office Day 8: Sunny Deol film hits new low, misses Rs 50-crore mark Sunny Deol's Batwara 1947 earned Rs 75 lakh nett on Day 8. The result leaves the film chasing Rs 50 crore gross worldwide in its second weekend amid competition from Awarapan 2."
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/cities/delhi/story/pregnant-defence-ministry-officer-naziya-khanam-dies-by-suicide-husband-in-laws-harassment-delhi-dwarka-2977857-2026-08-23",
-      "headline": "Pregnant defence ministry staffer dies by suicide over 'harassment' by in-lawsA pregnant Ministry of Defence officer died by suicide at her Dwarka home, and her family accused her husband and in-laws of harassment. The allegations, an FIR and the family's demand for a detailed post-mortem have put the circumstances of her death under scrutiny."
+      "headline": "Pregnant defence ministry staffer found dead, family alleges harassment by in-lawsDefence Ministry officer Naziya Khanam was found dead at her Dwarka home. Her family has claimed she faced mental and physical abuse at her in-laws' hands while 3-months pregnant."
     },
     {
       "sentiment": "positive",
@@ -210,14 +210,14 @@
       "headline": "Reservation not charity: Chirag Paswan amid anti-quota protest at Jantar MantarChirag Paswan said at Patna airport that reservations cannot be abolished on demand. He said it remains a constitutional tool for social justice and should be explained through dialogue."
     },
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/sri-lanka-vs-india-yashasvi-jaiswal-asitha-fernando-heated-exchange-colombo-test-2977874-2026-08-23",
+      "headline": "Yashasvi Jaiswal headbutts Asitha Fernando after dismissal as tempers flareSL vs IND: Yashasvi Jaiswal and Asitha Fernando exchanged words after the India opener was dismissed for 45 in Colombo. Team-mates stepped in quickly as Sri Lanka fought back after India's brisk start."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/world/indians-abroad/story/indian-origin-store-owner-killed-tennessee-robbery-daughter-witness-2977831-2026-08-23",
       "headline": "Indian-origin store owner shot dead during robbery in US, daughter watched in horrorSuresh Patel, a 62-year-old businessman from Gujarat, was shot dead during an armed robbery at his store in Jackson. His 19-year-old daughter stood beside him and watched in horror as the gunman shot his father dead. The killing triggered a manhunt for the suspect."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/canada-news/story/canada-us-tariffs-mark-carney-retaliatory-duties-september-8-2977785-2026-08-23",
-      "headline": "We got attacked: Carney says Canada at war with US over Trump's 50% tariffsCanadian Prime Minister Mark Carney announced \"dollar-for-dollar\" retaliatory tariffs on American goods from September 8 after US President Donald Trump imposed 50 per cent levies on around USD 20 billion worth of Canadian goods, saying, \"You're at war when you're attacked, and we got attacked.\""
     },
     {
       "sentiment": "positive",
@@ -227,17 +227,17 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-sri-lanka-2nd-test-day-1-live-score-updates-colombo-shubman-gill-kuldeep-yadav-2977818-2026-08-23",
-      "headline": "2nd Test Live: IND (88/2), Sri Lanka keep Indian batters in check at lunchIndia (IND) vs Sri Lanka (SL) live score, 2nd Test Day 1: IND (88/2). India head into lunch in a decent position in Colombo after an eventful morning. Yashasvi Jaiswal impressed before falling to Asitha Fernando, while Sri Lanka struck twice to leave India with some work to do in the second session."
+      "headline": "2nd Test Live: IND (105/2), Gill, Padikkal eye big partnership in 2nd sessionIndia (IND) vs Sri Lanka (SL) live score, 2nd Test Day 1: IND (105/2). India head into lunch in a decent position in Colombo after an eventful morning. Yashasvi Jaiswal impressed before falling to Asitha Fernando, while Sri Lanka struck twice to leave India with some work to do in the second session."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/yash-speech-sound-box-collapses-toxic-hyderabad-event-2-students-injured-2977807-2026-08-23",
-      "headline": "Yash pauses speech after sound box setup collapses at Toxic event, 2 injuredYash's speech at the Hyderabad pre-release event of Toxic was interrupted after a sound box setup collapsed near students, leaving two injured. The incident briefly shifted attention from the film's promotions to crowd safety at the packed venue."
+      "url": "https://www.indiatoday.in/world/canada-news/story/canada-us-tariffs-mark-carney-retaliatory-duties-september-8-2977785-2026-08-23",
+      "headline": "We got attacked: Carney says Canada at war with US over Trump's 50% tariffsCanadian Prime Minister Mark Carney announced \"dollar-for-dollar\" retaliatory tariffs on American goods from September 8 after US President Donald Trump imposed 50 per cent levies on around USD 20 billion worth of Canadian goods, saying, \"You're at war when you're attacked, and we got attacked.\""
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/rahul-gandhi-attacks-narendra-modi-over-jantar-mantar-girls-protest-abusive-language-remark-cultural-shock-chhatron-ki-goonj-2977788-2026-08-23",
-      "headline": "No problem when boys abuse, cultural shock if girls do it: Rahul Gandhi slams PMAt his Chhatron Ki Goonj programme, Rahul Gandhi framed PM Modi's comment as part of a wider patriarchal and 'Manusmriti' mindset while also hearing students' concerns on exams and tribal issues."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/bali-nyepi-festival-insult-swiss-tourist-one-year-jail-term-court-apologises-regret-2977861-2026-08-23",
+      "headline": "Swiss tourist gets 1-year jail in Bali for insulting Hindu festival in vlogA 26-year-old Swiss tourist was sentenced to one-year jail in Bali after posting a video mocking the Hindu festival of Nyepi, or the Day of Silence, and violating its restrictions. The case has sharpened scrutiny of tourist conduct as authorities respond to complaints over disrespect towards local customs."
     },
     {
       "sentiment": "positive",
@@ -245,9 +245,9 @@
       "headline": "Kujur, Gurindervir humbled at home before Asian Games. And that is a good thingAnimesh Kujur and Gurindervir Singh were humbled at home in Bhubaneswar, but their defeat could prove to be exactly what they needed before the Asian Games. For India's leading sprinters, the Continental Tour in Bhubaneshwar, was in some ways, the perfect preparation they needed."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/bali-nyepi-festival-insult-swiss-tourist-one-year-jail-term-court-apologises-regret-2977861-2026-08-23",
-      "headline": "Swiss tourist gets 1-year jail in Bali for insulting Hindu festival in vlogA 26-year-old Swiss tourist was sentenced to one-year jail in Bali after posting a video mocking the Hindu festival of Nyepi, or the Day of Silence, and violating its restrictions. The case has sharpened scrutiny of tourist conduct as authorities respond to complaints over disrespect towards local customs."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/yash-speech-sound-box-collapses-toxic-hyderabad-event-2-students-injured-2977807-2026-08-23",
+      "headline": "Yash pauses speech after sound box setup collapses at Toxic event, 2 injuredYash's speech at the Hyderabad pre-release event of Toxic was interrupted after a sound box setup collapsed near students, leaving two injured. The incident briefly shifted attention from the film's promotions to crowd safety at the packed venue."
     },
     {
       "sentiment": "negative",
@@ -256,18 +256,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-duleep-trophy-debut-east-zone-vice-captain-dissapointment-2977864-2026-08-23",
-      "headline": "Vaibhav Sooryavanshi out for 8 on Duleep Trophy debut as vice-captainVaibhav Sooryavanshi's first outing as East Zone vice-captain lasted just six balls in Bengaluru. The teenage batter struck two boundaries before falling for eight, ending his much-anticipated red-ball audition on a disappointing note."
+      "url": "https://www.indiatoday.in/india/story/rahul-gandhi-attacks-narendra-modi-over-jantar-mantar-girls-protest-abusive-language-remark-cultural-shock-chhatron-ki-goonj-2977788-2026-08-23",
+      "headline": "No problem when boys abuse, cultural shock if girls do it: Rahul Gandhi slams PMAt his Chhatron Ki Goonj programme, Rahul Gandhi framed PM Modi's comment as part of a wider patriarchal and 'Manusmriti' mindset while also hearing students' concerns on exams and tribal issues."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/india-once-hid-from-spy-satellites-now-an-indian-startup-digantara-is-ready-to-expose-them-with-mosaic-2976486-2026-08-23",
-      "headline": "They spy on India from space. Now an Indian startup is ready to expose themDigantara is developing MOSAIC, an autonomous system to detect and track objects moving above India. The effort reflects a wider push to build independent space awareness as satellite activity grows."
+      "url": "https://www.indiatoday.in/lifestyle/food/story/from-tribal-chutney-to-tasting-menus-how-ants-went-gourmet-in-india-chhattisgarh-jharkhand-odisha-west-bengal-2977875-2026-08-23",
+      "headline": "From tribal chutney to tasting menus: How ants went gourmet in IndiaIndian chefs and bartenders are bringing ants and other insects into tasting menus and cocktails. The shift draws on long-standing tribal food knowledge rather than treating the ingredient as a novelty."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/iran-us-sanctions-strait-of-hormuz-china-oil-trade-crisis-tehran-trump-mohsen-rezaei-economic-2977769-2026-08-23",
-      "headline": "Trump shares map of Hormuz as 'New US territory' as economic warfare escalatesUS President Donald Trump again shared an image calling the Strait of Hormuz \"US territory\" as Iran warned against Washington's economic pressure. Tehran condemned proposed fresh US sanctions, while tensions over the strategically vital waterway and Iran's oil trade continued to escalate."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/trending-news/story/bengaluru-man-thought-hed-miss-flight-after-2-hours-in-traffic-then-came-the-twist-2977866-2026-08-23",
+      "headline": "Bengaluru man thought he'd miss flight after 2 hours in traffic. Then came the twistA Bengaluru man spent over two hours getting from Indiranagar to the airport after rain, but needed just nine minutes to reach his gate. His post contrasted the city's chaotic roads with the airport's DigiYatra-enabled efficiency."
     },
     {
       "sentiment": "positive",
@@ -276,18 +276,23 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/mumbai-metros-resident-ginger-cat-gets-a-job-title-after-months-of-patrolling-2977844-2026-08-23",
-      "headline": "Mumbai Metro's resident ginger cat gets a job title after months of 'patrolling'A ginger cat that patrols Gundavali Metro station in Mumbai has been given the honorary title of Chief Feline Officer by MMMOCL. The playful designation followed a commuter's fun post that has now gone viral."
+      "url": "https://www.indiatoday.in/world/story/iran-us-sanctions-strait-of-hormuz-china-oil-trade-crisis-tehran-trump-mohsen-rezaei-economic-2977769-2026-08-23",
+      "headline": "Trump shares map of Hormuz as 'New US territory' as economic warfare escalatesUS President Donald Trump again shared an image calling the Strait of Hormuz \"US territory\" as Iran warned against Washington's economic pressure. Tehran condemned proposed fresh US sanctions, while tensions over the strategically vital waterway and Iran's oil trade continued to escalate."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/featurephilia/story/bihar-boy-global-student-prize-winner-adarsh-kumar-rs-35-crore-georgetown-scholarship-2976869-2026-08-23",
-      "headline": "At 14 he left home with Rs 1,000. Now this Bihar boy has a Rs 3.5 crore scholarshipHandcrafted ByOur Editors At 14, Adarsh Kumar left home in Bihar with Rs 1,000 and an old laptop. He went on to build Skillzo, became the first Indian winner of the prestigious Global Student Prize, and now has a fully funded Georgetown University scholarship worth around Rs 3.5 crore."
+      "url": "https://www.indiatoday.in/science/story/india-once-hid-from-spy-satellites-now-an-indian-startup-digantara-is-ready-to-expose-them-with-mosaic-2976486-2026-08-23",
+      "headline": "They spy on India from space. Now an Indian startup is ready to expose themDigantara is developing MOSAIC, an autonomous system to detect and track objects moving above India. The effort reflects a wider push to build independent space awareness as satellite activity grows."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/interactive/quiz/news/weekly-quiz-630-21-08-2026",
       "headline": "Question Time: Weekly News QuizThink you read the headlines this week? Let's test that!"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/featurephilia/story/bihar-boy-global-student-prize-winner-adarsh-kumar-rs-35-crore-georgetown-scholarship-2976869-2026-08-23",
+      "headline": "At 14 he left home with Rs 1,000. Now this Bihar boy has a Rs 3.5 crore scholarshipHandcrafted ByOur Editors At 14, Adarsh Kumar left home in Bihar with Rs 1,000 and an old laptop. He went on to build Skillzo, became the first Indian winner of the prestigious Global Student Prize, and now has a fully funded Georgetown University scholarship worth around Rs 3.5 crore."
     },
     {
       "sentiment": "negative",
@@ -296,11 +301,6 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/jaipur-government-school-row-rajasthan-teachers-oppose-political-visits-ptag-2977574-2026-08-22",
-      "headline": "Keep politics out, teachers' body says after CJP team's school visit in RajasthanThe Akhil Bharatiya Rashtriya Shaikshik Mahasangh said it strictly stands against the politicisation of schools in the state after the CJP team's visit."
-    },
-    {
-      "sentiment": "negative",
       "url": "https://www.indiatoday.in/trending-news/story/bengaluru-man-gets-body-shamed-on-bill-from-restaurant-company-reacts-2977209-2026-08-22",
       "headline": "Bengaluru man gets body-shamed on bill from restaurant, company reactsA Bengaluru man was upset after a Subko Coffee Roasters receipt identified him as \"Little fat black shirt\" instead of using his name, sparking a debate over body-shaming."
     },
@@ -311,8 +311,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/national-space-day-2026-chandrayaan-3-gaganyaan-india-space-missions-2977278-2026-08-23",
-      "headline": "National Space Day: How India's space ambitions have changed since Chandrayaan-3The Moon landing that turned August 23 into the National Space Day has become a launchpad for more ambition. On the day of a national celebration, let's have a look at how India has levelled up its space goals in the last 3 years."
+      "url": "https://www.indiatoday.in/india/story/jaipur-government-school-row-rajasthan-teachers-oppose-political-visits-ptag-2977574-2026-08-22",
+      "headline": "Keep politics out, teachers' body says after CJP team's school visit in RajasthanThe Akhil Bharatiya Rashtriya Shaikshik Mahasangh said it strictly stands against the politicisation of schools in the state after the CJP team's visit."
     },
     {
       "sentiment": "positive",
@@ -323,8 +323,13 @@
   "sports": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-bangladesh-2nd-test-report-starc-10-wicket-series-level-2977891-2026-08-23",
+      "headline": "Bangladesh suffer Aussie fury as Starc's 10-wicket haul mauls toothless Tigers Mitchell Starc unleashed a stunning display of fast bowling as Australia bounced back from their shock defeat in Darwin, dismantling Bangladesh by an innings and 51 runs in the second Test in Mackay to level the series."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/sri-lanka-vs-india-yashasvi-jaiswal-asitha-fernando-heated-exchange-colombo-test-2977874-2026-08-23",
-      "headline": "Jaiswal squares up Fernando, tempers flare after Colombo dismissal SL vs IND: Yashasvi Jaiswal and Asitha Fernando exchanged words after the India opener was dismissed for 45 in Colombo. Team-mates stepped in quickly as Sri Lanka fought back after India's brisk start."
+      "headline": "Yashasvi Jaiswal headbutts Asitha Fernando after dismissal as tempers flare SL vs IND: Yashasvi Jaiswal and Asitha Fernando exchanged words after the India opener was dismissed for 45 in Colombo. Team-mates stepped in quickly as Sri Lanka fought back after India's brisk start."
     },
     {
       "sentiment": "positive",
@@ -344,7 +349,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-sri-lanka-2nd-test-day-1-live-score-updates-colombo-shubman-gill-kuldeep-yadav-2977818-2026-08-23",
-      "headline": "2nd Test Live: IND (88/2), Sri Lanka keep Indian batters in check at lunch India (IND) vs Sri Lanka (SL) live score, 2nd Test Day 1: IND (88/2). India head into lunch in a decent position in Colombo after an eventful morning. Yashasvi Jaiswal impressed before falling to Asitha Fernando, while Sri Lanka struck twice to leave India with some work to do in the second session."
+      "headline": "2nd Test Live: IND (105/2), Gill, Padikkal eye big partnership in 2nd session India (IND) vs Sri Lanka (SL) live score, 2nd Test Day 1: IND (105/2). India head into lunch in a decent position in Colombo after an eventful morning. Yashasvi Jaiswal impressed before falling to Asitha Fernando, while Sri Lanka struck twice to leave India with some work to do in the second session."
     },
     {
       "sentiment": "positive",
@@ -369,12 +374,12 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-bangladesh-2nd-test-day-2-live-updates-pat-cummins-mackay-2977753-2026-08-22",
-      "headline": "Australia vs Bangladesh, 2nd Test Day 2: Live Score and Updates from Mackay AUS vs BAN, 2nd Test Day 2 Live Score and Updates: Australia are in a commanding position in the Mackay Test, having already secured a 101-run lead. Bangladesh, meanwhile, will look to wrap up the remaining two wickets quickly before aiming for a stronger batting performance in the second innings."
+      "headline": "Australia vs Bangladesh, 2nd Test Day 2: Highlights from Mackay AUS vs BAN, 2nd Test Day 2 Highlights: Australia levelled the Test series in emphatic fashion as Mitchell Starc's 10-wicket haul helped them seal an innings-and-51-run win over Bangladesh inside two days."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/badminton/story/bwf-world-championships-pullela-gopichand-gayatri-treesa-jolly-medal-2977730-2026-08-22",
-      "headline": "His daughter won a World Champs medal. But Gopichand kept his coach's hat on For a brief moment, Pullela Gopichand was both father and coach. As Gayatri and Treesa Jolly made history in Delhi, the coach spoke first. The father revealed himself only in flashes."
+      "headline": "His daughter won a World Champs medal. But Gopichand kept his coach's hat onFor a brief moment, Pullela Gopichand was both father and coach. As Gayatri and Treesa Jolly made history in Delhi, the coach spoke first. The father revealed himself only in flashes."
     },
     {
       "sentiment": "positive",
@@ -470,11 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/badminton/story/pv-sindhu-badminton-world-championship-fitness-reboot-data-sleep-recovery-game-2977292-2026-08-22",
       "headline": "Inside PV Sindhu's engine room: How the 31-year-old is running on smarter fuelAt 31, PV Sindhu is rebuilding rather than merely holding on. Even after missing a medal at the home World Championships in Delhi, science, smarter training and a stronger team suggest she has more left to give."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-test-cricket-exciting-future-rahul-dravid-duleep-trophy-2977280-2026-08-22",
-      "headline": "Vaibhav Sooryavanshi can give Test cricket an exciting future: Rahul DravidRahul Dravid believes Vaibhav Sooryavanshi's red-ball development could have a major impact on Test cricket's future, urging patience with the 15-year-old as he prepares to play for East Zone in the Duleep Trophy."
     }
   ],
   "education": [
