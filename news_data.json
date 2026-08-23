@@ -103,6 +103,16 @@
   ],
   "entertainment": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/thought-he-was-mad-dil-raju-on-yash-working-with-geetu-mohandas-for-toxic-after-kgf-2978103-2026-08-23",
+      "headline": "Thought he was mad: Dil Raju on Yash working with Geetu Mohandas for Toxic after KGF Speaking at Toxic's Hyderabad pre-release event, producer Dil Raju revealed he initially questioned Yash's choice of director Geetu Mohandas after KGF, but later praised both Yash's vision and the film's visuals."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/case-against-toxic-team-mall-reddy-university-after-4-injured-at-pre-release-event-2978127-2026-08-23",
+      "headline": "Case against Toxic team, Malla Reddy university after 4 injured at pre-release event Cyberabad Police have registered a case after a speaker stand collapsed at the Toxic pre-release event in Medchal, injuring four people. The mishap halted actor Yash's speech twice as organisers were asked to help the injured and stop fans climbing other stands."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/ajith-kumar-escapes-unhurt-after-high-speed-car-crash-during-race-in-europe-report-2978117-2026-08-23",
       "headline": "Ajith Kumar escapes unhurt after high-speed car crash during race in Europe. Report Actor Ajith Kumar escaped unhurt after his car lost control and hit another vehicle during a Europe endurance race. The latest incident adds to a string of racing crashes from which he has previously walked away safely."
@@ -186,28 +196,38 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/kareena-dhanush-set-to-feature-in-bhansalis-mythological-film-director-responds-2977546-2026-08-22",
       "headline": "Kareena, Dhanush set to feature in Bhansali's mythological film? Director responds Director PS Mithran said talks are underway for a Sanjay Leela Bhansali-backed film with Kareena Kapoor Khan and Dhanush. The reported project could mark multiple firsts, including Mithran's Hindi directorial debut and Kareena's first collaboration with Bhansali since Devdas."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/abhishek-malhan-on-munawar-faruqui-rivalry-in-the-traitors-2-he-made-it-about-ego-2977507-2026-08-22",
-      "headline": "Abhishek Malhan on Munawar Faruqui rivalry in The Traitors 2: He made it about ego According to YouTuber Abhishek Malhan, his The Traitors 2 clash with stand-up comedian Munawar Faruqui ended with the game, though the social media fallout ultimately turned into an ego issue."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/priyanka-chopra-says-she-wouldnt-have-loved-nick-without-respect-for-indian-culture-2977457-2026-08-22",
-      "headline": "Priyanka Chopra says she wouldn't have loved Nick without respect for Indian culture Actor Priyanka Chopra said she might not have loved husband Nick Jonas if he had not respected her Indian culture and traditions. She said mutual respect for a partner's roots is vital in any multicultural relationship."
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/story/bangladesh-rangpur-hindu-family-murder-men-caught-taking-yaba-drug-kill-family-of-4-stay-6-hours-eat-and-bathe-after-killing-2978126-2026-08-23",
-      "headline": "Men caught taking drugs kill Hindu family; stay 6 hours, eat and bathe after murdersTwo men killed a Hindu family of four in Bangladesh after allegedly being confronted over drug use on their rooftop. After the killings, they stayed inside the home for hours, ate dates and cucumbers, and took a bath."
+      "headline": "Caught taking drugs, men kill Hindu family; stay home to eat, bathe after murdersTwo men killed a Hindu family of four in Bangladesh after allegedly being confronted over drug use on their rooftop. After the killings, they stayed inside the home for hours, ate dates and cucumbers, and took a bath."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/cities/delhi/story/lutyens-bungalow-repairs-union-ministers-residence-spend-rs-92-35-crore-rti-ptag-2977885-2026-08-23",
       "headline": "Record Rs 92 crore spent on Union Ministers' Delhi homes repair in 2025-26: RTIAn RTI reply shows spending on Union Ministers' official bungalow repairs in Delhi hit Rs 92.35 crore in 2025-26. The sharp rise, which tripled in 11 years, highlights the mounting cost of maintaining ageing colonial-era residences."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/turkish-military-aircraft-pakistan-trips-drone-transfer-focus-2978094-2026-08-23",
+      "headline": "Why Turkish military planes made repeated Pakistan trips in 3 daysMultiple Turkish C-130 aircraft were observed shuttling between Turkey and Pakistan over three days. The repeated trips have sharpened attention on suspected drone and air-defence transfers to Islamabad."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/madhya-pradesh-dsp-neha-pachisia-untraceable-after-katni-land-deal-fir-2978147-2026-08-23",
+      "headline": "Air hostess-turned-cop untraceable after FIR in Madhya Pradesh land dealPachisia, a former air hostess who later joined the police force, was attending a departmental training programme in Bhopal from August 18 to 20 when the FIR was registered. She allegedly left after learning about the case and has not been traced since."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/athletics/story/animesh-kujur-gurindervir-singh-continental-tour-defeat-asian-games-bhubaneswar-2977783-2026-08-23",
+      "headline": "Kujur, Gurindervir humbled at home before Asian Games. And that is a good thingAnimesh Kujur and Gurindervir Singh were humbled at home in Bhubaneswar, but their defeat could prove to be exactly what they needed before the Asian Games. For India's leading sprinters, the Continental Tour in Bhubaneshwar, was in some ways, the perfect preparation they needed."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/gavaskar-kapil-dev-21-former-captains-appeal-pakistan-imran-khan-medical-care-2978119-2026-08-23",
+      "headline": "Gavaskar, Kapil among 21 ex-captains in fresh appeal to Pak PM over Imran's healthA group of 21 former international captains, including Kapil Dev and Sunil Gavaskar, has urged Pakistan Prime Minister Shehbaz Sharif to ensure proper medical care for Imran Khan. They called for the Supreme Court-ordered medical assessment and weekly family visits to be carried out without interruption and with dignity."
     },
     {
       "sentiment": "positive",
@@ -221,8 +241,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/athletics/story/animesh-kujur-gurindervir-singh-continental-tour-defeat-asian-games-bhubaneswar-2977783-2026-08-23",
-      "headline": "Kujur, Gurindervir humbled at home before Asian Games. And that is a good thingAnimesh Kujur and Gurindervir Singh were humbled at home in Bhubaneswar, but their defeat could prove to be exactly what they needed before the Asian Games. For India's leading sprinters, the Continental Tour in Bhubaneshwar, was in some ways, the perfect preparation they needed."
+      "url": "https://www.indiatoday.in/education-today/news/story/onkar-singh-batra-apolink-raises-4-3-million-for-satellite-connectivity-2977943-2026-08-23",
+      "headline": "At 7, he built a website. At 16, a satellite. Then came $4.3M: Meet Onkar Singh BatraJammu-born entrepreneur Onkar Singh Batra is building Apolink, a satellite relay company tackling communication gaps in low Earth orbit. An IITian and a Guiness world record holder, Batra is now on the path to becoming an inspiration for many more."
     },
     {
       "sentiment": "positive",
@@ -231,33 +251,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/smriti-irani-challenges-rahul-gandhi-on-womens-reservation-vande-mataram-ptag-2978035-2026-08-23",
-      "headline": "Back women's quota law, sing full Vande Mataram: Smriti Irani dares Rahul GandhiHer remarks came a day after Gandhi asked girl students to \"smash patriarchy\" during his 'Chhatron Ki Goonj' outreach programme in Pune."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/house-helps-husband-joins-her-at-work-when-she-is-unwell-people-raise-questions-2977958-2026-08-23",
-      "headline": "House help's husband joins her at work when she is unwell. People raise questionsAn Instagram video showed a house help's husband accompanying her to work and helping in the kitchen when she was unwell. The comments section had both appreciation for the gesture and questions about him assisting her."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/onkar-singh-batra-apolink-raises-4-3-million-for-satellite-connectivity-2977943-2026-08-23",
-      "headline": "At 7, he built a website. At 16, a satellite. Then came $4.3M: Meet Onkar Singh BatraJammu-born entrepreneur Onkar Singh Batra is building Apolink, a satellite relay company tackling communication gaps in low Earth orbit. An IITian and a Guiness world record holder, Batra is now on the path to becoming an inspiration for many more."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/ayodhya-fish-feast-row-up-congress-chief-ajay-rai-welcome-event-hanuman-garhi-kanwar-yatra-route-organiser-reacts-2978111-2026-08-23",
-      "headline": "Fish feast at Congress's Ayodhya event sparks row, party leader defends food choiceThe seers' criticism came amid heightened religious activity in Ayodhya during Sawan, when devotees undertake pilgrimages and visit temples across the city. Hanuman Garhi is one of the prominent religious sites in Ayodhya and attracts a large number of devotees."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sunday-special/story/indias-got-latent-season-1-unaired-contestants-left-behind-balraj-ghai-habitat-khar-mumbai-beerbiceps-2976830-2026-08-23",
       "headline": "The latents in Samay Raina's show who remained latentThey were counting on a few minutes on Samay Raina's India's Got Latent to boost their following and earnings. The episode got recorded but was never aired after the Ranveer Allahbadia controversy last year. We spoke to two such participants whose episodes never aired, and who, like a dozen participants with them, remained latent."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/bangladesh-family-deaths-retired-teacher-wife-two-children-found-locked-house-2977934-2026-08-23",
-      "headline": "Retired Hindu teacher, family found dead inside locked Bangladesh homeA retired teacher, his wife and their two children were found dead inside their locked house in Rangpur on Saturday night. Police suspect strangulation and are awaiting autopsy findings as multiple units investigate."
+      "url": "https://www.indiatoday.in/trending-news/story/house-helps-husband-joins-her-at-work-when-she-is-unwell-people-raise-questions-2977958-2026-08-23",
+      "headline": "House help's husband joins her at work when she is unwell. People raise questionsAn Instagram video showed a house help's husband accompanying her to work and helping in the kitchen when she was unwell. The comments section had both appreciation for the gesture and questions about him assisting her."
     },
     {
       "sentiment": "negative",
@@ -266,18 +266,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/story/iphone-18-pro-could-be-a-much-bigger-upgrade-than-the-iphone-17-pro-heres-what-to-expect-2977914-2026-08-23",
-      "headline": "iPhone 18 Pro could be a much bigger upgrade than the iPhone 17 Pro: Here's what to expectThe iPhone 18 Pro could bring some of Apple's biggest upgrades in years, from a new A20 Pro chip and larger battery to major camera changes. Here's what the next Pro iPhone could bring, based on the speculations so far."
+      "url": "https://www.indiatoday.in/india/story/smriti-irani-challenges-rahul-gandhi-on-womens-reservation-vande-mataram-ptag-2978035-2026-08-23",
+      "headline": "Back women's quota law, sing full Vande Mataram: Smriti Irani dares Rahul GandhiHer remarks came a day after Gandhi asked girl students to \"smash patriarchy\" during his 'Chhatron Ki Goonj' outreach programme in Pune."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/turkish-military-aircraft-pakistan-trips-drone-transfer-focus-2978094-2026-08-23",
-      "headline": "Why Turkish military planes made repeated Pakistan trips in 3 daysMultiple Turkish C-130 aircraft were observed shuttling between Turkey and Pakistan over three days. The repeated trips have sharpened attention on suspected drone and air-defence transfers to Islamabad."
+      "url": "https://www.indiatoday.in/india/story/ayodhya-fish-feast-row-up-congress-chief-ajay-rai-welcome-event-hanuman-garhi-kanwar-yatra-route-organiser-reacts-2978111-2026-08-23",
+      "headline": "Fish feast at Congress's Ayodhya event sparks row, party leader defends food choiceThe seers' criticism came amid heightened religious activity in Ayodhya during Sawan, when devotees undertake pilgrimages and visit temples across the city. Hanuman Garhi is one of the prominent religious sites in Ayodhya and attracts a large number of devotees."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/deepinder-goyal-says-temple-is-the-smallest-wearable-launching-by-end-of-2026-2976588-2026-08-21",
-      "headline": "Deepinder Goyal says Temple is the smallest wearable, launching by end of 2026Deepinder Goyal's Temple wearable is now less than half the size of its earlier version, with limited-edition pre-orders opening soon. The brain-tracking device is expected to start shipping before the end of 2026."
+      "url": "https://www.indiatoday.in/world/story/bangladesh-family-deaths-retired-teacher-wife-two-children-found-locked-house-2977934-2026-08-23",
+      "headline": "Retired Hindu teacher, family found dead inside locked Bangladesh homeA retired teacher, his wife and their two children were found dead inside their locked house in Rangpur on Saturday night. Police suspect strangulation and are awaiting autopsy findings as multiple units investigate."
     },
     {
       "sentiment": "positive",
@@ -296,8 +296,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/ajit-doval-china-talks-bangladesh-tarique-rahman-maldives-thilamale-bridge-ptag-2978095-2026-08-23",
-      "headline": "NSA Ajit Doval to visit Beijing on Monday for talks with Chinese counterpartThe talks also assume significance ahead of Xi's expected visit to India next month for the BRICS Summit, which would mark his first trip to the country in several years."
+      "url": "https://www.indiatoday.in/technology/story/iphone-18-pro-could-be-a-much-bigger-upgrade-than-the-iphone-17-pro-heres-what-to-expect-2977914-2026-08-23",
+      "headline": "iPhone 18 Pro could be a much bigger upgrade than the iPhone 17 Pro: Here's what to expectThe iPhone 18 Pro could bring some of Apple's biggest upgrades in years, from a new A20 Pro chip and larger battery to major camera changes. Here's what the next Pro iPhone could bring, based on the speculations so far."
     },
     {
       "sentiment": "positive",
@@ -306,21 +306,31 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/technology/news/story/deepinder-goyal-says-temple-is-the-smallest-wearable-launching-by-end-of-2026-2976588-2026-08-21",
+      "headline": "Deepinder Goyal says Temple is the smallest wearable, launching by end of 2026Deepinder Goyal's Temple wearable is now less than half the size of its earlier version, with limited-edition pre-orders opening soon. The brain-tracking device is expected to start shipping before the end of 2026."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/ajit-doval-china-talks-bangladesh-tarique-rahman-maldives-thilamale-bridge-ptag-2978095-2026-08-23",
+      "headline": "NSA Ajit Doval to visit Beijing on Monday for talks with Chinese counterpartThe talks also assume significance ahead of Xi's expected visit to India next month for the BRICS Summit, which would mark his first trip to the country in several years."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/maharashtra/story/maharashtra-parbhani-nursing-exam-paper-leak-five-arrested-after-whatsapp-photo-2978134-2026-08-23",
       "headline": "5 arrested for clicking nursing exam paper, sending via WhatsApp in MaharashtraAn examination supervisor allegedly photographed a nursing exam question paper in Parbhani and sent it to her sister on WhatsApp. The breach was detected during an inspection, leading to five arrests."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/iit-bombay-phd-cap-eight-year-limit-review-record-620-doctorates-2978132-2026-08-23",
-      "headline": "IIT Bombay caps PhD duration at 8 years after review of long-pending casesIIT Bombay has fixed an 8-year limit for new PhD registrations after reviewing long-pending cases. The decision follows delays linked to supervision gaps, job shifts and Covid-19, even as the institute awarded a record 620 PhDs."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/gavaskar-kapil-dev-21-former-captains-appeal-pakistan-imran-khan-medical-care-2978119-2026-08-23",
-      "headline": "Gavaskar, Kapil among 21 ex-captains in fresh appeal to Pak PM over Imran's healthA group of 21 former international captains, including Kapil Dev and Sunil Gavaskar, has urged Pakistan Prime Minister Shehbaz Sharif to ensure proper medical care for Imran Khan. They called for the Supreme Court-ordered medical assessment and weekly family visits to be carried out without interruption and with dignity."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/duleep-trophy-east-zone-north-zone-controversy-vaibhav-sooryavanshi-2978156-2026-08-23",
+      "headline": "Shahbaz, Gharami save East Zone after Vaibhav's failure, coaches under scanner Sudip Gharami and Shahbaz Ahmed pulled East Zone out of trouble against North East on the opening day of the Duleep Trophy quarter-final. In Bengaluru, North Zone's call to leave out Sanat Sangwan despite his Ranji form drew immediate scrutiny."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/sri-lanka-vs-india-kuldeep-yadav-colombo-test-absence-sitanshu-kotak-2978144-2026-08-23",
+      "headline": "India batting coach shares blunt response on Kuldeep Yadav's Colombo Test omission SL vs IND, 2nd Test: India batting coach Sitanshu Kotak dismissed speculation over whether Kuldeep Yadav would have played in Colombo if fit. Kuldeep missed the Test due to illness, while India took control after reaching 300 for five on Day 1."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/2nd-test-gambhir-not-happy-india-batting-2978143-2026-08-23",
@@ -369,12 +379,12 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/devdutt-padikkal-back-to-back-test-hundreds-india-vs-sri-lanka-test-no-3-2978014-2026-08-23",
-      "headline": "167 in Galle, hundred in SSC: Devdutt Padikkal cements himself as India's Test No. 3 Devdutt Padikkal is making a compelling case for himself as India's long-term No. 3 after producing back-to-back centuries in the two-Test series against Sri Lanka. He followed up his 167 in the first Test in Galle with a composed hundred at the Sinhalese Sports Club Ground."
+      "headline": "167 in Galle, hundred in SSC: Devdutt Padikkal cements himself as India's Test No. 3Devdutt Padikkal is making a compelling case for himself as India's long-term No. 3 after producing back-to-back centuries in the two-Test series against Sri Lanka. He followed up his 167 in the first Test in Galle with a composed hundred at the Sinhalese Sports Club Ground."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/sl-vs-ind-rishabh-pant-wrist-injury-retires-hurt-in-colombo-test-2977992-2026-08-23",
-      "headline": "Rishabh Pant walks off retired hurt after wrist injury in Colombo Test Rishabh Pant retired hurt after being struck on the left wrist by a Lahiru Kumara short ball in India's first innings in Colombo. The setback came just after tea and added to India's concerns despite a strong recovery led by Shubman Gill and Devdutt Padikkal."
+      "headline": "Rishabh Pant walks off retired hurt after wrist injury in Colombo TestRishabh Pant retired hurt after being struck on the left wrist by a Lahiru Kumara short ball in India's first innings in Colombo. The setback came just after tea and added to India's concerns despite a strong recovery led by Shubman Gill and Devdutt Padikkal."
     },
     {
       "sentiment": "positive",
@@ -465,16 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/hockey/story/hockey-world-cup-2026-netherlands-vs-india-report-harmanpreet-singh-craig-fulton-2977673-2026-08-22",
       "headline": "Hockey World Cup: India's semis dream all but over as Netherlands break hearts againIndia's hopes of ending their jinx of reaching the semi-final of the men's hockey World Cup are all but over after their 1-3 loss to Olympic champions Netherlands on Saturday, August 22."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/hockey/story/hockey-world-cup-2026-rahul-dravid-steve-waugh-netherlands-beat-india-2977671-2026-08-22",
-      "headline": "Rahul Dravid, Steve Waugh bring cricket royalty to India-Netherlands Hockey clashRahul Dravid and Steve Waugh added cricketing royalty to the Wagener Stadium as India faced the Netherlands in the FIH Hockey World Cup 2026. Dravid's long-standing love for hockey made his presence especially significant, but India lost 1-3 to the Dutch in Amstelveen."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/kuldeep-yadav-saransh-jain-india-colombo-test-selection-puzzle-2977592-2026-08-22",
-      "headline": "The Kuldeep Yadav dilemma: Has one quiet Test put his Colombo spot in jeopardy?Kuldeep Yadav's subdued outing in Galle has left India facing a tricky selection call ahead of the Colombo Test. With Gautam Gambhir backing the wrist-spinner, can Kuldeep retain his place and deliver in the second Test?"
     }
   ],
   "education": [
@@ -504,7 +504,7 @@
       "headline": "Fresh plea in Supreme Court to recall NEET results, reconduct examsA fresh petition has been filed in the Supreme Court\u00a0to recall the National Entrance cum Eligibility Test - Under Graduate (NEET-UG) 2024 results and re-conduct fresh examination after\u00a0discrepancies in the declared results.\r\n\r\n"
     },
     {
-      "sentiment": "negative",
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/education/story/nta-issues-clarification-after-neet-2024-controversy-cheating-in-exam-high-cut-off-2550063-2024-06-07",
       "headline": "NTA issues clarification after NEET result controversy over toppers, high cut-offIn a detailed statement, the National Testing Agency (NTA) said that the increase in cut-off and number of toppers in the NEET-UG reflect the competitive nature of the exam and maintained that the test's integrity has not been compromised."
     },
