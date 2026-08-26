@@ -1,6 +1,11 @@
 {
   "business": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/karnataka-stays-on-investors-radar-despite-bengaluru-traffic-woes-says-mb-patil-2980499-2026-08-26",
+      "headline": "Karnataka stays on investors' radar despite Bengaluru traffic woes, says MB PatilAt the India Today Karnataka Summit 2026, Minister MB Patil said the state continues to attract investors despite challenges linked to Bengaluru's traffic and land availability."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/story/india-overtakes-uae-saudi-arabia-as-kenyas-top-petrol-supplier-iran-war-hormuz-russia-2980422-2026-08-26",
       "headline": "India overtakes UAE, Saudi Arabia to become top petrol supplier to KenyaIndia has overtaken Gulf giants like Saudi Arabia and the UAE as Kenya's biggest source of petroleum products amid disruptions caused by the US-Iran war. The shift is part of a wider surge that has made Africa the main market for Indian petroleum products."
@@ -94,11 +99,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/onion-prices-rise-govt-sends-kanda-express-train-5-cities-control-hike-nashik-lasalgaon-2979423-2026-08-25",
       "headline": "Govt sends 'Kanda Express' trains to 5 cities as onion prices rise 59%The government has started transporting onions by rail from Nashik in Maharashtra to five major cities \u2014 Delhi, Chennai, Kochi, Madurai and Guwahati, under the 'Kanda Express' initiative."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/fedex-to-pump-150-million-into-delhi-airport-cargo-hub-2979409-2026-08-25",
-      "headline": "FedEx to pump $150 million into Delhi Airport cargo hubThe company will invest $150 million to develop an integrated air cargo hub at Delhi's Indira Gandhi International Airport."
     }
   ],
   "entertainment": [
@@ -202,12 +202,12 @@
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/world/story/nepal-flash-floods-wash-away-villages-project-sites-near-tibet-border-deaths-feared-2980192-2026-08-26",
-      "headline": "133 Indians missing in Nepal flash flood; 22 killed; Bihar, UP borders on alert Live UpdatesSecurity footage captured people fleeing before rocks, mud and water surged through the Gyirong port near the Tibetan border. A German geoscience body reported a 4.4-magnitude earthquake struck roughly seven minutes earlier."
+      "headline": "133 Indians missing in Nepal flash flood; 95 killed; Bihar, UP borders on alert Live UpdatesSecurity footage captured people fleeing before rocks, mud and water surged through the Gyirong port near the Tibetan border. A German geoscience body reported a 4.4-magnitude earthquake struck roughly seven minutes earlier."
     },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/world/story/nepal-flash-flood-live-updates-bhotekoshi-river-casualties-rescue-operations-indians-missing-deaths-2980279-2026-08-26",
-      "headline": "Live: PM Modi speaks to Nepal's Balen Shah; India to send relief supplies tonightNepal Flash Flood Live Updates: A massive flash flood in Nepal's Bhote Koshi-Trishuli river basin has killed at least 16 people and injured 36 others after floodwaters surged from the Tibet side into Rasuwa and neighbouring districts on Wednesday. Nepal's Foreign Minister said initial reports suggest an earthquake triggered an avalanche that may have caused the devastating flood, though authorities are still investigating the exact sequence of events. The disaster has also triggered alerts in downstream areas, with Bihar reviewing the potential flood threat and Uttar Pradesh's Maharajganj and Kushinagar administrations put on high alert amid the possibility of rising Gandak-Narayani river levels. In Nepal, Rasuwa, Nuwakot, Dhading, Chitawan and Gorkha remain on alert as rescue operations continue, with helicopters and security personnel deployed to evacuate stranded people. Stay tuned to this live blog for all the latest updates."
+      "headline": "Live: PM Modi speaks to Nepal's Balen Shah; India to send relief supplies tonightNepal Flash Flood Live Updates: A massive flash flood in Nepal's Bhote Koshi-Trishuli river basin struck Rasuwa and neighbouring districts on Wednesday after floodwaters surged from the Tibet side. Bagmati Pradesh Police said 95 bodies have been recovered so far, while the latest update said 403 Nepalese and foreign tourists remain missing in Rasuwa, including 203 women and 200 men. Of those missing, 341 are foreign nationals, including 133 Indians, while 62 are Nepalese. Nepal's Foreign Minister said initial reports suggest an earthquake triggered an avalanche that may have caused the devastating flood, though authorities are still investigating the exact sequence of events. The disaster has also triggered alerts in downstream areas, with Bihar reviewing the potential flood threat and Uttar Pradesh's Maharajganj and Kushinagar administrations put on high alert amid the possibility of rising Gandak-Narayani river levels. In Nepal, Rasuwa, Nuwakot, Dhading, Chitawan and Gorkha remain on alert as rescue operations continue, with helicopters and security personnel deployed to evacuate stranded people. Stay tuned to this live blog for all the latest updates."
     },
     {
       "sentiment": "positive",
@@ -215,19 +215,34 @@
       "headline": "I prefer a Rs 50 haircut, says Karnataka CM DK Shivakumar, BJP cites Rs 1,400-crore wealthKarnataka Chief Minister DK Shivakumar said he goes for a Rs 50 haircut and prefers to lead a simple life. He made the remarks while speaking at the India Today Roundtable Karnataka, his first interview since taking charge as chief minister. The BJP levelled hypocrisy allegations, citing his assets worth Rs 1,400 crore."
     },
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/spiritual-leader-sadhguru-says-77-kailash-pilgrims-were-at-tibet-immigration-centre-when-flash-flood-hit-2980524-2026-08-26",
+      "headline": "77 pilgrims from Sadhguru's Kailash group missing after flash flood in TibetSadhguru said 77 pilgrims from one of his Kailash pilgrimage groups were at an immigration centre in Tibet when the flash flood struck, and that their condition and whereabouts were yet to be confirmed officially."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/nepal-tibet-border-floods-kill-nine-destroy-roads-bridges-power-projects-2980314-2026-08-26",
+      "headline": "Flash flood: CCTV shows mud-and-water monster swallowing buildings, people in TibetTorrential floods and landslides battered Nepal's northern border areas near Tibet on Wednesday, sweeping through settlements and damaging roads, bridges, hydropower projects and other critical infrastructure."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-sri-lanka-2nd-test-gill-follow-on-call-colombo-day-4-2980483-2026-08-26",
+      "headline": "India's follow-on call could beat rain, leave time to win on Day 5SL vs IND, 2nd Test: India enforced the follow-on after bowling Sri Lanka out for 290 and then reduced them to 229 for 6 in Colombo. The late wickets, despite rain and resistance before tea, kept a series sweep firmly within India's sight."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/technology/news/story/bill-gates-warns-humans-are-not-ready-for-turbulent-ai-era-need-plan-asap-2980495-2026-08-26",
+      "headline": "Bill Gates warns humans are not ready for turbulent AI era, need plan ASAPBill Gates says humans are not ready for the disruption AI will bring in future. He warns that AI will eat up millions of jobs affecting the younger generation the most."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/why-gurugram-floods-in-rain-while-noida-drains-faster-and-dwarka-waterlogging-gurgaon-2980232-2026-08-26",
       "headline": "Why Gurugram drowns in rains, but Noida doesn't. 3 key factorsAs always, heavy rain this week left Gurugram's roads submerged, schoolchildren stranded, and commuters wading through waist-deep water. Meanwhile, Delhi's other satellite city, Noida, fared much better. What's behind the contrast?"
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/nepal-tibet-border-floods-kill-nine-destroy-roads-bridges-power-projects-2980314-2026-08-26",
-      "headline": "Viral: Wall of mud and water crashes into buildings in Tibet amid flash flood furyTorrential floods and landslides battered Nepal's northern border areas near Tibet on Wednesday, sweeping through settlements and damaging roads, bridges, hydropower projects and other critical infrastructure."
-    },
-    {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-sri-lanka-live-score-2nd-test-day-4-colombo-weather-prasidh-suthar-jadeja-gill-2980051-2026-08-26",
-      "headline": "Day 4 Live: Rain forces early stumps with India in commandIndia (IND) vs Sri Lanka (SL) Live Score 2nd Test Day 4: Sri Lanka (290, 229/6) lead India by 16 runs (F/O). Rain has forced early stumps in Colombo with Sri Lanka leading by 14 runs. India are on top after Manav Suthar and Saransh Jain took quick wickets after tea."
+      "url": "https://www.indiatoday.in/trending-news/story/bihar-fisherman-catches-dolphin-from-kosi-river-to-take-home-arrested-after-3-days-2980204-2026-08-26",
+      "headline": "Bihar fisherman catches dolphin from Kosi river to take home, arrested after 3 daysA fisherman from Bihar was arrested after a viral video showed him taking a dolphin home from the Kosi river. The case has brought focus on legal protection for the endangered Ganges river dolphin in India."
     },
     {
       "sentiment": "negative",
@@ -241,23 +256,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/bihar-fisherman-catches-dolphin-from-kosi-river-to-take-home-arrested-after-3-days-2980204-2026-08-26",
-      "headline": "Bihar fisherman catches dolphin from Kosi river to take home, arrested after 3 daysA fisherman from Bihar was arrested after a viral video showed him taking a dolphin home from the Kosi river. The case has brought focus on legal protection for the endangered Ganges river dolphin in India."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/karnataka/story/mekedatu-dam-cauvery-row-dk-shivakumar-says-project-benefits-tamil-nadu-2980140-2026-08-26",
       "headline": "Told Vijay, Mekedatu dam is in Tamil Nadu's best interest: DK Shivakumar on Cauvery rowSpeaking at the India Today Roundtable Karnataka, Karnataka Chief Minister DK Shivakumar said he told his Tamil Nadu counterpart Vijay that the proposed Mekedatu dam would protect Tamil Nadu's interests and Bengaluru's drinking water needs."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/nepal-flash-floods-india-bihar-alert-gandak-river-ndrf-rescue-teams-2980431-2026-08-26",
-      "headline": "Alert issued as Nepal floodwaters head to Bihar, rescue teams on standbyBihar and parts of Uttar Pradesh have been put on alert and rescue teams have been stationed after a huge flash flood swept through villages in Nepal, leaving over 20 dead and hundreds missing."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/sridhar-vembu-reveals-mantra-to-run-successful-business-says-everyone-must-do-it-2980071-2026-08-26",
-      "headline": "Sridhar Vembu reveals mantra to run successful business, says everyone must do itZoho founder Sridhar Vembu says entrepreneurs from technical backgrounds should spend more time on sales calls, face rejection and learn to communicate better if they want to build successful businesses."
     },
     {
       "sentiment": "positive",
@@ -265,19 +265,19 @@
       "headline": "Woman 'retires' at 29, shares 4-step plan to leave corporate job for farm lifeA woman has gone viral after saying she \"retired\" at 29 and sharing four steps behind her slower, farm-based lifestyle. From buying land and planting fruit trees to growing food and filling the space with flowers, her message centres on self-sufficiency, peace and stepping away from constant pressure."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/shashi-kumar-akshayakalpa-organic-ex-wipro-architect-farming-youth-income-model-2980238-2026-08-26",
-      "headline": "Bengaluru engineer quits Wipro to build Rs 600-crore farming ventureBefore starting Akshayakalpa Organic, Shashi Kumar had spent over a decade at Wipro, where he served as a chief architect. The Tiptur native left a well-paying job and ventured into organic farming. His journey is both a testament to perseverance and an inspiration for those who feel deeply rooted in their hometowns and aspire to return to their roots."
-    },
-    {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/science/story/nepal-flash-flood-what-is-it-and-why-the-himalayan-country-is-so-vulnerable-to-it-2980290-2026-08-26",
-      "headline": "What is a flash flood, and why is Nepal so vulnerable to it?A flash flood in Nepal's Rasuwa district has killed at least nine people and left 105 Indians missing. The disaster has renewed focus on how mountains, monsoon rain and glacial risks can trigger sudden downstream threats."
+      "url": "https://www.indiatoday.in/health/story/fssai-notice-andaz-jw-marriott-delhi-food-safety-lapses-2980517-2026-08-26",
+      "headline": "FSSAI notice to Andaz, JW Marriott in Delhi over food safety lapsesFSSAI has issued notices to Andaz Delhi and JW Marriott after inspections found multiple violations. The findings widen a broader crackdown on food safety at premium hotels."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/national-teachers-award-2026-biology-teacher-cisce-real-life-stories-inspiration-engaging-students-2980104-2026-08-26",
-      "headline": "National Teachers' Awards 2026: She teaches Biology through Parkinson's, Messi, real lifeRadha Rajesh has won the National Teachers' Award 2026 representing CISCE. She uses real-life stories, from Parkinson's to Lionel Messi's growth hormone journey, to make biology engaging, relatable and meaningful for her students. Her teaching philosophy goes beyond marks, focusing on curiosity, critical thinking, research and helping children recognise their own potential."
+      "url": "https://www.indiatoday.in/world/story/germany-airport-malaria-mosquito-travel-from-plane-kills-employee-infects-six-more-2980520-2026-08-26",
+      "headline": "Mosquito travels to Germany on plane, kills airport staffer with malaria, infects 6An employee at Germany's Frankfurt Airport has died from malaria even as six others are infected. Health authorities suspect a mosquito carried on a flight from a malaria-endemic region infected the airport staffers."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/nepal-flash-floods-india-bihar-alert-gandak-river-ndrf-rescue-teams-2980431-2026-08-26",
+      "headline": "Alert issued as Nepal floodwaters head to Bihar, rescue teams on standbyBihar and parts of Uttar Pradesh have been put on alert and rescue teams have been stationed after a huge flash flood swept through villages in Nepal, leaving over 50 dead and hundreds missing."
     },
     {
       "sentiment": "positive",
@@ -286,18 +286,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/4-indian-based-companies-3-individuals-sanctioned-by-us-over-119-million-iran-oil-trade-2979996-2026-08-26",
-      "headline": "US sanctions 4 India-based companies, 3 individuals over Iran oil tradeThe US has sanctioned four India-based companies and three Indian nationals over alleged Iranian oil and petrochemical trade. The latest sanctions are part of what Washington has described as an \"economic onslaught against Tehran's financial connections around the globe\"."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/pakistan-skardu-airbase-operation-sindoor-importance-china-message-2980207-2026-08-26",
-      "headline": "India wanted to hit Pakistan's Skardu airbase. A message for China?Former CDS General Anil Chauhan revealed that Pakistan's Skardu air base was among the targets India had planned to strike during Operation Sindoor. The base, which was bombed in 1971, played a key role during the Kargil War. Why is it so vital to Pakistan?"
+      "url": "https://www.indiatoday.in/world/story/meta-settles-with-us-states-over-claims-facebook-instagram-were-designed-to-addict-children-mislead-users-2980530-2026-08-26",
+      "headline": "Meta reaches settlement over claims Facebook, Instagram fueled child addictionMeta denied wrongdoing in agreeing to the settlement. The company also agreed to introduce nationwide changes for teenage users of Facebook and Instagram, including daily usage limits and overnight restrictions, according to the court papers."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/cia-chief-in-russia-nuclear-attack-on-ukraine-iran-economic-sanctions-reason-of-visit-speculations-2980122-2026-08-26",
-      "headline": "What's behind CIA chief's secretive Russia visit? Linked to N-attack, Iran crisis?CIA Director John Ratcliffe's unannounced trip to Moscow has sparked speculation over the reasons behind the visit. The secrecy surrounding the trip has prompted geopolitical voices to float theories. While some link it to concerns over a possible Russian nuclear strike on Ukraine, others see an Iran sanctions angle."
+      "url": "https://www.indiatoday.in/technology/news/story/sridhar-vembu-reveals-mantra-to-run-successful-business-says-everyone-must-do-it-2980071-2026-08-26",
+      "headline": "Sridhar Vembu reveals mantra to run successful business, says everyone must do itZoho founder Sridhar Vembu says entrepreneurs from technical backgrounds should spend more time on sales calls, face rejection and learn to communicate better if they want to build successful businesses."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/news/story/shashi-kumar-akshayakalpa-organic-ex-wipro-architect-farming-youth-income-model-2980238-2026-08-26",
+      "headline": "Bengaluru engineer quits Wipro to build Rs 600-crore farming ventureBefore starting Akshayakalpa Organic, Shashi Kumar had spent over a decade at Wipro, where he served as a chief architect. The Tiptur native left a well-paying job and ventured into organic farming. His journey is both a testament to perseverance and an inspiration for those who feel deeply rooted in their hometowns and aspire to return to their roots."
     },
     {
       "sentiment": "positive",
@@ -306,13 +306,13 @@
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/gyirong-port-flood-cctv-tibet-border-mudslide-nepal-missing-travellers-2980448-2026-08-26",
-      "headline": "Multi-level parking collapses; cars, buses swept away in Tibet during flash floodsDevastating visuals emerging from the Nepal-China border area show cars and buses being swept away as raging floodwaters overwhelm and collapse a multi-level parking structure in China's Tibet."
+      "url": "https://www.indiatoday.in/science/story/nepal-flash-flood-what-is-it-and-why-the-himalayan-country-is-so-vulnerable-to-it-2980290-2026-08-26",
+      "headline": "What is a flash flood, and why is Nepal so vulnerable to it?A flash flood in Nepal's Rasuwa district has killed at least 55 people and left 133 Indians missing. The disaster has renewed focus on how mountains, monsoon rain and glacial risks can trigger sudden downstream threats."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/yashasvi-jaiswal-vaibhav-sooryavanshi-conduct-row-manjrekar-warning-2980081-2026-08-26",
-      "headline": "ICC, BCCI must not let Sooryavanshi, Yashasvi off for bad behaviour: ManjrekarSL vs IND: Sanjay Manjrekar has questioned the lack of action against young Indian cricketers after Yashasvi Jaiswal and Sri Lanka's Asitha Fernando were punished for their Colombo altercation, drawing parallels with Vaibhav Sooryavanshi's earlier confrontation with Sri Lankan players."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/pakistan-skardu-airbase-operation-sindoor-importance-china-message-2980207-2026-08-26",
+      "headline": "India wanted to hit Pakistan's Skardu airbase. A message for China?Former CDS General Anil Chauhan revealed that Pakistan's Skardu air base was among the targets India had planned to strike during Operation Sindoor. The base, which was bombed in 1971, played a key role during the Kargil War. Why is it so vital to Pakistan?"
     },
     {
       "sentiment": "positive",
@@ -321,6 +321,26 @@
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-spin-bowling-coach-bahutule-reaction-jadeja-no-balls-88-tests-2021-2980528-2026-08-26",
+      "headline": "88 no-balls since 2021: India coach suggests unique way to curb Jadeja's habit Ravindra Jadeja has bowled 88 no-balls in Test cricket since 2021, and his repeated overstepping has prompted India spin bowling coach Sairaj Bahutule to suggest a rather unusual solution: introduce free hits in the longest format."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/shreyanka-patil-india-trolling-dance-reels-injury-comeback-karnataka-roundtable-2980519-2026-08-26",
+      "headline": "Shreyanka Patil hits back at trolls over dance reels: They're jealous I'm doing well Speaking at India Today's Karnataka Roundtable, Indian women's cricketer Shreyanka Patil opened up about facing social media trolling and revealed how she battled through a difficult injury phase that once made her consider quitting cricket."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/athletics/story/arshad-nadeem-pakistan-sports-board-noc-row-south-africa-training-trip-2980496-2026-08-26",
+      "headline": "Arshad Nadeem embroiled in new fight with Pakistan sports authorities Arshad Nadeem is involved in another tussle with the Pakistan sports authorities after the Olympic champion's trip to South Africa for a training camp has created controversy."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-sri-lanka-2nd-test-gill-follow-on-call-colombo-day-4-2980483-2026-08-26",
+      "headline": "India's follow-on call could beat rain, leave time to win on Day 5 SL vs IND, 2nd Test: India enforced the follow-on after bowling Sri Lanka out for 290 and then reduced them to 229 for 6 in Colombo. The late wickets, despite rain and resistance before tea, kept a series sweep firmly within India's sight."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/england-vs-pakistan-joe-root-captaincy-stephen-fleming-2980461-2026-08-26",
@@ -359,22 +379,22 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/icc-test-rankings-mitchell-starc-replaces-jasprit-bumrah-no-1-2980212-2026-08-26",
-      "headline": "ICC Test Rankings: Mitchell Starc replaces Jasprit Bumrah as No.1 Test bowler Jasprit Bumrah has been dethroned as the No.1 Test bowler, with Australia's Mitchell Starc taking the top spot for the first time after his stellar performance against Bangladesh."
+      "headline": "ICC Test Rankings: Mitchell Starc replaces Jasprit Bumrah as No.1 Test bowlerJasprit Bumrah has been dethroned as the No.1 Test bowler, with Australia's Mitchell Starc taking the top spot for the first time after his stellar performance against Bangladesh."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/video/etpl-europe-t20-abhishek-bachchan-interview-rahul-dravid-steve-waugh-2980203-2026-08-26",
-      "headline": "ETPL 2026: Why Abhishek Bachchan believes cricket can become big in Europe In this exclusive interaction with IndiaToday.in, the co-owner of the European T20 Premier League, Abhishek Bachchan, spoke about the new league and how he managed to bring in a star-studded group of owners. Legendary names, including Rahul Dravid, Steve Waugh and Jonty Rhodes, have joined Bachchan as team owners."
+      "headline": "ETPL 2026: Why Abhishek Bachchan believes cricket can become big in EuropeIn this exclusive interaction with IndiaToday.in, the co-owner of the European T20 Premier League, Abhishek Bachchan, spoke about the new league and how he managed to bring in a star-studded group of owners. Legendary names, including Rahul Dravid, Steve Waugh and Jonty Rhodes, have joined Bachchan as team owners."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/etpl-cricket-europe-abhishek-bachchan-owner-interview-2980194-2026-08-26",
-      "headline": "When Steve Waugh said yes in 48 hours. Abhishek Bachchan's ETPL dream takes off Abhishek Bachchan reveals how Steve Waugh signed on to the European T20 Premier League within 48 hours, as Rahul Dravid and Jonty Rhodes embrace his plan to build a six-team franchise league in Europe."
+      "headline": "When Steve Waugh said yes in 48 hours. Abhishek Bachchan's ETPL dream takes offAbhishek Bachchan reveals how Steve Waugh signed on to the European T20 Premier League within 48 hours, as Rahul Dravid and Jonty Rhodes embrace his plan to build a six-team franchise league in Europe."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/us-open-sumit-nagal-loses-qualifying-india-singles-challenge-ends-2980176-2026-08-26",
-      "headline": "US Open: No Indian singles challenge in main draw as Sumit Nagal bows out India will have no representation in the singles main draw at the US Open after Sumit Nagal lost to top seed Arthur Gea in the opening round of qualifiers in New York."
+      "headline": "US Open: No Indian singles challenge in main draw as Sumit Nagal bows outIndia will have no representation in the singles main draw at the US Open after Sumit Nagal lost to top seed Arthur Gea in the opening round of qualifiers in New York."
     },
     {
       "sentiment": "positive",
@@ -455,26 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/sl-vs-ind-india-bowling-coach-morne-morkel-enforce-follow-on-colombo-test-2979806-2026-08-25",
       "headline": "SL vs IND: India open to enforcing follow-on in bid to win rain-hit Colombo TestIndia bowling coach Morne Morkel confirmed that the visitors could enforce the follow-on against Sri Lanka in the second Test in Colombo if they get the chance, with the weather set to play a key role."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/prasidh-krishna-india-vs-sri-lanka-colombo-test-silences-critics-2979767-2026-08-25",
-      "headline": "From critics' favourite to world-class: Prasidh Krishna learns to silence the noisePrasidh Krishna's journey has been anything but smooth, but the India pacer is finally finding consistency. As Morne Morkel praises his growth, Sanjay Manjrekar explains what makes the hard-hitting pacer such a different threat."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/sri-lanka-vs-india-sarfaraz-khan-sledging-dhananjaya-de-silva-colombo-test-2979765-2026-08-25",
-      "headline": "Don't be scared, you're captain: Sarfaraz sledges Dhananjaya de Silva in ColomboSarfaraz Khan, who was on as a substitute fielder, made sure to make his presence felt by trying to get into the head of Sri Lanka captain Dhananjaya de Silva. Sarfaraz also engaged in mind games with Niroshan Dickwella."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/medhavi-bidhuri-asks-virat-kohli-follow-back-after-viral-wdpl-celebration-2979750-2026-08-25",
-      "headline": "Hey Virat Kohli, please follow me back: Medhavi Bidhuri requests India legendMedhavi Bidhuri has become a breakout name in the Women's Delhi Premier League 2026, with her viral '6-7' celebration grabbing attention. The Delhi leg-spinner now hopes for a follow-back from Virat Kohli and dreams of earning an RCB spot in the WPL."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/us-open-2026-novak-djokovic-grand-slam-chances-roger-federer-2979729-2026-08-25",
-      "headline": "Don't write off Djokovic: Federer backs Serbian's title hunt at US OpenRoger Federer has backed Novak Djokovic to contend again at the US Open despite the Serbian's recent major frustrations. The endorsement from a long-time rival underlines how Djokovic's pedigree still shapes the field as he chases a 25th Slam."
     }
   ],
   "education": [
