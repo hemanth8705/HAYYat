@@ -1,6 +1,11 @@
 {
   "business": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/story/india-overtakes-uae-saudi-arabia-as-kenyas-top-petrol-supplier-iran-war-hormuz-russia-2980422-2026-08-26",
+      "headline": "India overtakes UAE, Saudi Arabia to become top petrol supplier to KenyaIndia has overtaken Gulf giants like Saudi Arabia and the UAE as Kenya's biggest source of petroleum products amid disruptions caused by the US-Iran war. The shift is part of a wider surge that has made Africa the main market for Indian petroleum products."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/sensex-falls-183-points-nifty-slips-as-it-stocks-drag-market-lower-2980282-2026-08-26",
       "headline": "Sensex falls 183 points, Nifty slips as IT stocks drag market lowerThe BSE Sensex fell 183.15 points, or 0.24%, to 77,472.94, while the Nifty 50 declined 126.80 points, or 0.52%, to 24,207.75. The Sensex had opened at 77,892.10 and touched an intraday high of 77,986.84 before giving up gains. The Nifty also slipped from its opening level of 24,341.95."
@@ -94,14 +99,19 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/fedex-to-pump-150-million-into-delhi-airport-cargo-hub-2979409-2026-08-25",
       "headline": "FedEx to pump $150 million into Delhi Airport cargo hubThe company will invest $150 million to develop an integrated air cargo hub at Delhi's Indira Gandhi International Airport."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/sugar-prices-india-rise-16-percent-indian-households-keep-consumption-steady-rudce-22-percent-2979361-2026-08-25",
-      "headline": "Sugar shock hits Indian kitchens. Here's how households are respondingA survey has found that most households have continued buying the same amount of sugar despite the price rise, with many choosing to absorb the higher cost rather than cut back. Only a minority said they had reduced purchases for home use."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/orlando-bloom-exits-priyanka-chopras-reset-for-unknown-reasons-ahead-of-filming-2980393-2026-08-26",
+      "headline": "Orlando Bloom exits Priyanka Chopra's Reset for unknown reasons ahead of filming Hollywood actor Orlando Bloom has exited actor Priyanka Chopra's survival thriller Reset ahead of filming. Bloom was also attached to the film as an executive producer."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/music/story/did-you-know-dolly-parton-had-a-hilarious-name-for-her-breasts-know-the-story-2980389-2026-08-26",
+      "headline": "Did you know Dolly Parton had a hilarious name for her breasts? Know the story Dolly Parton's long-running joke about naming her breasts resurfaced as fans revisited the remark. The nickname sums up how she has long used humour to control attention around her image."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/sandeep-reddy-vanga-confirms-prabhas-spirit-will-get-an-a-certificate-2980347-2026-08-26",
@@ -186,33 +196,23 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/kriti-sanon-giva-raksha-bandhan-ad-withdrawn-after-outfit-controversy-2980099-2026-08-26",
       "headline": "Kriti Sanon's Rakhi ad pulled day after actor shreds trolls over her outfit The Raksha Bandhan advertisement featuring Kriti Sanon has been withdrawn after her outfit in the campaign drew criticism on social media. The move came amid the backlash, Kangana Ranaut's remarks and the subsequent clarification issued by the jewellery brand."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/awarapan-2-box-office-collection-emraan-hashmi-film-crosses-rs-200-crore-worldwide-2980082-2026-08-26",
-      "headline": "Awarapan 2 box office Day 12: Emraan turns nostalgia into 1st Rs 200 crore solo hit Emraan Hashmi's Awarapan 2 has crossed the Rs 200 crore mark worldwide after a steady second week. The strong run comes despite rising competition and likely screen loss to Toxic."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/hollywood/story/avengers-endgame-encore-india-release-september-25-doomsday-footage-2980069-2026-08-26",
-      "headline": "Avengers: Endgame returns to theatres with new footage ahead of Doomsday Marvel Studios is re-releasing Avengers: Endgame Encore in Indian cinemas on September 25. The extended cut adds new footage and ties the film to Avengers: Doomsday."
     }
   ],
   "general news": [
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/world/story/nepal-flash-floods-wash-away-villages-project-sites-near-tibet-border-deaths-feared-2980192-2026-08-26",
-      "headline": "105 Indians missing in Nepal flash flood; 16 killed; Bihar, UP borders on alert Live UpdatesThe cause of the flash floods remained unclear. Nepal's Flood Forecasting Division said it was unlikely to have been caused by heavy rain in Rasuwa, while satellite imagery showed significant rainfall on the Tibetan side."
+      "headline": "133 Indians missing in Nepal flash flood; 22 killed; Bihar, UP borders on alert Live UpdatesSecurity footage captured people fleeing before rocks, mud and water surged through the Gyirong port near the Tibetan border. A German geoscience body reported a 4.4-magnitude earthquake struck roughly seven minutes earlier."
     },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/world/story/nepal-flash-flood-live-updates-bhotekoshi-river-casualties-rescue-operations-indians-missing-deaths-2980279-2026-08-26",
-      "headline": "Live: PM Modi speaks to Balen Shah, offers all possible relief assistanceNepal Flash Flood Live Updates: A massive flash flood in Nepal's Bhote Koshi-Trishuli river basin has killed at least 16 people and injured 36 others after floodwaters surged from the Tibet side into Rasuwa and neighbouring districts on Wednesday. Nepal's Foreign Minister said initial reports suggest an earthquake triggered an avalanche that may have caused the devastating flood, though authorities are still investigating the exact sequence of events. The disaster has also triggered alerts in downstream areas, with Bihar reviewing the potential flood threat and Uttar Pradesh's Maharajganj and Kushinagar administrations put on high alert amid the possibility of rising Gandak-Narayani river levels. In Nepal, Rasuwa, Nuwakot, Dhading, Chitawan and Gorkha remain on alert as rescue operations continue, with helicopters and security personnel deployed to evacuate stranded people. Stay tuned to this live blog for all the latest updates."
+      "headline": "Live: PM Modi speaks to Nepal's Balen Shah; India to send relief supplies tonightNepal Flash Flood Live Updates: A massive flash flood in Nepal's Bhote Koshi-Trishuli river basin has killed at least 16 people and injured 36 others after floodwaters surged from the Tibet side into Rasuwa and neighbouring districts on Wednesday. Nepal's Foreign Minister said initial reports suggest an earthquake triggered an avalanche that may have caused the devastating flood, though authorities are still investigating the exact sequence of events. The disaster has also triggered alerts in downstream areas, with Bihar reviewing the potential flood threat and Uttar Pradesh's Maharajganj and Kushinagar administrations put on high alert amid the possibility of rising Gandak-Narayani river levels. In Nepal, Rasuwa, Nuwakot, Dhading, Chitawan and Gorkha remain on alert as rescue operations continue, with helicopters and security personnel deployed to evacuate stranded people. Stay tuned to this live blog for all the latest updates."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/karnataka/story/mekedatu-dam-cauvery-row-dk-shivakumar-says-project-benefits-tamil-nadu-2980140-2026-08-26",
-      "headline": "Told Vijay Mekedatu dam is in Tamil Nadu's best interest: Shivakumar on Cauvery rowSpeaking at the India Today Roundtable Karnataka, Karnataka Chief Minister DK Shivakumar said he told his Tamil Nadu counterpart Vijay that the proposed Mekedatu dam would protect Tamil Nadu's interests and Bengaluru's drinking water needs."
+      "url": "https://www.indiatoday.in/india/karnataka/story/dk-shivakumar-rs-50-haricut-rajdeep-sardesai-interview-india-today-roundtable-karnataka-2980342-2026-08-26",
+      "headline": "I prefer a Rs 50 haircut, says Karnataka CM DK Shivakumar, BJP cites Rs 1,400-crore wealthKarnataka Chief Minister DK Shivakumar said he goes for a Rs 50 haircut and prefers to lead a simple life. He made the remarks while speaking at the India Today Roundtable Karnataka, his first interview since taking charge as chief minister. The BJP levelled hypocrisy allegations, citing his assets worth Rs 1,400 crore."
     },
     {
       "sentiment": "positive",
@@ -220,9 +220,9 @@
       "headline": "Why Gurugram drowns in rains, but Noida doesn't. 3 key factorsAs always, heavy rain this week left Gurugram's roads submerged, schoolchildren stranded, and commuters wading through waist-deep water. Meanwhile, Delhi's other satellite city, Noida, fared much better. What's behind the contrast?"
     },
     {
-      "sentiment": "positive",
+      "sentiment": "negative",
       "url": "https://www.indiatoday.in/world/story/nepal-tibet-border-floods-kill-nine-destroy-roads-bridges-power-projects-2980314-2026-08-26",
-      "headline": "Viral: Wall of mud and water crashes into buildings in Nepal amid flash flood furyTorrential floods hit the Himalayan border areas of Nepal and Tibet on Wednesday, killing at least 16 people and damaging roads, bridges and power projects."
+      "headline": "Viral: Wall of mud and water crashes into buildings in Tibet amid flash flood furyTorrential floods and landslides battered Nepal's northern border areas near Tibet on Wednesday, sweeping through settlements and damaging roads, bridges, hydropower projects and other critical infrastructure."
     },
     {
       "sentiment": "positive",
@@ -230,54 +230,14 @@
       "headline": "Day 4 Live: Rain forces early stumps with India in commandIndia (IND) vs Sri Lanka (SL) Live Score 2nd Test Day 4: Sri Lanka (290, 229/6) lead India by 16 runs (F/O). Rain has forced early stumps in Colombo with Sri Lanka leading by 14 runs. India are on top after Manav Suthar and Saransh Jain took quick wickets after tea."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/cia-chief-in-russia-nuclear-attack-on-ukraine-iran-economic-sanctions-reason-of-visit-speculations-2980122-2026-08-26",
-      "headline": "What's behind CIA chief's secretive Russia visit? Linked to N-attack, Iran crisis?CIA Director John Ratcliffe's unannounced trip to Moscow has sparked speculation over the reasons behind the visit. The secrecy surrounding the trip has prompted geopolitical voices to float theories. While some link it to concerns over a possible Russian nuclear strike on Ukraine, others see an Iran sanctions angle."
-    },
-    {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/pakistan-skardu-airbase-operation-sindoor-importance-china-message-2980207-2026-08-26",
-      "headline": "India wanted to hit Pakistan's Skardu airbase. A message for China?Former CDS General Anil Chauhan revealed that Pakistan's Skardu air base was among the targets India had planned to strike during Operation Sindoor. The base, which was bombed in 1971, played a key role during the Kargil War. Why is it so vital to Pakistan?"
+      "url": "https://www.indiatoday.in/business/story/india-overtakes-uae-saudi-arabia-as-kenyas-top-petrol-supplier-iran-war-hormuz-russia-2980422-2026-08-26",
+      "headline": "India overtakes UAE, Saudi Arabia to become top petrol supplier to KenyaIndia has overtaken Gulf giants like Saudi Arabia and the UAE as Kenya's biggest source of petroleum products amid disruptions caused by the US-Iran war. The shift is part of a wider surge that has made Africa the main market for Indian petroleum products."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/national-teachers-award-2026-biology-teacher-cisce-real-life-stories-inspiration-engaging-students-2980104-2026-08-26",
-      "headline": "National Teachers' Awards 2026: She teaches Biology through Parkinson's, Messi, real lifeRadha Rajesh has won the National Teachers' Award 2026 representing CISCE. She uses real-life stories, from Parkinson's to Lionel Messi's growth hormone journey, to make biology engaging, relatable and meaningful for her students. Her teaching philosophy goes beyond marks, focusing on curiosity, critical thinking, research and helping children recognise their own potential."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/shashi-kumar-akshayakalpa-organic-ex-wipro-architect-farming-youth-income-model-2980238-2026-08-26",
-      "headline": "Bengaluru engineer quits Wipro to build Rs 600-crore farming ventureBefore starting Akshayakalpa Organic, Shashi Kumar had spent over a decade at Wipro, where he served as a chief architect. The Tiptur native left a well-paying job and ventured into organic farming. His journey is both a testament to perseverance and an inspiration for those who feel deeply rooted in their hometowns and aspire to return to their roots."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/sridhar-vembu-reveals-mantra-to-run-successful-business-says-everyone-must-do-it-2980071-2026-08-26",
-      "headline": "Sridhar Vembu reveals mantra to run successful business, says everyone must do itZoho founder Sridhar Vembu says entrepreneurs from technical backgrounds should spend more time on sales calls, face rejection and learn to communicate better if they want to build successful businesses."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/4-indian-based-companies-3-individuals-sanctioned-by-us-over-119-million-iran-oil-trade-2979996-2026-08-26",
-      "headline": "US sanctions 4 India-based companies, 3 individuals over Iran oil tradeThe US has sanctioned four India-based companies and three Indian nationals over alleged Iranian oil and petrochemical trade. The latest sanctions are part of what Washington has described as an \"economic onslaught against Tehran's financial connections around the globe\"."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/jobs/story/how-a-29-year-old-retired-from-corporate-life-with-a-4-step-farm-plan-in-pune-educ-2980162-2026-08-26",
-      "headline": "Woman 'retires' at 29, shares 4-step plan to leave corporate job for farm lifeA woman has gone viral after saying she \"retired\" at 29 and sharing four steps behind her slower, farm-based lifestyle. From buying land and planting fruit trees to growing food and filling the space with flowers, her message centres on self-sufficiency, peace and stepping away from constant pressure."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/science/story/nepal-flash-flood-what-is-it-and-why-the-himalayan-country-is-so-vulnerable-to-it-2980290-2026-08-26",
-      "headline": "What is a flash flood, and why is Nepal so vulnerable to it?A flash flood in Nepal's Rasuwa district has killed at least nine people and left 105 Indians missing. The disaster has renewed focus on how mountains, monsoon rain and glacial risks can trigger sudden downstream threats."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/karnataka/story/will-only-sing-two-stanzas-of-vande-mataram-karnataka-cm-dk-shivakumar-says-will-stand-by-congress-party-stan-2980127-2026-08-26",
-      "headline": "No more full Vande Mataram in Karnataka: CM Shivakumar stands by Congress stanceDK Shivakumar said he will stick to Congress's decision to sing only the first two stanzas of Vande Mataram at government and public programmes."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/yashasvi-jaiswal-vaibhav-sooryavanshi-conduct-row-manjrekar-warning-2980081-2026-08-26",
-      "headline": "ICC, BCCI must not let Sooryavanshi, Yashasvi off for bad behaviour: ManjrekarSL vs IND: Sanjay Manjrekar has questioned the lack of action against young Indian cricketers after Yashasvi Jaiswal and Sri Lanka's Asitha Fernando were punished for their Colombo altercation, drawing parallels with Vaibhav Sooryavanshi's earlier confrontation with Sri Lankan players."
+      "url": "https://www.indiatoday.in/india/karnataka/story/priyank-kharge-nepotism-remark-family-springboard-performance-fake-news-unit-karnataka-2980466-2026-08-26",
+      "headline": "Would he be Karnataka Home Minister without his father? Priyank Kharge answersKarnataka Home Minister Priyank Kharge acknowledged that being Mallikarjun Kharge's son gave him a \"springboard\" in politics, but said performance ultimately mattered. He defended his record and questioned why BJP's B Y Vijayendra faced fewer questions over his rise. Kharge also outlined a proposed expert-led mechanism to tackle misinformation without curbing free speech."
     },
     {
       "sentiment": "positive",
@@ -286,18 +246,58 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/food/story/japans-biryani-man-chef-takamasa-osawa-on-ram-charan-i-didnt-really-know-him-2980215-2026-08-26",
-      "headline": "Japan's biryani man on Ram Charan: 'I didn't really know him'Chef Takamasa Osawa, known for his biryani prowess, cooked for Ram Charan and his family at their Hyderabad home. In an exclusive conversation with India Today Digital, the Michelin-recognised chef shared his experience and how he was unaware of his stardom."
+      "url": "https://www.indiatoday.in/india/karnataka/story/mekedatu-dam-cauvery-row-dk-shivakumar-says-project-benefits-tamil-nadu-2980140-2026-08-26",
+      "headline": "Told Vijay, Mekedatu dam is in Tamil Nadu's best interest: DK Shivakumar on Cauvery rowSpeaking at the India Today Roundtable Karnataka, Karnataka Chief Minister DK Shivakumar said he told his Tamil Nadu counterpart Vijay that the proposed Mekedatu dam would protect Tamil Nadu's interests and Bengaluru's drinking water needs."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/bihar-student-protest-six-year-old-boy-police-abhijeet-dipke-aap-react-2980266-2026-08-26",
-      "headline": "Video shows 6-year-old removed by Bihar cops from protest site, Dipke reactsA video of the six-year-old boy being removed by Bihar police from the protest site has drawn widespread criticism, with the Cockroach Janta Party slamming the cops for 'detaining' a child."
+      "url": "https://www.indiatoday.in/india/story/nepal-flash-floods-india-bihar-alert-gandak-river-ndrf-rescue-teams-2980431-2026-08-26",
+      "headline": "Alert issued as Nepal floodwaters head to Bihar, rescue teams on standbyBihar and parts of Uttar Pradesh have been put on alert and rescue teams have been stationed after a huge flash flood swept through villages in Nepal, leaving over 20 dead and hundreds missing."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/reviews/story/toxic-review-yash-big-comeback-is-style-over-substance-a-frustrating-let-down-geetu-mohandas-kiara-advani-film-2980142-2026-08-26",
-      "headline": "Toxic review: Yash's big comeback is a frustrating let-down, style over substanceRelease Date:Wed Aug 26, 2026Toxic movie review: Yash returns with an ambitious gangster drama centred almost entirely on his character Raya. However, strong performances, striking visuals and inventive action cannot overcome its tonal confusion and underwritten women."
+      "url": "https://www.indiatoday.in/technology/news/story/sridhar-vembu-reveals-mantra-to-run-successful-business-says-everyone-must-do-it-2980071-2026-08-26",
+      "headline": "Sridhar Vembu reveals mantra to run successful business, says everyone must do itZoho founder Sridhar Vembu says entrepreneurs from technical backgrounds should spend more time on sales calls, face rejection and learn to communicate better if they want to build successful businesses."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/jobs/story/how-a-29-year-old-retired-from-corporate-life-with-a-4-step-farm-plan-in-pune-educ-2980162-2026-08-26",
+      "headline": "Woman 'retires' at 29, shares 4-step plan to leave corporate job for farm lifeA woman has gone viral after saying she \"retired\" at 29 and sharing four steps behind her slower, farm-based lifestyle. From buying land and planting fruit trees to growing food and filling the space with flowers, her message centres on self-sufficiency, peace and stepping away from constant pressure."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/news/story/shashi-kumar-akshayakalpa-organic-ex-wipro-architect-farming-youth-income-model-2980238-2026-08-26",
+      "headline": "Bengaluru engineer quits Wipro to build Rs 600-crore farming ventureBefore starting Akshayakalpa Organic, Shashi Kumar had spent over a decade at Wipro, where he served as a chief architect. The Tiptur native left a well-paying job and ventured into organic farming. His journey is both a testament to perseverance and an inspiration for those who feel deeply rooted in their hometowns and aspire to return to their roots."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/science/story/nepal-flash-flood-what-is-it-and-why-the-himalayan-country-is-so-vulnerable-to-it-2980290-2026-08-26",
+      "headline": "What is a flash flood, and why is Nepal so vulnerable to it?A flash flood in Nepal's Rasuwa district has killed at least nine people and left 105 Indians missing. The disaster has renewed focus on how mountains, monsoon rain and glacial risks can trigger sudden downstream threats."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/news/story/national-teachers-award-2026-biology-teacher-cisce-real-life-stories-inspiration-engaging-students-2980104-2026-08-26",
+      "headline": "National Teachers' Awards 2026: She teaches Biology through Parkinson's, Messi, real lifeRadha Rajesh has won the National Teachers' Award 2026 representing CISCE. She uses real-life stories, from Parkinson's to Lionel Messi's growth hormone journey, to make biology engaging, relatable and meaningful for her students. Her teaching philosophy goes beyond marks, focusing on curiosity, critical thinking, research and helping children recognise their own potential."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/standpoint/story/raksha-bandhan-has-no-dress-code-so-why-does-kriti-sanon-bralette-offend-us-2980183-2026-08-26",
+      "headline": "Raksha Bandhan has no dress code. So why does Kriti Sanon's bralette offend us?The controversy over Kriti Sanon's Raksha Bandhan outfit shows the persistent policing of women's clothing under the guise of tradition in India. It questions why cultural respect is measured by attire and calls for an end to imposing dress codes on women during festivals."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/4-indian-based-companies-3-individuals-sanctioned-by-us-over-119-million-iran-oil-trade-2979996-2026-08-26",
+      "headline": "US sanctions 4 India-based companies, 3 individuals over Iran oil tradeThe US has sanctioned four India-based companies and three Indian nationals over alleged Iranian oil and petrochemical trade. The latest sanctions are part of what Washington has described as an \"economic onslaught against Tehran's financial connections around the globe\"."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/pakistan-skardu-airbase-operation-sindoor-importance-china-message-2980207-2026-08-26",
+      "headline": "India wanted to hit Pakistan's Skardu airbase. A message for China?Former CDS General Anil Chauhan revealed that Pakistan's Skardu air base was among the targets India had planned to strike during Operation Sindoor. The base, which was bombed in 1971, played a key role during the Kargil War. Why is it so vital to Pakistan?"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/cia-chief-in-russia-nuclear-attack-on-ukraine-iran-economic-sanctions-reason-of-visit-speculations-2980122-2026-08-26",
+      "headline": "What's behind CIA chief's secretive Russia visit? Linked to N-attack, Iran crisis?CIA Director John Ratcliffe's unannounced trip to Moscow has sparked speculation over the reasons behind the visit. The secrecy surrounding the trip has prompted geopolitical voices to float theories. While some link it to concerns over a possible Russian nuclear strike on Ukraine, others see an Iran sanctions angle."
     },
     {
       "sentiment": "positive",
@@ -305,14 +305,14 @@
       "headline": "NIT Durgapur students dance to Chikni Chameli, professor asks 'is this a joke?'A group of students at NIT Durgapur was dancing to Chikni Chameli during a freshers' induction programme when a professor interrupted the performance and questioned whether such a dance had been approved."
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/opinion/story/chennai-second-airport-parandur-project-cancelled-tamil-nadu-aviation-infrastructure-expansion-2980331-2026-08-26",
-      "headline": "Parandur airport: Vijay keeps a poll promise, good for him. Is it good for Chennai?Cities pay for aviation bottlenecks through international routes that never materialize, air-freight logistics that divert to competing gateways, and global manufacturers that alter their investment calculations. Chennai's second airport cannot be on permanent hold."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/gyirong-port-flood-cctv-tibet-border-mudslide-nepal-missing-travellers-2980448-2026-08-26",
+      "headline": "Multi-level parking collapses; cars, buses swept away in Tibet during flash floodsDevastating visuals emerging from the Nepal-China border area show cars and buses being swept away as raging floodwaters overwhelm and collapse a multi-level parking structure in China's Tibet."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/kangana-ranaut-rebuts-rahul-gandhi-kriti-sanon-raksha-bandhan-ad-row-patriarchy-2980035-2026-08-26",
-      "headline": "Bro, wait...: Kangana Ranaut's fresh jab at Rahul amid 'smash the patriarchy' rowActor and BJP MP Kangana Ranaut hit back at Rahul Gandhi over his \"smash the patriarchy\" remark, backing a BJP post questioning Congress' record on women's issues."
+      "url": "https://www.indiatoday.in/sports/cricket/story/yashasvi-jaiswal-vaibhav-sooryavanshi-conduct-row-manjrekar-warning-2980081-2026-08-26",
+      "headline": "ICC, BCCI must not let Sooryavanshi, Yashasvi off for bad behaviour: ManjrekarSL vs IND: Sanjay Manjrekar has questioned the lack of action against young Indian cricketers after Yashasvi Jaiswal and Sri Lanka's Asitha Fernando were punished for their Colombo altercation, drawing parallels with Vaibhav Sooryavanshi's earlier confrontation with Sri Lankan players."
     },
     {
       "sentiment": "positive",
@@ -321,6 +321,16 @@
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/england-vs-pakistan-joe-root-captaincy-stephen-fleming-2980461-2026-08-26",
+      "headline": "How Stephen Fleming's arrival made Joe Root change his mind on England captaincy Joe Root's father has revealed the influence that Stephen Fleming had on him taking up the England Test captaincy. Root started his second stint as England Test captain with a win against Pakistan."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/football/story/raheem-sterling-charged-dangerous-driving-nitrous-oxide-possession-2980445-2026-08-26",
+      "headline": "Raheem Sterling in legal trouble after dangerous driving, nitrous oxide charges Former England forward Raheem Sterling was charged with dangerous driving and possessing nitrous oxide for wrongful inhalation following a motorway crash in May, Hampshire Police said on Wednesday."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ddca-review-delhi-premier-league-rule-dev-chaudhary-selection-controversy-2980379-2026-08-26",
@@ -369,12 +379,12 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/will-pucovski-concussion-injury-sues-school-explained-2980141-2026-08-26",
-      "headline": "Will Pucovski, Australian cricketer who retired at 27, sues school. Here's why Will Pucovski's cricket career was cut short at just 27 after he suffered 13 documented concussion injuries. The ex-player has now sued his former school over the first head injury he suffered as a teenager."
+      "headline": "Will Pucovski, Australian cricketer who retired at 27, sues school. Here's whyWill Pucovski's cricket career was cut short at just 27 after he suffered 13 documented concussion injuries. The ex-player has now sued his former school over the first head injury he suffered as a teenager."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/badminton/story/badminton-15-points-reutrn-bwf-change-pickelball-padel-2980135-2026-08-26",
-      "headline": "Badminton back to 15 points: Is it feeling the heat from pickleball and padel? Badminton is set to return to 15-point games, a major change that has triggered debate over the sport's future. As pickleball and padel boom worldwide, is badminton trying to keep pace with changing tastes?"
+      "headline": "Badminton back to 15 points: Is it feeling the heat from pickleball and padel?Badminton is set to return to 15-point games, a major change that has triggered debate over the sport's future. As pickleball and padel boom worldwide, is badminton trying to keep pace with changing tastes?"
     },
     {
       "sentiment": "positive",
@@ -465,16 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/us-open-2026-novak-djokovic-grand-slam-chances-roger-federer-2979729-2026-08-25",
       "headline": "Don't write off Djokovic: Federer backs Serbian's title hunt at US OpenRoger Federer has backed Novak Djokovic to contend again at the US Open despite the Serbian's recent major frustrations. The endorsement from a long-time rival underlines how Djokovic's pedigree still shapes the field as he chases a 25th Slam."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/england-vs-pakistan-joe-root-reaction-brydon-carse-nightclub-incident-2979727-2026-08-25",
-      "headline": "Joe Root disappointed over Carse nightclub incident, says fast bowler is apologeticJoe Root admitted he was \"hacked off\" and \"disappointed\" after Brydon Carse was seen in handcuffs outside a Derby nightclub, with the latest off-field controversy overshadowing England's emphatic victory over Pakistan."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/duleep-trophy-east-beat-north-east-reach-semis-west-zone-close-to-win-2979667-2026-08-25",
-      "headline": "East beat North East to reach semis, West Zone close to win vs NorthEast Zone stormed into the Duleep Trophy semi-finals with an innings win over North East Zone, while West Zone closed in on victory against North Zone after Musheer Khan and Ruturaj Gaikwad struck crucial half-centuries."
     }
   ],
   "education": [
