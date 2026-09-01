@@ -104,6 +104,11 @@
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/toxic-box-office-day-6-yash-film-sees-sharp-drop-on-first-monday-earns-rs-7-crore-2984145-2026-09-01",
+      "headline": "Toxic box office day 6: Yash film sees sharp drop on first Monday, earns Rs 7 crore Actor Yash's Toxic: A Fairy Tale for Grown-Ups fell to Rs 7.45 crore on its first Monday. The drop follows a strong opening and mixed audience reactions to the screenplay, violence and intimate scenes."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/badshah-and-isha-rikhi-announce-separation-seret-march-wedding-2984127-2026-09-01",
       "headline": "Badshah and Isha Rikhi announce separation after 5 months of marriage Singer Badshah and Isha Rikhi confirmed their separation through a joint social media statement on Monday night. The announcement ended weeks of speculation and came months after their secret wedding in March."
     },
@@ -191,11 +196,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/bigg-boss-kannada-season-13-sudeep-returns-as-host-backs-yash-toxic-2983563-2026-08-31",
       "headline": "'Fellow Kannadiga' Kichcha Sudeep defends standing by Yash amid Toxic reviews Kichcha Sudeep backed Yash and Toxic at the Bigg Boss Kannada Season 13 press conference amid harsh reviews. He also addressed his film career and his upcoming project with Anup Bhandari, Billa Ranga Baashaa."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/censor-board-cuts-35-seconds-of-intimate-scenes-mutes-cuss-words-in-mirzapur-the-movie-2983594-2026-08-31",
-      "headline": "Censor cuts 35 seconds of intimate scenes, mutes cuss words in Mirzapur The Movie Mirzapur The Movie has received an A certificate from the CBFC after 35 seconds of intimate scenes were cut, and several dialogue modifications were made, including muting cuss words and replacing abuses."
     }
   ],
   "general news": [
@@ -205,9 +205,34 @@
       "headline": "Messi retires from international football, says father's death influenced callLionel Messi has announced the decision to retire from international football on Monday, August 31. Messi revealed that he had made the decision two days after the World Cup final loss to Spain and the death of his father proved to be the tipping point for him."
     },
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/us-news/story/new-york-times-square-injured-knife-attack-woman-suspect-shot-2984150-2026-09-01",
+      "headline": "Knife-wielding woman kills one in New York's Times Square, shot dead by cops2 stabbed in New York's Times Square, knife-wielding woman shot dead by police"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/karnataka-food-safety-raids-expired-sweets-khova-six-units-shut-2984072-2026-08-31",
+      "headline": "Karnataka cracks down on sweets manufacturers, expired items seizedFrom 400 kg of khoya to expired curd and mislabelled savouries, Karnataka's latest food safety drive uncovers a string of violations, with several businesses facing closures, seizures and legal action."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/subhash-chandra-insolvency-case-nclt-five-member-bench-rs-6-25-crore-plan-2983986-2026-08-31",
       "headline": "Subhash Chandra's Rs 6.25 crore repayment plan hits a wall at NCLTThe larger bench will decide whether the plan can be approved despite the objections and whether it should also bind creditors who voted against it."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/rasuwagadhi-tunnel-rescue-nepal-no-survivors-933-workers-missing-2983871-2026-08-31",
+      "headline": "Nepal floods trap 93 workers in a tunnel. Thermal drone search draws a blankThe Nepal Army-led rescue team entered the tunnel amid fears that workers might have been trapped inside after the Bhotekoshi River flooded the Rasuwa region."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/us-news/story/jd-vance-blasts-democrat-abdul-el-sayed-usha-vance-michigan-senate-race-clash-says-keep-my-wifes-name-hell-out-of-your-mouth-2984143-2026-09-01",
+      "headline": "Keep my wife's name the hell out of your mouth: JD Vance blasts Democrat's jibeJD Vance warned Abdul El-Sayed after the Democrat invoked Usha Vance in a social media jibe. The exchange began after Vance criticised El-Sayed over his past comments on Sharia law during a rally in Ohio."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/pakistan-punjab-hindu-temple-demolition-narowal-rebuild-demand-ptag-2983910-2026-08-31",
+      "headline": "Land grab for madrassa? 100-year-old Hindu temple razed in Pak, govt blames rainThe Pakistan Masiha Millat Party (PMMP), local people and Hindu community representatives have alleged that a group of religious zealots brought down the temple and that its land was subsequently targeted for use in connection with a nearby seminary."
     },
     {
       "sentiment": "positive",
@@ -215,14 +240,29 @@
       "headline": "Need to move from endless war to end of war: PM Modi to PutinPM Modi told Russian President Vladimir Putin that India would continue to support peace and stressed the need to move from \"endless wars to end of war.\" Modi said both countries could move forward by keeping their respective interests in mind, adding that he carried a message of peace from Mahatma Gandhi and Gautam Buddha."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/pakistan-punjab-hindu-temple-demolition-narowal-rebuild-demand-ptag-2983910-2026-08-31",
-      "headline": "Land grab for madrassa? 100-year-old Hindu temple razed in Pak, Govt blames rainThe Pakistan Masiha Millat Party (PMMP), local people and Hindu community representatives have alleged that a group of religious zealots brought down the temple and that its land was subsequently targeted for use in connection with a nearby seminary."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india-today-insight/story/why-the-fall-of-chinese-general-linked-to-doklam-galwan-face-offs-is-so-consequential-2983802-2026-08-31",
+      "headline": "Why the fall of Chinese general linked to Doklam, Galwan is so consequentialGen Zhao Zongqi built his career as one of the most important Chinese commanders in recent Sino-Indian military history"
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/rasuwagadhi-tunnel-rescue-nepal-no-survivors-933-workers-missing-2983871-2026-08-31",
-      "headline": "Nepal floods trap 93 workers in a tunnel. Thermal drone search draws a blankThe Nepal Army-led rescue team entered the tunnel amid fears that workers might have been trapped inside after the Bhotekoshi River flooded the Rasuwa region."
+      "url": "https://www.indiatoday.in/india/story/anna-hazare-admitted-to-icu-in-mumbai-with-severe-viral-infection-acute-dehydration-2984023-2026-08-31",
+      "headline": "Anna Hazare admitted to ICU in Mumbai with severe viral infection, dehydrationDoctors are currently conducting a detailed assessment of his health condition, following which further treatment will be determined. Hazare is being kept under observation in the ICU at Bombay Hospital."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/badshah-and-isha-rikhi-announce-separation-seret-march-wedding-2984127-2026-09-01",
+      "headline": "Badshah and Isha Rikhi announce separation after 5 months of marriageSinger Badshah and Isha Rikhi confirmed their separation through a joint social media statement on Monday night. The announcement ended weeks of speculation and came months after their secret wedding in March."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/vijay-backs-rahul-gandhi-as-pm-face-says-tamil-nadu-congress-leader-tharahai-cuthbert-2984084-2026-08-31",
+      "headline": "Vijay backs Rahul Gandhi as PM face, says Tamil Nadu Congress leaderTamil Nadu CLP leader Tharahai Cuthbert said Chief Minister Vijay has backed Rahul Gandhi as the alliance's Prime Ministerial candidate. She also dismissed talk of a rift with the TVK and said the FIR against Gandhi reflected BJP unease."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/trending-news/story/maharashtra-woman-runs-marathon-barefoot-to-fund-daughters-education-wins-it-2983887-2026-08-31",
+      "headline": "Maharashtra woman runs marathon barefoot to fund daughters' education, wins itRamabai Ranveer from Maharashtra's Beed district won the Amrit Daud marathon after running barefoot in a saree. She said the Rs 3,000 prize money would go towards buying books for her daughters."
     },
     {
       "sentiment": "negative",
@@ -236,48 +276,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/badshah-and-isha-rikhi-announce-separation-seret-march-wedding-2984127-2026-09-01",
-      "headline": "Badshah and Isha Rikhi announce separation after 5 months of marriageSinger Badshah and Isha Rikhi confirmed their separation through a joint social media statement on Monday night. The announcement ended weeks of speculation and came months after their secret wedding in March."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india-today-insight/story/why-the-fall-of-chinese-general-linked-to-doklam-galwan-face-offs-is-so-consequential-2983802-2026-08-31",
-      "headline": "Why the fall of Chinese general linked to Doklam, Galwan is so consequentialGen Zhao Zongqi built his career as one of the most important Chinese commanders in recent Sino-Indian military history"
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/indian-nationals-in-russian-army-51-of-227-indians-recruited-into-russian-army-killed-on-ukraine-frontlines-indian-foreign-secretary-vikram-misri-says-2984095-2026-08-31",
-      "headline": "51 of 227 Indians recruited into Russian army killed on frontlines: GovtIndia said 51 of 227 Indian nationals recruited into the Russian army have died, while 139 have been discharged. Foreign Secretary Vikram Misri said New Delhi remains in talks with Moscow for the release and repatriation of remaining Indians. The Centre also warned against risky job offers linked to the Russia-Ukraine war."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/sonam-wangchuk-podcast-cjp-leader-expose-on-jantar-mantar-protest-2983737-2026-08-31",
       "headline": "CJP leaders sought protest exit with folded hands: Sonam Wangchuk's big revelationThe Cockroach Janta Party (CJP) protest might have appeared determined from the outside, but activist Sonam Wangchuk has revealed that the outfit's leadership was struggling with low morale. He said some of the CJP leaders pleaded to him with folded hands to end the protest."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/anna-hazare-admitted-to-icu-in-mumbai-with-severe-viral-infection-acute-dehydration-2984023-2026-08-31",
-      "headline": "Anna Hazare admitted to ICU in Mumbai with severe viral infection, dehydrationDoctors are currently conducting a detailed assessment of his health condition, following which further treatment will be determined. Hazare is being kept under observation in the ICU at Bombay Hospital."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/maharashtra-woman-runs-marathon-barefoot-to-fund-daughters-education-wins-it-2983887-2026-08-31",
-      "headline": "Maharashtra woman runs marathon barefoot to fund daughters' education, wins itRamabai Ranveer from Maharashtra's Beed district won the Amrit Daud marathon after running barefoot in a saree. She said the Rs 3,000 prize money would go towards buying books for her daughters."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/h4-ead-work-permit-to-end-indians-in-us-news-trump-administration-h1b-proposal-dhs-2983656-2026-08-31",
-      "headline": "US targets H-4 spouse visa work permit now. Here's why it'll hit Indian H-1B holdersThe Donald Trump administration is targeting the H-4 work permit programme, a move that could affect thousands of families of H-1B workers, particularly Indian professionals. Spouses of H-1B professionals rely on Employment Authorisation Documents (EADs) to work legally in the US."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/pm-modi-iran-trade-talks-pezeshkian-india-broader-ties-2983693-2026-08-31",
-      "headline": "PM meets Iran President, discusses trade expansion days after US sanctions threatNarendra Modi met Iranian President Masoud Pezeshkian in Bishkek to discuss bilateral ties, trade and West Asia. India used the meeting to press for broader trade and stress dialogue, peace and secure commerce routes."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/indians-abroad/story/us-california-milpitas-murders-two-malayali-women-killed-friend-arrested-2983324-2026-08-31",
-      "headline": "Kerala woman run over, another stabbed to death in US; friend arrestedAnjana Hari and Ann Mary Mathew had spent the previous evening celebrating Onam and watching a film with their common friend. By the next day, one was dead in a parking lot and the other inside her San Jose apartment."
     },
     {
       "sentiment": "positive",
@@ -286,18 +286,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/kolkata/story/jadavpur-university-graffiti-returns-after-whitewash-free-palestine-slogans-suvendu-adhikari-warning-2983990-2026-08-31",
-      "headline": "Walls whitewashed, graffiti returns in 24 hours: Jadavpur students defy Bengal CMFresh graffiti, including a Karl Marx quote and \"Free Palestine\" slogans, reappeared at Jadavpur University after walls were whitewashed following Bengal CM Suvendu Adhikari's call to remove \"anti-national\" slogans. The university called the cleaning routine, while Vice-Chancellor Chiranjib Bhattacharya urged constructive, non-political use of walls. Students defended the graffiti as free speech."
+      "url": "https://www.indiatoday.in/world/us-news/story/h4-ead-work-permit-to-end-indians-in-us-news-trump-administration-h1b-proposal-dhs-2983656-2026-08-31",
+      "headline": "US targets H-4 spouse visa work permit now. Here's why it'll hit Indian H-1B holdersThe Donald Trump administration is targeting the H-4 work permit programme, a move that could affect thousands of families of H-1B workers, particularly Indian professionals. Spouses of H-1B professionals rely on Employment Authorisation Documents (EADs) to work legally in the US."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/indian-nationals-in-russian-army-51-of-227-indians-recruited-into-russian-army-killed-on-ukraine-frontlines-indian-foreign-secretary-vikram-misri-says-2984095-2026-08-31",
+      "headline": "51 of 227 Indians recruited into Russian army killed on frontlines: GovtIndia said 51 of 227 Indian nationals recruited into the Russian army have died, while 139 have been discharged. Foreign Secretary Vikram Misri said New Delhi remains in talks with Moscow for the release and repatriation of remaining Indians. The Centre also warned against risky job offers linked to the Russia-Ukraine war."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/dimple-yadav-akhilesh-yadav-sp-samajwadi-party-2027-strategy-women-voters-uttar-pradesh-yogi-adityanath-2982390-2026-08-31",
-      "headline": "Why Dimple Yadav could be Akhilesh's biggest weapon against BJP in 2027 UP pollsTo counter allegations of dynastic politics, Samajwadi Party leader Akhilesh Yadav once pledged that his wife Dimple Yadav would not contest another election. Nine years later, Mainpuri MP Dimple is not only in the political game, she is playing a crucial role. Can Dimple become Akhilesh's ace in 2027?"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/delhi-draft-electoral-roll-arvind-kejriwal-questions-sir-after-47-lakh-names-missing-election-commission-special-intensive-revision-2983744-2026-08-31",
-      "headline": "EC reducing population through SIR: Kejriwal's jibe over Delhi draft voter rollArvind Kejriwal questioned the Election Commission's Special Intensive Revision after the Delhi draft roll left out more than 47 lakh voters. He said the missing names raised serious concerns and mocked the Centre over the scale of the exercise."
+      "url": "https://www.indiatoday.in/world/us-news/story/indian-american-voters-back-democrats-in-us-midterms-2026-donald-trump-loses-ground-2984142-2026-09-01",
+      "headline": "Indian Americans turn to Democrats ahead of midterms. Why Trump is losing groundNew surveys show Indian American voters moving back towards Democratic candidates ahead of the US midterms. The shift, alongside broad disapproval of Donald Trump, could test Republicans' position in Congress."
     },
     {
       "sentiment": "positive",
@@ -306,8 +306,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/hanuman-ansh-box-office-collection-rs-10-lakh-opening-nears-rs-50-crore-gross-2983347-2026-08-31",
-      "headline": "Rs 10 lakh on Day 1, Rs 47 crore in 24 days: Hanuman Ansh's wild box office runDirector Vishal Chaturvedi's devotional film, Hanuman Ansh, has surged from a Rs 10 lakh opening to Rs 47.33 crore India gross in 24 days. The late turnaround, driven by word of mouth, has turned the devotional drama into a sleeper hit."
+      "url": "https://www.indiatoday.in/india/story/pm-modi-iran-trade-talks-pezeshkian-india-broader-ties-2983693-2026-08-31",
+      "headline": "PM meets Iran President, discusses trade expansion days after US sanctions threatNarendra Modi met Iranian President Masoud Pezeshkian in Bishkek to discuss bilateral ties, trade and West Asia. India used the meeting to press for broader trade and stress dialogue, peace and secure commerce routes."
     },
     {
       "sentiment": "positive",
