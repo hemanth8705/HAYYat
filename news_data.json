@@ -2,6 +2,56 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/coforge-shares-tumble-9-whats-behind-the-sudden-fall-2990597-2026-09-09",
+      "headline": "Coforge shares tumble 9%: What's behind the sudden fall?The stock has remained in focus this year amid concerns around artificial intelligence and inflation, which have kept investors cautious about the IT sector."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/commodities/story/brent-crude-oil-rises-above-100-a-barrel-as-us-iran-war-escalates-hormuz-energy-crisis-2990587-2026-09-09",
+      "headline": "Brent crude crosses $100 as Middle East conflict raises supply fearsAs of 1:31 PM, Brent was at $99.60 a barrel, up $1.68 or 1.72%, while US West Texas Intermediate (WTI) crude was trading at $94.15, up $1.12 or 1.20%."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/ipo/story/nse-ipo-2026-gmp-date-price-band-issue-size-listing-date-details-2990580-2026-09-09",
+      "headline": "NSE IPO: Check GMP, price band, issue size, listing date and other detailsThe National Stock Exchange (NSE) may launch its long-awaited IPO on 18 September with a reported price band of Rs 1,700 to Rs 1,785 a share."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/jet-fuel-aviation-turbine-fuel-atf-prices-soar-airlines-feel-the-heat-2990547-2026-09-09",
+      "headline": "Jet fuel prices soar, airlines feel the heatAs jet fuel prices climb, airlines are under pressure to cut costs, with some already reducing flight frequencies on key routes."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/singapore-airlines-may-seek-more-say-before-fresh-air-india-funding-2990514-2026-09-09",
+      "headline": "Singapore Airlines may seek more say before fresh Air India fundingThe proposed conditions could include greater voting power on the board and targets for Air India to reduce its losses."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/adani-airports-1-billion-fundraise-5-54-percent-stake-sale-temasek-blackrock-share-price-2990503-2026-09-09",
+      "headline": "Adani Airports to raise $1 billion for 5.54% stake sale, shares jump 5%Adani Enterprises shares rose nearly 5% after the company announced the $1 billion fundraise by its airport subsidiary. The stock was trading at Rs 3,094.80, up Rs 135 or 4.56%, as of 11:43 am, compared with the previous close of Rs 2,959.80."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/volkswagen-jsw-india-partnership-joint-venture-why-localisation-sourcing-production-2990449-2026-09-09",
+      "headline": "Volkswagen, JSW explore partnership: Why German carmaker wants bigger India playThe proposed partnership comes as Volkswagen has struggled to build a larger presence in India despite being in the market for more than two decades. Its market share in the country remains at around 2%."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/market/story/sensex-falls-500-points-nifty-decline-why-crude-oil-usd-100-it-stocks-tumble-fii-selling-rise-2990421-2026-09-09",
+      "headline": "Sensex down 500 points: 5 reasons why stock market is falling todayAs of 10:08 am, the BSE Sensex was down 632.20 points, or 0.84%, at 74,945.38, while the Nifty 50 declined 163.05 points, or 0.69%, to 23,472.05."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/market/story/it-stocks-fall-infosys-hcltech-coforge-decline-why-us-rate-hike-fears-2990420-2026-09-09",
+      "headline": "Infosys, HCLTech, Coforge tumble up to 6%: Why are IT stocks down today?IT stocks fell sharply in early trade as rising US rate-hike expectations and Coforge's board-related development weighed on sentiment. The Nifty IT index fell 3.06% in early trade, making it the worst-performing major sectoral index."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/market/story/market-opening-sensex-opens-500-points-lower-nifty-falls-below-23500-it-stocks-tank-infosys-hcltech-2990415-2026-09-09",
+      "headline": "Sensex opens 500 points lower, Nifty falls below 23,500; IT stocks tankAt 9:29 am, the BSE Sensex was down 533.48 points, or 0.71%, at 75,044.10. The index opened at 75,216.22 against Tuesday's close of 75,577.58 and touched an early high of 75,220.88 before slipping to a low of 74,968.99. The Nifty50 was down 127.25 points, or 0.54%, at 23,507.85."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/real-estate/story/parsvnath-developers-homebuyers-supreme-court-rejects-plan-warns-high-powered-committee-2990375-2026-09-09",
       "headline": "Paid but still no home: SC rejects Parsvnath proposal, warns of tougher actionThe Supreme Court rejected Parsvnath Developers' proposal to hand over flats or repay buyers within a year. It warned that a High-Powered Committee could be appointed unless a fresh plan addresses all allottees' claims."
     },
@@ -49,63 +99,88 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/market/story/sun-pharma-us-deal-tariff-relief-lower-drug-prices-american-manufacturing-2989690-2026-09-08",
       "headline": "Sun Pharma's US pact may reset the playbook for Indian pharmaSun Pharma has struck a deal with the US government to lower medicine prices and expand manufacturing in America. The agreement signals a possible shift for Indian drugmakers towards strategic bargaining and localised production in the US."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/home-savings-investments-indias-wallet-moves-from-spending-to-wealth-2989682-2026-09-08",
-      "headline": "Home, savings, investments: India's wallet moves from spending to wealthFrom the next holiday to the next home, Indians appear to be rethinking where their money should go. Are savings, investments and wealth-building becoming the new priorities?"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/fd-vs-sip-need-your-money-soon-heres-what-you-should-choose-2989626-2026-09-08",
-      "headline": "FD vs SIP: Need your money soon? Here's what you should chooseThe FD-versus-SIP debate has no shortage of opinions, especially when investors are looking for the right home for their savings. But what should you consider before making that choice?"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/wrong-epfo-exit-date-heres-how-to-correct-it-online-step-by-step-2989583-2026-09-08",
-      "headline": "Wrong EPFO exit date? Here's how to correct it online step by stepThe date of exit is not just another entry in your EPFO service history. It forms part of your employment record and can affect several PF-related processes."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/surat-consumption-market-india-largest-outside-big-six-metros-household-spending-2989493-2026-09-08",
-      "headline": "Forget Mumbai, Bengaluru. Surat is becoming India's new spending hubWith a population nearly the size of a Big Six city (Mumbai, Bengaluru, Delhi, Chennai, Hyderabad and Kolkata) and a large concentration of young people, Surat has emerged as India's largest consumption market outside the six megacities."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/market/story/market-opening-sensex-opens-300-points-lower-nifty-below-23700-mahindra-and-mahindra-down-1-2989480-2026-09-08",
-      "headline": "Sensex, Nifty fall as crude nears $98; IT stocks, West Asia tensions drag marketsAt 9:29 am, the BSE Sensex was down 401.85 points, or 0.53%, at 75,730.96. The index opened at 75,970.28 against Monday's close of 76,132.81. The Nifty 50 was down 108.15 points, or 0.45%, at 23,671."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/samsung-india-layoffs-100-tv-home-appliances-cost-pressure-sales-division-chips-cost-rise-2989444-2026-09-08",
-      "headline": "Memory chip costs force Samsung India to cut jobs, 100 execs asked to leaveSamsung India has asked 80-100 executives in its television and home appliance businesses to leave in batches. The move reflects mounting cost pressures, weak demand and a wider restructuring across its India operations."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/viksit-bharat-2047-india-developed-gdp-growth-surjit-bhalla-montek-singh-ahluwalia-economist-2988480-2026-09-08",
-      "headline": "GDP numbers good, but not good enough for Viksit Bharat 2047, say top economistsIndia posted a better-than-expected 7.8% GDP growth in the first quarter of financial year 2026-27. However, economists Surjit Bhalla and Montek Singh Ahluwalia say India's dream of being a developed nation by 2047 will require much more than just a few quarters of strong growth."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/lpg-refill-booking-gap-cut-to-25-days-from-45-what-consumers-need-to-know-2989144-2026-09-07",
-      "headline": "LPG refill booking gap cut to 25 days from 45: What consumers need to knowThe new 25-day booking gap will apply uniformly to domestic LPG consumers in both urban and rural areas, with immediate effect."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/hdfc-bank-cuts-loan-rates-by-up-to-10-bps-what-it-means-for-your-loan-emi-2989083-2026-09-07",
-      "headline": "HDFC Bank cuts loan rates by up to 10 bps: What it means for your loan EMIFollowing the latest revision, HDFC Bank's MCLR rates range from 7.90% to 8.60%, compared with 8% to 8.65% earlier."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/sebi-changes-etf-trading-rules-from-today-what-investors-need-to-knowindia-2989017-2026-09-07",
-      "headline": "Sebi changes ETF trading rules from today: What investors need to knowThe changes are aimed at making ETF prices respond more closely to the value of the assets they track, particularly during sharp market movements."
     }
   ],
   "entertainment": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/preity-zinta-comeback-vibe-motherhood-eight-year-break-2990610-2026-09-09",
+      "headline": "Preity Zinta says she didn't miss Bollywood. Here's what brought her back Actor Preity Zinta opened up about returning to Bollywood after eight years with Vibe. She said motherhood reshaped her priorities as she also reflected on changing film audiences and piracy."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/meet-mohit-malik-internets-new-obsession-and-actor-who-plays-mirzapur-the-movie-birju-lohar-2990562-2026-09-09",
+      "headline": "Meet Mohit Malik, internet's new obsession and actor who plays Mirzapur's Birju Lohar TV actor Mohit Malik's Birju Lohar has emerged as one of the most discussed parts of Mirzapur: The Movie. The character's tragic link with Beena Bhabhi has fuelled strong audience reactions and fresh attention on the actor."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/akshay-kumar-haiwaan-birthday-note-good-vs-evil-september-11-2026-release-2990602-2026-09-09",
+      "headline": "What looks evil may not...: Akshay shares key takeaway from Haiwaan on his birthday Akshay Kumar used his birthday note to share what Haiwaan taught him about appearances. His message underlined the thriller's central tension between seeming goodness and visible evil."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/drishyam-the-conclusion-trailer-ajay-devgn-perfect-plan-cracks-jaideep-ahlawat-cop-enters-2990595-2026-09-09",
+      "headline": "Drishyam 3 trailer: Ajay Devgn's perfect plan cracks as Jaideep Ahlawat's cop enters The trailer of Drishyam The Conclusion brings Ajay Devgn's Vijay Salgaonkar face to face with Jaideep Ahlawat's cop Rajveer Singh Tomar. Ahead of its October 2 release, it sets up a fresh investigation as old secrets and new pressures close in."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/yash-toxic-reviews-jaidev-mohan-says-pain-was-clear-in-actors-voice-2990566-2026-09-09",
+      "headline": "You could feel pain in his voice: Kannada actor on Yash's reaction to Toxic criticism Actor Jaidev Mohan, who worked on the Kannada dubbing, recalled Yash asking him not to take Toxic's criticism to heart after release. He said the actor sounded composed, but the pain in his voice was unmistakable."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/haiwaan-producer-shailaja-desai-fenn-actors-understand-budgets-working-hours-saif-ali-khan-akshay-kumar-2990558-2026-09-09",
+      "headline": "Haiwaan producer on star demands, work hours and rising entourage costs Ahead of Haiwaan's release, producer Shailaja Desai Fenn spoke about changing expectations on film sets. She said actors now understand budgets better, while box office results remain beyond a producer's control."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/youtuber-apoorva-mukhija-dj-amin-jazs-kiss-video-sparks-dating-rumours-watch-2990524-2026-09-09",
+      "headline": "YouTuber Apoorva Mukhija, DJ Amin Jaz's kiss video sparks dating rumours. Watch A video of YouTuber Apoorva Mukhija and DJ Amin Jaz kissing at an event has gone viral. The clip has revived dating speculation, though neither has confirmed the relationship."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/orry-says-sara-ali-khan-allegedly-pushed-girl-off-chair-but-he-was-blamed-2990502-2026-09-09",
+      "headline": "Orry says Sara Ali Khan allegedly pushed girl off chair, but he was blamed Orry has spilled a fresh Sara Ali Khan party tale, alleging that she pushed a girl off a chair - only for him to take the blame. The cheeky anecdote has stirred fresh chatter around their messy fallout, which Orry still links to his unresolved hurt involving Amrita Singh."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/hanuman-ansh-box-office-rs-2-crore-film-nears-rs-170-crore-india-2990471-2026-09-09",
+      "headline": "Hanuman Ansh is the new Dhurandhar - the most successful Indian film of 2026 Hanuman Ansh has grossed about Rs 170 crore in India on a reported Rs 2 crore budget. Its extraordinary run has reset the 2026 box-office debate around returns, not just totals."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/lust-stories-3-trailer-netflix-anthology-love-desire-konkana-radhika-apte-siddharth-aditia-rao-hyadri-vijay-varma-2990494-2026-09-09",
+      "headline": "Lust Stories 3 trailer: From candles to fireworks, desire gets complicated Netflix has released the trailer for Lust Stories 3, previewing four stories on relationships and desire. The anthology uses awkward exchanges, humour and tension to frame its different views on intimacy."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/shiva-rajkumar-clarifies-hindi-national-language-remark-original-monster-2990053-2026-09-09",
+      "headline": "Actor Shiva Rajkumar apologises, clarifies 'Hindi is national language' remark Actor Shiva Rajkumar clarified and apologised for calling Hindi the national language at Original Monster event. He genuninely extended his apology and said that he was confused."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/maitreyi-ramakrishnan-priyanka-kedia-bring-tamil-swag-in-new-netflix-film-best-of-best-maamadura-annakodi-jigarthanda-doublex-2990438-2026-09-09",
+      "headline": "Maitreyi Ramakrishnan, Priyanka Kedia bring Tamil swag in new Netflix film. Watch Netflix has shared a new Best of the Best video featuring actors Maitreyi Ramakrishnan and Priyanka Kedia in a playful dance face-off to Tamil song Maamadura Annakodi."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/television/story/amitabh-bachchan-kbc-18-heart-breaking-experience-contestants-stories-2990432-2026-09-09",
+      "headline": "Amitabh Bachchan calls hosting KBC 18 a 'heart-breaking experience'. Here's why Amitabh Bachchan has revealed that hosting KBC 18 is an emotionally challenging experience due to the touching personal stories shared by contestants. He described it as heart-breaking and said such moments make hosting emotionally difficult."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/hanuman-ansh-box-office-preity-zinta-urges-fans-to-watch-devotional-film-2990404-2026-09-09",
+      "headline": "Don't miss it: Preity Zinta's special shout-out for Hanuman Ansh's Rs 170-crore haul Actor Preity Zinta watched Hanuman Ansh in theatres and urged her followers to catch it on the big screen. This comes amid the film's roaring success and strong box office run."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/kiran-raj-lion-video-viral-actor-clarifies-no-attack-2990414-2026-09-09",
+      "headline": "Was Kannada actor Kiran Raj attacked by a lion? He clarifies viral video Kannada actor Kiran Raj said a viral video where it appeared to show that he was attacked by a lion was misunderstood. He said he was safe and disappointed that the clip was presented without its full context."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/hanuman-ansh-team-meets-yogi-adityanath-as-film-crosses-rs-170-crore-2990388-2026-09-09",
-      "headline": "Hanuman Ansh team meets Yogi Adityanath as film inches towards Rs 170 crore The Hanuman Ansh team met Uttar Pradesh Chief Minister Yogi Adityanath in Lucknow and discussed the film's spiritual themes. The interaction spotlighted the film's focus on Neem Karoli Baba, the Nath tradition and its wider reach."
+      "headline": "Team Hanuman Ansh meets Yogi Adityanath as film inches towards Rs 170 crore The Hanuman Ansh team met Uttar Pradesh Chief Minister Yogi Adityanath in Lucknow and discussed the film's spiritual themes. The interaction spotlighted the film's focus on Neem Karoli Baba, the Nath tradition and its wider reach."
     },
     {
       "sentiment": "positive",
@@ -121,93 +196,38 @@
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/movies/hollywood/story/andrew-garfield-sam-altman-artificial-trailer-openai-chatgpt-turmoil-2990341-2026-09-09",
       "headline": "Artificial trailer: Andrew Garfield as Sam Altman in OpenAI's wild ride The trailer for Artificial shows actor Andrew Garfield as OpenAI chief Sam Altman amid the launch of ChatGPT and the upheaval that followed."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/anushka-sharma-virat-kohlis-london-outing-sends-fans-into-a-frenzy-akaay-vamika-2990338-2026-09-09",
-      "headline": "Anushka Sharma, Virat Kohli enjoy a quiet stroll on London streets. See pics Actor Anushka Sharma and cricketer Virat Kohli were photographed in London during a family outing near son Akaay's nursery. Pictures of the couple have emerged online."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/hollywood/story/penelope-cruz-javier-bardem-bunker-venice-film-festival-standing-ovation-2990332-2026-09-09",
-      "headline": "Penelope Cruz sobs, kisses husband as Bunker gets 15.5-minute ovation at Venice Actor Penelope Cruz kissed Javier Bardem as Bunker received a 15.5-minute standing ovation in Venice. The emotional response underlined the film's status as the festival's biggest crowd-pleaser so far."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/television/story/bigg-boss-20-episode-3-four-nominated-isha-silent-on-relationship-with-badshah-2990286-2026-09-09",
-      "headline": "Bigg Boss 20 Episode 3: Four nominated; Isha silent on relationship with Badshah In Episode 3 of Bigg Boss 20, the first nominations of the season left four contestants in the danger zone, while Aamrapali Dubey and Arishfa Khan engaged in a heated argument over age."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/preity-zinta-addresses-batwara-1947-failure-says-she-remains-proud-of-film-2990249-2026-09-08",
-      "headline": "Preity Zinta addresses Batwara 1947 failure; says she remains proud of film Actor Preity Zinta has addressed Batwara 1947's box office failure. The film was directed by Rajkumar Santoshi and also featured actors Sunny Deol, Shabana Azmi, Ali Fazal and Karan Deol in key roles."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/aditya-seal-sheds-happy-tears-in-twins-birth-video-with-anushka-ranjan-watch-2990170-2026-09-08",
-      "headline": "Aditya Seal sheds happy tears in twins' birth video with Anushka Ranjan. Watch Actor-couple Aditya Seal and Anushka Ranjan have shared unseen hospital footage from the birth of their twin daughters, Vira and Mahi. The emotional clip offers an intimate look at the couple embracing parenthood."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/akshay-saifs-thriller-haiwaan-gets-ua-16-from-censor-board-runtime-revealed-2990005-2026-09-08",
-      "headline": "Akshay, Saif's thriller Haiwaan gets U/A 16+ from censor board; runtime revealed Haiwaan, featuring actors Akshay Kumar and Saif Ali Khan has been cleared by the Central Board of Film Certification (CBFC). The upcoming film is directed by Priyadarshan."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/ranveer-deepika-baby-bump-glimpse-second-pregnancy-family-baby-dua-padukone-pics-2990075-2026-09-08",
-      "headline": "Inside Deepika-Ranveer's family album: Baby bump, Dua's smile and 'bigger hearts' Actors Deepika Padukone and Ranveer Singh shared pictures with baby Dua as she turned two-years-old. The actor couple had earlier confirmed their second pregnancy in April 2026."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/pralay-announced-ranveer-kalyanis-zombie-thriller-gets-dystopian-poster-2989970-2026-09-08",
-      "headline": "Pralay first look: Truth behind Ranveer-Kalyani zombie film's viral poster The teaser poster of Pralay has been unveiled. The upcoming zombie thriller directed by Jai Mehta is set against the backdrop of a post-apocalyptic world."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/director-tigmanshu-dhulia-not-impressed-with-dhurandhar-2-asks-is-there-a-story-2989937-2026-09-08",
-      "headline": "Director Tigmanshu Dhulia not impressed with Dhurandhar 2, asks 'is there a story?' Paan Singh Tomar director Tigmanshu Dhulia has questioned Dhurandhar's storytelling despite praising its entertainment value. His remarks have sharpened the debate over formula, scale and originality in Hindi cinema."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/entertainment/television/story/gaurav-khanna-orry-kkk15-co-star-backs-actor-in-akanksha-chamola-row-rejects-bullying-claim-2989923-2026-09-08",
-      "headline": "Orry backs Gaurav Khanna amid Akanksha and Shagun controversies Orry said he publicly defended Khatron Ke Khiladi 15 co-contestant Gaurav Khanna during the row involving Akanksha Chamola and later backed him again over Shagun Sharma's bullying charge. He said Gaurav was too polished to respond himself and insisted the stunt-show confrontation was misread."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/hollywood/story/bridgertons-daphne-phoebe-dynevor-marries-producer-cameron-fuller-in-france-2989876-2026-09-08",
-      "headline": "Bridgerton's Daphne, Phoebe Dynevor marries producer Cameron Fuller in France Actor Phoebe Dynevor reportedly married Cameron Fuller in a private ceremony in Provence on September 5. The low-key wedding reflected the couple's long preference for keeping their relationship out of the spotlight."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/kangana-ranaut-backs-c-joseph-vijay-on-attacks-against-women-tamil-nadu-assembly-row-2989817-2026-09-08",
-      "headline": "Kangana Ranaut slams character attacks on women, cites 'cheer haran' in Tamil Nadu Actor-turned-politician Kangana Ranaut has urged an end to the \"character assassination\" of women, citing alleged 'cheer haran' and recent attacks on a Tamil actor. Her remarks echo Tamil Nadu CM C Joseph Vijay's condemnation of personal attacks on women."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/ravi-kishan-said-money-follows-my-brother-and-it-did-the-viral-meme-is-now-a-song-2989768-2026-09-08",
-      "headline": "Ravi Kishan said 'Money follows my brother' and it did. The viral meme is now a song After dominating social media reels and online commentary for weeks, actor-politician Ravi Kishan's viral line is officially being turned into a song, with the newly unveiled promo sending fans into a frenzy."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/sanjay-dutt-marathi-video-resurfaces-after-mumbai-event-language-remark-2989711-2026-09-08",
-      "headline": "Sanjay Dutt speaks fluent Marathi in old video after saying no to language on stage A video showing Sanjay Dutt speaking Marathi has resurfaced days after he sidestepped a similar request at a Mumbai event. The clip has triggered fresh debate online over his earlier joke and the wider language row in Maharashtra."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/story/national-film-awards-history-state-awards-to-indias-top-cinema-honours-delhi-to-gujarat-2989607-2026-09-08",
-      "headline": "History of National Film Awards: The 72-year journey from Delhi to Gujarat The National Film Awards began in 1954 as the State Awards to honour Indian cinema. Over the decades, they expanded across languages, crafts and categories to become a leading national honour."
     }
   ],
   "general news": [
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/us-says-it-destroyed-five-iranian-oil-carriers-after-irgc-targeted-navy-ship-2990331-2026-09-09",
-      "headline": "US hits 5 Iran oil tankers, Tehran counters by striking American base in JordanThe US struck five Iranian oil tankers in the Gulf of Oman and near Kharg Island after accusing Tehran of targeting a US warship with ballistic missiles twice in two days. Iran retaliated by firing missiles at US forces stationed at Jordan's Al Azraq base."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/anti-terror-probe-continues-in-vandyke-case-govt-sources-amid-row-over-nia-chargesheet-dropping-uapa-section-2990616-2026-09-09",
+      "headline": "Terror probe on in US mercenary case: Govt sources amid NIA chargesheet rowAnti-terror probe continues in VanDyke case: Govt sources amid row over NIA chargesheet dropping UAPA section"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/uttar-pradesh-kanpur-engineer-chandan-gupta-released-after-russia-detention-returns-home-wife-sneha-says-2990279-2026-09-08",
-      "headline": "Kanpur engineer released days after detention in Russia, returns homeUP engineer Chandan Gupta, detained in Russia, has been released and is safely back home, according to his wife Sneha Gupta. Earlier, she had expressed concern that her husband could be pressured into joining the Russian military."
+      "url": "https://www.indiatoday.in/india/law-news/story/supreme-court-seeks-explanation-greater-noida-magistrate-student-protest-notice-ptag-2990508-2026-09-09",
+      "headline": "How dare you? CJI blasts Greater Noida magistrate over notice to CJP protesterThe Supreme Court lashed out at the Greater Noida executive magistrate, saying that how he could issue a Rs 5 lakh notice to a Gautam Buddha University student over his participation in the CJP protest at Delhi's Jantar Mantar."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/raghav-chadha-delhi-voter-list-punjab-draft-roll-aap-illegal-entry-2990426-2026-09-09",
+      "headline": "Raghav Chadha's curious SIR case: Out of Punjab list, 'delayed' entry in DelhiThe AAP and Raghav Chadha were involved in a war of words after the BJP Rajya Sabha MP's name was added to the voters' list of Delhi amid the SIR exercise."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/ajeet-bharti-anticipatory-bail-rejection-delhi-court-order-caste-remarks-chandrashekhar-azad-case-2990474-2026-09-09",
+      "headline": "Ajeet Bharti invoked caste-based purity: Court explains why pre-arrest bail deniedA Delhi court denied anticipatory bail to reservation reform activist and YouTuber Ajeet Bharti in an SC-ST Act case. A detailed order explains what the court found offensive in Bharti's remarks against Nagina MP and Dalit leader Chandrashekhar Azad."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/south-china-sea-dispute-gilberto-teodoro-rebukes-china-after-note-at-seoul-forum-2990425-2026-09-09",
+      "headline": "Philippines defence chief gets China note mid-speech. Here's what he did nextPhilippines Defence Secretary Gilberto C Teodoro was handed a note from China, outlining Beijing's position on the South China Sea dispute, while he was speaking at a defence forum in Seoul. He read the note aloud before condemning China's conduct and reiterating the Philippines's position on the dispute."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/cities/delhi/story/satya-niketan-building-collapse-owners-son-leased-collapsed-building-to-pg-operators-in-2025-delhi-police-sources-say-2990446-2026-09-09",
+      "headline": "Collapsed Delhi building was leased to 2 PG operators by owner's son: SourcesThe collapsed Satya Niketan building had been leased to Shubham Tyagi and Sudhanshu in August 2025, who ran the premises as a boys' PG accommodation under the name Hostel Daze. While Sudhanshu has been arrested, Tyagi remains absconding."
     },
     {
       "sentiment": "positive",
@@ -216,115 +236,130 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/nitin-gadkari-nagpur-votes-red-light-areas-underworld-support-2989042-2026-09-07",
-      "headline": "Have 99% of supporters from Nagpur's underworld, says Gadkari. Then, a disclaimerUnion Minister Nitin Gadkari said he received around 70-75 per cent of the votes in some highly educated areas of Nagpur, while his vote share was as high as 92 per cent in criminal, underworld and red-light areas."
+      "url": "https://www.indiatoday.in/world/story/singapore-political-salaries-lawrence-wong-60-percent-pay-rise-prime-minister-mps-ministers-2990357-2026-09-09",
+      "headline": "World's highest-paid PM gets salary hike, to earn Rs 27 crore a yearThe massive salary hike comes as the Singapore government makes the case that good political leadership comes at a price."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/five-orangutans-rescued-odisha-forest-nandankanan-2990550-2026-09-09",
+      "headline": "Watch: Five rescued orangutans reach Nandankanan Zoo, kept in quarantineThe young animals are under veterinary observation as officials investigate how they reached India, and the possibility of animal trafficking."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/telangana/story/telangana-assembly-suspends-22-brs-mlas-after-protest-over-police-action-and-kcr-remarks-ptag-2990549-2026-09-09",
+      "headline": "KT Rama Rao, 21 BRS MLAs suspended after protests in Telangana AssemblyThe suspension of the 22 BRS MLAs came after they sought an immediate discussion on the deterioration in Telangana's law and order situation, with KTR moving an adjournment motion over alleged police high-handedness against women MLAs and death threats against party chief and Leader of the Opposition K Chandrasekhar Rao."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/trending-news/story/piyush-goyal-goes-retro-while-vibing-to-the-ai-generated-80s-trend-2990572-2026-09-09",
+      "headline": "Piyush Goyal goes retro while vibing to the AI-generated 80s trendUnion Minister Piyush Goyal shared an AI-generated 1980s-style image of himself on X. The post with a retro vibe has gone viral."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/cities/delhi/story/registration-must-cap-on-deposit-cctvs-mandatory-delhi-proposes-pg-regulations-after-satya-niketan-collapse-2990445-2026-09-09",
+      "headline": "Delhi to regulate PGs after building collapse; licensing, caps on deposit proposedDays after seven people were killed in the Satya Niketan PG collapse, the Delhi government has proposed a new bill for paying guest accommodations, seeking to bring the largely unregulated sector under a formal licensing, safety and rent-control regime."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/technology/news/story/foldable-iphone-name-revealed-prices-and-availability-too-leak-ahead-of-tonights-launch-2990497-2026-09-09",
+      "headline": "Foldable iPhone name revealed, prices and availability too leak ahead of tonight's launchApple is expected to unveil its first foldable iPhone, reportedly named the iPhone Duo, at its event tonight. The device is tipped to stand out with Apple Pencil support, an October release window and only two launch colours."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/cities/delhi/story/manipuri-musician-c-vikram-singh-dies-after-assault-in-delhi-son-yaiphaba-files-fir-previously-threatened-2990510-2026-09-09",
+      "headline": "Manipuri music teacher was previously threatened by attackers, son claims in FIRA 54-year-old Manipuri musician died after an alleged assault outside his Delhi home, and his son told police he witnessed the attack. The case has triggered a police probe, student body outrage and political criticism over law and order."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/india-brahmos-belt-strategy-missiles-demand-countries-china-backyard-2989715-2026-09-09",
-      "headline": "BrahMos belt in China's backyard: How India is expanding missile's footprintSeveral countries encircling the disputed South China Sea have started acquiring BrahMos missiles from India. Experts have called it the BrahMos belt strategy, which helps strengthen regional deterrence against aggressive Chinese maritime moves. What is it?"
+      "headline": "How India is tightening the BrahMos noose in China's backyardSeveral countries encircling the disputed South China Sea have started acquiring BrahMos missiles from India. Experts have called it the BrahMos belt strategy, which helps strengthen regional deterrence against aggressive Chinese maritime moves. What is it?"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/meta-unveils-muse-ai-agent-for-emails-travel-bookings-and-daily-tasks-2990339-2026-09-09",
-      "headline": "Meet Muse, Meta's new AI agent. It can book trips, send emails, shop onlineMeta has launched Muse, an AI assistant that can carry out everyday digital tasks across connected apps. The rollout underlines the company's push beyond chatbots while foregrounding privacy and safety controls."
+      "url": "https://www.indiatoday.in/movies/bollywood/story/hanuman-ansh-team-meets-yogi-adityanath-as-film-crosses-rs-170-crore-2990388-2026-09-09",
+      "headline": "Team Hanuman Ansh meets Yogi Adityanath as film inches towards Rs 170 croreThe Hanuman Ansh team met Uttar Pradesh Chief Minister Yogi Adityanath in Lucknow and discussed the film's spiritual themes. The interaction spotlighted the film's focus on Neem Karoli Baba, the Nath tradition and its wider reach."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/delhi/story/former-delhi-chief-secretary-rakesh-mehta-dies-by-suicide-note-found-officials-2990218-2026-09-08",
-      "headline": "Former Delhi chief secretary Rakesh Mehta dies by suicide, note found: OfficialsThe door of Mehta's flat was locked from inside, following which the police broke it open to enter the premises. His body was subsequently recovered from inside the residence."
+      "url": "https://www.indiatoday.in/lifestyle/fashion/story/fendis-baguette-giving-navratri-theres-more-to-the-story-controversy-2990481-2026-09-09",
+      "headline": "Fendi, are we doing Garba now? The Baguette debateFendi's Baguette with mirror work, beads, vibrant embroidery and all is giving full-on Navratri vibes. Is this yet another episode of cultural appropriation? Before drawing any conclusions, here's what you need to know."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/karnataka/story/siddaramaiah-reservation-demand-in-karnataka-congress-caste-census-centre-decadal-enumeration-2027-2989103-2026-09-09",
-      "headline": "Congress sees caste census fire at home as Sidda demands 75% quota in KarnatakaFormer Karnataka CM Siddaramaiah has demanded 75% reservation for socially disadvantaged communities and urged the DK Shivakumar-led government to implement the findings of the state's caste survey. His push comes even as the Congress seeks to corner the BJP-led Centre over the caste enumeration in Census 2027."
+      "url": "https://www.indiatoday.in/sports/cricket/story/duleep-trophy-final-live-score-east-vs-south-day-4-updates-ishan-kishan-tilak-varma-devdutt-padikkal-2990398-2026-09-09",
+      "headline": "Day 4 Live: East Zone (50/2). Ishan Kishan, Mohan steady after early setbacksDuleep Trophy Live, East vs South Final Day 4: East Zone lost both openers cheaply after choosing to bat again, but Ishan Kishan and Shikhar Mohan have slowed things down. South Zone have kept the pressure on, though the hosts still hold a commanding 422-run lead."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/hanuman-ansh-box-office-beats-dhurandhar-2-fifth-weekend-record-rs-49-25-crore-2989465-2026-09-08",
-      "headline": "Unstoppable Hanuman Ansh now beats Dhurandhar 2 in 5th weekend at box officeHanuman Ansh, a Rs 2-crore devotional drama, has pulled off a stunning box-office feat by surpassing the fifth-weekend collections of Ranveer Singh's Dhurandhar films. Driven by strong word of mouth, the film has set a new benchmark for fifth-weekend collections in Hindi cinema."
+      "url": "https://www.indiatoday.in/sports/tennis/story/us-open-ben-shelton-vs-carlos-alcaraz-quarterfinals-upset-2990568-2026-09-09",
+      "headline": "Big-serving Ben Shelton stuns Carlos Alcaraz in 5-set thriller, reaches semisUS Open: Eighth seed Ben Shelton ended Carlos Alcaraz's title defence in an epic five-setter. The 23-year-old American reached the semifinals of the home Grand Slam for the second time in his career after his first win over a top-three player."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/commodities/story/brent-crude-oil-rises-above-100-a-barrel-as-us-iran-war-escalates-hormuz-energy-crisis-2990587-2026-09-09",
+      "headline": "Brent crude crosses $100 as Middle East conflict raises supply fearsAs of 1:31 PM, Brent was at $99.60 a barrel, up $1.68 or 1.72%, while US West Texas Intermediate (WTI) crude was trading at $94.15, up $1.12 or 1.20%."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/pm-narendra-modi-urges-fintech-sector-to-move-beyond-upi-embrace-next-gen-innovation-2990067-2026-09-08",
-      "headline": "PM Modi urges fintech sector to move beyond UPI, embrace next-gen innovationPrime Minister Narendra Modi said that this year has opened new possibilities for the financial sector, with technologies such as quantum technology, tokenisation and agentic AI creating new opportunities."
+      "url": "https://www.indiatoday.in/jobs/story/meet-shardendu-tiwari-27-who-left-rs-46-lakh-amazon-package-to-join-the-indian-army-educ-2989872-2026-09-09",
+      "headline": "27-year-old Amazon engineer gives up Rs 46 lakh package to fulfil Army dreamShardendu Tiwari, 27, has been commissioned into the Indian Army at OTA Gaya after leaving a Cloud Engineer role at Amazon and an Airbus opportunity. His journey, shaped by his father's service and repeated setbacks, reflects his choice of duty and service over a lucrative corporate career."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/guwahati/story/guwahati-wife-murder-ramanuj-goswami-no-regret-threatens-sugar-daddy-2990343-2026-09-09",
-      "headline": "No regret, no apology: Man confesses to wife's murder, threatens 'sugar daddy'Ramanuj Goswami killed his wife Riya and surrendered to the police. Investigators are trying to ascertain if his wife had an affair, a possible motive for the gruesome murder."
+      "url": "https://www.indiatoday.in/india/karnataka/story/bharat-ratna-scientist-prof-cnr-rao-gets-sir-notice-over-extra-f-in-name-called-for-hearing-in-karnataka-2990513-2026-09-09",
+      "headline": "Bharat Ratna scientist Prof CNR Rao gets SIR notice over extra 'f' in nameThe notice issued to Professor CNR Rao cites \"self-name mismatch\" as the reason. While the older electoral rolls list his name as Prof CNR Rao, the current rolls reportedly contain an additional \"f\" in \"Prof\", recording his name as \"Proff CNR Rao.\""
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/cognizant-perm-filings-suspended-us-trump-visa-fraud-probe-ptag-2990324-2026-09-09",
-      "headline": "US halts Cognizant's green-card filings amid Trump's visa fraud crackdownThe US Labour Department has suspended Cognizant's PERM filings after a fraud investigation. The move deepens the Trump administration's scrutiny of employment visa programmes and employer compliance."
+      "url": "https://www.indiatoday.in/india/story/bjp-naaraaz-phupha-reel-jabs-congress-bullet-train-development-projects-modi-2990459-2026-09-09",
+      "headline": "BJP's Naraz Fufa reel day after PM jabs Congress over Bullet Train projectThe reel came a day after PM Modi used the Naraz Fufa phrase to mock critics while highlighting his government's development record and contrasting it with previous Congress-led governments."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/best-moment-us-open-frances-tiafoe-hugs-alex-michelsen-2990360-2026-09-09",
-      "headline": "Frances Tiafoe wins US Open thriller, hug with inconsolable opponent goes viralFrances Tiafoe produced a stunning comeback against Alex Michelsen after trailing by two sets at the US Open. But it was the American's touching gesture towards his tearful compatriot after the match that stole the spotlight."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/got-offer-letter-id-card-lawyer-of-fake-pmo-official-rohan-parekh-tells-court-after-being-caught-in-mumbai-2989951-2026-09-08",
-      "headline": "Got offer letter, ID card: Lawyer of fake PMO official Rohan Parekh to courtMumbai Police said three men used a suspicious government ID and forced their way past security into Jio World Plaza. An FIR has been registered at BKC police station under various provisions of the BNS, including those relating to impersonation of a public servant and unlawful entry while armed with a weapon."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/singapore-political-salaries-lawrence-wong-60-percent-pay-rise-prime-minister-mps-ministers-2990357-2026-09-09",
-      "headline": "World's highest-paid PM gets salary hike, to earn Rs 27 crore a yearSingapore will raise political salaries by more than 60 per cent, with PM Lawrence Wong's annual pay rising from Rs 16.5 crore (SgD 2.2 million) to Rs 27 crore (SgD 3.6 million)."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/iran-dismisses-report-on-mojtaba-khameneis-wealth-says-he-owns-no-property-inside-or-outside-the-country-2989829-2026-09-08",
-      "headline": "Owns no property: Iran on reports of Khamenei's London flats near Israeli EmbassyIran has rejected reports linking Supreme Leader Mojtaba Khamenei to two luxury London flats near the Israeli embassy, calling the claims \"completely baseless\" and saying he owns no property in Iran or abroad. The reports said the apartments were bought through intermediaries and recently traced to him."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/anushka-sharma-virat-kohlis-london-outing-sends-fans-into-a-frenzy-akaay-vamika-2990338-2026-09-09",
-      "headline": "Anushka Sharma, Virat Kohli enjoy a quiet stroll on London streets. See picsActor Anushka Sharma and cricketer Virat Kohli were photographed in London during a family outing near son Akaay's nursery. Pictures of the couple have emerged online."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/apple-iphone-18-pro-foldable-iphone-launch-what-to-expect-at-september-9-event-2990365-2026-09-09",
-      "headline": "Apple iPhone 18 Pro, foldable iPhone launch: What to expect at September 9 event?Apple's September 9 event could be its biggest iPhone launch in years, with the iPhone 18 Pro series, a much-rumoured foldable iPhone, new Apple Watch models and possibly updated AirPods expected to make an appearance. India Today is at Apple Park to get you all the latest from this year's mega event."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/hundreds-of-flights-cancelled-delayed-as-uk-air-traffic-control-system-faces-glitch-2990189-2026-09-08",
-      "headline": "Travel chaos at UK airports as air traffic control glitch cancels over 1,000 flightsNational Air Traffic Services initially said the problem had been traced to its flight processing system and that engineers were working to restore normal operations."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/iit-madras-to-iim-ahmedabad-the-colleges-behind-indias-rising-startup-founders-2990094-2026-09-09",
-      "headline": "IIT Madras to IIM Ahmedabad: The colleges behind India's rising startup foundersIndia's next wave of startup founders has a clear academic pattern. IIT Madras leads at the undergraduate level, while IIM Ahmedabad tops the postgraduate list, the 2026 Hurun India Cheetah Index shows."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/kesar-vs-climate-change-can-kashmirs-exotic-spice-survive-a-warm-planet-saffron-warming-planet-2989913-2026-09-09",
-      "headline": "Kesar vs climate: Can Kashmir's exotic spice survive a warmer India?India Today Science's weekly series, Climate On My Plate, explores how the warming planet is putting Kashmir's beloved crop under increasing pressure."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/kangana-ranaut-himachal-officials-disha-meeting-odop-revenue-congress-project-delays-2990296-2026-09-08",
-      "headline": "Generate revenue, don't beg from Centre: Kangana Ranaut raps Himachal officialsBJP MP Kangana Ranaut slammed Himachal Pradesh officials for relying on large funds from the Centre instead of generating revenue, urging them to advance the One District One Product initiative. She also accused the Congress-led state government of obstructing development, claiming credit for central projects and failing to ensure progress."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/un-map-arunachal-pradesh-aksai-chin-separated-between-india-china-mea-flags-anomalies-2990310-2026-09-09",
-      "headline": "India flags anomalies in new UN map depicting Arunachal, Aksai ChinThe MEA said New Delhi has raised the issue after a new United Nations world map depicted Arunachal Pradesh and Aksai Chin as separate regions between the India-China claim lines."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/indore/story/indore-hotel-muslim-man-befriend-hindu-woman-karni-sena-police-madhya-pradesh-2990389-2026-09-09",
-      "headline": "Muslim man found with Hindu woman in Indore hotel, Karni Sena hands him over to copsHindu activists and Shri Rajput Karni Sena members handed over a Muslim man to police after allegedly finding him with a Hindu woman at an Indore hotel."
+      "url": "https://www.indiatoday.in/india/story/uttar-pradesh-kanpur-engineer-chandan-gupta-released-after-russia-detention-returns-home-wife-sneha-says-2990279-2026-09-08",
+      "headline": "Kanpur engineer released days after detention in Russia, returns homeUP engineer Chandan Gupta, detained in Russia, has been released and is safely back home, according to his wife Sneha Gupta. Earlier, she had expressed concern that her husband could be pressured into joining the Russian military."
     }
   ],
   "sports": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/asian-games-nagoya-flood-400-athletes-evacuated-2990624-2026-09-09",
+      "headline": "Nagoya hit by record flood ahead of Asian Games, 400 athletes evacuated Nagoya has been hit by record rainfall and flooding just days before the 2026 Asian Games. Around 400 athletes and staff, who had arrived in the city, were briefly evacuated to higher ground."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/are-india-playing-saf-games-in-pakistan-2990555-2026-09-09",
+      "headline": "SAF Games 2027 set to be held in Pakistan. Will India participate? India's participation in the 2027 South Asian Federation Games in Pakistan will be decided in line with the Sports Ministry's policy on international sporting events. The MEA said India's approach will also take into account the directions of international sports bodies and the interests of Indian athletes."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/us-open-ben-shelton-carlos-alcaraz-sister-work-new-york-2990594-2026-09-09",
+      "headline": "Tennis till 3 am, work at 6: Ben Shelton's request to sister's boss after marathon USA's Ben Shelton stunned defending champion Carlos Alcaraz to reach the semi-finals of the US Open. Even after a 4.5 hour marathon, Shelton had his humour intact, stating that he feels for his best friend and sister who have to join work at 6 am local time, after staying up in the stands all night."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/us-open-ben-shelton-vs-carlos-alcaraz-quarterfinals-upset-2990568-2026-09-09",
+      "headline": "Big-serving Ben Shelton stuns Carlos Alcaraz in 5-set thriller, reaches semis US Open: Eighth seed Ben Shelton ended Carlos Alcaraz's title defence in an epic five-setter. The 23-year-old American reached the semifinals of the home Grand Slam for the second time in his career after his first win over a top-three player."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/india-vs-brazil-friendly-cafu-learning-experience-kolkata-2990526-2026-09-09",
+      "headline": "Cafu on India ahead of Brazil friendly: Treat it as a learning experience Cafu said India's friendly against Brazil in Kolkata should be treated as a chance to learn from the five-time world champions. He said the value of the occasion will depend on how the Blue Tigers use those lessons beyond the match."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-tilak-varma-exchange-east-zone-dominate-duleep-trophy-final-2990523-2026-09-09",
+      "headline": "Vaibhav Sooryavanshi gives Tilak Varma a taste of his own medicine East Zone vice captain Vaibhav Sooryavanshi gave South Zone skipper Tilak Varma a taste of his own medicine. Vaibhav riled up Varma with a bout of sledging during South Zone's innings."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/hockey/story/hockey-india-bholanath-singh-asunta-lakra-investigation-2990468-2026-09-09",
+      "headline": "IOA to probe sexual harassment allegations against Hockey India's Bholanath Singh The Indian Olympic Association has formed an independent four-member panel to investigate sexual harassment allegations made against Hockey India secretary Bholanath Singh. The allegations were levelled by Asunta Lakra."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/duleep-trophy-final-live-score-east-vs-south-day-4-updates-ishan-kishan-tilak-varma-devdutt-padikkal-2990398-2026-09-09",
-      "headline": "Day 4 Live: SZ (242/6), East Zone firmly on top, Tilak resumes fight Duleep Trophy Live, East vs South Final Day 4: East Zone are firmly in control of the match, courtesy of fast bowlers Mohammed Shami and Mukesh Kumar. Tilak Varma is still at the crease for South Zone as they stare at a huge loss in the summit clash."
+      "headline": "Day 4 Live: East Zone (15/2).Vaibhav falls cheaply, Ishan Kishan back out Duleep Trophy Live, East vs South Final Day 4: East Zone have lost both openers cheaply after opting to bat again, with Abhimanyu Easwaran and Vaibhav Sooryavanshi back in the hut. South Zone have made the most of their early opening after being asked to chase a mammoth deficit."
     },
     {
       "sentiment": "positive",
@@ -344,37 +379,37 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/womens-asia-cup-2026-bangladesh-beat-uae-set-up-semi-final-against-india-2990315-2026-09-09",
-      "headline": "Bangladesh set up India clash in Women's Asia Cup semis, Pakistan face Sri Lanka Bangladesh beat the UAE by 34 runs to seal a Women's Asia Cup semi-final clash with unbeaten India. Pakistan will face defending champions Sri Lanka in the other semi-final on Friday."
+      "headline": "Bangladesh set up India clash in Women's Asia Cup semis, Pakistan face Sri LankaBangladesh beat the UAE by 34 runs to seal a Women's Asia Cup semi-final clash with unbeaten India. Pakistan will face defending champions Sri Lanka in the other semi-final on Friday."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/aryna-sabalenka-beat-linda-noskova-us-open-semi-final-2990291-2026-09-08",
-      "headline": "Sabalenka escapes Noskova scare to reach semis, keeps 3-peat dream alive Aryna Sabalenka survived a huge Linda Noskova scare, edging the Wimbledon champion 7-6(1), 3-6, 7-6(7) to reach the US Open semi-finals. The win keeps her three-peat dream alive and extends her remarkable run in New York."
+      "headline": "Sabalenka escapes Noskova scare to reach semis, keeps 3-peat dream aliveAryna Sabalenka survived a huge Linda Noskova scare, edging the Wimbledon champion 7-6(1), 3-6, 7-6(7) to reach the US Open semi-finals. The win keeps her three-peat dream alive and extends her remarkable run in New York."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/other-sports/story/mansukh-mandaviya-indian-athletes-asian-games-2026-pressure-performance-2990290-2026-09-08",
-      "headline": "Confident Indian athletes won't fear opponents at Asian Games: Sports Minister Sports Minister Mansukh Mandaviya urged India's 503-member Asian Games contingent to compete without fear and turn pressure into performance as the country looks to build on its record-breaking medal haul from Hangzhou 2023"
+      "headline": "Confident Indian athletes won't fear opponents at Asian Games: Sports MinisterSports Minister Mansukh Mandaviya urged India's 503-member Asian Games contingent to compete without fear and turn pressure into performance as the country looks to build on its record-breaking medal haul from Hangzhou 2023"
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-cricketers-asian-games-nagoya-hotel-accommodation-bcci-2990287-2026-09-08",
-      "headline": "No five-star accommodation for Indian cricketers at Asian Games, BCCI confirms India's cricketers will stay in designated accommodation in Nagoya for the Asian Games, with BCCI vice-president Rajiv Shukla saying the hotels may not be five-star but are comfortable and suitable for the players"
+      "headline": "No five-star accommodation for Indian cricketers at Asian Games, BCCI confirmsIndia's cricketers will stay in designated accommodation in Nagoya for the Asian Games, with BCCI vice-president Rajiv Shukla saying the hotels may not be five-star but are comfortable and suitable for the players"
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/gull-feroza-fined-pakistan-womens-asia-cup-semi-final-berth-sealed-2990250-2026-09-08",
-      "headline": "After Fatima Sana, another Pakistan cricketer fined by ICC in Women's Asia Cup Gull Feroza has been fined 10 per cent of her match fee for showing dissent at an umpire's decision during Pakistan's Women's Asia Cup clash against Hong Kong. The sanction comes shortly after Fatima Sana was also fined, while Pakistan secured a semi-final spot after beating Hong Kong by 72 runs."
+      "headline": "After Fatima Sana, another Pakistan cricketer fined by ICC in Women's Asia CupGull Feroza has been fined 10 per cent of her match fee for showing dissent at an umpire's decision during Pakistan's Women's Asia Cup clash against Hong Kong. The sanction comes shortly after Fatima Sana was also fined, while Pakistan secured a semi-final spot after beating Hong Kong by 72 runs."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/transgender-women-cricket-icc-cricket-australia-anaya-bangar-eligibility-rules-2989961-2026-09-08",
-      "headline": "Transgender women in cricket: Can inclusion and competitive fairness coexist? The debate over transgender participation in women's cricket sits at the intersection of inclusion, competitive fairness and evolving science. The cases of Anaya Bangar and ex-Canada cricketer Danielle McGahey highlight the complexity of determining how testosterone, puberty and hormone therapy affect sporting advantage."
+      "headline": "Transgender women in cricket: Can inclusion and competitive fairness coexist?The debate over transgender participation in women's cricket sits at the intersection of inclusion, competitive fairness and evolving science. The cases of Anaya Bangar and ex-Canada cricketer Danielle McGahey highlight the complexity of determining how testosterone, puberty and hormone therapy affect sporting advantage."
     },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/cricket/story/wasim-akram-pakistan-cricket-england-test-series-defeat-2990199-2026-09-08",
-      "headline": "Wasim Akram slams Pakistan cricket: Knew England series would end in 0-3 loss Wasim Akram has slammed Pakistan's cricket setup after England took an unassailable 2-0 lead, saying he knew before the series that Pakistan would lose 0-3. The former captain blamed Pakistan's struggling batting, bowling and fielding, while also pointing to deeper problems in the domestic system."
+      "headline": "Wasim Akram slams Pakistan cricket: Knew England series would end in 0-3 lossWasim Akram has slammed Pakistan's cricket setup after England took an unassailable 2-0 lead, saying he knew before the series that Pakistan would lose 0-3. The former captain blamed Pakistan's struggling batting, bowling and fielding, while also pointing to deeper problems in the domestic system."
     },
     {
       "sentiment": "positive",
@@ -440,41 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/jason-gillespie-pakistan-cricket-board-owe-me-dollars-2989652-2026-09-08",
       "headline": "Gillespie exposes rot in Pakistan cricket: They still owe me thousands of dollarsFormer Pakistan head coach Jason Gillespie has launched another scathing attack on the PCB, claiming he is still owed thousands of dollars. Gillespie has also questioned Aaqib Javed's role in Pakistan cricket and the team's continued decline across formats."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/big-bash-league-privatisation-melbourne-renegades-sale-ipl-franchises-2989589-2026-09-08",
-      "headline": "IPL franchises set to enter Big Bash League? Australia approves privatisationCricket Australia's decision to open the Big Bash League to private ownership could create another opportunity for India's IPL franchise groups. With several already owning teams overseas, Australia could become their next T20 destination."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/us-open-iga-swiatek-loses-cool-press-2989555-2026-09-08",
-      "headline": "Stunned Iga Swiatek loses cool at press after tough loss to Qinwen ZhengIga Swiatek's US Open campaign ended in stunning fashion as Qinwen Zheng fought back from 0-5 down to knock out the six-time Grand Slam champion. The defeat left Swiatek frustrated, with that frustration spilling over into a tense exchange with a journalist at her post-match press conference."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/formula-one/story/bernie-ecclestone-formula-one-boss-portugal-airport-shotgun-detained-2989515-2026-09-08",
-      "headline": "Ex-F1 boss Bernie Ecclestone detained at Portugal airport with shotgunBernie Ecclestone was detained at a Portuguese airport after officers found a shotgun without the required paperwork. He was released after surrendering the weapon, reviving attention on an earlier firearm incident in Brazil."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/shubman-gill-vs-abhishek-sharma-sher-e-punjab-t20-league-mohali-2989507-2026-09-08",
-      "headline": "Gill goes 6, 4, 6 against Abhishek, but India star gets his revengeShubman Gill and Abhishek Sharma went head to head as Fazilka Falcons met Amritsar Soormas in Mohali. Gill made 67 and struck Abhishek for 6, 4, 6, but Sharma's 49 helped keep Soormas' semi-final hopes alive."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/badminton/story/badminton-satwik-chirag-interview-china-masters-asian-games-2989494-2026-09-08",
-      "headline": "Satwik and Chirag head to Asian Games with confidence and clarityFresh from their China Masters triumph, Satwik and Chirag head to the Asian Games with confidence, but insist they will not burden themselves with expectations of defending their gold."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/alexander-zverev-us-open-2026-quarter-final-luciano-darderi-straight-sets-win-2989497-2026-09-08",
-      "headline": "Zverev storms into quarter-finals with straight-sets win over DarderiAlexander Zverev overcame a stronger challenge from Luciano Darderi in the third set to reach the US Open quarter-finals. The top seed also became the only man to make the last eight at every Grand Slam this year."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-withdraw-rohit-yadav-age-fraud-australia-u19-tour-2989481-2026-09-08",
-      "headline": "Indian player withdrawn from U19 tour of Australia due to age fraudIndia U19 leg-spinner Rohit Yadav has been withdrawn from the Australia series after discrepancies were found in his age-related documents. The BCCI has imposed a two-year ban on the Bengal cricketer, with Aryan Savsani and Tanmay Baloda named as his replacements."
     }
   ],
   "education": [
