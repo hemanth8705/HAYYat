@@ -2,6 +2,11 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/ai-may-reshape-jobs-but-india-can-turn-the-shift-into-an-opportunity-cp-gurnani-2991789-2026-09-10",
+      "headline": "AI may reshape jobs, but India can turn the shift into an opportunity: CP GurnaniThe country can use AI to improve skills, build affordable solutions and create new opportunities, CP Gurnani, Co-Founder and Vice Chairman of AIONOS, said at the India Today BRICS Roundtable in New Delhi."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/from-groceries-to-investments-ai-agents-could-soon-make-payments-for-you-2991546-2026-09-10",
       "headline": "From groceries to investments AI agents could soon make payments for youUnder the proposed system, AI agents could make payments for users based on instructions given to them, reducing the need for people to approve every transaction separately."
     },
@@ -66,7 +71,7 @@
       "headline": "Why iPhone 17 prices jumped the same day Apple launched the iPhone 18Apple unveiled the iPhone 18 Pro line and the iPhone Duo while raising prices across older iPhones. The unusual move has shifted attention to chipflation and the wider memory supply crunch ahead of the festive season."
     },
     {
-      "sentiment": "positive",
+      "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/market/story/market-opening-sensex-opens-100-points-higher-nifty-above-23400-sbi-up-1-2991323-2026-09-10",
       "headline": "Sensex, Nifty trade flat as crude oil stays above $100; IT and auto stocks dragAt 10:36 am IST, the BSE Sensex was down 10.29 points, or 0.01%, at 74,753.94. The index had opened at 74,742.54. The Nifty 50 was up 1.35 points, or 0.01%, at 23,432.85 after opening at 23,446.60."
     },
@@ -94,14 +99,44 @@
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/story/xiaomis-india-business-faces-probe-over-investment-e-commerce-practices-2990726-2026-09-09",
       "headline": "Xiaomi's India business faces probe over investment, e-commerce practicesThe proposed probe will examine the movement of funds and whether Xiaomi obtained the mandatory approvals for investments in India after the government tightened its scrutiny of Chinese investments in 2020."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/market/story/market-closing-sensex-ends-813-points-lower-nifty-below-23500-infosys-hcl-down-5-oil-usd-100-2990691-2026-09-09",
-      "headline": "Sensex, Nifty fall sharply as crude oil crosses $100; IT stocks lead sell-offThe Sensex opened at 75,216.22 and closed at 74,764.23, down 813.35 points, or 1.08%. The Nifty 50 opened at 23,522.05 and ended at 23,431.50, down 203.60 points, or 0.86%."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/television/story/rohit-chandel-gets-bail-in-pocso-case-court-notes-serious-offence-2991942-2026-09-10",
+      "headline": "Actor Rohit Chandel gets bail in POCSO case, court notes serious offence A Mumbai Sessions Court granted actor Rohit Chandel bail in a POCSO case after a minor accused him of stalking, harassment and assault. The court called the offence serious, rejected provisional cash bail and imposed strict conditions on his release."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/farah-khan-recalls-working-with-difficult-akshaye-khanna-he-was-very-irritable-2991910-2026-09-10",
+      "headline": "He was very irritable: Farah Khan recalls working with 'difficult' Akshaye Khanna Filmmaker Farah Khan said actor Akshaye Khanna was once very difficult to work with. On the Dance Masti podcast, she shared that he was very irritable on film sets and that changed after Dil Chahta Hai."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/tamannaah-bhatia-chhathi-maiya-song-from-the-vvaan-strikes-a-chord-with-fans-deeply-soulful-2991875-2026-09-10",
+      "headline": "Deeply soulful: Tamannaah's Chhathi Maiya song from Vvaan strikes a chord with fans The makers of Vvaan have released Chhathi Maiya, a devotional song centred on Chhath Puja. The track has prompted emotional reactions online for bringing the festival and its faith to mainstream Hindi cinema."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/hunkkaar-trailer-aneet-padda-takes-on-raghubir-yadavs-powerful-guru-fights-abuse-2991810-2026-09-10",
+      "headline": "Hunkkaar trailer: Aneet Padda takes on Raghubir Yadav's powerful guru, fights abuse The trailer of Hunkkaar: The Roar follows Meenu Rawat as she accuses Baapji of abuse and files a police complaint. It sets up her battle against public scrutiny and the investigation led by ACP Jasleen Singh Soni."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/samantha-says-she-and-raj-nidimoru-were-okay-not-having-kids-pregnancy-was-a-surprise-2991769-2026-09-10",
+      "headline": "Pregnancy was a surprise: Samantha says she and Raj were okay not having kids Samantha revealed her pregnancy with Raj Nidimoru was a surprise, saying they had made peace with not having children. The actor also shared how she discovered she was pregnant while shooting for Thassadiya."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/ravi-mohan-estranged-wife-aarti-makes-oscar-post-as-singer-keneeshaa-joins-films-2991718-2026-09-10",
+      "headline": "Ravi Mohan's estranged wife Aarti makes 'Oscar' post as singer Keneeshaa joins films Aarti Ravi shared a cryptic Instagram Story praising an unnamed man's \"acting\" and prompting fresh speculation around Ravi Mohan. The post has drawn attention because it arrived amid renewed chatter over their separation, and Ravi Mohan's collaboration with singer Keneesha Francis."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/amitabh-bachchan-rekha-film-by-sanjay-leela-bhansali-prithviraj-sukumaran-wants-first-show-seat-2991681-2026-09-10",
+      "headline": "Amitabh Bachchan-Rekha film by Bhansali? Prithviraj Sukumaran wants first-show seat Prithviraj Sukumaran said he would watch a Sanjay Leela Bhansali film starring Amitabh Bachchan and Rekha on its first day. The actor also spoke about Daayra, strong storytelling and why audiences are no longer looking only for young stars."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/reviews/story/mandaadi-review-soori-leads-rooted-sailboat-racing-sports-drama-2991702-2026-09-10",
@@ -125,7 +160,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/bipasha-basu-tags-tukaram-mundhe-after-finding-worms-in-protein-powder-2991572-2026-09-10",
-      "headline": "Bipasha Basu finds worms in protein powder, seeks Tukaram Mundhe's help Bipasha Basu tagged Maharashtra FDA Commissioner Tukaram Mundhe after claiming she found worms in a newly opened protein powder jar. Her post adds to the wider spotlight on food safety inspections and adulteration complaints in Maharashtra."
+      "headline": "Bipasha Basu finds worms in protein powder, calls Tukaram Mundhe only hope Bipasha Basu tagged Maharashtra FDA Commissioner Tukaram Mundhe after claiming she found worms in a newly opened protein powder jar. Her post adds to the wider spotlight on food safety inspections and adulteration complaints in Maharashtra."
     },
     {
       "sentiment": "positive",
@@ -161,44 +196,19 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/hanuman-ansh-takes-rs-150-crore-box-office-miracle-overseas-clocks-100000-advance-booking-2991406-2026-09-10",
       "headline": "Hanuman Ansh takes Rs 150 crore box-office miracle overseas, clocks $100,000 advance Hanuman Ansh, the year's biggest sleeper hit, is taking its extraordinary run overseas with a strong North American advance. Here's how the unlikely blockbuster is making its global debut."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/taapsee-pannu-paparazzi-row-jaya-bachchan-comparison-compliment-clickbait-claims-2991409-2026-09-10",
-      "headline": "Taapsee Pannu reacts to 'Jaya Bachchan lite' tag over 'rude' behaviour with paps Actor Taapsee Pannu said she sees comparisons to Jaya Bachchan over her paparazzi interactions as a compliment. She said the 'angry Taapsee' tag is driven by clickbait around her clear personal boundaries."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/hollywood/story/sydney-sweeney-strips-down-naked-sports-ad-basketball-ring-internet-reaction-2991391-2026-09-10",
-      "headline": "Sydney Sweeney strips down for sports ad and internet needs a timeout Actor Sydney Sweeney bared it all for a cheeky sports betting ad - and, predictably, the internet had thoughts. The racy campaign has viewers split, with some loving the gag-filled pitch while others are less than impressed."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/sardar-2-x-review-karthi-spy-sequel-mixed-reactions-viewers-blockbuster-overdone-2991388-2026-09-10",
-      "headline": "Sardar 2 X reviews: 'Blockbuster' for some, 'overdone' for others Actor Karthi's Sardar 2 opened in theatres to mixed reactions on X, with viewers split over its execution. The Internet was impressed with the actor's dual role and action but raised concerns over runtime, writing and VFX."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/kunal-kemmu-kareena-kapoor-khan-vibe-daayra-box-office-clash-september-18-2991380-2026-09-10",
-      "headline": "All in the family: Kunal Kemmu on Vibe clashing with Kareena Kapoor's Daayra Kunal Kemmu said Vibe's clash with Kareena Kapoor Khan's Daayra is not a family rivalry. He said the two films target different audiences and have enough screens in the market."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/hollywood/story/digger-final-trailer-tom-cruise-oil-tycoon-tsunami-disaster-2991359-2026-09-10",
-      "headline": "Digger final trailer: Tom Cruise is the villain who wants to save the world The final trailer for Digger places Tom Cruise's eccentric oil tycoon Digger Rockwell at the centre of a catastrophic drilling disaster. It casts him as the blamed villain who still claims he can save the world."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/helen-accepts-award-on-salim-khans-behalf-reassures-fans-about-his-health-2991343-2026-09-10",
-      "headline": "Helen accepts award on Salim Khan's behalf, reassures fans about his health Helen accepted the Raj Kapoor Lifetime Achievement Award on behalf of Salim Khan and said he is doing well. Her remarks come months after the screenwriter's health scare and reassure his well-wishers."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/story/samay-raina-denies-dating-sharon-verma-indias-got-latent-2-rumours-2991335-2026-09-10",
-      "headline": "Samay Raina breaks silence on Sharon Verma dating rumours Comedian Samay Raina has denied dating Sharon Verma after their banter on India's Got Latent 2 sparked speculation. His response follows viral clips from the show and renewed fan curiosity around his on-screen equations."
     }
   ],
   "general news": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/brics-summit-delhi-security-four-layer-cordon-for-putin-heightened-cover-for-xi-2991847-2026-09-10",
+      "headline": "Hotels fortified, mega motorcades: Delhi goes into security lockdown for Putin, XiDelhi has put in place an elaborate security plan ahead of the BRICS summit, with a four-layer cordon for Vladimir Putin, special security teams for Putin and Xi Jinping, verified hotel staff and rehearsed routes. Senior police officers, commandos and paramilitary personnel will oversee security at hotels and along key routes."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/technology/news/story/wipro-cto-says-ai-can-do-work-of-up-to-20000-employees-staff-being-redeployed-internally-2991639-2026-09-10",
+      "headline": "Wipro's AI push frees capacity equivalent to 20,000 workers, CTO saysWipro's new AI initiatives reportedly have delivered productivity equivalent to the work of 20,000 employees. The company is training more than 100,000 employees as it shifts towards a human-AI workforce."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/bsp-akash-anand-expelled-mayawati-ashok-siddharth-sanyas-too-late-up-election-2991414-2026-09-10",
@@ -206,18 +216,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/il-114-300-sj-100-india-russia-uac-innoprom-aircraft-deals-brics-summit-2991450-2026-09-10",
-      "headline": "Russia eyes major aircraft push in India ahead of BRICS with 105-plane dealRussia's United Aircraft Corporation is moving towards multiple aircraft agreements with Indian aviation companies at Innoprom India. The talks centre on IL-114-300 orders and wider plans to build SJ-100 aircraft in India."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/some-dubious-deals-cut-in-plain-sight-delhi-court-okays-corruption-charges-against-lalu-yadav-family-2991590-2026-09-10",
-      "headline": "Dubious deals cut: Court okays charges against Lalu Yadav, family in IRCTC scamSpecial Judge Vishal Gogne of the Rouse Avenue Court said there was a \"strong suspicion\" against the accused for the offence of money laundering."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/brics-summit-india-benefits-agenda-ram-madhav-naraz-phupha-chidambaram-2991487-2026-09-10",
-      "headline": "Naaraaz phupha attitude: Ram Madhav hits back at Chidambaram's BRICS jibeAfter P Chidambaram questioned the tangible benefits India has gained from BRICS meetings, BJP vice president Ram Madhav hit back at the senior Congress MP. Madhav also explained why India would have to play a balanced role in the new world order."
+      "url": "https://www.indiatoday.in/world/us-news/story/trump-administration-moves-to-scrap-60-day-grace-period-for-h-1b-workers-who-lose-jobs-2991885-2026-09-10",
+      "headline": "Trump moves to end 60-day H-1B grace period, Indian tech workers most exposedThe Trump administration has proposed ending the 60-day grace period for H-1B and certain other foreign workers after job loss. The move could particularly affect Indian tech professionals, who make up a major share of H-1B holders. The proposal is part of Trump's broader push to tighten legal migration."
     },
     {
       "sentiment": "positive",
@@ -225,9 +225,14 @@
       "headline": "iPhone Duo is a Manuvadi idea to restore cost hierarchyApple has restored the balance of the universe. Steve's boys have done a good Jobs and I mean every rupee of it."
     },
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/cities/delhi/story/delhi-satya-niketan-building-collapse-survivor-no-warning-basement-work-2991962-2026-09-10",
+      "headline": "Could hear my friend calling for help: Survivor recalls Satya Niketan PG collapseA Delhi University student recalls the terrifying moments after the Satya Niketan building collapsed, leaving him and his friend trapped under the rubble for around 1.5 hours as they waited for help, with his friend repeatedly calling their seniors in the hope of being rescued."
+    },
+    {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/manindra-agarwal-iit-kanpur-director-student-years-research-ai-shift-2990110-2026-09-10",
-      "headline": "He came to IIT Kanpur in 1982 and never left: The journey from student to directorHe entered IIT Kanpur as a student in 1982, completed his PhD in 1991, later returned as a professor and, by and by, became its director. Through it all, one thing remained constant: his love for the institute. Like generations before him, Manindra Agrawal, too, has his share of memories, from canteen conversations to 3 Idiots moments."
+      "url": "https://www.indiatoday.in/india/story/brics-summit-india-china-new-world-order-modi-xi-jinping-jeffrey-sachs-2991663-2026-09-10",
+      "headline": "US unstable, India-China can shape new world order, says top American economistTop economist Jeffrey Sachs asserted that China's stakes in India's success were enormous, and it is a key reason why President Xi Jinping was coming to Delhi for the BRICS Summit."
     },
     {
       "sentiment": "positive",
@@ -236,13 +241,38 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/travel/story/iphone-duo-price-india-rs-2-99-lakh-prague-athens-zurich-tokyo-trip-2991433-2026-09-10",
-      "headline": "Your Rs 2.99 lakh iPhone Duo could pay for a week in Prague and SwitzerlandApple's first foldable iPhone, the iPhone Duo, has been priced at Rs 2,99,900 in India. Are you willing to use that kind of money for an international trip or get a new iPhone?"
+      "url": "https://www.indiatoday.in/science/story/iit-madras-precision-agriculture-mission-pravartak-rice-water-sugarcane-professor-v-kamakoti-2991262-2026-09-10",
+      "headline": "India's rice drinks too much water. IIT Madras has a fix, says Director KamakotiIIT Madras director Professor V. Kamakoti says the institute is working on precision agriculture to grow rice and sugarcane on far less water, work rooted in Mission Pravartak. Here is why India's rice habit drains so much water, and how smarter farming could ease the crisis."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/iit-madras-precision-agriculture-mission-pravartak-rice-water-sugarcane-professor-v-kamakoti-2991262-2026-09-10",
-      "headline": "India's rice drinks too much water. IIT Madras has a fix, says Director KamakotiIIT Madras director Professor V. Kamakoti says the institute is working on precision agriculture to grow rice and sugarcane on far less water, work rooted in Mission Pravartak. Here is why India's rice habit drains so much water, and how smarter farming could ease the crisis."
+      "url": "https://www.indiatoday.in/india/story/raghav-chadha-delhi-electoral-roll-row-aap-seeks-sir-details-aap-2991737-2026-09-10",
+      "headline": "AAP behaving like my ex-girlfriend: Raghav Chadha hits back at party over SIR rowRaghav Chadha likened AAP to an \"ex-girlfriend\" after the party accused the Election Commission of facilitating a backdoor entry and manipulating the process to accommodate the BJP leader in Delhi's electoral rolls."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/news/story/manindra-agarwal-iit-kanpur-director-student-years-research-ai-shift-2990110-2026-09-10",
+      "headline": "He came to IIT Kanpur in 1982 and never left: The journey from student to directorHe entered IIT Kanpur as a student in 1982, completed his PhD in 1991, later returned as a professor and, by and by, became its director. Through it all, one thing remained constant: his love for the institute. Like generations before him, Manindra Agrawal, too, has his share of memories, from canteen conversations to 3 Idiots moments."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/information/story/delhi-train-cancellations-diversions-brics-summit-september-11-13-2991790-2026-09-10",
+      "headline": "BRICS Summit: Delhi trains cancelled, diverted from Sept 11-13Northern Railway has revised the schedule of as many as 110 trains in Delhi during the BRICS Leaders' Summit from September 11 to 13. The changes include diversions, cancellations, altered terminals and delays amid tighter security and traffic curbs."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/technology/news/story/iphone-duo-india-price-so-high-you-can-fly-to-bangkok-buy-duo-enjoy-2-nights-still-save-money-2991395-2026-09-10",
+      "headline": "iPhone Duo India price so high, you can fly to Bangkok, buy it, and enjoy 2 nightsThe iPhone Duo, which is Apple's first foldable phone, is here. But it is also a pricey phone, particularly in India. In fact, its India price of Rs 2,99,900 is so high that you can buy it for cheaper, and have a small vacation while doing it in Bangkok. Or some other nearby country like Dubai."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/karnataka/story/nandan-nilekani-kamath-brothers-karnataka-sir-notice-list-name-mismatches-nikhil-kamath-nitin-kamath-dk-shivakumar-mother-2991781-2026-09-10",
+      "headline": "Nandan Nilekani, Kamath brothers on Karnataka SIR notice list over mismatchesProminent Karnataka voters, including Nandan Nilekani's family and the Kamath brothers, were placed on a verification notice list during the electoral roll revision. Officials said no notices were served in these cases and the discrepancies are being handled directly."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/il-114-300-sj-100-india-russia-uac-innoprom-aircraft-deals-brics-summit-2991450-2026-09-10",
+      "headline": "Russia eyes major aircraft push in India ahead of BRICS with 105-plane dealRussia's United Aircraft Corporation is moving towards multiple aircraft agreements with Indian aviation companies at Innoprom India. The talks centre on IL-114-300 orders and wider plans to build SJ-100 aircraft in India."
     },
     {
       "sentiment": "positive",
@@ -250,49 +280,14 @@
       "headline": "India vs Afghanistan 1st T20I in Delhi to go ahead as scheduled on September 13DDCA officials have said that they have received no instruction yet to postpone the first India-Afghanistan T20I on Sunday, September 13, despite BRICS summit security concerns."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/other-cities/story/hardoi-pregnant-woman-death-husband-detained-after-alleged-assault-over-money-dispute-2991586-2026-09-10",
-      "headline": "UP man beats 7-month pregnant wife to death, assaults mother who intervenesA seven-month pregnant woman was allegedly beaten to death with a stick by her husband over a money dispute in Hardoi, Uttar Pradesh. Her mother-in-law, who tried to intervene, was also assaulted. Police detained the accused husband, while the victim's family is expected to file a complaint."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/trump-freebie-announcement-5000-midterms-election-indian-politics-revdi-culture-adoption-2991393-2026-09-10",
-      "headline": "Is Trump taking election lessons from India? Revdi reaches US before midtermsA tried-and-tested formula for winning elections in India has now been adopted by US President Donald Trump. Amid mounting pressure, and fears of a setback in the November midterm elections, Trump has announced a $5,000 \"dividend\" for American adults if Republicans retain control of both -- the House of Representatives and the Senate."
-    },
-    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/education-today/featurephilia/story/student-suicides-on-campuses-why-wellness-cannot-replace-professional-mental-health-care-2991619-2026-09-10",
-      "headline": "IITs have a mental health problem. Is wellness really the answer for students today?IIT Kanpur's recently cancelled ISKCON tie-up has reopened a difficult question about student mental health. Experts say meditation, yoga and wellness can build resilience, but cannot replace psychiatrists, psychologists and counsellors when students face serious mental-health problems or suicidal thoughts. What should a genuinely effective IIT mental-health system look like?"
+      "headline": "IIT students are dying by suicide. Can wellness courses really solve the crisis?IIT Kanpur's recently cancelled ISKCON tie-up for wellness programmes has reopened a difficult question about student mental health. Experts say meditation, yoga and wellness can build resilience, but cannot replace psychiatrists, psychologists and counsellors when students face serious mental-health problems or suicidal thoughts. What should a genuinely effective IIT mental-health system look like?"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/chinas-xi-jinping-to-attend-brics-summit-in-delhi-from-september-12-to-13-2991561-2026-09-10",
-      "headline": "China's Xi Jinping to attend BRICS summit in Delhi on September 12-13The Chinese President's visit comes amid a gradual thaw in India-China ties following years of military tensions and diplomatic strain after the 2020 Galwan Valley clash."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/houthis-attack-saudi-arabia-pakistan-mecca-joint-defence-agreement-yemen-war-iran-proxy-groups-2991387-2026-09-10",
-      "headline": "Is Pakistan's bomb-Houthis plan a bluff against Iran?Pakistan's threats to conduct airstrikes on Houthis, who have been attacking Saudi Arabia, as part of the Mecca Pact could be nothing more than a bluff. It could, at best, be about sending a message across to Iran, which holds the strings to the Shia rebel group in Yemen."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/duleep-trophy-final-east-zone-vs-south-zone-result-2991488-2026-09-10",
-      "headline": "Ishan Kishan's East Zone win Duleep Trophy, end 13-year-long waitEast Zone beat South Zone on the first-innings lead to win the Duleep Trophy for the first time since 2012-13, with Ishan Kishan starring with 350 runs and 15-year-old Vaibhav Sooryavanshi lifting another trophy."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/maharashtra/story/mumbai-goa-highway-expansion-delay-union-minister-nitin-gadkari-says-he-is-ashamed-wont-attend-inauguration-2991306-2026-09-10",
-      "headline": "Ashamed of delays, won't join inauguration: Gadkari on Mumbai-Goa Highway expansionUnion Minister Nitin Gadkari said he would not attend the inauguration of the widened Mumbai-Goa Highway after repeated delays. He said he will inspect the route in October and act against contractors and officials over poor execution."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/raghav-chadha-delhi-voter-list-punjab-draft-roll-sir-election-commission-2991330-2026-09-10",
-      "headline": "How did Raghav Chadha become Delhi voter? Poll body explains curious caseAmid a political row and curiosity over the addition of AAP-turned-BJP Rajya Sabha MP Raghav Chadha's name to Delhi's electoral roll, the poll body has now come out with a detailed explanation and chronology of events."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/story/samay-raina-denies-dating-sharon-verma-indias-got-latent-2-rumours-2991335-2026-09-10",
-      "headline": "Samay Raina breaks silence on Sharon Verma dating rumoursComedian Samay Raina has denied dating Sharon Verma after their banter on India's Got Latent 2 sparked speculation. His response follows viral clips from the show and renewed fan curiosity around his on-screen equations."
+      "url": "https://www.indiatoday.in/india/story/salman-khurshid-israel-palestine-india-two-state-solution-brics-roundtable-summit-2991699-2026-09-10",
+      "headline": "India must do more on Israel-Palestine, stand for right and wrong: Salman KhurshidFormer External Affairs Minister Salman Khurshid said India must stand firmly for what is right and wrong in global conflicts, particularly on Israel and Palestine. He said New Delhi should push for a two-state solution while using its leadership role in BRICS to bridge internal divisions and strengthen cooperation among member countries."
     },
     {
       "sentiment": "positive",
@@ -301,13 +296,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/law-news/story/akriti-chaudhary-nsa-detention-case-uttar-pradesh-to-challenge-allahabad-high-court-ruling-noida-protestptag-2990686-2026-09-10",
-      "headline": "UP to challenge HC order cancelling Delhi University student's NSA detentionThe Uttar Pradesh government will challenge the Allahabad High Court order cancelling Aakriti Chaudhary's NSA detention and direction to pay her Rs 5 lakh compensation."
+      "url": "https://www.indiatoday.in/world/story/iran-captures-us-military-underwater-drone-raising-anduril-and-pentagon-concerns-2991512-2026-09-10",
+      "headline": "Iran plans to reverse-engineer captured US underwater drone in HormuzIran's attempt to reverse-engineer the captured US underwater drone could expose some of its technology, while giving Tehran a propaganda boost."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/indian-origin-couple-donates-20-million-dollars-to-university-of-north-texas-new-college-to-be-named-after-them-2991067-2026-09-09",
-      "headline": "Indian-origin couple donates $20 million for new US college, to be named after themIndian-origin couple Anuradha and Vikas Sinha have donated $20 million to the University of North Texas to establish a new AI and advanced analytics college. The college will serve as a major academic and research hub."
+      "url": "https://www.indiatoday.in/movies/celebrities/story/bipasha-basu-tags-tukaram-mundhe-after-finding-worms-in-protein-powder-2991572-2026-09-10",
+      "headline": "Bipasha Basu finds worms in protein powder, calls Tukaram Mundhe only hopeBipasha Basu tagged Maharashtra FDA Commissioner Tukaram Mundhe after claiming she found worms in a newly opened protein powder jar. Her post adds to the wider spotlight on food safety inspections and adulteration complaints in Maharashtra."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/india-weather-low-pressure-system-monsoon-rain-odisha-chhattisgarh-andhra-pradesh-2991574-2026-09-10",
+      "headline": "Monsoon rain to hit East, Central India on Friday as new system moves inOdisha, Chhattisgarh and coastal Andhra Pradesh are among the areas in focus as heavy rain sweeps parts of India on Friday."
     },
     {
       "sentiment": "negative",
@@ -316,11 +316,41 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/zelle-upi-bridge-bank-of-america-indians-in-usa-nris-remittances-national-payments-corporation-of-india-2991410-2026-09-10",
-      "headline": "UPI soon in US? Zelle bridge may make life easier for NRIs, Indian professionalsIndia's payments gateway, UPI, might soon be used in the US, making payments by NRIs and professionals to India easier. A pilot will begin with Bank of America's Zelle acting as the bridge."
+      "url": "https://www.indiatoday.in/world/us-news/story/indian-origin-couple-donates-20-million-dollars-to-university-of-north-texas-new-college-to-be-named-after-them-2991067-2026-09-09",
+      "headline": "Indian-origin couple donates $20 million for new US college, to be named after themIndian-origin couple Anuradha and Vikas Sinha have donated $20 million to the University of North Texas to establish a new AI and advanced analytics college. The college will serve as a major academic and research hub."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/shree-charani-fastest-indian-50-t20i-wickets-womens-asia-cup-2991960-2026-09-10",
+      "headline": "Shree Charani scripts history, becomes fastest Indian to 50 T20I wickets Women's Asia Cup: Shree Charani became the fastest Indian to 50 T20I wickets, reaching the landmark in just 29 matches against Bangladesh. The left-arm spinner surpassed Kuldeep Yadav's record and continued her remarkable rise to the top of the women's T20I bowling rankings."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/athletics/story/avinash-sable-3000m-steeplechase-gold-asian-games-return-tanya-chaudhary-animesh-kujur-2991954-2026-09-10",
+      "headline": "Sable steps up Asian Games prep with 1st steeplechase gold in over a year Avinash Sable stepped up his preparations for the Asian Games with 3000m steeplechase gold at the Indian Athletics Final series. Tanya Chaudhary set a new national record and Animesh Kujur emerged as the quickest athlete of the meet ahead of Gurindervir Singh."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/mohammed-shami-india-comeback-sourav-ganguly-duleep-trophy-east-zone-2991927-2026-09-10",
+      "headline": "Mohammed Shami hasn't been neglected by India, he played a lot: Sourav Ganguly Sourav Ganguly said Mohammed Shami has not been neglected and backed his domestic form. He also admitted uncertainty over the pacer's India return while praising Ishan Kishan's push for a Test comeback."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/vinesh-phogat-delhi-high-court-wfi-maternity-return-guidelines-world-trials-2991842-2026-09-10",
+      "headline": "Big win for Vinesh: Delhi HC tells WFI to frame maternity return guidelines The Delhi High Court told the Wrestling Federation of India to frame clear maternity return guidelines while hearing Vinesh Phogat's plea. This comes as a big win for Vinesh, who has been fighting for better guidelines to come in for wrestlers returning from maternity leave."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/womens-asia-cup-india-vs-bangladesh-semifinal-live-score-harmanpreet-kaur-dubai-2991749-2026-09-10",
+      "headline": "IND vs BAN semifinal LIVE: India on top as Bangladesh struggle in 150 chase IND vs BAN, Women's Asia Cup semifinal Live Updates: Bangladesh are in deep trouble while chasing 150 as the spin trio of Shree Charani, Deepti Sharma and Prema Rawat have put India on top in the semis."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/ahmedabad-2030-commonwealth-games-gujarat-rs-301-crore-allocation-2991754-2026-09-10",
+      "headline": "Gujarat sets aside Rs 301 crore for 2030 Commonwealth Games, Amdavad body formed Gujarat has allocated Rs 301 crore for preparations to host the 2030 Commonwealth Games, with Rs 200 crore earmarked for the host fee, the state government informed the assembly on Thursday. Ahmedabad will be at the centre of the preparations for the multi-sport event."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/shaheen-afridi-pakistan-presidents-trophy-first-class-return-test-recall-2991716-2026-09-10",
@@ -349,27 +379,27 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/sonal-dinusha-icc-player-of-the-month-nomination-after-420-runs-vs-india-2991610-2026-09-10",
-      "headline": "After India series heroics, Sri Lanka's Sonal Dinusha nominated for ICC award Sonal Dinusha has been shortlisted for the ICC Player of the Month award after a prolific Test series against India. Ollie Robinson and Hassan Mahmud has been nominated for the award alongside Dinusha."
+      "headline": "After India series heroics, Sri Lanka's Sonal Dinusha nominated for ICC awardSonal Dinusha has been shortlisted for the ICC Player of the Month award after a prolific Test series against India. Ollie Robinson and Hassan Mahmud has been nominated for the award alongside Dinusha."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-non-committal-t-shirt-family-full-house-promo-bcci-buzz-ajit-agarkar-2991563-2026-09-10",
-      "headline": "Rohit Sharma wears 'non-committal' T-shirt, fans link it to Ajit Agarkar's remark Rohit Sharma's Family Full House promo went viral after fans noticed his 'non-committal?' T-shirt. The message on the T-shirt has created buzz that it maybe a dig on Ajit Agarkar's remark from last year about Rohit and Virat Kohli."
+      "headline": "Rohit Sharma wears 'non-committal' T-shirt, fans link it to Ajit Agarkar's remarkRohit Sharma's Family Full House promo went viral after fans noticed his 'non-committal?' T-shirt. The message on the T-shirt has created buzz that it maybe a dig on Ajit Agarkar's remark from last year about Rohit and Virat Kohli."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-odi-future-2027-world-cup-participation-2991530-2026-09-10",
-      "headline": "October 2027 is still far away, we'll see then: Rohit on World Cup participation Rohit Sharma has kept his cards close to his chest on his participation in the 2027 ODI World Cup, saying there is still plenty of time before the tournament and that a decision on his future can wait."
+      "headline": "October 2027 is still far away, we'll see then: Rohit on World Cup participationRohit Sharma has kept his cards close to his chest on his participation in the 2027 ODI World Cup, saying there is still plenty of time before the tournament and that a decision on his future can wait."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/duleep-trophy-final-east-zone-vs-south-zone-result-2991488-2026-09-10",
-      "headline": "Ishan Kishan's East Zone win Duleep Trophy, end 13-year-long wait East Zone beat South Zone on the first-innings lead to win the Duleep Trophy for the first time since 2012-13, with Ishan Kishan starring with 350 runs and 15-year-old Vaibhav Sooryavanshi lifting another trophy."
+      "headline": "Ishan Kishan's East Zone win Duleep Trophy, end 13-year-long waitEast Zone beat South Zone on the first-innings lead to win the Duleep Trophy for the first time since 2012-13, with Ishan Kishan starring with 350 runs and 15-year-old Vaibhav Sooryavanshi lifting another trophy."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/hockey/story/india-vs-pakistan-womens-junior-asia-cup-india-win-reach-semi-finals-2991451-2026-09-10",
-      "headline": "India thrash Pakistan 19-0 to storm into Women's Junior Asia Cup semis India produced a ruthless attacking display to crush Pakistan 19-0 and storm into the Women's Junior Asia Cup semi-finals. The dominant victory saw India score in every quarter while completely shutting Pakistan out."
+      "headline": "India thrash Pakistan 19-0 to storm into Women's Junior Asia Cup semisIndia produced a ruthless attacking display to crush Pakistan 19-0 and storm into the Women's Junior Asia Cup semi-finals. The dominant victory saw India score in every quarter while completely shutting Pakistan out."
     },
     {
       "sentiment": "positive",
@@ -440,36 +470,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/us-open-2025-karen-khachanov-reaches-semi-finals-alexander-blockx-retires-injury-2991275-2026-09-10",
       "headline": "Karen Khachanov returns to semis as Blockx retires in quarter-finalKaren Khachanov reached the US Open semi-finals after Alexander Blockx retired injured in their quarter-final. The Belgian's breakthrough run ended in pain, while Khachanov moved back into the final four."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/coco-gauff-vs-mirra-andreeva-gauff-saves-two-match-points-to-reach-us-open-2026-semi-finals-2991242-2026-09-10",
-      "headline": "Coco Gauff rallies past Mirra Andreeva into US Open semis, to face RybakinaCoco Gauff came from a set down and saved two match points to beat Mirra Andreeva at the US Open. The fightback put her into the semi-finals against new world number one Elena Rybakina."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/eng-vs-pak-3rd-test-day-1-report-edgbaston-test-babar-azam-joe-root-2991226-2026-09-10",
-      "headline": "So many changes, same old Pakistan as England take control at Edgbaston on Day 1Pakistan's reshaped side collapsed inside 34 overs before England recovered to take a 23-run lead on Day 1 of the Edgbaston Test. England pacers had a field day as the Pakistan top order failed to inspire."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/vinicius-jr-raphinha-brazil-squad-india-friendly-kolkata-carlo-ancelotti-2991209-2026-09-09",
-      "headline": "Vinicius Jr, Raphinha coming to India: Brazil announce squad for India friendlyCarlo Ancelotti has named a star-studded Brazil squad for the international friendly against India on October 3. Vinicius Jr, Raphinha, Marquinhos and Bruno Guimaraes are among the big names set to face the Blue Tigers."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/elena-rybakina-world-no-1-qinwen-zheng-us-open-semi-finals-2991204-2026-09-09",
-      "headline": "Elena Rybakina becomes new World No.1, beats Qinwen Zheng to reach US Open semisElena Rybakina fought back to beat Qinwen Zheng 3-6, 6-1, 6-4 and reach the US Open semi-finals. The win helped her dethrone Aryna Sabalenka as World No. 1 in women's tennis."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/wrestling-asian-games-deepak-doping-test-failure-wfi-2991132-2026-09-09",
-      "headline": "Big blow for India as wrestler Deepak fails dope test, ruled out of Asian GamesGreco-Roman wrestler Deepak has been removed from India's Asian Games squad after an adverse doping result. The case leaves Indian wrestling further diminished and under renewed scrutiny as this is the third athlete to be ruled out of the Asian Games due to doping."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/cricket/story/afg-vs-ind-harshit-rana-injury-ruled-out-jasprit-bumrah-nitish-kumar-reddy-2991094-2026-09-09",
-      "headline": "Harshit Rana unlikely to be fit for AFG T20Is, Bumrah on track for comebackHarshit Rana is unlikely to recover in time for India's Afghanistan T20Is despite being picked subject to fitness. Jasprit Bumrah and Nitish Reddy, however, are progressing towards a return for the series."
     }
   ],
   "education": [
