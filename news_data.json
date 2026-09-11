@@ -1,6 +1,16 @@
 {
   "business": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/market/story/market-opening-sensex-opens-700-points-lower-nifty-below-23300-indigo-down-3-crude-oil-usd-110-2992109-2026-09-11",
+      "headline": "Sensex opens 700 points lower, Nifty below 23,300; IndiGo down 3%Sensex opens 700 points lower, Nifty below 23,300; IndiGo down 3%"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/imf-backs-india-statistical-reforms-amid-gdp-credibility-debate-2992084-2026-09-11",
+      "headline": "Amid GDP credibility debate, IMF backs India's statistical reformsJulie Kozack, Director of the Communications Department at the IMF, said the latest GDP release incorporated the two new statistical series and described their inclusion as an important step towards strengthening India's macroeconomic statistics."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/bank-staff-strike-nationwide-today-four-day-service-disruption-looms-2992044-2026-09-11",
       "headline": "Four-day disruption looms as bank staff strike across India todayBank employees' unions will observe a nationwide strike on Friday over a five-day working week and other pending demands. The action could affect branch transactions across several states and may be followed by another strike later this month."
@@ -89,19 +99,29 @@
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/story/epfo-provident-fund-claim-delay-mumbai-consumer-court-orders-6-percent-interest-payout-2990774-2026-09-09",
       "headline": "EPFO told to pay 6% interest for 35-day delay in Rs 14 lakh PF claimA Mumbai consumer court ordered the EPFO to pay interest for delaying a retired employee's PF settlement. The ruling reinforces that statutory bodies must meet prescribed timelines or face liability for deficient service."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/who-can-serve-on-stock-exchange-boards-sebi-proposes-key-rule-changes-2990934-2026-09-09",
-      "headline": "Who can serve on stock exchange boards? Sebi proposes key rule changesThe proposals are aimed at making the governance framework for market institutions more flexible while ensuring that experienced professionals continue to be available for critical board and senior management positions."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/medical-bills-education-marriage-how-new-epf-rules-let-you-withdraw-money-2990867-2026-09-09",
-      "headline": "Medical bills, education, marriage: How new EPF rules let you withdraw moneyNeed money for medical bills, education or marriage? Your EPF savings can help. Here's what the new withdrawal rules allow."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/dc-producer-kalanithi-maran-gifts-bmw-cars-to-lokesh-arun-and-anirudh-wamiqa-omission-questioned-2992085-2026-09-11",
+      "headline": "DC producer gifts BMWs to director, actor, composer. Fans ask why not Wamiqa? Sun Pictures producer Kalanithi Maran presented BMW cars to director Arun Matheswaran, actor Lokesh Kanagaraj and composer Anirudh Ravichander after DC's successful box-office run. The gesture has also triggered questions over the omission of female lead Wamiqa Gabbi."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/hanuman-ansh-box-office-collection-day-35-rs-163-13-crore-week-6-2992065-2026-09-11",
+      "headline": "Hanuman Ansh box office Day 35: Mighty wave sweeps film past Rs 192 crore Hanuman Ansh earned Rs 10 crore on Day 35, taking its India nett total to Rs 163.13 crore. The spiritual drama has sustained its momentum into the sixth week after a slow opening."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/akshay-kumar-saif-ali-khan-32-year-game-hits-flops-and-one-haiwaan-of-a-pairing-2991658-2026-09-11",
+      "headline": "Akshay-Saif's 32-year game: Hits, flops and one Haiwaan of a pairing Akshay Kumar and Saif Ali Khan reunite in Haiwaan after 18 years, but this time, they're on opposite sides. Saif plays Shyam, while Akshay turns menacing as Parshuram, giving their familiar chemistry a dark new twist."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/mirzapur-the-movie-box-office-collection-day-7-crosses-rs-200-crore-worldwide-2992059-2026-09-11",
+      "headline": "Mirzapur The Movie box office Day 7: Rs 212-crore haul powers a strong week 1 Mirzapur: The Movie has crossed Rs 200 crore worldwide within seven days of release. The film is now inching towards the Rs 150 crore India nett mark as it heads into its second weekend."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/television/story/bigg-boss-20-episode-5-day-4-written-update-yung-dsa-becomes-first-captain-housemates-revisit-legacy-2991982-2026-09-10",
@@ -120,7 +140,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/tamannaah-bhatia-chhathi-maiya-song-from-the-vvaan-strikes-a-chord-with-fans-deeply-soulful-2991875-2026-09-10",
-      "headline": "Deeply soulful: Tamannaah's Chhathi Maiya song from Vvaan strikes a chord with fans The makers of Vvaan have released Chhathi Maiya, a devotional song centred on Chhath Puja. The track has prompted emotional reactions online for bringing the festival and its faith to mainstream Hindi cinema."
+      "headline": "Deeply soulful: Tamannaah's Chhathi Maiya song from Vvaan strikes a chord with fans The makers of Vvaan have released Chhathi Maiya, a devotional song celebrating Chhath Puja. The song featuring Tamannaah Bhatia and Sidharth Malhotra, has struck an emotional chord online, with many appreciating its portrayal of the festival and its faith in mainstream Hindi cinema."
     },
     {
       "sentiment": "positive",
@@ -176,93 +196,33 @@
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/movies/bollywood/story/mirzapur-the-movie-ravi-kishans-villain-is-more-lover-than-ruthless-gangster-babban-babua-yadav-2991465-2026-09-10",
       "headline": "Mirzapur The Movie: Ravi Kishan's villain is more lover than ruthless gangster Ravi Kishan enters Mirzapur: The Movie as Babban Babua Yadav, a new contender for the throne. But his softer, loyal persona blunts the menace expected from a Mirzapur villain."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/shaque-trailer-9-years-a-missing-child-and-parineeti-chopra-too-many-secrets-2991482-2026-09-10",
-      "headline": "Shaque trailer: 9 years, a missing child and Parineeti Chopra's too many secrets Netflix has released the trailer for Shaque: Trust No One, led by Parineeti Chopra in her series debut. The mystery turns a mother's nine-year search for her missing child into a test of trust, instinct and obsession."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/ajay-devgn-tabu-chemistry-is-chemisting-at-drishyam-3-trailer-launch-2991435-2026-09-10",
-      "headline": "Chemistry is chemistring: Ajay-Tabu leave fans gushing at Drishyam 3 launch Actors Ajay Devgn and Tabu reunited at the Drishyam 3 trailer launch in Goa, and their easy banter had fans talking. While the trailer teased fresh trouble for Vijay Salgaonkar, it was the duo's playful chemistry that stole the spotlight."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/nayyi-navelli-teaser-yami-gautam-witch-mystery-october-16-2026-release-2991457-2026-09-10",
-      "headline": "Yami Gautam is a daayan. Or is she? Nayyi Navelli teaser raises questions The teaser for Nayyi Navelli introduces Yami Gautam Dhar as Mohini, a bride accused of being a daayan. It sets up a horror-comedy where family chaos, folklore and suspicion drive the story."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/reviews/story/sardar-2-review-karthi-spy-thriller-starts-strong-but-turns-generic-2991428-2026-09-10",
-      "headline": "Sardar 2 review: Karthi's spy thriller overstretches its second chanceRelease Date:Thu Sep 10, 2026 Sardar movie review: Director PS Mithran's Sardar 2, starring Karthi, SJ Suryah and Malavika Mohanan, is a predictable sequel that is engaging in parts. However, the overstretched climax drags down the film."
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/technology/news/story/bioweapons-mass-surveillance-espionage-anthropic-reveals-how-people-are-trying-to-misuse-claude-2992103-2026-09-11",
+      "headline": "Bioweapons, surveillance, espionage: Anthropic reveals how countries & groups are misusing ClaudeAnthropic has revealed multiple cases where it found countries and groups trying to misuse Claude. As per the company, the cases included attempts to create bioweapons and mass surveillance systems, as well as instances of espionage."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/full-confidence-conference-will-feature-positive-discussions-with-aspirations-for-global-welfare-pm-modi-2992075-2026-09-11",
+      "headline": "Confident summit will see positive talks for global welfare: PM ahead of BRICSPM Narendra Modi expressed confidence that the BRICS Summit will see positive, meaningful discussions on global issues and welfare as world leaders gather in New Delhi."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/imf-backs-india-statistical-reforms-amid-gdp-credibility-debate-2992084-2026-09-11",
+      "headline": "Amid GDP credibility debate, IMF backs India's statistical reformsJulie Kozack, Director of the Communications Department at the IMF, said the latest GDP release incorporated the two new statistical series and described their inclusion as an important step towards strengthening India's macroeconomic statistics."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/russian-president-vladimir-putin-arrives-in-new-delhi-to-participate-in-brics-summit-2992052-2026-09-11",
-      "headline": "Putin arrives in Delhi for BRICS Summit, set for bilateral talks with PM Modi todayThe Russian president will hold a bilateral meeting with Prime Minister Modi today and join him for a visit to the Innoprom exhibition, organised by the two countries' ministries of industry and trade."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/brics-summit-delhi-security-four-layer-cordon-for-putin-heightened-cover-for-xi-2991847-2026-09-10",
-      "headline": "Hotels fortified, mega motorcades: Delhi goes into security lockdown for Putin, XiDelhi has put in place an elaborate security plan ahead of the BRICS summit, with a four-layer cordon for Vladimir Putin, special security teams for Putin and Xi Jinping, verified hotel staff and rehearsed routes. Senior police officers, commandos and paramilitary personnel will oversee security at hotels and along key routes."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/trump-administration-moves-to-scrap-60-day-grace-period-for-h-1b-workers-who-lose-jobs-2991885-2026-09-10",
-      "headline": "Trump moves to end 60-day H-1B grace period, Indian tech workers most exposedThe Trump administration has proposed ending the 60-day grace period for H-1B and certain other foreign workers after job loss. The move could particularly affect Indian tech professionals, who make up a major share of H-1B holders. The proposal is part of Trump's broader push to tighten legal migration."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/bsp-akash-anand-expelled-mayawati-ashok-siddharth-sanyas-too-late-up-election-2991414-2026-09-10",
-      "headline": "No retweet, no job: Mayawati shuts BSP door on nephew Akash AnandBSP chief Mayawati linked nephew Akash Anand's reinstatement to his father-in-law and former MP Ashok Siddharth announcing his sanyas. Though Siddharth announced his political retirement, Mayawati said Akash Anand wouldn't be given any party role. Reason? The nephew didn't retweet Mayawati's post on X."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/opinion/story/tech-news-iphone-duo-price-in-india-cupertino-apple-steve-jobs-2991528-2026-09-10",
-      "headline": "iPhone Duo is a Manuvadi idea to restore cost hierarchyApple has restored the balance of the universe. Steve's boys have done a good Jobs and I mean every rupee of it."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/houthi-advance-bab-el-mandeb-strait-saudi-red-sea-route-hormuz-crisis-2992025-2026-09-11",
-      "headline": "Hormuz still blocked, now Iran-backed Houthis close in on Red Sea chokepointIran-backed Houthis have seized Yemen's Mocha and are advancing towards the Bab el-Mandeb Strait, raising the prospect of a second maritime chokepoint being disrupted after Hormuz. The development could further squeeze Saudi Arabia, which has relied more heavily on Red Sea routes, while adding pressure on global energy supplies and shipping."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/wipro-cto-says-ai-can-do-work-of-up-to-20000-employees-staff-being-redeployed-internally-2991639-2026-09-10",
-      "headline": "Wipro's AI push frees capacity equivalent to 20,000 workers, CTO saysWipro's new AI initiatives reportedly have delivered productivity equivalent to the work of 20,000 employees. The company is training more than 100,000 employees as it shifts towards a human-AI workforce."
+      "headline": "Putin arrives in Delhi for BRICS Summit, set for bilateral talks with PM Modi todayThe PM Modi-Putin talks come at a critical juncture, with India and Russia seeking to deepen their strategic partnership while navigating the Ukraine war, global energy disruptions and shifting geopolitical alignments."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/story/special-26-style-fake-income-tax-raid-in-mumbai-gang-demanded-rs-1-crore-from-businessman-10-arrested-2992053-2026-09-11",
-      "headline": "Mumbai gang stages 'Special 26'-style raid, demands Rs 1 crore, 10 arrestedA gang posing as Income Tax and Crime Branch officials staged a fake raid on a Mumbai businessman and his wife. The case has led to 10 arrests, including two department employees, as police probe a wider network."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/iit-madras-precision-agriculture-mission-pravartak-rice-water-sugarcane-professor-v-kamakoti-2991262-2026-09-10",
-      "headline": "India's rice drinks too much water. IIT Madras has a fix, says Director KamakotiIIT Madras director Professor V. Kamakoti says the institute is working on precision agriculture to grow rice and sugarcane on far less water, work rooted in Mission Pravartak. Here is why India's rice habit drains so much water, and how smarter farming could ease the crisis."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/bank-staff-strike-nationwide-today-four-day-service-disruption-looms-2992044-2026-09-11",
-      "headline": "Four-day disruption looms as bank staff strike across India todayBank employees' unions will observe a nationwide strike on Friday over a five-day working week and other pending demands. The action could affect branch transactions across several states and may be followed by another strike later this month."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/delhi/story/delhi-satya-niketan-building-collapse-survivor-no-warning-basement-work-2991962-2026-09-10",
-      "headline": "Could hear my friend calling for help: Survivor recalls Satya Niketan PG collapseA Delhi University student recalls the terrifying moments after the Satya Niketan building collapsed, leaving him and his friend trapped under the rubble for around 1.5 hours as they waited for help, with his friend repeatedly calling their seniors in the hope of being rescued."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/brics-summit-india-china-new-world-order-modi-xi-jinping-jeffrey-sachs-2991663-2026-09-10",
-      "headline": "US unstable, India-China can shape new world order, says top American economistTop economist Jeffrey Sachs asserted that China's stakes in India's success were enormous, and it is a key reason why President Xi Jinping was coming to Delhi for the BRICS Summit."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/iphone-duo-india-price-so-high-you-can-fly-to-bangkok-buy-duo-enjoy-2-nights-still-save-money-2991395-2026-09-10",
-      "headline": "iPhone Duo India price so high, you can fly to Bangkok, buy it, and enjoy 2 nightsThe iPhone Duo, which is Apple's first foldable phone, is here. But it is also a pricey phone, particularly in India. In fact, its India price of Rs 2,99,900 is so high that you can buy it for cheaper, and have a small vacation while doing it in Bangkok. Or some other nearby country like Dubai."
+      "url": "https://www.indiatoday.in/history-of-it/story/9-11-terror-attack-al-qaida-flight-93-tom-burnett-phone-call-helped-save-us-capitol-history-2991917-2026-09-11",
+      "headline": "How a phone call from hijacked Flight 93 saved US Capitol on 9/11The 9/11 attacks, which mark 25 years today, involved four hijacked aircraft, but one plane, Flight 93, never reached the intended target of the al-Qaida terrorists. Alerted through phone calls, Tom Burnett and fellow passengers fought back, which stopped another attack on Washington."
     },
     {
       "sentiment": "positive",
@@ -271,13 +231,23 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/manindra-agarwal-iit-kanpur-director-student-years-research-ai-shift-2990110-2026-09-10",
-      "headline": "He came to IIT Kanpur in 1982 and never left: The journey from student to directorHe entered IIT Kanpur as a student in 1982, completed his PhD in 1991, later returned as a professor and, by and by, became its director. Through it all, one thing remained constant: his love for the institute. Like generations before him, Manindra Agrawal, too, has his share of memories, from canteen conversations to 3 Idiots moments."
+      "url": "https://www.indiatoday.in/trending-news/story/daman-collector-gets-thar-fortuner-owners-to-take-road-safety-pledge-together-2991499-2026-09-10",
+      "headline": "Bhaigiri nahi, zimmedaari: Thar, Fortuner owners take road-safety pledge in DamanHundreds of Thar and Fortuner owners gathered in Daman for the Thar-Fortuner Sankalp Yatra and took a road-safety pledge. The event pitched responsible driving as the defining message for owners of powerful SUVs."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/other-cities/story/nanded-bhokar-road-accident-seven-killed-in-tata-magic-truck-crash-near-sitakhanda-ghat-maharashtra-2992049-2026-09-11",
-      "headline": "Seven killed, several critically injured in road accident in Maharashtra's NandedA truck-Tata Magic collision on the Nanded-Bhokar road in Maharashtra killed seven people and left several others seriously injured. The accident occurred around 7 pm on Thursday, during the Pola festival."
+      "url": "https://www.indiatoday.in/world/story/pakistan-hindu-sisters-case-sindh-court-sends-minors-to-safe-house-hindu-minors-tando-allahyar-2991628-2026-09-11",
+      "headline": "Send us home: Abducted, converted, married, 2 minor Hindu sisters plead outside Pak courtTwo Hindu sisters in Pakistan's Sindh, who were abducted, forcefully converted and married to Muslim men, pleaded to return home after a court sent them to a safe house. The case highlights the continued atrocities against minorities in Pakistan and forced marriages of Hindu girls in Sindh's Tando Allahyar district."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/tamannaah-bhatia-chhathi-maiya-song-from-the-vvaan-strikes-a-chord-with-fans-deeply-soulful-2991875-2026-09-10",
+      "headline": "Deeply soulful: Tamannaah's Chhathi Maiya song from Vvaan strikes a chord with fansThe makers of Vvaan have released Chhathi Maiya, a devotional song celebrating Chhath Puja. The song featuring Tamannaah Bhatia and Sidharth Malhotra, has struck an emotional chord online, with many appreciating its portrayal of the festival and its faith in mainstream Hindi cinema."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/haiwaan-movie-review-and-release-live-fans-gear-up-for-akshay-kumar-saif-ali-khan-thriller-2992070-2026-09-11",
+      "headline": "Live: Fans say Akshay-Saif film better than OppamHaiwaan movie review and release live updates: Saif Ali Khan and Akshay Kumar reunite on screen after nearly 18 years in Priyadarshan's dark thriller Haiwaan. Excited? Catch all the latest updates here."
     },
     {
       "sentiment": "negative",
@@ -286,41 +256,86 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/salman-khurshid-israel-palestine-india-two-state-solution-brics-roundtable-summit-2991699-2026-09-10",
-      "headline": "India must do more on Israel-Palestine, stand for right and wrong: Salman KhurshidFormer External Affairs Minister Salman Khurshid said India must stand firmly for what is right and wrong in global conflicts, particularly on Israel and Palestine. He said New Delhi should push for a two-state solution while using its leadership role in BRICS to bridge internal divisions and strengthen cooperation among member countries."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/raghav-chadha-delhi-electoral-roll-row-aap-seeks-sir-details-aap-2991737-2026-09-10",
-      "headline": "AAP behaving like my ex-girlfriend: Raghav Chadha hits back at party over SIR rowRaghav Chadha likened AAP to an \"ex-girlfriend\" after the party accused the Election Commission of facilitating a backdoor entry and manipulating the process to accommodate the BJP leader in Delhi's electoral rolls."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/karnataka/story/dk-shivakumar-karnataka-mangaluru-udupi-hindutva-rss-bjp-fortress-breach-attempt-congress-cabinet-meeting-2990721-2026-09-10",
-      "headline": "Cong's DKS ready for experiment at RSS's three-decades-old Hindutva laboratoryDakshina Kannada and Udupi, the Hindutva lab districts of the RSS, have been dominated by the BJP. Karnataka CM DK Shivakumar's 2028 Assembly poll preparation has seemingly started, and it appears he has chosen the hardest nut for the Congress to crack first. Here's how DKS is trying to appeal to Karnataka's ideologically polarised voters."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/bipasha-basu-tags-tukaram-mundhe-after-finding-worms-in-protein-powder-2991572-2026-09-10",
-      "headline": "Bipasha Basu finds worms in protein powder, calls Tukaram Mundhe only hopeBipasha Basu tagged Maharashtra FDA Commissioner Tukaram Mundhe after claiming she found worms in a newly opened protein powder jar. Her post adds to the wider spotlight on food safety inspections and adulteration complaints in Maharashtra."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/karnataka/story/nandan-nilekani-kamath-brothers-karnataka-sir-notice-list-name-mismatches-nikhil-kamath-nitin-kamath-dk-shivakumar-mother-2991781-2026-09-10",
-      "headline": "Nandan Nilekani, Kamath brothers on Karnataka SIR notice list over mismatchesProminent Karnataka voters, including Nandan Nilekani's family and the Kamath brothers, were placed on a verification notice list during the electoral roll revision. Officials said no notices were served in these cases and the discrepancies are being handled directly."
+      "url": "https://www.indiatoday.in/sports/tennis/story/us-open-elena-rybakina-beats-coco-gauff-final-vs-aryna-sabalenka-2992096-2026-09-11",
+      "headline": "Rybakina downs Gauff, sets up No.1 vs No.2 final with SabalenkaUS Open: Elena Rybakina fought back from a set down to beat Coco Gauff in a thrilling US Open semi-final. The world No. 1 will now face defending champion Aryna Sabalenka in a blockbuster final between the top two players."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/other-cities/story/kanpur-businessman-vineet-minocha-murder-daughter-in-law-arrested-cctv-call-records-surveillance-shalu-2990823-2026-09-09",
-      "headline": "UP woman hired men to kill millionaire father-in-law, partied as he was murderedPolice said the woman hired two men, one of them a former employee, to kill her father-in-law at their Kanpur home after becoming frustrated with his constant CCTV surveillance and restrictions on her access to family finances."
+      "url": "https://www.indiatoday.in/science/story/delhi-bhalswa-ghazipur-landfill-cleaning-biowaste-rekha-gupta-mcd-2991373-2026-09-11",
+      "headline": "A garbage mountain in Delhi is being broken down. It's powering paper millsFor decades, Bhalswa landfill grew into a mountain of waste. Now Delhi is taking it apart piece by piece in a race against time. Here's how it's going."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/indian-origin-couple-donates-20-million-dollars-to-university-of-north-texas-new-college-to-be-named-after-them-2991067-2026-09-09",
-      "headline": "Indian-origin couple donates $20 million for new US college, to be named after themIndian-origin couple Anuradha and Vikas Sinha have donated $20 million to the University of North Texas to establish a new AI and advanced analytics college. The college will serve as a major academic and research hub."
+      "url": "https://www.indiatoday.in/opinion/story/arsonist-as-firefighter-musharraf-to-munir-how-the-pakistan-army-thrived-after-911-2991972-2026-09-11",
+      "headline": "Arsonist as firefighter: Musharraf to Munir, how the Pakistan Army thrived after 9/11Twenty-five years after 9/11, Pakistan's use of Islamist militant proxies has come full circle. From becoming a US frontline ally during the Soviet-Afghan war to sheltering terrorists and facing mounting attacks at home, decades of prioritising military power have left Pakistan economically weakened and increasingly consumed by the violence it once enabled."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/xi-jinping-india-visit-brics-summit-india-china-thaw-border-trade-strains-2992076-2026-09-11",
+      "headline": "Chinese President back in India after 7 years: What's on table for Modi-Xi talksXi Jinping's return to India after seven years will test whether the cautious thaw with Prime Minister Narendra Modi can evolve into a broader reset despite unresolved border, trade and strategic tensions."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/cities/delhi/story/delhi-54-chandni-chowk-jewellery-shops-sealed-over-unauthorised-basement-use-2991768-2026-09-10",
+      "headline": "54 jewellery shops sealed in Delhi's Chandni Chowk over unauthorised basement useThe MCD sealed 56 jewellery and bullion shops in Chandni Chowk's Kucha Mahajani on Thursday. Traders said goods worth crores is locked inside and questioned the lack of prior notice."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/opinion/story/india-strategic-sectors-private-enterprise-opening-could-transform-economy-over-decades-2991829-2026-09-11",
+      "headline": "From opening up to building up: India's next Industrial revolutionThe Modi government recognised that if India was to become a developed economy, the state could not remain the principal actor in every strategic industry. It had to become an enabler, creating the policy architecture, incentives and infrastructure that would allow private capital and entrepreneurship to take India's capabilities to scale."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/brics-summit-2026-delhi-live-updates-putin-russia-xi-jinping-pezeshkian-iran-modi-cyril-ramaphosa-deal-bilateral-meetings-2992072-2026-09-11",
+      "headline": "Live: Union Ministers, CMs to travel together in a single bus to BRICS summit venueBRICS Summit 2026 Live Updates: Russian President Vladimir Putin arrives in India ahead of the two-day BRICS Summit in New Delhi, which begins Saturday with a focus on strengthening collective resilience in food, energy, health, disaster management and critical supply chains. The summit comes amid global economic and geopolitical challenges stemming from the Russia-Ukraine war, the West Asia crisis and the blockade of the Strait of Hormuz, as well as the Trump administration's trade and tariff policies. Chinese President Xi Jinping, Iranian President Masoud Pezeshkian, South African President Cyril Ramaphosa and several other world leaders are among those attending."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/technology/features/story/iphone-inflation-is-real-phone-18-pro-series-is-more-expensive-how-much-is-this-increase-2992078-2026-09-11",
+      "headline": "iPhone inflation is real: iPhone 18 Pro is more expensive, how much is this increase?On Wednesday, Apple took the wraps off of the iPhone 18 Pro series. But the new iPhones also come with a new price tag. In India, the iPhone 18 Pro models are Rs 30,000 more expensive than last year. Here is why."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/opinion/story/clean-label-food-adulteration-natural-no-msg-preservatives-fssai-chemical-free-food-satire-2992074-2026-09-11",
+      "headline": "Chemical-free food, and other bedtime stories for grown-upsThe industry has learnt a new trick. It no longer hides what is in your food. It simply gives the same chemical a friendlier name, and lets you thank it for the honesty."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/fake-pmo-id-at-mumbai-jio-world-plaza-mall-accused-rohan-parekh-says-he-wanted-to-impress-family-2991617-2026-09-10",
+      "headline": "Fake PMO ID at Mumbai mall: Accused Rohan Parekh says he wanted to impress familyA man allegedly used a fake PMO identity card to enter a luxury Mumbai mall with two others. Police suspect the digital pass was AI-forged and are probing whether his stated motive hides something more."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/trending-news/story/gurugram-man-says-his-house-help-earns-rs-60000-monthly-salary-shares-how-she-manages-it-2992077-2026-09-11",
+      "headline": "Gurugram man says his house help earns Rs 60,000 monthly, shares how she manages itA man based in Gurugram has shared how his house help manages a monthly income of around Rs 60,000, with most of her earnings going towards her daughter's education, household expenses, rent and a plot of land she is buying back home."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/cities/delhi/story/delhi-satya-niketan-building-collapse-survivor-no-warning-basement-work-2991962-2026-09-10",
+      "headline": "Could hear my friend calling for help: Survivor recalls Satya Niketan PG collapseA Delhi University student recalls the terrifying moments after the Satya Niketan building collapsed, leaving him and his friend trapped under the rubble for around 1.5 hours as they waited for help, with his friend repeatedly calling their seniors in the hope of being rescued."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/technology/story/anthropic-openai-ai-safety-jacob-coxon-warns-of-superintelligence-race-evan-hubinger-2992055-2026-09-11",
+      "headline": "No longer merely aiding humans, but on course to become them: Ex-Anthropic researcherJacob Coxon, who resigned from Anthropic over concerns about the pace of AI development, said recursive self-improvement could trigger an \"intelligence explosion\", allowing increasingly powerful AI systems to eventually surpass human capabilities."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/virat-kohli-2027-world-cup-rajkumar-sharma-selection-debate-2992098-2026-09-11",
+      "headline": "Why even discuss it? Virat Kohli's coach certain he'll be at 2027 World Cup Virat Kohli's childhood coach Rajkumar Sharma has dismissed doubts over the batter's 2027 World Cup prospects. He believes Kohli's performances, fitness and hunger have made his place in India's ODI plans beyond debate."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/us-open-elena-rybakina-beats-coco-gauff-final-vs-aryna-sabalenka-2992096-2026-09-11",
+      "headline": "Rybakina downs Gauff, sets up No.1 vs No.2 final with Sabalenka US Open: Elena Rybakina fought back from a set down to beat Coco Gauff in a thrilling US Open semi-final. The world No. 1 will now face defending champion Aryna Sabalenka in a blockbuster final between the top two players."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/aryna-sabalenka-us-open-2026-jessica-pegula-fourth-straight-final-2992066-2026-09-11",
+      "headline": "Sabalenka emulates Serena Williams, storms into fourth successive US Open final Aryna Sabalenka beat Jessica Pegula 7-5, 6-2 to reach a fourth successive US Open final. The defending champion is now one win away from a New York hat-trick and another slice of history."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/england-vs-pakistan-third-test-ollie-robinson-whitewash-edgbaston-2992043-2026-09-11",
@@ -364,17 +379,17 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/mohammed-shami-india-comeback-sourav-ganguly-duleep-trophy-east-zone-2991927-2026-09-10",
-      "headline": "Mohammed Shami hasn't been neglected by India, he played a lot: Sourav Ganguly Sourav Ganguly said Mohammed Shami has not been neglected and backed his domestic form. He also admitted uncertainty over the pacer's India return while praising Ishan Kishan's push for a Test comeback."
+      "headline": "Mohammed Shami hasn't been neglected by India, he played a lot: Sourav GangulySourav Ganguly said Mohammed Shami has not been neglected and backed his domestic form. He also admitted uncertainty over the pacer's India return while praising Ishan Kishan's push for a Test comeback."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/other-sports/story/vinesh-phogat-delhi-high-court-wfi-maternity-return-guidelines-world-trials-2991842-2026-09-10",
-      "headline": "Big win for Vinesh: Delhi HC tells WFI to frame maternity return guidelines The Delhi High Court told the Wrestling Federation of India to frame clear maternity return guidelines while hearing Vinesh Phogat's plea. This comes as a big win for Vinesh, who has been fighting for better guidelines to come in for wrestlers returning from maternity leave."
+      "headline": "Big win for Vinesh: Delhi HC tells WFI to frame maternity return guidelinesThe Delhi High Court told the Wrestling Federation of India to frame clear maternity return guidelines while hearing Vinesh Phogat's plea. This comes as a big win for Vinesh, who has been fighting for better guidelines to come in for wrestlers returning from maternity leave."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/womens-asia-cup-india-vs-bangladesh-semifinal-live-score-harmanpreet-kaur-dubai-2991749-2026-09-10",
-      "headline": "IND vs BAN semifinal Highlights: India storm into 10th final with 40-run win IND vs BAN, Women's Asia Cup semifinal Highlights: India storm into the final of the women's Asia Cup with a dominant win over Bangladesh in Dubai. The Indian bowlers stepped up once again as Bangladesh batters struggled for momentum."
+      "headline": "IND vs BAN semifinal Highlights: India storm into 10th final with 40-run winIND vs BAN, Women's Asia Cup semifinal Highlights: India storm into the final of the women's Asia Cup with a dominant win over Bangladesh in Dubai. The Indian bowlers stepped up once again as Bangladesh batters struggled for momentum."
     },
     {
       "sentiment": "positive",
@@ -455,21 +470,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/ben-shelton-alcaraz-us-open-win-career-defining-moment-2991135-2026-09-10",
       "headline": "Big Ben time at US Open: The night Ben Shelton broke through against the eliteBen Shelton's stunning US Open win over Carlos Alcaraz was more than the biggest victory of his career. After years of promise and repeated failures against the elite, the American may finally have found his breakthrough moment."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/cricket/story/pakistan-under-19-cricket-team-mistaken-asylum-seekers-portsmouth-protest-2991336-2026-09-10",
-      "headline": "Pakistan U-19 cricket team mistaken for asylum seekers during UK protestPakistan's Under-19 cricketers were caught in an extraordinary mix-up in Portsmouth after protesters mistook the touring team for asylum seekers. Police later confirmed the concerns were misplaced, with no offences identified during the incident."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/duleep-trophy-final-live-score-east-vs-south-day-5-updates-ishan-kishan-vaibhav-sooryavanshi-2991309-2026-09-10",
-      "headline": "Day 5 Live: East Zone crowned Duleep Trophy championsDuleep Trophy Live, East vs South Final Day 5: East Zone clinched the Duleep Trophy title on the basis of their first-innings lead after the final ended in a draw. With the decisive advantage secured in the opening innings, East Zone were crowned champions as the captains shook hands to bring the contest to an end."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/champions-league-raphinha-ferran-torres-hattrick-barcelona-psg-liverpool-arsenal-win-2991317-2026-09-10",
-      "headline": "Raphinha and Torres shine as Barcelona, PSG lead Champions League goal rushBarcelona and Paris Saint-Germain delivered goal-filled Champions League nights, with Raphinha and Ferran Torres stealing the spotlight. Liverpool and Arsenal also began their campaigns with important victories on a busy European evening."
     }
   ],
   "education": [
