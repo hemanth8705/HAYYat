@@ -2,6 +2,11 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/sunday-special-story-weekend-economy-india-saturday-sunday-spending-consumer-habits-2026-2992839-2026-09-12",
+      "headline": "What happens to your money between Saturday and Sunday? Weekend economy has answerA new report on India's urban economy finds that 61.5% of weekly spending is concentrated in just two days, Saturday and Sunday. The average urban consumer spends Rs 6,724 on weekdays, compared with Rs 10,732 over the weekend."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/ipo/story/openai-anthropic-ipos-ai-boom-valuations-public-market-test-spacex-2992561-2026-09-11",
       "headline": "AI boom faces a reality check as OpenAI, Anthropic head for IPOsOpenAI and Anthropic are preparing for IPOs that could test AI valuations in public markets. The listings are expected to reveal audited frontier AI economics and sharpen price discovery across the sector."
     },
@@ -94,14 +99,19 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/govt-urges-sugar-mills-to-maintain-adequate-sugar-supplies-during-festive-season-2991473-2026-09-10",
       "headline": "Govt urges sugar mills to maintain adequate sugar supplies during festive seasonThe government has asked the sugar industry to ensure that enough sugar is available in the market and that prices remain stable during the festive period."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/zelle-upi-bridge-bank-of-america-indians-in-usa-nris-remittances-national-payments-corporation-of-india-2991410-2026-09-10",
-      "headline": "UPI soon in US? Zelle bridge may make life easier for NRIs, Indian professionalsIndia's payments gateway, UPI, might soon be used in the US, making payments by NRIs and professionals to India easier. A pilot will begin with Bank of America's Zelle acting as the bridge."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/chhathi-maiya-song-tamannaah-bhatia-the-vvaan-chhath-puja-accuracy-check-2992441-2026-09-12",
+      "headline": "Does Tamannaah Bhatia's Chhathi Maiya song get Chhath right, or is it too Bollywood? People from Bihar and Jharkhand compared The Vvaan's Chhathi Maiya with Chhath Puja traditions. They said the song captures the festival's devotional spirit but takes cinematic liberties with key details."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/ranabaali-great-madras-famine-rayalaseema-rebellions-vijay-deverakonda-2992416-2026-09-12",
+      "headline": "Is Ranabaali set in real life? The story of the Great Madras Famine of 1876-78 What is Ranabaali all about? Is Vijay Deverakonda and Rashmika Mandanna's film based on a real story? The story places Deverakonda's warrior in famine-hit Rayalaseema under British rule. The film appears to fictionalise real famine-era suffering and local resistance into a period action drama."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/television/story/bigg-boss-20-episode-6-kanika-mann-yung-dsa-clash-washroom-row-ration-cut-2992813-2026-09-11",
@@ -186,43 +196,68 @@
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/movies/bollywood/story/haiwaan-review-akshay-kumar-saif-ali-khan-x-praises-old-school-thriller-2992220-2026-09-11",
       "headline": "Haiwaan X Review: Akshay-Saif hold up but the film is too stretched, say viewers Haiwaan has drawn mixed early reactions on X, with viewers focusing on its lead face-off. The Akshay Kumar-Saif Ali Khan reunion and their contrasting performances are driving the conversation."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/ghamasaan-review-tigmanshu-dhulia-brings-the-fire-and-then-gets-lost-in-its-smoke-2992157-2026-09-11",
-      "headline": "Ghamasaan review: Tigmanshu Dhulia brings the fire and then gets lost in its smokeRelease Date:Fri Sep 11, 2026 Ghamasaan review: Tigmanshu Dhulia returns to his familiar world of gangsters, guns, caste and political power with Ghamasaan, but an overstuffed narrative keeps the film from hitting as hard as it should. Arshad Warsi and Rajpal Yadav shine in a crime saga that has plenty of atmosphere, ambition and menace, but struggles to find its emotional and dramatic centre."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/reviews/story/last-man-in-tower-review-manoj-bajpayee-divya-dutta-mumbai-redevelopment-drama-2992139-2026-09-11",
-      "headline": "Last Man in Tower review: Manoj, Divya deliver a masterclass in human behaviourRelease Date:Fri Sep 11, 2026 Last Man in Tower movie review: The film, starring Manoj Bajpayee in the lead role, follows a Mumbai redevelopment battle as one holdout refuses to sell. The adaptation turns a property dispute into a study of pressure, loneliness and greed."
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/brics-summit-modi-putin-pezeshkian-photo-india-iran-russia-2992626-2026-09-11",
-      "headline": "PM Modi holds Pezeshkian's hand in striking moment at BRICS Business Forum summitThe photograph summed up New Delhi's diplomatic approach: India at the centre, engaging Iran and Russia while keeping space open for dialogue and cooperation in an increasingly fractured world."
+      "url": "https://www.indiatoday.in/india/story/brics-summit-delhi-india-pm-modi-balancing-act-putin-xi-jinping-iran-us-trump-factor-2992203-2026-09-12",
+      "headline": "Friends, foes, and Trump factor: India's big BRICS balancing actAs India chairs the BRICS Summit, it will have to walk a delicate tightrope. On one side is its strategic partnership with the US. On the other are Russia and China, which are seeking to reshape the global order. Then, there is Iran, whose conflict with the US has engulfed Saudi Arabia and UAE."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/how-vajpayee-era-law-lets-delhi-voter-raghav-chadha-represent-punjab-in-rajya-sabha-law-explained-2991022-2026-09-12",
+      "headline": "How a Vajpayee-era shift lets Delhi-voter Raghav Chadha represent Punjab in Rajya SabhaBJP Rajya Sabha MP Raghav Chadha's return to Delhi's voter rolls has raised questions over how he can continue representing Punjab in the Rajya Sabha. The answer lies in an Atal Bihari Vajpayee-era amendment that abolished the state-residency requirement for Upper House candidates. The change was later upheld by the Supreme Court despite concerns that it weakened the Rajya Sabha's federal character."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/houthi-attack-saudi-arabia-bab-el-mandeb-strait-ansar-allah-yemen-suez-canal-iran-war-news-2992674-2026-09-12",
+      "headline": "How Houthi capture of Bab el-Mandeb 3,000 km away could hit India hardThe Bab el-Mandeb is nearly 3,000 km from India, but the Houthi takeover could hit New Delhi where it hurts most, energy and trade. With the Strait of Hormuz already under strain, disruption at the Gate of Tears could raise oil prices and make Indian exports costlier."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/us-open-ben-shelton-beats-frances-tiafoe-reach-first-grand-slam-final-vs-zverev-2992877-2026-09-12",
+      "headline": "Ben Shelton roars past Tiafoe, sets up US Open final clash vs ZverevUS Open: Ben Shelton has reached his first Grand Slam final after beating Frances Tiafoe in four sets at the US Open. The American will now face Alexander Zverev in New York with his first major title within reach."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/karnataka/story/karnataka-government-dk-shivakumar-plan-bengaluru-alternative-cities-mysuru-mangaluru-northern-region-2992224-2026-09-12",
+      "headline": "DKS looks firm on building more cities as alternatives to BengaluruEvery state wants a Bengaluru of its own, but Karnataka now wants more than one. With over 100 days in office behind him, Chief Minister DK Shivakumar is pushing a 'Beyond Bengaluru' vision aimed at creating new economic engines that become alternative to Bengaluru."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/xi-jinping-narendra-modi-meeting-brics-summit-new-delhi-xu-feihong-india-china-2992846-2026-09-12",
+      "headline": "China's 'good-neighbourliness' message ahead of PM Modi-Xi talks at BRICS SummitChina's Ambassador to India, Xu Feihong, said that Beijing will work with New Delhi for the strategic guidance of the two leaders, handle ties from a long-term perspective, enhance cooperation and be friends helping each other succeed."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/houthis-ai-cloned-yemeni-general-voice-helped-rebels-capture-mocha-middle-east-war-2992703-2026-09-11",
-      "headline": "Houthis in slippers use AI to clone Yemeni Gen's voice, trick troops to withdrawThe Houthis captured Mocha, a key Yemeni port town on the Red Sea, after deceiving the UAE-backed National Resistance Forces of Yemen to withdraw. For that, the flip-flop-wearing Houthis used an AI-cloned voice message mimicking Yemeni military commander Lt General Tareq Mohammed Abdullah Saleh. This comes after reports of Houthis using Anthropic's Claude to build a ballistic missile."
+      "url": "https://www.indiatoday.in/world/indians-abroad/story/anila-baby-charged-san-jose-murder-ann-mary-mathew-milpitas-case-2992699-2026-09-11",
+      "headline": "Blood-stained Kerala woman ran over friend after stabbing another, US court toldAnila Baby, originally from Kottayam, is accused of killing Ann Mathew, 39, and Anjana Hari, 35, on August 28. The Santa Clara County District Attorney's Office filed murder charges against her on September 8."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/trump-links-9-11-anniversary-to-us-israel-iran-war-at-pentagon-hegseth-2992826-2026-09-12",
-      "headline": "We fight hard, we fight to win: Trump defends Iran war on 9/11 anniversaryUS Presidemt Trump and Defence Secretary Pete Hegseth invoked the legacy of 9/11 to defend the ongoing US-Israel war on Iran, with Trump saying, \"That's why we fight today.\" Hegseth called for continued vigilance against terrorism and vowed Iran would never obtain nuclear weapons."
+      "url": "https://www.indiatoday.in/india/story/harish-rawat-resignation-ex-uttarakhand-cm-quits-congress-posts-over-aide-seizure-row-2992870-2026-09-12",
+      "headline": "Don't want to weaken party: Harish Rawat quits Congress posts amid cash rowHarish Rawat resigned from his Congress posts after reports linked his former aide to a cash and recruitment controversy. He said he did not want any action associated with him to weaken the party's anti-corruption fight before the Uttarakhand polls."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/freedom-of-navigation-and-seafarers-safety-critical-to-global-economy-pm-tells-brics-business-forum-2992601-2026-09-11",
-      "headline": "Freedom of navigation, seafarers' safety key to global economy: PM at BRICS forumAt the BRICS Business Forum, PM Modi highlighted the bloc's growing economic strength, calling for stronger partnerships, greater investment and talent exchange while stressing the importance of resilient supply chains, freedom of navigation and seafarer safety."
+      "url": "https://www.indiatoday.in/movies/bollywood/story/chhathi-maiya-song-tamannaah-bhatia-the-vvaan-chhath-puja-accuracy-check-2992441-2026-09-12",
+      "headline": "Does Tamannaah Bhatia's Chhathi Maiya song get Chhath right, or is it too Bollywood?People from Bihar and Jharkhand compared The Vvaan's Chhathi Maiya with Chhath Puja traditions. They said the song captures the festival's devotional spirit but takes cinematic liberties with key details."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/reviews/story/last-man-in-tower-review-manoj-bajpayee-divya-dutta-mumbai-redevelopment-drama-2992139-2026-09-11",
-      "headline": "Last Man in Tower review: Manoj, Divya deliver a masterclass in human behaviourRelease Date:Fri Sep 11, 2026Last Man in Tower movie review: The film, starring Manoj Bajpayee in the lead role, follows a Mumbai redevelopment battle as one holdout refuses to sell. The adaptation turns a property dispute into a study of pressure, loneliness and greed."
+      "url": "https://www.indiatoday.in/world/story/9-11-declassified-briefs-show-us-warnings-on-bin-laden-before-attacks-ptag-2992840-2026-09-12",
+      "headline": "Al-Qaida may fly explosive-packed plane into US: CIA's many warnings before 9/11The US has released 71 declassified presidential briefs, showing repeated warnings about Osama bin Laden and al-Qaida before September 11. The files are from the time of Bill Clinton and George W Bush's administrations."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/houthis-seize-perim-island-saudi-pipeline-hit-bab-el-mandeb-tensions-rise-2992843-2026-09-12",
+      "headline": "Saudi's woes deepen as East-West pipeline hit, Houthis seize key Red Sea islandHouthi rebels seized Perim island and other Red Sea positions as Saudi Arabia reported a drone strike on its East-West oil pipeline. The twin developments have increased pressure on key shipping and energy routes while Riyadh seeks US support against the Houthis."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/afg-vs-ind-t20is-jasprit-bumrah-vs-vaibhav-sooryavanshi-training-session-delhi-2992792-2026-09-12",
+      "headline": "Back on duty, Bumrah gives Sooryavanshi a stern examination in DelhiAfghanistan vs India, T20Is: Fresh from a long injury layoff, Jasprit Bumrah looked anything but rusty at the Kotla, relishing every over as he tested Vaibhav Sooryavanshi in the nets ahead of India's T20I series against Afghanistan."
     },
     {
       "sentiment": "positive",
@@ -231,33 +266,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/other-cities/story/gujarat-hostel-food-poisoning-scare-200-students-fall-ill-at-ranak-girls-hostel-anand-2992837-2026-09-12",
-      "headline": "Food poisoning hits Gujarat girls' hostel, around 200 students fall illAround 200 students fell ill after eating at a girls' hostel mess in Gujarat's Anand district. Thirteen were hospitalised with vomiting, diarrhoea and stomach pain. Their condition is stable. Paneer and milk samples have been sent for FSL testing."
+      "url": "https://www.indiatoday.in/india/story/brics-summit-2026-live-updates-delhi-bharat-mandapam-modi-xi-jinping-putin-russia-pezeshkian-trade-bilateral-talks-2992849-2026-09-12",
+      "headline": "Live: Xi Jinping heads to Delhi for BRICS Summit, 1st India visit since GalwanBRICS Summit 2026 Live Updates: BRICS leaders will begin arriving at Bharat Mandapam in New Delhi from 2 pm on Saturday, September 12, for the second day of the summit. The day's agenda includes a closed-door session on inclusive global governance and strengthening multilateralism, a visit to the Bharat Innovates Exhibition, the leaders' family photo and joint tree plantation, followed by a gala dinner hosted by Prime Minister Narendra Modi at 7:30 pm. The schedule comes a day after PM Modi and Russian President Vladimir Putin agreed to deepen bilateral ties, while BRICS finance chiefs pushed for reforms to global development financial institutions."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/houthis-ai-cloned-yemeni-general-voice-helped-rebels-capture-mocha-middle-east-war-2992703-2026-09-11",
+      "headline": "Houthis in slippers use AI to clone Yemeni Gen's voice, trick troops to withdrawThe Houthis captured Mocha, a key Yemeni port town on the Red Sea, after deceiving the UAE-backed National Resistance Forces of Yemen to withdraw. For that, the flip-flop-wearing Houthis used an AI-cloned voice message mimicking Yemeni military commander Lt General Tareq Mohammed Abdullah Saleh. This comes after reports of Houthis using Anthropic's Claude to build a ballistic missile."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/modi-putin-thirukkural-russian-translation-gift-new-delhi-brics-summit-2992427-2026-09-11",
-      "headline": "PM Modi gifts Thirukkural to Putin. There's a fascinating Russian connectionPM Modi gifted Vladimir Putin a Russian edition of the Thirukkural, featuring the Tamil original, transliteration and Naira Mkrtchyan's translation. Presenting the book, PM Modi highlighted its timeless wisdom and expressed hope that it would inspire readers across Russia."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/narendra-modi-brics-business-forum-delegates-photo-new-delhi-2992784-2026-09-11",
-      "headline": "Can we have a picture? BRICS delegates gather around PM Modi for candid photo opRussian President Vladimir Putin and Iranian President Masoud Pezeshkian were seen making way as the delegates assembled around Prime Minister Modi."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/devasish-sharma-bjp-ticket-nagaon-lok-sabha-bypoll-ex-dc-pradyut-bordoloi-2992641-2026-09-11",
-      "headline": "Who is Devasish Sharma, who quit IAS and got BJP ticket in days for Nagaon LS bypoll?Former Nagaon District Commissioner Devasish Sharma has been named the BJP candidate for the Lok Sabha bypoll days after taking voluntary retirement and joining the party. His shift from administration to electoral politics has drawn questions from the Congress over neutrality and timing."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/62-magnitude-earthquake-strikes-java-indonesia-at-a-depth-of-376-km-2992842-2026-09-12",
-      "headline": "6.2-magnitude earthquake strikes Java, Indonesia, at a depth of 376 kmA magnitude 6.2 earthquake struck Java, Indonesia, on Saturday at a depth of 376 km, GFZ said. No immediate reports of damage or casualties were reported."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/us-open-mens-singles-semifinals-zverev-vs-khachanov-tiafoe-vs-shelton-2992811-2026-09-11",
-      "headline": "US Open semifinals LIVE: Alexander Zverev storms into final, Shelton vs Tiafoe up nextUS Open semifinals Live Updates: Alexander Zverev beat Karen Khachanov 6-3, 7-6 (7), 7-6 (6) and advanced to the final. Next up in the all-American clash between Frances Tiafoe and Ben Shelton, which starts at 4:30 AM IST."
+      "url": "https://www.indiatoday.in/trending-news/story/woman-alleges-scam-over-passport-scans-at-duty-free-shop-delhi-airport-reacts-2992131-2026-09-11",
+      "headline": "Woman alleges scam over passport scans at duty-free shop, Delhi Airport reactsA US-returned woman alleged a \"scam\" at Delhi airport after duty-free staff scanned passports of her family members while purchasing liquor."
     },
     {
       "sentiment": "positive",
@@ -266,53 +286,33 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/houthis-seize-perim-island-saudi-pipeline-hit-bab-el-mandeb-tensions-rise-2992843-2026-09-12",
-      "headline": "Houthis seize Perim island, tighten grip on key Red Sea shipping routeHouthi rebels seized Perim island and other Red Sea positions as Saudi Arabia reported a drone strike on its East-West oil pipeline. The twin developments have increased pressure on key shipping and energy routes while Riyadh seeks US support against the Houthis."
+      "url": "https://www.indiatoday.in/interactive/quiz/news/weekly-quiz-637-11-09-2026",
+      "headline": "Question Time: Weekly News QuizThink you read the headlines this week? Let's test that!"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/andhra-pradesh/story/chandrababu-naidu-says-he-could-arrest-jagan-but-chose-restraint-2992836-2026-09-12",
-      "headline": "Patience, not revenge: Chandrababu Naidu takes aim at YS Jagan Mohan ReddyAt a public meeting in Konaseema, Andhra Pradesh's CM N Chandrababu Naidu said he could have arrested YS Jagan Mohan Reddy but chose restraint. He used the speech to accuse the previous YSRCP government of vendetta, stalled development and disruptive politics."
+      "url": "https://www.indiatoday.in/world/story/china-southern-airlines-resumes-guangzhou-new-delhi-flights-after-six-years-brics-xi-jinping-2992874-2026-09-12",
+      "headline": "China Southern Airlines to resume Delhi-Guangzhou flights after 6-year hiatusChina Southern Airlines will resume Guangzhou\u2013New Delhi flights from September 21 after a six-year suspension, expanding India-China air connectivity."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/indians-abroad/story/anila-baby-charged-san-jose-murder-ann-mary-mathew-milpitas-case-2992699-2026-09-11",
-      "headline": "Kerala woman charged with two murders after friend stabbed, another run over in USAnila Baby, originally from Kottayam, is accused of killing Ann Mathew, 39, and Anjana Hari, 35, on August 28. The Santa Clara County District Attorney's Office filed murder charges against her on September 8."
+      "url": "https://www.indiatoday.in/business/story/sunday-special-story-weekend-economy-india-saturday-sunday-spending-consumer-habits-2026-2992839-2026-09-12",
+      "headline": "What happens to your money between Saturday and Sunday? Weekend economy has answerA new report on India's urban economy finds that 61.5% of weekly spending is concentrated in just two days, Saturday and Sunday. The average urban consumer spends Rs 6,724 on weekdays, compared with Rs 10,732 over the weekend."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/toxic-box-office-failure-yash-game-changer-adipurush-losses-2992206-2026-09-11",
-      "headline": "Yash's Toxic is Rs 300-crore flop: How film's entire box-office math went wrongYash's Toxic has slumped after a huge opening, with worldwide gross hovering around Rs 340 crore. The collapse has placed its reported losses in the same range as Game Changer and Adipurush while also hurting its OTT prospects."
+      "url": "https://www.indiatoday.in/science/story/delhi-bhalswa-ghazipur-landfill-cleaning-biowaste-rekha-gupta-mcd-2991373-2026-09-11",
+      "headline": "Delhi is breaking a mountain of garbage: How Bhalswa's waste is disappearingFor decades, Bhalswa landfill grew into a mountain of waste. Now Delhi is taking it apart piece by piece in a race against time. Here's how it's going."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/hanuman-ansh-movie-neem-karoli-baba-kainchi-dham-uttarakhand-us-hippie-movement-steve-jobs-2992377-2026-09-11",
-      "headline": "How Neem Karoli Baba became a hit among Hippies and tech titansHindu spiritual leader and protagonist of Hanuman Ansh, Neem Karoli Baba, never travelled outside India. Yet he developed a significant following in the US, with everyone from hippies to Silicon Valley giants making pilgrimages to his ashram, Kainchi Dham, in Uttarakhand."
+      "url": "https://www.indiatoday.in/movies/reviews/story/last-man-in-tower-review-manoj-bajpayee-divya-dutta-mumbai-redevelopment-drama-2992139-2026-09-11",
+      "headline": "Last Man in Tower review: Manoj, Divya deliver a masterclass in human behaviourRelease Date:Fri Sep 11, 2026Last Man in Tower movie review: The film, starring Manoj Bajpayee in the lead role, follows a Mumbai redevelopment battle as one holdout refuses to sell. The adaptation turns a property dispute into a study of pressure, loneliness and greed."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/brics-summit-india-shashi-tharoor-says-grouping-should-be-non-west-not-anti-west-ptag-2992533-2026-09-11",
-      "headline": "BRICS should be non-West forum, but not anti-West: Shashi TharoorTharoor described India's hosting of the BRICS Summit as a matter of \"great prestige\", with around a dozen heads of state and government, including leaders from member and observer countries, expected to attend at the presidential and prime ministerial level."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/sabse-zabardast-community-russian-diplomats-hindi-steals-spotlight-at-brics-2992665-2026-09-11",
-      "headline": "Sabse zabardast community: Russian diplomat's Hindi steals spotlight at BRICSRussian Embassy Press Secretary Petr Sizov spoke in Hindi while sharing his hopes for BRICS in a now-viral clip. The remarks come as India prepares to host the expanded group's 2026 summit in New Delhi."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/food/story/from-galouti-kebabs-to-edible-lotuses-millet-cookies-how-delhi-hotels-are-welcoming-brics-delegates-2992130-2026-09-11",
-      "headline": "BRICS delegates are getting more than a hotel buffet in Delhi. Here's what's in storeDelhi hotels are pairing high-security summit hosting with tailored food experiences for BRICS delegations. Regional menus, edible gifts and personalised touches are becoming part of the capital's diplomatic welcome."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/pakistan-mecca-pact-saudi-arabia-houthis-war-donald-trump-snub-2992314-2026-09-11",
-      "headline": "As Pak walks back over help against Houthis, Saudi turns to Trump, gets snubbedWith Pakistan appearing to step back despite the Mecca pact, and the US staying out, Saudi Arabia is now left to face the Houthis with fewer friends willing to fight the Iran-backed militants."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/21-rescued-as-two-merchant-vessels-collide-off-gujarat-coast-coast-guard-launches-rescue-op-2992743-2026-09-11",
-      "headline": "21 rescued as 2 merchant vessels collide off Gujarat coast, rescue op launchedTwenty-one crew members were rescued after two merchant vessels collided off Gujarat's Kandla coast, while three remained aboard as the Coast Guard activated pollution response measures."
+      "url": "https://www.indiatoday.in/india/story/bjp-fields-former-ias-officer-debashish-sharma-for-assam-nagaon-bypoll-ptag-2992264-2026-09-11",
+      "headline": "Days after quitting IAS, Debashish Sharma gets BJP ticket for Assam Lok Sabha bypollDebashish Sharma, who joined the BJP days after taking voluntary retirement as Nagaon District Commissioner, will contest the October 6 Lok Sabha bypoll."
     },
     {
       "sentiment": "positive",
@@ -321,6 +321,31 @@
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/us-open-ben-shelton-dedicates-grandmother-9-11-tribute-tiafoe-final-vs-zverev-2992883-2026-09-12",
+      "headline": "Ben Shelton dedicates US Open run to late grandmother, honours 9/11 victims Ben Shelton's historic run to the US Open final has taken on a deeply personal meaning, with the American dedicating his breakthrough to his late grandmother. He also paid tribute to families affected by the 9/11 attacks."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/us-open-ben-shelton-beats-frances-tiafoe-reach-first-grand-slam-final-vs-zverev-2992877-2026-09-12",
+      "headline": "Ben Shelton roars past Tiafoe, sets up US Open final clash vs Zverev US Open: Ben Shelton has reached his first Grand Slam final after beating Frances Tiafoe in four sets at the US Open. The American will now face Alexander Zverev in New York with his first major title within reach."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/kylian-mbappe-dictator-memes-real-madrid-star-some-are-politically-unaware-2992861-2026-09-12",
+      "headline": "Kylian Mbappe opens up on viral dictator memes, calls them 'politically unaware' Kylian Mbappe has finally addressed the viral AI memes portraying him as a dictator, admitting some are harmless jokes. However, the Real Madrid star questioned comparisons with historical figures responsible for violence, repression and mass suffering."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/afg-vs-ind-t20is-jasprit-bumrah-vs-vaibhav-sooryavanshi-training-session-delhi-2992792-2026-09-12",
+      "headline": "Back on duty, Bumrah gives Sooryavanshi a stern examination in Delhi Afghanistan vs India, T20Is: Fresh from a long injury layoff, Jasprit Bumrah looked anything but rusty at the Kotla, relishing every over as he tested Vaibhav Sooryavanshi in the nets ahead of India's T20I series against Afghanistan."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/alexander-zverev-beat-karen-khachanov-us-open-semi-final-win-2992844-2026-09-12",
+      "headline": "Alexander Zverev returns to US Open final after 6 years, completes rare hat-trick Alexander Zverev defeated Karen Khachanov in straight sets to return to the US Open final for the first time since 2020. The German has now reached three successive Grand Slam finals in 2026, taking his career tally to six and earning his 52nd win of the season."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/pakistan-vs-england-3rd-test-razaullah-babar-azam-shan-masood-edgbaston-2992822-2026-09-12",
@@ -334,7 +359,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/us-open-mens-singles-semifinals-zverev-vs-khachanov-tiafoe-vs-shelton-2992811-2026-09-11",
-      "headline": "US Open semifinals LIVE: Alexander Zverev storms into final, Shelton vs Tiafoe up next US Open semifinals Live Updates: Alexander Zverev beat Karen Khachanov 6-3, 7-6 (7), 7-6 (6) and advanced to the final. Next up in the all-American clash between Frances Tiafoe and Ben Shelton, which starts at 4:30 AM IST."
+      "headline": "US Open semifinals Highlights: Shelton beats Tiafoe, sets up final vs Zverev US Open semifinals Highlights: Ben Shelton has powered past Frances Tiafoe in a thrilling four-set battle to reach his first Grand Slam final. The 23-year-old now faces Alexander Zverev for the US Open crown after completing a memorable night in New York."
     },
     {
       "sentiment": "positive",
@@ -354,27 +379,27 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ishan-kishan-injury-scare-afghanistan-vs-india-1st-t20i-delhi-2992714-2026-09-11",
-      "headline": "Ishan Kishan suffers injury scare in Delhi before Afghanistan T20Is Ishan Kishan suffered a minor injury scare in Delhi during a practice session on Friday, September 11 ahead of the start of the T20I series against Afghanistan."
+      "headline": "Ishan Kishan suffers injury scare in Delhi before Afghanistan T20IsIshan Kishan suffered a minor injury scare in Delhi during a practice session on Friday, September 11 ahead of the start of the T20I series against Afghanistan."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-afghanistan-t20is-rahane-backs-sanju-samson-vaibhav-sooryavanshi-wait-2992678-2026-09-11",
-      "headline": "Rahane's verdict on Samson vs Vaibhav opening conundrum ahead of IND vs AFG Ajinkya Rahane has urged India to retain Sanju Samson in the top three for the Afghanistan T20Is. He said Vaibhav Sooryavanshi should be given time to grow without being rushed."
+      "headline": "Rahane's verdict on Samson vs Vaibhav opening conundrum ahead of IND vs AFGAjinkya Rahane has urged India to retain Sanju Samson in the top three for the Afghanistan T20Is. He said Vaibhav Sooryavanshi should be given time to grow without being rushed."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/womens-asia-cup-semi-final-live-score-sri-lanka-vs-pakistan-dubai-chamari-athapaththu-fatima-sana-2992648-2026-09-11",
-      "headline": "SL vs PAK highlights: Fatima's lone heroics in vain, Sri Lanka go to final Sri Lanka vs Pakistan, Women's Asia Cup 2026 semifinal highlights: Fatima Sana did everything she could but it was not meant to be as Sri Lanka ended up winning the match by four wickets to set up a rematch from the previous edition's final against India."
+      "headline": "SL vs PAK highlights: Fatima's lone heroics in vain, Sri Lanka go to finalSri Lanka vs Pakistan, Women's Asia Cup 2026 semifinal highlights: Fatima Sana did everything she could but it was not meant to be as Sri Lanka ended up winning the match by four wickets to set up a rematch from the previous edition's final against India."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/yuki-bhambri-injury-india-davis-cup-tie-korea-asian-games-2992640-2026-09-11",
-      "headline": "Big blow for India as Yuki Bhambri doubtful for Davis Cup tie against Korea Yuki Bhambri is in doubt for India's Davis Cup tie in Seoul after suffering a right-leg strain. The injury has forced India to revisit its doubles plans against hosts Korea while hoping Bhambri is fit for the Asian Games."
+      "headline": "Big blow for India as Yuki Bhambri doubtful for Davis Cup tie against KoreaYuki Bhambri is in doubt for India's Davis Cup tie in Seoul after suffering a right-leg strain. The injury has forced India to revisit its doubles plans against hosts Korea while hoping Bhambri is fit for the Asian Games."
     },
     {
-      "sentiment": "negative",
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/eng-vs-pak-lords-test-rizwan-imam-ul-haq-pakistan-cybecrimes-interrogation-2992520-2026-09-11",
-      "headline": "Rizwan, Imam-ul-Haq grilled for 4 hours in probe by Pakistan's cybercrime unit ENG vs PAK: Mohammad Rizwan and Imam-ul-Haq were grilled for nearly four hours by Pakistan's National Cyber Crime Investigation Agency over alleged dressing-room leaks, adding another layer to the team's ongoing disciplinary crisis."
+      "headline": "Rizwan, Imam-ul-Haq grilled for 4 hours in probe by Pakistan's cybercrime unitENG vs PAK: Mohammad Rizwan and Imam-ul-Haq were grilled for nearly four hours by Pakistan's National Cyber Crime Investigation Agency over alleged dressing-room leaks, adding another layer to the team's ongoing disciplinary crisis."
     },
     {
       "sentiment": "positive",
@@ -445,31 +470,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/england-vs-pakistan-third-test-ollie-robinson-whitewash-edgbaston-2992043-2026-09-11",
       "headline": "Pakistan stare at embarrassing whitewash as England tighten grip on Edgbaston TestPakistan are staring at a 3-0 series whitewash after England extended their first-innings lead to 320 runs in the third Test at Edgbaston. The tourists slipped to 52 for 2 in their second innings and still need 268 runs to make England bat again, with rain cutting short play."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/kuldeep-yadav-10-wicket-haul-yorkshire-india-test-selection-case-2992037-2026-09-11",
-      "headline": "Kuldeep Yadav takes 10-wicket haul in County, sends strong reminder to GambhirKuldeep Yadav's sensational 10-wicket haul for Yorkshire against Essex has sent a strong reminder to Gautam Gambhir. The performance strengthens his case for a regular Test role amid competition from Washington Sundar and Manav Suthar."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/vinesh-phogat-wrestling-delhi-high-court-wfi-world-championships-trials-denied-2992021-2026-09-11",
-      "headline": "Vinesh Phogat barred from 2026 World Championships trials after Delhi High Court orderVinesh Phogat has been barred from the 2026 Senior World Championships selection trials after the Delhi High Court refused to grant her an interim exemption from the WFI's eligibility rules."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/us-open-2026-womens-semi-finals-preview-head-to-head-schedule-livestreaming-details-2991761-2026-09-11",
-      "headline": "How the women brought the fire that was missing from a tired men's sideThe women's singles draw has carried the US Open 2026 this year with their improved performances, as compared to a tired men's side. Now, the top four stars will compete in the semi-finals and push for the crown."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/le-mans-cup-silverstone-tamil-nadu-cm-vijay-wave-green-flag-2992006-2026-09-10",
-      "headline": "Tamil Nadu CM Vijay set to wave green flag at Le Mans Cup Silverstone roundVijay will wave the green flag for the Michelin Le Mans Cup round at Silverstone on Saturday. Vijay will be present to show support to the Indian contingent, with Ajith Kumar, Narain Karthikeyan and Aditya Patel competing over the weekend."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-beat-bangladesh-womens-asia-cup-semi-final-shafali-verma-shree-charani-2991992-2026-09-10",
-      "headline": "Dominant India crush Bangladesh to storm into Women's Asia Cup final with easeIndia stormed into the Women's Asia Cup final after a dominant 40-run win over Bangladesh in Dubai. Shafali Verma's 64 and a disciplined spin attack helped India maintain their unbeaten run and reach a 10th final."
     }
   ],
   "education": [
