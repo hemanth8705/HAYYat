@@ -2,6 +2,21 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/indias-growth-story-is-intact-but-ai-and-oil-are-the-big-risks-jefferies-christopher-wood-2997814-2026-09-18",
+      "headline": "India's growth story is intact, but AI and oil are the big risks: Christopher WoodWood said that India's economic data has been encouraging, with credit growth strengthening and private companies beginning to show signs of higher capital spending."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/commodities/story/saudi-aramco-india-crude-supply-halted-east-west-pipeline-attack-2997742-2026-09-18",
+      "headline": "Saudi Aramco stops crude supplies to India. Here's why oil could get costlierSaudi Aramco has stopped crude supplies to Indian refiners after the East-West pipeline attack. The disruption may raise replacement costs as oil prices and freight rates remain elevated."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/warren-buffett-is-now-chairman-emeritus-son-howard-takes-over-berkshire-chair-2997694-2026-09-18",
+      "headline": "Warren Buffett is now chairman emeritus. Son Howard takes over Berkshire chairWarren Buffett may have stepped down as Berkshire Hathaway's CEO, but his association with the company continues. He has now been named chairman emeritus, with his son Howard Buffett taking over as chairman."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/market/story/sensex-today-flat-nifty-today-up-76-tata-stocks-tumble-crude-oil-eases-2997674-2026-09-18",
       "headline": "Sensex, Nifty end flat as Tata stocks tumble, crude oil eases marginallyIndian equities ended mixed on Friday as easing crude and bargain buying lifted the Nifty while Tata and IT stocks dragged the Sensex. The session kept focus on Tata Sons uncertainty, IPO-driven liquidity shifts and whether lower oil and yields can sustain the recovery."
     },
@@ -84,24 +99,64 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/market/story/market-closing-sensex-flat-nifty-gains-53-tata-stocks-rally-nse-ipo-focus-2996862-2026-09-17",
       "headline": "Sensex, Nifty end flat as Tata stocks rallyThe BSE Sensex opened at 74,182.62 and closed at 74,314.59, down 21.86 points or 0.03%. The Nifty 50 opened at 23,195.25 and ended at 23,270.60, gaining 53 points or 0.23%."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/noel-tata-opposes-n-chandrasekarans-reappointment-calls-vote-illegal-2996837-2026-09-17",
-      "headline": "Noel Tata opposes N Chandrasekaran's reappointment, calls vote illegalThe Tata Sons board has approved N Chandrasekaran's continuation as chairman, but Noel Tata has opposed the move and termed the vote \"illegal.\""
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/tata-sons-board-approves-reappointment-of-n-chandrasekaran-for-5-years-as-chairman-2996764-2026-09-17",
-      "headline": "Tata Sons board approves reappointment of N Chandrasekaran for 5 years as chairmanAll board members voted in favour of N Chandrasekaran's reappointment except Noel Tata, chairman of Tata Trusts, who voted against the resolution. The resolution was passed by a majority."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/iran-fed-rate-hike-hormuz-ghalibaf-you-cant-25bp-a-chokepoint-mocks-2996690-2026-09-17",
-      "headline": "You can't 25bp a chokepoint: Iran mocks US Fed rate hike with equation linked to HormuzIranian Parliament Speaker Mohammad Bagher Ghalibaf mocked the Federal Reserve's 25-basis-point rate hike with a satirical Hormuz-linked equation on X. His post argued that monetary tightening cannot resolve an oil and shipping shock centred on key maritime chokepoints."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/hrithik-roshan-likes-post-backing-katrina-kaif-as-she-faces-postpartum-body-shaming-2997824-2026-09-18",
+      "headline": "Hrithik Roshan likes post backing Katrina Kaif as she faces postpartum body-shaming Actor Hrithik Roshan liked a social media post defending actor Katrina Kaif after her Mumbai appearance triggered body-shaming comments. The reaction added to support from fans as the episode renewed attention on scrutiny of women after pregnancy."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/tigmanshu-dhulia-shelved-films-irrfan-khan-sunny-deol-ghulami-2997882-2026-09-18",
+      "headline": "I wasted many years: Tigmanshu Dhulia recalls shelved films with Irrfan, Sunny Deol Filmmaker Tigmanshu Dhulia recalled how his films Killing of a Porn Filmmaker and Ghulami were halted after shooting began. He said funding troubles, typecasting and the lack of visionary producers continue to limit such ambitions."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/rajinikanths-jailer-2-unveils-suraj-venjaramoodu-in-first-character-glimpse-2997848-2026-09-18",
+      "headline": "Rajinikanth's Jailer 2 unveils Suraj Venjaramoodu in first character glimpse Superstar Rajinikanth's upcoming action sequel Jailer 2 has kicked off its character introduction rollout by unveiling Suraj Venjaramoodu in a sleek new look."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/gondhal-oscars-india-entry-santosh-davakar-marathi-film-academy-awards-bid-2997855-2026-09-18",
+      "headline": "We should represent India through good cinema: Gondhal director on Oscar selection In an exclusive interview, Gondhal director Santosh Davakar said the Marathi film's selection as India's official Oscar entry was a proud moment for the team. He said the film's campaign aims to take Marathi cinema and India's cultural heritage to a global audience."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/gondhal-india-oscar-entry-maharashtra-ritual-marathi-film-2027-academy-awards-2997810-2026-09-18",
+      "headline": "What is Gondhal ritual? Inside colourful Marathi film that is India's Oscars entry Marathi film Gondhal has been chosen as India's official entry for the 99th Academy Awards in 2027. The selection brings a centuries-old Maharashtrian ritual performance to a global cinematic audience."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/reviews/story/resident-evil-review-zach-creggers-pulp-horror-delivers-spectacle-over-substance-2997519-2026-09-18",
+      "headline": "Resident Evil review: Zach Cregger's pulp horror delivers spectacle over substanceRelease Date:Sat Jul 18, 2026 Zach Cregger's Resident Evil reboot plunges Austin Abrams into a pulse-pounding, gore-soaked survival nightmare. But does this hyperkinetic pulp horror deliver genuine cinematic dread or simply ride on high-caliber technical chaos and predictable tropes?"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/neem-karoli-baba-prayagraj-house-draws-devotees-after-hanuman-ansh-2997577-2026-09-18",
+      "headline": "Why Neem Karoli Baba devotees are flocking to this Prayagraj home after Hanuman Ansh A house in Prayagraj linked by family accounts to Neem Karoli Baba is drawing visitors for darshan. Interest has grown after Hanuman Ansh renewed attention on places associated with the spiritual teacher."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/ott-releases-this-week-family-drama-survival-action-seduction-thrillers-stand-up-2997713-2026-09-18",
+      "headline": "What's new on OTT this week? 8 releases to spice up your watchlist This week's OTT line-up brings together romance, seduction, family conflict, survival action and stand-up comedy. The mix offers viewers a broad range of moods and genres across streaming platforms."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/reviews/story/city-lights-review-duniya-vijay-bengaluru-crime-drama-formulaic-2997705-2026-09-18",
+      "headline": "City Lights review: Duniya Vijay's raw thriller let down by formulaic writingRelease Date:Fri Sep 18, 2026 City Lights movie review: Directed by Duniya Vijay, the action thriller stars Vinay Rajkumar and Monisha Vijayakumar in the lead. The shallow story and formulaic execution renders an underwhelming experience."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/raaka-allu-arjun-atlees-sci-fi-epic-unveils-cryptic-global-triumph-teaser-2997645-2026-09-18",
+      "headline": "Raaka: Allu Arjun, Atlee's sci-fi epic unveils cryptic 'global triumph' teaser The latest teaser for Allu Arjun and director Atlee's sci-fi epic Raaka introduces a cryptic 'global triumph' slogan alongside a '37' hint, offering another glimpse into the scale of the upcoming film."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/vettuvam-teaser-pa-ranjith-arya-sobhita-dhulipala-mallakhamba-sci-fi-drama-2997680-2026-09-18",
+      "headline": "Vettuvam glimpse: Pa Ranjith teases a dystopian world of sport, power and survival Pa Ranjith has unveiled the first teaser of Vettuvam, outlining a world shaped by sport, land and destruction. The glimpse points to a struggle for power and survival across timelines, with Mallakhamba at its centre."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/deepika-padukone-ranveer-singh-visit-siddhivinayak-pregnant-2997678-2026-09-18",
@@ -141,83 +196,23 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/daayra-x-review-kareena-kapoor-khan-prithviraj-sukumaran-mixed-reactions-meghna-gulzar-2997516-2026-09-18",
       "headline": "Daayra X review: Meghna Gulzar finds a gripping story, but loses pace along the way Meghna Gulzar's Daayra has opened in cinemas with Kareena Kapoor Khan and Prithviraj Sukumaran playing police officers at odds over a controversial case. Early viewers are divided over its execution while noting its questions on justice, procedure and accountability."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/vibe-x-review-kunal-kemmu-preity-zinta-sparsh-srivastava-organic-comedy-wins-viewers-praise-film-2997499-2026-09-18",
-      "headline": "Vibe X review: 'Organic comedy' wins viewers, Kunal Kemmu gets praise Vibe has opened to largely positive reactions on X, with viewers praising its humour and cast. The first wave of posts has also split over whether Kunal Kemmu's directorial is best watched in theatres or on OTT."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/lust-stories-3-review-four-bedrooms-four-desires-but-only-one-story-really-seduces-2997509-2026-09-18",
-      "headline": "Lust Stories 3 review: Four bedrooms, four desires but only one story really seducesRelease Date:Fri Sep 18, 2026 Lust Stories 3 review: The anthology brings together four filmmakers to examine desire, intimacy and marriage. The stories find moments of insight, but Vishal Bhardwaj's segment gives it its fullest emotional complexity."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/ranveer-singh-pledges-education-support-for-1000-girls-on-pm-modis-birthday-ganesh-chaturthi-2997436-2026-09-18",
-      "headline": "Ranveer Singh pledges education support for 1,000 girls on PM Modi's birthday Actor Ranveer Singh visited Mumbai's iconic Lalbaugcha Raja pandal and pledged to support the education of 1,000 girls. He made the commitment on Prime Minister Narendra Modi's birthday, September 17."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/salman-khan-scolds-driver-after-fan-foot-comes-under-car-ganpati-celebration-mumbai-2997429-2026-09-18",
-      "headline": "Salman scolds driver after car accidentally runs over fan's foot amid chaos. Watch Actor Salman Khan pulled up his driver after a fan's foot came under his car outside a Ganpati celebration in Mumbai. The video quickly drew attention, alongside his visible concern for fans amid the crowd."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/cm-vijay-assembly-performance-nani-says-hes-rocking-the-show-2997402-2026-09-18",
-      "headline": "CM Vijay is rocking in the Assembly: Actor Nani praises actor's political journey At a Chennai press meet for The Paradise, Actor Nani praised Chief Minister Vijay's political rise and Assembly presence. He said Vijay's bond with Tamil Nadu voters rests on trust built over the years."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/reviews/story/vibe-review-kunal-kemmu-sparsh-shrivastava-preity-zinta-spy-comedy-2997399-2026-09-18",
-      "headline": "Vibe review: Kunal Kemmu's spy comedy is chaotic, charming and occasionally too muchRelease Date:Fri Sep 18, 2026 Vibe movie review: Kunal Kemmu's Vibe follows Hardik and Bugs as they blunder into a spy mission led by Madam H. The film draws its appeal from their chaotic friendship even as an overloaded screenplay blunts the stakes."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/unaccustomed-earth-netflix-series-first-look-freida-pinto-siddharth-december-17-2026-2997393-2026-09-18",
-      "headline": "Unaccustomed Earth first look: Freida Pinto, Siddharth lead Netflix family drama Netflix has unveiled the first look of Unaccustomed Earth, led by Freida Pinto and Siddharth. The family drama traces love, loss and belonging in an Indian American community across generations."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/prithviraj-sukumaran-says-writers-hold-power-in-malayalam-cinema-2997366-2026-09-18",
-      "headline": "Prithviraj's crash-course on why writers hold the power in Malayalam cinema Actor-producer Prithviraj Sukumaran explained how Malayalam films often begin with a writer approaching an actor. He said the writer-led process defines the industry and warned that it is showing signs of strain."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/salman-khan-young-fan-video-child-pushed-mumbai-ganpati-event-2997374-2026-09-18",
-      "headline": "Salman Khan stops to comfort young fan after push at Ganpati event. Watch Salman Khan objected when a young fan was pushed at a Ganpati celebration. The Bollywood superstar then stopped to speak to him before leaving the gathering."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/haiwaan-box-office-mohit-raj-friends-did-not-watch-akshay-kumar-saif-ali-khan-film-2997344-2026-09-18",
-      "headline": "Haiwaan actor says friends skipped film, Hanuman Ansh director offers support Actor Mohit Raj posted an emotional video saying none of his friends had watched Haiwaan even four days after release. His remarks highlighted how deeply the film matters to him after a decade-long struggle in the industry."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/story/dominic-sangma-attacked-in-itanagar-after-intervening-in-student-harassment-2997370-2026-09-18",
-      "headline": "National Award-winning filmmaker Dominic Sangma attacked in Itanagar Filmmaker and FTII faculty member Dominic Sangma was assaulted in Itanagar after intervening when two men allegedly harassed students. The incident has prompted a police investigation and drawn attention from the film and academic community."
     }
   ],
   "general news": [
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/well-back-congress-candidate-in-nandigram-says-mamata-banerjee-after-her-candidate-withdraws-from-bypoll-2997702-2026-09-18",
-      "headline": "We'll back Congress candidate in Nandigram, says Mamata Banerjee after her candidate withdraws from bypollWe'll back Congress candidate in Nandigram, says Mamata Banerjee after her candidate withdraws from bypoll"
+      "url": "https://www.indiatoday.in/india/story/congresss-nandigram-candidate-arrested-in-connection-to-old-case-hours-after-mamata-banerjee-pledges-support-2997844-2026-09-18",
+      "headline": "Congress's Nandigram candidate arrested hours after Mamata pledges supportThe arrest came shortly after Banerjee said her camp would not field another candidate from Nandigram following the withdrawal of Sanchita Pradhan De, the nominee of the Mamata-led Trinamool faction."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/15-killed-dozens-injured-in-suicide-blast-during-friday-prayers-in-pakistans-khyber-pakhtunkhwa-province-2997633-2026-09-18",
-      "headline": "Car bomb kills 16 near police facility in Pakistan's Khyber PakhtunkhwaA vehicle loaded with explosives reportedly rammed into the gate of the Old Police Lines in Khyber Pakhtunkhwa's Kohat area. The explosion created a crater outside a mosque, damaged its exterior and caused a wall to collapse."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/nithari-serial-killings-surendra-koli-suicide-children-deaths-mystery-2997654-2026-09-18",
-      "headline": "Surendra Koli found dead. India still asks: Who killed Nithari's children?Surendra Koli, who was acquitted last year in the infamous 2006 Nithari serial killings, was found dead in Haridwar. It has reopened a haunting question that has lingered for two decades: Who killed Nithari's children?"
+      "url": "https://www.indiatoday.in/india/story/nandigram-bypoll-candidate-from-mamata-banerjee-camp-withdraws-from-race-after-meeting-cm-suvendu-2997684-2026-09-18",
+      "headline": "In one day, Mamata loses party symbol, Nandigram candidate after Suvendu meetMamata camp's Sanchita Pradhan De withdrew her Nandigram bypoll candidature hours after meeting Chief Minister and sitting MLA Suvendu Adhikari. Her decision came on the day the Election Commission allotted new symbols and names to the rival camps led by Mamata Banerjee and Ritabrata Banerjee."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/disha-salian-case-amit-thackeray-defends-cousin-aaditya-bombay-high-court-ordered-cbi-fir-ptag-2997474-2026-09-18",
-      "headline": "Amit Thackeray backs cousin Aaditya after he's named in FIR in Disha Salian caseRaj Thackeray's son, Amit, backed his cousin Aaditya Thackeray in the Disha Salian death case, saying that the latter could never be involved in such a matter. His backing came as the CBI opened a fresh probe and named Aaditya in the FIR after the Bombay High Court's intervention."
+      "url": "https://www.indiatoday.in/india/story/surendra-koli-death-nithari-acquitted-man-found-hanging-in-haridwar-story-explained-2997706-2026-09-18",
+      "headline": "Hangman was ready in jail, but a noose found Surendra Koli 12 years laterSurendra Koli came within hours of the gallows in 2014 before the Supreme Court stayed his hanging in a midnight decision. Cleared of all charges after nearly 19 years behind bars, he was found hanging in his tea stall in Haridwar less than a year after walking free. Here's Koli's journey from Nithari's D-5 bungalow to death row to the Haridwar tea stall."
     },
     {
       "sentiment": "positive",
@@ -226,53 +221,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/mamata-banerjee-led-tmc-faction-gets-football-player-poll-symbol-envelope-for-rebel-camp-after-ec-freeze-2997587-2026-09-18",
-      "headline": "Mamata Banerjee's party, rebel camp get new name, symbol after TMC's EC freezeThe Election Commission allotted the 'football player' symbol to Mamata Banerjee's faction and the 'envelope' symbol to the rebel camp for the October 6 West Bengal bypoll."
+      "url": "https://www.indiatoday.in/opinion/story/thames-ganga-aarti-kali-river-outrage-indians-in-england-itspc-2997686-2026-09-18",
+      "headline": "London's Thames is Kali Ganga, the Outrage is Aarti-ficialThe outrage over the Ganga Aarti on the Thames is Deracination performing Aarti to its own ignorance. If you take offence, read on."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/delhi/story/delhi-bus-drivers-protest-dtc-salary-hike-commuters-stranded-situation-normal-itspc-2997562-2026-09-18",
-      "headline": "How Delhi beat bus drivers' strike by bullying, bribing, blackmailingAs Delhi struggled with a three-day DTC bus strike, authorities turned to persuasion, pressure and inducements to get buses back on the roads on Friday. The effort to restore bus services, however, left protesting drivers divided and accusing the authorities of using every trick in the book."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/sold-gold-to-buy-iphone-18-pro-for-wife-delhi-man-says-as-new-iphone-goes-on-sale-and-buyers-wait-for-hours-2997365-2026-09-18",
-      "headline": "Sold gold to buy iPhone 18 Pro for wife, Delhi man says as new iPhone goes on saleThe iPhone 18 Pro series is now officially on sale in India. India Today Tech talked to buyers at the Apple Store in Noida. Among the buyers was one Delhi man who claimed that he had sold gold to buy an iPhone for his wife."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/upi-payment-process-explained-how-banks-npci-and-soundboxes-finish-payments-in-seconds-2997558-2026-09-18",
-      "headline": "100 milliseconds, 4 hops, zero mistakes: The invisible journey of your UPI paymentsYou hear the chime before you have even lowered your phone. In that flicker of time, your money has already crossed the country, been questioned by two banks, and returned with an answer. This is the science of how it happens, and why, every so often, it does not."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-ipl-abhishek-nayar-kkr-csk-tease-family-full-house-2997618-2026-09-18",
-      "headline": "KKR coach wants Rohit Sharma in Kolkata, batter's reply wins hearts in game-showRohit Sharma found himself at the centre of some hilarious IPL banter after Abhishek Nayar teased him with CSK and KKR references. The former MI captain's response to the exchange gave Mumbai fans plenty to smile about."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/unseasonal-snowfall-hits-kashmir-himachal-as-monsoon-preps-to-leave-india-2997623-2026-09-18",
-      "headline": "Unseasonal snowfall hits Kashmir, Himachal as monsoon preps to leave IndiaHigher reaches of Kashmir and Himachal Pradesh received light snowfall and rain on Thursday. The weather shift coincides with the southwest monsoon edging towards withdrawal from northwest India."
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-u19-vs-australia-u19-anvay-dravid-aaryavir-sehwag-seven-run-win-2997806-2026-09-18",
+      "headline": "Aaryavir Sehwag impresses on India U19 debut, Anvay Dravid plays a blinderINDU19 vs AUSU19: Aaryavir Sehwag marked his India U19 debut with a brisk 28 off 26 balls as India posted 182 for six against Australia in Rajkot. Anvay Dravid also scored an explosive 38 off 18 balls as India secured a seven-run win in the rain-shortened Youth ODI."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/2006-nithari-killings-accused-surendra-koli-dies-by-suicide-2997559-2026-09-18",
-      "headline": "Surendra Koli, acquitted in 2006 Nithari killings, found hanging in HaridwarThe 2006 Nithari killings grabbed national and international headlines after the discovery of children's skeletal remains in a drain behind the house of Moninder Singh Pandher, Surendra Koli's employer, in Noida's Nithari village. It remains one of India's biggest unsolved murder cases."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/other-cities/story/sitong-resort-barbecue-fire-newlywed-woman-engulfed-kalimpong-darjeling-cctv-2997273-2026-09-18",
-      "headline": "Honeymoon turns nightmare at Kalimpong homestay, barbecue fire engulfs wifeA newlywed woman was engulfed in a sudden fireball during a barbecue at a private resort in Kalimpong's Sitong. Video shows a man pouring liquid near the barbecue before flames flare up. Her husband and others rushed to help her."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/dusu-election-2026-live-updates-abvp-nsui-delhi-university-students-union-voting-time-guidelines-traffic-advisory-2997328-2026-09-18",
-      "headline": "DUSU Election 2026 Live: Delhi HC bans victory processions, drums for resultsDUSU Election 2026 Live Updates: Voting for the DUSU elections 2026 is being held today, September 18, while counting of votes and declaration of results will take place on September 19."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/story/marathi-film-gondhal-selected-as-indias-official-entry-for-99th-academy-awards-2997660-2026-09-18",
-      "headline": "Marathi film Gondhal beats Dhurandhar, Hanuman Ansh to become India's Oscars entryMarathi film Gondhal has been selected as India's official entry for the 99th Academy Awards. It was chosen from more than 30 contenders in the Oscar race, including Main Vaapas Aaunga and Dhurandhar 2. It's a psychological and cultural thriller centred around a trapped young bride who turns her lover's obsession with a sacred folk ritual into a dangerous game of deception, desire and power."
+      "url": "https://www.indiatoday.in/india/story/nithari-serial-killings-surendra-koli-suicide-children-deaths-mystery-2997654-2026-09-18",
+      "headline": "Surendra Koli found dead. India still asks: Who killed Nithari's children?Surendra Koli, who was acquitted last year in the infamous 2006 Nithari serial killings, was found dead in Haridwar. It has reopened a haunting question that has lingered for two decades: Who killed Nithari's children?"
     },
     {
       "sentiment": "positive",
@@ -281,100 +241,195 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-ipl-abhishek-nayar-kkr-csk-tease-family-full-house-2997618-2026-09-18",
+      "headline": "KKR coach wants Rohit Sharma in Kolkata, batter's reply wins hearts in game-showRohit Sharma found himself at the centre of some hilarious IPL banter after Abhishek Nayar teased him with CSK and KKR references. The former MI captain's response to the exchange gave Mumbai fans plenty to smile about."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/disha-salian-case-amit-thackeray-defends-cousin-aaditya-bombay-high-court-ordered-cbi-fir-ptag-2997474-2026-09-18",
+      "headline": "Amit Thackeray backs cousin Aaditya after he's named in FIR in Disha Salian caseRaj Thackeray's son, Amit, backed his cousin Aaditya Thackeray in the Disha Salian death case, saying that the latter could never be involved in such a matter. His backing came as the CBI opened a fresh probe and named Aaditya in the FIR after the Bombay High Court's intervention."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/asia-cup-trophies-return-india-bcci-devajit-saikia-2997910-2026-09-18",
+      "headline": "No timeline, but Asia Cup trophies will be in India one day: Devajit SaikiaBCCI secretary Devajit Saikia has assured that India's men's and women's Asia Cup trophies will return to the board's Mumbai headquarters, though he offered no timeline. He also backed the women's team to win Asian Games gold."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/unseasonal-snowfall-hits-kashmir-himachal-as-monsoon-preps-to-leave-india-2997623-2026-09-18",
+      "headline": "Unseasonal snowfall hits Kashmir, Himachal as monsoon preps to leave IndiaHigher reaches of Kashmir and Himachal Pradesh received light snowfall and rain on Thursday. The weather shift coincides with the southwest monsoon edging towards withdrawal from northwest India."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/gondhal-oscars-india-entry-santosh-davakar-marathi-film-academy-awards-bid-2997855-2026-09-18",
+      "headline": "We should represent India through good cinema: Gondhal director on Oscar selectionIn an exclusive interview, Gondhal director Santosh Davakar said the Marathi film's selection as India's official Oscar entry was a proud moment for the team. He said the film's campaign aims to take Marathi cinema and India's cultural heritage to a global audience."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/tamil-nadu/story/tamil-nadu-gold-ring-scheme-newborns-vijay-launch-september-28-2997853-2026-09-18",
+      "headline": "CM Vijay to launch one-gram gold ring scheme for newborns in Tamil NaduChief Minister C Joseph Vijay will launch Tamil Nadu's one-gram gold ring scheme for newborns on September 28. The first phase covers babies born in government hospitals, with eligibility limited to permanent state residents."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/technology/news/story/sold-gold-to-buy-iphone-18-pro-for-wife-delhi-man-says-as-new-iphone-goes-on-sale-and-buyers-wait-for-hours-2997365-2026-09-18",
+      "headline": "Sold gold to buy iPhone 18 Pro for wife, Delhi man says as new iPhone goes on saleThe iPhone 18 Pro series is now officially on sale in India. India Today Tech talked to buyers at the Apple Store in Noida. Among the buyers was one Delhi man who claimed that he had sold gold to buy an iPhone for his wife."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/cities/gurugram/story/yuvraj-singh-manchanda-murder-messages-from-phone-after-gurugram-killing-2997785-2026-09-18",
+      "headline": "Messages from murdered Delhi man's phone kept family in dark for 2 daysPolice are now reconstructing the events between September 6 and 8, including Manchanda's meeting with Vats, the messages sent from his phone, the movement of the Creta and the accused's journey to Uttarakhand."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/india-pakistan-naval-collision-simulator-indian-navy-pns-hunain-arabian-sea-2997638-2026-09-18",
+      "headline": "Video: India, Pak navy warship collision recreated inside simulatorA simulator-based recreation shows how an Indian Navy crew may have responded before the September 15 collision with PNS Hunain in the northern Arabian Sea, highlighting the role of training, situational awareness and composure during tense encounters at sea."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/interactive/story/490-days-satellite-images-show-brahmos-crater-at-sargodha-reopened-for-repair-2997799-2026-09-18",
+      "headline": "490 days: Satellite Images show Brahmos crater at Sargodha reopened for repairNearly 490 days after May 10 strike, the runway scar at Sargodha is still not repaired."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/lust-stories-3-review-four-bedrooms-four-desires-but-only-one-story-really-seduces-2997509-2026-09-18",
       "headline": "Lust Stories 3 review: Four bedrooms, four desires but only one story really seducesRelease Date:Fri Sep 18, 2026Lust Stories 3 review: The anthology brings together four filmmakers to examine desire, intimacy and marriage. The stories find moments of insight, but Vishal Bhardwaj's segment gives it its fullest emotional complexity."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/konkona-sen-sharma-amol-parashar-soft-launch-relationship-on-his-40th-birthday-2997245-2026-09-18",
-      "headline": "Konkona Sen Sharma, Amol Parashar soft-launch relationship on his 40th birthdayActors Konkona Sen Sharma and Amol Parashar shared a rare, playful video to mark his 40th birthday, renewing focus on a relationship the actors have kept strictly under wraps."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/us-mercenary-matthew-vandyke-gets-bail-in-myanmar-terror-training-case-2997683-2026-09-18",
-      "headline": "US mercenary Matthew VanDyke gets bail 6 months after NIA arrestThe court said VanDyke will have to remain in Delhi after his release and appear before the NIA whenever he is called for questioning as part of the investigation into training allegedly provided to armed groups in Myanmar."
+      "url": "https://www.indiatoday.in/india/delhi/story/delhi-bus-drivers-protest-dtc-salary-hike-commuters-stranded-situation-normal-itspc-2997562-2026-09-18",
+      "headline": "How Delhi beat bus drivers' strike by bullying, bribing, blackmailingAs Delhi struggled with a three-day DTC bus strike, authorities turned to persuasion, pressure and inducements to get buses back on the roads on Friday. The effort to restore bus services, however, left protesting drivers divided and accusing the authorities of using every trick in the book."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/companies/story/tata-sons-listing-why-tata-trusts-and-noel-tata-oppose-after-rbi-rejection-2997383-2026-09-18",
-      "headline": "Why Noel Tata doesn't want Tata Sons to go publicNoel Tata's objection to a public listing of Tata Sons goes beyond ownership or valuation. At the heart of it is a question he says is much bigger. What happens to the Tata Group's way of doing business if its holding company has to answer to public shareholders?"
+      "url": "https://www.indiatoday.in/lifestyle/fashion/story/pregnant-deepika-padukone-siddhivinayak-temple-visit-patola-kurta-ranveer-singh-2997823-2026-09-18",
+      "headline": "What mom-to-be Deepika Padukone wore for Siddhivinayak visit with Ranveer SinghDeepika Padukone wore a custom Mayyur Girotra creation as she stepped out with her family to seek blessings at Mumbai's Siddhivinayak Temple."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/trending-news/story/us-woman-settles-in-bihar-village-after-marriage-shares-glimpses-of-her-new-life-2997557-2026-09-18",
+      "headline": "US woman settles in Bihar village after marriage, shares glimpses of her new lifeAn American woman has been sharing videos of her daily life in a Bihar village on Instagram. The clips have received praise, humour and questions about her routine, family life and skincare."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/trending-news/story/woman-shares-adorable-video-of-her-parents-farewell-ritual-at-railway-station-2997525-2026-09-18",
+      "headline": "Woman shares adorable video of her parents' farewell ritual at railway stationA woman recorded a video of her parents smiling and waving from the platform as her train pulled away. The clip showed a glimpse of the small gestures that turned an ordinary departure into a widely shared family moment."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/pm-modi-birthday-alia-bhatt-ranbir-kapoor-pledge-refurbish-20-schools-2997326-2026-09-18",
       "headline": "Alia Bhatt, Ranbir Kapoor pledge to renovate 20 schools on PM Modi's birthdayAlia Bhatt wished Prime Minister Narendra Modi on his 76th birthday and said she and Ranbir Kapoor would refurbish 20 schools. Her post came as several film personalities backed the Seva Sankalp Abhiyaan with birthday messages for the Prime Minister."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/pakistan-navy-officers-hijack-plot-pns-zulfiqar-us-warships-2014-2997424-2026-09-18",
-      "headline": "When rogue Pakistan Navy officers tried to hijack a 'nuclear-armed' warshipRadicalised Pakistan Navy officers plotted to hijack the PNS Zulfiquar and attack US warships in 2014. The incident is worth recalling in the aftermath of the September 15 incident during which a Pakistan Navy ship deliberately rammed into an Indian warship."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/health/story/fssai-acts-against-nestle-india-infant-food-products-promotional-claims-sub-standard-2997550-2026-09-18",
-      "headline": "Nestl\u00e9 India faces FSSAI action over infant products, promotional claimsFSSAI has initiated three adjudication cases against Nestl\u00e9 India over alleged violations involving infant nutrition products, including promotional claims and a laboratory finding related to biotin."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/trending-news/story/man-reaction-to-obsession-most-shocking-scene-on-flight-leaves-baby-wide-awake-2997377-2026-09-18",
-      "headline": "Man's reaction to Obsession's most shocking scene on flight leaves baby wide awakeA man watching Obsession for the first time on a late-night flight got a little too invested in one of the horror film's most brutal scenes. His reaction was so loud that it left a baby wide awake on the plane."
     }
   ],
   "sports": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/asia-cup-trophies-return-india-bcci-devajit-saikia-2997910-2026-09-18",
+      "headline": "No timeline, but Asia Cup trophies will be in India one day: Devajit Saikia BCCI secretary Devajit Saikia has assured that India's men's and women's Asia Cup trophies will return to the board's Mumbai headquarters, though he offered no timeline. He also backed the women's team to win Asian Games gold."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/magazine/sports/story/20260928-chasing-a-golden-dream-india-asian-games-2026-2997441-2026-09-18",
+      "headline": "Chasing a golden dream | India @ Asian Games 2026 Most Indian athletes headed for Aichi-Nagoya aspire to a glory night on the podium. Here are seven of India's brightest medal prospects, going by their current form"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/asian-games/story/asian-games-2000-indians-nagoya-ready-to-accommodate-athletes-2997860-2026-09-18",
+      "headline": "Asian Games: 2000 Indians ready to accommodate athletes after hotel crisis The Indian government has asked around 2,000 Indians living in Nagoya to remain on standby amid the Asian Games accommodation crisis. The community could provide temporary accommodation to Indian athletes if they struggle to find rooms as more members of the contingent arrive in Japan."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-u19-vs-australia-u19-anvay-dravid-aaryavir-sehwag-seven-run-win-2997806-2026-09-18",
+      "headline": "Aaryavir Sehwag impresses on India U19 debut, Anvay Dravid plays a blinder INDU19 vs AUSU19: Aaryavir Sehwag marked his India U19 debut with a brisk 28 off 26 balls as India posted 182 for six against Australia in Rajkot. Anvay Dravid also scored an explosive 38 off 18 balls as India secured a seven-run win in the rain-shortened Youth ODI."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/cristiano-ronaldo-portugal-squad-jorge-jesus-nations-league-2997803-2026-09-18",
+      "headline": "Nations League: Ronaldo named in new coach Jorge Jesus' first Portugal squad Cristiano Ronaldo has been named in Jorge Jesus' first Portugal squad as the veteran forward begins another international campaign with the new head coach. The 41-year-old remains part of Portugal's plans for the UEFA Nations League despite having said that the 2026 FIFA World Cup would be his last."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/asian-games/story/teqball-quimcy-dsouza-historic-medal-contention-asian-games-2026-2997792-2026-09-18",
+      "headline": "Asian Games 2026: Quimcy Dsouza in contention for double medals in Teqball Quimcy Dsouza is keeping India's hopes of a historic Teqball medal alive at the Asian Games, reaching the women's singles semifinals and the mixed doubles repechage as the sport makes its continental debut."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/davis-cup-india-vs-south-korea-nagal-suresh-lose-india-trail-0-2-seoul-2997766-2026-09-18",
+      "headline": "Sumit Nagal puts up brave fight, but India fall 0-2 behind South Korea in Davis Cup India ended Day 1 of their Davis Cup Qualifiers tie against South Korea trailing 0-2 after Dhakshineswar Suresh and Sumit Nagal lost their singles matches. India now need to win all three remaining rubbers, starting with Saturday's crucial doubles, to keep their Final 8 hopes alive."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/asian-games/story/asian-games-rowing-poonam-india-womens-coxless-four-2997718-2026-09-18",
+      "headline": "How Poonam turned a rowing scholarship opportunity into an Asian Games dream Poonam's journey from taking up rowing for a college scholarship to earning a place in India's Asian Games team has been built on growing ambition, consistent training and international exposure. With greater belief after competing in Europe, she now targets a medal in the Women's Coxless Four."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/kapil-dev-india-players-government-pakistan-interview-imran-khan-2997710-2026-09-18",
+      "headline": "Kapil Dev on India-Pakistan row: Players have to follow government decision Kapil Dev said Indian cricketers would have to follow any government decision on dealing with Pakistani players after the Asia Cup presentation controversy. He also said Imran Khan deserved humane treatment, widening the conversation beyond cricketing tensions."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/asian-games/story/asian-games-indian-athletes-not-facing-accommodation-trouble-2997708-2026-09-18",
+      "headline": "How India swiftly solved the accommodation crisis in Nagoya Asian Games: India have swiftly addressed the accommodation crisis faced by its athletes in Nagoya. After 30 to 35 names were removed from the accommodation list, the authorities booked additional hotel rooms to ensure all affected personnel were taken care of."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/bcci-office-bearers-authorised-ajit-agarkar-future-chief-selector-2997700-2026-09-18",
+      "headline": "BCCI yet to take call on Ajit Agarkar's future as chief selector The BCCI's annual general meeting has authorised the Board's office-bearers to decide Ajit Agarkar's future as chairman of the men's senior selection committee, with his term set to end next month."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/asian-games/story/asian-games-tendenthoi-devi-haobijam-rowing-return-boosts-india-womens-four-hopes-2997662-2026-09-18",
-      "headline": "Know your athlete: Tendenthoi Devi Haobijam's rowing journey to Nagoya Asian Games 2026: Tendenthoi Devi Haobijam is returning to the Asian Games in India's women's four with renewed confidence. Her journey from a nervous junior to a settled crew member reflects years of training, trust and belief."
+      "headline": "Know your athlete: Tendenthoi Devi Haobijam's rowing journey to NagoyaAsian Games 2026: Tendenthoi Devi Haobijam is returning to the Asian Games in India's women's four with renewed confidence. Her journey from a nervous junior to a settled crew member reflects years of training, trust and belief."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/asian-games/story/asian-games-north-korean-national-anthem-played-in-south-korea-hockey-match-2997626-2026-09-18",
-      "headline": "North Korean national anthem played in South Korea's hockey match South Korean hockey players were left bewildered after the North Korean national anthem was played before their Asian Games match against Bangladesh. This left the players in an awkward position right before their opening game."
+      "headline": "North Korean national anthem played in South Korea's hockey matchSouth Korean hockey players were left bewildered after the North Korean national anthem was played before their Asian Games match against Bangladesh. This left the players in an awkward position right before their opening game."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/asian-games/story/asian-games-india-lose-indonesia-men-soft-tennis-quarterfinals-2997630-2026-09-18",
-      "headline": "Asian Games: India lose to Indonesia in men's team quarterfinals of soft tennis India collected a couple of wins in the group stage before losing 0-2 to Indonesia in the men's team quarterfinals of the Asian Games soft tennis competition here on Friday."
+      "headline": "Asian Games: India lose to Indonesia in men's team quarterfinals of soft tennisIndia collected a couple of wins in the group stage before losing 0-2 to Indonesia in the men's team quarterfinals of the Asian Games soft tennis competition here on Friday."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-ipl-abhishek-nayar-kkr-csk-tease-family-full-house-2997618-2026-09-18",
-      "headline": "KKR coach wants Rohit Sharma in Kolkata, batter's reply wins hearts in game-show Rohit Sharma found himself at the centre of some hilarious IPL banter after Abhishek Nayar teased him with CSK and KKR references. The former MI captain's response to the exchange gave Mumbai fans plenty to smile about."
+      "headline": "KKR coach wants Rohit Sharma in Kolkata, batter's reply wins hearts in game-showRohit Sharma found himself at the centre of some hilarious IPL banter after Abhishek Nayar teased him with CSK and KKR references. The former MI captain's response to the exchange gave Mumbai fans plenty to smile about."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/asian-games/story/asian-games-nagoya-typhoon-threat-athlete-evacuation-costa-serena-2997572-2026-09-18",
-      "headline": "More disaster awaits Asian Games: Severe typhoon set to hit Nagoya The Asian Games in Nagoya are facing another potential disruption, with a major typhoon threatening the Aichi-Nagoya coast. Japanese authorities have said athletes could be temporarily evacuated if the disaster happens."
+      "headline": "More disaster awaits Asian Games: Severe typhoon set to hit NagoyaThe Asian Games in Nagoya are facing another potential disruption, with a major typhoon threatening the Aichi-Nagoya coast. Japanese authorities have said athletes could be temporarily evacuated if the disaster happens."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/asian-games/story/india-women-beat-japan-asian-games-cricket-shafali-charani-semi-final-2997520-2026-09-18",
-      "headline": "India Women breeze past Japan, set up Asian Games cricket semis vs Bangladesh India Women stormed into the Asian Games cricket semifinals after brushing aside Japan by eight wickets in Nisshin. Shree Charani took a four-wicket haul after which Shafali Verma's unbeaten 40 helped India chase 58 in just five overs."
+      "headline": "India Women breeze past Japan, set up Asian Games cricket semis vs BangladeshIndia Women stormed into the Asian Games cricket semifinals after brushing aside Japan by eight wickets in Nisshin. Shree Charani took a four-wicket haul after which Shafali Verma's unbeaten 40 helped India chase 58 in just five overs."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/asian-games/story/asian-games-quimcy-dsouza-india-teqball-medal-semi-final-2997507-2026-09-18",
-      "headline": "Who is Quimcy Dsouza? India's teqball star nears historic medal Asian Games 2026: Quimcy Dsouza reached the women's singles semi-final after topping her group in teqball's Asian Games debut. The Indian is now one win away from a maiden medal for the country in the sport."
+      "headline": "Who is Quimcy Dsouza? India's teqball star nears historic medalAsian Games 2026: Quimcy Dsouza reached the women's singles semi-final after topping her group in teqball's Asian Games debut. The Indian is now one win away from a maiden medal for the country in the sport."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-agh-vs-ind-gautam-gambhir-selection-sanju-samson-competition-2997345-2026-09-18",
-      "headline": "The Vaibhav Sooryavanshi question: Why the popular choice isn't Gambhir's call Vaibhav Sooryavanshi's growing fan following has made every India XI without him a talking point. But after a stop-start few months, Gautam Gambhir has made his position clear: the teenager can wait."
+      "headline": "The Vaibhav Sooryavanshi question: Why the popular choice isn't Gambhir's callVaibhav Sooryavanshi's growing fan following has made every India XI without him a talking point. But after a stop-start few months, Gautam Gambhir has made his position clear: the teenager can wait."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/video/lahore-hc-rejects-mohammad-rizwans-plea-challenging-cyber-crime-agency-summons-over-england-tour-ytvd-2997496-2026-09-18",
-      "headline": "Lahore HC Rejects Mohammad Rizwan's Plea Challenging Cyber Crime Agency Summons Over England Tour The Lahore High Court has dismissed a petition filed by Pakistan cricketer Mohammad Rizwan challenging summons issued by the National Cyber Crime Investigation Agency. The inquiry follows Pakistan's Test tour of England, with the agency examining alleged dressing room leaks. Rizwan and fellow batter Imam-ul-Haq previously appeared before the agency, where they were questioned regarding travel, financial history, and personal details. Rizwan challenged the basis of the probe and questioned the agency's jurisdiction, seeking a halt to proceedings. The controversy unfolds alongside a Pakistan Cricket Board disciplinary inquiry after seven players were sent home following defeats in the opening Test matches in England."
+      "headline": "Lahore HC Rejects Mohammad Rizwan's Plea Challenging Cyber Crime Agency Summons Over England TourThe Lahore High Court has dismissed a petition filed by Pakistan cricketer Mohammad Rizwan challenging summons issued by the National Cyber Crime Investigation Agency. The inquiry follows Pakistan's Test tour of England, with the agency examining alleged dressing room leaks. Rizwan and fellow batter Imam-ul-Haq previously appeared before the agency, where they were questioned regarding travel, financial history, and personal details. Rizwan challenged the basis of the probe and questioned the agency's jurisdiction, seeking a halt to proceedings. The controversy unfolds alongside a Pakistan Cricket Board disciplinary inquiry after seven players were sent home following defeats in the opening Test matches in England."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/story/asian-games-2026-manu-bhaker-india-flag-bearer-tajinder-pal-singh-toor-opening-ceremony-2997476-2026-09-18",
-      "headline": "Manu Bhaker, Tajinderpal Singh Toor named India flag-bearers Asian Games 2026: Two-time Olympic medallist Manu Bhaker and two-time Asian Games champion Tajinderpal Singh Toor will lead India at the Aichi-Nagoya opening ceremony. Both flag-bearers are also among India's biggest medal hopes at the continental showpiece."
+      "headline": "Manu Bhaker, Tajinderpal Singh Toor named India flag-bearersAsian Games 2026: Two-time Olympic medallist Manu Bhaker and two-time Asian Games champion Tajinderpal Singh Toor will lead India at the Aichi-Nagoya opening ceremony. Both flag-bearers are also among India's biggest medal hopes at the continental showpiece."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/asian-games/story/asian-games-2026-india-flag-hoisting-ceremony-delayed-teams-waiting-2997434-2026-09-18",
-      "headline": "India among teams hit by delay in flag hoisting ceremony India and four other contingents were left waiting after the Asian Games flag hoisting ceremony in Nagoya was delayed and halted. The disruption added to scrutiny over organisation ahead of the official opening ceremony."
+      "headline": "India among teams hit by delay in flag hoisting ceremonyIndia and four other contingents were left waiting after the Asian Games flag hoisting ceremony in Nagoya was delayed and halted. The disruption added to scrutiny over organisation ahead of the official opening ceremony."
     },
     {
       "sentiment": "positive",
@@ -415,56 +470,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/hardik-pandya-comeback-gautam-gambhir-india-a-route-2027-odi-world-cup-2997302-2026-09-18",
       "headline": "Hardik Pandya will be good: Gautam Gambhir backs India all-rounder's comebackGautam Gambhir has backed Hardik Pandya's return but said he needs India A game time first. The India coach also sees Nitish Kumar Reddy's development as central to the 2027 ODI World Cup plans."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/asian-games/story/asian-games-indian-mens-team-hockey-craig-fulton-sjoerd-marijne-2996365-2026-09-18",
-      "headline": "Indian hockey teams have Asian Games favourites tag. But there is work to doIndia's men's and women's hockey teams head to the Asian Games as strong gold contenders but they will have a lot to do on the field. Battling with off-field issues and expectations, nothing more than the gold medal would do for both sides."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/asian-games/story/asian-games-2026-india-cricket-hockey-preview-schedule-squads-timing-medal-record-2996958-2026-09-18",
-      "headline": "Asian Games 2026: Cricket, Hockey expected to drive India's gold medal huntIndia's cricket and hockey teams head to the 2026 Asian Games carrying favourites tags and heavy expectation. For cricket, it is a route to another gold and Olympic qualification, while hockey arrives with pressure on them to deliver."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/abhishek-sharma-meditation-celebration-record-t20i-hundred-erling-haaland-afg-vs-ind-2997271-2026-09-18",
-      "headline": "Not a Haaland copy: Abhishek Sharma reveals true meaning behind new celebrationAbhishek Sharma said his celebration after the record-breaking hundred against Afghanistan was rooted in meditation and not an imitation of the trademark one by Erling Haaland. Abhishek scored a sensational hundred of 30 balls and helped India secure a 3-0 series win against Afghanistan."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/gautam-gambhir-vaibhav-sooryavanshi-selection-sanju-samson-afg-vs-ind-2997266-2026-09-18",
-      "headline": "Vaibhav Sooryavanshi will have to wait for his opportunity: Gautam GambhirGautam Gambhir said Vaibhav Sooryavanshi will have to wait for his opportunity to be back in the Indian T20I team. Sooryavanshi wasn't used for a single game during the series against Afghanistan."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/asian-games/story/india-vs-japan-womens-cricket-asian-games-india-quarterfinal-preview-2997017-2026-09-18",
-      "headline": "India Women target another cricket gold run as Japan await in quartersIndia, fresh from winning their eighth Women's Asia Cup, begin their Asian Games gold-medal defence against hosts Japan in Friday's quarterfinal. Harmanpreet Kaur's side will look to carry their momentum into the knockout clash and move a step closer to retaining the Hangzhou gold."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-afghanistan-friendship-cup-shreyas-gessture-zadran-trophy-celebrations-2997244-2026-09-17",
-      "headline": "Shreyas invites Zadran to join India's trophy celebrations, lifts cup togetherShreyas Iyer ensured India's 3-0 Friendship Cup sweep over Afghanistan ended on a sporting note, inviting Afghanistan captain Ibrahim Zadran to join India's trophy celebrations and be part of the winning team photograph in Delhi on Thursday."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/chess-olympiad-gukesh-draw-india-open-women-teams-unbeaten-2997195-2026-09-17",
-      "headline": "Chess Olympiad: Gukesh struggles, Indian teams continue unbeaten runIndia won again in both sections at the Chess Olympiad, but D Gukesh was held to another draw in the open event. The unbeaten run stays intact, with Nihal Sarin leading the open charge and the women producing a strong result."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-afghanistan-3rd-t20i-report-abhishek-sharma-samson-3-0-series-sweep-2997215-2026-09-17",
-      "headline": "Friendship Cup, ruthless India: Abhishek blitz powers 3-0 sweep of AfghanistanAfghanistan vs India, 3rd T20I: Abhishek Sharma hit a 30-ball hundred, the fastest by an Indian in T20Is, as India hammered Afghanistan by 127 runs. The Men in Blue made a statement in Delhi, sweeping the series 3-0 before heading off to Nagoya for the Asian Games."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/asian-games/story/vinay-iyer-mumbai-club-cricketer-japan-women-coach-asian-games-2997204-2026-09-17",
-      "headline": "From Mumbai maidans to coaching Japan: Vinay's cricket journey comes full circleVinay Iyer's cricketing journey has taken him from the dusty maidans of Mumbai to the Asian Games, where the 41-year-old will lead Japan's women's team against India in the quarter-finals."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/asian-games/story/varun-sanyal-asian-games-accommodation-chaos-japan-india-comparison-2997186-2026-09-17",
-      "headline": "India would be butt of jokes if Asian Games chaos happened there: AthleteIndian MMA fighter Varun Sanyal has called out the accommodation chaos at the Asian Games in Nagoya, saying India would have faced global ridicule if athletes had gone through a similar ordeal."
     }
   ],
   "education": [
@@ -549,7 +554,7 @@
       "headline": "Exam scams | Plugging the leaksA new central legislation aims to end the old scourge of exam paper scams for govt jobs, with heavy punishment and penalties"
     },
     {
-      "sentiment": "negative",
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/magazine/education/story/20220926-education-kota-factory-season-2-2000662-2022-09-16",
       "headline": "Coaching | Kota factory, season 2While online ed-tech companies eye the brick-and-mortar world of coaching centres in the city, traditional institutes are extending their digital arms to remain on top of the game"
     },
