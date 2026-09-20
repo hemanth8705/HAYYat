@@ -1,9 +1,14 @@
 {
   "business": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/india-exports-to-china-south-africa-brazil-and-russia-rise-34-to-19-9-billion-2999120-2026-09-20",
+      "headline": "China leads surge as India's exports to BRICS nations rise 34% in April-AugustThe data pertains to the four other founding BRICS members: Brazil, Russia, China and South Africa."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/story/tata-trusts-n-chandrasekaran-tata-sons-reappointment-dispute-board-vote-2999085-2026-09-20",
-      "headline": "Tata Trusts calls N Chandrasekaran's reappointment legally invalidTata Trusts's statement came after the Tata Sons Board voted 4:1 on September 17 in favour of Chandrasekaran continuing as chairman of the group holding company."
+      "headline": "N Chandrasekaran's reappointment is invalid: Tata TrustsTata Trusts's statement came after the Tata Sons Board voted 4:1 on September 17 in favour of Chandrasekaran continuing as chairman of the group holding company."
     },
     {
       "sentiment": "positive",
@@ -94,14 +99,14 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/tata-trusts-sp-group-rs-25000-crore-tata-sons-stake-liquidity-proposal-noel-chandrasekaran-reappointment-2997136-2026-09-17",
       "headline": "Tata Sons listing row: Tata Trusts tables Rs 25,000 crore SP Group proposalThe proposal was placed before the Tata Sons board during its meeting on Thursday, the same day the board approved N Chandrasekaran's reappointment as chairman for another five-year term."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/upi-mdr-charges-october-15-centre-monitor-merchants-gst-rumour-2997131-2026-09-17",
-      "headline": "Govt to monitor UPI MDR rollout, ensure merchants do not pass charges to consumersThe government will closely monitor the implementation of UPI MDR and work with payment aggregators to plug enforcement gaps and ensure merchants do not pass the additional cost on to consumers, government sources said, adding that the move is unlikely to trigger a significant rise in cash transactions or a decline in UPI usage."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/story/angh-wins-at-toronto-film-festival-theja-rios-nagaland-story-gets-global-honour-2999133-2026-09-20",
+      "headline": "Angh wins at Toronto Film Festival: Theja Rio's Nagaland story gets global honour Theja Rio's debut feature Angh won the Platform Prize at TIFF 2026. The award places a story rooted in Nagaland's Konyak culture on a major global stage."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/mysaa-teaser-rashmika-mandanna-is-a-force-to-reckon-with-in-period-action-drama-2999114-2026-09-20",
@@ -191,14 +196,14 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/alia-bhatts-ganesh-chaturthi-album-has-family-faith-and-a-little-raha-moment-2998499-2026-09-19",
       "headline": "Alia Bhatt's Ganesh Chaturthi album has family, faith and a little Raha moment Alia Bhatt has posted glimpses of her family's Ganesh Chaturthi celebrations, from the home puja to the visarjan. The pictures also continue the couple's decision to keep daughter Raha away from public photographs."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/gladiators-trailer-ajith-kumars-racing-obsession-gets-a-full-throttle-showcase-2998424-2026-09-19",
-      "headline": "Gladiators trailer: Ajith Kumar's racing obsession gets a full-throttle showcase The Gladiators: In Pursuit of Challenges trailer puts Ajith Kumar's racing journey front and centre, with insights from his team, the demands of endurance racing, and rare appearances by wife Shalini and their children."
     }
   ],
   "general news": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/houthis-red-sea-yemen-war-us-vessels-safe-saudi-allies-warning-ptag-2999121-2026-09-20",
+      "headline": "Houthis tell US they won't target American ships, warn Saudi alliesA senior Houthi official said the group will not target US vessels in the Red Sea but warned countries against joining Saudi Arabia's renewed war. The message signals an effort to avoid a clash with Washington even as fighting with Riyadh intensifies."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/world/us-news/story/trump-xi-meeting-why-donald-trump-softened-china-stance-before-white-house-visit-2999029-2026-09-20",
@@ -215,29 +220,24 @@
       "headline": "S Jaishankar, ex-Army chief, CBI director get SIR notices in DelhiNew Delhi SIR drive: Several serving and retired senior bureaucrats have also received notices over discrepancies or because their current electoral records could not be linked to those prepared during the previous revision."
     },
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/us-saudi-arabia-f35-deal-china-spy-fifth-gen-fighter-aircraft-uranium-discovery-trump-ties-itspc-2997711-2026-09-20",
+      "headline": "Saudi trying to bribe Trump with uranium, F-35 and exit from China-led initiative?Saudi Arabia has announced a major uranium discovery, is looking for help against the Houthis, is spending $24.3 billion on F-35s and has exited from a China-led digital currency initiative. The developments might sound unrelated. But taken together, it is hard not to ask what exactly is Riyadh offering Trump, and what does it expect in return?"
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/story/tata-trusts-n-chandrasekaran-tata-sons-reappointment-dispute-board-vote-2999085-2026-09-20",
-      "headline": "Tata Trusts calls N Chandrasekaran's reappointment legally invalidTata Trusts's statement came after the Tata Sons Board voted 4:1 on September 17 in favour of Chandrasekaran continuing as chairman of the group holding company."
+      "headline": "N Chandrasekaran's reappointment is invalid: Tata TrustsTata Trusts's statement came after the Tata Sons Board voted 4:1 on September 17 in favour of Chandrasekaran continuing as chairman of the group holding company."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/germany-elections-far-left-takes-berlin-far-afd-right-wins-northeast-polls-friedrich-merz-calls-result-disaster-2999140-2026-09-21",
+      "headline": "Far left wins Berlin, far right in another state polls; Merz calls result 'disaster'Exit polls showed Die Linke leading in Berlin and the AfD topping Mecklenburg-Western Pomerania, handing the CDU another blow. The outcome adds to pressure on Friedrich Merz, who has vowed to push ahead with reforms."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/meet-3-indians-who-hacked-openai-using-claude-and-shook-up-ai-world-2998815-2026-09-20",
-      "headline": "Meet 3 Indians who hacked OpenAI using Claude and shook up AI worldMeet the three Indian-origin researchers, Harsh Jaiswal, Mohan Pedhapati and Rahul Maini who used Anthropic's Claude to hack into OpenAI's systems, gaining access to employee accounts and a private GitHub repository."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/iit-kharagpur-director-chakraborty-says-exams-grades-do-not-define-students-iit-bombay-case-2999101-2026-09-20",
-      "headline": "Exam stress? IIT-Kharagpur director's message for students amid IIT Bombay caseIIT Kharagpur director Suman Chakraborty urged students not to let exams or grades define them. His message came amid fresh concern over student welfare and mental-health support after Sahil Wakode's death at IIT Bombay."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/italy-ban-burqas-and-niqabs-in-schools-cap-number-of-foreign-students-per-class-giorgia-meloni-2999006-2026-09-20",
-      "headline": "Italy to ban burqa and niqab in schools, cap number of foreign students per classGiorgia Meloni said Italy will propose a school ban on burqas and niqabs, cap foreign students per class, and require some parents to learn Italian. The move places schools at the centre of her government's tougher push on migration, language and integration."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/asian-games/story/india-hockey-asian-games-saffron-jersey-blue-kit-dilip-tirkey-2998887-2026-09-20",
-      "headline": "Why India's hockey teams turned up in saffron at Asian GamesIndian hockey's kit controversy resurfaced at the Asian Games as both the men's and women's teams wore saffron in their opening matches, despite Hockey India president Dilip Tirkey's assurance that they would return to blue. The federation's conflicting claims have added to the row."
+      "url": "https://www.indiatoday.in/world/story/ukraine-sexual-violence-un-report-russian-forces-89-percent-cases-2999135-2026-09-20",
+      "headline": "1,004 cases, victims aged 4 to 82: UN's grim account of sex violence in Ukraine warA UN report has documented 1,004 cases of conflict-related sexual violence in Ukraine since 2022, most attributed to Russian forces. The findings describe sexual violence as a recurring tool of torture, intimidation and coercion, while calling for accountability on both sides."
     },
     {
       "sentiment": "positive",
@@ -246,18 +246,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/us-saudi-arabia-f35-deal-china-spy-fifth-gen-fighter-aircraft-uranium-discovery-trump-ties-itspc-2997711-2026-09-20",
-      "headline": "Saudi trying to bribe Trump with uranium, F-35 and exit from China-led initiative?Saudi Arabia has announced a major uranium discovery, is looking for help against the Houthis, is spending $24.3 billion on F-35s and has exited from a China-led digital currency initiative. The developments might sound unrelated. But taken together, it is hard not to ask what exactly is Riyadh offering Trump, and what does it expect in return?"
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/asian-games/story/asian-games-day-1-wrap-elavenil-double-silver-suchika-mma-medal-shafali-century-2998987-2026-09-20",
       "headline": "Day 1 wrap: Elavenil shoots a double, Suchika makes MMA debut memorableAsian Games 2026 Day 1 results and wrap: Elavenil Valarivan's double silver, Suchika Tariyal's historic MMA medal and Shafali Verma's record-breaking century headlined India's eventful opening day, as hockey and badminton teams also made emphatic starts in Aichi-Nagoya."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/bjp-criticises-congress-rahul-gandhi-over-stage-act-with-comedian-mocking-pm-modi-2998723-2026-09-20",
-      "headline": "Vulgar, crude circus: BJP tears into Rahul Gandhi over comedian's PM Modi skitCriticising the skit as 'foul-mouthed antics' performed by 'cheap, vulgar trolls,' BJP spokesperson CR Kesavan said no decent and right-thinking person would find it amusing."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/news/story/iit-kharagpur-director-chakraborty-says-exams-grades-do-not-define-students-iit-bombay-case-2999101-2026-09-20",
+      "headline": "Exam stress? IIT-Kharagpur director's message for students amid IIT Bombay caseIIT Kharagpur director Suman Chakraborty urged students not to let exams or grades define them. His message came amid fresh concern over student welfare and mental-health support after Sahil Wakode's death at IIT Bombay."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/asian-games/story/india-hockey-asian-games-saffron-jersey-blue-kit-dilip-tirkey-2998887-2026-09-20",
+      "headline": "Why India's hockey teams turned up in saffron at Asian GamesIndian hockey's kit controversy resurfaced at the Asian Games as both the men's and women's teams wore saffron in their opening matches, despite Hockey India president Dilip Tirkey's assurance that they would return to blue. The federation's conflicting claims have added to the row."
     },
     {
       "sentiment": "negative",
@@ -266,18 +266,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/e20-petrol-protest-tehseen-poonawalla-claims-detention-delhi-police-jantar-mantar-2998827-2026-09-20",
-      "headline": "When sugar daddy is scared...: Tehseen Poonawalla claims detention at E20 protestSunday's incident marked the latest confrontation between Poonawalla and Delhi Police over his opposition to the E20 policy."
+      "url": "https://www.indiatoday.in/world/story/italy-ban-burqas-and-niqabs-in-schools-cap-number-of-foreign-students-per-class-giorgia-meloni-2999006-2026-09-20",
+      "headline": "Italy to ban burqa and niqab in schools, cap number of foreign students per classGiorgia Meloni said Italy will propose a school ban on burqas and niqabs, cap foreign students per class, and require some parents to learn Italian. The move places schools at the centre of her government's tougher push on migration, language and integration."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/jobs/story/porsche-layoffs-volkswagen-restructuring-plan-could-trigger-4100-more-job-cuts-educ-2998882-2026-09-20",
-      "headline": "Porsche may see 4,100 more layoffs under Volkswagen's turnaround plan: ReportVolkswagen's sweeping turnaround plan could lead to 4,100 additional layoffs at Porsche, adding to thousands of previously agreed cuts, as the German automaker restructures amid falling China sales, EV strategy setbacks and lower profit expectations."
+      "url": "https://www.indiatoday.in/world/story/france-canada-ties-macron-carney-saint-pierre-canada-eu-lng-2999141-2026-09-21",
+      "headline": "Macron, Carney vow stronger France-Canada ties amid US tensionsEmmanuel Macron and Mark Carney met in Saint-Pierre and Miquelon to deepen France-Canada cooperation on climate, energy and space. The symbolic visit underscored shared concerns over sovereignty, strained US ties and Canada's expanding links with Europe."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/south/story/telangana-outdoor-advertising-entrepreneur-flags-cm-aide-guest-house-invite-2998868-2026-09-20",
-      "headline": "Telangana businesswoman claims CM's aide called her to guest house for meetA Telangana entrepreneur said a person she believed to be close to the Chief Minister asked her to come to a guest house to discuss her business representation. She has urged the government to examine her proposal and ensure a transparent, dignified process in the outdoor advertising sector."
+      "url": "https://www.indiatoday.in/cities/delhi/story/delhi-stabbing-sumit-giri-killed-after-papa-joke-row-in-naraina-ptag-2999052-2026-09-20",
+      "headline": "Delhi man stabbed to death after 'Papa' joke sparks friends' quarrelAn 18-year-old man was allegedly stabbed to death in west Delhi after a quarrel among friends spiralled over a \"Papa\" taunt. The killing has prompted a murder probe into how a roadside joke turned a local dispute fatal."
     },
     {
       "sentiment": "positive",
@@ -290,14 +290,14 @@
       "headline": "Question Time: Weekly News QuizThink you read the headlines this week? Let's test that!"
     },
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/asian-games/story/india-asian-games-schedule-september-21-medal-events-timings-full-list-2999057-2026-09-20",
-      "headline": "India at Asian Games, September 21: IND vs PAK in spotlight, shooting medals at stakeIndia at Asian Games, schedule for September 21: India face Pakistan in men's and women's table tennis, while the women's hockey team takes on Indonesia. Shooting and swimming offer medal chances, with Suchika Tariyal, Sumit, Roshibina Devi and Aryan also set for key contests."
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/mount-manaslu-avalanche-kills-dhruva-jyoti-guha-fursemba-sherpa-ptag-2998995-2026-09-20",
+      "headline": "Indian-origin climber, Sherpa guide killed in avalanche on Nepal's Mount ManasluAn avalanche struck the tent of India-origin German climber Dhruva Jyoti Guha and his guide, Fursemba Sherpa, at Camp 3 on Mount Manaslu, killing both. The tragedy has pushed the mountain's death toll to four this climbing season."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/mayawati-bsp-akash-anand-sister-out-ishan-anand-party-role-2998828-2026-09-20",
-      "headline": "Mayawati keeps Akash Anand, his sister away from BSP roles, picks another nephewMayawati said Akash Anand and his sister will remain outside party responsibilities, while Ishan Anand will be brought forward in the BSP. She framed the move as putting the party above family ties ahead of the September 23 All-India meeting."
+      "url": "https://www.indiatoday.in/business/story/india-exports-to-china-south-africa-brazil-and-russia-rise-34-to-19-9-billion-2999120-2026-09-20",
+      "headline": "China leads surge as India's exports to BRICS nations rise 34% in April-AugustThe data pertains to the four other founding BRICS members: Brazil, Russia, China and South Africa."
     },
     {
       "sentiment": "positive",
@@ -306,18 +306,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/bengal-bjp-non-veg-row-durga-puja-remarks-baba-bageshwar-vhp-tmc-2990864-2026-09-20",
-      "headline": "TMC, Left, Cong out of action, how BJP has invented its biggest rival in BengalAs the BJP faces little political resistance in West Bengal, a row over non-vegetarian food during Durga Puja and Navratri has caused unease. The problem for the BJP is that the distinction between the party and the larger Hindu-right ecosystem is increasingly becoming irrelevant to people in Bengal."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/iran-seven-conditions-us-talks-end-war-frozen-funds-qatar-mediation-2998630-2026-09-20",
-      "headline": "If Washington wants to escape quagmire...: Iran's 7 conditions to end warIran has sent seven conditions to Washington through Qatar mediators to open talks on ending the war. The message pairs a push for negotiations with a warning that Tehran is ready for a decisive conflict if its terms are rejected."
+      "url": "https://www.indiatoday.in/cities/ahmedabad/story/rent-a-garba-partner-posts-viral-in-ahmedabad-cyber-cell-warns-before-navratri-2999037-2026-09-20",
+      "headline": "'Rent garba partner' posts go viral before Navratri, Gujarat cops urge cautionViral social media posts in Ahmedabad are offering paid 'garba partners' ahead of Navratri. The cyber cell has warned against payments to unknown profiles. Bajrang Dal seeks a probe into the matter."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/mount-manaslu-avalanche-kills-dhruva-jyoti-guha-fursemba-sherpa-ptag-2998995-2026-09-20",
-      "headline": "Indian-origin climber, Sherpa guide killed in avalanche on Nepal's Mount ManasluAn avalanche struck the tent of India-origin German climber Dhruva Jyoti Guha and his guide, Fursemba Sherpa, at Camp 3 on Mount Manaslu, killing both. The tragedy has pushed the mountain's death toll to four this climbing season."
+      "url": "https://www.indiatoday.in/india/story/bjp-criticises-congress-rahul-gandhi-over-stage-act-with-comedian-mocking-pm-modi-2998723-2026-09-20",
+      "headline": "Vulgar, crude circus: BJP tears into Rahul Gandhi over comedian's PM Modi skitCriticising the skit as 'foul-mouthed antics' performed by 'cheap, vulgar trolls,' BJP spokesperson CR Kesavan said no decent and right-thinking person would find it amusing."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/cities/delhi/story/kalkaji-property-dealer-murder-family-alleges-assault-by-neighbours-delhi-2998759-2026-09-20",
+      "headline": "Property dealer dies after brawl with neighbours in Delhi's KalkajiThe victim's brother, Dilbag Singh, was also injured in the alleged physical assault and was undergoing treatment. According to the police, a PCR call was received regarding the altercation a little after midnight."
     }
   ],
   "sports": [
@@ -554,7 +554,7 @@
       "headline": "Exam scams | Plugging the leaksA new central legislation aims to end the old scourge of exam paper scams for govt jobs, with heavy punishment and penalties"
     },
     {
-      "sentiment": "negative",
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/magazine/education/story/20220926-education-kota-factory-season-2-2000662-2022-09-16",
       "headline": "Coaching | Kota factory, season 2While online ed-tech companies eye the brick-and-mortar world of coaching centres in the city, traditional institutes are extending their digital arms to remain on top of the game"
     },
