@@ -1,6 +1,11 @@
 {
   "business": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/saudi-arabia-increases-gulf-oil-exports-days-after-houthis-attack-hits-east-west-pipeline-2999906-2026-09-22",
+      "headline": "Saudi Arabia increases Gulf oil exports days after Houthis attack key pipelineSaudi Arabia has increased crude loadings from Gulf terminals after drone attacks shut the East-West Pipeline. The shift suggests a partial export recovery, but disruption around the Red Sea and Strait of Hormuz remains a concern."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/bitcoin-crosses-85000-3-key-reasons-fuelling-the-crypto-rally-2999625-2026-09-21",
       "headline": "Bitcoin crosses $85,000. 3 key reasons fuelling the crypto rallyBitcoin is back in the spotlight after crossing $85,000. The rally has also spread to altcoins and meme coins, with several popular tokens posting strong gains."
@@ -94,11 +99,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/net-direct-tax-collection-fy27-rises-13-percent-rs-12-lakh-crore-september-17-2998006-2026-09-18",
       "headline": "Net direct tax collection rises 13% to Rs 12.12 lakh crore in FY27 so farNet corporate tax mop-up rose 19.48 per cent to about Rs 5.56 lakh crore, while non-corporate tax (individuals and HUFs) mop-up increased 6 per cent to over Rs 6.16 lakh crore. Securities Transactions Tax (STT) collection grew 53 per cent to Rs 40,214 crore between April 1 and September 17."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/indias-growth-story-is-intact-but-ai-and-oil-are-the-big-risks-jefferies-christopher-wood-2997814-2026-09-18",
-      "headline": "India's growth story is intact, but AI and oil are the big risks: Christopher WoodWood said that India's economic data has been encouraging, with credit growth strengthening and private companies beginning to show signs of higher capital spending."
     }
   ],
   "entertainment": [
@@ -201,13 +201,13 @@
   "general news": [
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/major-us-tv-networks-suspend-white-house-pool-coverage-after-trump-ban-on-cnn-ms-now-and-politico-2999825-2026-09-21",
-      "headline": "Major US TV networks suspend coverage of Trump after ban on CNN, MS NOW, PoliticoThe decision was announced on Monday after CNN was prevented from carrying out its scheduled duties as part of the White House television pool. Fox News Media, ABC News, CBS News, CNN and NBC News jointly said they would no longer provide the rotating pool coverage."
+      "url": "https://www.indiatoday.in/world/story/trump-baulked-yemen-request-to-provide-military-support-against-houthis-middle-east-conflict-2999911-2026-09-22",
+      "headline": "Yemen asked US to provide military support against defiant Houthis. Trump held backYemeni President Rashad al-Alimi asked US President Donald Trump for military support for his Saudi-backed government in its fight against the Houthis, who have seized key areas near Red Sea in a rapid offensive this month."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/other-cities/story/jamui-minors-harassment-case-sit-formed-three-arrested-action-32-social-media-accounts-outrage-viral-video-bihar-girl-2999668-2026-09-21",
-      "headline": "Bihar harassment case: 3 arrested, SIT formed; action against 32 social media accountsThe incident took place near Jamui's Madwa Pahad on Saturday evening, when the two students were returning from coaching on a scooter. The viral video has also triggered action against several social media accounts for circulating footage identifying the minors."
+      "url": "https://www.indiatoday.in/india/story/un-security-council-india-wins-support-from-4-european-nations-for-permanent-unsc-seat-2999914-2026-09-22",
+      "headline": "India wins support from 4 European nations for permanent UN Security Council seatIndia's push for a permanent seat on the UN Security Council gets fresh backing from Hungary, Poland, Slovakia and the Czech Republic. The Visegrad Four support New Delhi's bid at the 81st UN General Assembly."
     },
     {
       "sentiment": "negative",
@@ -216,18 +216,38 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/story/iit-bombay-replaces-hostel-ceiling-fans-wall-mounted-ones-student-suicides-says-move-part-of-planned-renovation-2999730-2026-09-21",
-      "headline": "IIT Bombay gets wall-mounted fans after student suicide, says move part of renovationIIT Bombay has begun replacing ceiling fans in hostel rooms with wall-mounted units after the first batch reached campus. The move has drawn attention after recent student deaths, though the institute says it is part of a planned hostel renovation."
+      "url": "https://www.indiatoday.in/world/story/major-us-tv-networks-suspend-white-house-pool-coverage-after-trump-ban-on-cnn-ms-now-and-politico-2999825-2026-09-21",
+      "headline": "Major US TV networks suspend coverage of Trump after White House bans CNNThe decision was announced on Monday after CNN was prevented from carrying out its scheduled duties as part of the White House television pool. Fox News Media, ABC News, CBS News, CNN and NBC News jointly said they would no longer provide the rotating pool coverage."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/us-news-proposition-40-billionaire-tax-california-abhijit-banerjee-esther-duflo-gavin-newsom-2028-2999640-2026-09-21",
-      "headline": "World's first billionaire tax soon? India-born Nobel-winning economist is backing itSix Nobel-winning economists pen open letter, backing California's plan to impose a 5% one-time tax on billionaires. They say this will kick-start a movement for wealth tax in the US and across the world."
+      "url": "https://www.indiatoday.in/trending-news/story/air-india-express-passengers-seen-standing-as-flight-moves-on-runway-airline-reacts-2999597-2026-09-21",
+      "headline": "Air India Express passengers seen standing as flight moves on runway, airline reactsIn the video, several Air India Express passengers could be seen standing inside the aircraft as it appeared to move along the runway."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/cities/other-cities/story/jamui-minors-harassment-case-sit-formed-three-arrested-action-32-social-media-accounts-outrage-viral-video-bihar-girl-2999668-2026-09-21",
+      "headline": "Bihar harassment case: 3 arrested, SIT formed; action against 32 social media accountsThe incident took place near Jamui's Madwa Pahad on Saturday evening, when the two students were returning from coaching on a scooter. The viral video has also triggered action against several social media accounts for circulating footage identifying the minors."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/maharashtra/story/maharashtra-fda-seizes-4765-kg-fake-mawa-from-mumbai-dargah-before-festive-season-2999794-2026-09-21",
-      "headline": "Mundhe's team seizes over 4,000 kg fake mawa, warns sweet shops of more raidsThe Maharashtra FDA seized 4,765 kg of a 'mawa-like' product worth Rs 7.67 lakh in Sambhajinagar and warned of more inspections ahead of Diwali. The latest action follows recent licence suspensions and cancellations against eateries and food businesses across Maharashtra over alleged food safety and hygiene violations."
+      "headline": "Mundhe's team seizes over 4,000 kg fake khoya, warns sweet shops of more raidsThe Maharashtra FDA seized 4,765 kg of a 'mawa-like' product worth Rs 7.67 lakh in Sambhajinagar and warned of more inspections ahead of Diwali. The latest action follows recent licence suspensions and cancellations against eateries and food businesses across Maharashtra over alleged food safety and hygiene violations."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/gujarat-pilgrim-crash-scorpio-hits-ambaji-walkers-sabarkantha-himmatnagar-idar-highway-one-dead-angry-mob-sets-suv-fire-2999874-2026-09-21",
+      "headline": "Scorpio rams into Ambaji pilgrims in Gujarat, 1 dead; angry crowd sets SUV on fireA Scorpio allegedly entered a pilgrim-only corridor near Dolgarh and struck walkers heading to Ambaji. The crash killed one pilgrim, seriously injured seven others and triggered a police probe after the vehicle was set ablaze."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/lifestyle/what-s-hot/story/from-kachoris-to-tiramisu-why-food-is-the-new-fuel-for-run-clubs-2999247-2026-09-21",
+      "headline": "Why Indians are running for kachoris, tiramisu and modak at 5 amWould you join a run club that treats you to kachori, ice cream or tiramisu along the way?"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/story/iit-bombay-replaces-hostel-ceiling-fans-wall-mounted-ones-student-suicides-says-move-part-of-planned-renovation-2999730-2026-09-21",
+      "headline": "IIT Bombay gets wall-mounted fans after student suicide, says move part of renovationIIT Bombay has begun replacing ceiling fans in hostel rooms with wall-mounted units after the first batch reached campus. The move has drawn attention after recent student deaths, though the institute says it is part of a planned hostel renovation."
     },
     {
       "sentiment": "positive",
@@ -236,13 +256,33 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/google-india-child-sexual-abuse-material-direct-reporting-law-enforcement-2999863-2026-09-21",
+      "headline": "Google to report online child sexual abuse material directly to governmentA Google spokesperson described the proposed change as part of Google's ongoing discussions with the Indian government."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/radha-ambika-cheque-dispute-rs-46-crore-police-complaint-chennai-2999502-2026-09-21",
+      "headline": "Actor Radha files Rs 46 crore cheque fraud complaint against sister Ambika, brotherActor Radha has filed a police complaint against her sister Ambika and brother Mallikarjuna over old signed cheques. The complaint ties the alleged cheque misuse to a wider family property dispute now under police scrutiny."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/education-today/news/story/iit-bombay-sahil-wakode-case-faculty-forum-backs-doolla-campus-march-2999657-2026-09-21",
       "headline": "From Sahil's death to Prof Doolla's removal: Inside IIT Bombay's suicide rowIIT Bombay student Sahil Wakode's death by suicide has triggered protests, caste harassment allegations and an institutional probe. As Professor Suryanarayana Doolla faces scrutiny, the Faculty Forum has defended him, while students demand accountability and reforms."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/air-india-express-passengers-seen-standing-as-flight-moves-on-runway-airline-reacts-2999597-2026-09-21",
-      "headline": "Air India Express passengers seen standing as flight moves on runway, airline reactsIn the video, several Air India Express passengers could be seen standing inside the aircraft as it appeared to move along the runway."
+      "url": "https://www.indiatoday.in/india/story/uttar-pradesh-division-ajay-rai-attacks-op-rajbhar-purvanchal-cm-remark-2999883-2026-09-21",
+      "headline": "OP Rajbhar wants UP split into 4; Ajay Rai slams his 'intellectual bankruptcy'Asked about the Congress's position on dividing Uttar Pradesh, Ajay Rai said it was a policy matter and that he could comment only after consulting the party's national leadership."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/cities/bhopal/story/bhopal-hotel-lift-incident-ias-officers-wife-trapped-five-star-hotel-sealed-after-safety-lapses-2999869-2026-09-21",
+      "headline": "IAS officer's wife stuck in lift, rescued. Then came fire, food checks, more lapsesA senior IAS officer's wife was rescued after being trapped in a lift at a Bhopal five-star hotel. A civic inspection found lapses in lift maintenance, fire safety and documentation, prompting the sealing of three lifts and plans for wider inspections of hotels, hospitals and multi-storey buildings."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/trending-news/story/karnataka-man-rides-with-5-children-packed-into-metal-basket-one-seated-in-front-2999673-2026-09-21",
+      "headline": "Karnataka man rides with 5 children packed into metal basket, one seated in frontA video showed a man riding a two-wheeler in Karnataka with five children in a rear metal enclosure and another child seated in front."
     },
     {
       "sentiment": "positive",
@@ -261,8 +301,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/what-s-hot/story/from-kachoris-to-tiramisu-why-food-is-the-new-fuel-for-run-clubs-2999247-2026-09-21",
-      "headline": "Why Indians are running for kachoris, tiramisu and modak at 5 amWould you join a run club that treats you to kachori, ice cream or tiramisu along the way?"
+      "url": "https://www.indiatoday.in/movies/celebrities/story/shah-rukh-khan-visits-lalbaugcha-raja-with-suhana-and-gauri-greets-fans-pics-2999820-2026-09-21",
+      "headline": "SRK bows down to Lalbaugcha Raja, visits pandal with Suhana and Gauri. VideoActor Shah Rukh Khan offered prayers at Mumbai's Lalbaugcha Raja pandal, joined by Gauri and Suhana. The visit continued his annual association with the festival as crowds and tight security marked the occasion."
     },
     {
       "sentiment": "positive",
@@ -271,56 +311,36 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/asian-games/story/suchika-tariyal-asian-games-mma-rules-hui-hoon-teo-bronze-2999290-2026-09-21",
-      "headline": "How 700 grams cost Suchika Tariyal a shot at historic Asian Games MMA gold medalSuchika Tariyal's dream of making it to the final of the women's traditional 60 kg category was ended with a loss to Hui Hoon Teo with the weight rule proving to be the difference. Here's how the Indian MMA star suffered a heartbreaking loss in the semi-final due to the rules of the sport."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/trending-news/story/up-men-caught-cooking-meat-on-funeral-pyre-as-part-of-tantric-ritual-arrested-2999521-2026-09-21",
-      "headline": "UP men caught cooking meat on funeral pyre as part of tantric ritual, arrestedThree men were arrested in Uttar Pradesh's Shahjahanpur after the deceased's son found them cooking chicken on his father's burning pyre."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/radha-ambika-cheque-dispute-rs-46-crore-police-complaint-chennai-2999502-2026-09-21",
-      "headline": "Actor Radha files Rs 46 crore cheque fraud complaint against sister Ambika, brotherActor Radha has filed a police complaint against her sister Ambika and brother Mallikarjuna over old signed cheques. The complaint ties the alleged cheque misuse to a wider family property dispute now under police scrutiny."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/iit-bombay-professor-suryanarayana-doolla-faculty-forum-student-death-inquiry-2999628-2026-09-21",
-      "headline": "Not suspended: IIT-B faculty forum backs Prof Doolla after student suicideIIT Bombay's Faculty Forum has backed Professor Suryanarayana Doolla after his removal as Dean (Administrative Affairs) following Sahil Wakode's death by suicide on campus. The forum clarified that Doolla remains a faculty member and that his removal from the deanship was temporary, to facilitate an independent inquiry."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/tamil-nadu/story/tamil-nadu-free-bus-travel-women-vetri-payanam-october-2-launch-ptag-2999430-2026-09-21",
       "headline": "Vijay govt expands free bus scheme for Tamil Nadu women ahead of Oct 2 launchTamil Nadu Chief Minister C Joseph Vijay reviewed final preparations for the statewide launch of the 'Vetri Payanam' scheme on October 2. The expanded free bus scheme aims to widen women's access to work, education and healthcare."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/iit-bombay-student-suicide-shama-mohamed-backs-professor-suryanarayana-doolla-after-protests-later-clarifies-2999413-2026-09-21",
-      "headline": "I stand with Professor Doolla: Congress's Shama Mohamed on IIT-B student suicide rowCongress leader Shama Mohamed backed IIT-Bombay professor Suryanarayana Doolla after his removal following student Sahil Wakode's death. Her remarks drew criticism and came as protests, an FIR and fresh demands for an independent enquiry continued."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/shah-rukh-khan-visits-lalbaugcha-raja-with-suhana-and-gauri-greets-fans-pics-2999820-2026-09-21",
-      "headline": "SRK bows down to Lalbaugcha Raja, visits pandal with Suhana and Gauri. VideoActor Shah Rukh Khan offered prayers at Mumbai's Lalbaugcha Raja pandal, joined by Gauri and Suhana. The visit continued his annual association with the festival as crowds and tight security marked the occasion."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/iit-bombay-professor-suryanarayana-doolla-under-scrutiny-after-sahil-wakode-death-2999168-2026-09-21",
-      "headline": "Who is Suryanarayana Doolla, the IIT-Bombay professor at the heart of student protest?An IIT-Bombay professor is under scrutiny after a second-year student, Sahil Wakode, died by suicide after allegedly being caught cheating with the help of ChatGPT. The case has sparked campus protests, an FIR, and calls for an independent inquiry."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/csk-zaheer-khan-new-head-coach-ipl-2999660-2026-09-21",
-      "headline": "IPL: CSK appoint Zaheer Khan as head coach, replacing Stephen FlemingWorld Cup-winning former India fast bowler Zaheer Khan takes over as the head coach of Chennai Super Kings, ending weeks of speculation after Stephen Fleming stepped down from the role. Zaheer is expected to work closely with MS Dhoni at CSK, who will look to bounce back in IPL 2027."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sunday-special/story/hilsa-fish-india-bangladesh-trade-padma-ilish-kolkata-fish-market-dhaka-2998438-2026-09-20",
-      "headline": "Why hilsa-exporter Bangladesh is importing the fish from GujaratBangladesh, the biggest producer and exporter of hilsa, is importing hundreds of tonnes of the prized fish from India. While Padmar Ilish is sought after in India, Bangladesh is importing hilsa from Gujarat, especially Bharuch. Here's how taste, supply, prices and processing are feeding the two-way trade."
+      "url": "https://www.indiatoday.in/world/us-news/story/us-news-proposition-40-billionaire-tax-california-abhijit-banerjee-esther-duflo-gavin-newsom-2028-2999640-2026-09-21",
+      "headline": "World's first billionaire tax soon? India-born Nobel-winning economist is backing itSix Nobel-winning economists pen open letter, backing California's plan to impose a 5% one-time tax on billionaires. They say this will kick-start a movement for wealth tax in the US and across the world."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ms-dhoni-familiar-face-zaheer-khan-csk-head-coach-stephen-fleming-2999903-2026-09-21",
+      "headline": "MS Dhoni's call for a familiar face leads CSK to Zaheer Khan as new head coach MS Dhoni's preference for a familiar face played a key role in Chennai Super Kings appointing former India pacer Zaheer Khan as head coach. Zaheer replaces Stephen Fleming, who led CSK for 18 seasons."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/hess-olympiad-india-vs-uzbekistan-nih-al-sarin-loss-defending-champions-2999902-2026-09-21",
+      "headline": "Chess Olympiad: India's men lose to Uzbekistan, surrender sole lead Defending champions India suffered their first defeat at the Chess Olympiad, losing 1.5-2.5 to Uzbekistan as Nihal Sarin lost to Nodirbek Yakubboev and the Uzbek team moved into sole lead"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-japan-t20i-shreyas-iyer-weather-allows-historic-match-2999877-2026-09-21",
+      "headline": "Shreyas Iyer excited for Japan T20I, hopes rain doesn't spoil historic contest Shreyas Iyer is excited for India's historic first men's T20I against Japan but hopes rain does not disrupt the landmark clash in Sano. India's preparations have been affected by adverse weather, while Iyer looks forward to embracing Japanese culture and a new cricketing challenge."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/asian-games/story/rudrankksh-patil-asian-games-ordeal-emergency-landing-hotel-mix-up-bronze-2999865-2026-09-21",
+      "headline": "A bumpy road to Asian Games bronze: Rudrankksh Patil's chaotic journey to Japan Rudrankksh Patil opens up about the chaotic journey to Japan for the Asian Games, revealing an emergency landing, hotel mix-up and long bus rides before winning bronze in the 10m air rifle event"
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-japan-t20i-typhoon-dujuan-weather-forecast-match-2999832-2026-09-21",
@@ -359,22 +379,22 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/asian-games/story/varun-sanyal-asian-games-mma-forced-cut-weight-alone-sauna-withdrawal-2999658-2026-09-21",
-      "headline": "Forced to cut weight alone: MMA fighter Varun Sanyal breaks silence on withdrawal Asian Games 2026: Varun Sanyal was forced to withdraw from the Asian Games MMA event after blacking out during a sauna session while cutting weight alone. The 23-year-old has now questioned why he was left without support after his late call-up."
+      "headline": "Forced to cut weight alone: MMA fighter Varun Sanyal breaks silence on withdrawalAsian Games 2026: Varun Sanyal was forced to withdraw from the Asian Games MMA event after blacking out during a sauna session while cutting weight alone. The 23-year-old has now questioned why he was left without support after his late call-up."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/csk-zaheer-khan-new-head-coach-ipl-2999660-2026-09-21",
-      "headline": "IPL: CSK appoint Zaheer Khan as head coach, replacing Stephen Fleming World Cup-winning former India fast bowler Zaheer Khan takes over as the head coach of Chennai Super Kings, ending weeks of speculation after Stephen Fleming stepped down from the role. Zaheer is expected to work closely with MS Dhoni at CSK, who will look to bounce back in IPL 2027."
+      "headline": "IPL: CSK appoint Zaheer Khan as head coach, replacing Stephen FlemingWorld Cup-winning former India fast bowler Zaheer Khan takes over as the head coach of Chennai Super Kings, ending weeks of speculation after Stephen Fleming stepped down from the role. Zaheer is expected to work closely with MS Dhoni at CSK, who will look to bounce back in IPL 2027."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/badminton/story/india-vs-japan-quarter-finals-pv-sindhu-key-as-women-chase-first-medal-since-2014-2999565-2026-09-21",
-      "headline": "India vs Japan: Can PV Sindhu help the women's team end 12-year drought? Asian Games 2026: India's men's and women's teams will face hosts Japan in the quarter-finals on Tuesday. PV Sindhu will play both singles and doubles as the women's team look to secure a semi-final berth and guarantee a medal."
+      "headline": "India vs Japan: Can PV Sindhu help the women's team end 12-year drought?Asian Games 2026: India's men's and women's teams will face hosts Japan in the quarter-finals on Tuesday. PV Sindhu will play both singles and doubles as the women's team look to secure a semi-final berth and guarantee a medal."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-u19-vs-australia-aaryavir-sehwag-batting-2999428-2026-09-21",
-      "headline": "Aaryavir Sehwag impresses in youth ODIs as India post 341 vs Australia U19 Aaryavir Sehwag scored a patient 47 in India's second U19 ODI against Australia, impressing in the 2nd Youth ODI. The young Sehwag set India up for a big total before getting out at 47."
+      "headline": "Aaryavir Sehwag impresses in youth ODIs as India post 341 vs Australia U19Aaryavir Sehwag scored a patient 47 in India's second U19 ODI against Australia, impressing in the 2nd Youth ODI. The young Sehwag set India up for a big total before getting out at 47."
     },
     {
       "sentiment": "positive",
@@ -455,26 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/video/elavenil-valarivan-to-india-today-taking-lessons-is-actually-more-important-ytvd-2999060-2026-09-20",
       "headline": "Elavenil Valarivan to India Today: 'Taking Lessons Is Actually More Important'Indian shooter Elavenil Valarivan reflected on opening India's medal account at the Asian Games with two silver medals in the team and individual ten-meter air rifle events in an interview with India Today. She described her journey since the 2018 Jakarta Asian Games as pleasant, emphasizing the value of continuous learning. Speaking about her performance, Valarivan admitted, \"I did fumble a bit in the end\" and noted that she must work on her pace for the final shots. She credited the Indian shooting contingent's success to strong team confidence, mutual support, and inspiration drawn from younger athletes. Valarivan also highlighted the importance of mental focus in the sport, explaining that success relies on tuning out external distractions and concentrating fully on executing one single shot at a time."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/asian-games/story/india-asian-games-schedule-september-21-medal-events-timings-full-list-2999057-2026-09-20",
-      "headline": "India at Asian Games, September 21: IND vs PAK in spotlight, shooting medals at stakeIndia at Asian Games, schedule for September 21: India face Pakistan in men's and women's table tennis, while the women's hockey team takes on Indonesia. Shooting and swimming offer medal chances, with Suchika Tariyal, Sumit, Roshibina Devi and Aryan also set for key contests."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-india-do-not-rush-sanath-jayasuriya-playing-xi-2999050-2026-09-20",
-      "headline": "Don't rush Vaibhav Sooryavanshi in playing XI: Sri Lanka great warns IndiaVaibhav Sooryavanshi could be India's future, but the teenager should not be rushed into the playing XI, former Sri Lanka captain Sanath Jayasuriya said on Sunday, backing the young batter to make the most of his opportunities when they come his way."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/asian-games/video/elavenil-valarivan-japan-preparation-interview-shooting-silver-asian-games-2999031-2026-09-20",
-      "headline": "Elavenil Valarivan credits Japan-style training for Asian Games silver doubleElavenil Valarivan credited India's Japan-style preparation after the rifle shooter helped the country secure two silver medals on the opening day of the shooting competition at the Aichi-Nagoya Asian Games on Sunday."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/asian-games/story/asian-games-day-1-wrap-elavenil-double-silver-suchika-mma-medal-shafali-century-2998987-2026-09-20",
-      "headline": "Day 1 wrap: Elavenil shoots a double, Suchika makes MMA debut memorableAsian Games 2026 Day 1 results and wrap: Elavenil Valarivan's double silver, Suchika Tariyal's historic MMA medal and Shafali Verma's record-breaking century headlined India's eventful opening day, as hockey and badminton teams also made emphatic starts in Aichi-Nagoya."
     }
   ],
   "education": [
