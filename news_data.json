@@ -1,9 +1,34 @@
 {
   "business": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/real-estate/story/home-sales-fall-6-in-top-9-cities-pune-chennai-among-worst-hit-3004560-2026-09-28",
+      "headline": "Home sales fall 6% in top 9 cities; Pune, Chennai among worst hitHomebuyers remained cautious in the July-September quarter, with sales across nine major cities declining 6%. Pune and Chennai recorded some of the steepest falls."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/why-bank-strike-deferred-iba-ufbu-meeting-agreement-5-day-working-banking-week-saturday-holidays-3004535-2026-09-28",
+      "headline": "Why was the 3-day bank strike deferred? What bank customers need to know nowThe nationwide bank strike planned for September 28 to 30 was deferred after the IBA and UFBU reached an understanding. The move shifts the dispute to fresh talks on Saturday holidays, the PLI scheme and other pending issues."
+    },
+    {
       "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/story/why-market-falling-today-sensex-nifty-crash-reason-bse-down-nse-below-23000-crude-oil-fii-selling-3004512-2026-09-28",
+      "headline": "Sensex crashes 1000 points as financial stocks tank, investors lose Rs 6 lakh croreAt 10:46 am, the Sensex was down by 1010.84 points, or 1.37%, at 72,884.90, while the Nifty 50 fell 315.75 points, or 1.36%, to 22,842.75."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/market/story/market-fall-opening-sensex-falls-500-points-nifty-below-23000-hdfc-bank-down-1-3004495-2026-09-28",
+      "headline": "Sensex, Nifty open lower as rising crude, global risks hit sentimentThe Sensex was at 73,188.04 at 9:25 am, down 707.70 points or 0.96%. The index opened at 73,734.83. The Nifty 50 was at 22,914.45, down 226.05 points or 0.98%, after opening at 23,064.90."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/story/are-banks-open-today-bank-strike-deferred-union-demand-5-day-working-pil-3004485-2026-09-28",
+      "headline": "Are banks open or closed today? Here's what customers need to knowThe strike was scheduled from September 28 to September 30. However, a September 27 circular issued by the (United Forum of Bank Unions) UFBU said an understanding had been reached with the IBA and that the proposed strike and agitation programmes would be deferred."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/bank-strike-deferred-after-meeting-between-bank-body-and-unions-tonight-3004405-2026-09-27",
-      "headline": "3-day bank strike deferred after talks, panel to examine all Saturdays as holidaysThe joint committee will consider declaring the remaining Saturdays bank holidays, examine alternatives and consult stakeholders, including customers."
+      "headline": "3-day bank strike deferred after talks, panel to examine all Saturdays as holidaysBank unions deferred their three-day nationwide strike after the IBA agreed to form a high-level panel to examine the five-day banking week demand. Bank branches will open as usual today."
     },
     {
       "sentiment": "positive",
@@ -74,34 +99,69 @@
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/market/story/market-crash-irdai-commission-reform-sensex-ends-1248-points-lower-nifty-below-23100-pb-fintech-down-34-3001934-2026-09-24",
       "headline": "Sensex ends 1,248 points lower, Nifty below 23,100; PB Fintech down 34%The Sensex closed at 73,580.54, down 1,247.71 points or 1.67%. The index had opened at 74,272.40. The Nifty 50 ended at 23,063.10, down 383.70 points or 1.64%, after opening at 23,221.80."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/india-gdp-growth-2026-global-agencies-raise-fy27-forecasts-after-q1-fitch-moodys-3001751-2026-09-24",
-      "headline": "India's GDP numbers sparked debate at home. Here's how the world reactedIndia's 7.8% GDP growth for the April-June quarter has led major global institutions to raise their FY27 forecasts. The upgrades have come even as debate continues at home over the new GDP series and the durability of current momentum."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/market/story/pb-fintech-share-price-crash-today-policybazaar-parent-falls-on-irdai-commission-proposal-3001829-2026-09-24",
-      "headline": "PB Fintech shares crash 30%: Why did Policybazaar parent fall so sharply today?At 12:57 pm, PB Fintech shares were trading at Rs 1,320.10, down Rs 566.20, or 30.02%, according to the market data. The stock's sharp decline came as the Sensex and Nifty also fell more than 1%, with financial and NBFC stocks among the biggest losers."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/tata-sons-agm-quorum-issue-chandrasekaran-reappointment-nclt-srtt-tata-trust-3001766-2026-09-24",
-      "headline": "Tata Sons plans AGM within a month, but Tata Trust restrictions may pose a hurdleTata Sons is preparing to reconvene its AGM within a month amid a continuing quorum dispute linked to Sir Ratan Tata Trust restrictions. The standoff keeps N Chandrasekaran's reappointment pending and could push the company towards the NCLT."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/story/government-cuts-import-duty-on-palm-sunflower-soyabean-oil-amid-sharp-rise-in-retail-prices-3001740-2026-09-24",
-      "headline": "Govt cuts import duty on crude, refined edible oils amid rise in retail pricesThe basic customs duty (BCD) on crude soybean oil and crude palm oil has been reduced to 5% from 10%, while the duty on crude sunflower oil has been cut to zero from 10%."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/market/story/nse-share-price-opening-at-rs-1800-on-bse-debut-stock-rise-5-perent-3001723-2026-09-24",
-      "headline": "NSE shares jump 5% after listing at Rs 1,800NSE listed at Rs 1,800 on the BSE and climbed to Rs 1,878 in debut trade. The listing followed a 5.71-times-subscribed IPO and put investor focus on valuation and trading-driven earnings."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/karthik-subbaraj-dorothy-transgender-representation-watch-film-before-judging-3004554-2026-09-28",
+      "headline": "There's hatred, but it started conversation: Dorothy maker on transphobic criticism Director Karthik Subbaraj has pushed back against social media criticism over transgender representation in Dorothy. He said the conversation should begin after audiences watch the film and move beyond online outrage."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/nayanthara-vignesh-shivan-twin-sons-uyir-ulag-turn-four-with-a-roaring-birthday-bash-photos-3004541-2026-09-28",
+      "headline": "Pics: Nayanthara-Vignesh's twin sons turn four with a roaring birthday bash Nayanthara and Vignesh Shivan celebrated twins Uyir and Ulag's fourth birthday with a lavish jungle-themed party. Take a look at the adorable family moments, themed cakes and decorations from the celebrations."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/music/story/2026-mtv-vmas-winners-madonna-leads-with-seven-awards-bts-best-group-taylor-swift-wins-big-3004544-2026-09-28",
+      "headline": "VMAs 2026: Madonna scores 7, Taylor Swift lands top honours, BTS sweep 3 awards Madonna, BTS and Taylor Swift were among the top winners at the 2026 MTV Video Music Awards in Los Angeles. The night also featured milestone honours, a long-awaited Madonna performance and tribute sets for music icons."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/music/story/taylor-swift-patient-zero-music-video-dakota-johnson-colin-farrell-fan-reaction-3004503-2026-09-28",
+      "headline": "Taylor Swift goes gothic with Patient Zero and Swifties are loving it Pop star Taylor Swift's Patient Zero video has Swifties hooked, with fans calling the gothic visual chilling, beautiful and cinematic. Starring Dakota Johnson and Colin Farrell, the self-directed video turns a love triangle into a haunting ghost story."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/mahakavya-shri-ramayan-katha-viral-spectacles-image-makers-say-promo-art-3004522-2026-09-28",
+      "headline": "Mahakavya Shri Ramayan Katha makers react to viral 'spectacles' image The makers of Mahakavya Shri Ramayan Katha \u2013 Shri Ram Ki said a viral image showing a vanar in spectacles is promotional artwork, not a scene from the film. As criticism mounted online, the team and actor Anjali Arora urged audiences to watch the theatrical version before passing judgement."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/hanuman-ansh-box-office-day-52-crosses-rs-400-crore-worldwide-3004506-2026-09-28",
+      "headline": "Hanuman Ansh box office Day 52: Spiritual drama crosses Rs 400 crore worldwide Hanuman Ansh collected Rs 9 crore nett on Day 52 and crossed Rs 400 crore worldwide. The eighth-week milestone came even as new releases intensified box-office competition."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/the-paradise-box-office-collection-day-4-nani-film-crosses-rs-138-25-crore-worldwide-3004490-2026-09-28",
+      "headline": "The Paradise box office Day 4: Nani film grosses Rs 138 crore amid criticism Nani's The Paradise posted a slight rise on Sunday and reached Rs 138.25 crore worldwide in four days. The steady weekend run came despite mixed audience reactions, with the Telugu version leading collections."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/the-vvaan-box-office-day-3-sidharth-malhotra-tamannaah-film-show-growth-3004488-2026-09-28",
+      "headline": "The Vvaan box office Day 3: Sidharth-Tamannaah film shows strong growth The Vvaan - Force of the Forest, starring Sidharth Malhotra and Tamannaah Bhatia, saw a strong box office performance over its first weekend, crossing Rs 33 crore nett in India by Day 3. Despite facing stiff competition from Nani's The Paradise and the long-running Hanuman Ansh, the film's folk-horror theme has garnered mixed reviews, praised for its premise but critiqued for its execution."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/allu-sirish-hyderabad-temple-loud-music-complaint-police-action-3004478-2026-09-28",
+      "headline": "Actor Allu Sirish seeks police action over temple music till 3 am Actor Allu Sirish urged Hyderabad City Police to act on loud music played by a Hanuman temple in Hyderabad's Vinobha Nagar till 2 or 3 am. He said residents, including elders, children and working professionals have been disturbed for days despite repeated complaints."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/govinda-ssunita-ahuja-old-spotted-together-at-mumbai-airport-amid-marriage-rumours-3004462-2026-09-28",
+      "headline": "Govinda-Ssunita's old airport video resurfaces amid his affair rumours with co-star An old video of Govinda and Ssunita Ahuja at the airport has resurfaced, intensifying speculation about their marriage and his alleged affair with co-star Komal Rani Swarnkar. Both Govinda and Komal have not confirmed any relationship, while Ssunita's recent remarks hint at betrayal."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/roadies-rebirth-pits-ogs-against-newgs-when-where-to-watch-rannvijays-show-3004456-2026-09-28",
+      "headline": "Roadies Rebirth pits OGs against NewGs: When, where to watch Rannvijay's show Roadies Rebirth will return with Rannvijay Singha as host and a new OGs vs NewGs format. The season also marks the show's first simultaneous rollout on Netflix, JioHotstar and MTV."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/television/story/ritesh-pal-wins-indias-best-dancer-season-5-takes-home-rs-15-lakh-3004455-2026-09-28",
+      "headline": "Ritesh Pal wins India's Best Dancer Season 5, takes home Rs 15 lakh Ritesh Pal from Raipur won India's Best Dancer Season 5 with choreographer Pratik Utekar. The win capped a season that pushed the duo beyond their contemporary roots and earned him Rs 15 lakh."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/television/story/bigg-boss-20-episode-22-salman-khan-demands-prison-sentence-for-fake-ai-video-creators-3004441-2026-09-28",
@@ -136,103 +196,93 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/television/story/fatima-sana-shaikh-praises-salman-khan-for-shutting-down-trolls-on-bigg-boss-20-3004118-2026-09-27",
       "headline": "Fatima Sana Shaikh praises Salman Khan for shutting down trolls on Bigg Boss 20 A new promo for Bigg Boss 20 shows actor Fatima Sana Shaikh praising host Salman Khan for shutting down online trolls. Her remarks highlighted the significant impact of public figures taking a stand against cyberbullying."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/kashmera-shah-defends-ssunita-questions-rani-swarnakars-claims-about-govinda-3004125-2026-09-27",
-      "headline": "Kashmera Shah defends Ssunita, questions Rani Swarnakar's claims about Govinda Actor Kashmera Shah has stepped in to defend Ssunita Ahuja following a social media post containing severe accusations by Rani Swarnkar. Reaffirming her solidarity, the actor mentioned that she will firmly stand by her family."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/television/story/karan-wahi-rules-out-bigg-boss-20-wild-card-entry-says-not-coming-this-year-3004131-2026-09-27",
-      "headline": "Karan Wahi rules out Bigg Boss 20 wild card entry, says not coming this year Karan Wahi has denied entering Bigg Boss 20 as a wildcard contestant. The actor cleared the air around his viral UNO card post."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/ajay-devgn-silences-kapil-sharma-goa-joke-with-an-alcohol-jibe-drishyam-the-conclusion-the-great-indian-kapil-show-3004113-2026-09-27",
-      "headline": "Ajay Devgn silences Kapil Sharma's Goa joke with an alcohol jibe Ajay Devgn took a sharp alcohol jibe at Kapil Sharma during The Great Indian Kapil Show Season 5 while promoting Drishyam: The Conclusion. The actor turned Kapil's Goa joke into a pointed comeback, leaving the comedian to explain his side."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/kriti-sanon-marks-daughter-day-by-flagging-women-safety-now-let-that-sink-in-3004071-2026-09-27",
-      "headline": "Now let that sink in: Kriti Sanon marks Daughter's Day by flagging women's safety On Daughter's Day, Kriti Sanon used Instagram to spotlight the daily safety fears women face in public spaces. The actor's post came amid outrage over the Jamui assault case and renewed debate over patriarchy, moral policing and public priorities."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/television/story/salman-khan-schools-rhiti-tiwari-on-bigg-boss-20-you-are-manoj-tiwari-daughter-not-dolly-bindra-3004052-2026-09-27",
-      "headline": "You are Manoj Tiwari's daughter, not Dolly Bindra: Salman schools Rhiti on BB 20 Salman Khan pulled up Rhiti Tiwari on Weekend Ka Vaar over her language, threat to Qazi Touqeer and remarks against Uditi Singh during the diss battle. He said her allegations and conduct had crossed a line, while also questioning her claim of being a rockstar."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/rise-fall-2-viral-clip-tej-pratap-swara-bhasker-jai-sanatan-radhe-radhe-chant-3004008-2026-09-27",
-      "headline": "Did Tej Pratap roast Swara Bhasker? 'Jai Sanatan' moment on Rise & Fall 2 goes viral The first episode of Rise & Fall 2 saw Swara Bhasker asking Tej Pratap Yadav to introduce her to his father, Lalu Prasad, by the end of the show. Soon after, Tej Pratap was seen chanting \"Radhe Radhe\" and \"Jai Sanatan\" with co-contestants Shehzad Poonawalla, Manish Kashyap and Siwet Tomar."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/the-vvaan-box-office-collection-day-2-sidharth-malhotra-tamannaah-bhatia-film-picks-up-steam-3003975-2026-09-27",
-      "headline": "The Vvaan box office Day 2: Sidharth Malhotra, Tamannaah's film picks up steam Sidharth Malhotra and Tamannaah's The Vvaan - Force of the Forest saw a rise in box office occupancy on Day 2, with stronger footfall in night shows. The film gained momentum across key cities amid competition from Nani's The Paradise and Hanuman Ansh."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/the-paradise-box-office-collection-day-3-nani-film-tops-rs-100-crore-worldwide-3003950-2026-09-27",
-      "headline": "The Paradise box office Day 3: Nani's film tops Rs 100 crore worldwide Nani's The Paradise crossed Rs 100 crore worldwide by Day 3 after a strong opening. The film's run remains driven by the Telugu market as Saturday collections held steady."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/hanuman-ansh-box-office-collection-day-51-spiritual-film-stays-strong-despite-competition-3003946-2026-09-27",
-      "headline": "Hanuman Ansh box office Day 51: Spiritual film stays strong despite competition Hanuman Ansh posted another weekend jump on Day 51 and stayed firm despite fresh releases. The sustained turnout pushed its worldwide gross to Rs 389.85 crore and underscored its long theatrical run."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/mahakavya-shri-ramayan-katha-poster-vanar-wearing-glasses-triggers-memes-anjali-arora-sita-3003830-2026-09-27",
-      "headline": "Vanar wearing glasses in Mahakavya Shri Ramayan Katha poster triggers memes A promotional poster for Mahakavya Shri Ramayan Katha has sparked widespread online discourse after viewers spotted Sugriv wearing spectacles, prompting jokes about the Treta Yuga and fresh scrutiny over the film's production values."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/vicky-alia-tease-love-war-chemistry-at-manish-malhotras-mijwan-fashion-show-3003902-2026-09-27",
-      "headline": "Vicky, Alia tease Love & War chemistry at Manish Malhotra's Mijwan fashion show Actors Vicky Kaushal and Alia Bhatt turned showstoppers for Manish Malhotra's Mijwan Fashion Show in Mumbai, presenting a preview of their on-screen pairing in Love & War. The runway appearance coincided with the release of new character posters for the Sanjay Leela Bhansali film."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/television/story/bigg-boss-20-stepfather-ekam-bawa-challenges-rhiti-tiwaris-rs-25k-allowance-claim-3003780-2026-09-26",
-      "headline": "Bigg Boss 20: Stepfather Ekam Bawa challenges Rhiti Tiwari's Rs 25K allowance claim Bigg Boss 20 contestant Rhiti Tiwari's account of financial struggle has been challenged by her stepfather, Ekam Bawa, who questioned her declared lifestyle, family history, and behaviour inside the house."
     }
   ],
   "general news": [
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/story/bank-strike-deferred-after-meeting-between-bank-body-and-unions-tonight-3004405-2026-09-27",
-      "headline": "3-day bank strike deferred after talks, panel to examine all Saturdays as holidaysThe joint committee will consider declaring the remaining Saturdays bank holidays, examine alternatives and consult stakeholders, including customers."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/cities/other-cities/story/ujjain-mosque-demolition-clash-road-widening-project-stones-thrown-madhya-pradesh-3004553-2026-09-28",
+      "headline": "Mosque razing turns flashpoint in Ujjain, stones thrown, protesters tear-gassedMore than 2,000 police personnel were deployed in the area, with barricades placed within 500 metres of the religious structure to restrict movement."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/lpu-suspends-regular-classes-for-10-days-amid-campus-unrest-midterms-postponed-3004448-2026-09-28",
-      "headline": "LPU suspends classes for 10 days amid campus unrest, midterms postponedLovely Professional University suspended classes and postponed exams after violent protests over an alleged rape on campus. Police have registered an FIR and formed an SIT as the university denies the allegation and asks students not to spread unverified claims."
+      "url": "https://www.indiatoday.in/india/law-news/story/cant-help-but-draw-parallels-to-nirbhaya-case-scs-tough-words-as-it-takes-note-of-delhi-rape-cases-3004545-2026-09-28",
+      "headline": "Can't help but draw parallels to Nirbhaya case: SC takes note of Delhi rapesThe Supreme Court took note of the recent rape cases in Delhi and sharply rebuked the Delhi Police and authorities, saying the incidents \"starkly underline a systematic failure\" to guarantee basic public safety. The court said it could not help but draw \"painful parallels\" with the 2012 Nirbhaya case."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/asian-games/story/asian-games-2026-live-updates-september-28-events-athletics-tennis-boxing-medals-3004428-2026-09-28",
-      "headline": "Live: Archers in action, Manu Bhaker looks to impress in 25m air pistolAsian Games Live Updates, September 28: India are set to begin their campaign in tennis with Sumit Nagal in action. India will also be looking to do well in hockey, athletics and other events."
+      "headline": "Live: Esha Singh wins pistol silver after thrilling shooting finalAsian Games Live Updates, September 28: India bring in two medals as they bag a pistol silver and bronze in Kurash. Esha Singh brought home the silver medal in women's 25m air pistol individual final and Pincky Balhara secured bronze in Kurash."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/vinod-kambli-health-update-thane-care-centre-treatment-video-3004056-2026-09-27",
-      "headline": "Vinod Kambli struggles to speak coherently in video from elderly care centerVinod Kambli said he is undergoing treatment at a Thane elderly care centre and praised its facilities. His latest video reassured fans after months of concern over his recurring health troubles."
+      "url": "https://www.indiatoday.in/india/story/boeing-737-max-software-autopilot-issue-96-planes-operated-air-india-express-akasa-air-impact-3004491-2026-09-28",
+      "headline": "96 planes in India at risk? What Boeing's 737 MAX autopilot glitch meansBoeing has identified a software glitch affecting automated flight guidance on some 737 MAX aircraft, potentially affecting 96 planes operated by Air India Express and Akasa Air. The company said it is working on a permanent fix on the issue."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/asian-games/story/asian-games-lovlina-borgohain-gold-hunt-cwg-silver-journey-exclusive-3004411-2026-09-28",
-      "headline": "Lovlina's next fight is for Asian Games gold, but the journey matters moreLovlina Borgohain has unfinished business at the Asian Games. After a difficult phase following the Paris Olympics and a silver medal in Glasgow, the Tokyo Olympic bronze medallist is chasing gold in Nagoya, this time in the 75kg category"
+      "url": "https://www.indiatoday.in/science/story/iit-medical-schools-mbbs-physician-engineers-kharagpur-iit-madras-kanpur-physician-engineers-kamakoti-3004465-2026-09-28",
+      "headline": "Three IITs are building medical schools. The real target is not more doctorsIIT Kharagpur, IIT Madras and IIT Kanpur are all building medical schools, but their directors say they are not chasing more doctors. They want physician-engineers, a hybrid professional India does not yet produce."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/technology/news/story/government-changes-mobile-recharge-rules-here-is-what-jio-airtel-and-vi-users-need-to-know-3004078-2026-09-28",
+      "headline": "Govt changes mobile recharge rules. What Jio, Airtel and Vi users must knowTRAI has issued new consumer protection rules requiring telecom operators to offer more voice-and-SMS-only recharge vouchers. The amendment is aimed at giving low-income and non-data users cheaper, shorter-validity and monthly renewal options."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/story/why-market-falling-today-sensex-nifty-crash-reason-bse-down-nse-below-23000-crude-oil-fii-selling-3004512-2026-09-28",
+      "headline": "Sensex crashes 1000 points as financial stocks tank, investors lose Rs 6 lakh croreAt 10:46 am, the Sensex was down by 1010.84 points, or 1.37%, at 72,884.90, while the Nifty 50 fell 315.75 points, or 1.36%, to 22,842.75."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/health/story/fssai-front-of-pack-food-labels-sc-hears-industry-objections-to-red-warnings-3004582-2026-09-28",
+      "headline": "Food giants seek rethink of red warning labels as SC hears FSSAI planThe Supreme Court is hearing objections to FSSAI's proposed front-of-pack food warnings from industry bodies and petitioners. The case could shape how packaged foods in India disclose high sugar, salt and fat."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/trending-news/story/little-boys-tearful-reunion-with-parents-at-delhi-metro-thanks-to-cisf-jawan-3004475-2026-09-28",
+      "headline": "Little boy's tearful reunion with parents at Delhi Metro, thanks to CISF jawanA Central Industrial Security Force (CISF) jawan rescued a crying boy at a Delhi Metro station and reunited him with his parents. The video has gone viral with over a million views."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/pm-modi-tribute-to-organisational-genius-ashok-singhal-on-birth-centennary-3004511-2026-09-28",
+      "headline": "Ashok Singhal was a great personality committed to nation building, writes PM ModiWhenever any part of the nation was affected by a natural disaster, Shri Ashok Singhal Ji was either among the first to reach there himself or among those guiding Karyakartas to help those affected, PM Narendra Modi writes."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/assam/story/cjp-ashutosh-ranka-dares-himanta-biswa-sarma-detention-guwahati-assam-cockroaches-just-getting-started-3004481-2026-09-28",
+      "headline": "Assam cockroaches just getting started: CJP leader dares Himanta after detentionCJP's Ashutosh Ranka accused Assam Police of illegally detaining him and about 40 other volunteers in Guwahati. After his release, he said the outfit would intensify its campaign across the northeast."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/cities/pune/story/ketan-agarwal-murder-case-witness-says-chetan-chaudhary-pushed-him-off-pune-lohagad-fort-3004458-2026-09-28",
+      "headline": "Witness saw Ketan Agarwal being pushed off cliff, was threatened with same fateThe witness approached the police on June 23, five days after the incident, and got his statement recorded, sources said. He was visiting Lohagad Fort with his friend's family."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sunday-special/story/iit-bombay-sahil-wakode-devendrakula-vellalars-sc-delisting-tamil-nadu-scheduled-caste-list-bjp-3003746-2026-09-27",
+      "headline": "An SC community that doesn't want to be a Scheduled Caste anymoreIn India, which wants to be counted among developed nations, there is a rush among communities to be counted as backwards, because of caste-based reservation benefits. A post on X after the IIT Bombay suicide sent me researching about Devendrakula Vellalar, an SC community in Tamil Nadu that is demanding it be removed from the Scheduled Caste list. Here's what I found out about the unique demand of the DKV."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/punjab/story/lpu-protest-classes-suspended-10-days-mobile-internet-cut-cm-bhagwant-mann-vows-action-3004546-2026-09-28",
+      "headline": "Classes suspended amid unrest, LPU students leave campus; CM Mann vows actionIn the wake of the violent protests, Lovely Professional University has suspended classes and exams. The campus remains under heavy police cover as the government orders action and investigators examine the rape allegation."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/featurephilia/story/iit-bombay-beyond-classroom-campus-changes-memories-btech-environmental-science-engineering-my-story-my-iit-3002835-2026-09-28",
+      "headline": "What IIT Bombay really looks like beyond the classroomHandcrafted ByOur Editors Alok Raj describes IIT Bombay through its changing campus, friendships, favourite corners and late-night routines. His account shows how student life there stretches from academic pressures to startups, support systems and personal memories."
     },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/world/story/benjamin-netanyahu-abu-dhabi-meeting-sheikh-mohammed-haaretz-warning-row-3004449-2026-09-28",
-      "headline": "Netanyahu meets UAE president in Abu Dhabi amid Oct 7 warning controversyBenjamin Netanyahu visited Abu Dhabi and met UAE President Sheikh Mohammed bin Zayed Al Nahyan on Sunday. The meeting comes as scrutiny intensifies over a report about a pre-October 7 warning and Israel-UAE communication."
+      "headline": "Netanyahu's surprise UAE visit, meets President for talks amid Oct 7 warning rowBenjamin Netanyahu visited Abu Dhabi and met UAE President Sheikh Mohammed bin Zayed Al Nahyan on Sunday. The meeting comes as scrutiny intensifies over a report about a pre-October 7 warning and Israel-UAE communication."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/virat-kohli-15000-odi-runs-india-vs-west-indies-sachin-tendulkar-fastest-3004326-2026-09-27",
-      "headline": "Virat Kohli completes 15,000 ODI runs, breaks Sachin Tendulkar's recordVirat Kohli has become only the second batter to reach 15,000 ODI runs, getting there 74 innings faster than Sachin Tendulkar. He reached the landmark in 46 balls against West Indies in Thiruvananthapuram."
+      "url": "https://www.indiatoday.in/science/story/why-do-pirates-wear-eye-patch-pirate-eyepatch-reason-night-vision-dark-adaptation-science-johnny-depp-3004529-2026-09-28",
+      "headline": "Why do pirates really wear an eyepatch? Hollywood keeps it a secretWhy do pirates really wear an eyepatch, and was it ever about a lost eye? A 2007 experiment and a university study point to an answer Hollywood rarely shows."
     },
     {
       "sentiment": "negative",
@@ -240,91 +290,56 @@
       "headline": "Israel revokes diplomatic status of Dutch envoys over West Bank settlement sanctionsIsrael has revoked the diplomatic status of Dutch diplomats representing the Netherlands with the Palestinian Authority in Ramallah after the Netherlands brought in a ban on settlement goods. The move sharpens a wider dispute as more countries impose restrictions linked to Israeli settlements."
     },
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/asian-games/story/asian-games-womens-25m-pistol-shooting-frame-hit-explained-3004528-2026-09-28",
+      "headline": "Frame hit costs India women's 25m pistol medal at Asian Games. What is it?Asian Games: India finished fifth in the women's 25m pistol team event in yet another disappointing show. One of Rahi Sarnobat's shot was registered as 0 after she registered a frame-hit in the rapid series."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/virat-kohli-shubman-gill-india-vs-west-indies-cricket-odi-world-cup-3004477-2026-09-28",
+      "headline": "In Virat Kohli we trust: Gill leaves batter alone as India begin World Cup prepVirat Kohli smashed an unbeaten 139 off 88 balls as India chased down 296 against West Indies in the 1st ODI. Captain Shubman Gill said India trust Kohli enough to let him bat the way he wants."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/music/story/taylor-swift-patient-zero-music-video-dakota-johnson-colin-farrell-fan-reaction-3004503-2026-09-28",
+      "headline": "Taylor Swift goes gothic with Patient Zero and Swifties are loving itPop star Taylor Swift's Patient Zero video has Swifties hooked, with fans calling the gothic visual chilling, beautiful and cinematic. Starring Dakota Johnson and Colin Farrell, the self-directed video turns a love triangle into a haunting ghost story."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/india-vs-panama-football-friendly-bengaluru-traffic-logistics-performance-1-1-draw-3003893-2026-09-27",
+      "headline": "Panama coach blames Bengaluru traffic, poor logistics for 1-1 draw against IndiaPanama coach Thomas Christiansen pointed to Bengaluru's traffic, travel and limited preparation after his side's 1-1 draw with India, while also accepting responsibility for a transitional team that struggled to cope with the hosts' intensity."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/education-today/news/story/nitin-gupta-iit-jee-air-1-returned-india-mosquito-brain-research-iit-kanpur-3004098-2026-09-27",
-      "headline": "JEE AIR 1 returned to IIT Kanpur inspired by Swades, now studies brain of a mosquitoNitin Gupta, IIT-JEE 2000 AIR 1, returned to IIT Kanpur in 2014 after training in the US and shifted from computer science to neuroscience. His work now uses insect brains and digital mental health tools to probe how nervous systems turn information into behaviour."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/other-cities/story/hapur-snack-shop-money-dispute-viral-street-brawl-dehra-3004443-2026-09-28",
-      "headline": "Video: Lathis, bricks and frying spoon; UP's Hapur samosa shop brawl turns violentA money dispute at a snack shop in UP's Hapur Dehra village erupted into a street brawl between two groups. Viral footage has prompted police to identify those involved and promise strict action."
+      "headline": "JEE AIR 1 returned to IIT Kanpur inspired by Swades, now studies brain of a mosquitoNitin Gupta, who secured All India Rank 1 in IIT-JEE 2000, returned to IIT Kanpur in 2014 after spending four years there as a science student. His work now uses insect brains and digital mental-health tools to investigate how nervous systems process information and translate it into behaviour."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/us-president-un-envoy-mike-waltz-explains-why-trump-rejected-fresh-iran-truce-proposal-3004440-2026-09-28",
-      "headline": "Why Trump rejected fresh truce proposal by Iran? His UN envoy explainsDonald Trump rejected Iran's latest proposal after Tehran sought sanctions relief and other concessions before talks. Even so, both sides said diplomacy remains possible as mediators push for another round."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/delhi/story/video-delhi-minister-parvesh-verma-slaps-man-filming-him-during-tilak-nagar-road-inspection-3004194-2026-09-27",
-      "headline": "Delhi minister slaps AAP MLA's aide filming road inspection, says he abused familyThe man, identified as Sahib Singh, was recording the exchange when Verma pulled down his phone and slapped him. Verma later defended his reaction, saying an AAP worker had abused his family, while Singh accused the minister of losing his temper."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/jobs/in-focus/story/aged-21-he-made-rs-26-crore-reselling-sneakers-inside-the-sneaker-economy-educ-3004041-2026-09-27",
-      "headline": "He made Rs 2.6 crore in one month at 21. Inside the sneaker reselling industryA 21-year-old has built a thriving sneaker-reselling business, recording $280,000 (2.64 crore approx) in monthly sales. His journey reflects the growth of a global resale industry, while India's young sneaker market is rapidly becoming more organised."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/raf-fairford-arrests-trump-says-5-terror-suspects-arrested-near-uk-air-base-planned-to-do-big-damage-3004430-2026-09-28",
-      "headline": "Trump says 5 terror suspects arrested near UK air base planned to do 'big damage'Counterterror police arrested five men near RAF Fairford after reports of suspicious vans heading towards the base. The incident led to evacuations, tighter security at other US-linked air bases and multiple lines of inquiry."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/other-cities/story/faridabad-borewell-rescue-girl-trapped-in-sihi-village-ndrf-joins-operation-3004419-2026-09-28",
-      "headline": "3-year-old girl falls into open borewell in Haryana's Faridabad, rescue underwayA three-year-old girl fell into an open borewell in Faridabad's Sihi village on Sunday, setting off a rescue operation. Police, fire brigade and NDRF teams supplied oxygen and dug around the shaft as the effort stretched for hours."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/ambala-building-collapse-kills-2-5-hospitalised-15-20-feared-trapped-as-ndrf-sdrf-lead-rescue-efforts-3004312-2026-09-27",
-      "headline": "4 killed as 3-storey under-construction building collapses in Haryana, 13 rescuedA three-storey under-construction building collapsed in a Haryana village, killing four people and injuring several others. Rescue teams are searching the debris as more people are feared trapped, though the exact number has not been confirmed yet."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/other-cities/story/uttarakhand-car-crash-man-clings-to-bonnet-for-2-km-in-cctv-captures-3004161-2026-09-27",
-      "headline": "After collision, man shouts 'Roko, roko' from car bonnet, ends up travelling 2 kmAfter a collision near Sitarganj's SBI branch in Uttarakhand, a man clung to a moving car's bonnet for nearly two kilometres. The CCTV-captured incident triggered panic on the road and police action, though no complaint has yet been filed."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/interactive/quiz/news/weekly-quiz-641-25-09-2026",
-      "headline": "Question Time: Weekly News QuizThink you read the headlines this week? Let's test that!"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/humayun-kabir-suvendu-adhikari-remark-rejinagar-bypoll-row-3004228-2026-09-27",
-      "headline": "May Allah book his ticket: Humayun Kabir wishes Suvendu Adhikari ahead of bypollAam Janata Unnayan Party founder Humayun Kabir sparked a row by saying he would pray for Chief Minister Suvendu Adhikari's early departure ahead of the Rejinagar bypoll. The BJP and Health Minister Shardwat Mukhopadhyay condemned the comment, turning it into a fresh campaign flashpoint."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/niranjan-singh-quits-waris-punjab-de-days-after-joining-3004269-2026-09-27",
-      "headline": "Former ED officer Niranjan Singh leaves Waris Punjab De over 'non-negotiable' issuesFormer Enforcement Directorate deputy director Niranjan Singh has disassociated himself from Akali Dal Waris Punjab De days after joining it. He said the split stemmed from non-negotiable differences and stressed constitutional conduct in public life."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/society/story/gen-z-job-interviews-iced-coffee-emojis-boundary-questions-recruiters-3003995-2026-09-27",
-      "headline": "Coffee, emojis and ghosting: The many ways Gen Z rage-baits during job interviewsThe iced latte debate is the latest addition to the ever-growing list of things Gen Z does at work that has millennials scratching their heads."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/students-protesting-outside-lovely-professional-university-clash-with-police-vehicles-set-on-fire-3004320-2026-09-27",
-      "headline": "Stones thrown, police vehicles torched as LPU protest over rape turns violent againStudents protesting an alleged sexual assault at Punjab's LPU clashed with police and set vehicles on fire. Police have filed a rape case and formed an SIT; the university denies the claim."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/cornell-university-lawsuit-ex-student-alleges-drugging-and-rape-by-chi-phi-members-3004042-2026-09-27",
-      "headline": "Drugged and raped by 7 'frat bros' for hours: Ex-student sues Cornell UniversityA former Cornell student has sued the university and seven Chi Phi members, alleging she was drugged and raped at the fraternity house in October 2024. Her attorney said only two of the seven accused were expelled, while others received lesser punishments, including suspensions and essay-writing."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sunday-special/story/iit-bombay-sahil-wakode-devendrakula-vellalars-sc-delisting-tamil-nadu-scheduled-caste-list-bjp-3003746-2026-09-27",
-      "headline": "An SC community that doesn't want to be a Scheduled Caste anymoreIn India, which wants to be counted among developed nations, there is a rush among communities to be counted as backwards, because of caste-based reservation benefits. A post on X after the IIT Bombay suicide sent me researching about Devendrakula Vellalar, an SC community in Tamil Nadu that is demanding it be removed from the Scheduled Caste list. Here's what I found out about the unique demand of the DKV."
+      "url": "https://www.indiatoday.in/jobs/deep-dive/story/does-your-state-decide-your-chances-of-getting-a-job-the-new-debate-educ-3003987-2026-09-28",
+      "headline": "Can where you come from decide your chances of getting a job?A now-deleted viral post by a Bengaluru CEO has sparked debate over women's safety, regional bias and equal opportunities. Experts say companies should address workplace risks through background checks, POSH systems, security measures, and individual assessment rather than blanket hiring restrictions."
     }
   ],
   "sports": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/asian-games/story/asian-games-womens-25m-pistol-shooting-frame-hit-explained-3004528-2026-09-28",
+      "headline": "Frame hit costs India women's 25m pistol medal at Asian Games. What is it? Asian Games: India finished fifth in the women's 25m pistol team event in yet another disappointing show. One of Rahi Sarnobat's shot was registered as 0 after she registered a frame-hit in the rapid series."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/virat-kohli-shubman-gill-india-vs-west-indies-cricket-odi-world-cup-3004477-2026-09-28",
+      "headline": "In Virat Kohli we trust: Gill leaves batter alone as India begin World Cup prep Virat Kohli smashed an unbeaten 139 off 88 balls as India chased down 296 against West Indies in the 1st ODI. Captain Shubman Gill said India trust Kohli enough to let him bat the way he wants."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/asian-games/story/pv-sindhu-asian-games-badminton-twitter-post-3004463-2026-09-28",
+      "headline": "PV Sindhu slams organisers in scathing post after Asian Games heartbreak PV Sindhu slammed the Asian Games organisers over the scheduling and lack of video review after her quarter-final defeat to Chen Yufei. Sindhu said she kept coming back to three crucial points in the second game and felt a review system could have changed the momentum of the match."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/asian-games/story/asian-games-2026-live-updates-september-28-events-athletics-tennis-boxing-medals-3004428-2026-09-28",
-      "headline": "Live: Archers in action, Manu Bhaker looks to impress in 25m air pistol Asian Games Live Updates, September 28: India are set to begin their campaign in tennis with Sumit Nagal in action. India will also be looking to do well in hockey, athletics and other events."
+      "headline": "Live: Esha Singh wins pistol silver after thrilling shooting final Asian Games Live Updates, September 28: India bring in two medals as they bag a pistol silver and bronze in Kurash. Esha Singh brought home the silver medal in women's 25m air pistol individual final and Pincky Balhara secured bronze in Kurash."
     },
     {
       "sentiment": "positive",
@@ -364,17 +379,17 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/asian-games/story/asian-games-2026-day-8-results-india-athletics-medals-squash-badminton-squash-3004321-2026-09-27",
-      "headline": "Day 8: Anahat Singh wins historic silver, athletics stars shine in Nagoya India enjoyed a medal-rich day at the Asian Games, with athletics producing five medals and squash adding two silvers. However, badminton endured a disappointing exit without an individual medal for the first time in 12 years, while Indian shooters remained in contention across key qualification events."
+      "headline": "Day 8: Anahat Singh wins historic silver, athletics stars shine in NagoyaIndia enjoyed a medal-rich day at the Asian Games, with athletics producing five medals and squash adding two silvers. However, badminton endured a disappointing exit without an individual medal for the first time in 12 years, while Indian shooters remained in contention across key qualification events."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/virat-kohli-15000-odi-runs-india-vs-west-indies-sachin-tendulkar-fastest-3004326-2026-09-27",
-      "headline": "Virat Kohli completes 15,000 ODI runs, breaks Sachin Tendulkar's record Virat Kohli has become only the second batter to reach 15,000 ODI runs, getting there 74 innings faster than Sachin Tendulkar. He reached the landmark in 46 balls against West Indies in Thiruvananthapuram."
+      "headline": "Virat Kohli completes 15,000 ODI runs, breaks Sachin Tendulkar's recordVirat Kohli has become only the second batter to reach 15,000 ODI runs, getting there 74 innings faster than Sachin Tendulkar. He reached the landmark in 46 balls against West Indies in Thiruvananthapuram."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/asian-games/story/asian-games-athletics-ancy-sojan-sarvesh-kushare-tejaswin-shankar-3004298-2026-09-27",
-      "headline": "Athletics: Long jumper Ancy leads medal rush, but gold eludes India on dramatic day India added five athletics medals on a dramatic Sunday, with Ancy Sojan and Sarvesh Kushare winning silver, while Tejaswin Shankar, Parul Chaudhary and Harita Bhadra took bronze. Yet, the Gold remained elusive."
+      "headline": "Athletics: Long jumper Ancy leads medal rush, but gold eludes India on dramatic dayIndia added five athletics medals on a dramatic Sunday, with Ancy Sojan and Sarvesh Kushare winning silver, while Tejaswin Shankar, Parul Chaudhary and Harita Bhadra took bronze. Yet, the Gold remained elusive."
     },
     {
       "sentiment": "positive",
@@ -455,21 +470,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/other-sports/story/chess-olympiad-2026-india-men-beat-uzbekistan-women-draw-china-3003858-2026-09-26",
       "headline": "Chess Olympiad: Indian men drub Uzbekistan-2, women draw with ChinaIndia's men secured a 3.5-0.5 win over Uzbekistan-2 in the penultimate round of the Chess Olympiad, keeping them in sole second place. The women's team drew 2-2 with China, leaving their medal hopes alive heading into the final round."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/asian-games/story/asian-games-2026-september-26-india-schedule-squash-athletics-medal-events-manu-bhaker-anahat-singh-3003816-2026-09-26",
-      "headline": "Asian Games, September 27 schedule: Anahat eyes squash Gold, Manu seeks redemptionIndia's September 27 Asian Games schedule features a packed day of medal action, with squash finals, athletics events and key contests across sports. Anahat Singh and Abhay Singh headline the squash finals as India targets more medals."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/khaldoon-al-mubarak-defends-manchester-city-114-premier-league-charges-3003812-2026-09-26",
-      "headline": "Manchester City chairman defends club over 114 Premier League chargesManchester City chairman Khaldoon Al Mubarak has insisted the club remains confident of proving its innocence, a day after reports claimed City had been found guilty of 114 breaches of Premier League financial rules in the long-running case."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/asian-games/story/asian-games-2026-day-7-results-medals-kabaddi-marathon-silver-athletics-3003772-2026-09-26",
-      "headline": "Asian Games Day 7: Two kabaddi golds, marathon silver lift India into top 10India retained both kabaddi crowns as Sawan Barwal scripted marathon history, while Anahat Singh and Abhay Singh reached squash finals and Dhiraj Bommadevara set an Asian Games qualification record in archery on a packed Day 7."
     }
   ],
   "education": [
@@ -564,7 +564,7 @@
       "headline": "India Today Education Conclave 2022: All bets on edutechThe India Today Education Conclave 2022 touched on topics like early childhood care, universal education, the NEP and India\u2019s edutech boom"
     },
     {
-      "sentiment": "positive",
+      "sentiment": "negative",
       "url": "https://www.indiatoday.in/magazine/education/story/19850615-biec-employees-left-jobless-as-bihar-cm-bindeshwari-dubey-scraps-council-770120-2013-12-15",
       "headline": "Confusion reignsBindeshwari Dubey Government, despite its oft-repeated announcements of steps to improve the state's education system, suddenly scrapped the Bihar Intermediate Education Council set up in 1980 by the Jagannath Mishra government through an ordinance."
     },
