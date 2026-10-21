@@ -1,6 +1,26 @@
 {
   "business": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/market/story/stock-market-opening-sensex-opens-400-points-higher-nifty-above-23000-infosys-it-shares-up-2-3021705-2026-10-21",
+      "headline": "Sensex opens 400 points higher, Nifty above 23,000; Infosys up 2%Sensex opens 400 points higher, Nifty above 23,000; Infosys up 2%"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/ipo/story/jio-platforms-ipo-gmp-rs-273-price-band-subscription-review-subscribe-skip-3021691-2026-10-21",
+      "headline": "Jio IPO opens today: Grey market signals 24% upside, but should you subscribe?Jio Platforms opened its Rs 30,213-crore IPO as the grey market premium reached Rs 273. Religare backed a long-term subscription while cautioning investors about valuation and sectoral risks."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/market/story/sensex-nifty-market-opening-jio-platforms-ipo-us-india-trade-deal-rupee-crude-fii-selling-3021680-2026-10-21",
+      "headline": "Sensex, Nifty opening: Will stock markets open higher or lower? Jio IPO in focusThe GIFT Nifty was trading at 23,017 at 7:57 am, indicating a positive start for the Nifty 50, which closed at 22,888.95 on Monday. Markets were closed on Tuesday for Dussehra."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/spacex-tesla-merger-talks-elon-musk-backs-proposed-union-3021656-2026-10-21",
+      "headline": "SpaceX-Tesla merger on the cards? Elon Musk says it's a good ideaElon Musk has confirmed that SpaceX and Tesla have set up special committees to explore a potential merger, saying the tie-up could unlock significant opportunities in artificial intelligence, robotics and chip development, though no transaction terms have been agreed upon and a deal remains uncertain."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/nithin-kamath-warns-against-whatsapp-stock-tips-silliest-way-to-lose-money-3021302-2026-10-20",
       "headline": "Nithin Kamath warns against WhatsApp stock tips: Silliest way to lose moneyKamath expressed concern that investors continue to rely on stock tips circulated through messaging apps and social media, despite repeated warnings about the risks."
@@ -79,29 +99,39 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/axis-bank-shares-fall-q2-profit-misses-estimates-brokerage-targets-buy-sell-3020514-2026-10-19",
       "headline": "Axis Bank shares crash 4% despite 38% profit jump: Should you buy the stock?Axis Bank shares fell over 4% after quarterly profit missed market expectations. Margin pressure and rising costs overshadowed stronger loan growth and improved asset quality."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/market/story/stock-market-opening-sensex-nifty-trade-flat-hdfc-bank-icici-bank-fall-psu-banks-gain-3020484-2026-10-19",
-      "headline": "Sensex, Nifty trade flat as private bank earnings weigh, PSU banks rallyThe BSE Sensex was trading at 74,729.27 in the latest closing session on Friday, while the Nifty 50 had settled at 23,146.15. In early trade on Monday, the Nifty 50 was at 23,161.50, up 15.30 points or 0.07%, around 9:38 am."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/tata-sons-ipo-articles-of-association-review-tata-trusts-control-board-voting-rights-3020479-2026-10-19",
-      "headline": "Tata Sons reviews governance rules ahead of IPO, Tata Trusts' control at stakeTata Sons is reviewing its Articles of Association ahead of a possible stock market listing. The exercise could reshape Tata Trusts' special governance rights while preserving its majority stake."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/personal-finance/story/one-wants-to-retire-debt-free-another-fears-higher-emis-the-big-home-loan-dilemma-3019016-2026-10-19",
-      "headline": "One wants to retire debt-free, another fears higher EMIs: The big home loan dilemmaA higher EMI can help borrowers repay their home loans faster, but it can also strain monthly budgets. With the recent repo rate hike bringing this trade-off into focus, I spoke to borrowers and experts about how to make the right call."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/dr-doom-nouriel-roubini-2008-financial-crisis-india-growth-forecast-jobs-risk-ai-3020463-2026-10-19",
-      "headline": "Economist who predicted 2008 crash says India must grow faster to create jobsEconomist Nouriel Roubini said India must lift growth towards 9% to create enough jobs. His warning comes as AI disrupts employment and global supply chains shift beyond China."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/ranabaali-box-office-day-5-vijay-deverakonda-rashmika-mandanna-crosses-rs-52-crore-amid-mixed-reviews-3021699-2026-10-21",
+      "headline": "Ranabaali box office Day 5: Vijay-Rashmika crosses Rs 52 crore amid mixed reviews Ranabaali crossed Rs 50 crore worldwide after its fifth-day domestic recovery. The milestone came amid mixed reviews and continued reliance on Telugu-speaking markets."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/actor-dylan-sprouse-uncovers-bizarre-secret-calls-himself-cole-sprouse-children-of-incest-3021684-2026-10-21",
+      "headline": "Actor Dylan Sprouse uncovers bizarre secret, calls himself, Cole 'children of incest' Dylan Sprouse told his Wildmen podcast about a surprising family connection uncovered through a DNA test. The discovery linked generations of twins while prompting a cheeky remark about his ancestry."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/jailer-2-box-office-collection-rajinikanth-film-crosses-rs-541-crore-worldwide-third-biggest-hit-2026-3021673-2026-10-21",
+      "headline": "Rajinikanth's Jailer 2 conquers Rs 500 crore, becomes 3rd biggest Indian hit of 2026 Rajinikanth's Jailer 2 has crossed Rs 500 crore worldwide within five days of release. The feat makes it 2026's third-highest-grossing Indian film, behind Dhurandhar 2 and Drishyam 3."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/nick-jonas-goes-desi-for-priyanka-chopras-dussehra-puja-malti-steals-the-show-3021661-2026-10-21",
+      "headline": "Nick Jonas goes desi for Priyanka Chopra's Dussehra puja, Malti steals the show Priyanka Chopra and Nick Jonas celebrated Dussehra with Malti at a traditional family puja. The ceremony marked their reunion and highlighted the family's shared respect for Indian traditions."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/sara-ali-khan-weeps-golden-temple-ayushmann-khurrana-udta-teer-release-3021655-2026-10-21",
+      "headline": "Sara Ali weeps during Golden Temple visit with Udta Teer co-star Ayushmann Khurrana Sara Ali Khan broke down in tears while offering prayers at the Golden Temple in Amritsar on Dussehra. The actor visited the holy shrine with Ayushmann Khurrana ahead of their upcoming film Udta Teer's release."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/anupam-kher-backs-daler-mehndi-subodh-uniyal-onstage-alcohol-allegation-3021653-2026-10-21",
+      "headline": "Anupam Kher defends Daler Mehndi after Uttarakhand Minister's on-stage rebuke Veteran actor Anupam Kher defended singer Daler Mehndi after Uttarakhand Minister Subodh Uniyal confronted him on stage. The actor questioned the public rebuke and urged the entertainment industry to support Mehndi."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/ramayana-yash-ravana-rise-of-asura-shiv-tandav-dussehra-reveal-ranbir-kapoor-3021643-2026-10-20",
@@ -166,43 +196,18 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/vijay-deverakonda-rashmika-mandanna-wedding-proposal-no-phone-rule-3021315-2026-10-20",
       "headline": "KWK 9: Vijay reveals proposal to Rashmika, why they banned phones at wedding Vijay Deverakonda and Rashmika Mandanna discussed their proposal and phone-free wedding on Koffee with Karan. The rules helped family and friends celebrate without cameras or staged poses."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/producer-dil-raju-calls-ranbir-ranveer-during-ramayana-speech-corrects-himself-3021252-2026-10-20",
-      "headline": "Producer Dil Raju calls Ranbir Ranveer during Ramayana speech, corrects himself Producer and distributor Dil Raju mistakenly called Ranbir Kapoor 'Ranveer Singh' while praising him at a Ramayana event in Hyderabad. He immediately corrected himself and apologised, leaving the internet amused."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/yami-gautam-nayyi-naveli-jailer-2-release-clash-solo-window-difficult-3021242-2026-10-20",
-      "headline": "Tough to get solo release: Yami Gautam on Nayyi Naveli releasing with Jailer 2 Actor Yami Gautam addressed the release of Nayyi Naveli releasing a day after Rajinikanth's Jailer 2. She called the overlap challenging but an honour and thanked audiences."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/yash-open-mind-appeal-for-overlook-ramayana-vfx-backfires-internet-hits-back-with-sarcasm-3021250-2026-10-20",
-      "headline": "Internet tears into Yash over 'overlook VFX flaws in Ramayana' remark Yash asked audiences in Hyderabad to overlook minor VFX faults in Ramayana. The appeal triggered criticism from viewers defending their right to question flaws."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/karthik-sabesh-dies-at-37-days-after-tamil-composer-deva-death-3021253-2026-10-20",
-      "headline": "Tamil actor Karthik Sabesh dies at 37, days after uncle Deva's death Tamil actor Karthik Sabesh, aged 37, died at a private hospital in Chennai due to health issues. His death came days after his uncle and veteran composer Deva died."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/ravi-kishan-lord-ram-ayodhya-ramlila-teachings-viral-3021233-2026-10-20",
-      "headline": "Ravi Kishan plays Lord Ram in Ramleela, urges youth to follow his teachings BJP MP and actor Ravi Kishan, portraying Lord Ram in Ramleela for the first time, urged youth to embrace spirituality and learn from the teachings of Lord Ram, Lord Krishna and Lord Shiva."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/deadpool-ryan-reynolds-to-attend-ranbir-kapoor-ramayana-los-angeles-premiere-in-indian-attire-3021220-2026-10-20",
-      "headline": "Ryan Reynolds to attend Ranbir Kapoor's Ramayana LA premiere in Indian attire? Hollywood actor Ryan Reynolds is reportedly set to attend actor Ranbir Kapoor's Ramayana: Rise of a Legend premiere in Los Angeles. The special screening will feature a Diwali theme and traditional red Indian attire."
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/iran-us-talks-asim-munir-tehran-demands-nuclear-enrichment-3021648-2026-10-21",
-      "headline": "No uranium will leave Iran: Tehran tells Asim Munir amid US talks deadlockIran told Pakistan army chief Asim Munir that no enriched uranium would leave the country and ruled out talks with the US until Washington met Tehran's demands. The conditions include ending the US blockade, lifting oil sanctions and halting regional hostilities."
+      "url": "https://www.indiatoday.in/india/story/india-us-trade-deal-nearing-finalisation-donald-trump-marco-rubio-mumbai-visit-3021676-2026-10-21",
+      "headline": "India-US trade deal pretty close, will be different from previous pacts: TrumpTrump said India and the US were \"pretty close\" to finalising a trade deal, hinting at a \"much different\" agreement as negotiations continue, while US Secretary of State Marco Rubio, who is currently in India, said only a few issues remain to be resolved during his visit to India."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/bhagwant-mann-delhi-airport-detention-rs-50000-challan-aap-allegation-paris-trip-centre-modi-government-punjab-politics-3021662-2026-10-21",
+      "headline": "Bhagwant Mann detained at Delhi airport for 3 hours, fined Rs 50,000, claims AAPThe AAP alleged that Punjab CM Bhagwant Mann was detained for nearly three hours at Delhi airport after returning from Paris visit and issued a Rs 50,000 challan, accusing the Centre of targeting him amid repeated denials of political clearance for his foreign visits."
     },
     {
       "sentiment": "negative",
@@ -210,9 +215,39 @@
       "headline": "Delhi Police transfers second CJP leaders' case to Crime BranchDelhi Police transferred a second case against jailed CJP co-convenors Saurav Das and Ashutosh Ranka to the Crime Branch. The move puts two cases against the leaders under the specialised unit's investigation."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/saudi-arabia-execution-bangladesh-jeddah-consulate-dhaka-diplomacy-anojan-sivarasa-death-sentence-itspc-3021206-2026-10-20",
-      "headline": "Killed for kiss in mosque? Secret Saudi execution of Bangladeshis sparks outrageThere is massive outrage over the way two Bangladeshi migrant workers have been executed by Saudi Arabia. They were executed for \"immoral acts\" in a Mecca mosque, said Saudi media. But the opacity surrounding the execution process, including the lack of details of their crimes, and Dhaka being informed only after they were killed, have led to a backlash."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/pakistan-bureaucrat-exodus-khawaja-asif-portugal-property-citizenship-claims-military-exodus-itspc-3021469-2026-10-21",
+      "headline": "Is Pak's ruling elite losing faith in country? Minister flags exodus of bureaucratsPakistan's Defence Minister Khawaja Asif has flagged a 'significant exodus' of bureaucrats with dozens of serving officers preparing to settle abroad. This raises a bigger question about the crisis of confidence among Pakistan's governing elite in the country itself. Are they rats deserting a sinking ship?"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/tiger-shroff-shooting-lawrence-bishnoi-gang-crime-mumbai-underworld-1990-fears-itspc-3021100-2026-10-21",
+      "headline": "Tiger Shroff's escape revives 90s Bollywood nightmares. Is Mumbai's underworld back?Mumbai's underworld, particularly in the 1990s, was synonymous with Bollywood extortion, contract killings and fear. Today, the old gangs might have evolved in terms of how they function in Mumbai, but has the threat really disappeared? The shooting involving actor Tiger Shroff raises the question if the Lawrence Bishnoi gang is trying to revive those dark days."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/asian-para-games/story/asian-para-games-2026-live-updates-october-21-athletics-archery-swimming-aichi-nagoya-japan-3021633-2026-10-20",
+      "headline": "Oct 21 Live: India on gold medal spree, clean sweep shot-put podiumAsian Para Games 2026 Live: Praveen Kumar and Ayush Verma struck gold early on Wednesday, with Praveen setting a Games record in the men's high jump T64 as India's gold tally climbed to 11. Sachin Khilari then led an all-Indian podium in the shot put F46, while Sheetal Devi and Payal Nag added silver in women's compound doubles to keep India's medal rush going in Nagoya."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/cities/delhi/story/delhi-air-quality-poor-smog-dussehra-falling-temperatures-winter-action-plan-3021657-2026-10-21",
+      "headline": "Smog returns to Delhi: Is the capital bracing for another polluted winter?Delhi woke up to smog on Wednesday as air quality was forecast to deteriorate to the 'poor' category until Friday. Dussehra celebrations, stubble burning and changing weather conditions have renewed concerns ahead of winter."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/elon-musk-throttled-starlink-key-to-fighting-russia-in-ukraine-trump-knew-it-wsj-reports-3021665-2026-10-21",
+      "headline": "Elon Musk throttled Starlink, key to fighting Russia, in Ukraine. Trump knew itElon Musk ordered a slowdown of Ukraine's military-grade Starlink service without warning Kyiv, the Wall Street Journal reported. The restrictions disrupted drone missions while sharpening scrutiny of Starlink amid its India launch row."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/anupam-kher-backs-daler-mehndi-subodh-uniyal-onstage-alcohol-allegation-3021653-2026-10-21",
+      "headline": "Anupam Kher defends Daler Mehndi after Uttarakhand Minister's on-stage rebukeVeteran actor Anupam Kher defended singer Daler Mehndi after Uttarakhand Minister Subodh Uniyal confronted him on stage. The actor questioned the public rebuke and urged the entertainment industry to support Mehndi."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/law-news/story/calcutta-high-court-rejects-cpim-jadavpur-bookstall-permit-plea-3021584-2026-10-20",
+      "headline": "No permission, no protection: HC rejects CPM's plea to stop bookstall removalThe Calcutta High Court dismissed the CPI(M)'s plea for protection against the removal of its Durga Puja bookstall near Kolkata's Jadavpur Coffee House, ruling that the party lacked the required permission. The order comes amid attacks on CPI(M) bookstalls across Bengal, which drew criticism from state Finance Minister Swapan Dasgupta and differing responses from BJP leaders."
     },
     {
       "sentiment": "negative",
@@ -221,58 +256,53 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/west-bengal-bankura-double-murder-man-kills-wife-father-tantric-angle-probed-3021667-2026-10-21",
+      "headline": "Bengal man beheads wife, kills father, places severed head outside templePolice arrested Mangal Choudhury for killing his wife and father in West Bengal's Bankura. Investigators are probing a possible tantric angle, though no connection has been confirmed."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/stubble-burning-india-punjab-happy-seeder-super-seeder-decomposer-farmers-cost-access-stubble-files-part-2-3021659-2026-10-21",
+      "headline": "The fix on the shelf: Why Happy Seeders have not put out India's stubble firesHappy Seeders, Super Seeders and decomposer sprays exist, yet India's farmers still burn straw. Part 2 of The Stubble Files explains how cost, tractor power, a 25-day calendar and thin farm margins keep the cure out of reach."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/saudi-arabia-execution-bangladesh-jeddah-consulate-dhaka-diplomacy-anojan-sivarasa-death-sentence-itspc-3021206-2026-10-20",
+      "headline": "Killed for kiss in mosque? Secret Saudi execution of Bangladeshis sparks outrageThere is massive outrage over the way two Bangladeshi migrant workers have been executed by Saudi Arabia. They were executed for \"immoral acts\" in a Mecca mosque, said Saudi media. But the opacity surrounding the execution process, including the lack of details of their crimes, and Dhaka being informed only after they were killed, have led to a backlash."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/trending-news/story/3-year-old-dangles-12-floors-above-ground-in-china-neighbours-rush-to-rescue-her-3021677-2026-10-21",
+      "headline": "3-year-old dangles 12 floors above ground in China, neighbours rush to rescue herA three-year-old girl was left dangling outside a 12th-floor apartment in China after her head got stuck in a window grille. Neighbours supported her with a stool until firefighters entered the locked flat and completed the rescue."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/cjp-protests-abhijeet-dipke-saurav-das-ashutosh-ranka-released-or-not-jantar-mantar-gyanesh-kumar-itspc-3021392-2026-10-20",
       "headline": "Was following Ranka's, Saurav's orders: Dipke reveals real brains behind CJP stirCJP founder and convenor Abhijeet Dipke revealed he followed the orders of Ashutosh Ranka and Saurav Das, calling them the real decision-makers behind the cockroach movement. He also rejected the comparisons of the CJP's protests with the arson and rioting in France."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/italy-protest-crackdown-five-year-jail-terms-parental-liability-milan-troops-3021651-2026-10-21",
-      "headline": "Vandalism is criminality: Meloni makes parents liable for children's vandalismItaly has approved tougher penalties for violent demonstrations and ordered 500 troops into Milan. The crackdown comes amid unrest and wider protests over rising living costs."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/sara-ali-khan-weeps-golden-temple-ayushmann-khurrana-udta-teer-release-3021655-2026-10-21",
+      "headline": "Sara Ali weeps during Golden Temple visit with Udta Teer co-star Ayushmann KhurranaSara Ali Khan broke down in tears while offering prayers at the Golden Temple in Amritsar on Dussehra. The actor visited the holy shrine with Ayushmann Khurrana ahead of their upcoming film Udta Teer's release."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/law-news/story/calcutta-high-court-rejects-cpim-jadavpur-bookstall-permit-plea-3021584-2026-10-20",
-      "headline": "No permission, no protection: HC rejects CPI(M)'s plea to stop bookstall removalThe Calcutta High Court dismissed the CPI(M)'s plea for protection against the removal of its Durga Puja bookstall near Kolkata's Jadavpur Coffee House, ruling that the party lacked the required permission. The order comes amid attacks on CPI(M) bookstalls across Bengal, which drew criticism from state Finance Minister Swapan Dasgupta and differing responses from BJP leaders."
+      "url": "https://www.indiatoday.in/business/story/spacex-tesla-merger-talks-elon-musk-backs-proposed-union-3021656-2026-10-21",
+      "headline": "SpaceX-Tesla merger on the cards? Elon Musk says it's a good ideaElon Musk has confirmed that SpaceX and Tesla have set up special committees to explore a potential merger, saying the tie-up could unlock significant opportunities in artificial intelligence, robotics and chip development, though no transaction terms have been agreed upon and a deal remains uncertain."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/delhi-police-arrest-4-including-2-women-from-haryana-for-supplying-weapons-to-tiger-shroffs-shooters-3021631-2026-10-20",
-      "headline": "4 more arrested in Tiger Shroff firing case, including 2 women, for supplying weaponsThe two women, identified as Radha and Babita, were allegedly working as couriers for the Lawrence Bishnoi gang. They reportedly travelled by train to Mumbai with weapons and handed them over to a handler linked to the gang. The two were arrested by the Special Cell while returning by train, police said."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/video-minors-seen-waving-firearms-swords-during-vijayadashami-procession-in-up-siddharthnagar-mp-mla-present-3021568-2026-10-20",
-      "headline": "Minors wave firearms, swords at Vijayadashami procession in UP's SiddharthnagarMinors and young people waved firearms and swords during a Vijayadashami procession in Shohratgarh. Their display in the presence of police and public representatives raised child-safety concerns."
+      "url": "https://www.indiatoday.in/world/story/iran-us-talks-asim-munir-tehran-demands-nuclear-enrichment-3021648-2026-10-21",
+      "headline": "No uranium will leave Iran, Tehran tells Asim Munir amid US talks deadlockIran told Pakistan army chief Asim Munir that no enriched uranium would leave the country and ruled out talks with the US until Washington met Tehran's demands. The conditions include ending the US blockade, lifting oil sanctions and halting regional hostilities."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/pm-invokes-ram-rajya-on-dussehra-says-governance-must-ensure-equal-justice-and-opportunities-for-all-3021495-2026-10-20",
-      "headline": "Need to defeat enemies, fight attempts to divide India: PM's Dussehra messagePrime Minister Narendra Modi attended Vijayadashami celebrations at Delhi's Indraprastha Ramleela Ground, highlighting the victory of good over evil, Lord Ram's ideals, India's self-reliance and the government's commitment to the welfare of the poor and deprived."
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/jailer-2-box-office-collection-rajinikanth-film-crosses-rs-541-crore-worldwide-third-biggest-hit-2026-3021673-2026-10-21",
+      "headline": "Rajinikanth's Jailer 2 conquers Rs 500 crore, becomes 3rd biggest Indian hit of 2026Rajinikanth's Jailer 2 has crossed Rs 500 crore worldwide within five days of release. The feat makes it 2026's third-highest-grossing Indian film, behind Dhurandhar 2 and Drishyam 3."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/india-us-ties-jaishankar-rubio-early-trade-deal-counter-terror-cooperation-3021617-2026-10-20",
-      "headline": "Zero tolerance on terror: Jaishankar thanks US for Tahawwur Rana extraditionJaishankar, the chief guest at the Freedom 250 reception hosted by US Ambassador Sergio Gor in Mumbai, also thanked US Secretary of State Marco Rubio for laying a wreath at the Taj Hotel's 26/11 memorial earlier in the day."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/cjp-protest-news-abhijeet-dipke-dussehra-2026-message-ashutosh-ranka-saurav-das-itspc-3021462-2026-10-20",
-      "headline": "Pause now, protest later? Why Dipke is asking for a break to CJP stirA visibly emotional Abhijeet Dipke, founder and convenor of the Cockroach Janta Party (CJP), shared a message on Dussehra, asking supporters to spend the festival time with family. This is obviously a call for a pause in protests. There could be several reasons why the CJP is halting its protests for now."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/deepika-padukone-ranveer-singh-name-second-daughter-devi-dua-3021441-2026-10-20",
-      "headline": "Deepika Padukone and Ranveer Singh name second daughter DeviActors Deepika Padukone and Ranveer Singh have named their second daughter Devi. The couple, who are already parents to their elder daughter, Dua, shared the happy news on social media."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/bhavnagar-postal-employee-suicide-konkankada-viral-video-police-probe-3021525-2026-10-20",
-      "headline": "Man questions domestic violence law before 1,700-ft cliff jump amid marital discordA 24-year-old Gujarat post office employee died by suicide after jumping off a 1,700-feet cliff in Maharashtra. In a nearly 13-minute viral video, Vishwrajsinh Mayursinh Gohil alleged harassment over a domestic violence case filed by his wife, questioned laws under Section 498A and claimed the police were not seeking evidence. Police have launched an investigation."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/india-us-trade-deal-market-access-tariff-uncertainty-3021640-2026-10-20",
-      "headline": "Why are India and the US still waiting to announce a trade deal?Marco Rubio said India and the US were close to finalising a trade agreement. Market access differences and shifting tariff rules raise questions about its durability."
+      "url": "https://www.indiatoday.in/jobs/deep-dive/story/workplace-boundaries-how-to-say-no-manage-workload-prevent-burnout-educ-3021179-2026-10-21",
+      "headline": "The office people-pleaser's guide to saying no without burning bridgesSaying no at work doesn't make you a difficult employee. From managing competing deadlines to setting boundaries, learn how to decline extra work professionally, protect your time, and maintain healthy workplace relationships without guilt."
     },
     {
       "sentiment": "positive",
@@ -281,46 +311,21 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/mumbai/story/tiger-shroff-car-firing-umesh-chauhan-mistook-gunshot-for-tyre-burst-3021333-2026-10-20",
-      "headline": "Thought it was heart attack: Man shot while filming Tiger Shroff recounts ordealHe was treated at Cooper Hospital in Juhu before being shifted to KEM Hospital in Parel around midnight for specialist care. Chauhan said that Shroff's mother visited him on Tuesday and assured him of assistance."
+      "url": "https://www.indiatoday.in/trending-news/story/us-woman-wont-switch-seats-so-couple-can-sit-together-faces-3-hours-of-tears-3021226-2026-10-20",
+      "headline": "US woman refuses to switch seats so couple can sit together, faces 3 hours of tearsA US-based content creator refused to surrender her aisle seat so a passenger could sit beside her husband. The ensuing tears revived debate over whether travellers should accommodate seat-swap requests."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/tamil-nadu/story/ntk-candidate-karthika-arrested-dharapuram-road-blockade-seeman-dmk-react-3021493-2026-10-20",
-      "headline": "NTK candidate arrested over blockade during CM Vijay roadshow, DMK condemns actionKarthika, who contested the recently concluded Dharapuram Assembly by-election, was named in an FIR registered on the day of the protest. Police arrested her early Tuesday."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/jobs/story/qualcomm-to-cut-jobs-globally-after-employee-reviews-ceo-sends-memo-to-staff-3021444-2026-10-20",
-      "headline": "Qualcomm to cut jobs globally after employee reviews, CEO sends memo to staffQualcomm is preparing to cut jobs worldwide from November as its smartphone chip business faces challenges. The company has not revealed how many employees will be affected."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/rahul-gandhi-vietnam-trip-bjp-video-sir-protests-3021162-2026-10-20",
-      "headline": "BJP mocks Rahul Gandhi for Vietnam trip amid SIR protests, Congress hits backThe BJP mocked Rahul Gandhi over his Vietnam visit, sharing a video showing him on a flight. The jibe came amid INDIA bloc protests against the Special Intensive Revision (SIR) of electoral rolls."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/tiger-shroffs-team-warns-of-legal-action-over-fake-news-after-firing-incident-3021500-2026-10-20",
-      "headline": "Tiger Shroff's team warns of legal action over fake news after firing incidentActor Tiger Shroff's team denied issuing any statements or videos attributed to him over the recent firing incident. It urged media outlets and social media users to rely only on verified information."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-zimbabwe-harmanpreet-kaur-3rd-womens-t20i-shafali-verma-raipur-report-3021610-2026-10-20",
-      "headline": "Vintage Harmanpreet takes centre stage as India complete 3-0 series sweep in RaipurIndia crushed Zimbabwe by 92 runs in the third T20I to complete a 3-0 series sweep in Raipur. Shafali Verma smashed 69 before Harmanpreet Kaur's unbeaten 91 powered India to 216/7, marking the former captain's emphatic return to form."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/lawrence-bishnoi-profile-transnational-gang-tiger-shroff-killings-canada-salman-khan-blackbuck-3021191-2026-10-20",
-      "headline": "The desert, the canal, and the don: Biography of gangster Lawrence BishnoiGangster Lawrence Bishnoi has achieved what once took the D-Company decades to build: a transnational brand of absolute dread. He is the voice that coordinates international assassinations from the confines of a high-security cell and allegedly issues death threats to superstars via shooters."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/sonu-nigam-apology-krv-ends-protest-kannada-pahalgam-remark-3021154-2026-10-20",
-      "headline": "Don't mind saying sorry 1,000 times: Sonu Nigam to Kannadigas over Pahalgam remarkSonu Nigam has issued a heartfelt apology to the people of Karnataka for his insensitive remark comparing the demand for Kannada songs to the Pahalgam terror attack, seeking to mend ties. Following his apology, pro-Kannada group Karnataka Rakshana Vedike has called off its protest, hoping to move past the controversy and continue enjoying his music."
+      "url": "https://www.indiatoday.in/india/punjab/story/parwinder-singh-jhotta-murder-cbi-mansa-probe-drug-links-police-role-punjab-amit-shah-3021652-2026-10-21",
+      "headline": "CBI takes over Punjab's anti-drug activist Parwinder Jhotta's murder probeA CBI team reached Punjab's Mansa to investigate anti-drug activist Parwinder Singh Jhotta's murder. The probe follows Amit Shah's assurance and will examine alleged drug links and possible police assistance."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/asian-para-games/story/asian-para-games-2026-live-updates-october-21-athletics-archery-swimming-aichi-nagoya-japan-3021633-2026-10-20",
+      "headline": "Oct 21 Live: India on gold medal spree, clean sweep shot-put podium Asian Para Games 2026 Live: Praveen Kumar and Ayush Verma struck gold early on Wednesday, with Praveen setting a Games record in the men's high jump T64 as India's gold tally climbed to 11. Sachin Khilari then led an all-Indian podium in the shot put F46, while Sheetal Devi and Payal Nag added silver in women's compound doubles to keep India's medal rush going in Nagoya."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/harmanpreet-kaur-pressure-captaincy-indw-vs-zimw-3rd-t20i-raipur-3021638-2026-10-21",
@@ -374,7 +379,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ranji-trophy-sai-kishore-hat-trick-tamil-nadu-win-bengal-up-sarfaraz-khan-3021506-2026-10-20",
-      "headline": "Sai Kishore stars in TN's innings win; Sarfaraz's 154 puts Mumbai in command Sai Kishore claimed a hat-trick and finished with 10 wickets in the match as Tamil Nadu crushed Uttarakhand by an innings and 66 runs in the Ranji Trophy on Tuesday. Bengal and Uttar Pradesh also registered wins, while Sarfaraz Khan's 154 put Mumbai in a strong position against Himachal Pradesh."
+      "headline": "Sai Kishore stars in TN's innings win; Sarfaraz's 154 puts Mumbai in commandSai Kishore claimed a hat-trick and finished with 10 wickets in the match as Tamil Nadu crushed Uttarakhand by an innings and 66 runs in the Ranji Trophy on Tuesday. Bengal and Uttar Pradesh also registered wins, while Sarfaraz Khan's 154 put Mumbai in a strong position against Himachal Pradesh."
     },
     {
       "sentiment": "positive",
@@ -460,11 +465,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/sanju-samson-books-entire-theatre-rajinikanth-jailer-2-3021092-2026-10-19",
       "headline": "Sanju Samson's Rajinikanth fandom goes next level, books entire theatre for Jailer 2Sanju Samson took his admiration for Rajinikanth to another level by booking an entire theatre to watch Jailer 2 with his wife and friends. The India wicketkeeper also revealed that Tamil-speaking members of the team's support staff would join the screening."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/chinmay-sutar-400-ranji-trophy-mizoram-father-call-3021087-2026-10-19",
-      "headline": "The call that mattered most after Chinmay Sutar's historic 400 in Ranji TrophyChinmay Sutar made history with an unbeaten 400 for Mizoram against Nagaland in the Ranji Trophy. But after his record-breaking knock, the 29-year-old's first call was to father Rajesh, whose support helped him through years of missed opportunities and setbacks."
     }
   ],
   "education": [
@@ -544,7 +544,7 @@
       "headline": "UP Police Constable recruitment exam cancelled days after paper leakThe Uttar Pradesh Police Constable recruitment exam held on February 17 and 18 was canceled due to a paper leak. The Chief Minister has announced a re-examination within the next six months."
     },
     {
-      "sentiment": "positive",
+      "sentiment": "negative",
       "url": "https://www.indiatoday.in/magazine/education/story/20240304-exam-scams-plugging-the-leaks-2506171-2024-02-23",
       "headline": "Exam scams | Plugging the leaksA new central legislation aims to end the old scourge of exam paper scams for govt jobs, with heavy punishment and penalties"
     },
@@ -554,7 +554,7 @@
       "headline": "Coaching | Kota factory, season 2While online ed-tech companies eye the brick-and-mortar world of coaching centres in the city, traditional institutes are extending their digital arms to remain on top of the game"
     },
     {
-      "sentiment": "negative",
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/magazine/education/story/20220711-india-today-education-conclave-2022-all-bets-on-edutech-1968836-2022-07-01",
       "headline": "India Today Education Conclave 2022: All bets on edutechThe India Today Education Conclave 2022 touched on topics like early childhood care, universal education, the NEP and India\u2019s edutech boom"
     },
