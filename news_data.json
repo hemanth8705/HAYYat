@@ -200,14 +200,29 @@
   ],
   "general news": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/indian-embassy-issues-advisory-for-nationals-amid-france-protests-as-macron-slams-trump-3022369-2026-10-22",
+      "headline": "Indian Embassy issues advisory amid France protests as Macron slams TrumpThe Indian Embassy advised Indians in France to remain vigilant and avoid protest areas. Fresh rallies and a nationwide strike threaten to renew unrest over living costs."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/shooters-in-tiger-shroff-firing-case-had-also-conducted-recce-at-ranbir-kapoors-residence-police-sources-3022343-2026-10-21",
       "headline": "Tiger Shroff firing accused also recceed Ranbir Kapoor's home: SourcesMumbai Police said shooters accused in the Tiger Shroff firing case had also conducted a recce of Ranbir Kapoor's Bandra residence, as the probe into the alleged Bishnoi gang-linked conspiracy widened."
     },
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/story/marco-rubio-reliance-jamnagar-refinery-mukesh-ambani-us-india-energy-ties-sergio-gor-3022095-2026-10-21",
+      "headline": "Marco Rubio visits Reliance's Jamnagar refinery, meets Mukesh Ambani and familyUS Secretary of State Marco Rubio visited Reliance's Jamnagar refinery, Vantara animal-rescue centre and green-energy complex, where Mukesh Ambani and his family welcomed him."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/delhi-court-releases-cjp-co-convenors-saurav-das-and-ashutosh-ranka-after-days-in-judicial-custody-3022127-2026-10-21",
       "headline": "CJP leaders Saurav Das, Ashutosh Ranka released from Tihar Jail after a weekThe order from the Special Executive Magistrate came hours after the two withdrew their Delhi High Court petition challenging the extension of their custody. The two had been in custody following an attempt to hold a Tiranga protest at Jantar Mantar on October 14 against CEC Gyanesh Kumar."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/karnataka/story/shivamogga-dasara-elephant-runs-amok-650-kg-silver-howdah-3022074-2026-10-21",
+      "headline": "Elephant runs amok at Shivamogga Dasara procession, 650-kg silver howdah fallsThe elephant was later reported to be recovering at the Kote Seetharamanjaneya Temple. Shivamogga's Superintendent of Police and Divisional Forest Officer were at the spot, overseeing the situation."
     },
     {
       "sentiment": "positive",
@@ -221,21 +236,6 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/karnataka/story/shivamogga-dasara-elephant-runs-amok-650-kg-silver-howdah-3022074-2026-10-21",
-      "headline": "Elephant runs amok at Shivamogga Dasara procession, 650-kg silver howdah fallsThe elephant was later reported to be recovering at the Kote Seetharamanjaneya Temple. Shivamogga's Superintendent of Police and Divisional Forest Officer were at the spot, overseeing the situation."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/pakistanis-indians-canada-ai-fake-identities-passports-bank-credit-card-fraud-dolphin-anty-nccia-itspc-3021947-2026-10-21",
-      "headline": "4 Indians in Canada, 3 in Pakistan gang up, dupe banks with AI identitiesThree Pakistanis teamed up with four Indians based in Canada to defraud Canadian banks using AI-generated passports and photographs, officials in Pakistan said. The racket was exposed by Pakistan's cybercrime agency, which said the suspects created fake identities, opened bank accounts remotely and exhausted credit card limits before discarding the cards."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/story/marco-rubio-reliance-jamnagar-refinery-mukesh-ambani-us-india-energy-ties-sergio-gor-3022095-2026-10-21",
-      "headline": "Marco Rubio visits Reliance's Jamnagar refinery, meets Mukesh Ambani and familyUS Secretary of State Marco Rubio visited Reliance's Jamnagar refinery, Vantara animal-rescue centre and green-energy complex, where Mukesh Ambani and his family welcomed him."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/parakala-prabhakar-sir-protest-cjp-abhijeet-dipke-prakash-raj-3022077-2026-10-21",
       "headline": "Har gali mein Jantar Mantar: Parakala Prabhakar to join Dipke at anti-SIR protestNoted economist Parakala Prabhakar will share the stage with Cockroach Janta Party (CJP) founder Abhijeet Dipke and actor-activist Prakash Raj in a nationwide protest against the SIR exercise on October 23."
     },
@@ -243,6 +243,11 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/china-tunnel-boring-machine-new-restrictions-india-border-infrastrcture-impact-itspc-3021950-2026-10-21",
       "headline": "Will China's weaponising of tunnel-boring tech hit India's border infra push?China's dominance in tunnel-boring machines (TBMs) has added a new dimension to India's strategic infrastructure challenge, with Beijing tightening export controls. Are these Chinese curbs a threat to India's strategic border projects?"
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/pakistanis-indians-canada-ai-fake-identities-passports-bank-credit-card-fraud-dolphin-anty-nccia-itspc-3021947-2026-10-21",
+      "headline": "4 Indians in Canada, 3 in Pakistan gang up, dupe banks with AI identitiesThree Pakistanis teamed up with four Indians based in Canada to defraud Canadian banks using AI-generated passports and photographs, officials in Pakistan said. The racket was exposed by Pakistan's cybercrime agency, which said the suspects created fake identities, opened bank accounts remotely and exhausted credit card limits before discarding the cards."
     },
     {
       "sentiment": "negative",
@@ -255,14 +260,14 @@
       "headline": "Not a travel agent: Shashi Tharoor sidesteps questions on Rahul's Vietnam tripLok Sabha LoP Rahul Gandhi's alleged Vietnam trip has given the BJP fresh ammunition to question his absence amid the protests by opposition parties against the Election Commission in Delhi. When asked to explain his colleague's foreign travel, Congress MP Shashi Tharoor had a one-line response that said it all."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/vummidi-ethiraj-historic-sengol-craftsman-dies-at-99-chennai-ptag-3022150-2026-10-21",
-      "headline": "Vummidi Ethiraj, who helped craft historic sengol kept in Parliament, dies at 99Nehru received the sengol from priests of Tamil Nadu's Thiruvaduthurai Adheenam on the night of August 14, 1947. PM Modi ceremonially installed it in the new Parliament building on May 28, 2023."
-    },
-    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/trending-news/story/monkey-accused-of-biting-over-12-people-captured-in-haryana-slapped-by-crowd-3022163-2026-10-21",
       "headline": "Rs 51,000 reward, 10-day hunt: Monkey that bit over a dozen finally caught in HaryanaA crowd followed a man carrying a captured monkey in Haryana's Palwal, with some people slapping the animal. The capture followed reported attacks, more than a dozen bites and a Rs 51,000 reward."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/vummidi-ethiraj-historic-sengol-craftsman-dies-at-99-chennai-ptag-3022150-2026-10-21",
+      "headline": "Vummidi Ethiraj, who helped craft historic sengol kept in Parliament, dies at 99Nehru received the sengol from priests of Tamil Nadu's Thiruvaduthurai Adheenam on the night of August 14, 1947. PM Modi ceremonially installed it in the new Parliament building on May 28, 2023."
     },
     {
       "sentiment": "positive",
@@ -276,13 +281,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/vladimir-putin-ready-to-resume-ukraine-volodymyr-zelenskyy-peace-talks-with-us-and-kyiv-next-month-abu-dhabi-3022212-2026-10-21",
-      "headline": "Ukraine war to end soon? Putin ready to resume peace talks with US, Kyiv next monthPutin told US envoy Steve Witkoff that Moscow was prepared in principle to resume trilateral talks with Ukraine next month. The proposal could revive negotiations after a pause since February, with Abu Dhabi a possible venue."
+      "url": "https://www.indiatoday.in/movies/celebrities/story/amitabh-bachchan-advised-rest-recovery-knee-injury-kbc-18-post-takes-brief-break-3022192-2026-10-21",
+      "headline": "Amitabh Bachchan advised to rest; megastar announces brief break to recuperateMegastar Amitabh Bachchan told followers he had been advised to take a few days off to recuperate. The unexplained break drew attention after he recently disclosed a knee injury during a KBC 18 shoot."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/amitabh-bachchan-advised-rest-recovery-knee-injury-kbc-18-post-takes-brief-break-3022192-2026-10-21",
-      "headline": "Amitabh Bachchan advised to rest; megastar announces brief break to recuperateMegastar Amitabh Bachchan told followers he had been advised to take a few days off to recuperate. The unexplained break drew attention after he recently disclosed a knee injury during a KBC 18 shoot."
+      "url": "https://www.indiatoday.in/world/story/vladimir-putin-ready-to-resume-ukraine-volodymyr-zelenskyy-peace-talks-with-us-and-kyiv-next-month-abu-dhabi-3022212-2026-10-21",
+      "headline": "Ukraine war to end soon? Putin ready to resume peace talks with US, Kyiv next monthPutin told US envoy Steve Witkoff that Moscow was prepared in principle to resume trilateral talks with Ukraine next month. The proposal could revive negotiations after a pause since February, with Abu Dhabi a possible venue."
     },
     {
       "sentiment": "negative",
@@ -296,11 +301,6 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/opinion/story/mumbai-now-looks-like-sasta-new-york-it-reveals-wrong-indian-way-of-doing-things-3021978-2026-10-21",
-      "headline": "Mumbai now looks like sasta New York, it reveals wrong Indian way of doing thingsMumbai, in the last five years, has seen a construction boom that has changed its skyline. With skyscrapers dotting its coast, it now looks like New York and Hong Kong. But its beautiful skyline also hides something, a grimier and messy city that lives on the ground."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/jobs/deep-dive/story/performance-focused-layoffs-how-are-they-different-from-regular-job-cuts-educ-3021726-2026-10-21",
       "headline": "When appraisals lead to layoffs: How performance-focused job cuts workPerformance-focused layoffs, highlighted by Qualcomm's planned job cuts, link workforce reductions to employee productivity and appraisals. The story explains how they differ from conventional layoffs, why the practice isn't new, and what it means for job security."
     },
@@ -311,16 +311,21 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/after-mecca-pact-its-badr-mou-pak-turkey-qatar-indonesia-sign-defence-deal-strengthen-military-cooperation-rising-gulf-tensions-3022280-2026-10-21",
-      "headline": "After Mecca Pact, Pak signs new defence deal with Qatar, Indonesia, TurkeyThe Badr agreement comes two months after Pakistan, Saudi Arabia and Turkiye signed the Makkah Joint Defence Agreement in August. Under that agreement, an armed attack against any one of the three countries would be treated as an attack against all of them, establishing a collective defence commitment among the signatories."
+      "url": "https://www.indiatoday.in/opinion/story/mumbai-now-looks-like-sasta-new-york-it-reveals-wrong-indian-way-of-doing-things-3021978-2026-10-21",
+      "headline": "Mumbai now looks like sasta New York, it reveals wrong Indian way of doing thingsMumbai, in the last five years, has seen a construction boom that has changed its skyline. With skyscrapers dotting its coast, it now looks like New York and Hong Kong. But its beautiful skyline also hides something, a grimier and messy city that lives on the ground."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/pink-looking-dolphin-oman-species-mystery-biodiversity-3021825-2026-10-21",
-      "headline": "Is that a pink dolphin? Rare sighting surprises beachgoers in OmanWhy do some dolphins appear pink? A viral sighting off Oman's coast has renewed interest in the science behind their unusual colouring."
+      "url": "https://www.indiatoday.in/world/story/after-mecca-pact-its-badr-mou-pak-turkey-qatar-indonesia-sign-defence-deal-strengthen-military-cooperation-rising-gulf-tensions-3022280-2026-10-21",
+      "headline": "After Mecca Pact, Pak signs new defence deal with Qatar, Indonesia, TurkeyThe Badr agreement comes two months after Pakistan, Saudi Arabia and Turkiye signed the Makkah Joint Defence Agreement in August. Under that agreement, an armed attack against any one of the three countries would be treated as an attack against all of them, establishing a collective defence commitment among the signatories."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/new-zealand-vs-india-1st-t20i-preview-christchurch-weather-team-news-3022367-2026-10-22",
+      "headline": "NZ vs IND, 1st T20I preview: Sleep-deprived India face chilly Christchurch test NZ vs IND, 1st T20I preview, and team news: India arrive in Christchurch short on sleep and preparation time after a hectic run of T20Is. Shreyas Iyer's men must quickly adapt to chilly, windy conditions against a New Zealand side."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ben-stokes-denies-england-ashes-comeback-report-durham-county-focus-3022345-2026-10-21",
@@ -374,7 +379,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/marco-jansen-dale-steyn-world-best-cricketer-south-africa-australia-gqeberha-test-3022103-2026-10-21",
-      "headline": "Marco Jansen the best cricketer in the world: Dale Steyn after Gqeberha Test heroics Dale Steyn hailed Marco Jansen as \"the best cricketer in the world\" after the South African all-rounder starred with bat and ball against Australia in the Gqeberha Test."
+      "headline": "Marco Jansen the best cricketer in the world: Dale Steyn after Gqeberha Test heroicsDale Steyn hailed Marco Jansen as \"the best cricketer in the world\" after the South African all-rounder starred with bat and ball against Australia in the Gqeberha Test."
     },
     {
       "sentiment": "positive",
@@ -465,11 +470,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/asian-para-games/story/cm-vijay-rs-30-lakh-reward-jehan-madan-sahana-ravi-asian-para-games-2026-3021565-2026-10-20",
       "headline": "CM Vijay announces cash reward for Para Asian Games bronze medallists Jehan, SahanaTamil Nadu CM Vijay announced Rs 30 lakh each for para table tennis players Jehan Dorab Madan and Baby Sahana Ravi after their bronze medals at the Asian Para Games 2026, with Sahana making history in the standing category."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/asian-para-games/story/asian-para-games-pranav-soorma-gold-likens-virat-kohli-wicket-3021539-2026-10-20",
-      "headline": "Asian Para Games: Soorma likens his discus throw gold to Virat Kohli's rare wicketPranav Soorma compared his Asian Para Games gold medal to Virat Kohli occasionally taking a wicket with the ball. The Indian para-athlete set a new Asian record with a throw of 11.66 metres to win gold in the men's discus throw on Tuesday."
     }
   ],
   "education": [
