@@ -1,6 +1,26 @@
 {
   "business": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/bajaj-general-insurance-names-deepak-reddy-as-next-md-and-ceo-3023698-2026-10-23",
+      "headline": "Bajaj General Insurance names Deepak Reddy as next MD and CEOReddy has more than three decades of experience in financial services. He has held senior leadership positions at Bajaj Finserv, American Express, Standard Chartered Bank and MIRC Electronics."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/lifestyle-opens-14th-bengaluru-store-at-lulu-mall-rukmini-vasanth-unveils-festive-collection-3023596-2026-10-23",
+      "headline": "Lifestyle opens 14th Bengaluru store; Rukmini Vasanth unveils festive collection with India Today InfluenceCelebrating the festive spirit with Cutting edge designs, trendy silhouettes and premium craftsmanship at accessible prices."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/market/story/market-closing-sensex-ends-125-points-lower-nifty-tops-22600-tata-steel-down-3-3023474-2026-10-23",
+      "headline": "Sensex ends 125 points lower, Nifty tops 22,600; Tata Steel down 3%Sensex ends 125 points lower, Nifty tops 22,600; Tata Steel down 3%"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/sbi-data-leak-check-fraudulent-loans-protect-credit-score-3023434-2026-10-23",
+      "headline": "Can the SBI data leak lead to loans in your name?SBI notified affected customers after identifying personal information in suspected leaked records. The incident underscores risks from impersonation attempts and unauthorised credit activity."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/story/mans-demonetisation-defence-backfires-lands-him-in-jail-over-unpaid-loan-3023400-2026-10-23",
       "headline": "Man's demonetisation defence backfires, lands him in jail over unpaid loanCourt rejects claim that cheques were stolen; orders Rs 15 lakh fine, including Rs 14.75 lakh compensation for lender."
@@ -79,33 +99,73 @@
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/market/story/market-closing-sensex-ends-460-points-lower-nifty-below-22700-ril-down-3-3022680-2026-10-22",
       "headline": "Sensex, Nifty end in red as crude oil tops $111; markets decline for 3rd dayThe BSE Sensex closed at 73,249.39, down 460.30 points or 0.62%. The NSE Nifty 50 fell 123.70 points, or 0.54%, to settle at 22,687.65."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/icar-global-partnerships-india-agricultural-research-37-countries-3022592-2026-10-22",
-      "headline": "India's agri-search going global: ICAR's expanding footprintsICAR is expanding agricultural research cooperation through bilateral, regional and multilateral partnerships. The outreach aims to share technologies, strengthen scientific capacity and build resilient food systems."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/story/brent-crude-crosses-111-as-saudi-attacks-fuel-oil-supply-fears-3022566-2026-10-22",
-      "headline": "Brent Crude crosses $111 as Saudi attacks fuel oil supply fearsAt the time of writing, Brent Crude was trading at $111.63 a barrel, up 2.58%. WTI prices also remained elevated, adding to concerns over the impact of supply disruptions on global markets."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/jio-ipo-rush-continues-on-day-2-as-retail-investors-fully-subscribe-3022548-2026-10-22",
-      "headline": "Jio IPO rush continues on Day 2 as retail investors fully subscribeRetail investors, who have around one-third of the issue reserved for them, fully subscribed to their portion within the first two hours of bidding on Thursday."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/market/story/hdfc-bank-shares-fall-2-percent-alleged-internal-data-leak-probe-3022524-2026-10-22",
-      "headline": "HDFC Bank shares fall 2% as lender begins probe into alleged internal data leakHDFC Bank launched an internal review into alleged leaks of confidential business information. The probe has sharpened investor focus on governance and internal controls."
     }
   ],
   "entertainment": [
     {
-      "sentiment": "negative",
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/prince-william-talks-chirstopher-nolan-films-dj-dream-on-graham-norton-show-3023604-2026-10-23",
+      "headline": "Prince William talks Chirstopher Nolan films, DJ dream on Graham Norton Show Prince William joined Graham Norton and surprised guests with details about his personal interests. The appearance promoted his Earthshot Prize while supporting efforts to reach younger audiences."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/mohanlal-complete-actor-title-vijay-deverakonda-rashmika-mandanna-reaction-koffee-with-karan-karan-johar-3023718-2026-10-23",
+      "headline": "Mohanlal fans react to Vijay's 'I'm the Complete Actor' quip on KWK Vijay Deverakonda and Rashmika Mandanna reacted with surprise when Mohanlal's 'Complete Actor' title came up on Koffee With Karan. The light-hearted exchange triggered an online debate among fans over awareness of the veteran actor's sobriquet."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/actor-anjali-arora-sent-rs-120-crore-notice-organisers-seek-fir-after-kanpur-event-3023638-2026-10-23",
+      "headline": "Actor Anjali Arora sent Rs 1.20 crore notice, organisers seek FIR after Kanpur event Kanpur event organisers have served Anjali Arora a Rs 1.20 crore legal notice over her curtailed Nagada Nights performance. The dispute centres on alleged financial losses, security concerns and conflicting accounts of her departure."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/film-body-calls-for-strict-set-security-after-tiger-shroff-firing-incident-3023625-2026-10-23",
+      "headline": "Film body calls for strict set security after Tiger Shroff firing incident The Federation of Western India Cine Employees (FWICE) has urged producers to tighten film set security after gunshots targeted actor Tiger Shroff in Mumbai. Its advisory calls for verified hiring, wider protection and prompt reporting of threats."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/cm-dhami-speaks-to-daler-mehndi-amid-drunk-row-urges-mutual-dialogue-to-end-rift-3023641-2026-10-23",
+      "headline": "CM Dhami speaks to Daler Mehndi amid 'drunk' row, urges dialogue to end rift Pushkar Singh Dhami spoke to Daler Mehndi after the singer's disputed Tehri performance. The outreach followed Mika Singh's demand for an apology from BJP MLA Subodh Uniyal for 'disrespecting' Mehndi during the show."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/koffee-with-karan-9-arjun-kapoor-joins-janhvi-kapoor-varun-dhawan-3023532-2026-10-23",
+      "headline": "Arjun Kapoor to join Janhvi Kapoor, Varun Dhawan on Koffee With Karan 9 The episode will mark Janhvi and Arjun's reunion on the show, while also bringing co-stars Janhvi and Varun together on the couch for the first time."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/ranbir-kapoors-ramayana-advance-bookings-cross-1-lakh-tickets-earn-over-rs-8-crore-3023389-2026-10-23",
+      "headline": "Ranbir Kapoor's Ramayana advance bookings cross 1 lakh tickets, earn over Rs 8 crore Advance sales for director Nitesh Tiwari's Ramayana: Rise of a Legend have reached Rs 8.27 crore including block seats. The film is set for a theatrical release on November 5, 2026."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/suryaa-controversy-explained-ima-objects-sunny-deol-film-portrayal-doctors-3023316-2026-10-23",
+      "headline": "Sunny Deol's Suryaa controversy and IMA objection: Why has it upset doctors? The Indian Medical Association has raised objections to Sunny Deol's film Suryaa for its portrayal of doctors and alleged corruption in the healthcare system, fearing it could harm public trust and the safety of medical professionals. The film's teaser has sparked debate as it questions medical malpractice, with the IMA urging a careful review before the film's certification."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/gajab-raat-review-manoj-bajpayee-netflix-vaccine-scam-thriller-nushrratt-bharuccha-shradhha-das-akshay-oberoi-3023484-2026-10-23",
+      "headline": "Gajab Raat review: Manoj Bajpayee holds together a thriller more ajab than gajabRelease Date:Fri Oct 23, 2026 A corrupt sub-inspector investigates an injured woman as rival agencies seek control. The case exposes a vaccine conspiracy, but his moral transformation feels unearned."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/salaar-2-prabhas-prashanth-neel-reunion-birthday-post-3023461-2026-10-23",
+      "headline": "Prabhas, Prashanth Neel reunite on actor's birthday, Salaar 2 tease sends fans wild Actor Prabhas reunited with director Prashanth Neel as the Salaar team shared a birthday post. The meeting renewed fan anticipation for Salaar 2, though no production update was announced."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/story/day-after-no-nod-delhi-police-grant-permission-for-diljit-dosanjhs-delhi-concert-on-october-30-3023477-2026-10-23",
+      "headline": "Diljit to perform in Delhi as planned, police permit concert a day after denial Delhi Police has granted permission for Diljit Dosanjh's concert in Delhi on October 30 after initially denying it due to security concerns. The organisers agreed to several conditions related to crowd management and private security, ensuring the show goes ahead smoothly during the festive season."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/doosra-review-saurav-ganguly-lords-moment-inspires-rebellion-but-film-drops-the-ball-3023450-2026-10-23",
+      "headline": "Doosra Review: Ganguly's Lord's moment inspires rebellion, but film drops the ballRelease Date:Fri Oct 23, 2026 Doosra review: Abhinay Deo's film draws a parallel between Sourav Ganguly's iconic NatWest victory and a young girl's fight against patriarchy. However, uneven writing, rushed character development and a weak connection between the two stories keep the film from reaching its potential."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/mumbai-police-probe-threat-email-to-bmc-and-school-naming-amitabh-bachchan-3023437-2026-10-23",
-      "headline": "Mumbai Police probe threat email to BMC and school naming Amitabh Bachchan Mumbai Police have launched a search for the sender after a threat email sent to a school and the BMC office mentioned veteran actor Amitabh Bachchan and other celebrities, though thorough checks yielded nothing suspicious."
+      "headline": "Mumbai Police probe threat email to BMC and school naming Amitabh Bachchan Mumbai Police have launched a search for the sender after a threat email was sent to a school and the Brihanmumbai Municipal Corporation (BMC) office. It mentioned veteran actor Amitabh Bachchan and other celebrities, though thorough checks yielded nothing suspicious."
     },
     {
       "sentiment": "positive",
@@ -136,88 +196,48 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/jung-hoyeon-on-life-after-squid-game-k-dramas-global-appeal-hope-3023328-2026-10-23",
       "headline": "Exclusive: Jung Hoyeon on life after Squid Game, K-drama's global appeal, Hope In a conversation with India Today, the South Korean actor Jung Hoyeon discusses Korea's most expensive film Hope, working with veteran filmmakers, the responsibility that comes with global recognition, and why her generation of actresses has more room to explore diverse roles."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/sumo-didi-review-hetal-dave-heavyweight-story-that-fails-to-land-a-knockout-3023292-2026-10-23",
-      "headline": "Sumo Didi review: A heavyweight story that fails to land a knockoutRelease Date:Fri Oct 23, 2026 Sumo Didi review: The film follows Hetal Dave as she challenges prejudice through sumo wrestling. Its worthy intent is weakened by predictable writing, thin relationships and uneven music."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/aamir-khan-tears-up-says-30-years-of-relentless-work-cost-him-time-with-family-3023301-2026-10-23",
-      "headline": "Aamir Khan tears up, says 30 years of relentless work cost him time with family Aamir Khan broke down while discussing his career and family at the Singapore International Film Festival. He reflected on the real meaning of success and professional pressures that cost him his relationships."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/carrie-season-2-mike-flanagan-horror-series-to-return-for-new-chapter-stephen-king-summer-howell-3023290-2026-10-23",
-      "headline": "Carrie Season 2: Mike Flanagan's horror series to return for new chapter Two weeks after its October 7 release, Mike Flanagan and Stephen King's reimagined horror drama secures a second season following a twist-filled finale."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/entertainment/music/story/diljit-dosanjh-delhi-concert-promoted-despite-police-permission-denial-3023280-2026-10-23",
-      "headline": "Diljit Dosanjh continues to promote Delhi show despite police denying permission Diljit Dosanjh continued promoting his October 30 Delhi concert after police denied permission. The decision has left fans awaiting clarity amid security concerns and festive-season deployment demands."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/scared-of-concerts-too-abhijeet-dipkes-dig-at-delhi-police-over-diljit-show-denial-3023276-2026-10-23",
-      "headline": "Scared of concerts too? Abhijeet Dipke's dig at Delhi Police over Diljit show denial CJP founder Abhijeet Dipke and the AAP criticised Delhi Police for denying permission for Diljit Dosanjh's concert. The police cited threat inputs and security commitments behind its decision."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/jailer-2-box-office-rajinikanth-film-crosses-rs-606-crore-worldwide-in-eight-days-3023241-2026-10-23",
-      "headline": "Jailer 2 races past Jailer lifetime haul worldwide, earns Rs 606 crore in 8 days Rajinikanth's Jailer 2 surpassed Jailer's lifetime worldwide gross within eight days of release. The milestone came despite a 39.1 per cent fall in Thursday's India net earnings."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/chaar-yaar-review-purav-jha-sai-tamhankar-crime-series-stretched-thin-3023240-2026-10-23",
-      "headline": "Chaar Yaar review: Purav Jha-Sai Tamhankar's cool crime drama forgets to have funRelease Date:Fri Oct 23, 2026 Chaar Yaar reivew: Four cash-strapped friends turn to car theft as Inspector Sumati Bhalerao closes in. Their chase loses momentum amid an overextended screenplay and crowded subplots."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/reviews/story/pehla-pyaar-doosri-baar-review-fresh-faces-soulful-music-salvage-messy-rom-com-3022933-2026-10-23",
-      "headline": "Pehla Pyaar Doosri Baar review: Fresh faces, soulful music salvage messy rom-comRelease Date:Fri Oct 23, 2026 In director Anuj Saini's Pehla Pyaar Doosri Baar, a fresh-faced ensemble brings charm and sharp timing to a school reunion romance that juggles commitment phobia, toxic expectations, and modern love. The film invokes Luv Ranjan's Pyaar Ka Punchnama template for a Gen Z audience."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/reviews/story/udta-teer-review-ayushmann-khurrana-sara-ali-khan-spy-comedy-3023186-2026-10-23",
-      "headline": "Udta Teer review: Dhurandhar meets comedy of errors in Ayushmann's spy caperRelease Date:Fri Oct 23, 2026 Udta Teer movie review: Udta Teer is a spy comedy that cleverly blends humour with a tale of mistaken identity and patriotism, featuring Ayushmann Khurrana and Sara Ali Khan. The film's light-hearted approach to espionage, coupled with sharp writing and a strong supporting cast, makes it an entertaining watch."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/gajab-raat-manoj-bajpayee-daughter-trolled-ghooskhor-pandat-title-controversy-3023228-2026-10-23",
-      "headline": "Manoj Bajpayee reveals trolls targeted daughter over Ghooskhor Pandat title row Manoj Bajpayee revealed that trolls shared his young daughter's photo online amid the Ghooskhor Pandat controversy. The actor said he consulted his legal team after his family faced online attacks."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/movies/reviews/story/418-movie-review-prashanth-neel-horror-jump-scares-mental-health-message-3022853-2026-10-23",
-      "headline": "418 review: Jump scares over genuine terror in Prashanth Neel-backed horror filmRelease Date:Fri Oct 23, 2026 418 movie review: Director Kirtan Nadagouda's 418, backed by KGF and Salaar fame Prashanth Neel, is a horror thriller with a message about mental health. With a predictable storyline, the film relies heavily on jump scares and sound design to unsettle the audience."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/story/diljit-dosanjh-delhi-concert-denied-aap-alleges-punjab-bias-saurabh-bharadwaj-3023202-2026-10-23",
-      "headline": "Bias against Punjab's voices? AAP questions denial of permission for Diljit show Delhi Police denied permission for Diljit Dosanjh's October 30 concert, prompting questions from AAP leader Saurabh Bahradwaj. The dispute pits allegations of bias against the BJP's public safety defence."
     }
   ],
   "general news": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/several-feared-dead-after-firecracker-factory-explodes-in-bihars-siwan-rescue-ops-underway-3023743-2026-10-23",
+      "headline": "4 killed after house storing firecrackers explodes in Bihar, rescue ops underwayA massive explosion ripped through a house where firecrackers were stored in Bihar's Siwan district, causing part of the building to collapse."
+    },
+    {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/rahul-gandhi-vs-priyanka-rift-congress-bjp-raihan-vadra-photo-exhibition-3023353-2026-10-23",
-      "headline": "Priyanka vs Rahul in Congress: BJP claims rift amid Raihan Vadra exhibition rowBJP spokesperson Pradeep Bhandari questioned whether Priyanka Gandhi had lost faith in Rahul, alleging that she was seeking to 'soft-launch' her son by manufacturing a controversy."
+      "url": "https://www.indiatoday.in/india/law-news/story/anti-sir-protest-delhi-hc-rejects-neha-boras-plea-challenging-police-notice-to-execute-rs-10000-peace-bond-3023736-2026-10-23",
+      "headline": "Anti-SIR protest: Delhi HC setback for Neha Bora in Rs 10,000 peace bond notice caseThe Delhi High Court has dismissed AISA president Neha Bora's plea challenging a notice issued by a Special Executive Magistrate (SEM) directing her to furnish a Rs 10,000 bond with a surety to maintain peace during the inquiry and appear before the lower court."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/tamil-nadu/story/annamalai-questions-attacks-bjp-cjp-support-protest-local-body-polls-strategy-tamil-nadu-cm-challenge-vijay-itspc-3023523-2026-10-23",
+      "headline": "Annamalai's BJP attacks, a strategy or a sign of desperation?Why is K Annamalai, who has floated We The Leaders, attacking the BJP without a pause? Is the former Tamil Nadu BJP chief's offensive a calculated move ahead of the local body elections, or is it a sign of desperation?"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/punjab-cm-bhagwant-mann-alleges-political-revenge-delhi-airport-customs-chief-cec-gyanesh-kumar-brother-manish-sir-3023500-2026-10-23",
+      "headline": "Delhi airport Customs chief is CEC's brother: CM Mann claims detention was revengePunjab CM Bhagwant Mann has claimed that Delhi airport Customs chief Manish Kumar is the brother of CEC Gyanesh Kumar and alleged the detention was an attempt to take revenge and humiliate him."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/news/story/uttarakhand-man-ravi-tamta-built-electric-flying-car-without-an-engineering-degree-3023373-2026-10-23",
+      "headline": "No engineering degree, 13 years of learning: Uttarakhand man builds flying carRavi Tamta, from Uttarakhand's Almora district, spent 13 years learning through online resources and experiments to develop an electric flying vehicle. With a Bachelor of Arts degree and no formal engineering education, his journey challenges conventional ideas about who gets to innovate and where learning begins."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/technology/news/story/iphone-duo-launch-apples-first-foldable-sells-out-but-where-were-the-crowds-in-india-3023725-2026-10-23",
+      "headline": "iPhone Duo launch: Apple's first foldable sells out, but where were the crowds in India?The iPhone Duo went on sale amid reports of sold-out pre-bookings, but the launch-day scene at Apple's Saket and Noida stores was surprisingly quiet."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/shashi-tharoor-raihan-vadra-bikaner-house-photo-censorship-backfired-priyanka-gandhi-itspc-3023700-2026-10-23",
+      "headline": "Censorship gave Raihan Vadra publicity, says Shashi Tharoor, shares BBC ReelCongress MP Shashi Tharoor has called the removal of Raihan Vadra's protest photographs from Bikaner House a \"disgrace\". He said the \"censorship\" had backfired, giving more publicity to Vadra than the exhibition would have given. Tharoor shared a BBC News India Reel on the row."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/us-mercenary-vandyke-court-stay-abroad-training-myanmar-armed-groups-3023419-2026-10-23",
-      "headline": "US mercenary VanDyke returns to India, Delhi court allows longer stay abroadVanDyke and the six Ukrainians were arrested by the National Investigation Agency (NIA) in March 2026 in a case involving allegations of providing weapons and drone-warfare training to ethnic armed groups in Myanmar."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/other-cities/story/maharashtra-chhatrapati-sambhajinagar-murder-man-attacked-after-car-rams-scooter-3023349-2026-10-23",
-      "headline": "Maharashtra man chased, run over, beaten to death on busy road; murder on CCTVA car rammed Devesh Dixit's scooter before he was fatally attacked with blunt weapons. Police are examining an old rivalry and possible business dispute as motives."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/annamalai-cjp-support-will-not-hesitate-to-question-pm-modi-controversy-3023185-2026-10-23",
-      "headline": "Will never support CJP, their agenda different: Annamalai clarifies amid rowK Annamalai, who criticised the Centre's crackdown on protests by the Cockroach Janta Party, underlined that his remarks should not be construed as his support for the Abhijeet Dipke-led outfit."
+      "url": "https://www.indiatoday.in/world/us-news/story/ilhan-omar-said-elmi-name-dispute-donald-trump-demands-resignation-federal-probe-doj-itspc-3023300-2026-10-23",
+      "headline": "Resign Ilhan Nur Said Elmi, says Trump over Ilhan Omar's birth name disputeUS President Donald Trump has demanded Minnesota Congresswoman Ilhan Omar's resignation, claiming she used a fake name to enter Congress. Trump's demand follows a court filing that listed her as 'Ilhan Nur Said Elmi' and comes days after federal agents raided her Washington home, seizing her passport and phone, and reportedly collecting her DNA samples."
     },
     {
       "sentiment": "positive",
@@ -226,8 +246,43 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/asian-para-games/story/asian-para-games-2026-live-updates-october-23-archery-athletics-swimming-aichi-nagoya-japan-3023148-2026-10-23",
-      "headline": "Oct 23 Live: India win 28th gold medal in Japan, equal Hangzhou recordAsian Para Games 2026, October 23 live: India have equalled their all-time gold medal record at the Asian Para Games, with Thulasimathi Murugesan and Manasi Joshi winning the women's doubles title to take the tally to 28 golds. With 105 medals overall, India are now just three short of their Hangzhou 2022 record of 108."
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-zimbabwe-1st-womens-odi-vadodara-live-score-smriti-mandhana-3023383-2026-10-23",
+      "headline": "1st Women's ODI LIVE: Pratika 100* powers India to 9-wicket win, 1-0 series leadINDW vs ZIMW, 1st Women's ODI Live Updates: Smriti Mandhana has got out for 32 after Pratika Rawal hit a well-compiled half-century. Shafali Verma has joined Pratika in the middle."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/cities/other-cities/story/maharashtra-chhatrapati-sambhajinagar-murder-man-attacked-after-car-rams-scooter-3023349-2026-10-23",
+      "headline": "Maharashtra man chased, run over, beaten to death on busy road; murder on CCTVA car rammed Devesh Dixit's scooter before he was fatally attacked with blunt weapons. Police are examining an old rivalry and possible business dispute as motives."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/rahul-gandhi-vs-priyanka-rift-congress-bjp-raihan-vadra-photo-exhibition-3023353-2026-10-23",
+      "headline": "Priyanka vs Rahul in Congress: BJP claims rift amid Raihan Vadra exhibition rowBJP spokesperson Pradeep Bhandari questioned whether Priyanka Gandhi had lost faith in Rahul, alleging that she was seeking to 'soft-launch' her son by manufacturing a controversy."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/gajab-raat-review-manoj-bajpayee-netflix-vaccine-scam-thriller-nushrratt-bharuccha-shradhha-das-akshay-oberoi-3023484-2026-10-23",
+      "headline": "Gajab Raat review: Manoj Bajpayee holds together a thriller more ajab than gajabRelease Date:Fri Oct 23, 2026A corrupt sub-inspector investigates an injured woman as rival agencies seek control. The case exposes a vaccine conspiracy, but his moral transformation feels unearned."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/cm-dhami-speaks-to-daler-mehndi-amid-drunk-row-urges-mutual-dialogue-to-end-rift-3023641-2026-10-23",
+      "headline": "CM Dhami speaks to Daler Mehndi amid 'drunk' row, urges dialogue to end riftPushkar Singh Dhami spoke to Daler Mehndi after the singer's disputed Tehri performance. The outreach followed Mika Singh's demand for an apology from BJP MLA Subodh Uniyal for 'disrespecting' Mehndi during the show."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/maldives-pakistan-relations-mohamed-muizzu-asim-munir-defence-deals-saarc-summit-india-itspc-3022540-2026-10-23",
+      "headline": "Maldives entering Pak orbit? Muizzu signs defence deals, calls for Saarc revivalMaldives President Mohamed Muizzu's Pakistan visit saw 20 agreements, including on defence and maritime security, a meeting with army chief Asim Munir and a call to revive Saarc. The outreach has raised questions about Islamabad's growing influence in India's strategic Indian Ocean neighbourhood."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/asian-para-games/story/india-break-all-time-113-medals-record-30-gold-asian-para-games-2026-3023636-2026-10-23",
+      "headline": "India surpass Hangzhou's tally with 114 medals, achieve best-ever gold haulIndia's para-athletes surpassed all expectations to deliver their best-ever performance at the Asian Para Games, finishing their campaign with a record haul of 114 medals, including 30 gold, after a stunning final-day flourish on Friday."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/featurephilia/story/5-year-old-arjun-prajapati-with-iq-of-141-joins-mensa-and-intertel-has-read-3000-books-3023468-2026-10-23",
+      "headline": "3,000 books, IQ of 141: How 5-year-old Indian-origin boy is learning without limitsFrom exploring more than 3,000 books to asking questions about infinity, black holes and human genetics, five-year-old Arjun Prajapati's curiosity extends far beyond his age. Although Arjun joined Mensa and Intertel at four with an IQ of 141, his parents prioritise curiosity and a happy childhood."
     },
     {
       "sentiment": "negative",
@@ -236,8 +291,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/sbi-says-all-impacted-customers-informed-of-cyberattack-account-balances-are-safe-3023398-2026-10-23",
-      "headline": "SBI says all impacted customers informed of cyberattack, account balances are safeThe State Bank of India has shared an update on the cyberattack that exposed nearly 3,900 customer records. SBI says it has individually notified all affected customers, and their bank accounts remain safe."
+      "url": "https://www.indiatoday.in/india/story/india-china-faceoff-arunachal-pradesh-border-itbp-chief-congress-pm-modi-3023232-2026-10-23",
+      "headline": "ITBP chief says China face-offs ongoing along Arunachal, Congress attacks PMThe remarks by ITBP Director General Shatrujeet Kapur mark the first official confirmation of ongoing face-offs on the north-eastern border in Arunachal between Indian and Chinese troops."
     },
     {
       "sentiment": "positive",
@@ -246,8 +301,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-zimbabwe-1st-womens-odi-vadodara-live-score-smriti-mandhana-3023383-2026-10-23",
-      "headline": "1st Women's ODI LIVE: Charani double strike rocks ZimbabweINDW vs ZIMW, 1st Women's ODI Live Updates: Shree Charani has taken the crucial wickets of Chipo Mugeri-Tiripano and Modester Mupchikw to jolt Zimbabwe. Sharne Mayers has joined Beloved Biza in the middle."
+      "url": "https://www.indiatoday.in/education-today/news/story/from-jee-advanced-setback-to-usd-11-million-iit-madras-students-startup-journey-3023304-2026-10-23",
+      "headline": "Failed to crack JEE, now this IIT Madras student's startup has raised USD 1.1 millionKuldeep Rathore's journey from an unsuccessful JEE Advanced attempt to securing USD 1.1 million in pre-seed funding for SamanNow shows how setbacks can spark new beginnings. The IIT Madras student's journey shows how persistence and practical learning turn ambition into entrepreneurial success."
     },
     {
       "sentiment": "positive",
@@ -256,38 +311,110 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/new-york-city-horse-drawn-carriage-ban-june-2028-indian-tourist-trump-death-3023154-2026-10-23",
-      "headline": "New York City votes to ban horse-drawn carriages after Indian tourist's deathThe New York City Council voted 40-7 in favour of the bill on Thursday, while two members abstained. The legislation, backed by Mayor Zohran Mamdani, will end a long-standing tourist attraction and historic industry operating on city streets and in Central Park."
+      "url": "https://www.indiatoday.in/cities/delhi/story/delhi-anti-sir-protest-police-detain-marchers-election-commission-3023670-2026-10-23",
+      "headline": "Won't tolerate vote theft: Protesters stopped near EC office, several detainedDelhi Police detained several protesters marching towards the Election Commission headquarters against the Special Intensive Revision (SIR) of electoral rolls. After the march was stopped, demonstrators held a 'People's Parliament' and raised slogans against Chief Election Commissioner Gyanesh Kumar. The protest was part of a campaign spanning 88 cities across 18 states."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/mika-meets-cm-dhami-asks-him-to-get-bjp-mla-to-issue-video-apology-in-daler-mehndi-row-3023385-2026-10-23",
-      "headline": "Mika speaks to CM Dhami, requests to get BJP MLA to issue video apology in Daler rowMika Singh spoke to Uttarakhand Chief Minister Pushkar Singh Dhami and urged him to seek an apology from Subodh Uniyal. The appeal came after allegations about his elder brother Daler Mehndi's condition during a Navratri performance in Tehri snowballed into a controversy."
+      "url": "https://www.indiatoday.in/india/story/congress-pawan-khera-56-inch-toy-pm-narendra-modi-china-us-israel-itbp-chief-shatrujeet-kapur-arunachal-border-faceoff-3023634-2026-10-23",
+      "headline": "56-inch toy, China holds keys: Congress's veiled dig at PM over ITBP chief's remarkCongress leader Pawan Khera took a veiled dig at PM Narendra Modi, calling him a \"56-inch toy\" whose keys are held by China, the US and Israel. He also accused the Centre of suppressing information about border face-offs since July."
+    }
+  ],
+  "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/asian-para-games/story/india-asian-para-games-2026-vs-2023-medal-tally-comparison-3023754-2026-10-23",
+      "headline": "India rewrite Asian Para Games record, but not every sport keeps pace India set a new Asian Para Games medal record in 2026, with para athletics leading the charge. Swimming and table tennis improved their returns, but archery, badminton, shooting and powerlifting recorded fewer medals than in the 2023 edition."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/india-china-faceoff-arunachal-pradesh-border-itbp-chief-congress-pm-modi-3023232-2026-10-23",
-      "headline": "ITBP chief says China face-offs ongoing along Arunachal, Congress attacks PMThe remarks by ITBP Director General Shatrujeet Kapur mark the first official confirmation of ongoing face-offs on the north-eastern border in Arunachal between Indian and Chinese troops."
+      "url": "https://www.indiatoday.in/sports/cricket/story/ishan-kishan-injury-irfan-pathan-defends-gautam-gambhir-batting-order-new-zealand-t20i-3023727-2026-10-23",
+      "headline": "Irfan Pathan slams Gautam Gambhir's critics over Ishan Kishan's No.5 slot in 1st T20I Irfan Pathan defended Gautam Gambhir over Ishan Kishan batting at No.5 in India's first T20I against New Zealand. Kishan has been ruled out of the second T20I with an adductor strain, with Vaibhav Sooryavanshi set to replace him as India target a 2-0 series lead."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/jobs/story/why-ias-officer-tukaram-mundhe-doesnt-want-his-children-to-join-civil-services-educ-3023423-2026-10-23",
-      "headline": "After 25 transfers, IAS officer Tukaram Mundhe says his children should not join IASIAS officer Tukaram Mundhe reportedly says he would advise his children against joining the civil services after 25 transfers in 21 years. His son's six school changes before Class 5 offer a glimpse into the family costs of a demanding administrative career and explain why he favours entrepreneurship or public leadership."
+      "url": "https://www.indiatoday.in/sports/asian-para-games/story/asian-para-games-2026-sumit-antil-javelin-gold-75m-target-3023684-2026-10-23",
+      "headline": "Sumit Antil defends Asiad javelin crown, leads India's podium sweep in Nagoya Sumit Antil retained his Asian Para Games javelin crown with a throw of 72.46m in Nagoya. The two-time Paralympic champion led an Indian podium sweep as Mahendra Gurjar and Sandip Sanjay Sargar secured silver and bronze."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/what-s-hot/story/sabyasachi-diwali-bash-the-met-museum-rani-mukerji-masaba-gupta-new-york-3023325-2026-10-23",
-      "headline": "Inside Sabyasachi's grand Diwali celebration at New York's iconic Met MuseumLehengas, sarees, Indian craftsmanship and festive spirit took over New York's Metropolitan Museum of Art as Sabyasachi Mukherjee hosted a grand Diwali gathering on October 22."
+      "url": "https://www.indiatoday.in/sports/cricket/story/grace-harris-wpl-2027-auction-aakash-chopra-predicts-top-bid-3023685-2026-10-23",
+      "headline": "Australia all-rounder tipped to become most expensive player at WPL 2027 auction Aakash Chopra has tipped Grace Harris to become the most expensive player at the WPL 2027 auction, citing her explosive batting and all-round abilities. Released by RCB, the Australian has registered at a base price of Rs 30 lakh."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/jobs/in-focus/story/iim-mba-or-bakery-business-that-won-1-crore-shark-tank-funding-educ-3023362-2026-10-23",
-      "headline": "She chose baking over an IIM MBA. Her Rs 5,000 venture won Rs 1 crore in Shark TankMegha Sarayan turned down an MBA at IIM Kozhikode to focus on a bakery she started with Rs 5,000. An economics graduate and certified pastry chef, she grew Land of Cakes into Modge, a dessert brand that secured Rs 1 crore from Anupam Mittal on Shark Tank India Season 5."
+      "url": "https://www.indiatoday.in/sports/badminton/story/pv-sindhu-french-open-2026-semi-finals-ashmita-chaliha-3023620-2026-10-23",
+      "headline": "Vintage PV Sindhu storms into French Open semis to keep India's campaign alive PV Sindhu stormed into the French Open 2026 semi-finals with a straight-game win over Chiu Pin-chian. The Indian star remains the country's lone contender after Ashmita Chaliha lost to Nozomi Okuhara in the women's singles quarter-finals."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/talking-points/story/emudhra-php-and-risk-to-your-bank-account-because-ai-puts-entire-internet-on-notice-3023377-2026-10-23",
-      "headline": "eMudhra, PHP and risk to your bank account because AI puts entire internet on noticeHumans are imperfect, so it goes without saying that what we create is also imperfect. In the case of software, this imperfection means security bugs that can be exploited by AI. This month we got a glimpse of it with many calling it Bloody October. Worse, it's only the beginning and most people have no idea."
+      "url": "https://www.indiatoday.in/sports/asian-para-games/story/india-break-all-time-113-medals-record-30-gold-asian-para-games-2026-3023636-2026-10-23",
+      "headline": "India surpass Hangzhou's tally with 114 medals, achieve best-ever gold haul India's para-athletes surpassed all expectations to deliver their best-ever performance at the Asian Para Games, finishing their campaign with a record haul of 114 medals, including 30 gold, after a stunning final-day flourish on Friday."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/la-2028-cricket-qualifiers-january-february-eight-team-events-3023608-2026-10-23",
+      "headline": "Los Angeles Olympics cricket qualifiers set to take place in January-February 2028 The qualifiers for the men's and women's cricket competitions at the 2028 Los Angeles Olympics are scheduled for January-February 2028, with eight teams set to feature in each tournament."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/uma-kashvi-monkey-scare-karnataka-vidarbha-u19-womens-t20-trophy-video-3023571-2026-10-23",
+      "headline": "Watch: Monkey runs onto field, leaves Karnataka fielder rattled in U19 T20 clash A monkey running onto the field startled Karnataka fielder Uma Kashvi during their Women's U19 T20 Trophy quarter-final against Vidarbha in Nagpur. The 15-year-old claimed three wickets for 18 runs as Karnataka secured a six-run victory to reach the semi-finals."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/asian-para-games/story/asian-para-games-2026-nishad-kumar-mona-agarwal-india-closing-ceremony-flag-bearers-3023554-2026-10-23",
+      "headline": "Asian Para Games: Nishad, Mona named India's flag bearers for closing ceremony Nishad Kumar and Mona Agarwal have been named India's flag bearers for the closing ceremony of the Asian Para Games 2026 in Aichi-Nagoya, after each won two gold medals and set records in their respective events."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/asian-games/story/asian-para-games-2026-india-badminton-medals-thulasimathi-nitesh-naveen-3023522-2026-10-23",
+      "headline": "Thulasimathi, Nitesh lead India's gold rush as badminton brings 16 Asiad medals India wrapped up their Asian Para Games badminton campaign with 16 medals, including three golds. Nitesh Kumar and Naveen Sivakumar won men's singles titles, while Thulasimathi Murugesan claimed gold and two silver medals in a memorable outing."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/parvinder-awana-appointed-bcci-junior-selection-committee-chairman-3023505-2026-10-23",
+      "headline": "Parvinder Awana appointed chairman of BCCI junior selection committee Former India pacer Parvinder Awana has been appointed chairman of the BCCI's Junior Selection Committee, with the board announcing the new panel on Friday following an interview process conducted by the Cricket Advisory Committee."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/sabbhineni-meghana-retirement-india-batter-quits-all-cricket-formats-3023451-2026-10-23",
+      "headline": "India's Commonwealth Games silver medallist announces international retirementIndia batter Sabbhineni Meghana has announced her retirement from all formats of cricket, ending a career that included representing India at the 2022 Commonwealth Games, where the team won silver."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/jintimani-kalita-india-debut-assam-pacer-zimbabwe-womens-odi-3023405-2026-10-23",
+      "headline": "Who is Jintimani Kalita? Assam star makes debut, gets cap from Harmanpreet KaurJintimani Kalita made her India debut in the first women's ODI against Zimbabwe in Vadodara, receiving her maiden cap from Harmanpreet Kaur. The Assam pacer replaced Renuka Singh in the ODI squad after being part of India's T20I squad without playing a match."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-zimbabwe-1st-womens-odi-vadodara-live-score-smriti-mandhana-3023383-2026-10-23",
+      "headline": "1st Women's ODI LIVE: Pratika 100* powers India to 9-wicket win, 1-0 series leadINDW vs ZIMW, 1st Women's ODI Live Updates: Smriti Mandhana has got out for 32 after Pratika Rawal hit a well-compiled half-century. Shafali Verma has joined Pratika in the middle."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/gianni-infantino-fifa-presidency-bid-afc-backing-governance-dispute-3023340-2026-10-23",
+      "headline": "AFC makes U-turn, backs Gianni Infantino for fourth term as FIFA presidentThe Asian Football Confederation has backed Gianni Infantino for a fourth term as FIFA president, reversing its stance after the row over a proposed $4.2 billion commercial venture. The endorsement comes despite lingering questions over FIFA's governance and transparency."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/atanu-das-competitive-fire-deepika-kumari-fatherhood-interview-exclusive-3023155-2026-10-23",
+      "headline": "Atanu Das's competitive fire burns anew with India's rising archery starsAtanu Das has spent two decades in archery, but India's rising stars are giving him fresh motivation to keep competing. In an exclusive interview, the Indian archer opens up about his ambitions, fatherhood, life beyond sport and why he believes he has another decade left to represent India."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/harry-brook-double-hundred-eng-sl-tri-series-3023303-2026-10-23",
+      "headline": "Unhappy Harry Brook sees no reason to celebrate maiden ODI double hundredHarry Brook smashed a record-breaking 202 off 116 balls, but England suffered a two-wicket defeat against Sri Lanka. The England captain said his maiden ODI double hundred meant little without a match-winning result."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/football/story/bruno-fernandes-home-burglary-manchester-united-vs-como-police-probe-3023291-2026-10-23",
+      "headline": "Manchester United captain's home burgled hours after club's Champion League defeatBruno Fernandes' home in Cheshire was burgled while the Manchester United captain was in Italy for the club's 4-1 defeat to Como. The incident came amid a turbulent evening for Fernandes, who questioned Michael Carrick's tactics after the loss, prompting a pointed response from the United manager."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/asian-para-games/story/mona-agarwal-world-record-second-gold-asian-para-games-2026-3023278-2026-10-23",
+      "headline": "Mona Agarwal doubles gold tally with world-record show at Asian Para GamesMona Agarwal clinched her second gold medal at the Asian Para Games 2026 with a world-record score of 357.5 in women's 50m rifle 3 positions SH1. The Indian para-shooter bettered the previous mark of 356 as Avani Lekhara finished fourth in the event."
     },
     {
       "sentiment": "positive",
@@ -296,90 +423,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/grap-failed-to-clean-delhis-winter-air-would-pollution-be-worse-without-it-3023287-2026-10-23",
-      "headline": "GRAP failed to clean Delhi's winter air. Would pollution be worse without it?The Centre for Research on Energy and Clean Air found no sustained improvement in Delhi's winter air despite years of GRAP restrictions. Other research indicates the emergency curbs may still prevent pollution peaks from worsening."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/history-of-it/story/rani-chennamma-kittur-british-east-india-company-defeat-1824-before-1857-revolt-spc-3022907-2026-10-23",
-      "headline": "30 years before Lakshmibai, this Karnataka Rani humbled the British, but lostThree decades before the Revolt of 1857, the forces of Rani Chennamma of present-day Karnataka's Kittur defeated the East India Company, killing its political agent and capturing two British officers. However, she would lose the kingdom and die in captivity."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/bangladesh-jails-238-indians-168-await-repatriation-prisoners-nationality-verification-itspc-3023275-2026-10-23",
-      "headline": "Over half of foreigners in Bangladesh prisons are Indians, 168 stuck after jail termOf the 238 Indians lodged in Bangladesh's jails, 168 have completed their sentences but remain detained awaiting repatriation, according to a media report. The Indian High Commission, however, says only 25 verified Indians are awaiting return, with nationality verification holding up other cases."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/jio-platforms-ipo-makes-history-with-over-1-crore-applications-3023342-2026-10-23",
-      "headline": "Jio Platforms IPO makes history with over 1 crore applicationsIncorporated on November 15, 2019, Jio Platforms is a technology company focused on digital connectivity, digital services and technology-led solutions in India."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/maldives-pakistan-relations-mohamed-muizzu-asim-munir-defence-deals-saarc-summit-india-itspc-3022540-2026-10-23",
-      "headline": "Maldives entering Pak orbit? Muizzu signs defence deals, calls for Saarc revivalMaldives President Mohamed Muizzu's Pakistan visit saw 20 agreements, including on defence and maritime security, a meeting with army chief Asim Munir and a call to revive Saarc. The outreach has raised questions about Islamabad's growing influence in India's strategic Indian Ocean neighbourhood."
-    }
-  ],
-  "sports": [
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/sabbhineni-meghana-retirement-india-batter-quits-all-cricket-formats-3023451-2026-10-23",
-      "headline": "India's Commonwealth Games silver medallist announces international retirement India batter Sabbhineni Meghana has announced her retirement from all formats of cricket, ending a career that included representing India at the 2022 Commonwealth Games, where the team won silver."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/jintimani-kalita-india-debut-assam-pacer-zimbabwe-womens-odi-3023405-2026-10-23",
-      "headline": "Who is Jintimani Kalita? Assam star makes debut, gets cap from Harmanpreet Kaur Jintimani Kalita made her India debut in the first women's ODI against Zimbabwe in Vadodara, receiving her maiden cap from Harmanpreet Kaur. The Assam pacer replaced Renuka Singh in the ODI squad after being part of India's T20I squad without playing a match."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-zimbabwe-1st-womens-odi-vadodara-live-score-smriti-mandhana-3023383-2026-10-23",
-      "headline": "1st Women's ODI LIVE: Charani double strike rocks Zimbabwe INDW vs ZIMW, 1st Women's ODI Live Updates: Shree Charani has taken the crucial wickets of Chipo Mugeri-Tiripano and Modester Mupchikw to jolt Zimbabwe. Sharne Mayers has joined Beloved Biza in the middle."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/gianni-infantino-fifa-presidency-bid-afc-backing-governance-dispute-3023340-2026-10-23",
-      "headline": "AFC makes U-turn, backs Gianni Infantino for fourth term as FIFA president The Asian Football Confederation has backed Gianni Infantino for a fourth term as FIFA president, reversing its stance after the row over a proposed $4.2 billion commercial venture. The endorsement comes despite lingering questions over FIFA's governance and transparency."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/atanu-das-competitive-fire-deepika-kumari-fatherhood-interview-exclusive-3023155-2026-10-23",
-      "headline": "Atanu Das's competitive fire burns anew with India's rising archery stars Atanu Das has spent two decades in archery, but India's rising stars are giving him fresh motivation to keep competing. In an exclusive interview, the Indian archer opens up about his ambitions, fatherhood, life beyond sport and why he believes he has another decade left to represent India."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/harry-brook-double-hundred-eng-sl-tri-series-3023303-2026-10-23",
-      "headline": "Unhappy Harry Brook sees no reason to celebrate maiden ODI double hundred Harry Brook smashed a record-breaking 202 off 116 balls, but England suffered a two-wicket defeat against Sri Lanka. The England captain said his maiden ODI double hundred meant little without a match-winning result."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/football/story/bruno-fernandes-home-burglary-manchester-united-vs-como-police-probe-3023291-2026-10-23",
-      "headline": "Manchester United captain's home burgled hours after club's Champion League defeat Bruno Fernandes' home in Cheshire was burgled while the Manchester United captain was in Italy for the club's 4-1 defeat to Como. The incident came amid a turbulent evening for Fernandes, who questioned Michael Carrick's tactics after the loss, prompting a pointed response from the United manager."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/asian-para-games/story/mona-agarwal-world-record-second-gold-asian-para-games-2026-3023278-2026-10-23",
-      "headline": "Mona Agarwal doubles gold tally with world-record show at Asian Para Games Mona Agarwal clinched her second gold medal at the Asian Para Games 2026 with a world-record score of 357.5 in women's 50m rifle 3 positions SH1. The Indian para-shooter bettered the previous mark of 356 as Avani Lekhara finished fourth in the event."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-team-india-playing-xi-ishan-kishan-injury-ind-nz-3023237-2026-10-23",
-      "headline": "Ishan Kishan out of 2nd T20I, Sooryavanshi will replace batter: Sitanshu Kotak Ishan Kishan is unlikely to play the second T20I against New Zealand after suffering a groin niggle, according to batting coach Sitanshu Kotak. His absence could open the door for Vaibhav Sooryavanshi, who is yet to feature in the series."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/athletics/story/asian-para-games-india-medal-tally-sandeep-haney-gold-3023201-2026-10-23",
-      "headline": "Asian Para Games: Sandeep, Haney's world record gold take India past 100 medals Sandeep Singh Maan and Haney smashed world records to win gold medals in athletics at the Asian Para Games 2026. Their performances helped India cross the 100-medal mark in Nagoya, taking the country's gold tally to 26."
+      "headline": "Asian Para Games: Sandeep, Haney's world record gold take India past 100 medalsSandeep Singh Maan and Haney smashed world records to win gold medals in athletics at the Asian Para Games 2026. Their performances helped India cross the 100-medal mark in Nagoya, taking the country's gold tally to 26."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/other-sports/story/anahat-singh-maiden-psa-gold-semi-final-silicon-valley-open-3023172-2026-10-23",
-      "headline": "Anahat Singh scripts comeback to reach maiden PSA Gold semi-final Anahat Singh fought back from a 2-1 deficit to beat Egypt's Salma Hany and reach her maiden PSA Gold semi-final at the Silicon Valley Open. The 18-year-old's breakthrough comes a day after she stunned eight-time world champion Nour El Sherbini, putting her one win away from a place in the final."
+      "headline": "Anahat Singh scripts comeback to reach maiden PSA Gold semi-finalAnahat Singh fought back from a 2-1 deficit to beat Egypt's Salma Hany and reach her maiden PSA Gold semi-final at the Silicon Valley Open. The 18-year-old's breakthrough comes a day after she stunned eight-time world champion Nour El Sherbini, putting her one win away from a place in the final."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/asian-para-games/story/asian-para-games-2026-live-updates-october-23-archery-athletics-swimming-aichi-nagoya-japan-3023148-2026-10-23",
-      "headline": "Oct 23 Live: India win 28th gold medal in Japan, equal Hangzhou recordAsian Para Games 2026, October 23 live: India have equalled their all-time gold medal record at the Asian Para Games, with Thulasimathi Murugesan and Manasi Joshi winning the women's doubles title to take the tally to 28 golds. With 105 medals overall, India are now just three short of their Hangzhou 2022 record of 108."
+      "headline": "Oct 23 Highlights: India break record medal haul as Sumit, Soorma strike goldAsian Para Games 2026, October 23 Highlights: Golds for Sumit Antil and Pranav Soorma have ensured that India have broken their medal haul at the Asian Para Games. Sumit led a clean sweep in the combined javelin event, while Soorma pulled off a stunning performance to secure gold in men's club throw."
     },
     {
       "sentiment": "positive",
@@ -420,61 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/south-africa-vs-australia-gqeberha-test-report-innings-win-bavuma-series-level-3022968-2026-10-22",
       "headline": "Gqeberha Test: Bavuma stands tall as SA hammer Australia in comeback for the agesSouth Africa vs Australia, Gqeberha Test: South Africa pulled off a stunning comeback to beat Australia by an innings and 31 runs in Gqeberha on Thursday, levelling the three-Test series 1-1 despite losing more than 140 overs to rain."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/asian-para-games/story/sheetal-devi-asian-para-games-medals-la-2028-olympics-dream-3022957-2026-10-22",
-      "headline": "Sheetal Devi flaunts Asiad medals in touching video, reveals Olympic dreamSheetal Devi displayed her Asian Para Games medals after defending her individual gold and winning mixed-team gold. The 19-year-old archer laid out her goal of being considered alongside the able-bodied stars and being at the LA Olympics 2028."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/nz-vs-ind-1st-t20i-naman-dhir-finisher-hardik-pandya-christchurch-3022883-2026-10-22",
-      "headline": "India's next Hardik Pandya? Naman Dhir announces himself in ChristchurchNaman Dhir came up trumps once again with some sensational hitting, to help India secure a record chase in Christchurch for India. With his temperament and work ethic in place, Naman is slowly giving India an option for the finisher role and giving India hope beyond Hardik Pandya."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/glenn-phillips-reaction-india-226-run-chase-new-zealand-middle-over-mistakes-3022893-2026-10-22",
-      "headline": "Glenn Phillips rues middle-over mistakes as India chase down 226 vs New ZealandGlenn Phillips admitted New Zealand let India off the hook in the first T20I, saying his side needed to pick up more wickets in the middle overs and build pressure with the ball after the hosts chased down 226 to win by four wickets on Thursday."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/asian-para-games/story/asian-para-games-sheetal-devi-dharmaraj-solairaj-india-medal-rush-nagoya-3022899-2026-10-22",
-      "headline": "Asian Para Games, Oct 22 wrap: Sheetal Devi, Solairaj lead India's gold medal runSheetal Devi's double gold and Dharmaraj Solairaj's Asian-record long jump headlined India's medal rush at the Asian Para Games in Nagoya. Indian athletes also impressed in athletics, swimming, badminton and table tennis, with several para-shuttlers reaching finals."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/harry-brook-fastest-odi-double-century-breaks-shubman-gill-record-rawalpindi-3022882-2026-10-22",
-      "headline": "Harry Brook hits 202, breaks Shubman Gill's record for fastest ODI double centuryHarry Brook struck 202 off 116 balls against Sri Lanka in Rawalpindi, becoming England's first men's ODI double-centurion. His 114-ball milestone surpassed Shubman Gill's record and powered England to 429 for four in 50 overs."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/asian-para-games/story/asian-para-games-2026-anjanaben-bumbadiya-400m-gold-tejalben-damor-silver-medal-3022840-2026-10-22",
-      "headline": "Anjanaben Bumbadiya wins 400m gold as India clinch one-two, Tejalben Damor takes silverAnjanaben Bumbadiya won women's 400m T47 gold in 59.97 seconds as Jayanti Behera secured silver for an Indian one-two finish at the Asian Para Games. Tejalben Damor added another silver in the women's 400m T12 to boost India's medal tally."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/asian-para-games/story/india-bhavikkumar-bharwad-stripped-silver-400m-t47-asian-para-games-3022819-2026-10-22",
-      "headline": "Bhavikkumar Bharwad stripped of men's 400m T47 silver for lane infringementIndia's Bhavikkumar Bharwad was disqualified from the men's 400m T47 final at the Asian Para Games after a lane infringement, losing the silver medal he had initially won with a timing of 49.31 seconds. Gavit, who claimed the top spot in the 100m event on Wednesday, won the men's 400m T47 race by clocking 48.27sec."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/nz-vs-ind-1st-t20i-sanju-samson-powers-india-record-226-chase-3022802-2026-10-22",
-      "headline": "1st T20I: Sanju Chetta fires as India chase 226 despite failed Tilak gambleNZ vs IND, 1st T20I report: Sanju Samson's blistering 67 set the tone as India pulled off a record 226-run chase against New Zealand in Christchurch. Naman Dhir and Shreyas Iyer delivered crucial cameos to seal a thrilling win despite Tilak Varma's promotion misfiring."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/asian-para-games/story/asian-para-games-shailesh-kumar-india-t63-high-jump-medal-sweep-3022702-2026-10-22",
-      "headline": "Shailesh Kumar's record jump leads India's podium sweep in high jump T63 finalShailesh Kumar led an Indian podium sweep in the men's high jump T63 final at the Asian Para Games 2026, clearing 1.89m to set a new Games record. Varun Bhati won silver and Rahul Saroha took bronze as India completed its third medal sweep at the Games."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/cricket/story/sa-vs-aus-2nd-test-day-5-live-score-updates-gqeberha-jansen-rabada-travis-head-rain-3022570-2026-10-22",
-      "headline": "South Africa vs Australia 2nd Test Day 5: Highlights from GqeberhaSouth Africa vs Australia, 2nd Test Day 5:South Africa completed one of their finest Test victories as they toppled Australia by an innings and 31 runs in Gqeberha to set up a series decider in Cape Town."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/elina-svitolina-gael-monfils-divorce-rumours-phone-call-3022553-2026-10-22",
-      "headline": "Gael Monfils learnt of Svitolina split over phone, retired days laterGael Monfils reportedly learnt of Elina Svitolina's decision to end their marriage during a phone call in late September. The phone call left Monfils broken and accelerated his retirement from professional tennis."
     }
   ],
   "education": [
