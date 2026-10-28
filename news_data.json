@@ -1,6 +1,36 @@
 {
   "business": [
     {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/market/story/it-stocks-fall-why-infosys-tcs-hcltech-us-fed-crude-oil-prices-stock-market-down-3026623-2026-10-28",
+      "headline": "Infosys, TCS, HCLTech fall up to 5%: Why are IT stocks down today?Infosys, TCS, HCLTech and other IT shares fell sharply ahead of the US Federal Reserve's policy decision. Rising crude prices and persistent foreign investor selling deepened the broader risk-off mood."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/india-food-inflation-war-weather-onion-prices-raise-thali-costs-3026079-2026-10-28",
+      "headline": "Your everyday thali is getting costlier. How much worse can it get?The cost of a home-cooked meal has gone up sharply over the past few months, and it's not just because of onions. Rice, cooking oil and LPG are all more expensive than they were a year ago. So what's driving food inflation, and how much longer will households have to bear the cost?"
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/business/market/story/market-opening-sensex-opens-600-points-lower-nifty-below-22600-infosys-itc-it-shares-down-3026612-2026-10-28",
+      "headline": "Sensex, Nifty open in red dragged by fall in IT stocks; Infosys down 5%At around 9.27 am, the BSE Sensex was trading at 72,867.97, down 730.70 points or 0.99%. The NSE Nifty 50 stood at 22,563.30, falling 186.45 points or 0.82%."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/ipo/story/jio-platforms-ipo-listing-expected-share-price-rs-1366-gmp-22-percent-gain-3026601-2026-10-28",
+      "headline": "Jio Platforms IPO may list at Rs 1,366 as GMP signals 22% gainJio Platforms shares are due to list after robust institutional demand and a firm grey market premium. The debut marks a capital-market milestone, though execution and trading conditions will shape value."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/ipo/story/jio-platforms-ipo-listing-today-share-price-live-updates-nse-bse-reliance-industries-mukesh-ambani-3026588-2026-10-28",
+      "headline": "Jio IPO Listing Live: Shares list at Rs 1,359, at 21.36% premiumJio Platforms IPO Listing LIVE: Track Jio IPO listing price, GMP today, expected listing gains, allotment details, final subscription status and live share price on NSE and BSE."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/market/story/innodata-shares-plunge-25-percent-india-philippines-mass-layoffs-3026579-2026-10-28",
+      "headline": "Innodata shares plunge 25% on Nasdaq after report of over 500 India layoffsInnodata shares plunged after India Today reported nearly 550 layoffs in India, alongside cuts in the Philippines. The reported assignment ramp-down has sharpened scrutiny of customer concentration and the company's revenue outlook."
+    },
+    {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/jio-platforms-ipo-rs-10-3-lakh-crore-valuation-historic-listing-3026089-2026-10-27",
       "headline": "Jio Platforms IPO: Rs 10.3 lakh crore valuation sets stage for historic market debutJio Platforms is set to list after an IPO valuing it at Rs 10.3 lakh crore. A strong debut could reshape company rankings and lift Reliance Group's combined market value."
@@ -69,39 +99,54 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/govt-may-review-ltcg-tax-on-equities-in-coming-weeks-3025328-2026-10-26",
       "headline": "Govt may review LTCG tax on equities in coming weeksAt present, long-term capital gains on the sale of listed equities are taxed at 12.5%, without indexation benefits. The tax applies to gains exceeding Rs 1.25 lakh in a financial year."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/market/story/ather-energy-q2-fy27-first-quarterly-profit-revenue-jumps-63-percent-3025278-2026-10-26",
-      "headline": "Ather Energy shares surge 10% after first quarterly profit of Rs 1.26 croreAther Energy posted its first quarterly profit as electric scooter sales lifted revenue. The turnaround comes as capacity constraints and higher input costs test its expansion plans."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/market/story/stock-market-closing-bell-sensex-ends-482-points-higher-nifty-above-22700-eternal-up-3-3025238-2026-10-26",
-      "headline": "Sensex rises 483 points, Nifty above 22,750 as IT, metals lead reboundThe BSE Sensex rose 482.92 points, or 0.66%, to close at 73,606.75. The index had opened at 72,990.04 and slipped to an intraday low of 72,514.57 before recovering to its day's high at the close. The NSE Nifty 50 gained 153.20 points, or 0.68%, to settle at 22,753.20. The index also recovered from its intraday low of 22,387.35 to close at the day's high."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/bengaluru-ahmedabad-see-housing-demand-surge-which-other-cities-are-seeing-a-boom-3025165-2026-10-26",
-      "headline": "Bengaluru, Ahmedabad see housing demand surge: Which other cities are seeing a boom?Bengaluru and Ahmedabad emerged as the strongest markets for housing demand during the July-September quarter, says report."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/tata-communications-450-million-ai-connectivity-infrastructure-india-3-phases-3025196-2026-10-26",
-      "headline": "Tata Communications plans $450 million AI fibre network across IndiaTata Communications will invest nearly $450 million in a 10,000 km fibre network linking India's AI data centre corridors. The three-phase expansion will strengthen high-speed connections between computing clusters, cloud firms, capability centres, banks and other enterprises."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/only-steel-plant-left-in-netherlands-belongs-to-tata-steel-says-piyush-goyal-3025150-2026-10-26",
-      "headline": "Only steel plant left in Netherlands belongs to Tata Steel, says Piyush GoyalTata Steel's integrated steelworks at IJmuiden, near Amsterdam, is a major steel making facility in Europe. The plant plays an important role in the Netherlands' manufacturing sector and supplies steel to industries across the region."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/tesla-india-q2-results-fy26-profit-model-y-vehicle-sales-revenue-3025133-2026-10-26",
-      "headline": "Tesla entered India with big plans. Do its latest results show profit?The company reported revenue of Rs 247.31 crore in FY26, with vehicle sales accounting for nearly 87% of the total."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/noah-wyle-people-magazine-sexiest-man-alive-2026-the-pitt-emmy-winner-3026626-2026-10-28",
+      "headline": "The Pitt star Noah Wyle named 2026's sexiest man alive People magazine named Noah Wyle its sexiest man alive on Tuesday. The Emmy winner joked that the honour sounded like a prank and would invite family ribbing."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/yash-opens-ramayana-los-angeles-premiere-speech-in-kannada-3026627-2026-10-28",
+      "headline": "Ellarigu Namaskara: Yash puts Kannada on global stage at Ramayana premiere Actor Yash opened his Ramayana: Rise of a Legend premiere address in Kannada in Los Angeles. The moment spotlighted his roots and the epic's bid to reach global audiences."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/ramayana-ai-dubbing-english-nitesh-tiwari-lip-sync-real-artists-3026613-2026-10-28",
+      "headline": "Nitesh Tiwari shuts down trolls saying AI used for Ramayana dubbing. Watch Filmmaker Nitesh Tiwari clarified at the Los Angeles premiere that Artifical Intelligence was used only for lip synchronisation in Ramayana: Rise of a Legend. He said real artists recorded every dubbed voice, allowing viewers to watch the film in their preferred languages."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/prabhas-fauzi-row-netaji-grandnephew-writes-to-i-and-b-minister-demands-teaser-ban-3026590-2026-10-28",
+      "headline": "Fauzi row: Netaji's grandnephew writes to I&B Minister, demands teaser ban Indian freedom fighter Subhas Chandra Bose's grandnephew Chandra Kumar Bose has written to Information and Broadcasting Minister Ashwini Vaishnaw. In his letter, he demanded that the teaser of Prabhas' upcoming film Fauzi be immediately pulled down for allegedly trivialising Netaji."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/janhvi-kapoor-shikhar-pahariya-support-after-sridevi-death-3026602-2026-10-28",
+      "headline": "Took semester break, stayed close: Janhvi on Shikhar's support after Sridevi's death Janhvi Kapoor revealed that Shikhar Pahariya returned from London and moved closer after Sridevi's death. His quiet gesture showed how he made himself available during her grief."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/ranbir-kapoor-tells-big-b-the-3-things-essential-for-his-bond-with-alia-bhatt-kbc-18-ramayana-sai-pallavi-3026570-2026-10-28",
+      "headline": "Ranbir Kapoor tells Big B the 3 things essential for his bond with Alia Bhatt During an interaction with veteran actor and host Amitabh Bachchan on Kaun Banega Crorepati 18, actor Ranbir Kapoor reflected on his relationship with wife Alia Bhatt. He was joined by his Ramayana: Rise of a Legend co-actors Sai Pallavi and Ravie Dubey on the show."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/ramayana-rise-of-a-legend-la-premiere-ranbir-kapoor-yash-sai-pallavi-3026578-2026-10-28",
+      "headline": "Ranbir Kapoor, Yash and Sai Pallavi lead Ramayana's grand LA premiere. Pics, videos Ranbir Kapoor, Yash and Sai Pallavi led the global premiere of Ramayana: Rise of a Legend in Los Angeles. The invite-only 3D screening offered the first glimpse of Nitesh Tiwari's mythological epic."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/ramayana-vs-dangal-and-a-10-year-wait-story-for-rs-2000-crore-box-office-3026261-2026-10-28",
+      "headline": "Ramayana's Rs 2,000 crore journey: Can Ranbir Kapoor beat Aamir Khan's Dangal? For nearly a decade, Dangal has held the record for the highest-grossing Indian film worldwide, with collections of around Rs 2,000 crore. Now, Ramayana could be poised to challenge that feat. Backed by a reported Rs 2,000-crore budget, a global release and sky-high expectations, can Ranbir Kapoor's mythological epic rewrite box-office history?"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/dune-3-final-trailer-timothee-chalamets-paul-faces-fallout-of-his-rule-as-dictator-3026555-2026-10-28",
+      "headline": "Dune 3 final trailer: Timothee Chalamet's Paul faces fallout of his rule as dictator The final trailer for Denis Villeneuve's Dune: Part Three unveils Timothee Chalamet's transformation into an iron-fisted emperor. The upcoming film highlights the catastrophic fallout of Paul's holy war and an rift with Zendaya's Chani as enemies multiply."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/uorfi-javed-accuses-housing-society-of-stopping-her-from-shooting-content-at-home-3026454-2026-10-27",
@@ -151,68 +196,113 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/rise-and-fall-2-swara-bhasker-takes-a-dig-at-content-creators-reality-stars-3026070-2026-10-27",
       "headline": "Rise & Fall 2: Swara Bhasker takes a dig at content creators, reality stars Swara Bhasker took a dig at content creators and reality stars after Shreya Karla advised her to be less diplomatic on Rise & Fall Season 2. The actor said she did not need lessons on diplomacy from them."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/radhika-apte-defends-alia-bhatt-alpha-action-role-calls-out-gender-bias-female-actors-physique-3026016-2026-10-27",
-      "headline": "Radhika Apte questions why female actors face scrutiny for action roles Actor Radhika Apte defended Alia Bhatt's action avatar in Alpha amid criticism of her physique. She said the reaction exposes gendered double standards rooted in traditional attitudes."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/music/story/tomorrow-x-together-txt-soobin-controversy-deepfakes-rumours-explained-3026017-2026-10-27",
-      "headline": "K-pop artist Soobin's row: How parasocial relationships fuel the internet's rumour economy Unverified claims about TXT leader Soobin's private life spread across social media. The episode highlights how parasocial attachment can turn curiosity into intrusive scrutiny."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/story/manga-comes-to-india-whats-driving-the-anime-boom-3026020-2026-10-27",
-      "headline": "Manga comes to India: What's driving the anime boom? Japanese publishers and digital platforms are expanding manga access in India. The shift reflects anime fandom's growth beyond a niche subculture."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/story/actor-imran-khans-eviction-order-paused-by-bombay-hc-wont-have-to-leave-country-till-at-least-monday-3026036-2026-10-27",
-      "headline": "Imran Khan gets interim relief, High Court pauses leave India order till November 2 Actor Imran Khan was issued a notice by the FRRO to leave India by October 28. However, on Tuesday, the Bombay High Court paused the eviction order."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/television/story/bp-singh-death-cid-aahat-creator-dies-heart-attack-mumbai-3026025-2026-10-27",
-      "headline": "CID, Aahat creator BP Singh dies in Mumbai; actor Dayanand Shetty pays tribute Producer-director BP Singh, creator of CID and Aahat, died after a heart attack. His celebrated crime and horror shows left an enduring mark on Indian television."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/chiranjeevi-megaverse-netflix-talk-show-shoot-october-27-3025973-2026-10-27",
-      "headline": "Chiranjeevi to host OTT talk show MEGAVerse; Brahmanandam, Sunil among guests After Nandamuri Balakrishna and Jagapathi Babu explored the talk-show format, Chiranjeevi is reportedly set to make his OTT debut as a host with a new talk show."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/actor-rishikanth-got-love-but-dorothy-sananth-deserves-world-for-transwoman-act-3025384-2026-10-27",
-      "headline": "Actor Rishikanth got love, but Dorothy's Sananth deserves world for transwoman act Actor Sananth's performance as Subbu in Dorothy brings a trans woman's concealed identity and tenderness to life. Its precision and restraint place him alongside Rishikanth in the film's awards conversation."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/vidyut-jammwal-reacts-hansi-flick-ai-meme-tiger-shroff-remarks-football-barcelona-3025978-2026-10-27",
-      "headline": "Vidyut Jammwal reacts as his Tiger Shroff remark becomes AI meme ft. Barcelona coach An AI-generated Hansi Flick clip reused Vidyut Jammwal's remarks after Barcelona's El Clasico defeat. The parody connected football banter with his response to the shooting involving Tiger Shroff."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/isha-malviya-on-finding-love-again-eventually-i-would-want-somebody-with-me-tum-mere-ho-3025957-2026-10-27",
-      "headline": "Eventually, I would want somebody with me: Isha Malviya on finding love again Actor Isha Malviya opened up about her personal life and relationships in an exclusive conversation. While keeping her immediate priority on her career, the actor shared her perspective on moving forward and finding love again."
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/israel-exit-polls-show-deadlock-for-netanyahu-setting-stage-for-coalition-battle-3026548-2026-10-28",
-      "headline": "Israel exit polls show deadlock for Netanyahu, setting stage for coalition battleFinal results may take days to emerge, and the country's fragmented parliamentary system gives smaller parties considerable influence over who ultimately takes power."
+      "url": "https://www.indiatoday.in/india/story/india-invites-all-sco-members-pakistan-civilisational-dialogue-forum-delhi-3026598-2026-10-28",
+      "headline": "In a first since Operation Sindoor, India invites Pakistan for SCO forum in DelhiIndia has invited all 10 SCO members, including Pakistan, to its inaugural Civilisational Dialogue Forum in New Delhi next month, marking the first invitation to a senior Pakistani minister since Operation Sindoor."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/uae-honours-indian-pilot-smit-machchhar-flydubai-crew-bravery-3026569-2026-10-28",
+      "headline": "UAE honours Captain Smit Machchhar for bravery during flydubai cockpit attackThe UAE honoured Captain Smit Machchhar and the flydubai crew for their response to a cockpit emergency. Their intervention helped protect passengers and secure the aircraft after the pilot was seriously injured."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/elections/story/uttar-pradesh-mlc-election-results-varanasi-gorakhpur-samajwadi-party-bjp-3026636-2026-10-28",
+      "headline": "Uttar Pradesh MLC results: Samajwadi Party scores big in both Varanasi seatsThe Samajwadi Party retained the Varanasi Teachers' MLC seat and is set for a decisive victory in the Varanasi Graduates' constituency."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/cyclone-arnab-live-updates-bay-of-bengal-imd-alert-odisha-andhra-pradesh-rain-tracker-weather-forecast-3025706-2026-10-27",
-      "headline": "Live: Cyclone Arnab begins landfall near Yanam, close to Andhra's KakinadaCyclone Arnab Live Updates: Cyclone Arnab has started making landfall near Yanam, close to Kakinada in Andhra Pradesh, early Wednesday. The landfall process is expected to be completed by 4 am, officials said. Heavy rain and strong winds are likely to continue in the region even after the landfall is complete. The very severe cyclonic storm is expected to bring winds of up to 135 kmph, with gusts reaching 150 kmph. Andhra Pradesh has shifted 84,396 people to 290 shelters, while disaster response forces, the Navy and the Coast Guard remain on alert. Heavy to extremely heavy rainfall has been recorded at 161 locations across the state. At least 21 flights were cancelled at Vijayawada and Visakhapatnam airports, while the Railways cancelled at least 50 trains. Odisha and Andhra Pradesh have prepared nearly 4,000 shelters, with further evacuations underway. West Bengal and Jharkhand are also under weather alerts. Follow indiatoday.in for live updates."
+      "headline": "Live: Cyclone Arnab stationary after landfall; heavy rain batters Andhra, OdishaCyclone Arnab Live Updates: The landfall process of 'very severe' cyclonic storm Arnab was underway along the Andhra Pradesh coast early Wednesday, with the storm's centre remaining close to the coastline, the India Meteorological Department (IMD) said. The cyclone's northern spiral band has moved further inland, and the landfall process is expected to continue for another three hours, the weather agency said. The cyclone was positioned over the west-central Bay of Bengal, close to the Andhra Pradesh coast, at latitude 16.4\u00b0N and longitude 82.0\u00b0E. It was located around 30 km east of Narsapur, 45 km south-southwest of Yanam, 70 km south-southwest of Kakinada and 90 km east-northeast of Machilipatnam. Follow indiatoday.in for live updates."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/saudi-arabia-1-billion-dollar-offer-to-houthis-pakistan-asim-munir-iran-talks-itspc-3026149-2026-10-27",
-      "headline": "With Munir at negotiating table, Saudi offers $1 billion to Houthis for peaceSaudi Arabia has reportedly offered the Iran-backed Houthis $1 billion with Pakistan's Army Chief, Field Marshal Asim Munir, present during the talks in Tehran. The negotiations were held by Mecca pact partners and Iran to halt attacks and restore oil exports."
+      "url": "https://www.indiatoday.in/jobs/deep-dive/story/from-microsoft-buyouts-to-appraisal-cuts-meet-the-four-shades-of-layoffs-educ-3025827-2026-10-28",
+      "headline": "From Microsoft buyouts to appraisal cuts: Meet the four shades of layoffsLayoffs don't always begin with a pink slip. Sometimes, they come as buyouts, appraisal worries or organisational changes. Here are four shades of job cuts and what they mean for employees navigating uncertainty."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/ipo/story/jio-platforms-ipo-listing-today-share-price-live-updates-nse-bse-reliance-industries-mukesh-ambani-3026588-2026-10-28",
+      "headline": "Jio IPO Listing Live: Shares list at Rs 1,359, at 21.36% premiumJio Platforms IPO Listing LIVE: Track Jio IPO listing price, GMP today, expected listing gains, allotment details, final subscription status and live share price on NSE and BSE."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/maldives-president-muizzu-pakistan-visit-india-ties-defence-agreement-oppisition-in-male-itspc-3025979-2026-10-28",
+      "headline": "If India feels threatened: Maldives Opposition warns Muizzu over Pak tiesMaldives President Mohamed Muizzu's visit to Pakistan has triggered a political backlash at home. Opposition leaders in Male have warned that closer security ties with Pakistan could strain relations with India."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/india-undertrial-crisis-ncrb-data-jail-umar-khalid-sharjeel-imam-delhi-riots-uapa-crime-itspc-3026380-2026-10-28",
+      "headline": "Over 8,800 Sharjeel Imam, Umar Khalid in India's jailsWhile people highlight the long incarceration of activists Sharjeel Imam and Umar Khalid, there are close to 9,000 undertrials who have spent over five years in Indian jails without being convicted. In fact, 72% of all prisoners in India are undertrials."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ind-v-nz-abhishek-sharma-best-t20i-openers-stats-3026600-2026-10-28",
+      "headline": "Powerplay King: Is Abhishek Sharma the best T20I opener going around?Abhishek Sharma's 35-ball century in Wellington was another reminder of his extraordinary hitting, but the numbers tell a bigger story. With a staggering strike rate and a record of rapid fifties, is he the best T20I opener going around?"
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/trending-news/story/statue-of-unity-in-gujarat-gets-a-12-acre-rainforest-with-year-round-artificial-rain-3026154-2026-10-27",
+      "headline": "Statue of Unity in Gujarat gets a 12-acre rainforest with year-round artificial rainA year-round rainforest experience has opened for tourists at the Statue of Unity in Gujarat. The Rs 12-crore attraction combines artificial rain, lush landscaping and a circular glass sky walk."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/law-news/story/sanjay-kishan-kaul-memoir-government-role-judicial-appointments-3026512-2026-10-27",
+      "headline": "Governments have always preferred judges who agree with them: Justice SK KaulFormer Supreme Court judge Sanjay Kishan Kaul has accused governments of favouring judges who share their principles, saying the judiciary must stand firm to protect its independence. Criticising former CJI DY Chandrachud's approach to judicial appointments, Kaul said the Collegium must deliberate independently and avoid seeking the government's approval beforehand."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/trending-news/story/customer-slaps-waiter-at-taj-agra-for-poor-english-heres-what-happened-next-3026586-2026-10-28",
+      "headline": "Customer slaps waiter at Taj Agra after mix-up over poor English. This happened nextA Taj Agra guest was blacklisted for life after allegedly slapping a waiter. A LinkedIn post detailing the incident has garnered praise from social media users."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/ramayana-vs-dangal-and-a-10-year-wait-story-for-rs-2000-crore-box-office-3026261-2026-10-28",
+      "headline": "Ramayana's Rs 2,000 crore journey: Can Ranbir Kapoor beat Aamir Khan's Dangal?For nearly a decade, Dangal has held the record for the highest-grossing Indian film worldwide, with collections of around Rs 2,000 crore. Now, Ramayana could be poised to challenge that feat. Backed by a reported Rs 2,000-crore budget, a global release and sky-high expectations, can Ranbir Kapoor's mythological epic rewrite box-office history?"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/badr-pact-members-pakistan-turkey-indonesia-qatar-military-industrial-complex-kaan-jet-babur-corvette-itspc-3025840-2026-10-28",
+      "headline": "Will Pak get access to top-notch Halal defence hardware under Badr Pact?Can the Badr Pact lay the foundation for an Islamic military-industrial complex? Turkey, Pakistan, Indonesia and Qatar want to pool their defence capabilities and reduce dependence on the West and Russia and China for arms."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/technology/news/story/anthropic-speeds-up-drug-discovery-as-claude-spots-issues-humans-miss-cuts-review-time-by-89-3026594-2026-10-28",
+      "headline": "Anthropic speeds up drug discovery as Claude cuts medical review time by 89%From writing emails and code to designing real medicines, Anthropic has officially entered the race to transform healthcare with AI."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/india-food-inflation-war-weather-onion-prices-raise-thali-costs-3026079-2026-10-28",
+      "headline": "Your everyday thali is getting costlier. How much worse can it get?The cost of a home-cooked meal has gone up sharply over the past few months, and it's not just because of onions. Rice, cooking oil and LPG are all more expensive than they were a year ago. So what's driving food inflation, and how much longer will households have to bear the cost?"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/news/story/uk-universities-indian-students-925-pounds-more-new-levy-august-2028-study-abroad-additional-cost-3026616-2026-10-28",
+      "headline": "UK universities to cost Indian students 925 pounds more: What the new levy meansThe UK government plans to charge universities in the United Kingdom 925 pounds annually for each eligible overseas student from August 2028. Its impact on Indian applicants will depend on whether institutions pass on the additional cost."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/karnataka/story/siddaramaiah-sting-operation-rahul-gandhi-meeting-fair-probe-ptag-3026379-2026-10-27",
+      "headline": "Siddaramaiah briefs Congress high command on 'sting op', seeks Rahul meetingSiddaramaiah informed the Congress leadership about the alleged sting and plans to seek a meeting with Rahul Gandhi. His demand for a fair probe comes amid arrests, political accusations and legal action."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/benjamin-netanyahu-likud-lead-israel-election-exit-polls-iran-war-3026583-2026-10-28",
+      "headline": "Netanyahu calls for strong, right-wing national govt as exit polls show deadlock Live updatesWith exit polls pointing to a deadlock in Israel's wartime election, Prime Minister Benjamin Netanyahu has called for a strong right-wing government, ruled out relying on Arab-led parties and vowed to work with US President Donald Trump to eliminate the threat posed by Iran."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/cyclone-arnab-became-monstrous-without-warning-did-el-nino-give-it-a-power-boost-3026457-2026-10-28",
+      "headline": "Cyclone Arnab became monstrous without warning: Is El Nino fuelling it?Cyclone Arnab rapidly intensified over the Bay of Bengal before its early October 28 landfall. Its sudden surge exposed forecasting gaps while raising concerns over destructive rain, winds and flooding."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/ramayana-rise-of-a-legend-la-premiere-ranbir-kapoor-yash-sai-pallavi-3026578-2026-10-28",
+      "headline": "Ranbir Kapoor, Yash and Sai Pallavi lead Ramayana's grand LA premiere. Pics, videosRanbir Kapoor, Yash and Sai Pallavi led the global premiere of Ramayana: Rise of a Legend in Los Angeles. The invite-only 3D screening offered the first glimpse of Nitesh Tiwari's mythological epic."
     },
     {
       "sentiment": "positive",
@@ -221,106 +311,51 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/sonia-gandhi-book-pm-rajiv-gandhi-belonging-a-journey-of-love-congress-party-itspc-3026161-2026-10-27",
-      "headline": "Didn't want Rajiv to be PM: Sonia Gandhi says there will be tamasha over her bookCongress leader Sonia Gandhi has revealed that she was totally against her husband Rajiv Gandhi becoming Prime Minister. The Rajya Sabha MP shared the anecdote while discussing her upcoming memoir, Belonging: A Journey of Love, which she said could trigger a tamasha as it presents her account of events."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/lula-calls-flavio-bolsonaros-us-departure-shameful-after-election-defeat-washington-set-to-grant-family-visas-3026550-2026-10-28",
-      "headline": "Lula slams Flavio Bolsonaro's US departure as Washington set to grant family visasLula called Flavio Bolsonaro's departure for the United States shameful after his election defeat. The move could deepen Brazil-US tensions as Washington prepares visas for his family."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/israel-election-2026-voting-live-updates-benjamin-netanyahu-gadi-eisenkot-voter-turnout-yashar-party-likud-3025862-2026-10-27",
-      "headline": "Live: No clear majority for Netanyahu or Eisenkot, Israel exit polls showIsrael Election 2026 Live Updates: As voters in Israel go to the polls today, Prime Minister Benjamin Netanyahu faces a battle to retain power in the first national election since the Hamas-led attacks of October 7, 2023 (commonly known as the October 7 attacks). The parliamentary polls are being seen as an opportunity for voters to assess his leadership in the wake of the wars in Gaza and with Iran, as well as Israel's deepening international isolation. Yet Netanyahu, Israel's longest-serving PM, with 19 years in office, has repeatedly weathered political challenges. With nationalist politics gaining ground and Israel's fragmented political system making coalition-building complex, he remains a significant force in the race. Opinion polls indicate a tight contest between Netanyahu's Likud party and its right-wing allies, and a rival bloc led by Yashar party's Gadi Eisenkot, a former Israel Defense Forces (IDF) chief known for his hawkish security stance and backed by supporters across the right and centre. Follow IndiaToday.in for live updates on the 2026 Israel election."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/science/story/cyclone-arnab-landfall-andhra-pradesh-150-kmph-winds-kakinada-flood-rescues-3026554-2026-10-28",
-      "headline": "Cyclone Arnab landfall continues along Andhra coast, 4 rescued from floodwatersCyclone Arnab's landfall continued along the Andhra Pradesh coast as police rescued stranded residents. Heavy rainfall, flooding and winds gusting to 150 kmph disrupted several coastal districts."
+      "headline": "Cyclone Arnab spells devastation: Roads flooded, trees uprooted, seawater in homesCyclone Arnab's landfall continued along the Andhra Pradesh coast as police rescued stranded residents. Heavy rainfall, flooding and winds gusting to 150 kmph disrupted several coastal districts."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/lydia-polgreen-nyt-new-york-times-column-backlash-delhi-protests-india-cjp-gyanesh-kumar-narendra-modi-itspc-3025965-2026-10-27",
-      "headline": "I was in India for a week: NYT journalist gets shredded for opinion on protestsThe New York Times journalist Lydia Polgreen's column on protests in New Delhi has drawn criticism from Indian commentators, who questioned whether a brief visit and conversations at a couple of protest sites can support sweeping conclusions about the political mood of a country of 1.4 billion people."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/mike-waltz-bruno-rodriguez-un-clash-cuba-embargo-vote-3026551-2026-10-28",
-      "headline": "Rolex watches, corruption claims spark fiery showdown between US, Cuba at UNUS envoy Mike Waltz and Cuban minister Bruno Rodr\u00edguez clashed at the UN podium. Their confrontation interrupted proceedings ahead of a vote condemning the US embargo."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/law-news/story/sanjay-kishan-kaul-memoir-government-role-judicial-appointments-3026512-2026-10-27",
-      "headline": "Governments have always preferred judges who agree with them: Justice SK KaulFormer Supreme Court judge Sanjay Kishan Kaul has accused governments of favouring judges who share their principles, saying the judiciary must stand firm to protect its independence. Criticising former CJI DY Chandrachud's approach to judicial appointments, Kaul said the Collegium must deliberate independently and avoid seeking the government's approval beforehand."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/us-midterm-elections-trump-respect-results-honest-polls-3026534-2026-10-28",
-      "headline": "If they're honest elections: Trump on accepting US midterm resultsDonald Trump said he would respect the US midterm results if the elections were honest. His qualification comes as Republicans battle to retain control of Congress."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/jobs/deep-dive/story/microsoft-buyouts-include-xbox-employees-after-gaming-divisions-latest-job-cuts-educ-3026348-2026-10-27",
-      "headline": "Microsoft spent $69 billion on gaming. Why is Xbox cutting jobs now?Microsoft spent $68.7 billion to acquire Activision Blizzard and expand its gaming empire with the likes of Call of Duty, Warcraft, and more. Yet Xbox is facing job cuts and restructuring, while eligible employees are included in a new voluntary buyout programme. The story explains why a promising business bet can lose momentum, how buyouts work and what Microsoft's gaming reset means."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/tamil-nadu/story/nirmal-kumar-tvk-minister-tamil-nadu-school-corruption-certificates-claim-anbil-mahesh-dmk-arrested-bribery-case-3026122-2026-10-27",
-      "headline": "Ex-Tamil Nadu Education Minister took Rs 400 crore from schools: TVK leaderTamil Nadu Minister Nirmal Kumar has alleged that arrested DMK leader Anbil Mahesh collected over Rs 400 crore from schools in the name of party funds by demanding money for issuing certificates. Mahesh was arrested in a Rs 100-crore bribery case linked to private school approvals and clearances."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/pope-leo-lung-cancer-surgery-reshapes-catholic-views-vatican-3026549-2026-10-28",
-      "headline": "Pope Leo's cancer diagnosis 'gamechanger' for his 'Superman' image: Vatican officialArchbishop Paul Gallagher said Pope Leo's lung cancer surgery had changed perceptions of his health and papacy. He called the diagnosis a gamechanger as the pontiff resumed duties and prepared for a South America tour."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/features/story/saaspocalypse-may-be-over-tcs-and-infosys-prove-it-with-ai-revenue-3026116-2026-10-27",
-      "headline": "SaaSpocalypse may be over, TCS and Infosys prove it with AI revenueTCS and Infosys have posted their financial results for Q2 2026. One aspect in particular stands out which is that both companies have seen growth in AI revenue. But what about the SaaSpocalypse?"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/the-one-about-matthew-perry-review-tragic-life-of-the-man-who-made-the-world-laugh-3026291-2026-10-27",
-      "headline": "The One About Matthew Perry review: Tragic life of man who made world laughRelease Date:Tue Oct 27, 2026Netflix's three-part documentary retraces Matthew Perry's life through family, friends and colleagues. Their memories reveal the private struggles behind his celebrated portrayal of Chandler Bing."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/deepinder-goyal-says-do-not-buy-temple-wearable-if-your-basics-are-not-in-place-3025940-2026-10-27",
-      "headline": "Deepinder Goyal says don't buy Temple if your basics are not in placeZomato founder Deepinder Goyal has advised people not to buy his Temple brain-monitoring wearable if their basic needs are not in place. His remark came in response to an X user who shared a health and fitness pyramid ahead of the device's November 1 pre-orders."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/hyderabad/story/hyderabad-rape-case-man-locked-myanmar-origin-wife-inside-house-sent-3-friends-to-sexually-assault-her-3025811-2026-10-27",
-      "headline": "Hyderabad man locks Myanmarese wife inside house, sends 3 friends to rape herThe woman, who had been living in Bangladesh's Cox's Bazar, claimed that her husband brought her to Hyderabad in May this year without informing her family. The two got married shortly after and rented a house."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/madhya-pradesh-cheetah-kng22-dies-five-firearm-pellets-stf-probe-3026310-2026-10-27",
-      "headline": "In first such killing in India, Kuno cheetah cub shot dead, pellets recoveredA 19-month-old male cheetah, KNG22, died in Madhya Pradesh after five firearm pellets were recovered from its body during emergency surgery. Rescued in an injured condition from the Morena Territorial Forest Division on October 25, the cheetah succumbed despite treatment. The state government has formed a Special Task Force to investigate the incident."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/anirudh-ravichander-kavya-maran-wedding-reception-invite-guest-list-3025893-2026-10-27",
-      "headline": "Anirudh-Kavya Maran's Chennai reception invite goes viral; PM Modi, Vijay invitedComposer Anirudh Ravichander and Kavya Maran's wedding reception invitation has caught attention online for its elaborate Baroque-inspired design, featuring an ivory-and-blue colour scheme."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/trending-news/story/rs-20-lakh-stolen-jaipur-man-chases-thieves-but-wont-let-go-of-his-kachori-3026227-2026-10-27",
-      "headline": "Rs 20 lakh stolen, Jaipur man chases thieves but won't let go of his kachoriTwo scooter-borne thieves stole Rs 20 lakh from a man during his kachori stop. His snack-in-hand chase, captured on CCTV, became the incident's unusual detail."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/tamil-nadu/story/keerthana-gold-jewellery-row-tirupati-visit-tvk-minister-hits-back-trolls-thanks-cm-vijay-support-3026115-2026-10-27",
-      "headline": "I'm just a girl: TVK minister slams trolls over wearing gold jewellery at TirupatiTamil Nadu Minister Keerthana responded to social media criticism over the gold jewellery worn during her Tirupati visit. Her remarks underscored her resolve and acknowledged support from Vijay and the public."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/kylian-mbappe-mao-remark-chinese-brands-end-sponsorship-deals-3025980-2026-10-27",
-      "headline": "Mbappe apologises to China after three brands drop him over Mao Zedong remarkReal Madrid superstar Kylian Mbappe has lost three Chinese brand partnerships after a viral video sparked outrage over a remark about Mao Zedong."
+      "url": "https://www.indiatoday.in/world/story/saudi-arabia-1-billion-dollar-offer-to-houthis-pakistan-asim-munir-iran-talks-itspc-3026149-2026-10-27",
+      "headline": "With Munir at negotiating table, Saudi offers $1 billion to Houthis for peaceSaudi Arabia has reportedly offered the Iran-backed Houthis $1 billion with Pakistan's Army Chief, Field Marshal Asim Munir, present during the talks in Tehran. The negotiations were held by Mecca pact partners and Iran to halt attacks and restore oil exports."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/gautam-gambhir-finds-hardik-pandya-replacement-indian-cricket-team-3026618-2026-10-28",
+      "headline": "Gautam Gambhir's vision: Building today's players into tomorrow's match-winners Hardik Pandya's absence presents India with a difficult T20 selection puzzle, with no single player able to replicate everything he brings to the side. Gautam Gambhir's challenge is to find a combination that can share those responsibilities without compromising the team's balance."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/business-today-and-dp-world-pgti-announce-27th-season-of-bt-golf-3026625-2026-10-28",
+      "headline": "Business Today and DP World PGTI announce 27th season of BT Golf Business Today and DP World PGTI announced their partnership at Delhi's Qutub Golf Course. Sporting legend Kapil Dev joined Business Today editors at the season preview to champion a shared vision of making golf more visible, accessible, and approachable."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/hockey/story/mandeep-singh-retirement-talk-craig-fulton-la-2028-olympics-hockey-3026611-2026-10-28",
+      "headline": "Retirement talk? Mandeep, Fulton have other plans and LA 2028 is one of them Mandeep Singh answered retirement rumours with a stunning hat-trick as India thrashed Bangladesh 13-0 in the Asian Champions Trophy. With Craig Fulton backing his senior players, the Indian striker has set his sights on the Los Angeles 2028 Olympics."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/rugby-bihar-haka-new-zealand-video-3026599-2026-10-28",
+      "headline": "Haka in Bihar: New Zealand U20 team steals show in U20 rugby sevens series New Zealand's Under-20 rugby players brought a powerful display of Maori tradition to Rajgir, giving Bihar a taste of one of the sport's most recognisable rituals. Their Haka was a standout moment in a series celebrating 100 years of sporting ties between India and New Zealand."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ind-v-nz-abhishek-sharma-best-t20i-openers-stats-3026600-2026-10-28",
+      "headline": "Powerplay King: Is Abhishek Sharma the best T20I opener going around? Abhishek Sharma's 35-ball century in Wellington was another reminder of his extraordinary hitting, but the numbers tell a bigger story. With a staggering strike rate and a record of rapid fifties, is he the best T20I opener going around?"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/novak-djokovic-serbian-election-praises-students-vucic-3026580-2026-10-28",
+      "headline": "Proud Djokovic praises students after mass movement topples Serbian government Novak Djokovic has hailed Serbia's student movement after its stunning election victory against Aleksandar Vucic's ruling party. Djokovic said that the protesters have made the country proud."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/wpl-2027-auction-kochi-date-time-player-list-team-purses-slots-live-streaming-3026372-2026-10-28",
+      "headline": "Auction complete guide: Where to watch, FAQs and top players on list The WPL 2027 auction will take place in Kochi on Wednesday, October 28, with 146 players, including 119 Indians and 27 overseas cricketers, competing for 27 slots across five franchises."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/pratika-rawal-press-conference-smriti-mandhana-india-vs-zimbabwe-women-odi-3026527-2026-10-27",
@@ -344,37 +379,37 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/australia-vs-south-africa-3rd-test-day-1-report-starc-six-wicket-3026452-2026-10-27",
-      "headline": "Starc six-wicket haul sparks Australia fightback as South Africa collapse on Day 1 Mitchell Starc claimed six wickets as Australia fought back from a disastrous start to bowl South Africa out for 329 on the opening day of the decisive third Test at Newlands on Tuesday."
+      "headline": "Starc six-wicket haul sparks Australia fightback as South Africa collapse on Day 1Mitchell Starc claimed six wickets as Australia fought back from a disastrous start to bowl South Africa out for 329 on the opening day of the decisive third Test at Newlands on Tuesday."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/other-sports/story/world-boxing-u19-championships-aditya-wins-55kg-gold-india-megha-silver-3026434-2026-10-27",
-      "headline": "World U19 Boxing: Aditya wins gold in men's 55kg, Megha takes silver in women's 80kg Aditya staged a comeback to defeat Russia's Islam Magomedov 4:1 and win gold in the men's 55kg category at the World U-19 Boxing Championships in Budva, Montenegro. Megha Sheokand claimed silver in the women's 80kg category."
+      "headline": "World U19 Boxing: Aditya wins gold in men's 55kg, Megha takes silver in women's 80kgAditya staged a comeback to defeat Russia's Islam Magomedov 4:1 and win gold in the men's 55kg category at the World U-19 Boxing Championships in Budva, Montenegro. Megha Sheokand claimed silver in the women's 80kg category."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/michael-carrick-stays-manchester-united-manager-crisis-talks-3026375-2026-10-27",
-      "headline": "Carrick stays on as Manchester United manager after crisis talks, takes training Michael Carrick will continue as Manchester United manager after crisis talks, with the Englishman taking training as the club moves to steady the situation following recent uncertainty over his future."
+      "headline": "Carrick stays on as Manchester United manager after crisis talks, takes trainingMichael Carrick will continue as Manchester United manager after crisis talks, with the Englishman taking training as the club moves to steady the situation following recent uncertainty over his future."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/other-sports/story/army-equestrian-championships-new-delhi-3026298-2026-10-27",
-      "headline": "Army Equestrian Championships 2026 marks historic first in New Delhi The Army Equestrian Championships were held in New Delhi for the first time from October 5 to 18, featuring four disciplines and competitions across Senior and Cadet categories."
+      "headline": "Army Equestrian Championships 2026 marks historic first in New DelhiThe Army Equestrian Championships were held in New Delhi for the first time from October 5 to 18, featuring four disciplines and competitions across Senior and Cadet categories."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/other-sports/video/army-equestrian-championships-held-in-delhi-for-the-first-time-in-historic-milestone-3026370-2026-10-27",
-      "headline": "Army Equestrian Championships held in Delhi for the first time in historic milestone The 2026 edition of the Army Equestrian Championships (AEC) took place from October 5 to 18 in New Delhi. Interestingly, this was the first time the tournament was held in the national capital, at the impressive Army Equestrian Centre in Delhi Cantt, representing a significant milestone in the sport."
+      "headline": "Army Equestrian Championships held in Delhi for the first time in historic milestoneThe 2026 edition of the Army Equestrian Championships (AEC) took place from October 5 to 18 in New Delhi. Interestingly, this was the first time the tournament was held in the national capital, at the impressive Army Equestrian Centre in Delhi Cantt, representing a significant milestone in the sport."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ranji-trophy-ayush-badoni-delhi-vs-jharkhand-priyanshu-moliya-baroda-vs-jammu-and-kashmir-3026350-2026-10-27",
-      "headline": "Ayush Badoni's double century, Priyanshu Moliya's 321 light up Ranji Trophy Ayush Badoni's unbeaten 210 powered Delhi to 515/5 declared against Jharkhand, while Priyanshu Moliya's unbeaten 321 helped Baroda post 616 against defending champions Jammu and Kashmir on Day 2 of the Ranji Trophy."
+      "headline": "Ayush Badoni's double century, Priyanshu Moliya's 321 light up Ranji TrophyAyush Badoni's unbeaten 210 powered Delhi to 515/5 declared against Jharkhand, while Priyanshu Moliya's unbeaten 321 helped Baroda post 616 against defending champions Jammu and Kashmir on Day 2 of the Ranji Trophy."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/other-sports/story/kajal-dhochak-neelam-sirohi-world-wrestling-championships-finals-historic-first-3026332-2026-10-27",
-      "headline": "Kajal, Neelam make history as 2 Indian women reach World finals for 1st time Kajal Dhochak and Neelam Sirohi reached their World Championships finals, creating an unprecedented double for Indian women's wrestling. Their victories leave both athletes one win away from securing India's first women's senior world championship title."
+      "headline": "Kajal, Neelam make history as 2 Indian women reach World finals for 1st timeKajal Dhochak and Neelam Sirohi reached their World Championships finals, creating an unprecedented double for Indian women's wrestling. Their victories leave both athletes one win away from securing India's first women's senior world championship title."
     },
     {
       "sentiment": "positive",
@@ -440,36 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/nz-vs-ind-abhishek-sharma-113-india-chase-199-wellington-t20i-3026039-2026-10-27",
       "headline": "3rd T20I: Diwali comes early as Abhishek 113 helps India chase 199 in just 13.2 oversNZ vs IND, 3rd T20I: Abhishek Sharma smashed a 38-ball 113 and Vaibhav Sooryavanshi blasted 45 off 19 deliveries as India chased 199 in 13.2 overs, setting a powerplay world record and taking an unassailable 3-0 series lead."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/harmanpreet-kaur-icc-ranking-smriti-mandhana-3026034-2026-10-27",
-      "headline": "Rejuvenated Harmanpreet Kaur gains in ICC rankings, captain Smriti loses top spotHarmanpreet Kaur climbed in the ICC women's ODI rankings after a strong run against Zimbabwe, including an unbeaten 91 in the T20I leg and a century in the second ODI. Meanwhile, Smriti Mandhana lost the top spot to South Africa captain Laura Wolvaardt after scores of 32 and zero in recent matches."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/kylian-mbappe-mao-remark-chinese-brands-end-sponsorship-deals-3025980-2026-10-27",
-      "headline": "Mbappe apologises to China after three brands drop him over Mao Zedong remarkReal Madrid superstar Kylian Mbappe has lost three Chinese brand partnerships after a viral video sparked outrage over a remark about Mao Zedong."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/badminton/story/bwf-world-rankings-pv-sindhu-top-eight-christo-popov-world-number-one-3025964-2026-10-27",
-      "headline": "Badminton rankings: Sindhu returns to top 8, Christo Popov makes history for FrancePV Sindhu climbed to world No. 8 after reaching the French Open final, while Christo Popov became the first Frenchman to top the men's singles rankings, capping a historic week for French badminton."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/csk-ipl-2027-mohit-sharma-bowling-coach-albie-morkel-return-3025922-2026-10-27",
-      "headline": "CSK name Albie Morkel as Zaheer Khan's deputy, Mohit Sharma as bowling coachChennai Super Kings head coach Zaheer Khan confirmed Mohit Sharma's appointment as bowling coach for IPL 2027 and hinted at a possible return for Albie Morkel as the franchise revamps its support staff ahead of the retention deadline. CSK confirmed Morkel's appointment as assistant coach."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/hockey/story/hockey-jarmanpreet-singh-retirement-asian-champions-trophy-3025923-2026-10-27",
-      "headline": "Defiant Jarmanpreet not retiring after Asian Champions TrophyDefender Jarmanpreet Singh has made it clear that he wants to continue playing for India until the 2028 Los Angeles Olympics. His comments come after being included in the list of four players that Hockey India plans to phase out after Asian Champions Trophy."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-a-vs-new-zealand-a-match-report-day-4-devdutt-padikkal-3025890-2026-10-27",
-      "headline": "Devdutt Padikkal heroics in vain as bad light robs India of heroic comeback winIndia-A came close to completing a remarkable comeback in the first unofficial Test against New Zealand A after recovering from 113 all out in the first innings. But Curtis Heaphy's unbeaten 90 helped New Zealand survive before bad light ended the contest."
     }
   ],
   "education": [
