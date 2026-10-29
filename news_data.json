@@ -2,6 +2,16 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/google-alphabet-shares-crash-ai-spending-quarterly-results-3027921-2026-10-29",
+      "headline": "Google shares crash 13% as AI spending spooks investorsGoogle's parent Alphabet's shares plunged more than 13% after quarterly revenue and profit missed Wall Street expectations. Surging AI expenditure and negative free cash flow intensified investor concerns."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/indigo-ticket-fare-hike-fuel-costs-loss-rs-1879-crore-ceo-willie-walsh-3027833-2026-10-29",
+      "headline": "IndiGo has no choice but to raise fares amid rising fuel costs: CEO Willie WalshIndiGo reported a loss of Rs 1,879 crore in the September quarter and its CEO, Willie Walsh, said the airline has no choice but to increase ticket prices."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/from-udaipur-agatti-to-taipei-where-are-indians-heading-this-festive-season-3027549-2026-10-29",
       "headline": "From Udaipur, Agatti to Taipei: Where are Indians heading this festive season?From scenic Indian getaways to overseas adventures, the festive season is bringing a surge in travel demand, with younger Indians leading the rush. Which destinations are drawing the biggest crowds?"
     },
@@ -89,19 +99,39 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/iphone-production-india-pli-scheme-ashwini-vaishnaw-tax-employment-achievement-itspc-3026619-2026-10-28",
       "headline": "Cope harder: Vaishnaw counters report on iPhone subsidy with tax, job numbersUnion Minister Ashwini Vaishnaw defended India's iPhone manufacturing subsidies under the mobile PLI scheme, citing tax collections of Rs 3.25 lakh crore and creation of 12 lakh jobs. He was countering a Bloomberg report that questioned whether India's push for high-tech manufacturing delivered enough domestic value to justify public spending."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/market/story/jio-platforms-ipo-listing-rs-1359-21-percent-premium-2nd-largest-market-cap-3026646-2026-10-28",
-      "headline": "Jio Platforms lists at Rs 1,359, becomes India's second-largest listed firmJio Platforms listed at Rs 1,359 after its Rs 30,213 crore public issue. The debut made it India's second-largest listed company by market capitalisation."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/market/story/it-stocks-fall-why-infosys-tcs-hcltech-us-fed-crude-oil-prices-stock-market-down-3026623-2026-10-28",
-      "headline": "Infosys, TCS, HCLTech fall up to 5%: Why are IT stocks down today?Infosys, TCS, HCLTech and other IT shares fell sharply ahead of the US Federal Reserve's policy decision. Rising crude prices and persistent foreign investor selling deepened the broader risk-off mood."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/priyanka-chopra-says-nick-jonas-adjusted-tour-dates-for-karwa-chauth-no-one-like-him-3028061-2026-10-29",
+      "headline": "No one like him: Priyanka Chopra on Nick Jonas adjusting tour dates for Karwa Chauth Actor Priyanka Chopra said husband Nick Jonas arranged his tour to return home for Karwa Chauth. The gesture allowed the couple and daughter Malti Marie to celebrate together."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/megaverse-netflix-unveils-first-poster-as-chiranjeevi-turns-talk-show-host-3028009-2026-10-29",
+      "headline": "Megaverse: Netflix unveils first poster as Chiranjeevi turns talk show host Veteran Telugu actor Chiranjeevi is set to make his OTT talk show debut with Netflix's upcoming series, Megaverse. The show will explore the legacy of Telugu cinema, featuring interviews with prominent industry figures alongside personal anecdotes from the veteran actor."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/netflix-renews-the-diplomat-for-season-5-after-season-4-cliffhanger-keri-russell-3027955-2026-10-29",
+      "headline": "Netflix renews The Diplomat for Season 5 after Season 4's cliffhanger Creator Debora Cahn's political thriller series The Diplomat has been renewed for a fifth season following the release of its fourth instalment. The streaming platform confirmed the update alongside a promotional image featuring actor Keri Russell."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/incredible-feeling-anupam-kher-proud-of-ramayanas-los-angeles-premiere-reviews-3027867-2026-10-29",
+      "headline": "Incredible feeling: Anupam Kher proud of Ramayana's early reviews Veteran actor Anupam Kher celebrated the early reactions to Ramayana: Rise of a Legend, following its Los Angeles premiere. He said the epic's international scale and his Jatayu role filled him with pride."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/priyanka-chopra-shares-karwa-chauth-update-guests-gather-at-anil-kapoors-residence-3027747-2026-10-29",
+      "headline": "Priyanka Chopra shares Karwa Chauth update; guests gather at Anil Kapoor's residence Actor Priyanka Chopra shared glimpses of her Karwa Chauth celebrations. Preparations also began at actor Anil Kapoor's Mumbai residence as several celebrities, including Mira Rajput Kapoor, Maheep Kapoor, Bhavna Panday, Neelam Kothari and others also joined the rituals."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/janhvi-kapoor-south-cinema-bound-script-remark-peddi-controversy-3027693-2026-10-29",
+      "headline": "Playing victim card: Internet slams Janhvi over South's 'rare bound scripts' remark Janhvi Kapoor's comment on 'bound scripts rare in South Indian cinema' has sparked backlash. Her remarks on Koffee with Karan Season 9 have raised questions about accountability and sweeping generalisations."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/bollywood/story/ramayana-film-pakistani-hindus-karachi-celebration-ranbir-kapoor-sai-pallavi-3027633-2026-10-29",
@@ -166,58 +196,28 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/celebrities/story/tiger-shroff-resume-shooting-after-diwali-tighter-security-lag-jaa-gale-3027418-2026-10-29",
       "headline": "Tiger Shroff to resume work after Diwali, security tightened after firing incident Tiger Shroff is expected to resume shooting for Lag Jaa Gale after Diwali under tightened security. His movements and schedule will remain confidential following the Juhu firing incident."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/janhvi-kapoor-dating-advice-veer-pahariya-cheeky-dig-ex-tara-sutaria-ap-dhillon-concert-koffee-with-karan-3027395-2026-10-29",
-      "headline": "A joke or a low blow? Internet tears into Janhvi Kapoor over Veer-Tara concert jibe On Koffee With Karan, Janhvi Kapoor's 'never take her to a concert' jibe at Veer Pahariya has drawn sharp backlash, with the internet slamming her for putting another woman down. Many called out the remark, widely seen as a dig at Tara Sutaria."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/reviews/story/pyre-review-vinod-kapri-uttarakhand-drama-ageing-migration-love-3027388-2026-10-29",
-      "headline": "Pyre review: Vinod Kapri's film reminds you why we need someone to grow old withRelease Date:Fri Oct 30, 2026 Pyre movie review: Vinod Kapri's Pyre follows an elderly couple growing old in an emptying Uttarakhand village. Their tender bond exposes the isolation, migration and hardships shaping life in remote communities."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/parineeti-chopra-jennifer-winget-react-viral-shaque-cake-cutting-video-3027396-2026-10-29",
-      "headline": "The joke's on you: Parineeti Chopra, Jennifer Winget laugh off rift rumours Parineeti Chopra and Jennifer Winget addressed speculation sparked by a viral cake-cutting video. Both actors dismissed negativity and reaffirmed their warm bond as co-stars."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/karan-johar-varun-dhawan-fallout-release-date-clash-janhvi-kapoor-rift-3027348-2026-10-29",
-      "headline": "Karan Johar ghosted Varun Dhawan after film clash, actor told him to 'grow up' Director Karan Johar discussed his fallout with Varun Dhawan and Janhvi Kapoor on Koffee With Karan Season 9. Their exchange revealed hurt over a release clash, professional separation and crossed boundaries."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/rise-and-fall-2-tehseen-poonawalla-wild-card-entry-shehzad-clash-3027370-2026-10-29",
-      "headline": "Tehseen Poonawalla joins Rise and Fall 2, says his arrival silenced Shehzad Tehseen Poonawalla has entered Rise and Fall 2 as a wild card contestant. His arrival sets up a family contest with brother Shehzad Poonawalla."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/naseeruddin-shah-backs-jamia-students-calls-himself-a-dimagi-naxal-in-fiery-video-questions-government-3027336-2026-10-29",
-      "headline": "Am proud dimaagi Naxal: Naseeruddin Shah calls govt tukde-tukde gang in intense video Naseeruddin Shah has backed protesting Jamia students, declaring, \"I am an intellectual Naxal.\" He questioned the government over student oppression, naming JNU, SRFTI and Jamia."
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/banks-must-compensate-digital-fraud-victims-for-losses-if-due-diligence-fails-supreme-court-3027675-2026-10-29",
-      "headline": "Banks must compensate digital fraud victims for losses if due diligence fails: SCThe Chief Justice questioned banks' failure to flag unusual transactions and stressed it is their duty to protect victims of digital fraud."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/bangladesh-air-force-officer-tahsif-souri-dead-river-sheikh-hasina-escape-video-family-murder-allegation-itspc-3027510-2026-10-29",
-      "headline": "Air force officer linked to Hasina-fleeing clip found dead just ahead of her returnThe body of a former Bangladesh Air Force officer alleged to have shot the video of Sheikh Hasina fleeing the country in August 2024 has been found floating on a Dhaka river. His family has alleged murder and harassment over the shooting footage."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/health/story/childhood-cholesterol-test-age-10-inherited-heart-disease-risk-3027534-2026-10-29",
-      "headline": "Every child should get a cholesterol test at age 10, says cardiologist Ashok SethSpeaking at India Today's HealthWealth Summit, India's top doctors pointed out that children need cholesterol and echocardiogram tests to assess heart disease risk at an early stage. They said many youngsters who die are found to have unknown heart conditions since childhood."
+      "url": "https://www.indiatoday.in/education-today/story/jamia-agrees-to-hold-student-elections-by-august-2027-asks-protesters-to-call-off-hunger-strike-3028055-2026-10-29",
+      "headline": "Jamia students end hunger strike after university assures union polls by Aug 2027Students' elections will be conducted within six weeks of the commencement of the academic session, scheduled to begin on July 16, 2027."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/world/story/us-fortress-emergency-doomsday-plan-military-bases-what-is-it-3027620-2026-10-29",
-      "headline": "Cutting through the noise and making sense of US's 'doomsday' FORTRESS planThe US military is preparing for a scenario in which its bases would have to function for 90 days without external support, setting off alarm amid the prospect of a wider US-Iran war. In our report, we will cut through the noise and make sense of the FORTRESS plan."
+      "url": "https://www.indiatoday.in/india/story/glacial-lake-outburst-reported-in-bhutan-assam-bengal-district-on-possible-flood-alert-sankosh-river-3028135-2026-10-30",
+      "headline": "Glacial lake outburst reported in Bhutan; Assam, Bengal districts on flood alertA reported glacial lake outburst in Bhutan prompted evacuation warnings downstream in West Bengal. Authorities are assessing the discharge while monitoring the Sankosh River for a possible surge."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/cities/other-cities/story/vadodara-woman-two-children-suicide-notes-debt-financial-stress-found-police-probe-3028036-2026-10-29",
+      "headline": "Vadodara woman and 2 children die by suicide, notes citing Rs 33 lakh debt foundA 47-year-old woman and her two children, aged 24 and 22, were found dead at their home in Vadodara. Police recovered three suicide notes that mention financial transactions and a debt of Rs 33 lakh."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/qatar-israel-election-doha-denies-interference-funding-allegations-likud-yashar-benjamin-netanyahu-itspc-3027864-2026-10-29",
+      "headline": "Don't make Qatar a scapegoat: Doha denies bribing Arab voters amid Israel poll probeQatar has denied allegations of meddling in Israel's elections by allegedly funnelling money to influence Arab voters, accusing Israeli politicians of running a disinformation campaign. The denial comes amid a Shin Bet probe into suspected foreign interference, as Netanyahu's bloc leads but remains short of a majority."
     },
     {
       "sentiment": "positive",
@@ -225,24 +225,24 @@
       "headline": "Much ado about Sai Pallavi as Sita: India's ugly beauty standards laid bareThe backlash against Sai Pallavi's casting in Ramayana goes beyond a disagreement over looks. It exposes India's obsession with conventional beauty, our attachment to familiar screen images and the thin line between criticism and abuse."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/cities/other-cities/story/ghaziabad-murder-attempt-cctv-sequence-of-events-stabbing-man-wife-lover-police-arrested-3027697-2026-10-29",
-      "headline": "On cam: Woman leaves husband at home, gym trainer enters, flees after stabbing himCCTV footage shows a woman driving out of her husband's Ghaziabad home and her lover, a gym trainer, entering her home minutes later and fleeing after stabbing her husband while he was sleeping. Police have arrested both the woman and her lover for the October 26 incident."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/up-mlc-election-results-2026-op-rajbhar-educated-voters-sp-bjp-varanasi-lucknow-graduates-seats-suheldev-bharatiya-samaj-party-3027803-2026-10-29",
+      "headline": "Votes of educated people, not common public: UP minister on BJP's Varanasi seat lossUttar Pradesh minister Om Prakash Rajbhar said the MLC poll results reflected the mandate of educated voters, after the SP defeated the BJP in the Varanasi and Lucknow Graduates' constituencies, winning five of the 11 seats against the BJP's six."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/bangladesh-regime-change-afp-journalist-qadaruddin-shishir-muhammad-yunus-sheikh-hasina-ouster-itspc-3027603-2026-10-29",
-      "headline": "Bangladesh regime change: AFP journalist contacted Yunus even before Hasina's exitAn AFP journalist secretly helped student protesters establish contact with Muhammad Yunus even before PM Sheikh Hasina fled Bangladesh on August 5, 2024. The revelation by Yunus's former press secretary, himself an ex-AFP journalist, raises fresh questions about how the Nobel laureate was approached to lead a post-Hasina government following the regime change in Bangladesh."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/tamil-nadu/story/tamil-nadu-police-detain-professor-a-kalaiyarasan-fake-instagram-account-ptag-3027590-2026-10-29",
-      "headline": "Tamil Nadu professor detained over Insta post, freed after account found fakeTamil Nadu Police detained economist A Kalaiyarasan over an abusive Instagram comment before confirming impersonation. The episode triggered opposition allegations of intimidation and demands for accountability."
+      "url": "https://www.indiatoday.in/cities/noida/story/greater-noida-bba-student-dies-19th-floor-fall-police-investigation-pristine-avenue-3027969-2026-10-29",
+      "headline": "Wanted to become actor, joined BBA for family; 18-year-old jumps to death in NoidaAditya Arora wanted to pursue acting, but enrolled in BBA to meet his family's expectations. He died by suicide, with police yet to confirm whether his aspirations were linked to his death."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/bharatiya-antariksh-station-to-have-two-robotic-arms-new-details-revealed-3027778-2026-10-29",
-      "headline": "Bharatiya Antariksh Station to have two robotic arms: New details revealedISRO has revealed plans for internal and external robotic arms aboard the Bharatiya Antariksh Station. The systems will support orbital operations, structural inspections, maintenance and future expansion."
+      "url": "https://www.indiatoday.in/world/story/pakistan-iran-defence-talks-fazlur-rehman-mocks-khawaja-asif-asim-munir-role-itspc-3027535-2026-10-29",
+      "headline": "Koi sharam hoti hai: Pak leader mocks Defence Minister over Iran talks, MunirPakistani opposition leader Maulana Fazlur Rehman took a swipe at Defence Minister Khawaja Asif in Parliament over defence talks in Iran. The Pashtun cleric-turned-politician mocked Asif and raised questions over the role of Pakistan's military in foreign policy."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/us-fortress-emergency-doomsday-plan-military-bases-what-is-it-3027620-2026-10-29",
+      "headline": "Is US bracing for bigger war? Making sense of its FORTRESS emergency planThe US military is preparing for a scenario in which its bases would have to function for 90 days without external support, setting off alarm amid the prospect of a wider US-Iran war. In our report, we will cut through the noise and make sense of the FORTRESS plan."
     },
     {
       "sentiment": "positive",
@@ -251,13 +251,13 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ms-dhoni-whatsapp-message-smriti-mandhana-india-womens-world-cup-win-3027777-2026-10-29",
-      "headline": "MS Dhoni's WhatsApp message: How Smriti shared his wishes with World Cup teamMS Dhoni messaged Smriti Mandhana, asking her to convey his congratulations to India's 2025 World Cup-winning team. He said the triumph could reshape women's cricket and inspire girls to pursue the sport professionally."
+      "url": "https://www.indiatoday.in/world/us-news/story/nvidia-ceo-jensen-huang-suspected-chinese-intelligence-asset-us-concerns-3027809-2026-10-29",
+      "headline": "Nvidia CEO Jensen Huang targeted in alleged Chinese espionage plot: ReportUS intelligence scrutinised Jensen Huang's interactions with Alice Huang, a suspected Chinese asset. The contact raised concerns over possible access to sensitive AI chip and policy information."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/karnataka-hikes-nandini-milk-prices-by-rs-8-to-rs-54-per-litre-rs-7-to-go-to-farmers-3027702-2026-10-29",
-      "headline": "Karnataka hikes Nandini milk prices by Rs 8 to Rs 54 per litre; Rs 7 to go to farmersKarnataka minister KB Gowda said farmers had been facing a crisis, prompting members of all parties in the Legislative Council to call for measures to support them."
+      "url": "https://www.indiatoday.in/india/story/banks-must-compensate-digital-fraud-victims-for-losses-if-due-diligence-fails-supreme-court-3027675-2026-10-29",
+      "headline": "Banks must compensate digital fraud victims for losses if due diligence fails: SCThe Chief Justice questioned banks' failure to flag unusual transactions and stressed it is their duty to protect victims of digital fraud."
     },
     {
       "sentiment": "negative",
@@ -266,110 +266,175 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/lifestyle/wellness/story/shriram-nene-dal-roti-rice-diabetes-21-days-to-good-health-healthwealth-summit-3027451-2026-10-29",
-      "headline": "Can Indians eat rice, roti, dal and still beat diabetes? Dr Shriram Nene answersSpeaking at India Today's HealthWealth Summit, Dr Shriram Nene explained whether rice, roti and dal were really to blame for India's diabetes crisis, or whether the problem lay in how we ate."
+      "url": "https://www.indiatoday.in/health/story/forget-the-cake-take-the-stairs-dr-s-k-sarin-advice-on-celebrating-birthdays-differently-3028091-2026-10-29",
+      "headline": "Forget the cake, take the stairs: Dr S K Sarin's advice on celebrating birthdays differentlyDr S K Sarin, chief of ILBS, New Delhi, urged people to mark birthdays by climbing five or six floors. His advice frames everyday milestones as prompts for consistent, healthier habits."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/indigo-ticket-fare-hike-fuel-costs-loss-rs-1879-crore-ceo-willie-walsh-3027833-2026-10-29",
+      "headline": "IndiGo has no choice but to raise fares amid rising fuel costs: CEO Willie WalshIndiGo reported a loss of Rs 1,879 crore in the September quarter and its CEO, Willie Walsh, said the airline has no choice but to increase ticket prices."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/bangladesh-regime-change-afp-journalist-qadaruddin-shishir-muhammad-yunus-sheikh-hasina-ouster-itspc-3027603-2026-10-29",
+      "headline": "Bangladesh regime change: AFP journalist contacted Yunus even before Hasina's exitAn AFP journalist secretly helped student protesters establish contact with Muhammad Yunus even before PM Sheikh Hasina fled Bangladesh on August 5, 2024. The revelation by Yunus's former press secretary, himself an ex-AFP journalist, raises fresh questions about how the Nobel laureate was approached to lead a post-Hasina government following the regime change in Bangladesh."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/health/story/swami-ramdev-diet-yoga-routine-one-meal-daily-health-claims-3027671-2026-10-29",
+      "headline": "I run as fast as a horse: Baba Ramdev on his fitness and diet secretsYoga guru Baba Ramdev discussed his diet, exercise and health claims with India Today's Shweta Singh at the Health Wealth Summit 2026. The discussion underscored prevention but also the need for medical assessment of serious conditions."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/health/story/to-live-longer-surprise-your-brain-and-stay-curious-says-dr-gnanasekaran-longevity-3027831-2026-10-29",
+      "headline": "To live longer, surprise your brain and stay curious, says Dr GnanasekaranLongevity is not about expensive supplements or unproven treatments, but getting the basics right. At the India Today HealthWealth Summit, Dr Navin Gnanasekaran, head of radiology at Apollo Hospitals, explains how learning new skills, playing racket sports and staying curious can help people age better."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/law-news/story/supreme-court-firecracker-hearing-green-crackers-delhi-pollution-enforcement-3027883-2026-10-29",
+      "headline": "SC suggests Virat Kohli for pollution awareness campaign amid firecracker ban rowThe Supreme Court reserved its order on whether to continue or relax Delhi-NCR's firecracker restrictions ahead of Diwali, flagging health risks, fake green-cracker labels and poor enforcement. Calling for innovative anti-pollution measures, the bench suggested involving celebrities such as Virat Kohli in awareness campaigns while questioning the government's compliance efforts."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/arjun-bhati-virat-kohli-tiger-woods-fitness-inspiration-3028020-2026-10-29",
+      "headline": "Arjun Bhati calls Kohli India's fitness icon, recalls advice from cricketing legendIndian amateur golfer Arjun Bhati reveals how Virat Kohli's advice on health and fitness shaped his outlook, while golf legend Tiger Woods inspired him to raise his standards and pursue fitness as an essential part of sporting success."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/bangladesh-air-force-officer-tahsif-souri-dead-river-sheikh-hasina-escape-video-family-murder-allegation-itspc-3027510-2026-10-29",
+      "headline": "Air force officer linked to Hasina-fleeing clip found dead just ahead of her returnThe body of a former Bangladesh Air Force officer alleged to have shot the video of Sheikh Hasina fleeing the country in August 2024 has been found floating on a Dhaka river. His family has alleged murder and harassment over the shooting footage."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/science/story/cyclone-arnab-spreads-its-wings-across-india-satellite-captures-rare-space-view-3027448-2026-10-29",
-      "headline": "Satellite captures Cyclone Arnab's giant rain shield over India. See picsSatellite imagery has captured Cyclone Arnab's vast cloud shield spreading across India after its Andhra Pradesh landfall. The weakening system continues to carry heavy rainfall risks across several states."
+      "url": "https://www.indiatoday.in/cities/other-cities/story/ghaziabad-murder-attempt-cctv-sequence-of-events-stabbing-man-wife-lover-police-arrested-3027697-2026-10-29",
+      "headline": "On cam: Woman leaves husband at home, gym trainer enters, flees after stabbing himCCTV footage shows a woman driving out of her husband's Ghaziabad home and her lover, a gym trainer, entering her home minutes later and fleeing after stabbing her husband while he was sleeping. Police have arrested both the woman and her lover for the October 26 incident."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/indian-pilot-flydubai-smit-machchhar-stitches-head-uae-president-viral-video-3027455-2026-10-29",
-      "headline": "Jiu-jitsu once you recover: Capt Smit's head stitches catch UAE president's eyeCaptain Smit Machchhar, who thwarted a potential hijack attempt, was honoured by the UAE. However, what caught attention was the long line of stitches at the back of Machchhar's head."
+      "url": "https://www.indiatoday.in/cities/delhi/story/delhi-metro-extends-train-services-till-midnight-plans-extra-trips-on-october-30-for-diljit-dosanjhs-concert-3027879-2026-10-29",
+      "headline": "Delhi Metro to extend services till midnight on Oct 30 for Diljit Dosanjh's concertThe DMRC will run additional Metro trains and extend services till midnight on October 30 (Friday) for Diljit Dosanjh's concert at Jawaharlal Nehru Stadium. Additional staff and security arrangements will also be deployed at JLN Stadium Metro Station to manage the rush."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/janhvi-kapoor-dating-advice-veer-pahariya-cheeky-dig-ex-tara-sutaria-ap-dhillon-concert-koffee-with-karan-3027395-2026-10-29",
-      "headline": "A joke or a low blow? Internet tears into Janhvi Kapoor over Veer-Tara concert jibeOn Koffee With Karan, Janhvi Kapoor's 'never take her to a concert' jibe at Veer Pahariya has drawn sharp backlash, with the internet slamming her for putting another woman down. Many called out the remark, widely seen as a dig at Tara Sutaria."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/other-cities/story/gwalior-karwa-chauth-murder-man-kills-wife-surrenders-police-3027596-2026-10-29",
-      "headline": "I killed your mother: Gwalior man bludgeons wife to death on Karwa ChauthAnand Shrivastava killed his wife Madhu on Karwa Chauth, repeatedly striking her on the head before walking into a police station and confessing to the murder. The couple had a love marriage in 2010 and a son and a daughter."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/smit-machchhar-skull-fracture-axe-attack-brain-surgery-40-percent-death-risk-neurosurgeons-itspc-3027450-2026-10-29",
-      "headline": "40% mortality risk or disability: How Smit Machchhar cheated death after skull fractureThe scars on Captain Smit Machchhar's head reveal that the axe attack by the FlyDubai co-pilot was life-threatening, say neurosurgeons. They explain how a fractured skull, a major brain vein and the risk of massive blood loss made Machchhar's surgery potentially life-threatening."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/news/story/jamia-students-union-protest-elections-demand-online-classes-3027331-2026-10-29",
-      "headline": "Inside Jamia protest: AMU, JNU, Umar Khalid and the fight for student unionsWhat began on October 11 as a demand for student union elections and detained protesters' release has escalated into a Jamia standoff. With classes online until November 24, India Today goes to the ground to understand students' demands and the deadlock."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/quantum-measure-above-one-bengaluru-raman-research-institute-urbasi-sinha-photon-3027661-2026-10-29",
-      "headline": "Bengaluru scientists measured a number that beats 100 per cent. It's no mistakeScientists at Bengaluru's Raman Research Institute have measured a quantum score of about 1.17, a number that sails past the ceiling of one that ordinary chance can never cross. Professor Urbasi Sinha explains why this is not a broken rule but a new way to measure the hidden journey of light."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/trending-news/story/mumbai-floating-ad-plan-sparks-furious-backlash-online-zubaan-kesari-sunset-3027463-2026-10-29",
-      "headline": "Zubaan kesari sunset: Mumbai's floating ad plan sparks furious backlash onlineMumbai's iconic sea views will soon have some additions: floating advertising barges and hoardings. The proposal to place them at waterfront spots such as Juhu and the Bandra-Worli Sea Link has drawn sharp online criticism."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/health/story/those-who-need-glp-1-drugs-dont-take-them-others-do-dr-anoop-misra-3027566-2026-10-29",
-      "headline": "Those who need GLP-1 drugs don't take them, others do: Dr Anoop MisraGLP-1 medicines can help manage type 2 diabetes and obesity, with certain drugs also offering cardiovascular benefits to eligible patients. At the India Today HealthWealth Summit 2026, doctors highlighted concerns over inappropriate use of these medicines and the importance of medical supervision."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/israel-election-2026-voting-live-updates-benjamin-netanyahu-gadi-eisenkot-voter-turnout-yashar-party-likud-3025862-2026-10-27",
-      "headline": "Live: Election Committee orders probe into suspected foreign funding, briberyIsrael Election 2026 Live Updates: Israel's Prime Minister Benjamin Netanyahu's bloc is tied with the opposition grouping led by former military chief Gadi Eisenkot, early exit polls showed, pointing to a deadlock in a closely watched election. The election, the first since Hamas' unprecedented October 7, 2023, attack, recorded a turnout of 77.7%, the highest since 1999. For Netanyahu, blamed by opponents for the security failures that preceded the attack and his refusal to set up an independent commission of inquiry, his political future is at stake. Eisenkot's Yashar party is leading an alliance seeking to unseat Netanyahu's Likud party and its right-wing allies. Vote counting is on after a day of strong voter turnout. A party or alliance needs at least 61 seats in parliament to form a majority government. Two leading Arab parties also made strong gains and could emerge as kingmakers. Final results may take days, followed by potentially protracted coalition negotiations as rival blocs scramble to secure a parliamentary majority. The election offered voters a chance to pass judgment on Netanyahu's leadership following wars in Gaza and with Iran, as well as Israel's growing international isolation. Netanyahu, the country's longest-serving prime minister with 19 years in office, has repeatedly survived political crises. But the latest contest could pose another major test of his hold on power. Stay with Indiatoday.in for live updates."
+      "url": "https://www.indiatoday.in/india/story/kaushambi-father-performs-pind-daan-death-rites-for-living-daughter-3028034-2026-10-29",
+      "headline": "UP girl elopes with lover, mother dies; furious father performs pind daan for herA father in Uttar Pradesh's Kaushambi district performed pind daan and held a thirteenth-day death ceremony for his living daughter after she left home with her boyfriend. He alleges the shock led to his wife's death and has decided to disinherit his daughter. She had been scheduled to marry on November 25."
     }
   ],
   "sports": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/badminton/story/hylo-open-2026-pv-sindhu-lakshya-sen-quarter-finals-malvika-isharani-exit-3028121-2026-10-29",
+      "headline": "Hylo Open: Sindhu, Lakshya advance to quarterfinals; Isharani, Malvika exit PV Sindhu and Lakshya Sen advanced to the quarter-finals of the Hylo Open Super 500 in Saarbr\u00fccken on Thursday, with Sindhu registering a dominant straight-game win and Sen beating compatriot Kiran George in three games."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/south-africa-vs-australia-3rd-test-day-3-report-starc-inglis-hundred-3028086-2026-10-29",
+      "headline": "3rd Test: Inglis hundred, Starc brilliance puts Australia in control Josh Inglis' second Test century and strikes from Mitchell Starc and Nathan Lyon put Australia in control of the third Test, leaving South Africa at 140 for four with a lead of just 40 runs at stumps on Day 3 in Cape Town."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/other-sports/video/healthwealth-summit-arjun-bhati-raj-rani-nikita-kumari-fitness-diet-3028065-2026-10-29",
+      "headline": "We eat desi food: Asian Games gold medallists bust fitness myths At the India Today HealthWealth Summit, Asian Games gold medallists Raj Rani and Nikita Kumari revealed how traditional Indian food, from dal, roti and desi ghee to protein-rich meals, fits into an athlete's diet. Golfer Arjun Bhati highlighted the importance of meeting individual nutritional needs and explained why mental preparation is just as important as physical training."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/world-weightlifting-championships-mirabai-withdraws-gyaneshwari-8th-3028043-2026-10-29",
+      "headline": "World Championships: Mirabai withdraws due to back issue, Gyaneshwari finishes 8th India's Gyaneshwari Yadav finished eighth in the women's 53kg event at the IWF World Weightlifting Championships on Thursday, while Mirabai Chanu withdrew from the competition due to a back issue."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/manchester-united-michael-carrick-backs-bruno-fernandes-captain-future-3028011-2026-10-29",
+      "headline": "Carrick backs Fernandes as captain, needs no assurances on his future at United Manchester United manager Michael Carrick has backed Bruno Fernandes to remain his captain and insisted he needs no assurances over his own future ahead of Saturday's trip to Chelsea."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/arjun-bhati-virat-kohli-tiger-woods-fitness-inspiration-3028020-2026-10-29",
+      "headline": "Arjun Bhati calls Kohli India's fitness icon, recalls advice from cricketing legend Indian amateur golfer Arjun Bhati reveals how Virat Kohli's advice on health and fitness shaped his outlook, while golf legend Tiger Woods inspired him to raise his standards and pursue fitness as an essential part of sporting success."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2027-rohit-sharma-tilak-varma-mumbai-indians-captaincy-hardik-pandya-future-3028002-2026-10-29",
+      "headline": "IPL 2027: Rohit, Tilak in MI captaincy race as Hardik's future remains uncertain Mumbai Indians face a major leadership call ahead of IPL 2027, with Rohit Sharma and Tilak Varma emerging as potential captaincy options as Hardik Pandya's future at the franchise remains uncertain."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ryan-rickelton-fan-banner-mother-single-newlands-online-debate-3027966-2026-10-29",
+      "headline": "Fan asks Ryan Rickelton if his mom is single, sparks debate over cheeky banner A fan's cheeky banner asking South Africa's Ryan Rickelton if his mother was single caught television cameras at Newlands during the third Test against Australia, sparking laughter and debate on social media."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/football/story/ronaldo-reaction-beats-messi-boat-fan-vote-football-belongs-fans-3027914-2026-10-29",
+      "headline": "Football belongs to fans: Ronaldo's message after beating Messi in BOAT vote Cristiano Ronaldo thanked fans worldwide after his 2008 Manchester United campaign beat Lionel Messi's record-breaking 2012 season to win the inaugural Ballon d'Or of All Time (BOAT) fan vote."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/video/tamil-nadu-cm-vijay-attends-cms-trophy-ceremony-in-chennai-felicitates-athletes-ytvd-3027901-2026-10-29",
+      "headline": "Tamil Nadu CM Vijay Attends CM's Trophy Ceremony in Chennai, Felicitates Athletes Tamil Nadu Chief Minister Vijay attended the Chief Minister's Trophy Award Ceremony held in Chennai. The event brought together sportspersons from across Tamil Nadu, alongside para-athletes who represented the state at the Asian Games. Chief Minister Vijay felicitated the athletes and met each of the para-athletes present at the venue. Several youngsters attending the ceremony also had the opportunity to interact directly with the Chief Minister during the programme."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/manisha-bhanwala-world-wrestling-championships-59kg-final-3027844-2026-10-29",
+      "headline": "Wrestling Worlds: Manisha stuns home favourite, one win away from historic Gold Manisha Bhanwala defeated home favourite Altyn Shagayeva 10-0 to enter the women's 59kg World Championships final. She has become the third Indian female wrestler to reach the final after Kajal and Neelam."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ranji-trophy-mumbai-crush-haryana-bengal-thrash-kerala-3027845-2026-10-29",
+      "headline": "Ranji Trophy: Mumbai, Bengal extend perfect starts with crushing winsTanush Kotian's career-best 8/81 powered Mumbai to a 10-wicket win over Haryana, while Pradipta Pramanik claimed his maiden 10-wicket match haul in first-class cricket as Bengal thrashed Kerala by 287 runs in the Ranji Trophy on Thursday."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/sujeet-kalkal-wrestling-worlds-loss-24-match-winning-streak-3027814-2026-10-29",
+      "headline": "Sujeet Kalkal's unbeaten run ends at Wrestling Worlds after Asian Games highSujeet Kalkal's 24-match winning streak came to an end at the Wrestling World Championships on Thursday, days after the Indian wrestler admitted that the celebrations following his Asian Games gold had disrupted his preparation for the tournament."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/hockey/story/india-vs-china-live-score-asian-hockey-champions-trophy-jalandhar-3027782-2026-10-29",
-      "headline": "IND vs CHN Live: India look to extend winning run against youthful China India vs China, Asian Champions Trophy live updates: India will look to continue their winning run at the Asian Champions Trophy when they face a youthful China in their second round-robin match. The five-time champions had begun their title defence with a dominant 13-0 win over Bangladesh, with Mandeep Singh scoring a hat-trick."
+      "headline": "ACT 2026: India cruise past China 5-2 as Harmanpreet, Sukhjeet shineIndia vs China, Asian Champions Trophy: India continued their winning run at the Asian Champions Trophy with a 5-2 victory over China in Jalandhar. Harmanpreet Singh and Sukhjeet Singh scored braces, while Jugraj Singh added one as India returned to the top of the table ahead of a crucial clash against unbeaten Japan."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ms-dhoni-whatsapp-message-smriti-mandhana-india-womens-world-cup-win-3027777-2026-10-29",
-      "headline": "MS Dhoni's WhatsApp message: How Smriti shared his wishes with World Cup team MS Dhoni messaged Smriti Mandhana, asking her to convey his congratulations to India's 2025 World Cup-winning team. He said the triumph could reshape women's cricket and inspire girls to pursue the sport professionally."
+      "headline": "MS Dhoni's WhatsApp message: How Smriti shared his wishes with World Cup teamMS Dhoni messaged Smriti Mandhana, asking her to convey his congratulations to India's 2025 World Cup-winning team. He said the triumph could reshape women's cricket and inspire girls to pursue the sport professionally."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/chinmay-sutar-ranji-trophy-record-400-century-mizoram-meghalaya-3027735-2026-10-29",
-      "headline": "Ranji Trophy run machine: Chinmay Sutar follows historic 400 with century Chinmay Sutar continued his sensational start to the Ranji Trophy season, following his record-breaking 400 with a 125 against Meghalaya. The 29-year-old has now scored 659 runs in his first four first-class innings."
+      "headline": "Ranji Trophy run machine: Chinmay Sutar follows historic 400 with centuryChinmay Sutar continued his sensational start to the Ranji Trophy season, following his record-breaking 400 with a 125 against Meghalaya. The 29-year-old has now scored 659 runs in his first four first-class innings."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/tennis/story/aita-ai-coach-indian-tennis-player-rankings-opponent-records-3027740-2026-10-29",
-      "headline": "How AI-based coaching could change the game for Indian tennis players The All India Tennis Association (AITA) has launched AI Coach, a beta-stage digital tool that brings player rankings, ranking points and head-to-head records together on one platform, helping Indian tennis players access information about their opponents as they prepare for matches."
+      "headline": "How AI-based coaching could change the game for Indian tennis playersThe All India Tennis Association (AITA) has launched AI Coach, a beta-stage digital tool that brings player rankings, ranking points and head-to-head records together on one platform, helping Indian tennis players access information about their opponents as they prepare for matches."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/bcci-devajit-saikia-wpl-expansion-more-teams-3027694-2026-10-29",
-      "headline": "WPL expansion on BCCI agenda as Devajit Saikia hints at adding more teams BCCI secretary Devajit Saikia has hinted at expanding the Women's Premier League, with discussions on adding more teams likely to begin next year. Saikia also highlighted the league's growing influence on women's cricket in India."
+      "headline": "WPL expansion on BCCI agenda as Devajit Saikia hints at adding more teamsBCCI secretary Devajit Saikia has hinted at expanding the Women's Premier League, with discussions on adding more teams likely to begin next year. Saikia also highlighted the league's growing influence on women's cricket in India."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/tanisha-singh-unsold-wpl-auction-record-delhi-womens-t20-3027662-2026-10-29",
-      "headline": "Unsold at WPL auction, Tanisha Singh helps Delhi rewrite T20 record books Unsold at the WPL auction, Tanisha Singh hit back with a stunning 119 off 47 balls as Delhi smashed the highest-ever total in women's domestic T20 cricket, scoring 262 for 6 against Hyderabad in the Senior Women's T20 Trophy."
+      "headline": "Unsold at WPL auction, Tanisha Singh helps Delhi rewrite T20 record booksUnsold at the WPL auction, Tanisha Singh hit back with a stunning 119 off 47 balls as Delhi smashed the highest-ever total in women's domestic T20 cricket, scoring 262 for 6 against Hyderabad in the Senior Women's T20 Trophy."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/nazma-khan-wpl-deal-jemimah-rodrigues-year-old-message-3027626-2026-10-29",
-      "headline": "Nazma Khan sent Jemimah an Insta DM about her dream. Now, she has a WPL deal A year ago, Nazma Khan messaged Jemimah Rodrigues about her dream of playing alongside the Indian batter. On Wednesday, Delhi Capitals brought that dream a step closer to reality by signing Nazma for Rs 10 lakh at the Women's Premier League (WPL) 2027 mini-auction."
+      "headline": "Nazma Khan sent Jemimah an Insta DM about her dream. Now, she has a WPL dealA year ago, Nazma Khan messaged Jemimah Rodrigues about her dream of playing alongside the Indian batter. On Wednesday, Delhi Capitals brought that dream a step closer to reality by signing Nazma for Rs 10 lakh at the Women's Premier League (WPL) 2027 mini-auction."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/shubman-gill-temple-wearable-device-india-training-new-zealand-odis-3027536-2026-10-29",
-      "headline": "Shubman Gill flaunts Temple wearable in India training ahead of New Zealand ODIs Shubman Gill was spotted wearing the Temple fitness-tracking device during India's training session in Auckland ahead of the New Zealand ODI series. Badminton star PV Sindhu has also been seen using the wearable, which aims to track brain-related signals."
+      "headline": "Shubman Gill flaunts Temple wearable in India training ahead of New Zealand ODIsShubman Gill was spotted wearing the Temple fitness-tracking device during India's training session in Auckland ahead of the New Zealand ODI series. Badminton star PV Sindhu has also been seen using the wearable, which aims to track brain-related signals."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/ipl-mumbai-indians-coaching-staff-revamp-lasith-malinga-paras-mhambrey-3027610-2026-10-29",
-      "headline": "Mumbai Indians continue coaching revamp, release Lasith Malinga, Paras Mhambrey Mumbai Indians have continued their coaching overhaul by parting ways with Lasith Malinga and Paras Mhambrey as the franchise looks to reshape its support staff ahead of the next IPL season."
+      "headline": "Mumbai Indians continue coaching revamp, release Lasith Malinga, Paras MhambreyMumbai Indians have continued their coaching overhaul by parting ways with Lasith Malinga and Paras Mhambrey as the franchise looks to reshape its support staff ahead of the next IPL season."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/other-sports/story/asian-para-games-badminton-pramod-bhagat-action-gaurav-khanna-prediction-3027567-2026-10-29",
-      "headline": "Asian Para Games star seeks action against ex-coach over public medal predictions Tokyo Paralympic champion Pramod Bhagat has urged authorities to take action against former badminton coach Gaurav Khanna for publicly predicting India's medal tally ahead of the Asian Para Games finals, alleging that such statements put athletes under pressure."
+      "headline": "Asian Para Games star seeks action against ex-coach over public medal predictionsTokyo Paralympic champion Pramod Bhagat has urged authorities to take action against former badminton coach Gaurav Khanna for publicly predicting India's medal tally ahead of the Asian Para Games finals, alleging that such statements put athletes under pressure."
     },
     {
       "sentiment": "positive",
@@ -400,71 +465,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/kumar-sangakkara-ryanair-staff-discrimination-dublin-airport-3027379-2026-10-29",
       "headline": "Kumar Sangakkara accuses Ryanair staff of discrimination and threatening behaviourKumar Sangakkara has spoken out against his experience with Ryanair at Dublin Airport, alleging discriminatory and threatening behaviour by gate personnel while travelling with his family. The Sri Lankan great called the treatment \"shocking\" and \"unacceptable\", with fellow Sri Lankan Sanjiva Weerawarana also sharing his own experiences of discrimination."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-new-zealand-t20i-lockie-ferguson-matt-henry-ruled-out-injuries-3027371-2026-10-29",
-      "headline": "New Zealand dealt double blow as pace duo ruled out of T20I series vs IndiaNew Zealand have suffered a double injury blow, with Lockie Ferguson and Matt Henry ruled out of the remainder of the T20I series against India. With India leading 3-0, the hosts have called up Matt Fisher as they look to avoid a series whitewash."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/kajal-dhochak-wrestling-world-championships-silver-profile-3027365-2026-10-29",
-      "headline": "Sachin-like hunger, a world medal at 18: Meet wrestling prodigy Kajal DhochakAt 18, Kajal Dhochak has become India's first heavyweight World Championships medallist. Driven by a hunger for improvement that reminds her chief coach of Sachin Tendulkar, she now has her sights set on Olympic glory."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/neelam-sirohi-wrestling-world-championships-silver-medal-journey-cycling-coach-exclusive-3027356-2026-10-29",
-      "headline": "Neelam Sirohi: UP's very own stubborn wrestler who took on the world's bestNeelam Sirohi was determined to wrestle from the start, cycling 20km every day to train in Delhi despite her father's initial reluctance. Years later, that same stubbornness took her to the World Championship final, where she won silver."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/liverpool-vs-chelsea-carabao-cup-penalty-shootout-xabi-alonso-least-important-3027352-2026-10-29",
-      "headline": "Liverpool knock Chelsea as Alonso calls Carabao Cup least importantLiverpool knocked Chelsea out of the Carabao Cup after a 6-5 penalty shootout win at Anfield, with Wesley Fofana missing the decisive spot-kick. Chelsea boss Xabi Alonso called the competition his side's least important priority, insisting the Premier League remains the main focus."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/uma-kashvi-youngest-wpl-auction-buy-delhi-capitals-coach-interview-3027292-2026-10-29",
-      "headline": "A 15-year-old in the WPL too: Meet Uma Kashvi, Delhi Capitals' latest sensationUma Kashvi became the youngest player ever to be bought at a WPL auction after Delhi Capitals signed the 15-year-old Karnataka cricketer for Rs 10 lakh. Speaking to India Today, her coach Arjun Dev spoke about her extraordinary talent, maturity and potential to shine at the highest level."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/cristiano-ronaldo-beats-messi-boat-award-top-ballon-d-or-3027316-2026-10-29",
-      "headline": "Cristiano Ronaldo beats Messi to claim award for best in Ballon d'Or historyCristiano Ronaldo has beaten Lionel Messi and football's greats to win the inaugural B.O.A.T. award, launched by UEFA and France Football to recognise the greatest season by a Ballon d'Or winner."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ajinkya-rahane-india-tour-of-australia-virat-kohli-36-captaincy-bluff-3027308-2026-10-29",
-      "headline": "The bluff worked: How Ajinkya Rahane rallied India after 36 all out in AustraliaAjinkya Rahane has revealed how his bluff helped India regain confidence after being bowled out for 36 in Adelaide during the 2020-21 Australia tour. Nervous after taking over from Virat Kohli, Rahane led an injury-hit India to a historic 2-1 series victory."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/neymar-handed-2-match-ban-for-covering-his-mouth-in-a-brazilian-league-game-3027290-2026-10-28",
-      "headline": "Neymar handed two-match ban for covering his mouth in a Brazilian league gameNeymar was suspended for two matches on Wednesday for covering his mouth while arguing with an opponent during a Brazilian league game. Brazil's sports tribunal handed down the suspension for the incident involving the Brazil forward in a Santos game against Bahia last weekend."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/bfi-faction-seeks-ajay-singh-removal-sports-ministry-3027266-2026-10-28",
-      "headline": "BFI faction claims majority support to oust Ajay Singh, meets MoS Raksha KhadseA faction of the Boxing Federation of India (BFI), claiming the support of 27 state units, met Union Minister of State for Sports Raksha Khadse on Wednesday, seeking intervention over alleged governance lapses and demanding the removal of president Ajay Singh."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/south-africa-vs-australia-3rd-test-inglis-carey-give-australia-day-2-report-3027218-2026-10-28",
-      "headline": "SA vs AUS, 3rd Test, Day 2: Inglis, Carey put Australia in the driving seatJosh Inglis and Alex Carey put Australia in a strong position in the series-deciding third Test against South Africa at Newlands, Cape Town, on Wednesday. Australia reached 330 for four at stumps on Day 2, taking a one-run lead after South Africa's first-innings total of 329."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/wpl-2027-auction-dc-mi-rcb-up-warriorz-gujarat-giants-sophie-molineux-uma-kashvi-full-squads-3027177-2026-10-28",
-      "headline": "Sophie Molineux lands big payday, 15-year-old Uma Kashvi scripts historyWPL 2027 auction: Sophie Molineux became the biggest buy at the auction, joining UP Warriorz for Rs 1.10 crore. Fifteen-year-old Uma Kashvi made headlines after Delhi Capitals signed her for Rs 10 lakh, as 25 players were sold in Kochi."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/pakistan-haris-rauf-fined-icc-will-jacks-clash-suspension-threat-3027170-2026-10-28",
-      "headline": "Pakistan's Haris Rauf fined by ICC after Will Jacks clash, suspension risk growsPakistan pacer Haris Rauf has been fined 20 per cent of his match fee and handed a demerit point by the ICC for his altercation with England's Will Jacks in Lahore. He now has five demerit points in 24 months, bringing him closer to a suspension."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/kajal-dhochak-neelam-sirohi-historic-silver-wrestling-world-championships-3027146-2026-10-28",
-      "headline": "18-year-old Kajal becomes first Indian heavyweight medallist at Wrestling WorldsKajal Dhochak, 18, added a senior World Championships silver to her two U20 world titles. She became India's first female heavyweight medalist at the Worlds. Neelam Sirohi, 26, claimed her maiden world medal after years of perseverance on the international circuit."
     }
   ],
   "education": [
