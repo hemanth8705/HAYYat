@@ -103,6 +103,11 @@
   ],
   "entertainment": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/television/story/bigg-boss-20-aasif-khan-evicted-mid-season-scoutop-and-housemates-break-down-3030213-2026-11-02",
+      "headline": "Bigg Boss 20: Aasif Khan evicted mid-season, ScoutOP and housemates break down Aasif Khan was evicted from Bigg Boss 20 during Sunday's Weekend Ka Vaar episode. His eight-week stint mixed comic performances with arguments and controversies."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/movies/celebrities/story/ram-gopal-varma-violent-films-andhra-pradesh-school-chainsaw-attack-3030186-2026-11-01",
       "headline": "Blaming films is like blaming Ramayana for kidnappings: RGV on Andhra chainsaw attack Ram Gopal Varma rejected claims linking violent films to the Andhra Pradesh school chainsaw attack. His Ramayana analogy triggered criticism over cinema's influence and social responsibility."
@@ -191,23 +196,18 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/music/story/diljit-dosanjh-bihar-concert-delayed-crowd-management-security-concerns-3029575-2026-10-31",
       "headline": "Organisers wouldn't own crowd control: Diljit on why Bihar concert plan fell through Diljit Dosanjh revealed why his planned Bihar concert could not proceed. Crowd management and security responsibility remain the key hurdles."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/sanjay-gupta-funeral-abhishek-bachchan-rakesh-roshan-rajpal-yadav-celebs-pay-last-respects-versova-home-3029513-2026-10-31",
-      "headline": "Sanjay Gupta funeral: Abhishek Bachchan to Rajpal Yadav, celebs pay last respects Family, friends and film colleagues gathered at Sanjay Gupta's Mumbai home for his last rites. Their emotional tributes preceded the filmmaker's final journey to Versova crematorium."
     }
   ],
   "general news": [
     {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/andhra-pradesh/story/andhra-chainsaw-attack-accused-shot-in-the-legs-after-attacking-police-with-knife-during-arrest-3030210-2026-11-01",
-      "headline": "Andhra chainsaw attacker shot at after assaulting cop with knife during arrestAndhra chainsaw attack accused shot in the legs after attacking police with knife during arrest"
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/world/story/9-aboard-learjet-killed-as-jet-crashes-in-florida-erupts-into-fireball-3030221-2026-11-02",
+      "headline": "9 aboard Learjet killed as jet crashes in Florida, erupts into fireballA Learjet 60 carrying nine people crashed in a residential area near Cresthaven, Florida, on Sunday, killing everyone on board. The aircraft was travelling from Texas to the Bahamas. The National Transportation Safety Board is investigating the crash."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/donald-trump-tariffs-democrats-oversight-executive-trade-actions-us-midterms-elections-white-house-3030162-2026-11-01",
-      "headline": "No majority, no problem: Trump plans more tariffs as Democrats eye Congress shiftThe Trump administration is preparing executive trade action as Democrats seek congressional control. A power shift could intensify tariff scrutiny without overcoming the president's veto."
+      "url": "https://www.indiatoday.in/india/andhra-pradesh/story/andhra-chainsaw-attack-accused-shot-in-the-legs-after-attacking-police-with-knife-during-arrest-3030210-2026-11-01",
+      "headline": "Andhra chainsaw attacker shot at after assaulting cop with knife during arrestA day after attacking a Class 10 student with a chainsaw at her school in Andhra Pradesh's Anantapur district, accused Hemanth was injured in police firing while resisting arrest."
     },
     {
       "sentiment": "positive",
@@ -216,8 +216,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-india-playing-xi-gautam-gambhir-interview-3029786-2026-11-01",
-      "headline": "Vaibhav benched again. Gambhir says his job is not to make everyone happyVaibhav Sooryavanshi was left out again as India named their playing XI for the fifth T20I against New Zealand. Gautam Gambhir defended his selection calls, insisting that his responsibility was to make the right decisions rather than popular ones."
+      "url": "https://www.indiatoday.in/world/us-news/story/donald-trump-tariffs-democrats-oversight-executive-trade-actions-us-midterms-elections-white-house-3030162-2026-11-01",
+      "headline": "No majority, no problem: Trump plans more tariffs as Democrats eye Congress shiftThe Trump administration is preparing executive trade action as Democrats seek congressional control. A power shift could intensify tariff scrutiny without overcoming the president's veto."
     },
     {
       "sentiment": "positive",
@@ -226,18 +226,18 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-india-playing-xi-gautam-gambhir-interview-3029786-2026-11-01",
+      "headline": "Vaibhav benched again. Gambhir says his job is not to make everyone happyVaibhav Sooryavanshi was left out again as India named their playing XI for the fifth T20I against New Zealand. Gautam Gambhir defended his selection calls, insisting that his responsibility was to make the right decisions rather than popular ones."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/india/story/cyclone-murasu-landfall-ongole-andhra-odisha-arnab-evacuations-rain-warning-3030206-2026-11-01",
+      "headline": "Cyclone Murasu nears Andhra, Odisha days after Arnab; Chennai schools shutCyclone Murasu is approaching the Andhra Pradesh coast as authorities evacuate vulnerable residents. The fresh threat has complicated ongoing relief operations after Cyclone Arnab."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/india-bloc-rally-turnout-bjp-mocks-rahul-gandhi-ten-lakh-attendance-claim-ramlila-maidan-releases-video-drone-footage-3029975-2026-11-01",
-      "headline": "Super flop rally: BJP mocks INDIA bloc over turnout, questions Rahul's 10 lakh claim Live UpdatesBJP MP Sambit Patra said the rally, held over allegations of 'vote chori' against the Election Commission, had failed to draw the crowds promised by Congress leaders. He cited visuals of the venue to claim that large portions of the ground remained vacant despite INDIA bloc leaders projecting an attendance of over 10 lakh people."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/mahadev-betting-app-promoter-sourabh-chandrakar-brought-back-from-oman-to-india-to-be-produced-before-court-3030083-2026-11-01",
-      "headline": "Mahadev betting app promoter Sourabh Chandrakar extradited to India from OmanChandrakar is wanted in two CBI cases and a separate ED case linked to the alleged illegal betting syndicate. He will be medically examined before being taken to Raipur and produced before a special CBI court on Monday."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/siddaramaiah-sting-video-probe-kumaraswamy-delhi-residence-staffer-3030062-2026-11-01",
-      "headline": "Siddaramaiah 'sting op' probe leads to Kumaraswamy's Delhi residence, staffer namedBengaluru police have arrested another accused in the alleged sting video case involving Siddaramaiah, uncovering a new lead linked to Delhi."
+      "headline": "Super flop rally: BJP mocks INDIA bloc over turnout, questions Rahul's 10 lakh claimBJP MP Sambit Patra said the rally, held over allegations of 'vote chori' against the Election Commission, had failed to draw the crowds promised by Congress leaders. He cited visuals of the venue to claim that large portions of the ground remained vacant despite INDIA bloc leaders projecting an attendance of over 10 lakh people."
     },
     {
       "sentiment": "positive",
@@ -256,8 +256,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/tamil-nadu/story/tamil-nadu-state-flag-tvk-aadhav-arjuna-vijay-proposal-bjp-separatist-mindset-3030106-2026-11-01",
-      "headline": "TVK minister revives demand for Tamil Nadu flag, BJP slams separatist mindsetA flag for Tamil Nadu, \"equal to the National Flag\": Aadhav Arjuna, CM Vijay's top minister's call has drawn a BJP warning over separatism and brought former Chief Minister Karunanidhi's unfulfilled 1970 proposal back into focus."
+      "url": "https://www.indiatoday.in/india/story/mahadev-betting-app-promoter-sourabh-chandrakar-brought-back-from-oman-to-india-to-be-produced-before-court-3030083-2026-11-01",
+      "headline": "Mahadev betting app promoter Sourabh Chandrakar extradited to India from OmanChandrakar is wanted in two CBI cases and a separate ED case linked to the alleged illegal betting syndicate. He will be medically examined before being taken to Raipur and produced before a special CBI court on Monday."
     },
     {
       "sentiment": "positive",
@@ -266,18 +266,18 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/diljit-dosanjh-pro-khalistani-slogans-delhi-metro-three-arrested-concert-special-cell-3030166-2026-11-01",
-      "headline": "Khalistani slogans targetting Diljit Dosanjh found at Delhi Metro stations, 3 heldThree people have been arrested for allegedly writing pro-Khalistan slogans targetting singer Diljit Dosanjh at two Delhi Metro stations. Police suspect an SFJ-linked conspiracy and are searching for the handlers."
+      "url": "https://www.indiatoday.in/education-today/news/story/nilekani-task-force-examination-reforms-report-january-2027-ptag-3030003-2026-11-01",
+      "headline": "Nilekani-led task force gets January 2027 deadline to submit exam reform reportThe Centre has set January 2027 for the Nilekani task force's examination reform report. The exercise follows renewed NEET leaks, student protests and calls for safer testing."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/shah-rukh-khan-61st-birthday-king-song-deepika-padukone-midnight-release-3030117-2026-11-01",
-      "headline": "SRK's 61st birthday surprise: King song with Deepika Padukone to drop at midnightShah Rukh Khan's King song with Deepika Padukone will release at midnight. The launch is planned as a surprise marking SRK's 61st birthday."
+      "url": "https://www.indiatoday.in/india/story/siddaramaiah-sting-video-probe-kumaraswamy-delhi-residence-staffer-3030062-2026-11-01",
+      "headline": "Siddaramaiah 'sting op' probe leads to Kumaraswamy's Delhi residence, staffer namedBengaluru police have arrested another accused in the alleged sting video case involving Siddaramaiah, uncovering a new lead linked to Delhi."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/cjp-abhijeet-dipke-meets-mamata-banerjee-delhi-backs-india-bloc-vote-chori-rally-but-refuses-to-join-protest-at-ramlila-maidan-3029609-2026-10-31",
-      "headline": "After meeting Mamata, Dipke says CJP to skip INDIA bloc rally: We're neutralAbhijeet Dipke met Mamata Banerjee in Delhi and backed the INDIA bloc rally. The CJP will stay away to preserve its independent, politically neutral identity."
+      "url": "https://www.indiatoday.in/india/tamil-nadu/story/tamil-nadu-state-flag-tvk-aadhav-arjuna-vijay-proposal-bjp-separatist-mindset-3030106-2026-11-01",
+      "headline": "TVK minister revives demand for Tamil Nadu flag, BJP slams separatist mindsetA flag for Tamil Nadu, \"equal to the National Flag\": Aadhav Arjuna, CM Vijay's top minister's call has drawn a BJP warning over separatism and brought former Chief Minister Karunanidhi's unfulfilled 1970 proposal back into focus."
     },
     {
       "sentiment": "positive",
@@ -286,13 +286,8 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sunday-special/story/dhanush-tamil-nadu-politics-entry-explained-tvk-cm-vijay-challenger-film-impact-itspc-3028393-2026-11-01",
-      "headline": "Can Dhanush become a bigger hit than Vijay?Tamil Nadu CM C Joseph Vijay's electoral victory has opened a new chapter in Tamil Nadu politics, but it has also raised a vacuum for a challenger. With Dhanush's fan network taking on a more organised welfare role, could another film star be preparing to enter the political battlefield?"
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/rahul-gandhi-gyanesh-kumar-jail-ramlila-maidan-rally-opposition-vote-chori-sir-pm-modi-amit-shah-bjp-attacks-mamata-banerjee-mallikarjun-kharge-akhilesh-yadav-delhi-march-3029968-2026-11-01",
-      "headline": "CEC will go to jail, PM to face action, says Rahul; Amit Shah's '1984 riots' retortCongress MP Rahul Gandhi warned that CEC Gyanesh Kumar could face jail and PM Narendra Modi and Union Home Minister Amit Shah would face legal action over alleged electoral irregularities. Amit Shah countered by criticising the Opposition rally's timing on the anniversary of the 1984 anti-Sikh riots."
+      "url": "https://www.indiatoday.in/cities/other-cities/story/banka-human-remains-case-head-recovered-missing-teen-mother-arrested-3030220-2026-11-02",
+      "headline": "7 body parts, hand and head found in Bihar canal, teenage girl's murder suspectedA human head was recovered from a canal in Bihar's Banka district on Sunday, the fifth day of a chilling discovery of human remains. Police suspect the remains belong to a missing 16-year-old girl and have arrested her mother."
     },
     {
       "sentiment": "positive",
@@ -301,13 +296,18 @@
     },
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/diljit-dosanjh-pro-khalistani-slogans-delhi-metro-three-arrested-concert-special-cell-3030166-2026-11-01",
+      "headline": "Khalistani slogans targetting Diljit Dosanjh found at Delhi Metro stations, 3 heldThree people have been arrested for allegedly writing pro-Khalistan slogans targetting singer Diljit Dosanjh at two Delhi Metro stations. Police suspect an SFJ-linked conspiracy and are searching for the handlers."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/india/story/jammu-kashmir-cm-omar-abdullah-journalist-nidhi-razdan-wedding-3029297-2026-10-31",
       "headline": "J&K Chief Minister Omar Abdullah marries journalist Nidhi RazdanJammu and Kashmir Chief Minister Omar Abdullah has announced his marriage to journalist Nidhi Razdan, sharing the news on social media on Saturday."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/fact-check/story/aerial-shot-shows-2019-rally-in-kolkata-not-india-bloc-rally-in-delhi-2521769-2024-04-01",
-      "headline": "Fact Check: This aerial shot shows 2019 rally in Kolkata, not INDIA bloc rally in DelhiIndia Today Fact Check found that the image making rounds is from 2019 and was shot during a rally in Kolkata organised by the Left parties."
+      "url": "https://www.indiatoday.in/india/story/cjp-abhijeet-dipke-meets-mamata-banerjee-delhi-backs-india-bloc-vote-chori-rally-but-refuses-to-join-protest-at-ramlila-maidan-3029609-2026-10-31",
+      "headline": "After meeting Mamata, Dipke says CJP to skip INDIA bloc rally: We're neutralAbhijeet Dipke met Mamata Banerjee in Delhi and backed the INDIA bloc rally. The CJP will stay away to preserve its independent, politically neutral identity."
     },
     {
       "sentiment": "positive",
@@ -316,11 +316,21 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/andhra-pradesh/story/india-today-journalist-abdul-basheer-cameraman-attacked-pulivendula-andhra-pradesh-local-polls-ysrcp-tdp-3030063-2026-11-01",
-      "headline": "India Today journalist attacked while covering Andhra polls, video camera smashedIndia Today journalist Abdul Basheer and cameraman S Vijay were allegedly assaulted while covering local body polls in Andhra Pradesh's Pulivendula, triggering a war of words between the ruling TDP and Opposition YSRCP. The team's video camera was damaged during the attack."
+      "url": "https://www.indiatoday.in/sunday-special/story/dhanush-tamil-nadu-politics-entry-explained-tvk-cm-vijay-challenger-film-impact-itspc-3028393-2026-11-01",
+      "headline": "Can Dhanush become a bigger hit than Vijay?Tamil Nadu CM C Joseph Vijay's electoral victory has opened a new chapter in Tamil Nadu politics, but it has also raised a vacuum for a challenger. With Dhanush's fan network taking on a more organised welfare role, could another film star be preparing to enter the political battlefield?"
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-womens-world-cup-win-on-this-day-harmanpreet-kaur-3029977-2026-11-02",
+      "headline": "The night Indian women's cricket found its wings with World Cup heist A year ago on this day, India scripted history by winning the 2025 Women's ODI World Cup. The triumph gave a generation of girls the belief to dream big, transformed the commercial landscape of women's cricket, and ushered in a new era for the sport in the country."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/hockey/story/harmanpreet-singh-goals-record-unclear-after-malaysia-hat-trick-3030209-2026-11-01",
+      "headline": "Has Harmanpreet Singh Balbir Singh's goals record? India captain left in limbo Harmanpreet Singh scored a hat-trick against Malaysia, but confusion over Hockey India and FIH statistics has left the Indian captain unsure if he broke Balbir Singh Sr's 246-goal record. The conflicting numbers have raised questions over the historic feat."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/namibia-beat-ireland-jj-smit-historic-bilateral-odi-series-victory-3030208-2026-11-01",
@@ -369,12 +379,12 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/formula-one/story/mexico-gp-f1-liam-lawson-max-verstappen-3030020-2026-11-01",
-      "headline": "Liam Lawson's F1 weekend goes from bad to worse after colliding with Verstappen Liam Lawson's difficult Mexico City Grand Prix weekend took another hit after a technical breach led to his disqualification from qualifying, sending him to the back of the grid. The Racing Bulls driver had already received a penalty for colliding with Max Verstappen during Friday's practice session."
+      "headline": "Liam Lawson's F1 weekend goes from bad to worse after colliding with VerstappenLiam Lawson's difficult Mexico City Grand Prix weekend took another hit after a technical breach led to his disqualification from qualifying, sending him to the back of the grid. The Racing Bulls driver had already received a penalty for colliding with Max Verstappen during Friday's practice session."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/rishabh-pant-ruled-out-third-unofficial-test-india-vs-new-zealand-a-3030022-2026-11-01",
-      "headline": "Rishabh Pant out of India A's third unofficial Test against New Zealand A Rishabh Pant has been ruled out of India A's third unofficial Test against New Zealand A, dealing a fresh blow to his preparations for the two-match Test series starting November 19."
+      "headline": "Rishabh Pant out of India A's third unofficial Test against New Zealand ARishabh Pant has been ruled out of India A's third unofficial Test against New Zealand A, dealing a fresh blow to his preparations for the two-match Test series starting November 19."
     },
     {
       "sentiment": "positive",
@@ -460,16 +470,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/ac-milan-beat-inter-derby-della-madonnina-moreira-pulisic-seire-a-3029691-2026-11-01",
       "headline": "Diego Moreira, Pulisic shine as AC Milan stun Inter in Derby della MadonninaAC Milan claimed derby bragging rights with a 3-1 win over Inter at San Siro, ending their rivals' unbeaten Serie A start. Diego Moreira starred with a goal and two assists, while Christian Pulisic struck early."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/formula-one/story/lewis-hamilton-first-ferrari-pole-mexico-gp-f1-record-extends-3029675-2026-11-01",
-      "headline": "Lewis Hamilton takes first Ferrari pole at Mexico GP, extends F1 recordLewis Hamilton delivered a stunning qualifying lap in Mexico City to claim his first pole for Ferrari and the 105th of his career. The 41-year-old also became the oldest driver to secure pole in over four decades."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/ioa-election-pt-usha-saina-nehwal-gagan-narang-among-27-candidates-3029674-2026-11-01",
-      "headline": "PT Usha, Saina Nehwal among sporting greats in IOA election frayPT Usha and several Olympic medallists are among the prominent names contesting eight key positions in the IOA General Assembly. The November 9 election will also shape the voting pool for the body's December leadership polls."
     }
   ],
   "education": [
