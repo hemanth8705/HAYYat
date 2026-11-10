@@ -1,6 +1,21 @@
 {
   "business": [
     {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/microsoft-presses-trump-to-drop-planned-ban-on-chinese-ai-data-centre-ptical-transceiver-3036339-2026-11-10",
+      "headline": "Microsoft presses Trump to drop planned ban on Chinese AI data centre tech: ReportMicrosoft has urged the Trump administration to halt a proposed ban on Chinese optical transceiver imports. The industry says supply disruption could slow data centre construction and weaken US AI competitiveness."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/nvidia-megaspeed-50000-chip-gap-us-export-probe-report-3036123-2026-11-10",
+      "headline": "Nvidia-Megaspeed ties face scrutiny over reported 50,000-chip gapBloomberg reported a 50,000-chip discrepancy and Nvidia counsel's contact with a US official. The revelations intensified scrutiny of a stalled probe into suspected export-control breaches."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/india-bioeconomy-policy-wef-ethanol-programme-demand-supply-model-3036076-2026-11-10",
+      "headline": "India's ethanol push offers bioeconomy policy model, says World Economic ForumThe World Economic Forum (WEF) has cited India's ethanol programme as a model for aligning bioeconomy demand and supply. Its report urges governments to create viable markets and measure policy outcomes from the outset."
+    },
+    {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/business/story/anthropic-ipo-withdraws-filing-69-billion-fundraise-report-3036003-2026-11-10",
       "headline": "Anthropic withdraws IPO filing showing plan to raise up to $69 billionAnthropic withdrew a securities filing sent to banks after saying its IPO pricing details were inaccurate. The retraction leaves the proposed offering's final terms unclear amid scrutiny of artificial intelligence spending."
@@ -84,24 +99,44 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/pakistan-debt-doubles-usd-135-billion-china-biggest-creditor-imf-report-3033771-2026-11-06",
       "headline": "Pakistan's foreign debt doubles in 10 years, China tops list of lendersPakistan's external debt rose nearly 97% in a decade to $135.1 billion, with China its biggest individual creditor. Costlier private loans and shorter repayment periods continue to pressure the country's finances."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/market/story/market-rally-sensex-ends-1718-points-higher-nifty-crosses-25000-icici-bank-up-5-3033699-2026-11-06",
-      "headline": "Sensex, Nifty rally as Dalal Street defies global market routThe Sensex jumped 1,718.01 points, or 2.17%, to close at 81,028.02. The Nifty climbed 493.75 points, or 2.01%, to settle at 25,030.35, reclaiming the 25,000 mark."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/binance-hack-how-15-dollar-ethereum-fee-usd-2-5-billion-crypto-transfer-3033664-2026-11-06",
-      "headline": "Binance hack: How hackers moved billions in crypto with a $15 transactionHackers used Ethereum's EIP-7702 feature to move stolen funds from Binance. The delegated permission remained active after the exchange detected the breach."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/real-estate/story/home-sales-jump-12-but-why-are-buyers-flocking-to-these-3-cities-3033644-2026-11-06",
-      "headline": "Home sales jump 12%, but why are buyers flocking to these 3 cities?India's top seven cities recorded a 12% rise in home sales in Q3 2026. Yet, the bigger story lies in three markets that continue to account for the bulk of residential demand."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/music/story/ar-rahmans-gurgaon-concert-postponed-organisers-cite-last-minute-developments-3036329-2026-11-10",
+      "headline": "AR Rahman's Gurgaon concert postponed; organisers cite 'last-minute developments' Fans who purchased tickets ranging from Rs 2,499 to Rs 1,50,000 have received full refunds following the abrupt postponement of composer-singer AR Rahman's Wonderment Tour gig."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/mahabharats-nitish-bharadwaj-takes-u-turn-after-oscar-prediction-for-ramayana-ranbir-sai-pallavi-yash-3036259-2026-11-10",
+      "headline": "Mahabharat's Nitish Bharadwaj takes U-turn after Oscar prediction for Ramayana Mahabharat actor Nitish Bharadwaj has withdrawn his earlier praise for director Nitesh Tiwari's Ramayana: Rise of a Legend. His objections centre on Ravana's portrayal and what he considers a dilution of the epic's spiritual values."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/karan-johar-defends-vijay-rashmika-ranveer-deepika-against-extremely-regressive-trolling-koffee-with-karan-3036189-2026-11-10",
+      "headline": "KJo defends Vijay-Rashmika, Ranveer-Deepika against 'extremely regressive' trolling Director and host Karan Johar has defended actor-couples Ranveer Singh-Deepika Padukone and Vijay Deverakonda-Rashmika Mandanna against online relationship policing. His remarks followed the actors' personal confessions on his celebrity talk show, Koffee With Karan."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/ramayana-box-office-what-will-it-take-to-beat-dhurandhar-cross-rs-2000-crore-ranbir-sai-pallavi-yash-ranveer-3036107-2026-11-10",
+      "headline": "Ramayana's Rs 2,000 crore journey: What will it take to beat Dhurandhar 2? Ramayana has earned Rs 663.90 crore worldwide gross within five days of release. Its overseas performance and dubbed versions could prove crucial in chasing the lifetime global collection of Dhurandhar 2."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/david-schwimmer-friends-red-sweater-ross-geller-holiday-ad-3036154-2026-11-10",
+      "headline": "David Schwimmer brings back iconic Friends red sweater in new ad. Watch David Schwimmer chases the iconic red sweater through New York City in a holiday advertisement. The campaign playfully recalls Ross Geller's memorable paternity-reveal storyline from Friends."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/ramayana-jatayu-ravana-battle-nail-keepsake-meaning-3035965-2026-11-10",
+      "headline": "Why did Ravana keep Jatayu's nail after killing him in Ramayana? Detail you missed A closer look at the fierce face-off between Ravana and Jatayu in Nitesh Tiwari's Ramayana: Rise of a Legend has brought an intriguing detail about the Lanka king's character into focus. The seemingly small detail adds another layer to the film's portrayal of Ravana."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/mukesh-khanna-on-sai-palllavis-ramayana-fight-scene-stop-adding-your-own-narrative-3036001-2026-11-10",
+      "headline": "Stop adding your own narrative: Mukesh Khanna on Sai Palllavi's Ramayana fight scene Veteran actor Mukesh Khanna criticised the makers of Ramayana: Rise of a Legend over actor Sai Pallavi's action sequence as Goddess Sita. He questioned creative liberties and the adaptation's fidelity to Valmiki's epic."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/student-of-the-year-after-dark-to-jailer-2-10-ott-binge-worthy-releases-this-week-3035986-2026-11-10",
@@ -130,7 +165,7 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/sidharth-malhotra-kiara-advani-koffee-with-karan-9-3035851-2026-11-10",
-      "headline": "We don't bring work into our bedroom: Sidharth-Kiara talk love, marriage on Koffee 9 Sidharth Malhotra and Kiara Advani will appear together on Koffee with Karan 9. Their first joint television outing revisits their wedding, marriage and growing family."
+      "headline": "Date nights after dinner? Pregnant Kiara Advani says 'ab bass ho gaya' on KWK 9 Sidharth Malhotra and Kiara Advani will appear together on Koffee with Karan 9. Their first joint television outing revisits their wedding, marriage and growing family."
     },
     {
       "sentiment": "positive",
@@ -161,108 +196,73 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/regional-cinema/story/shaji-kumar-dies-at-57-during-dileep-film-shoot-in-alappuzha-3035772-2026-11-10",
       "headline": "Malayalam cinematographer Shaji Kumar dies at 57 amid Dileep film shoot Malayalam cinematographer Shaji Kumar died after developing health complications while shooting a Dileep film in Alappuzha. His death has left the Malayalam film fraternity mourning a cinematographer noted for his visual craft."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/pyre-screenings-cut-75-percent-ramayana-release-vinod-kapri-3035774-2026-11-10",
-      "headline": "Pyre loses 75% of shows amid Ramayana wave, director Vinod Kapri raises concern Filmmaker Vinod Kapri has voiced concerns over his film Pyre losing 75% of its screenings amid the theatrical dominance of Ramayana: Rise of a Legend. He alleges theatre owners and distributors were directed to prioritise Ramayana, leaving Pyre with significantly fewer shows despite positive audience response."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/nick-jonas-dances-sai-abhyankkar-tamil-hit-radhimaa-diwali-3035745-2026-11-10",
-      "headline": "National Jiju's Tamil era is here! Nick Jonas grooves to Sai Abhyankkar's Radhimaa Nick Jonas and the Jonas Brothers danced to Sai Abhyankkar's Tamil indie track Radhimaa in their Happy Diwali post on Instagram. The Tamil indie hit gave his National Jiju connection a playful new twist."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/ramayana-box-office-day-5-film-makes-post-diwali-history-beats-dhurandhar-2-record-3035729-2026-11-10",
-      "headline": "Ramayana box office Day 5: Rs 663 crore, Dhurandhar crushed and post-Diwali history Ramayana: Part 1 collected Rs 126 crore gross in India on its first Monday. The haul set an Indian film record for post-Diwali day and lifted its worldwide gross to more than Rs 660 crore."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/yash-wore-33-kg-ravana-costume-crown-alone-weighed-18-kg-stylist-saniya-sardhariya-reveals-details-3035401-2026-11-10",
-      "headline": "Yash wore 33 kg Ravana costume, crown alone weighed 1.8 kg. Stylist reveals details Costume designer and stylist Saniya Sardhariya revealed that actor Yash wore costumes weighing up to 33 kg to portray Ravana in Ramayana. She also shared details about designing his heavy crown, jewellery and armour."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/hollywood/story/james-gunn-peter-safran-exit-dc-studios-marvel-veteran-jeremy-latcham-takes-over-3035728-2026-11-10",
-      "headline": "James Gunn, Peter Safran exit DC Studios; Marvel veteran Jeremy Latcham takes over James Gunn and Peter Safran will leave DC Studios' leadership as Jeremy Latcham takes charge. The transition raises questions about their decade-long DC plan while preserving their creative involvement."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/suriya-the-scene-stealer-rs-116-crore-a-celebratory-comeback-and-a-star-reborn-3035278-2026-11-10",
-      "headline": "Suriya, the 'Scene' stealer: Rs 150 crore, a celebratory comeback and a star reborn After two decades of experimenting with his image, Suriya's 2026 hat-trick with a Rs 150 crore hit is more than a box-office comeback. With Scene, he returns to the quirky, unpredictable actor audiences have always loved."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/pawan-kalyan-wife-anna-konidala-announce-separation-after-13-years-3035727-2026-11-10",
-      "headline": "Pawan Kalyan and wife Anna announce separation after 13 years Andhra Pradesh Deputy Chief Minister and actor Pawan Kalyan and wife Anna have announced their separation. They said mutual respect and their children's well-being would guide the transition."
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/sonia-gandhi-memoir-2004-prime-minister-post-offer-internal-battle-rahul-gandhi-priyanka-book-upa-viral-3035876-2026-11-10",
-      "headline": "Sonia Gandhi's inner turmoil on taking up PM post. Then, a midnight chat with RahulSonia Gandhi's memoir recounts her deliberations after colleagues urged her to become Prime Minister in 2004, following the Congress-led UPA's stunning victory in the general elections."
+      "url": "https://www.indiatoday.in/india/story/ncp-merger-talks-parth-pawar-leadership-nda-alignment-sharad-pawar-sunetra-maharashtra-mahayuti-3036267-2026-11-10",
+      "headline": "NCP reunification on hold? Sunetra Pawar, Parth's reluctance clouds mergerThe unification effort within the NCP has hit a roadblock amid differences over leadership, Parth Pawar's growing influence, Sunetra Pawar's reservations and the BJP's broader political calculations."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/tamil-nadu-cyber-fraud-nigerian-gang-bjp-targets-cm-vijay-itspc-3035948-2026-11-10",
-      "headline": "Where is CM Vijay? BJP demands answers as Rs 22 crore of govt funds siphoned offThe BJP has questioned Tamil Nadu Chief Minister C Joseph Vijay over reports that Rs 22 crore had been siphoned off from government bank accounts. It accused the TVK-led government of administrative negligence and took a swipe at CM Vijay's social media supporters."
+      "url": "https://www.indiatoday.in/india/story/india-active-role-russia-ukraine-peace-talks-abu-dhabi-modi-zelenskyy-truce-plan-itspc-3036214-2026-11-10",
+      "headline": "Russia, Ukraine meet in UAE. India playing an active role in peace process?India has confirmed its engagement in talks with Russia and Ukraine at the highest level and revealed that it has proposed measures to protect Black Sea shipping and ensure the flow of grain and energy supplies. The disclosure comes as US-mediated peace talks resume in the UAE. Is India playing an active role in the peace process?"
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/bharat-petroleum-bpcl-deleted-e20-ethanol-blend-petrol-tweet-33-percent-reading-viral-users-slam-backlash-karnataka-3035828-2026-11-10",
-      "headline": "Bharat Petroleum rejected Karnataka's E20 claim with facts. Then deleted a tweetBharat Petroleum deleted a tweet claiming that tests at a Mysuru petrol pump showed the E20 content in petrol adhered to the mandated 20 per cent level, after users pointed out that it was allegedly as high as 33 per cent."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/pyre-screenings-cut-75-percent-ramayana-release-vinod-kapri-3035774-2026-11-10",
-      "headline": "Pyre loses 75% of shows amid Ramayana wave, director Vinod Kapri raises concernFilmmaker Vinod Kapri has voiced concerns over his film Pyre losing 75% of its screenings amid the theatrical dominance of Ramayana: Rise of a Legend. He alleges theatre owners and distributors were directed to prioritise Ramayana, leaving Pyre with significantly fewer shows despite positive audience response."
+      "url": "https://www.indiatoday.in/india/story/hyderabad-charminar-bhagyalakshmi-temple-diwali-silver-coins-bjp-leaders-muslim-activists-row-itspc-3035950-2026-11-10",
+      "headline": "Charminar temple row escalates as devotees, BJP leaders flock to Bhagyalakshmi TempleHyderabad's Bhagyalakshmi Temple, adjoining the historic Charminar and no stranger to controversy, has witnessed massive Diwali crowds and a beeline of senior BJP and BRS leaders. The rush has led to concern among some Muslim activists over the safety of Charminar, a 16th century monument."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/pranab-mukherjee-pm-ambition-sonia-gandhi-2010-memoir-3035831-2026-11-10",
-      "headline": "Did Pranab Mukherjee want Manmohan's chair? Sonia Gandhi recalls a 2010 remarkSonia Gandhi's memoir recounts Pranab Mukherjee hinting in 2010 that he wanted a change at the top. The account also rebuts claims that she wielded unofficial power over Manmohan Singh's UPA government."
+      "url": "https://www.indiatoday.in/world/story/this-is-all-politics-us-defence-secretary-pete-hegseth-calls-impeachment-threat-stunt-at-rare-briefing-3036233-2026-11-10",
+      "headline": "Pentagon chief rips his own party's impeachment threat as farce, gets A+++ from TrumpUS Defence Secretary Pete Hegseth, speaking at the rare briefing, said the impeachment effort was not a genuine attempt at congressional oversight but a personal attack by a \"disgruntled and defeated congressman\"."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/sharmistha-mukherjee-questions-sonia-gandhi-pranab-mukherjee-pm-ambition-3036016-2026-11-10",
-      "headline": "Is it a crime to be ambitious? Pranab Mukherjee's daughter on his PM hint to SoniaSharmistha Mukherjee hit back at Sonia Gandhi's account of her father's prime ministerial aspirations, defending his record and taking a swipe at the Gandhi-Nehru family over \"dynastic entitlements\"."
+      "url": "https://www.indiatoday.in/india/story/sonia-gandhi-memoir-breast-cancer-surgery-pancreatic-tumour-varanasi-collapse-3036042-2026-11-10",
+      "headline": "I felt shaken, worried: Sonia Gandhi reveals two cancer scares, secret surgeriesBehind the political battles, public appearances and demands of leading the Congress, Sonia Gandhi was also battling serious health challenges -- two cancer scares that she kept away from public."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-uae-u19-asia-cup-live-score-aryavir-sehwag-anvay-dravid-3035789-2026-11-10",
-      "headline": "India vs UAE Live: UAE (21/0), chasing 310. India eye early wickets with new ballIndia vs UAE Live Score, U19 Asia Cup: UAE (21/0 in 5 ovs), chasing 310. India have not started the way they would like in the 2nd innings. The bowlers have yet to find that early wicket to give them the headstart in defending their total."
+      "url": "https://www.indiatoday.in/india/maharashtra/story/maharashtra-anti-conversion-law-churches-restrict-vacation-bible-school-programmes-3036316-2026-11-10",
+      "headline": "No non-Christian kids: Why Maharashtra churches are restricting Bible campsSeveral churches across Maharashtra are restricting Vacation Bible School programmes to Christian children or cancelling them amid fears of conversion allegations and disruptions by right-wing groups. The state's new anti-conversion law has prompted pastors to introduce precautionary measures, including advance registration, fees, CCTV cameras and visitor records."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/mitchell-starc-usman-khawaja-australia-2018-ball-tampering-scandal-3035982-2026-11-10",
-      "headline": "Starc revisits 2018 ball-tampering controversy after Khawaja's explosive claimsMitchell Starc has stood by his account of Australia's 2018 ball-tampering scandal after Usman Khawaja claimed the entire team knew about the plot. Starc also addressed his 2021 statement and his relationship with his former teammate."
+      "url": "https://www.indiatoday.in/india/karnataka/story/priyank-kharge-tejasvi-surya-clash-murder-probes-rss-registration-3036186-2026-11-10",
+      "headline": "Priyank Kharge vs Tejasvi Surya over claim of RSS links to Lankesh, Kalburgi murdersKarnataka Home Minister Priyank Kharge hit back at BJP MP Tejasvi Surya over allegations linking the RSS to four high-profile murders, challenging the organisation to register itself and disclose its finances. He also questioned its role in the freedom struggle, while Surya demanded evidence within three days or Kharge's resignation."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/ramayana-box-office-day-5-film-makes-post-diwali-history-beats-dhurandhar-2-record-3035729-2026-11-10",
-      "headline": "Ramayana box office Day 5: Rs 663 crore, Dhurandhar crushed and post-Diwali historyRamayana: Part 1 collected Rs 126 crore gross in India on its first Monday. The haul set an Indian film record for post-Diwali day and lifted its worldwide gross to more than Rs 660 crore."
+      "url": "https://www.indiatoday.in/world/story/lahore-air-pollution-pakistan-blames-diwali-firecrackers-india-3036327-2026-11-10",
+      "headline": "Lahore beats Delhi on pollution chart, Pakistan blames India's Diwali celebrationsPakistan blamed Diwali firecracker pollution drifting from India for Lahore's worsening air quality. The claim revived a cross-border dispute as Lahore and Delhi ranked among the world's most polluted major cities."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/aaryavir-sehwag-150-india-vs-uae-u19-asia-cup-3035977-2026-11-10",
-      "headline": "Baby Sehwag hits daddy hundred as India return to form in U19 Asia CupAaryavir Sehwag smashed a sensational 150-plus score against UAE in the U19 Asia Cup, helping India recover from their defeat against Pakistan."
+      "url": "https://www.indiatoday.in/movies/bollywood/story/ramayana-box-office-what-will-it-take-to-beat-dhurandhar-cross-rs-2000-crore-ranbir-sai-pallavi-yash-ranveer-3036107-2026-11-10",
+      "headline": "Ramayana's Rs 2,000 crore journey: What will it take to beat Dhurandhar 2?Ramayana has earned Rs 663.90 crore worldwide gross within five days of release. Its overseas performance and dubbed versions could prove crucial in chasing the lifetime global collection of Dhurandhar 2."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/other-cities/story/hajipur-wife-murder-woman-shot-dead-by-husband-on-diwali-with-licensed-pistol-in-bihar-3035990-2026-11-10",
-      "headline": "Bihar man asks daughter to go to sleep, shoots wife dead after fight on DiwaliThe couple's daughter revealed that arguments between her parents were not unusual. She claimed that her father used his licensed pistol to kill her mother."
+      "url": "https://www.indiatoday.in/india/story/sonia-gandhi-memoir-belonging-a-journey-of-love-error-advisor-ahmed-patel-death-year-3036262-2026-11-10",
+      "headline": "Sonia Gandhi's memoir makes error in her advisor Ahmed Patel's death yearSonia Gandhi's memoir Belonging: A Journey of Love, released on Tuesday, contains a factual error about the death of her close aide Ahmed Patel, incorrectly placing his death in 2022 instead of November 2020."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/sonia-gandhi-memoir-bjp-leader-dinesh-pratap-singh-claims-apj-abdul-kalam-blocked-2004-pm-bid-refused-to-swear-her-italian-origins-3035998-2026-11-10",
-      "headline": "Sonia says she refused PM post, BJP counters: Kalam refused to swear her inBJP leader Dinesh Pratap Singh challenged Sonia Gandhi's account of declining the Prime Minister's post in 2004. Her memoir says an inner voice guided the decision and explains why she chose Manmohan Singh."
+      "url": "https://www.indiatoday.in/india/story/nsg-breathable-nyco-uniforms-black-cat-commandos-vip-duty-heatstroke-ptag-3036156-2026-11-10",
+      "headline": "After VIP guard faints in 44\u00b0C heat, Black Cat commandos to get breathable uniformsThe NSG has recommended breathable nyco uniforms for Black Cat commandos guarding high-risk VIPs. The change aims to reduce heat stress while personnel carry heavy protective gear."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/sidharth-malhotra-kiara-advani-koffee-with-karan-9-3035851-2026-11-10",
-      "headline": "Date nights after dinner? Pregnant Kiara Advani says 'ab bass ho gaya' on KWK 9Sidharth Malhotra and Kiara Advani will appear together on Koffee with Karan 9. Their first joint television outing revisits their wedding, marriage and growing family."
+      "url": "https://www.indiatoday.in/entertainment/television/story/divyanka-tripathi-tribute-guard-dhanpat-uncle-dies-pre-diwali-building-fire-3035889-2026-11-10",
+      "headline": "Divyanka Tripathi mourns guard who blessed her babies, died in fire on Diwali eveDivyanka Tripathi paid tribute to building guard Dhanpat Uncle, who died in a pre-Diwali fire. His death left her family grieving a trusted presence in their everyday lives."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/trending-news/story/mumbai-man-shares-how-cook-earns-rs-105-lakh-monthly-plans-thailand-trip-with-friends-3036227-2026-11-10",
+      "headline": "Mumbai man's cook earns Rs 1.05 lakh monthly, plans Thailand trip with friendsA Mumbai man's post about his cook earning Rs 1.05 lakh every month and planning his first international holiday with friends has caught attention on LinkedIn."
     },
     {
       "sentiment": "positive",
@@ -270,9 +270,29 @@
       "headline": "Prime Minister Narendra Modi to deliver plenary address at India Today Group's Kisan Tak Bharat Agriculture Conference 2026PM Modi to address over 2,000 farmers, policymakers, and global experts at Bharat Mandapam. Presented by Mahindra Tractors and co-presented by Mahadhan Agritech."
     },
     {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/business/story/jensen-huang-divorce-settlement-lori-huang-80-billion-california-law-affair-chinese-spy-3035776-2026-11-10",
-      "headline": "After affair admission, Jensen Huang could face the costliest divorce in historyJensen Huang admitted to being unfaithful and apologised to his family and Nvidia employees. The disclosure has raised questions about a hypothetical $80 billion divorce settlement under California law."
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/education-today/news/story/how-young-innovators-from-delhi-turned-classroom-fans-into-rs-140-air-purifiers-winning-diana-award-3035819-2026-11-10",
+      "headline": "No expensive purifier, just a fan and Rs 140 filter: Delhi student wins Diana AwardInstead of investing in expensive air purifiers, two young Delhi innovators decided to make existing classroom fans do more. Their Project Vayu filters cost just Rs 140 and are helping tackle indoor air pollution across underprivileged schools, earning the 2026 Diana Award Roll of Honour."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/israel-this-arab-party-ready-to-recognise-hamas-as-terrorist-group-to-join-eisenkot-bloc-3036369-2026-11-10",
+      "headline": "This Arab party is ready to join Eisenkot's bloc in Israel, but with a conditionMansour Abbas has signalled that Ra'am could recognise Hamas as a terrorist organisation during coalition talks. The shift may ease Eisenkot's negotiations, although Liberman's objections and Haredi draft demands remain significant."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/lifestyle/relationship/story/nvidia-ceo-jensen-huang-divorce-lori-huang-prenups-extramarital-affair-chinese-spy-usa-3036063-2026-11-10",
+      "headline": "Why is the Jensen Huang scandal bringing prenups into focus?A divorce isn't even confirmed, yet Nvidia CEO Jensen Huang is already making headlines over a possible $80 billion settlement. And amid all the speculation, there's one conversation that's back in the light: the importance of prenups."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/sonia-gandhi-memoir-pm-post-refusal-pranab-mukherjee-ambition-modi-ties-3036161-2026-11-10",
+      "headline": "Absolute no to PM post to Modi's distance: 12 big takeaways from Sonia's memoirSonia Gandhi's memoir reveals why she rejected the PM post, Pranab Mukherjee's ambitions, Gandhi family rifts and her equation with Modi and much more. Here are 12 takeaways."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/farooq-abdullah-letter-dissenting-nc-mlas-advisory-groups-cabinet-reshuffle-3036249-2026-11-10",
+      "headline": "Farooq Abdullah's letter leaves NC rebels waiting for action on key demandsNational Conference patron Farooq Abdullah's letter to 16 dissenting MLAs has left them wanting, sources said. While he has proposed informal advisory groups to monitor ministers, the letter makes no immediate commitment on key demands, including a manifesto committee and a cabinet reshuffle, despite assurances of swift action after the November 6 meeting."
     },
     {
       "sentiment": "positive",
@@ -281,46 +301,76 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/diwali-celebration-in-new-jersey-usa-draws-flak-as-firefighters-douse-flames-clear-mess-3035762-2026-11-10",
-      "headline": "Diwali celebration in New Jersey draws flak as firefighters douse flames, clear messDiwali celebrations spilled onto public roads in New Jersey, prompting the intervention of the fire brigade and a clean-up. Viral footage fuelled debate over civic responsibility, cleanliness and public order during festivals."
+      "url": "https://www.indiatoday.in/cities/other-cities/story/himachal-pradesh-russian-paraglider-rescued-33kv-power-lines-mandi-3036251-2026-11-10",
+      "headline": "Lost control mid-air, Russian paraglider pilot hangs from 200 feet-high power linesA Russian paraglider was rescued after remaining trapped in 33-kV wires near Mandi for three hours. The operation brought multiple emergency agencies together and disrupted highway traffic."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/science/story/nasa-satellite-captures-thick-smog-blanketing-india-pakistan-as-pollution-peaks-3035881-2026-11-10",
-      "headline": "Satellite captures thick smog blanketing India, Pakistan as pollution peaksA NASA satellite has captured dense haze and smoke stretching across northern India and Pakistan. The image reveals a regional winter pollution belt extending far beyond Delhi-NCR."
+      "url": "https://www.indiatoday.in/movies/bollywood/story/pyre-screenings-cut-75-percent-ramayana-release-vinod-kapri-3035774-2026-11-10",
+      "headline": "Pyre loses 75% of shows amid Ramayana wave, director Vinod Kapri raises concernFilmmaker Vinod Kapri has voiced concerns over his film Pyre losing 75% of its screenings amid the theatrical dominance of Ramayana: Rise of a Legend. He alleges theatre owners and distributors were directed to prioritise Ramayana, leaving Pyre with significantly fewer shows despite positive audience response."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/us-midterm-elections-results-president-donald-trump-paper-ballot-voting-electoral-malpractice-itspc-3035856-2026-11-10",
-      "headline": "Trump blames voting machines for party's rout. But do US voters use EVMs?From questioning early-voting numbers to blaming machines, US President Donald Trump is once again casting doubt on American elections after the Republicans were routed in the midterms. This time, however, his allegations overlook a key fact. Paper ballots, not machines, remain the dominant method of voting in the US."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/education-today/story/icse-exams-begin-on-february-15-2027-isc-on-february-9-check-full-schedule-here-3036019-2026-11-10",
-      "headline": "CISCE board exam datesheet 2027 out: ICSE Class 10 begins Feb 15, ISC from Feb 9The Council for the Indian School Certificate Examinations (CISCE) has released the ICSE and ISC examination timetables for students appearing for the Class 10 and Class 12 board exams. The schedules include subject-wise exam dates and timings, helping students plan their revision and preparation."
+      "url": "https://www.indiatoday.in/entertainment/music/story/ar-rahmans-gurgaon-concert-postponed-organisers-cite-last-minute-developments-3036329-2026-11-10",
+      "headline": "AR Rahman's Gurgaon concert postponed; organisers cite 'last-minute developments'Fans who purchased tickets ranging from Rs 2,499 to Rs 1,50,000 have received full refunds following the abrupt postponement of composer-singer AR Rahman's Wonderment Tour gig."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/lifestyle/wellness/story/dear-women-in-40s-50s-60s-rujuta-diwekar-has-3-fitness-mantras-for-you-weight-loss-ageing-tips-3035866-2026-11-10",
       "headline": "Dear women in 40s, 50s, 60s, Rujuta Diwekar has 3 fitness mantras for youCelebrity nutritionist Rujuta Diwekar recently shared three lifestyle recommendations for women in their 40s, 50, 60s on her social media. Scroll down and see if this makes for the starting point might need for your wellness journey."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/opinion/story/sonia-gandhi-memoir-belonging-congress-ayodhya-emergency-2027-elections-3035846-2026-11-10",
-      "headline": "The past is never past in Sonia Gandhi's IndiaIn 'Belonging', the Congress leader's recollections may come back to haunt the party's present."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/health/story/india-air-pollution-crisis-covid-like-response-soumya-swaminathan-3035883-2026-11-10",
-      "headline": "India needs Covid-like urgency against air pollution: Dr Soumya SwaminathanThe former World Health Organisation (WHO) chief scientist says India's response to toxic air remains 'too little, too late', warning that children exposed to high pollution levels may never grow into healthy adults."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/juhi-chawla-backs-lalit-modi-january-ipl-start-schedule-change-3035671-2026-11-09",
-      "headline": "KKR co-owner Juhi Chawla sides with Lalit Modi, backs IPL calendar shake-upKKR co-owner Juhi Chawla has backed Lalit Modi's call for a January IPL start, questioning the tournament's April-May schedule due to extreme heat. Chawla feels that a shift to January will offer better conditions for everyone involved."
     }
   ],
   "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/chennai-host-2029-asian-athletics-championships-india-tamil-nadu-3036344-2026-11-10",
+      "headline": "Chennai set to bring Asian Athletics Championships back to India in 2029 Chennai is set to host the 2029 Asian Athletics Championships, with the Asian Athletics Association awaiting formal guarantees from the Tamil Nadu government. The event would mark India's third time hosting the continental showpiece."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/hockey/story/craig-fulton-india-hockey-saffron-jersey-change-blue-turf-visibility-3036323-2026-11-10",
+      "headline": "We see each other clear as day: India coach Fulton backs saffron jersey change India hockey coach Craig Fulton has backed the men's team's switch from blue to saffron, explaining how the new jersey improves visibility on blue turf. Fulton said the colour contrast has made a significant technical difference during matches."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/anuj-shrivatri-india-100th-chess-grandmaster-pm-modi-congratulates-3036318-2026-11-10",
+      "headline": "PM Modi congratulates Anuj Shrivatri as India celebrates its 100th chess Grandmaster Anuj Shrivatri became India's 100th chess Grandmaster after winning the 7th ASEAN Plus Individual Open Championship. PM Narendra Modi congratulated the Madhya Pradesh player, calling the milestone a reflection of India's growing chess talent."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/pakistan-vs-sri-lanka-1st-test-saqib-khan-debutants-rawalpindi-day-2-3036312-2026-11-10",
+      "headline": "Pakistan turn the screw on Sri Lanka as debutants make their mark in Rawalpindi Pakistan's debutants impressed again as the hosts took a commanding 320-run lead against Sri Lanka in the first Test in Rawalpindi. Saqib Khan claimed two wickets, while Saud Shakeel top-scored with 93 in Pakistan's 434-9 declared."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/tennis/story/jannik-sinner-comeback-six-kings-slam-australian-open-2027-injury-update-3036244-2026-11-10",
+      "headline": "With AUS Open 2027 in sight, Sinner targets late-December return to court Jannik Sinner is targeting a return to action before the Australian Open, with the Six Kings Slam in Saudi Arabia a possible first stop. The Italian is recovering from a knee injury and says he must follow medical protocols before returning."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/manu-bhaker-esha-singh-india-25m-pistol-gold-issf-world-championship-2026-3036279-2026-11-10",
+      "headline": "Manu Bhaker, Esha Singh miss individual medals as India win for 25m pistol team gold Manu Bhaker and Esha Singh missed individual medals at the ISSF World Championship 2026 in Doha, despite helping India win women's 25m pistol team gold. Both shooters missed an opportunity to secure LA 2028 Olympic quota places."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/aaryavir-sehwag-160-virender-sehwag-promise-daddy-hundred-india-u19-uae-3036217-2026-11-10",
+      "headline": "Daddy hundred for dad: Aaryavir reveals promise to Sehwag after UAE blitz Aaryavir Sehwag smashed 160 off 168 balls against UAE to guide India into the U19 Asia Cup semi-finals. The youngster revealed how he promised father Virender Sehwag a big hundred, knowing that his dad only respects big scores."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/aaryavir-sehwag-160-india-u19-defeat-uae-qualify-asia-cup-semifinal-report-3036188-2026-11-10",
+      "headline": "Aaryavir Sehwag's 160 blitz blows UAE away, sends India into U19 Asia Cup semis Aaryavir Sehwag's magnificent 160 powered India to a commanding win over UAE in the U19 Asia Cup. Ishan Sood led the bowling effort with four wickets as India sealed their semi-final spot, where they will face Afghanistan."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/rishabh-pant-fitness-clearance-india-new-zealand-test-tour-comeback-3036112-2026-11-10",
+      "headline": "Rishabh Pant set for fitness clearance, to leave for New Zealand on November 12 Rishabh Pant is expected to receive fitness clearance from the BCCI Centre of Excellence and travel to New Zealand on November 12. The Indian wicketkeeper is undergoing match simulation drills as he prepares to return from a side strain."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/hockey/story/india-womens-hockey-squad-savita-punia-rested-bansari-solanki-asian-champions-trophy-2026-3036071-2026-11-10",
+      "headline": "No Savita as Marijne looks to experiment with India at Women's ACT Savita Punia has been rested from India's Women's Asian Champions Trophy squad, with Bansari Solanki replacing the veteran goalkeeper. Coach Sjoerd Marijne plans positional experiments as India prepare to defend their title in Bhopal."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/mitchell-starc-usman-khawaja-australia-2018-ball-tampering-scandal-3035982-2026-11-10",
@@ -329,47 +379,47 @@
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/aaryavir-sehwag-150-india-vs-uae-u19-asia-cup-3035977-2026-11-10",
-      "headline": "Baby Sehwag hits daddy hundred as India return to form in U19 Asia Cup Aaryavir Sehwag smashed a sensational 150-plus score against UAE in the U19 Asia Cup, helping India recover from their defeat against Pakistan."
+      "headline": "Baby Sehwag hits daddy hundred as India return to form in U19 Asia CupAaryavir Sehwag smashed a sensational 150-plus score against UAE in the U19 Asia Cup, helping India recover from their defeat against Pakistan."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/delhi-capitals-axar-patel-ashutosh-sharma-retain-close-ipl-2027-trade-window-3035975-2026-11-10",
-      "headline": "Delhi Capitals rule out Axar Patel and Ashutosh Sharma trades for IPL 2027 Delhi Capitals will retain Axar Patel and Ashutosh Sharma after closing their IPL 2027 trading window. The decision shifts attention to an unresolved captaincy call involving Axar, Rishabh Pant and KL Rahul."
+      "headline": "Delhi Capitals rule out Axar Patel and Ashutosh Sharma trades for IPL 2027Delhi Capitals will retain Axar Patel and Ashutosh Sharma after closing their IPL 2027 trading window. The decision shifts attention to an unresolved captaincy call involving Axar, Rishabh Pant and KL Rahul."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/badminton/story/japan-open-2026-treesa-jolly-gayatri-gopichand-advance-dhruv-kapila-radhika-sharma-3035918-2026-11-10",
-      "headline": "Japan Open: Treesa-Gayatri advance, Dhruv Kapila-Radhika Sharma suffer early exit Treesa Jolly and Gayatri Gopichand advanced to the pre-quarterfinals of the Japan Open 2026 with a straight-game win, while Dhruv Kapila and Radhika Sharma suffered an opening-round exit. Hariharan Amsakarunan and MR Arjun also progressed."
+      "headline": "Japan Open: Treesa-Gayatri advance, Dhruv Kapila-Radhika Sharma suffer early exitTreesa Jolly and Gayatri Gopichand advanced to the pre-quarterfinals of the Japan Open 2026 with a straight-game win, while Dhruv Kapila and Radhika Sharma suffered an opening-round exit. Hariharan Amsakarunan and MR Arjun also progressed."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/arshdeep-singh-mumbai-indians-trade-father-confirms-hardik-pandya-punjab-kings-3035887-2026-11-10",
-      "headline": "Arshdeep Singh has been traded to Mumbai Indians: Father on IPL deal Arshdeep Singh's IPL future appears to be heading towards Mumbai Indians after his father confirmed the trade from Punjab Kings. The move could strengthen MI's pace attack alongside Jasprit Bumrah, while Hardik Pandya is set to bring his all-round value to Punjab."
+      "headline": "Arshdeep Singh has been traded to Mumbai Indians: Father on IPL dealArshdeep Singh's IPL future appears to be heading towards Mumbai Indians after his father confirmed the trade from Punjab Kings. The move could strengthen MI's pace attack alongside Jasprit Bumrah, while Hardik Pandya is set to bring his all-round value to Punjab."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-new-zealand-third-odi-washout-hamilton-rain-series-alive-3035869-2026-11-10",
-      "headline": "Rain keeps India waiting as New Zealand get another lifeline Rain disrupted all three matches in the India-New Zealand ODI series, with the third game abandoned without a ball being bowled. India remain 2-0 ahead, but changes in both squads add another twist to the final two ODIs."
+      "headline": "Rain keeps India waiting as New Zealand get another lifelineRain disrupted all three matches in the India-New Zealand ODI series, with the third game abandoned without a ball being bowled. India remain 2-0 ahead, but changes in both squads add another twist to the final two ODIs."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-a-new-zealand-a-bumrah-jadeja-short-match-practice-drawn-series-3035855-2026-11-10",
-      "headline": "India A series ends in draws, Bumrah and Jadeja left short of match practice India A's batters made the most of their opportunities, with Yashasvi Jaiswal and Devdutt Padikkal among the standout performers. But rain disrupted the final two matches, leaving Jasprit Bumrah and Ravindra Jadeja short of valuable preparation."
+      "headline": "India A series ends in draws, Bumrah and Jadeja left short of match practiceIndia A's batters made the most of their opportunities, with Yashasvi Jaiswal and Devdutt Padikkal among the standout performers. But rain disrupted the final two matches, leaving Jasprit Bumrah and Ravindra Jadeja short of valuable preparation."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/usman-khawaja-sandpapergate-claims-cricket-australia-rules-out-fresh-probe-3035820-2026-11-10",
-      "headline": "No benefit in reopening Sandpapergate probe: Cricket Australia on Khawaja's claims Cricket Australia has ruled out reopening the Sandpapergate investigation despite fresh allegations from Usman Khawaja that the entire Australian team knew about the ball-tampering plot. Chief executive Todd Greenberg said there was \"absolutely no benefit\" in revisiting the scandal."
+      "headline": "No benefit in reopening Sandpapergate probe: Cricket Australia on Khawaja's claimsCricket Australia has ruled out reopening the Sandpapergate investigation despite fresh allegations from Usman Khawaja that the entire Australian team knew about the ball-tampering plot. Chief executive Todd Greenberg said there was \"absolutely no benefit\" in revisiting the scandal."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-uae-u19-asia-cup-live-score-aryavir-sehwag-anvay-dravid-3035789-2026-11-10",
-      "headline": "India vs UAE Live: UAE (17/0), chasing 310. India eye early wickets with new ball India vs UAE Live Score, U19 Asia Cup: UAE (17/0 in 3 ovs), chasing 310. India have not started the way they would like in the 2nd innings. The bowlers have yet to find that early wicket to give them the headstart in defending their total."
+      "headline": "IND vs UAE Highlights: Sehwag brilliance helps India thrash UAE to enter semisIndia vs UAE Highlights, U19 Asia Cup: Aaryavir Sehwag's magnificent 160 laid the foundation for India's dominant performance against UAE in the U19 Asia Cup as they entered the semifinals with a 70-run win. UAE produced a good fight but India didn't feel threatened during any point while bowling. Ishan Sood picked up four wickets, while the rest of the bowlers chipped in to secure the big win."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/vedika-magar-doctor-government-job-interview-india-wpl-dream-3032998-2026-11-10",
-      "headline": "Dr. Vedika Magar quit government job for cricket, now she dreams of an India jersey Dr Vedika Magar left her government medical job to pursue her childhood dream of playing professional cricket, eventually making her domestic debut for Sikkim in October 2026. Speaking to India Today in an exclusive interview, the 26-year-old opened up about her unconventional journey, the sacrifices she made and her ambition to represent India."
+      "headline": "Dr Vedika Magar quit government job for cricket, now she dreams of an India jerseyDr Vedika Magar left her government medical job to pursue her childhood dream of playing professional cricket, eventually making her domestic debut for Sikkim in October 2026. Speaking to India Today in an exclusive interview, the 26-year-old opened up about her unconventional journey, the sacrifices she made and her ambition to represent India."
     },
     {
       "sentiment": "positive",
@@ -420,56 +470,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/kane-williamson-virat-kohli-chat-retirement-decision-nz-vs-ind-odis-3035486-2026-11-09",
       "headline": "Kohli showed me the mirror: Williamson on retirement chat with Indian starKane Williamson revealed how a heartfelt conversation with Virat Kohli helped him make the decision to retire from international cricket. The former New Zealand captain said Kohli showed him the mirror just a day before his retirement."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-new-zealand-3rd-odi-preview-rain-weather-3035323-2026-11-09",
-      "headline": "3rd ODI Preview: Rain and hail stand in way of India's bid to win seriesNew Zealand are staring at the end of their 11-series unbeaten home run as India chase a series-clinching win in Hamilton. But rain and hail could interrupt India's plans and give the hosts another chance to fight back."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/bangladesh-vs-west-indies-sylhet-draw-dents-wtc-final-chances-3035483-2026-11-09",
-      "headline": "West Indies hurt Bangladesh's WTC Final chances with series win in SylhetBAN vs WI, 2nd Test: West Indies secured a 1-0 series victory after the second Test ended in a draw in Sylhet, dealing a setback to Bangladesh's World Test Championship campaign."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/tennis/story/chennai-open-final-magda-linette-diwali-pollution-delay-janice-tjen-3035436-2026-11-09",
-      "headline": "Chennai Open final should've been played before Diwali fireworks: Champion LinetteMagda Linette backed the decision to postpone the Chennai Open final over poor air quality but felt the match should have been played earlier, before Diwali firecrackers filled the city with smoke and noise."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/smriti-mandhana-india-women-south-africa-tour-2026-squad-schedule-3035426-2026-11-09",
-      "headline": "Smriti Mandhana takes charge as Test captain as India announce SA tour squadsSmriti Mandhana will lead India in Tests for the first time during the South Africa tour in December. Jemimah Rodrigues returns from injury, while Jintimani Kalita earns her maiden Test call-up for the all-format series."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/hockey/story/india-hockey-team-squad-new-zealand-tour-schedule-la-2028-olympics-3035386-2026-11-09",
-      "headline": "India rests Harmanpreet Singh and other seniors for NZ tour, name Sanjay captainIndia have named a youthful 20-member squad for their three-Test tour of New Zealand, with Harmanpreet Singh and several senior stars rested. Sanjay will lead the side as Craig Fulton begins India's transition towards the 2028 Los Angeles Olympics."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/other-sports/story/khelo-india-youth-games-2026-schedule-softball-sailing-telangana-3035358-2026-11-09",
-      "headline": "Softball to debut at Khelo India Youth Games in Telangana, sailing as demo eventSoftball will make its debut at the Khelo India Youth Games in Telangana, while sailing will be included as a demonstrative event, adding two new dimensions to the country's flagship youth sporting competition."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/hardik-pandya-arshdeep-singh-trade-mumbai-indians-punjab-kings-abhinav-mukund-3035319-2026-11-09",
-      "headline": "Hardik-Arshdeep swap great for MI, questionable for PBKS: Ex-IND batterFormer India batter Abhinav Mukund believes Mumbai Indians will benefit more from the proposed Hardik Pandya-Arshdeep Singh trade. He questions Hardik's role under Shreyas Iyer at Punjab Kings and its impact on youngster Suryansh Shedge."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/sc-delhi-isl-mohammed-azhar-kerala-blasters-exclusive-3035248-2026-11-09",
-      "headline": "A midfielder's journey from the margins to the middle of the ISLA childhood dream took Mohammed Azhar from Lakshadweep to the ISL, but the road was far from smooth. From waiting for his chance at Kerala Blasters to learning in Poland and finding a home at SC Delhi, the midfielder has taken the long way to make his mark."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/virat-kohli-response-ryan-ten-doeschate-cover-drive-feedback-australia-tests-3035254-2026-11-09",
-      "headline": "How Virat Kohli responded to frank feedback on his batting in final Test seriesFormer India assistant coach Ryan ten Doeschate reveals how Virat Kohli responded when his cover-drive struggles were brought up during the 2024-25 Australia Test series, and why he had to muster the courage to speak to the star batter."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/cricket/story/david-warner-usman-khawaja-book-ball-tampering-2018-australia-3035207-2026-11-09",
-      "headline": "Warner breaks silence on Sandpapergate, reacts to explosive Usman Khawaja bookDavid Warner has thrown his support behind Usman Khawaja's revelations about the 2018 ball-tampering scandal, calling his claims accurate. Warner also questioned the investigation into Sandpapergate and said it was time the truth came out."
     }
   ],
   "education": [
