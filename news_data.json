@@ -2,6 +2,16 @@
   "business": [
     {
       "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/nvidia-ceo-jensen-huang-exit-lisa-su-amd-ai-chip-rivalry-3038712-2026-11-14",
+      "headline": "Jensen Huang's Nvidia exit could be a shot in the arm for cousin Lisa Su's AMDA 158% stock rally, a CEO-of-the-Year award, a family connection between two rival chipmaking bosses and a congratulatory post that landed amid Nvidia's leadership crisis. Lisa Su's big moment has come at a rather extraordinary time for AMD."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/airfare-surge-cti-seeks-caps-delhi-patna-ticket-chhath-puja-wedding-season-3038689-2026-11-14",
+      "headline": "Chhath, wedding rush drives up airfares; traders' body urges government to actCTI has urged the Civil Aviation Minister to cap fares after prices rose by up to 50 per cent. The surge has increased costs for passengers travelling during Chhath and the wedding season."
+    },
+    {
+      "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/nvidia-stock-crash-rattles-ai-world-why-chipmakers-cloud-firms-are-feeling-the-heat-3038056-2026-11-13",
       "headline": "Nvidia stock crash rattles AI world: Why chipmakers, cloud firms are feeling the heatNvidia's troubles are spilling over into the wider AI industry, putting pressure on chipmakers, cloud providers and infrastructure companies. Could this shake-up change the global AI race?"
     },
@@ -89,19 +99,59 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/business/story/jensen-huang-nvidia-crisis-china-spy-affair-allegations-board-decision-oust-3037178-2026-11-12",
       "headline": "Jensen Huang's chips are down: The affair and spy storm engulfing NvidiaAn alleged relationship with a Chinese businesswoman suspected of working for Beijing, a reported $7.5-billion chip trail, a second alleged affair inside Nvidia and a boardroom showdown. The man who built the world's AI chip powerhouse is suddenly fighting a battle on several fronts."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/story/nvidia-new-chief-cfo-colette-kress-interim-ceo-jensen-huang-exit-affair-scandal-3037171-2026-11-12",
-      "headline": "Who is Colette Kress? Meet Nvidia's interim CEO as Jensen Huang resignsWhile Nvidia's chief financial officer Colette Kress and vice-president Ian Buck seem to be top contenders, eight executives outside the chip-making giant are emerging as potential names to watch if the chipmaker has to find a replacement for its long-time leader."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/business/market/story/market-opening-sensex-opens-100-points-higher-nifty-above-25200-hul-down-1-3037155-2026-11-12",
-      "headline": "Sensex, Nifty edge higher as rally loses momentum; inflation data in focusThe Sensex was trading at 82,067.98, up 188.58 points or 0.23%, at around 9:24 am. The Nifty 50 was up 50.65 points, or 0.20%, at 25,305.70."
     }
   ],
   "entertainment": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/om-trailer-reactions-dhanush-mammootty-sai-pallavi-november-20-release-3038787-2026-11-14",
+      "headline": "OM trailer reactions: Internet calls Dhanush absolute inferno, say hype is real The OM trailer brings Dhanush, Mammootty and Sai Pallavi together in a red sandalwood crime drama. Fans praised its action and performances while differing over the background score and sound mixing."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/salman-khan-skipped-acclimatisation-shot-in-freezing-rain-maatrubhumi-director-apoorva-lakhia-3038780-2026-11-14",
+      "headline": "Salman Khan skipped acclimatisation, shot in freezing rain, says Maatrubhumi director Director Apoorva Lakhia revealed that Salman Khan skipped acclimatisation and shot in freezing rain for Maatrubhumi. The actor filmed without extra oxygen and completed three takes in the freezing weather."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/vinod-kapri-questions-why-pyre-has-no-shows-in-pithoragarh-or-nainital-3038754-2026-11-14",
+      "headline": "Vinod Kapri questions why Pyre has no shows in Pithoragarh or Nainital Filmmaker Vinod Kapri questioned why Pyre had no screenings in Pithoragarh and Nainital. His appeal came as over 200 shows of the film were added across India."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/anirudh-kavya-maran-wedding-newlyweds-first-chennai-appearance-after-greece-celebrations-3038769-2026-11-14",
+      "headline": "Newlyweds Anirudh-Kavya return to Chennai after intimate Greece wedding Newlyweds Anirudh and Kavya made their first appearance in Chennai after marrying in Greece. The outing marked their return to public view as a married couple."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/hollywood/story/avril-lavigne-welcomes-first-child-a-baby-girl-her-partner-remains-a-mystery-3038699-2026-11-14",
+      "headline": "Avril Lavigne welcomes first child, a baby girl. Her partner remains a mystery Avril Lavigne has announced the birth of her first child, a baby girl. The singer shared the first pictures of her newborn but kept her name private. She also didn't reveal the identity of her partner."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/om-trailer-dhanush-sai-pallavi-mammootty-smuggling-gang-police-operation-3038711-2026-11-14",
+      "headline": "OM trailer: Dhanush infiltrates smuggling gang, Sai Pallavi leads police operation The OM trailer features Dhanush as an undercover cop infiltrating a red sandalwood smuggling gang. Sai Pallavi leads the police operation, while Mammootty plays a mysterious figure controlling the trade."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/amitabh-bachchan-jalsa-bungalow-ownership-dispute-1993-gift-deed-sister-in-law-ramola-3038695-2026-11-14",
+      "headline": "Amitabh Bachchan in legal dispute over Jalsa as sister-in-law challenges 1993 deed Actor Amitabh Bachchan's Juhu bungalow, Jalsa, is at the centre of a family property dispute. His sister-in-law Ramola Bachchan has challenged the 1993 gift deed that transferred the property to Jaya Bachchan."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/rajinikanth-suriya-radikaa-and-the-year-tamil-cinema-found-sweet-spot-with-bold-stories-3038121-2026-11-14",
+      "headline": "Rajini, Suriya, Radikaa and the year Tamil cinema found sweet spot with bold stories Tamil cinema rebounded in 2026 as small films and blockbusters drew audiences. The resurgence highlighted stronger storytelling, unconventional performers and greater space for women."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/entertainment/ott/story/samay-raina-mocks-toxics-box-office-run-huma-qureshi-fires-back-3038661-2026-11-14",
+      "headline": "Comedian Samay Raina mocks Toxic's box-office run, Huma Qureshi fires back Comedian Samay Raina took a dig at Toxic's box-office performance during Huma Qureshi's appearance on India's Got Latent. The actor hit back with a witty reply, which sparked a banter about the film."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/bollywood/story/ramayana-box-office-collection-day-9-ranbir-kapoor-film-beats-chhaava-crosses-rs-1100-crore-worldwide-3038654-2026-11-14",
+      "headline": "Ramayana beats Chhaava in India on Day 9, crosses Rs 1,100 crore worldwide Ramayana surpassed Chhaava's lifetime India nett collection on its ninth day in cinemas. The milestone came as the epic's worldwide gross crossed Rs 1,100 crore."
+    },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/entertainment/ott/story/the-body-review-a-devilish-mix-of-teen-drama-faith-and-forbidden-desires-3038424-2026-11-13",
@@ -146,153 +196,200 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/movies/hollywood/story/children-of-blood-and-bone-trailer-tems-brings-african-music-to-fantasy-epic-3038174-2026-11-13",
       "headline": "Children of Blood and Bone trailer: Tems brings African music to fantasy epic The new Children of Blood and Bone trailer offers a glimpse into its fantasy world of magic and rebellion. It also features Tems' new song African Love Story."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/student-of-the-year-after-dark-review-secrets-drama-in-shanayas-show-but-no-thrill-3038127-2026-11-13",
-      "headline": "Student of the Year After Dark review: Secrets, drama in Shanaya's show but no thrillRelease Date:Fri Nov 13, 2026 Student of the Year: After Dark follows Aditi as she investigates her twin Aayesha's death. The franchise's darker makeover is undermined by scattered storytelling, uneven performances and shallow characterisation."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/television/story/bigg-boss-20-scout-op-mother-calls-promos-misleading-urges-fans-not-to-judge-him-3038115-2026-11-13",
-      "headline": "Bigg Boss 20: Scout OP's mother calls promos misleading, urges fans not to judge him Gaming creator Scout OP's mother criticised Bigg Boss 20's promos, saying they create a false impression of her son. She flagged the mental pressure on him and urged viewers to watch full episodes before judging him."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/reviews/story/i-play-rocky-review-anthony-ippolito-anchors-a-spirited-sylvester-stallone-biopic-3037978-2026-11-13",
-      "headline": "I Play Rocky review: Anthony Ippolito anchors a spirited Sylvester Stallone biopicRelease Date:Fri Nov 13, 2026 Peter Farrelly's I Play Rocky stars Anthony Ippolito in the lead role. The film honours Sylvester Stallone's story and the Rocky franchise's cinematic legacy. But does this account of the film's making deliver a knockout of its own? Here is our review."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/music/story/diljit-dosanjh-touches-daddy-yankees-mothers-feet-leaves-her-visibly-surprised-3038069-2026-11-13",
-      "headline": "Diljit Dosanjh touches Daddy Yankee's mother's feet, leaves her visibly surprised Singer Diljit Dosanjh performed Pokito with Daddy Yankee at the 2026 Latin Grammys and later met his mother backstage. The landmark set and his respectful gesture drew widespread attention online."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/yaga-review-carrie-anne-moss-hudson-williams-seductive-mystery-3038075-2026-11-13",
-      "headline": "Yaga review: Carrie-Anne Moss, Hudson Williams enchant in a seductive mysteryRelease Date:Fri Nov 06, 2026 Yaga series review: Private investigator Charlie Rapp enters Whittock's secrets while searching for missing heir Henry Park. The mystery entwines desire, folklore and female resistance through beguiling performances."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/reviews/story/ghost-soldier-review-jim-caviezel-action-thriller-fires-blanks-3038066-2026-11-13",
-      "headline": "Ghost Soldier review: Jim Caviezel's action thriller fires blanksRelease Date:Wed Nov 11, 2026 Jim Caviezel plays a former Green Beret battling a corporation over Wyoming land. Futuristic weaponry cannot give William Eubank's action thriller tension or emotional weight."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/entertainment/ott/story/akka-director-dharmaraj-shetty-keerthy-suresh-radhika-apte-season-2-3038037-2026-11-13",
-      "headline": "Akka director Dharmaraj Shetty on creating a female gangster world Director Dharmaraj Shetty explained how warrior histories and matriarchal communities shaped Akka. The series challenges familiar gangster conventions by placing women firmly in power."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/bollywood/story/yeh-prem-mol-liya-chhath-song-rituals-bollywood-romance-3037991-2026-11-13",
-      "headline": "Chhath song in Yeh Prem Mol Liya: What's right and what's missing in its depiction? Yeh Prem Mol Liya sogn Bulaye Chhathi Maa recreates Chhath Puja through traditional offerings, rituals and family celebrations. Featuring Ayushmann Khurrana and Sharvari, several visual choices, including romantic gestures and elaborate styling, reflect Bollywood's cinematic treatment."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/regional-cinema/story/ramayana-kannada-version-rs-50-crore-bollywood-record-karnataka-3038019-2026-11-13",
-      "headline": "Ramayana's Karnataka takeover: Rs 100 crore in 9 days and how Yash rewrites history Ramayana's Kannada-dubbed version crossed Rs 50 crore nett and Rs 100 crore gross in Karnataka on day nine. The milestone establishes a new benchmark for Bollywood's local-language releases in the state."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/rani-swarnkar-shares-new-pics-with-govinda-from-roopa-amid-affair-buzz-3038014-2026-11-13",
-      "headline": "Actor Rani Swarnkar shares new pics with Govinda from Roopa amid affair buzz Actor Rani Swarnkar's latest Roopa photographs with Govinda show the co-stars embracing and walking hand in hand. The images have revived scrutiny of their equation amid public exchanges involving Ssunita Ahuja."
     }
   ],
   "general news": [
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/all-us-departures-grounded-nationwide-over-safety-concerns-communication-glitch-3038629-2026-11-14",
-      "headline": "US grounds 11,000 flights over ATC glitch, Homeland Security rules out another 9/11A nationwide air traffic control communications failure grounded flights across the US for more than four hours, disrupting over 11,000 flights and stranding tens of thousands of passengers. Homeland Security Secretary attributed the disruption to new technology overwhelming an ageing ATC system and ruled out a malicious attack, saying, \"This isn't another 9/11.\""
+      "url": "https://www.indiatoday.in/technology/story/microsoft-resolves-outage-after-over-36-hours-says-all-services-including-outlook-and-teams-restored-3038739-2026-11-14",
+      "headline": "Microsoft resolves 36-hour outage, restores Outlook, Teams and all other servicesMicrosoft has resolved its global outage after more than 36 hours, restoring Outlook, Teams, Copilot and other services. To remind you, the disruption affected businesses, airlines and government organisations across more than 70 countries."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/story/microsoft-deeply-sorry-for-global-outage-says-network-capacity-upgrade-triggered-issue-rules-out-cyberattack-3038584-2026-11-13",
-      "headline": "Microsoft deeply sorry for global outage after 24 hours of disruption, reveals causeMicrosoft said the outage was traced to an issue that emerged during an earlier network capacity upgrade and was triggered after a more recent network change. It said recovery was deliberately carried out in stages rather than through a single large-scale restart."
+      "url": "https://www.indiatoday.in/world/story/sheikh-hasina-bangladesh-return-india-security-fair-trial-terms-tarique-rahman-itspc-3038237-2026-11-14",
+      "headline": "India wants Hasina to return only after Dhaka's guarantees: ReportIndia wants ousted PM Sheikh Hasina to return to Bangladesh but only after certain conditions are fulfiled, reports BBC Bangla. New Delhi wants the Bangladesh Army to oversee her return and Dhaka to guarantee a fresh and fair trial."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/spacexs-starship-flight-15-booster-completes-an-offshore-landing-after-its-catch-is-called-off-3038632-2026-11-14",
-      "headline": "SpaceX Super Heavy fails catch attempt, explodes on returnSpaceX's first V3 booster recovery attempt ended with an offshore landing. Here's what happened, why the tower catch was abandoned and what comes next for Starship."
+      "url": "https://www.indiatoday.in/india/tamil-nadu/story/mekedatu-dam-tamil-nadu-karnataka-manickam-tagore-opposes-dk-shivakumar-3038782-2026-11-14",
+      "headline": "Congress rift comes to fore as Tamil Nadu chief slams DK Shivakumar over MekedatuManickam Tagore criticised DK Shivakumar's push for Centre's approval of the Mekedatu project. The dispute highlights Tamil Nadu's concerns over Cauvery water rights and farmers' livelihoods."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/nvidia-interim-ceo-colette-kress-strained-relationship-clashed-with-resigned-jensen-huang-3038638-2026-11-14",
-      "headline": "Deer in the headlights: Jensen Huang, Colette Kress and Nvidia's boardroom clashNVIDIA interim CEO Colette Kress had a strained working relationship with Jensen Huang, often challenging his aggressive AI investments. Reports detail their boardroom clashes, including Huang calling her a \"deer in the headlights\" during a meeting. Kress now faces the task of leading the chipmaker after his resignation."
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-pakistan-u19-asia-cup-finall-live-score-aaryavir-sehwag-anvay-dravid-3038685-2026-11-14",
+      "headline": "IND vs PAK Live: Aaryavir Sehwag cops nasty blow but keeps India's chase goingIndia (IND) vs Pakistan (PAK) Live score, U19 Asia Cup Final: Pakistan looked set for a 350-plus total, but India's bowlers turned the innings around with a superb late fightback. Chigurupati Venkata and Kavya Patel picked up three and four wickets respectively to restrict Pakistan to 337, leaving India a target of 338 in the final."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/gujarat-ranking-row-pm-narendra-modi-bibek-eac-debroy-sonia-gandhi-memoir-belonging-itspc-3038191-2026-11-13",
-      "headline": "Modi revisits intolerance chapter missing from Sonia Gandhi's memoirPM Narendra Modi reminded people of an incident when Gujarat being rated No. 1 left the Congress leadership in Delhi fuming. Economist Bibek Debroy had in 2015 claimed that Sonia Gandhi tried to intervene after the report was published, which led him to resign from a Congress-linked think tank."
+      "url": "https://www.indiatoday.in/jobs/in-focus/story/wellfed-bengaluru-meal-subscription-startup-earns-rs-56-lakh-in-nine-months-3038510-2026-11-14",
+      "headline": "Rs 56 lakh in 9 months: Bengaluru couple quits IT jobs, serves 55,000 mealsBengaluru couple Diya Krishnakumar and Adithya Natarajan launched Wellfed after struggling to find affordable home-style meals. The subscription startup has delivered over 55,000 meals and earned Rs 56 lakh in nine months."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/elon-musk-backs-bid-to-reinstate-jensen-huang-as-nvidia-weighs-ceo-contenders-3038634-2026-11-14",
-      "headline": "Elon Musk backs petition to bring back Jensen Huang as Nvidia scouts new CEOElon Musk backed a petition seeking Jensen Huang's reinstatement as Nvidia chief executive. The intervention comes as employees push for reconsideration and the board weighs potential successors."
+      "url": "https://www.indiatoday.in/movies/celebrities/story/amitabh-bachchan-jalsa-bungalow-ownership-dispute-1993-gift-deed-sister-in-law-ramola-3038695-2026-11-14",
+      "headline": "Amitabh Bachchan in legal dispute over Jalsa as sister-in-law challenges 1993 deedActor Amitabh Bachchan's Juhu bungalow, Jalsa, is at the centre of a family property dispute. His sister-in-law Ramola Bachchan has challenged the 1993 gift deed that transferred the property to Jaya Bachchan."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/story/jensen-huang-misled-nvidia-leaders-about-relationship-with-chinese-businesswoman-report-3038635-2026-11-14",
+      "headline": "Jensen by design: How Huang managed to shield multiple affairs from Nvidia top brassJensen Huang described his interactions with Alice Huang to Nvidia executives as routine customer dealings. The correspondence deepens scrutiny surrounding his resignation, relationships and the board's independent investigation."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/odisha-bjp-mla-viral-video-wife-alleges-ai-manipulation-police-action-3038784-2026-11-14",
+      "headline": "Viral clip shows BJP MLA trying to bite colleague's ear; wife calls it AI-generatedHitting back at the viral video controversy, Odisha BJP MLA Manoranjan Dyan Samantara's wife claimed the footage showing him making a bizarre bitting gesture towards a colleague was AI-generated to tarnish his image."
+    },
+    {
+      "sentiment": "negative",
+      "url": "https://www.indiatoday.in/lifestyle/what-s-hot/story/nvidia-ceo-jensen-huangs-leather-jacket-went-from-cool-to-desperate-red-flag-energy-fair-3038214-2026-11-14",
+      "headline": "Jensen Huang's leather jacket went from cool to desperate red flag energy. Fair?Is a leather jacket a sign of an unfaithful man? That is, at least, what the internet seems to believe after former Nvidia CEO Jensen Huang's affairs with multiple women came to light."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/cities/pune/story/pune-vaishali-roopali-restaurants-licences-suspended-after-maharashtra-fda-raids-3038707-2026-11-14",
+      "headline": "Flat skillet near toilet: Licences of two popular Pune restaurants suspendedDuring a raid on Friday, November 13, at Pune's Vaishali restaurant, Maharashtra FDA inspectors allegedly found a tawa, used in making dosa and uttapam, kept near a men's washroom."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/business/story/nvidia-ceo-jensen-huang-exit-lisa-su-amd-ai-chip-rivalry-3038712-2026-11-14",
+      "headline": "Jensen Huang's Nvidia exit could be a shot in the arm for cousin Lisa Su's AMDA 158% stock rally, a CEO-of-the-Year award, a family connection between two rival chipmaking bosses and a congratulatory post that landed amid Nvidia's leadership crisis. Lisa Su's big moment has come at a rather extraordinary time for AMD."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/indians-abroad/story/bilal-kazi-indian-origin-student-uk-jailed-grooming-blackmailing-underage-girls-snapchat-3038631-2026-11-14",
+      "headline": "Indian-origin man posed as teen boy, groomed 70 girls in UK; gets 30 years in jailAn Indian-origin student has been sentenced to 30 years in a UK prison for grooming at least 70 underage girls online. Bilal Kazi posed as a teenage boy, coerced victims into sharing explicit images and videos, and blackmailed them with threats of leaking the content."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/trending-news/story/blinkit-sold-out-instagram-lit-up-sonia-gandhis-book-belonging-has-people-hooked-but-why-3038749-2026-11-14",
+      "headline": "Blinkit sold out, Instagram lit up. Sonia Gandhi's book has people hooked, but why?There is something almost paradoxical about the reception of Sonia Gandhi's Belonging. A memoir rooted in the political history of one of India's most prominent families has escaped political discourse and become a fixture in everyday conversation. The curiosity is palpable, and so is the scramble to get hold of a copy."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/ncp-merger-talks-ended-ajit-pawar-death-supriya-sule-3038833-2026-11-14",
+      "headline": "Date was fixed but talks ended with Ajit Pawar's death: Supriya Sule on NCP mergerResponding to questions from the media, Supriya Sule said she would no longer comment on the merger and urged reporters to stop speculating about it."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/sandpapergate-scandal-usman-khawaja-pat-cummins-the-odyssey-3038138-2026-11-14",
+      "headline": "Reopening Sandpapergate: Australian cricket has an Odyssey problemOdysseus returned from the Trojan War a hero in Homer's telling. Christopher Nolan's version presents a man weighed down by grief and guilt, a contrast that offers perhaps an interesting lens through which to revisit Australia's Sandpapergate scandal."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/cities/other-cities/story/dehradun-elephant-attack-video-bullet-rider-jolly-grant-airport-3038680-2026-11-14",
+      "headline": "Video: Wild elephant lunges at biker, tramples him near Dehradun airportThe incident left people nearby alarmed, and those who gathered at the spot rushed to help him once the animal moved past. They helped lift the fallen bullet motorcycle, after which the rider got back on it, started the engine and left the spot."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/science/story/mysuru-led-planetarium-8k-display-technology-pm-modi-inaugrates-3038738-2026-11-14",
+      "headline": "What makes Mysuru's new 8K LED planetarium different from others in India?Inaugurated by PM Modi, Mysuru's new planetarium promises immersive views of stars and galaxies. Find out how its LED technology is different from conventional systems."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/interactive/quiz/news/weekly-quiz-648-14-11-2026",
+      "headline": "Question Time: Weekly News QuizThink you read the headlines this week? Let's test that!"
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/world/us-news/story/nvidia-jensen-huang-affair-us-chip-export-controls-china-megaspeed-alice-huang-commerce-secretary-howard-lutnick-itspc-3038093-2026-11-14",
+      "headline": "Why Nvidia ex-CEO's spy sex scandal has put Trump aide Lutnick in firing lineUS Commerce Secretary Howard Lutnick is fighting to save his job as the Nvidia scandal engulfs the Trump administration. Lutnick is facing mounting pressure over his handling of the suspected Chinese diversion of advanced Nvidia chips, and his ties with tainted ex-CEO Jensen Huang."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/cities/other-cities/story/surat-warehouse-fire-nine-tenders-textile-waste-store-kharwasa-canal-road-3038761-2026-11-14",
+      "headline": "Video: Thick smoke billows from textile waste warehouse as fire rages in SuratNine fire tenders battled a massive textile waste blaze near ANG Society in Surat. The cause remains unclear, while the reported unauthorised storage may face scrutiny."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/rajinikanth-suriya-radikaa-and-the-year-tamil-cinema-found-sweet-spot-with-bold-stories-3038121-2026-11-14",
+      "headline": "Rajini, Suriya, Radikaa and the year Tamil cinema found sweet spot with bold storiesTamil cinema rebounded in 2026 as small films and blockbusters drew audiences. The resurgence highlighted stronger storytelling, unconventional performers and greater space for women."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/india/story/fir-against-kangana-ranaut-in-himachal-pradesh-over-social-media-posts-on-gandhi-family-3038658-2026-11-14",
+      "headline": "FIR against BJP MP Kangana Ranaut over social media posts on Gandhi familyThe case was registered on Friday, November 13, on the basis of a complaint lodged by retired Captain Atul Sharma, a resident of Shimla."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/movies/regional-cinema/story/anirudh-kavya-maran-wedding-newlyweds-first-chennai-appearance-after-greece-celebrations-3038769-2026-11-14",
+      "headline": "Newlyweds Anirudh-Kavya return to Chennai after intimate Greece weddingNewlyweds Anirudh and Kavya made their first appearance in Chennai after marrying in Greece. The outing marked their return to public view as a married couple."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/rinku-singh-priya-saroj-wedding-yogi-adityanath-up-cm-invited-lucknow-3038603-2026-11-13",
       "headline": "Rinku Singh-Priya Saroj wedding: Family invites UP CM Yogi AdityanathRinku Singh and Samajwadi Party MP Priya Saroj are set to get married in Lucknow on December 4, with the India cricketer's family inviting Uttar Pradesh Chief Minister Yogi Adityanath to the ceremony."
+    }
+  ],
+  "sports": [
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/punjab-kings-arshdeep-singh-hardik-pandya-trade-mohit-burman-explains-3038828-2026-11-14",
+      "headline": "Why PBKS traded Arshdeep for Hardik Pandya: Co-owner explains blockbuster IPL move Punjab Kings have explained why they traded Arshdeep Singh for Hardik Pandya, with co-owner Burman backing the blockbuster move as the franchise looks to build a title-winning squad after reaching the IPL final in 2025."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/prashant-kishor-class-7-jibe-samrat-choudhary-meeting-bihar-politics-bankipur-bjp-jan-suraaj-jsp-itspc-3038319-2026-11-13",
-      "headline": "Class 7-fail CM won't turn PhD, says PK as Samrat Choudhary meeting clip goes viralA brief encounter between Jan Suraaj founder Prashant Kishor and Bihar CM Samrat Choudhary at a prayer meeting on Thursday sparked curiosity. The next day, the Jan Suraaj MLA made it clear that social courtesies won't soften his attacks on the Bihar CM, even as he launched another offensive on the BJP leader."
+      "url": "https://www.indiatoday.in/sports/cricket/story/mohit-burman-ipl-home-away-format-punjab-kings-ipl-expansion-3038801-2026-11-14",
+      "headline": "After Juhi Chawla's January push, PBKS owner wants EPL-style tweak for IPL Punjab Kings co-owner Mohit Burman wants the IPL to adopt a full home-and-away format, similar to the Premier League. Burman also opposed adding more franchises until the tournament has a longer window to accommodate all teams."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-pakistan-u19-asia-cup-2026-final-when-where-to-watch-squads-preview-3038448-2026-11-13",
-      "headline": "India seek revenge against Pakistan in U19 Asia Cup final, eye record ninth titleIndia will look to avenge their group-stage defeat against arch-rivals Pakistan and end their three-edition title drought in the U19 Asia Cup 2026 final. Chasing a record-extending ninth title, the young Indian side will face defending champions Pakistan, who are aiming for their third crown."
+      "url": "https://www.indiatoday.in/sports/cricket/story/trent-boult-exclusive-interview-reverse-swing-bowling-cricket-dying-art-3038809-2026-11-14",
+      "headline": "Swing bowling is a dying art: Trent Boult wants changes to restore balance in cricket Trent Boult believes swing and reverse swing bowling are becoming dying arts in modern cricket. In an exclusive interview, the New Zealand pacer suggests rule changes, including allowing saliva on the ball, to restore the balance between bat and ball."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/the-thinking-machine-jensen-huang-arrogance-explosive-temper-and-fall-of-nvidia-ceo-3038331-2026-11-13",
-      "headline": "Challenging 'arrogant' Jensen Huang was like lighting a fuse, says biographerBiographer of Jensen Huang, Stephen Witt, has linked the ousted Nvidia CEO to extramarital affairs, arrogance and a volatile temper. His account also describes executives as fearful of challenging Huang, particularly when disagreements could trigger his explosive outbursts."
+      "url": "https://www.indiatoday.in/sports/other-sports/story/magnus-carlsen-world-no-1-threat-haik-martirosyan-fabiano-caruana-3038764-2026-11-14",
+      "headline": "Carlsen at risk of losing No.1 spot after 15 years as Caruana closes in Magnus Carlsen's 15-year reign as world No. 1 is under threat after losing to Armenia's Haik Martirosyan at the Total Chess World Championship Tour. Fabiano Caruana is closing in, with the gap between the two now just 7.2 rating points."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/cities/ahmedabad/story/ahmedabad-range-rover-crash-bjp-mla-nephew-released-legal-notice-3038555-2026-11-13",
-      "headline": "BJP MLA's nephew driving Range Rover kills biker in Ahmedabad, cops let him offA Rapido passenger was killed after a speeding Range Rover, driven by the nephew of BJP MLA Dineshsinh Kushwaha, rammed their two-wheeler in Ahmedabad."
+      "url": "https://www.indiatoday.in/sports/cricket/story/suryakumar-yadav-smat-2026-cricket-return-mumbai-3038759-2026-11-14",
+      "headline": "Suryakumar Yadav sends timely reminder with blistering knock in Mumbai's SMAT opener SMAT 2026: Suryakumar Yadav made an emphatic statement after India's T20I snub, smashing an unbeaten 21-ball 60 to power Mumbai to a seven-wicket win over Hyderabad in their Syed Mushtaq Ali Trophy 2026 opener."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/jensen-huang-misled-nvidia-leaders-about-relationship-with-chinese-businesswoman-report-3038635-2026-11-14",
-      "headline": "Jensen Huang misled top Nvidia executives about affair with Chinese woman: ReportJensen Huang described his interactions with Alice Huang to Nvidia executives as routine customer dealings. The correspondence deepens scrutiny surrounding his resignation, relationships and the board's independent investigation."
+      "url": "https://www.indiatoday.in/sports/cricket/story/vaibhav-sooryavanshi-youngest-captaincy-debut-dismissed-18-bihar-smat-3038720-2026-11-14",
+      "headline": "Vaibhav Sooryavanshi falls for 18 on record-breaking captaincy debut At 15, Vaibhav Sooryavanshi made history as the youngest captain in men's T20 cricket, but his first outing with the Bihar armband was short-lived. The teenager fell for 18 against Saurashtra in the Syed Mushtaq Ali Trophy opener."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/technology/news/story/airtel-founder-compares-mobile-recharge-costs-with-pepsi-and-chips-says-tariffs-are-too-low-3037975-2026-11-13",
-      "headline": "Airtel founder compares mobile recharge costs with Pepsi and chips, says tariffs are too lowAirtel founder Sunil Bharti Mittal believes Indians should pay around Rs 350 per month for mobile services. Comparing recharge costs with everyday purchases such as Pepsi and chips, he says telecom tariffs remain too low despite rising network expenses."
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-pakistan-u19-asia-cup-finall-live-score-aaryavir-sehwag-anvay-dravid-3038685-2026-11-14",
+      "headline": "IND vs PAK Live: Aaryavir Sehwag cops nasty blow but keeps India's chase going India (IND) vs Pakistan (PAK) Live score, U19 Asia Cup Final: Pakistan looked set for a 350-plus total, but India's bowlers turned the innings around with a superb late fightback. Chigurupati Venkata and Kavya Patel picked up three and four wickets respectively to restrict Pakistan to 337, leaving India a target of 338 in the final."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/hc-judge-cs-karnan-summoned-supreme-court-judges-kolkata-home-ordered-arrest-dies-itspc-3038421-2026-11-13",
-      "headline": "HC judge who summoned SC judges to his Kolkata home, ordered their arrest, diesFormer Calcutta High Court judge CS Karnan, who turned his Kolkata home into a makeshift courtroom in 2017, died in Chennai at 71. He had ordered the arrest and imprisonment of several Supreme Court judges, including then CJI JS Khehar, before being jailed himself for contempt of court."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/story/nvidia-turns-to-arm-ceo-rene-haas-in-search-for-jensen-huang-successor-3038617-2026-11-14",
-      "headline": "Nvidia turns to Arm CEO Rene Haas in search for Jensen Huang successor: ReportRene Haas is among several candidates being considered for the top job after Huang resigned on Thursday following extramarital affairs, including relationships with two Nvidia employees and a Chinese businesswoman whom US intelligence suspects of being a Chinese intelligence asset."
+      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-new-zealand-kuldeep-yadav-released-gurnoor-brar-added-3038682-2026-11-14",
+      "headline": "NZ vs IND: India release Kuldeep Yadav from Test squad, Gurnoor Brar added NZ vs IND: India have released Kuldeep Yadav from their Test squad for the upcoming series against New Zealand, and the wrist spinner will be playing domestic cricket back home. Meanwhile, Gurnoor Brar has been added to the squad."
     },
     {
       "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/14-year-old-girl-allegations-jharkhand-congress-mla-bhushan-bara-rape-assault-bjp-demands-arrest-3038509-2026-11-13",
-      "headline": "14-year-old accuses Jharkhand Congress MLA of rape, FIR filed; BJP seeks arrestThe survivor further claimed that she became pregnant following the alleged assault but subsequently suffered a miscarriage, which came to light during a medical examination."
+      "url": "https://www.indiatoday.in/sports/cricket/story/david-warner-sandpapergate-cover-up-claims-starc-hazlewood-lyon-ca-probe-3038678-2026-11-14",
+      "headline": "Stinks of cover-up: Warner makes bombshell Sandpapergate claim, names 3 bowlers David Warner has questioned Cricket Australia's Sandpapergate investigation and named three leading bowlers. His allegations have deepened conflicting accounts over who knew about the ball-tampering plan."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/trending-news/story/man-spends-25-minutes-in-accessible-toilet-at-bengaluru-airport-wheelchair-user-waits-outside-3038113-2026-11-13",
-      "headline": "Man spends 25 minutes in accessible toilet at airport, wheelchair user waits outsideA wheelchair user waited over 25 minutes while a man occupied an accessible toilet at Bengaluru airport. The incident prompted an airport review and renewed debate over access to reserved facilities."
+      "url": "https://www.indiatoday.in/sports/badminton/story/lakshya-sen-beats-alwi-farhan-kumamoto-masters-2026-final-3038659-2026-11-14",
+      "headline": "Lakshya Sen downs Alwi Farhan to reach 2nd straight tour final Lakshya Sen has carried his Hylo Open-winning form into Japan, beating Indonesia's Alwi Farhan to reach a second successive BWF Tour final. The Indian now has a chance to boost his bid for the World Tour Finals."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/cyclone-threat-looms-over-bay-of-bengal-odisha-braces-for-storm-tamil-nadu-grounds-thousands-of-fishing-boats-3038616-2026-11-14",
-      "headline": "Cyclone threat looms over Bay of Bengal: Odisha braces, Tamil Nadu grounds boatsThe weather office forecast a cyclonic storm over the central Bay of Bengal by November 16. Odisha and Tamil Nadu activated precautions, with fishing curbs and coastal alerts."
+      "url": "https://www.indiatoday.in/sports/football/story/jesus-owono-12-match-ban-andorra-jesus-de-miguel-tenerife-striker-death-3038657-2026-11-14",
+      "headline": "Andorra goalkeeper gets 12-game ban for challenge that led to Spanish striker's death The Spanish federation suspended Jesus Owono for 12 matches after his collision with Jes\u00fas de Miguel. The sanction is its maximum sporting penalty, while a separate judicial inquiry continues."
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/world/us-news/story/nvidia-scandal-us-treasury-chief-scott-bessent-blames-howard-lutnick-for-failing-to-blacklist-megaspeed-3038501-2026-11-13",
-      "headline": "Lot of leakage: Bessent blames Lutnick for not blacklisting Nvidia partner MegaspeedScott Bessent said on Friday that the Treasury Department, Pentagon, US Trade Representative's office and State Department had supported putting Megaspeed on Washington's trade blacklist \"for months\". But despite that backing, the decision was never made."
+      "url": "https://www.indiatoday.in/sports/cricket/story/sandpapergate-scandal-usman-khawaja-pat-cummins-the-odyssey-3038138-2026-11-14",
+      "headline": "Reopening Sandpapergate: Australian cricket has an Odyssey problemOdysseus returned from the Trojan War a hero in Homer's telling. Christopher Nolan's version presents a man weighed down by grief and guilt, a contrast that offers perhaps an interesting lens through which to revisit Australia's Sandpapergate scandal."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/other-sports/story/pt-usha-ioa-election-nomination-ihai-membership-challenge-3038645-2026-11-14",
+      "headline": "PT Usha faces eligibility questions over Ice Hockey nomination for IOA electionsA formal objection has challenged PT Usha's nomination as an IHAI representative for the IOA elections. The dispute puts her membership eligibility and the federation's authority under scrutiny."
+    },
+    {
+      "sentiment": "positive",
+      "url": "https://www.indiatoday.in/sports/cricket/story/nazma-khan-wpl-delhi-capitals-auction-interview-father-3038306-2026-11-14",
+      "headline": "The Nazma Khan story: A father's belief, a mother's prayers and a WPL dreamAt 30, Delhi's Nazma Khan earned her maiden WPL contract with Delhi Capitals after years of perseverance in domestic cricket. Backed by a father who never let social barriers hold her back and a mother whose prayers kept her grounded, Nazma's journey is a story of courage, family support, and the belief that dreams have no age limit."
     },
     {
       "sentiment": "positive",
@@ -301,80 +398,53 @@
     },
     {
       "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/agnipath-scheme-changes-agniveer-two-year-extension-navy-chief-iran-us-war-admiral-krishna-swaminathan-3038437-2026-11-13",
-      "headline": "Win-win for all: Navy chief praises Agnipath changes, says it removes uncertaintiesIn an exclusive interview with India Today TV, Admiral Krishna Swaminathan said the changes to the Agniveer scheme would eliminate uncertainty among recruits, with every Agniveer getting two opportunities to continue serving in the armed forces."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/india/story/bjp-mla-maithili-thakur-father-darbhanga-road-encroachment-private-land-dispute-bihar-3038301-2026-11-13",
-      "headline": "BJP MLA Maithili Thakur's father accused of land grab, road encroachment foundVillagers in Bihar's Darbhanga have accused Ramesh Thakur, father of BJP MLA Maithili Thakur, of encroaching on a government road and over 12 dhurs of private land, besides threatening residents with false criminal cases."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/india/story/india-bangladesh-relations-sheikh-hasina-extradition-consular-dialogue-ptag-3038458-2026-11-14",
-      "headline": "India wants positive ties with Bangladesh, says MEA amid Hasina extradition rowIndia reaffirmed its commitment to constructive ties with Bangladesh as consular talks were postponed. Sheikh Hasina, 78, was removed from power in August 2024 after violent student-led protests."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/science/story/pm-modi-inaugurates-indias-first-8k-resolution-led-dome-planetarium-in-mysuru-3038202-2026-11-13",
-      "headline": "PM Modi inaugurates India's first 8K-resolution LED Dome Planetarium in MysuruPrime Minister Narendra Modi inaugurated COSMOS-Mysuru, India's first 8K LED dome planetarium. The facility combines immersive technology with an extensive astronomy education and outreach programme."
-    }
-  ],
-  "sports": [
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/bcci-u19-woman-cricketer-dies-suicide-telangana-family-blames-youths-3038611-2026-11-14",
-      "headline": "BCCI U-19 woman cricketer, 17, dies by suicide in Telangana, family blames two men A 17-year-old BCCI Under-19 women's cricketer, identified as Nandini, allegedly died by suicide at her grandmother's residence in Telangana, with her family blaming harassment by two men."
-    },
-    {
-      "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/rinku-singh-priya-saroj-wedding-yogi-adityanath-up-cm-invited-lucknow-3038603-2026-11-13",
-      "headline": "Rinku Singh-Priya Saroj wedding: Family invites UP CM Yogi Adityanath Rinku Singh and Samajwadi Party MP Priya Saroj are set to get married in Lucknow on December 4, with the India cricketer's family inviting Uttar Pradesh Chief Minister Yogi Adityanath to the ceremony."
+      "headline": "Rinku Singh-Priya Saroj wedding: Family invites UP CM Yogi AdityanathRinku Singh and Samajwadi Party MP Priya Saroj are set to get married in Lucknow on December 4, with the India cricketer's family inviting Uttar Pradesh Chief Minister Yogi Adityanath to the ceremony."
     },
     {
       "sentiment": "negative",
       "url": "https://www.indiatoday.in/sports/cricket/story/kagiso-rabada-reaction-south-africa-sandpapergate-usman-khawaja-claims-3038577-2026-11-13",
-      "headline": "It's an Australian topic: Rabada distances South Africa from Sandpapergate storm South Africa pacer Kagiso Rabada has refused to get involved in the fresh Sandpapergate row, insisting that Usman Khawaja's allegations about the 2018 scandal are an Australian matter."
+      "headline": "It's an Australian topic: Rabada distances South Africa from Sandpapergate stormSouth Africa pacer Kagiso Rabada has refused to get involved in the fresh Sandpapergate row, insisting that Usman Khawaja's allegations about the 2018 scandal are an Australian matter."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/south-africa-vs-bangladesh-tests-shukri-conrad-warns-pace-threat-3038553-2026-11-13",
-      "headline": "South Africa wary of Bangladesh pace threat in Test series, warns Shukri Conrad SA vs BAN: South Africa head coach Shukri Conrad has warned his team against underestimating Bangladesh's improved pace attack ahead of the two-Test series, particularly with conditions expected to favour fast bowling."
+      "headline": "South Africa wary of Bangladesh pace threat in Test series, warns Shukri ConradSA vs BAN: South Africa head coach Shukri Conrad has warned his team against underestimating Bangladesh's improved pace attack ahead of the two-Test series, particularly with conditions expected to favour fast bowling."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/justin-langer-backs-pat-cummins-usman-khawaja-sandpaper-gate-claims-3038520-2026-11-13",
-      "headline": "Langer backs Cummins after captain hits back at Khawaja over Sandpaper-gate claims Former Australia head coach Justin Langer has thrown his support behind Pat Cummins after the Australia captain strongly rejected Usman Khawaja's claims about the 2018 Sandpaper-gate scandal."
+      "headline": "Langer backs Cummins after captain hits back at Khawaja over Sandpaper-gate claimsFormer Australia head coach Justin Langer has thrown his support behind Pat Cummins after the Australia captain strongly rejected Usman Khawaja's claims about the 2018 Sandpaper-gate scandal."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/football/story/mauricio-pochettino-tears-usa-farewell-reaction-joins-manchester-united-3038467-2026-11-13",
-      "headline": "Pochettino admits Manchester Utd job was hard to turn down in US farewell presser Mauricio Pochettino broke down in tears as he bid an emotional farewell to the United States men's national team, admitting that the decision to leave for Manchester United was one of the toughest of his managerial career."
+      "headline": "Pochettino admits Manchester Utd job was hard to turn down in US farewell presserMauricio Pochettino broke down in tears as he bid an emotional farewell to the United States men's national team, admitting that the decision to leave for Manchester United was one of the toughest of his managerial career."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/other-sports/story/ambekar-meetei-youth-olympics-boxing-gold-first-indian-champion-3038476-2026-11-13",
-      "headline": "How Ambekar Meetei's unbreakable will led him to historic Youth Olympics boxing gold Ambekar Meetei scripted history at the Youth Olympics, becoming the first Indian boxer to win gold at the competition. His journey from financial hardship and borrowed bicycles to the top of the podium reflects his unbreakable determination and his family's sacrifices."
+      "headline": "How Ambekar Meetei's unbreakable will led him to historic Youth Olympics boxing goldAmbekar Meetei scripted history at the Youth Olympics, becoming the first Indian boxer to win gold at the competition. His journey from financial hardship and borrowed bicycles to the top of the podium reflects his unbreakable determination and his family's sacrifices."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-pakistan-u19-asia-cup-2026-final-when-where-to-watch-squads-preview-3038448-2026-11-13",
-      "headline": "India seek revenge against Pakistan in U19 Asia Cup final, eye record ninth title India will look to avenge their group-stage defeat against arch-rivals Pakistan and end their three-edition title drought in the U19 Asia Cup 2026 final. Chasing a record-extending ninth title, the young Indian side will face defending champions Pakistan, who are aiming for their third crown."
+      "headline": "India seek revenge against Pakistan in U19 Asia Cup final, eye record ninth titleIndia will look to avenge their group-stage defeat against arch-rivals Pakistan and end their three-edition title drought in the U19 Asia Cup 2026 final. Chasing a record-extending ninth title, the young Indian side will face defending champions Pakistan, who are aiming for their third crown."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/other-sports/story/arjuna-awards-tejaswin-vidit-lalremsiami-dhanush-honoured-rashtrapati-bhavan-3038407-2026-11-13",
-      "headline": "Tejaswin, Vidit, Lalremsiami, Dhanush among athletes honoured with Arjuna Awards The Arjuna Award ceremony was a proud moment for India's sporting stars, with Tejaswin Shankar, Vidit Gujrathi, Lalremsiami and Dhanush Srikanth among those honoured by President Droupadi Murmu at Rashtrapati Bhavan on Friday."
+      "headline": "Tejaswin, Vidit, Lalremsiami, Dhanush among athletes honoured with Arjuna AwardsThe Arjuna Award ceremony was a proud moment for India's sporting stars, with Tejaswin Shankar, Vidit Gujrathi, Lalremsiami and Dhanush Srikanth among those honoured by President Droupadi Murmu at Rashtrapati Bhavan on Friday."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/hockey/story/odisha-government-indian-hockey-sponsorship-grassroots-development-amit-rohidas-3038413-2026-11-13",
-      "headline": "More than sponsorship: How Odisha government is backing Indian hockey's rise Odisha has gone beyond sponsorship to become a driving force behind Indian hockey's growth. From supporting national teams and building world-class facilities to investing in grassroots development, the state is looking to shape the sport's future in the country."
+      "headline": "More than sponsorship: How Odisha government is backing Indian hockey's riseOdisha has gone beyond sponsorship to become a driving force behind Indian hockey's growth. From supporting national teams and building world-class facilities to investing in grassroots development, the state is looking to shape the sport's future in the country."
     },
     {
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/deepti-sharma-wins-icc-womens-player-of-the-month-october-2026-3038382-2026-11-13",
-      "headline": "Deepti Sharma bags second ICC Player of the Month award after Zimbabwe series heroics Deepti Sharma has won her second ICC Women's Player of the Month award after an impressive all-round performance in India's home series against Zimbabwe in October 2026. She scored 155 runs, including an unbeaten century, and picked up seven wickets across six matches."
+      "headline": "Deepti Sharma bags second ICC Player of the Month award after Zimbabwe series heroicsDeepti Sharma has won her second ICC Women's Player of the Month award after an impressive all-round performance in India's home series against Zimbabwe in October 2026. She scored 155 runs, including an unbeaten century, and picked up seven wickets across six matches."
     },
     {
       "sentiment": "positive",
@@ -405,76 +475,6 @@
       "sentiment": "positive",
       "url": "https://www.indiatoday.in/sports/cricket/story/harmanpreet-kaur-wax-statue-jaipur-nahargarh-fort-dhoni-tendulkar-3038218-2026-11-13",
       "headline": "Harmanpreet Kaur gets wax statue honour in Jaipur alongside MS Dhoni, Sachin TendulkarHarmanpreet Kaur unveiled her wax statue in Jaipur, which will be installed at Nahargarh Fort alongside those of MS Dhoni and Sachin Tendulkar. The World Cup-winning captain also spoke about the honour as she adjusts to life after stepping down as India's captain ahead of the South Africa tour."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-new-zealand-gautam-gambhir-rejects-shreyas-iyer-pitch-claim-4th-odi-collapse-3038199-2026-11-13",
-      "headline": "Coach Gambhir rejects Shreyas' claim, slams Indian batters after NZ horror showNew Zealand vs India: Gautam Gambhir slammed India's batting after their 244-run defeat in the fourth ODI, rejecting stand-in captain Shreyas Iyer's claim that the batters fell to unplayable deliveries."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/mahli-beardman-six-for-mitchell-marsh-fifty-australia-beat-england-first-odi-3038190-2026-11-13",
-      "headline": "No sandpaper distractions as Australia thump England after debutant heroicsAmid the Sandpapergate controversy, Mahli Beardman and Mitchell Marsh shifted the spotlight back to cricket with a dominant display in Perth. Beardman's record-breaking six-wicket haul and Marsh's blistering fifty powered Australia to a seven-wicket win over England."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/matt-henry-triple-wicket-maiden-new-zealand-4th-odi-win-india-3038183-2026-11-13",
-      "headline": "How Matt Henry outfoxed Virat Kohli, Rohit Sharma in first over, NZ pacer revealsNZ vs IND, 4th ODI: Matt Henry revealed how keeping things simple and exploiting favourable conditions helped him produce a stunning triple-wicket maiden against India in the fourth ODI where he got the wickets of Rohit Sharma, Virat Kohli and Shreyas Iyer."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/virat-kohli-matt-henry-jersey-swap-dismissal-india-vs-new-zealand-4th-odi-3038163-2026-11-13",
-      "headline": "Undone by Matt Henry, Virat Kohli pays tribute to New Zealand pacer with jerseyVirat Kohli acknowledged Matt Henry's brilliance after being dismissed for a four-ball duck in the 4th ODI against New Zealand. The Indian star exchanged jerseys with the Kiwi pacer after the match, sharing a moment and discussing his dismissal."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ind-vs-nz-89-all-out-matt-henry-six-wickets-virat-kohli-rohit-sharma-report-3038119-2026-11-13",
-      "headline": "89 all out: India relive Henry horror, slump to their 2nd biggest defeat in ODIsWill Young's century and India's late bowling fightback were overshadowed by a spectacular batting collapse. Matt Henry returned from concussion to claim six wickets as New Zealand bowled India out for 89, sealing a 244-run win and keeping the ODI series alive."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/virat-kohli-equals-sachin-tendulkar-record-20-odi-ducks-matt-henry-3038105-2026-11-13",
-      "headline": "Kohli equals Tendulkar's unwanted record after 4-ball duck vs New ZealandVirat Kohli endured a forgettable outing against New Zealand in Mount Maunganui, equalling Sachin Tendulkar's unwanted record of 20 ODI ducks. Matt Henry's clever setup sent the Indian star packing for a four-ball duck during India's heavy defeat."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/pat-cummins-becky-reject-spat-claims-renewed-sandpapergate-controversy-3038064-2026-11-13",
-      "headline": "This is why I married you: Wife backs Pat Cummins after Sandpapergate presserPat Cummins' wife Becky praised the Australian captain's strength after his Sandpapergate press conference, saying she was blown away by how he handled the renewed scrutiny surrounding the 2018 ball-tampering scandal."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/usman-khawaja-sandpapergate-claims-pat-cummins-david-warner-cricket-australia-3038029-2026-11-13",
-      "headline": "Who said what as Khawaja's claims reignite Sandpapergate Round 2Usman Khawaja's explosive Sandpapergate revelations have reopened one of Australian cricket's biggest controversies, dividing former teammates. While David Warner has backed his account, Pat Cummins, Mitchell Starc and others have challenged his claims."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/india-u19-asia-cup-captain-laksya-raichandani-exclusive-3038021-2026-11-13",
-      "headline": "Leader without noise, batter without fear: India U19 captain Lakshya RaichandaniIndia U19 captain Lakshya Raichandani is leading a team featuring familiar cricketing surnames such as Sehwag and Dravid. But the Uttarakhand youngster has built his own reputation, from a Ranji debut at 16 to a defining knock against Afghanistan."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/mahli-beardman-australia-wild-thing-five-wicket-haul-odi-debut-england-3037979-2026-11-13",
-      "headline": "Who is Mahli Beardman? Australia's wild thing bags debut fifer vs EnglandAustralia's new 'Wild Thing', Mahli Beardman, announced himself with a sensational five-wicket haul on his ODI debut against England in Perth. From learning under Dennis Lillee to idolising Mitchell Johnson, here's all you need to know about the 21-year-old pacer."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/badminton/story/lakshya-sen-kumamoto-masters-semifinals-kidambi-srikanth-exits-3037962-2026-11-13",
-      "headline": "Kumamoto Masters: Lakshya beats crowd favourite to reach semis, Srikanth oustedKumamoto Masters 2026: Lakshya Sen beat home favourite Yushi Tanaka in straight games in the quarterfinals, while Kidambi Srikanth lost to Koki Watanabe. The victory strengthened Lakshya's push for a BWF World Tour Finals berth."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/football/story/harry-kane-england-record-italy-stun-france-uefa-nations-league-3037920-2026-11-13",
-      "headline": "Kane breaks England record, Italy stun France in Nations League thrillerHarry Kane marked a historic night for England with his 92nd international goal, while Italy stunned France with a memorable comeback. Spain maintained their perfect Nations League run, setting up a high-stakes clash with England for Group A3 top spot."
-    },
-    {
-      "sentiment": "negative",
-      "url": "https://www.indiatoday.in/sports/cricket/story/david-warner-backs-usman-khawaja-criticises-pat-cummins-sandpapergate-claims-3037933-2026-11-13",
-      "headline": "Pat Cummins threw Khawaja under the bus: David Warner on Sandpapergate denialDavid Warner has thrown his weight behind Usman Khawaja's Sandpapergate revelations, accusing Pat Cummins of throwing his former teammate under the bus after the Australia captain dismissed the claims as 'utter nonsense'."
-    },
-    {
-      "sentiment": "positive",
-      "url": "https://www.indiatoday.in/sports/cricket/story/gurnoor-brar-warning-virat-kohli-tim-seifert-clash-india-new-zealand-fourth-odi-3037906-2026-11-13",
-      "headline": "Fiery Gurnoor Brar gets umpire's warning, Virat Kohli plays peacemakerNZ vs IND, 4th ODI: Gurnoor Brar confronted Tim Seifert after dismissing him before Virat Kohli pulled the pacer away. Umpire Chris Brown then warned Brar as tempers flared in Mount Maunganui on Friday."
     }
   ],
   "education": [
@@ -544,7 +544,7 @@
       "headline": "JNU students' body election on March 22 after 4 yearsThe Jawaharlal Nehru University Students' Union (JNUSU) polls will take place on March 22, more than four years after the last elections were held in September 2019."
     },
     {
-      "sentiment": "positive",
+      "sentiment": "negative",
       "url": "https://www.indiatoday.in/india/story/up-12th-board-exam-math-biology-question-papers-leaked-on-whatsapp-uttar-pradesh-2508890-2024-03-01",
       "headline": "UP 12th board exam math, biology papers leaked on WhatsApp, complaint filedThe mathematics and biology question papers for the Uttar Pradesh class 12 board exam were allegedly leaked on a WhatsApp group."
     },
@@ -554,7 +554,7 @@
       "headline": "UP Police Constable recruitment exam cancelled days after paper leakThe Uttar Pradesh Police Constable recruitment exam held on February 17 and 18 was canceled due to a paper leak. The Chief Minister has announced a re-examination within the next six months."
     },
     {
-      "sentiment": "positive",
+      "sentiment": "negative",
       "url": "https://www.indiatoday.in/magazine/education/story/20240304-exam-scams-plugging-the-leaks-2506171-2024-02-23",
       "headline": "Exam scams | Plugging the leaksA new central legislation aims to end the old scourge of exam paper scams for govt jobs, with heavy punishment and penalties"
     },
